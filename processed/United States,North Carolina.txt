@@ -1,0 +1,857 @@
+
+
+Charlotte 874579
+
+Harrisburg 18967
+Landis 3690
+
+Kannapolis 53114
+
+Salisbury 35540
+
+Winston-Salem 249545
+
+Clemmons 21163
+Mocksville 5900
+
+Lewisville 13381
+
+Kernersville 26449
+
+Thomasville 27183
+Boonville 1185
+Yadkinville 2995
+Elkin 4122
+North Wilkesboro 4382
+Westport 5705
+
+Mooresville 50193
+
+Statesville 28419
+Taylorsville 2320
+
+Huntersville 61376
+Pineville 10602
+Unionville 6643
+Fairview (Union County) 3456
+Marvin 6358
+Maiden 3736
+Denver 2697
+McAdenville 890
+Enochville 2893
+China Grove 4434
+
+Mint Hill 26450
+
+Mount Holly 17703
+
+Belmont 15010
+Kings Mountain 11142
+Boiling Springs 4615
+Long View 5088
+
+Newton 13148
+Lincolnton 11091
+Rutherford College 1226
+Cherryville 6078
+Bessemer City 5428
+Cramerton 5296
+
+Gastonia 80411
+
+Morganton 17474
+Moravian Falls 1712
+Granite Falls 4965
+Sawmills 5020
+Hudson 3780
+
+Davidson 15106
+Midland 4684
+Stanfield 1585
+
+Stallings 16112
+Wingate 4055
+
+Weddington 13181
+Badin 2024
+Wadesboro 5008
+Cordova 1653
+Raeford 4559
+Aberdeen 8516
+
+Anderson Creek 13636
+Vander 1388
+Wendell 9793
+Brogden 2510
+Ayden 4977
+
+Clayton 26307
+Lillington 4735
+Fearrington Village 2557
+
+Morrisville 29630
+Rolesville 9475
+Nashville 5632
+Farmville 4461
+
+Greenville 87521
+Winterville 10462
+Maury 1404
+Mar-Mac 3184
+Selma 6317
+Pine Level 2046
+Pine Knoll Shores 1388
+Whispering Pines 4987
+
+Southern Pines 15545
+
+Pinehurst 17581
+
+Laurinburg 14978
+Spring Lake 11660
+Spout Springs 11040
+
+Holly Springs 41239
+
+Burlington 57303
+King 7197
+Yadkin College 377
+Tyro 3753
+Trinity 7006
+Siler City 7702
+Briar Chapel 5108
+
+Chapel Hill 61960
+
+Apex 58780
+
+Cary 174721
+
+Carrboro 21295
+Hillsborough 9660
+
+Greensboro 299035
+
+Asheboro 27156
+
+Mebane 17797
+Randleman 4595
+
+Albemarle 16432
+Archdale 11907
+Rural Hall 3351
+Castle Hayne 1243
+Mount Airy 10676
+Fairplains 2029
+
+Lenoir 18352
+Lake Norman of Iredell 11395
+Lowell 3654
+Ranlo 4511
+
+Indian Trail 39997
+Troutman 3698
+
+Cornelius 31412
+
+Concord 105240
+
+Matthews 29435
+Lake Park 3269
+
+Monroe 34562
+Biscoe 1848
+Misenheimer 650
+Seven Lakes 4900
+Forest Oaks 4209
+Oak Ridge 7474
+Midway 4742
+
+Reidsville 14583
+Wentworth 2662
+
+Eden 15421
+Wade 638
+Advance 1499
+Sylva 2578
+Welcome 4131
+Elon 11336
+Gibsonville 8920
+Swepsonville 2445
+
+Graham 17157
+
+Durham 283506
+Alamance 988
+Yanceyville 1937
+Glen Raven 3239
+Pleasant Garden 5000
+
+Sanford 30261
+Buies Creek 3253
+Governors Club 1969
+
+Fuquay-Varina 34152
+Angier 5265
+Smithfield 11292
+
+Goldsboro 33657
+Richlands 2287
+Brices Creek 3542
+James City 5291
+Morehead City 9556
+Surf City 3867
+Burgaw 3088
+Warsaw 2733
+Clinton 8383
+
+Kinston 19900
+Washington 9875
+Edenton 4460
+Oriental 880
+River Bend 2902
+
+New Bern 31291
+Newport 4364
+Beaufort 4464
+Porters Neck 7397
+Skippers Corner 2912
+Cape Carteret 2224
+Carolina Beach 6564
+Kure Beach 2191
+Fairmont 2191
+Southport 3971
+Myrtle Grove 11476
+
+Piney Green 14386
+
+Jacksonville 72723
+
+Wilson 47851
+Wilson's Mills 2534
+Archer Lodge 4797
+
+Henderson 15060
+South Henderson 988
+South Rosemary 2753
+Plymouth 3320
+Bethel 1373
+Tarboro 10721
+Murfreesboro 2619
+Creedmoor 4866
+Red Oak 3342
+
+Wake Forest 47601
+Oxford 8628
+Zebulon 6903
+
+Knightdale 19435
+
+Raleigh 467665
+
+Garner 31159
+Dunn 8446
+Mount Olive 4198
+Elroy 3755
+Erwin 4542
+
+Fayetteville 208501
+Whiteville 4766
+Kenansville 770
+
+Lumberton 19025
+Elizabethtown 3296
+Tabor City 3781
+Wrightsboro 5526
+Swansboro 3744
+Cedar Point 1764
+Emerald Isle 3847
+Fairfield Harbour 2767
+
+Havelock 16621
+
+Rocky Mount 54341
+Weldon 1444
+
+Roanoke Rapids 15229
+River Road 4048
+Windsor 3582
+Polkville 516
+Liberty 2655
+
+Elizabeth City 18631
+Kitty Hawk 3689
+Kill Devil Hills 7656
+Nags Head 3168
+Avon 832
+Hatteras 577
+Moyock 5154
+Harmony 543
+Watha 181
+Coats 2155
+Atkinson 296
+Gibson 449
+Jackson 430
+Simpson 390
+Butters 250
+Marshallberg 341
+Stovall 324
+Walstonburg 193
+Sunbury 276
+Harrellsville 85
+Bonnetsville 318
+Conetoe 198
+Ivanhoe 198
+Arapahoe 416
+Earl 198
+Sea Breeze 2245
+Indian Beach 223
+Peachland 390
+Northlakes 1543
+Northwest 703
+Ruth 347
+Deep Run 572
+Deercroft 414
+Sparta 1834
+St. Pauls 2045
+Laurel Hill 1121
+Columbia 610
+Ingold 416
+Blowing Rock 1376
+Lowgap 267
+Gatesville 267
+Dublin 267
+Linden 136
+Seven Devils 313
+Greenevers 567
+Waco 310
+Cofield 267
+Falcon 324
+Halifax 170
+Castalia 264
+Stonewall 214
+Eureka 214
+Beulaville 1116
+Balfour 1335
+Hays 1595
+Cherry Branch 1211
+Rocky Point 1476
+Spring Hope 1309
+Connelly Springs 1529
+Princeville 1254
+Robbins 1168
+Brunswick 973
+Bostic 355
+Rich Square 894
+Icard 2452
+Lucama 1036
+Fair Bluff 709
+Bladenboro 1648
+Denton 1494
+Bowdens 196
+Lowesville 3281
+Weaverville 4567
+Governors Village 1512
+Conover 8421
+Pittsboro 4537
+Locust 4537
+Fallston 627
+Whitakers 627
+White Lake 843
+Lake Santeetlah 38
+Sandyfield 430
+Glen Alpine 1529
+Gloucester 495
+Neuse Forest 2110
+Maxton 2110
+Clarkton 614
+St. Helena 417
+Emma 2174
+Fremont 1196
+Micro 458
+Iron Station 825
+Efland 852
+Tobaccoville 2578
+
+High Point 114059
+
+Lexington 19632
+Alexis 589
+Salvo 303
+Saluda 631
+Sandy Creek 248
+Black Creek 692
+Millers Creek 1931
+Millingport 588
+Mineral Springs 3159
+Spruce Pine 2194
+Spivey's Corner 576
+Haw River 2252
+Saxapahaw 1671
+Laurel Park 2250
+Lake Royale 3392
+Chimney Rock Village 140
+Flat Rock (Surry County) 1326
+Fountain 385
+Four Oaks 2158
+Oakboro 2128
+Hallsboro 382
+Winfall 555
+Forest Hills 303
+West Jefferson 1279
+Dobson 1462
+Hobucken 99
+Kenly 1491
+Morven 329
+Seven Springs 55
+Newton Grove 585
+Cove Creek 1068
+Walnut Creek 1084
+Barnardsville 559
+Wanchese 1522
+Chowan Beach 385
+Grifton 2448
+Littleton 559
+Peletier 769
+Atlantic 468
+Newland 715
+Grimesland 386
+Grantsboro 692
+Wagram 615
+La Grange 2595
+Polkton 2250
+Shannon 217
+Cashiers 657
+Calabash 2011
+Half Moon 7543
+Hassell 49
+Light Oak 697
+Hiddenite 507
+Mount Pleasant 1671
+Colerain 217
+Frisco 994
+Scotland Neck 1640
+Mayodan 2418
+Hillsdale 984
+High Shoals 595
+Hot Springs 520
+East Spencer 1567
+Spencer Mountain 0
+Graingers 229
+Bakersville 450
+Lilesville 395
+Linville 283
+Franklinville 1197
+Grover 802
+Grandfather 95
+Falkland 47
+Oak Island 8396
+Garland 595
+Harkers Island 1127
+Lasker 64
+Askewville 184
+Orrum 59
+Aurora 455
+Autryville 167
+Pinnacle 786
+Bennett 284
+Whittier 25
+Henrietta 395
+Everetts 150
+Leggett 37
+Riegelwood 545
+Delway 150
+Waves 172
+Mesic 144
+Cooleemee 940
+Vandemere 246
+Roberdel 246
+Dellview 6
+Caswell Beach 395
+Casar 305
+Salemburg 457
+Stantonsburg 762
+Red Cross 762
+Long Creek 277
+Momeyer 277
+Bowmore 76
+Como 67
+Macon 110
+Jackson Springs 154
+Love Valley 154
+Seagrove 235
+Kelford 203
+Engelhard 374
+Bath 245
+Smithtown 224
+Wrightsville Beach 2473
+Hightsville 710
+Jackson Heights 1071
+Fontana Dam 13
+Star 806
+Goldston 234
+Milton 155
+Farmington 291
+Springdale 1203
+Lawndale 570
+Staley 397
+Aquadale 348
+Salem 2356
+Topsail Beach 461
+Arrowhead Beach 640
+Cherokee 2195
+Cameron 244
+Gerton 290
+Rennert 275
+Swan Quarter 275
+Chinquapin 86
+Minnesott Beach 530
+Teachey 448
+Bald Head Island 268
+Candor 813
+Norman 100
+Boardman 166
+White Oak 346
+Broadway 1267
+Conway 752
+Hayesville 461
+Jamesville 424
+Pollocksville 268
+Proctorville 121
+Glenville 155
+Powellsville 189
+Harrells 160
+Kittrell 132
+Creswell 207
+Mooresboro 293
+Norwood 2367
+Brookford 442
+Woodland 557
+Aulander 763
+Trenton 238
+Hamilton 306
+Parkton 504
+Vann Crossroads 306
+Ossipee 536
+Tar Heel 90
+Sugar Mountain 371
+Rougemont 1001
+Moncure 780
+Alliance 733
+Bolivia 149
+Bolton 519
+Altamahaw 334
+Rockingham 9243
+Raynham 60
+Barker Heights 1249
+Silver City 643
+Chocowinity 722
+Cove City 378
+Sims 275
+Cliffside 530
+Hobgood 268
+Rodanthe 213
+Dana 3683
+Varnamtown 525
+Severn 191
+Sedalia 676
+Cedar Rock 301
+Bermuda Run 3120
+Bunn 327
+Danbury 189
+East Laurinburg 234
+Middleburg 101
+Bridgeton 349
+Winton 629
+Kingstown 656
+Lansing 126
+Cypress Landing 1257
+Speed 63
+Evergreen 336
+Centerville 149
+Vass 952
+Pink Hill 451
+North Topsail Beach 1005
+Saratoga 353
+Catawba 702
+Mulberry 2275
+Turkey 213
+Crossnore 143
+Rose Hill 1371
+Dillsboro 213
+Potters Hill 437
+Bryson City 1558
+Oak City 266
+Roxobel 187
+Bear Grass 89
+Dover 349
+South Weldon 550
+Richfield 582
+Fairfield 231
+Parmele 243
+Stokes 357
+Pinetown 147
+Whitsett 584
+White Plains 1025
+Stem 960
+Stedman 1277
+Manteo 1600
+Pumpkin Center 1855
+East Rockingham 3471
+Sunset Beach 4175
+Northchase 3842
+Bethania 344
+Bell Arthur 477
+Belvoir 315
+Fairview (Buncombe County) 2771
+Pilot Mountain 1440
+Youngsville 2016
+Banner Elk 1049
+Lumber Bridge 82
+Brandywine Bay 1153
+Bent Creek 1402
+Valle Crucis 436
+Ocean Isle Beach 867
+Horse Shoe 2430
+Madison 2129
+Davis 311
+Middlesex 912
+Claremont 1692
+Elrod 391
+Woodlawn 912
+Summerfield 10951
+Snow Hill 1481
+Mars Hill 2007
+Dallas 5927
+Spindale 4225
+Pinetops 1200
+Etowah 7642
+Cajah's Mountain 2722
+Roxboro 8134
+Ronda 438
+Old Hundred 218
+Marietta 111
+Marble 278
+Caroleen 560
+Raemon 197
+Seaboard 542
+Washington Park 392
+Elk Park 542
+Sharpsburg 1697
+Wallburg 3051
+Shallotte 4185
+Stokesdale 5924
+Cleveland 846
+Grandy 2776
+Franklin 4175
+Williamston 5248
+Swannanoa 5021
+Prospect 873
+Bogue 695
+Gulf 122
+Marshall 777
+Ashley Heights 301
+Calypso 327
+Clyde 1368
+Blue Clay Farms 168
+Pinebluff 1473
+Walnut Cove 1586
+Garysburg 904
+Louisburg 3064
+Burnsville 1614
+McLeansville 1113
+Stoneville 1308
+Gaston 1008
+Stony Point 1146
+Cape Colony 691
+Roper 485
+Troy 2850
+Tryon 1562
+Trent Woods 4074
+Belwood 857
+Hookerton 413
+Pembroke 2823
+Hildebran 1679
+Granite Quarry 2984
+Warrenton 851
+Buxton 1181
+Princeton 1315
+Red Springs 3087
+Kings Grant 8466
+Pantego 164
+Godwin 128
+Plain View 1923
+Faith 819
+Barker Ten Mile 937
+South Mills 362
+Southern Shores 3090
+Lattimore 406
+Montreat 901
+Rex 50
+Andrews 1667
+Carolina Meadows 727
+Mount Gilead 1171
+East Arcadia 418
+Eastover 3656
+Wallace 3413
+Walkertown 5692
+Hoffman 418
+Hollister 618
+Holly Ridge 4171
+Hemby Bridge 1614
+Valley Hill 2207
+Green Level 3152
+Broad Creek 1968
+Hoopers Creek 1074
+Marshville 2522
+Pikeville 712
+Robbinsville 597
+St. James 6529
+Camden 620
+Lake Waccamaw 1296
+Wakulla 112
+Boiling Spring Lakes 5943
+Milwaukee 157
+Macclesfield 413
+Coinjock 337
+Chadbourn 1574
+Bayview 298
+Murphy 1608
+Dortches 1082
+Fletcher 7987
+
+Hendersonville 15137
+Flat Rock (Henderson County) 3486
+East Flat Rock 5757
+West Canton 1265
+Canton 4422
+Franklinton 2456
+Norlina 920
+Stanley 3963
+St. Stephens 8852
+Toast 1423
+Jamestown 3668
+Forest City 7377
+Rutherfordton 3640
+Columbus 1060
+Lake Junaluska 3219
+Waynesville 10140
+
+Asheville 94589
+
+Shelby 21918
+Bethlehem 4491
+
+Hickory 43490
+Cricket 1966
+Jefferson 1622
+
+Boone 19092
+Nebo 1790
+Marion 7717
+West Marion 1226
+Valdese 4689
+Drexel 1760
+Black Mountain 8426
+Mountain Home 3490
+Mills River 7078
+Avery Creek 2241
+Royal Pines 4127
+Fruitland 2257
+Highlands 1072
+Rowland 885
+New London 607
+Southmont 1563
+Faison 784
+Bayboro 1161
+Manns Harbor 790
+Roseboro 1163
+Wilkesboro 3687
+Dobbins Heights 687
+Bayshore 3833
+Woodfin 7936
+Edneyville 2395
+Brevard 7744
+Maggie Valley 1687
+Cullowhee 7682
+Taylortown 634
+East Bend 634
+Holden Beach 921
+Elm City 1218
+Dudley 826
+Gorman 1104
+Cerro Gordo 131
+Gold Hill 372
+McFarlan 94
+McDonald 94
+Webster 372
+Dundarrach 34
+JAARS 471
+Foxfire 1288
+New Hope 1588
+Ellerbe 864
+Ellenboro 723
+Jonesville 2308
+Belville 2406
+Ocracoke 797
+Rosman 701
+
+Waxhaw 20534
+Wesley Chapel 8681
+Bailey 568
+Maysville 818
+Ansonville 440
+Robersonville 1269
+Patterson Springs 571
+Mamers 814
+Lake Lure 1365
+Lewiston Woodville 426
+Atlantic Beach 1364
+Pleasant Hill 831
+Carthage 2775
+Magnolia 831
+Scotch Meadows 568
+Foscoe 1457
+Delco 287
+Keener 540
+Spencer 3308
+Vanceboro 869
+Enfield 1865
+Old Fort 811
+Hertford 1934
+Belhaven 1410
+Benson 3967
+Sneads Ferry 2548
+Lake Norman of Catawba 8658
+Ramseur 1774
+Gamewell 3702
+Biltmore Forest 1409
+Hamlet 6025
+Beech Mountain 675
+Mountain View 3590
+Kelly 446
+Glenwood 501
+Navassa 1367
+Rhodhiss 997
+Ahoskie 4891
+Rockwell 2302
+Duck 742
+Germanton 790
+Butner 8397
+Bunnlevel 516
+
+Leland 22908
+Silver Lake 6500
+
+Wilmington 115451
+
+Murraysville 16582
+Ogden 8200
+Hampstead 7016
+Carolina Shores 4588
+
+Hope Mills 17808
+Rockfish 3383
+Ruffin 322
+Five Points 961
+Crouse 322

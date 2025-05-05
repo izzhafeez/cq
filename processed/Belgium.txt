@@ -1,0 +1,613 @@
+
+
+Brussels 1211035
+Beersel 23228
+Linkebeek 4823
+
+Dilbeek 39482
+Gaasbeek 300
+Asse 28985
+Meise 18497
+Wemmel 14406
+Merchtem 14660
+Zaventem 28188
+Bertem 9215
+Kortenberg 17774
+Huldenberg 9137
+La Hulpe 7415
+Genappe 14266
+Sint-Genesius-Rode 17990
+Sint-Pieters-Leeuw 30446
+Sint-Martens-Lennik 8818
+Machelen 12252
+
+Mechelen 77530
+Schelle 7675
+Willebroek 22808
+Lebbeke 17372
+Zele 20236
+Wichelen 11014
+Melle 10687
+Merelbeke 22047
+Destelbergen 16853
+Ledeberg 8454
+
+Evergem 31615
+Lovendegem 9272
+Maldegem 22092
+Zomergem 8158
+Dentergem 8038
+
+Waregem 35896
+Anzegem 13920
+Avelgem 9106
+Zwevegem 23358
+
+Wevelgem 30954
+Ledegem 9102
+Moorslede 10720
+Hooglede 9900
+Ardooie 9161
+Tielt 19299
+Wielsbeke 8828
+Oostrozebeke 7489
+Meulebeke 10948
+Harelbeke 25978
+
+Roeselare 56016
+Koekelare 8317
+Kortemark 11937
+Pittem 6589
+Izegem 26382
+Ichtegem 13582
+Zedelgem 21968
+Bredene 14862
+Oudenburg 8752
+Blankenberge 18230
+Zuienkerke 2736
+Wenduine 4003
+Cerfontaine 4500
+Zeebrugge 4500
+
+Bruges 116709
+Sint-Kruis 16000
+Sint-Laureins 6657
+Sint-Margriete 657
+Sint-Martens-Latem 8303
+Sint-Lievens-Houtem 9146
+Sint-Maria-Lierde 6449
+Galmaarden 7939
+
+Geraardsbergen 30807
+Pepingen 4261
+Drogenbos 4843
+
+Grimbergen 33561
+Wezembeek-Oppem 13245
+Zemst 21096
+Steenokkerzeel 10566
+Boortmeerbeek 11570
+Keerbergen 12363
+
+Heist-op-den-Berg 37873
+Berlaar 10370
+Vorselaar 7238
+Zoersel 20642
+Rijkevorsel 10606
+Beerse 16208
+
+Geel 34697
+Meerhout 9346
+Hulshout 9198
+Herenthout 8378
+Herentals 25912
+Herselt 13493
+Rotselaar 15007
+Aarschot 27656
+Haacht 13541
+Kraainem 12815
+Diegem 5001
+
+Vilvoorde 36955
+Boom 15810
+Bornem 19997
+Temse 26054
+Hemiksem 9504
+Edegem 21839
+Wommelgem 11917
+Wijnegem 8932
+Zwijndrecht 18249
+Boechout 12145
+
+Schoten 33622
+
+Brasschaat 37040
+Schilde 20373
+Lille 15466
+Oostmalle 7034
+Kapellen 26410
+Nijlen 20792
+Olen 11070
+
+Mol 32659
+Leopoldsburg 14149
+Bocholt 12346
+Neerpelt 16122
+Overpelt 13344
+Peer 15551
+Bree 14363
+Retie 10069
+Diest 22516
+Westerlo 22579
+Tessenderlo 16574
+Dessel 8707
+Vosselaar 10317
+Baarle-Hertog 2305
+Kasterlee 17765
+Oud-Turnhout 12354
+
+Turnhout 39654
+Kalmthout 17485
+Wuustwezel 18117
+
+Antwerpen 459805
+Lint 7982
+
+Lier 33272
+Sint-Katelijne-Waver 19487
+Begijnendijk 9178
+Grobbendonk 10724
+Zandhoven 12306
+Ranst 17405
+Rumst 14521
+Kruibeke 14815
+Borsbeek 10334
+
+Deurne 78747
+Puurs 15944
+Niel 8656
+
+Sint-Niklaas 69010
+Sint-Gillis-Waas 17658
+Waasmunster 10460
+Stekene 16989
+Moerbeke 5855
+Wachtebeke 6911
+Waarschoot 7762
+Laarne 11600
+Berlare 13853
+Denderleeuw 16969
+Lede 16813
+
+Dendermonde 43055
+Londerzeel 17274
+Kapelle-op-den-Bos 8859
+Bonheiden 14260
+Kampenhout 10784
+Herent 19218
+Tervuren 20623
+Waterloo 29778
+Braine-le-Chateau 9627
+
+Braine-l'Alleud 37512
+
+Halle 34479
+Nivelles 24149
+Pont-a-Celles 15909
+Courcelles 29473
+Chapelle-lez-Herlaimont 14353
+Morlanwelz-Mariemont 18233
+
+Mons 91277
+Lens 3902
+Enghien 11367
+Ecaussinnes-d'Enghien 9802
+Estinnes-au-Val 7573
+Erquelinnes 9396
+Quevy-le-Petit 7689
+Quaregnon 18491
+Quievrain 6560
+Saint-Ghislain 22500
+Colfontaine 19964
+Braine-le-Comte 20133
+Lessines 17687
+Ellezelles 5566
+Celles 5471
+Lendelede 5393
+Ruiselede 5129
+Nevele 11153
+Oosterzele 13151
+Herzele 16523
+Herne 6459
+Ternat 14569
+Haaltert 17129
+
+Aalst 77534
+Liedekerke 11980
+
+Ninove 34795
+Rebecq-Rognon 10049
+Soignies 24869
+Chievres 6045
+Hensies 6390
+Frameries 20598
+Merbes-le-Chateau 3999
+Lobbes 5467
+Florennes 10723
+Gerpinnes 11977
+Farciennes 11488
+Court-Saint-Etienne 9353
+Mont-Saint-Guibert 6557
+Walhain-Saint-Paul 5992
+Louvain-la-Neuve 29521
+Villers-la-Ville 9592
+Chastre-Villeroux-Blanmont 6243
+Gembloux 21676
+Chaumont-Gistoux 10943
+Beauvechain 6334
+Grez-Doiceau 12367
+Jodoigne 11930
+
+Tienen 31743
+Kortenaken 7374
+Bekkevoort 5714
+Lubbeek 13574
+Bierbeek 8994
+Holsbeek 9094
+Glabbeek 5070
+Geetbets 5813
+
+Beringen 40930
+
+Genk 63666
+Tongeren 29816
+Bassenge 8151
+Kortessem 8042
+
+Hasselt 69222
+Hoeselt 9265
+Terkoest 2350
+Nieuwerkerken 6466
+Alken 10933
+Halen 8548
+Wellen 6804
+Juprelle 8354
+Oupeye 23594
+Beyne-Heusay 11608
+Esneux 13497
+Anthisnes 4116
+Marchin 5063
+Amay 13307
+Flemalle-Haute 25144
+Fexhe-le-Haut-Clocher 3082
+Villers-le-Bouillet 6059
+Mons-lez-Liege 3595
+
+Liege 182597
+Blegny 12745
+Soumagne 15237
+Dison 13642
+Fleron 15994
+Trooz 7559
+Olne 3836
+Saint-Nicolas 22586
+
+Seraing 60737
+Engis 5737
+Crisnee 2587
+Heers 6689
+Herstappe 93
+
+Herstal 36503
+Dalhem 6391
+Herve 16544
+
+Verviers 52824
+Sint-Pieters-Voeren 4235
+Pepinster 9530
+Ans 27297
+Awans 8612
+Waremme 13737
+Remicourt 5050
+Donceel 2712
+Geer 2682
+Eghezee 14352
+Perwez 7340
+Bierwart 494
+Franc-Waret 315
+Marchovelette 798
+Lichtervelde 8169
+Havelange 4790
+Modave 3825
+Clavier 4092
+Ferrieres 4434
+Erezee 2930
+Rendeux 2320
+Lierneux 3332
+Theux 11587
+Eupen 18029
+Baelen 3928
+Welkenraedt 9006
+Raeren 9925
+Plombieres 9596
+La Calamine 10232
+Chaudfontaine 20960
+Sprimont 12945
+Comblain-au-Pont 5308
+Stoumont 2970
+Trois-Ponts 2533
+Stavelot 6646
+Malmedy 11514
+Vielsalm 7291
+Saint-Vith 9135
+Ambleve 5221
+Limbourg 5612
+Waimes 6661
+Aywaille 10636
+Manhay 3128
+La Roche-en-Ardenne 4200
+Tenneville 2510
+Marche-en-Famenne 16856
+Rochefort 11978
+Doische 2739
+Yvoir 8169
+Hamois 6662
+
+Namur 106284
+Ramillies 5749
+Forville 1374
+Noville-les-Bois 1426
+Tillier 193
+Cortil-Wodon 930
+Pontillas 591
+Profondeville 11401
+Fosses-la-Ville 9062
+Assesse 6279
+Wasseiges 2471
+Wanze 12918
+Andenne 24055
+Burdinne 2799
+Hemptinne 503
+Heron 4305
+Ohey 4324
+Ciney 14830
+Wellin 2937
+Tellin 2353
+Libin 4609
+Bievre 3207
+Redu 400
+Gedinne 4416
+Daverdisse 1299
+Paliseul 5037
+Leglise 3865
+Saint-Leger 3092
+Sainte-Ode 2310
+Saint-Hubert 5538
+Bertrix 8063
+Meix-devant-Virton 2637
+Virton 11259
+Harnoncourt 280
+Arlon 26179
+Bouillon 5347
+Florenville 5464
+Etalle 5228
+Habay-la-Vieille 7704
+Fauvillers 1952
+Martelange 1440
+Aubange 14932
+Bastogne 14395
+Bertogne 2852
+Nassogne 5081
+Somme-Leuze 4532
+Durbuy 10251
+Huy 19973
+Tinlot 2236
+Hotton 4969
+Houyet 4505
+Onhaye 3014
+Anhee 7125
+Dinant 12875
+Hastiere-Lavaux 5147
+Maredsous 200
+Fleurus 22080
+Floreffe 7480
+Sombreffe 7452
+Brunehault 7592
+La Bruyere 8194
+Aiseau 10906
+
+Chatelet 35238
+
+Charleroi 200132
+Anderlues 11597
+
+Binche 32030
+Jurbise 9483
+Dour 16861
+Boussu 20058
+Bernissart 11588
+Frasnes-lez-Buissenal 10936
+Estaimpuis 9340
+Kruishoutem 8179
+Zulte 14670
+Aalter 18802
+Ingelmunster 10603
+Wingene 12887
+Beernem 14512
+Knesselare 7889
+Assenede 13495
+Zelzate 11901
+Nazareth 10890
+Oudenaarde 27935
+Zingem 6588
+Zottegem 24434
+Wetteren 22930
+
+Lokeren 37567
+
+Beveren 45179
+
+Hoboken 34443
+Buggenhout 13510
+Sint-Amands 7653
+Hamme 22891
+Opwijk 12045
+Bever 1932
+Gooik 8957
+Silly 7887
+Beloeil 13405
+Flobecq 3142
+Pecq 5301
+Peruwelz 16647
+Brugelette 3358
+Ittre 6014
+Ottignies 9557
+Rixensart 21616
+Hoeilaart 10272
+Overijse 23486
+Oud-Heverlee 10533
+
+Leuven 92892
+Boutersem 7702
+Zoutleeuw 7897
+Zonhoven 19922
+Houthalen 30050
+Zutendaal 6962
+Lanaken 24771
+
+Maasmechelen 36251
+As 7250
+Maaseik 23684
+Vise 17054
+Riemst 15809
+Sint-Joris 2400
+
+Sint-Truiden 37859
+Landen 14458
+Hoegaarden 6110
+Incourt 4395
+Lincent 2884
+Hannut 14129
+Braives 5672
+Faimes 3349
+Verlaine 3600
+Berloz 2770
+Gingelom 7930
+Oreye 3373
+Borgloon 9955
+Diepenbeek 17699
+Opglabbeek 9452
+Helchteren 30050
+
+Heusden 31017
+Lummen 13689
+Herk-de-Stad 11566
+Balen 19978
+
+Lommel 31993
+Arendonk 12247
+Ravels 13560
+Merksplas 7963
+Hoogstraten 18524
+Brecht 25908
+Stabroek 17294
+Essen 16754
+Mortsel 24525
+Aartselaar 14193
+Kontich 20290
+Duffel 16011
+Tremelo 13721
+Putte 15276
+Attert 4491
+Neufchateau 6416
+Beauraing 8242
+Philippeville 8051
+Froidchapelle 3579
+Chimay 9720
+Manage 22196
+Seneffe 11025
+Basse Lasne 13861
+
+Wavre 32112
+Gavere 11888
+Perre 3000
+De Pinte 10020
+Deinze 29815
+
+Ghent 231493
+Lochristi 19696
+Eeklo 19116
+Kaprijke 6114
+Oostkamp 21489
+Damme 10924
+
+Knokke-Heist 33781
+Gistel 11084
+
+Ostend 69011
+Oostduinkerke 8534
+Middelkerke 17789
+Diksmuide 15515
+Koksijde 21027
+Messines 975
+
+Menen 31916
+Rumes 4918
+
+Tournai 67721
+Antoing 7507
+Ronse 24204
+
+Mouscron 52069
+
+Kortrijk 73879
+Deerlijk 11292
+Kuurne 12638
+Wervik 17340
+Zonnebeke 11581
+
+Ypres 35089
+Poperinge 19537
+Alveringem 4910
+Veurne 11983
+De Panne 9799
+De Haan 11766
+Jabbeke 13488
+Torhout 18933
+Houthulst 8951
+Staden 10786
+Nieuwpoort 10845
+Momignies 5183
+Couvin 13518
+Walcourt 17501
+Beaumont 6645
+Thuin 14682
+
+La Louviere 76668
+Roeulx 7968
+Hove 7968
+Tubize 21859
+Houffalize 4614
+Ouffet 2477
+Hamoir 3500
+Nandrin 5480
+Bilzen 29622
+Lontzen 4862
+Aubel 4119
+Jalhay 7688
+Spa 10756
+Butgenbach 5516
+Bullange 5340
+Gouvy 4706
+Vaux-sur-Sure 4581
+Chiny 4897
+Tintigny 3538
+Rouvroy 1946
+Musson 4225
+Messancy 7144
+Herbeumont 1612
+Ath 26681
+Mettet 12014
+Gesves 6150
+Hingeon 844
+Kinrooi 11946

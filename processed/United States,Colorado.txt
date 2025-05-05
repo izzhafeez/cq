@@ -1,0 +1,531 @@
+
+
+Denver 715522
+Derby 8407
+
+Welby 15553
+
+Sherrelwood 19228
+Shaw Heights 5185
+Federal Heights 14382
+
+Boulder 108250
+Frederick 14513
+
+Erie 30038
+
+Broomfield 74112
+
+Commerce City 62418
+Twin Lakes (Adams County) 8226
+
+Arvada 124402
+Glendale 4613
+
+Englewood 33659
+
+Greenwood Village 15691
+Acres Green 2922
+Lone Tree 14253
+Stonegate 9072
+
+Littleton 45652
+
+Castle Rock 73158
+Black Forest 15097
+
+Fort Carson 17693
+
+Canon City 17141
+
+Security-Widefield 38639
+
+Golden 20399
+
+Centennial 108418
+
+Northglenn 38131
+
+Thornton 141867
+
+Brighton 40083
+Fort Lupton 7955
+
+Firestone 16381
+
+Johnstown 17303
+
+Evans 22165
+Severance 7683
+
+Loveland 76378
+Berthoud 10332
+Laporte 2409
+
+Fort Collins 169810
+
+Westminster 116317
+Berkley 12536
+
+Wheat Ridge 32398
+
+Dakota Ridge 33892
+
+Ken Caryl 33811
+Cherry Creek 11488
+The Pinery 11311
+
+Columbine 25229
+
+Highlands Ranch 103444
+
+Parker 58512
+
+Lakewood 155984
+Holly Hills 2683
+
+Louisville 21226
+Lochbuie 8088
+
+Longmont 98885
+Dacono 6297
+Niwot 4306
+Gunbarrel 9554
+
+Lafayette 30411
+Superior 13094
+
+Four Square Mile 22872
+
+Aurora 386261
+Strasburg 3307
+Julesburg 1307
+Williamsburg 731
+Rollinsville 194
+Starkville 62
+Pine Valley 363
+Crowley 166
+Romeo 302
+Merino 281
+Silver Plume 207
+Mead 4781
+Meeker 2374
+Comanche Creek 442
+Lake City 432
+Kit Carson 255
+Downieville-Lawson-Dumont 527
+Antonito 647
+Victor 379
+Ellicott 1248
+Bennett 2862
+Nunn 504
+Green Mountain Falls 646
+Seven Hills 129
+Garden City 254
+Gardner 106
+Crestone 141
+Mount Crested Butte 941
+Grand View Estates 689
+Southern Ute 158
+Lyons 2209
+Weldona 113
+Segundo 100
+Aguilar 456
+La Jara 730
+Alamosa East 1453
+Basalt 3984
+Wiggins 1401
+St. Ann Highlands 325
+Blanca 322
+Springfield 1325
+Phippsburg 234
+Stepping Stone 2780
+Estes Park 5904
+Roxborough Park 9416
+Sugarloaf 274
+Louviers 293
+McClave 129
+Lazear 168
+Wellington 11047
+Haswell 71
+Park Center 2953
+South Fork 510
+North Washington 733
+North La Junta 482
+Norwood 535
+Dinosaur 243
+Divide 143
+Brookside 236
+Goldfield 63
+Coaldale 343
+Sedalia 177
+Idledale 244
+Cedaredge 2279
+San Luis 598
+Woody Creek 290
+Kim 63
+Kirk 61
+Empire 345
+Cascade-Chipita Park 1628
+La Junta Gardens 123
+Padroni 75
+Wiley 437
+Eckley 232
+Brick Center 105
+Chacra 331
+Crisman 179
+Elbert 188
+Milliken 8386
+Campo 103
+No Name 117
+Colona 36
+Jansen 101
+Stratton 656
+Eaton 5802
+Hooper 81
+Peetz 213
+Cope 53
+Glendale (Boulder County) 64
+Upper Witter Gulch 380
+Cheyenne Wells 758
+Weston 53
+Silverton 622
+Redstone 127
+Boone 305
+Bonanza Mountain Estates 127
+Carbonate 0
+Catherine 235
+Amherst 47
+Vilas 98
+New Castle 4923
+Battlement Mesa 5438
+Orchard Mesa 6688
+Orchard City 3142
+Edwards 11246
+Eagle 7511
+Snowmass Village 3096
+Buena Vista 2855
+
+Pueblo West 33086
+
+Pueblo 111876
+
+Colorado Springs 478961
+Lincoln Park 3934
+
+Fountain 29802
+La Junta 7322
+
+Cimarron Hills 19311
+Gleneagle 6649
+Monument 10399
+Woodmoor 9536
+Evergreen 9307
+
+Greeley 108795
+
+Windsor 32716
+Timnath 6487
+Rocky Ford 3876
+Crawford 403
+Cheraw 237
+Bark Ranch 202
+Grand Lake 410
+Brandon 21
+Dotsero 1172
+Seibert 172
+Sedgwick 172
+Redvale 172
+Piedra 31
+Stonewall Gap 66
+Saddle Ridge 66
+Rock Creek Park 68
+Westcreek 120
+Brook Forest 622
+Fulford 0
+Marvel 68
+Maybell 76
+Raymer 110
+Smeltertown 88
+Towner 18
+Leyner 40
+Alpine 169
+Idalia 97
+Peoria 153
+Arriba 202
+Orchard 76
+Calhan 762
+Black Hawk 127
+Cokedale 127
+Moffat 108
+Valmont 64
+Fruitvale 8271
+Fruita 13395
+Delta 9035
+El Jebel 4130
+Carbondale 6434
+Rifle 10437
+
+Clifton 20413
+
+Grand Junction 65560
+
+Durango 19071
+
+Montrose 20291
+Alamosa 9806
+Center 1929
+Walsenburg 3049
+Trinidad 8329
+Trail Side 157
+Simla 601
+La Salle 2359
+Dove Valley 5640
+Leadville 2633
+Placerville 362
+Pierce 1097
+Florence 3822
+Florissant 128
+Loma 1314
+Kersey 1495
+Meridian 4786
+Ridgway 1183
+Kittredge 1308
+Pritchett 112
+Naturita 485
+Manitou Springs 4858
+Sterling Ranch 1789
+Aristocrat Ranchettes 1715
+Parachute 1390
+Saguache 539
+Sanford 879
+Grover 157
+Rockvale 511
+Otis 511
+Morgan Heights 298
+Silver Cliff 609
+Todd Creek 5028
+Oak Creek 889
+Gilcrest 1029
+Lazy Acres 957
+Dolores 885
+Silt 3536
+Sierra Ridge 3490
+Byers 1322
+Flagler 567
+Beulah Valley 518
+Blue Valley 173
+Marble 133
+Maysville 173
+Echo Hills 313
+Loghill Village 617
+Pine Brook Hill 975
+Crook 133
+Creede 257
+Red Cliff 257
+Coal Creek (Fremont County) 364
+Twin Lakes (Lake County) 204
+Bethune 183
+Sunshine 198
+Hot Sulphur Springs 687
+Limon 2043
+Keenesburg 1250
+Blende 788
+Portland 136
+Manzanola 341
+Mancos 1196
+Ramah 111
+Alma 296
+Avondale 594
+Vineland 269
+Castle Pines 4327
+West Pleasant View 4327
+Westcliffe 435
+Aetna Estates 1496
+Joes 82
+Mulford 259
+Capulin 134
+Briggsdale 134
+Collbran 369
+Gold Hill 218
+Ophir 197
+Olney Springs 315
+Kremmling 1509
+Burlington 3172
+Peyton 214
+Guffey 111
+Sawpit 38
+Sugar City 259
+Hartsel 38
+Vernon 38
+Blue River 877
+Paragon Estates 975
+Snyder 136
+Foxfield 754
+Morrison 396
+Gerrard 264
+Hotchkiss 875
+Frisco 2913
+Lewis 257
+East Pleasant View 333
+Eads 672
+St. Mary's 333
+Yampa 399
+Franktown 409
+Towaoc 1120
+Howard 852
+Georgetown 1118
+Atwood 138
+Ignacio 852
+Copper Mountain 650
+Yuma 3456
+Granada 445
+Pagosa Springs 1571
+Brush 5339
+Minturn 1033
+Haxtun 981
+Stratmoor 6518
+Central City 779
+Salida 5666
+Manassa 947
+Keystone 1369
+Ovid 271
+Telluride 2607
+Idaho Springs 1782
+Aspen 7004
+Cherry Hills Village 6442
+Holly 837
+Aspen Park 810
+Paonia 1447
+Cripple Creek 1155
+Coal Creek (Jefferson County) 2494
+Fort Morgan 11597
+Del Norte 1458
+Swink 604
+Mountain View 541
+Fairmount 9324
+Las Animas 2300
+Fraser 1400
+La Veta 862
+Cotopaxi 44
+Dove Creek 635
+Colorado City 2237
+Leadville North 1892
+Platteville 2955
+Crested Butte 1639
+Red Feather Lakes 426
+Lakeside 16
+Palmer Lake 2636
+Allenspark 568
+Woodland Park 7920
+Redlands 9061
+Log Lane Village 913
+Columbine Valley 1502
+Cortez 8766
+Rico 288
+Granby 2079
+Wray 2358
+Arapahoe 102
+Perry Park 1932
+Ponderosa Park 3334
+Palisade 2565
+Bow Mar 853
+Arboles 308
+Holyoke 2346
+Steamboat Springs 13224
+Glenwood Springs 9963
+Genesee 3610
+Pitkin 72
+Walsh 543
+Walden 606
+Valdez 46
+Bayfield 2838
+Norrie 7
+Hoehne 80
+Conejos 46
+Blue Sky 65
+Laird 46
+Ward 128
+Parshall 42
+Hasty 182
+Hayden 1941
+Hugo 787
+Fowler 1253
+Midland 182
+Bonanza 17
+Vona 95
+Branson 57
+Rangely 2299
+Applewood 7833
+Wolcott 20
+Larkspur 206
+Tall Timber 185
+Rye 206
+Ordway 1066
+Indian Hills 1474
+Upper Bear Creek 984
+Cathedral 15
+Craig 9060
+Vail 4835
+Silverthorne 4402
+Breckenridge 5078
+Penrose 3685
+Inverness 2226
+Ault 1887
+Elizabeth 1675
+Nathrop 288
+Edgewater 5005
+Watkins 682
+Matheson 79
+Hudson 1651
+Dillon 1064
+Heeney 74
+Iliff 246
+Montezuma 74
+Gypsum 8040
+McCoy 30
+Fairplay 724
+Mountain Meadows 237
+Jackson Lake 131
+Lynn 11
+Sterling 13735
+Nederland 1471
+Fort Garland 464
+Hartman 56
+Sheridan 6105
+Sheridan Lake 55
+San Acacio 56
+Akron 1757
+Hidden Lake 24
+Johnson Village 299
+Mountain Village 1264
+Jamestown 256
+Gunnison 6560
+Somerset 55
+Nucla 585
+Floyd Hill 1048
+Hillrose 312
+Tabernash 401
+Altona 512
+Salt Creek 507
+Cattle Creek 662
+Eldorado Springs 559
+Eldora 140
+El Moro 216
+Paoli 51
+Fleming 428
+Deer Trail 1068
+Winter Park 1033
+Castle Pines North 11036
+Monte Vista 4247
+Olathe 2019
+Avon 6072
+Lamar 7687
+Meridian Village 3202
+De Beque 493
+Two Buttes 34
+Genoa 153
+Ouray 898
+Kiowa 725
+Poncha Springs 925
+Garfield 27

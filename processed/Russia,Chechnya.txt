@@ -1,0 +1,360 @@
+
+
+Groznyy 271573
+Vinogradnoe 3489
+Pravoberezhnoe 2269
+Levoberezhnoe 2353
+Novoterskoe 3764
+Ul'yanovskoe 1087
+Kalinovskaya 7988
+Savel'evskaya 2263
+Mekenskaya 3860
+Meken-Yurt 2434
+Ken'-Yurt 1832
+Zebir-Yurt 758
+Podgornoe 1693
+
+Nadterechnoe 8475
+Verkhniy Naur 5441
+
+Naurskaya 9050
+Ishcherskaya 4808
+Chernokozovo 3085
+Alpatovo 4861
+Krechetovo 98
+Svobodnoe 244
+Novoe Solkushino 2257
+Sadovoe 3206
+Raduzhnoe 2462
+Dolinskiy 1459
+Pobedinskoe 3540
+Proletarskoe 1845
+Oktyabr'skoe 2971
+Komsomol'skoe 6945
+Goryacheistochnenskoe 1617
+
+Tolstoy-Yurt 8097
+Tsentora-Yurt 2770
+Berkat-Yurt 3109
+
+Mesker-Yurt 10368
+Serzhen'-Yurt 5615
+Kuren'-Benoy 413
+Srednie Kurchali 92
+Verkhnie Kurchali 218
+Gordali 586
+Bas-Gordali 155
+Enikali 1130
+Guni 849
+Niki-Khita 657
+Regita 783
+Achireshki 252
+Khashki-Mokhk 40
+Yalkhoy-Mokhk 4452
+Marzoy-Mokhk 576
+Akhkinchu-Borzoy 1889
+Gansolchu 225
+Balansu 1361
+Galayty 1895
+Meskety 3447
+Sogunty 498
+Rogun-Kazha 367
+Nozhay-Yurt 6744
+Zamay-Yurt 1593
+Ishkhoy-Yurt 3800
+Bel'toy-Yurt 1872
+Kadi-Yurt 4355
+Gordali-Yurt 1703
+Engel'-Yurt 4458
+Gerzel'-Aul 3887
+Koshkel'dy 4823
+Verkhniy Noybera 4099
+Nizhniy Noybera 6780
+Shuani 2351
+Khangish-Yurt 858
+Azamat-Yurt 1500
+Ilaskhan-Yurt 5041
+
+Tsotsin-Yurt 18306
+
+Bachi-Yurt 16485
+Tsentoroy 7115
+
+Alleroy 11132
+
+Kurchaloy 22723
+Dzhalka 7415
+
+Shali 47708
+
+Germenchuk 10736
+Novyy Engenoy 3021
+
+Gudermes 45631
+Braguny 3304
+
+Argun 29525
+Primykanie 313
+Prigorodnoe 4884
+
+Gikalo 9426
+
+Alkhan-Kala 11415
+
+Alkhan-Yurt 9783
+Zakan-Yurt 5835
+Shaami-Yurt 4018
+
+Katar-Yurt 12806
+Valerik 8023
+Michurina 335
+Goy-Chu 5078
+Martan-Chu 5983
+Tangi-Chu 2643
+
+Urus-Martan 49070
+Krasnopartizanskiy 694
+Kulary 5358
+Shalazhi 4998
+Novyy Sharoy 1924
+Staryy Achkhoy 940
+
+Achkhoy-Martan 20172
+Bamut 6025
+
+Samashki 11275
+Gunyushki 149
+Kerlayurt 1506
+Bartkhoy 299
+Mayskiy 176
+Goragorskiy 4668
+Kalaus 936
+
+Znamenskoe 10286
+Gvardeyskoe 7471
+Bratskoe 5000
+
+Sernovodskoe 10805
+
+Assinovskaya 10184
+Davydenko 1702
+Khambi-Irze 3297
+
+Gekhi 11744
+Rubezhnoe 2643
+Duba-Yurt 6315
+Chiri-Yurt 5734
+
+Starye Atagi 10884
+
+Novye Atagi 8728
+Agishty 1227
+Makhkety 5028
+Lakha-Varandy 947
+Bol'shie Varandy 470
+Vashindaroy 746
+Bugaroy 303
+Gorgachi 142
+Vysokogornoe 161
+Muskali 37
+Musolt-Aul 220
+Oraz-Aul 303
+Borzoy 4063
+Zony 352
+Dachu-Borzoy 1791
+Chishki 1186
+Pionerskoe 304
+Goyskoe 1943
+
+Goyty 16177
+Alkhazurovo 4600
+Kharsenoy 160
+Nikhaloy 443
+Yukerch-Keloy 165
+Urdyukhoy 343
+Vyardy 512
+Sharo-Argun 303
+Shatoy 2953
+Pamyatoy 192
+Ryadukhoy 269
+Gush-Kert 501
+Guchum-Kale 221
+Ushkaloy 361
+Itum-Kale 1068
+Tuskharoy 334
+Khildekharoy 590
+Motskaroy 86
+Shyunda 18
+Veduchi 384
+Tazbichi 739
+Zumsoy 222
+Tumsoy 385
+Bekum-Kale 214
+Khal-Kiloy 468
+Nokhchi-Keloy 404
+Kenkhi 1552
+Khimoy 309
+Sharoy 311
+Khakmadoy 177
+Khulandoy 57
+Devlatbi-Khutor 200
+Buti 57
+Kesaloy 52
+Tsesi 111
+Dekhesty 161
+Syuzhi 258
+Ulus-Kert 645
+Sel'mentauzen 909
+Tevzana 3378
+Khatuni 2626
+Berkhatoy 971
+Verkhnee Tsa-Vedeno 556
+Dyshne-Vedeno 4834
+Ersenoy 420
+Engenoy 1137
+Gendergen 689
+Benoy 1216
+Koren-Benoy 368
+Benoy-Vedeno 2391
+Lem-Korts 188
+Alkhan-Khutor 898
+Maks-Khutor 48
+Turty-Khutor 376
+Khidi-Khutor 1093
+Bel'ty 943
+Dzhigurty 1967
+Dzhaglargi 511
+
+Mayrtup 11838
+
+Avtury 14988
+
+Geldagan 12350
+Belgatoy 4551
+
+Chechen-Aul 8233
+Petropavlovskaya 4303
+Il'inskaya 1788
+Staroshchedrinskaya 2173
+Novoshchedrinskaya 2044
+Shelkozavodskaya 1238
+
+Shelkovskaya 11112
+Khar'kovskoe 1502
+Voskresenskoe 915
+Grebenskaya 6227
+Starogladovskaya 2412
+Kargalinskaya 4181
+Dubovskaya 2039
+Borozdinovskaya 551
+Sary-Su 1699
+Satti 153
+Isay-Yurt 112
+Dal'nee 182
+Khochi-Ara 323
+Paraboch 473
+
+Oyskhara 9489
+Melchu Khe 2859
+Darbankhi 2101
+Chervlenno-Uzlovaya 1244
+
+Chervlennaya 9545
+Nikolaevskaya 1867
+Pervomayskaya 5245
+Terskoe 1341
+Frunzenskoe 1415
+Burunskoe 907
+Selivankin 232
+Postnyy 396
+Obil'nyy 113
+Gazgorodok 1499
+Kozlov 30
+Ozhi-Yurt 275
+Osi-Yurt 358
+Dargo 2160
+Zandak-Ara 706
+Zandak 5006
+Dattykh 911
+Mekhkishty 181
+Ayti-Mokhk 1674
+Betti-Mokhk 955
+Shovkhal-Berdy 840
+Beshil'-Irzu 261
+Church-Irzu 1061
+Chechchel'-Yukh 284
+Simsir 1701
+Bulgat-Irzu 1059
+Korneev 284
+Baytarki 1660
+Tatay-Khutor 537
+Gilyany 1198
+Sayasan 1145
+Tsa-Vedeno 1285
+Kezenoy 9
+Gezakh 9
+Gekhi-Chu 2342
+Roshni-Chu 5195
+Verkhniy Bara 9
+Kharkaroy 11
+Malyy Kharsenoy 27
+Malye-Shuani 267
+Ishoy-Khutor 205
+Khoy 49
+Kulinkhoy 13
+Klinkov 137
+Kurdyukovskaya 2164
+Nagornoe 1081
+Peschanoe 20
+Yubileynoe 796
+Kapustino 494
+Pervomayskoe 734
+Mayorskiy 63
+Arsoy 1
+Ikharoy 8
+Rigakhoy 5
+Ari-Aul 1
+Bauloy 34
+Druzhba 130
+Runnoe 5
+Zelenoe 4
+Sovragi 105
+Kharachoy 762
+Gukhoy 685
+Tazen-Kala 685
+Kokadoy 420
+Neftyanka 300
+Eshilkhatoy 406
+Elistanzhi 2570
+Gurzhi-Mokhk 826
+Sherdi-Mokhk 54
+Aslanbek-Sheripovo 1097
+Novyy Zamay-Yurt 137
+Yarysh-Mardy 49
+Shikaroy 129
+Mesedoy 227
+Semikolodtsev 13
+Naberezhnyy 78
+Gezinchu 73
+Pachu 281
+Vedeno 3186
+Komarovo 1284
+Kobi 1805
+Karshyga-Aul 553
+Mirnyy 226
+Krasnyy Voskhod 206
+Krasnostepnovskoe 168
+Dengi-Yurt 475
+Bil'ty 305
+Duts-Khutor 388
+Agishbatoy 686
+Beno-Yurt 7089
+Yandi 2488
+Sterch-Kerch 580
+Nizhnie Kurchali 130
+Suvorovskiy 268
+Kiri 200
+Chayry 139
+Day 536
+Makazhoy 373
+Mineral'nyy 247

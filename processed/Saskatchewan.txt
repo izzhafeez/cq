@@ -1,0 +1,463 @@
+
+
+Saskatoon 246376
+Colonsay 451
+Aylsham 65
+Meacham 99
+
+Dalmeny 1826
+Vonda 384
+Dundurn 611
+Endeavour 65
+Glenside 76
+Lake Lenore 284
+Middle Lake 241
+Drake 197
+Wakaw 922
+Duck Lake 569
+Blaine Lake 499
+Laird 267
+Aberdeen 622
+Borden 287
+Hafford 407
+Richard 20
+
+Langham 1496
+Tramping Lake 60
+Bracken 20
+Shamrock 20
+Paddockwood 154
+Wood Mountain 20
+Maymont 138
+Osage 20
+Ruddell 20
+Qu'Appelle 639
+Perdue 334
+Conquest 160
+Vanscoy 462
+
+Martensville 9645
+Marcelin 153
+Kisbey 153
+Bethune 399
+
+Rosthern 1688
+Hepburn 688
+Waldheim 1213
+
+Warman 11020
+Osler 1237
+Delisle 1038
+Harris 193
+Wiseton 79
+
+Rosetown 2451
+Brock 142
+Rocanville 863
+Fox Valley 249
+Burstall 378
+
+Kindersley 4571
+Dodsland 215
+Luseland 623
+Landis 152
+Radisson 514
+Smiley 60
+Kinley 60
+Beatty 60
+
+North Battleford 14315
+
+Battleford 4429
+Prelate 154
+Denholm 88
+Glen Ewen 154
+Alvena 60
+Speers 60
+Leask 399
+Meath Park 175
+Parkside 121
+Debden 337
+Elbow 337
+Shellbrook 1444
+Shell Lake 175
+Spiritwood 786
+Canwood 332
+Bengough 332
+Togo 86
+Smeaton 182
+Minton 55
+Quinton 101
+Kelvington 834
+Fosston 45
+Success 45
+Findlater 45
+Lintlaw 172
+Chamberlain 90
+Buchanan 218
+
+Canora 2024
+Norquay 434
+Invermay 273
+Drinkwater 70
+Springside 502
+Bangor 38
+Langenburg 1165
+Churchbridge 896
+Gerald 136
+Spy Hill 168
+
+Melville 4562
+
+Fort Qu'Appelle 2027
+Kelliher 217
+Lipton 345
+Lestock 95
+Balcarres 587
+Carmichael 58
+Punnichy 213
+Ituna 701
+Francis 217
+Elfros 90
+Keeler 15
+Leroy 450
+Waldron 15
+Ernfold 15
+Calder 90
+Wadena 1288
+Stenen 90
+Jansen 96
+Lanigan 1377
+Semans 196
+Margo 83
+Strasbourg 800
+Holdfast 247
+Tugaske 75
+Tuxford 113
+Creelman 113
+Craik 392
+Craven 214
+
+Lumsden 1824
+Edenwold 233
+Kennedy 216
+Abernethy 204
+Lemberg 313
+Leross 46
+Cupar 564
+Markinch 58
+Southey 804
+Disley 67
+Dilke 98
+Silton 71
+Stoughton 649
+Milestone 699
+Lang 189
+Pangman 232
+Vibank 385
+Mankota 205
+
+Pilot Butte 2137
+
+White City 3099
+Grand Coulee 649
+Rouleau 540
+Avonlea 393
+Bulyea 113
+Eyebrow 119
+Halbrite 119
+Imperial 360
+Simpson 127
+Davidson 1048
+Kendal 83
+Dafoe 15
+Foam Lake 1141
+Sheho 105
+Theodore 323
+Rhein 170
+
+Esterhazy 2502
+Yarbo 57
+Carnduff 1099
+Dubuc 61
+Windthorst 211
+Stockholm 352
+Wolseley 854
+Pense 587
+Sedley 358
+
+Weyburn 10870
+Yellow Grass 478
+Radville 807
+Fillmore 311
+Montmartre 490
+Odessa 205
+
+Indian Head 1910
+McLean 405
+Earl Grey 246
+Regina Beach 1145
+Buena Vista 612
+
+Regina 215106
+Lebret 216
+Neudorf 263
+Grayson 211
+Grenfell 1099
+Wapella 326
+Heward 44
+Broadview 552
+Saltcoats 484
+
+Kamsack 1898
+Hyas 70
+Hazenmore 70
+Preeceville 1125
+Hodgeville 172
+Archerwill 166
+Bradwell 166
+Pelly 285
+Killaly 65
+Birch Hills 1033
+Albertville 86
+
+Prince Albert 35926
+St. Louis 415
+Kinistino 654
+
+Tisdale 3235
+Ridgedale 55
+Bjorkdale 201
+Zenon Park 194
+
+Nipawin 4401
+Porcupine Plain 862
+Aylesbury 40
+Weekes 40
+Brownlee 55
+Codette 198
+Forget 55
+
+Melfort 5992
+Bladworth 65
+Cudworth 814
+Bruno 611
+Viscount 185
+
+Watrous 1900
+Ebenezer 185
+Muenster 430
+
+Humboldt 5869
+Spalding 244
+Englefeld 285
+Young 244
+Marengo 166
+Goodeve 40
+Whitewood 862
+Strongfield 40
+Arborfield 312
+Weldon 197
+Webb 50
+Weirdale 50
+Love 50
+Govan 194
+Carrot River 973
+White Fox 355
+Choiceland 359
+Naicam 661
+Pleasantdale 76
+St. Brieux 667
+St. Gregor 97
+Annaheim 210
+Marquis 97
+Valparaiso 15
+Watson 697
+Krydor 15
+Raymore 575
+Mossbank 360
+Liberty 78
+Duval 83
+Nokomis 404
+
+Wynyard 1798
+Tribune 45
+Willow Bunch 272
+Wilcox 264
+
+Balgonie 1765
+Eatonia 524
+Eston 1061
+Tessier 25
+Kerrobert 1026
+Arran 25
+Rama 80
+Zealandia 80
+Milden 167
+Frobisher 160
+Broderick 85
+Macrorie 68
+Frontier 372
+Caronport 994
+Mortlach 261
+Morse 242
+North Portal 115
+Ponteix 563
+Tantallon 91
+Waldeck 277
+Stewart Valley 91
+Neville 87
+Cadillac 92
+Cabri 390
+Abbey 129
+Beechy 228
+Herbert 856
+Rush Lake 53
+Gull Lake 1046
+Val Marie 126
+Central Butte 372
+Sintaluta 119
+Bredenbury 372
+Loreburn 107
+
+Outlook 2279
+Belle Plaine 85
+Allan 644
+Clavet 410
+Sturgis 644
+Hanley 511
+Asquith 639
+
+Biggar 2226
+Tompkins 152
+Wilkie 1219
+Consul 73
+Coleville 305
+Netherhill 25
+Plenty 164
+
+Unity 2573
+Cut Knife 573
+Pennant 130
+Paynton 148
+Maidstone 1185
+Medstead 130
+Edam 480
+Mervin 159
+Meota 304
+Star City 387
+Glaslyn 387
+Waseca 149
+Elrose 496
+Dorintosh 134
+Marshall 561
+Marsden 297
+Hawarden 52
+Denzil 143
+Primate 52
+Zelma 35
+Hubbard 35
+Macklin 1374
+Senlac 41
+Neilburg 379
+Lashburn 983
+St. Walburg 689
+St. Benedict 84
+Kenaston 282
+Rose Valley 282
+Paradise Hill 491
+Quill Lake 387
+Leoville 375
+Big River 700
+Riverhurst 130
+Briercrest 159
+Turtleford 496
+Makwa 84
+Loon Lake 288
+
+Meadow Lake 5344
+Vanguard 134
+Fleming 84
+Goodsoil 282
+Pierceland 598
+Lancer 69
+Sceptre 94
+Coderre 30
+Goodwater 30
+Atwater 30
+Mendham 30
+Hazlet 106
+Kyle 449
+Leader 863
+Fenwood 30
+Lake Alma 30
+
+Maple Creek 2084
+
+Swift Current 16604
+Chaplin 229
+Limerick 115
+
+Assiniboia 2389
+Lafleche 382
+Coronach 643
+Macoun 269
+Arcola 657
+
+Carlyle 1508
+Carievale 240
+
+Estevan 11483
+Bienfait 762
+Lampman 675
+Alameda 369
+Alida 120
+Kipling 1074
+Kenosee Lake 234
+Manor 295
+Redvers 1042
+Storthoaks 108
+Torquay 255
+Midale 604
+Oxbow 1328
+Gainsborough 254
+Wawota 543
+
+Moosomin 2743
+Welwyn 133
+
+Yorkton 16343
+Creighton 1402
+Fairlight 40
+Hudson Bay 1397
+Mistatim 101
+Christopher Lake 289
+Lucky Lake 289
+Glenavon 182
+Dinsmore 289
+McTaggart 121
+Hague 874
+
+Shaunavon 1714
+Gravelbourg 1083
+Ceylon 111
+Kincaid 111
+Rockglen 441
+Ogema 403
+
+Moose Jaw 33890
+
+La Ronge 2688
+Pilger 65
+MacNutt 65
+Scott 73
+Major 35
+Golden Prairie 30
+Duff 30
+Richmound 147
+Eastend 503
+Climax 195
+Flaxcombe 124
+Maryfield 348
+Dysart 200
+Plunkett 60

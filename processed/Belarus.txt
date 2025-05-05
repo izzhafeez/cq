@@ -1,0 +1,397 @@
+
+
+Minsk 2020600
+Atolina 1253
+Khatsyezhyna 1145
+Syenitsa 5000
+Ivyanyets 5000
+Hal'shany 5000
+Hlusha 1400
+Zhukov Lug 90
+Korolev Stan 1033
+Gorodishche 920
+Slobodshchina 188
+Kalodzishchy 17000
+Mostishche 29
+Mosar 1500
+Anoshki 80
+Prilepy 470
+Prilepskaya Usyazhka 38
+Usyazha 400
+Usiazh 1500
+Druya 1500
+Rudnya 81
+Rudomeyka 38
+Zadomlya 217
+Lyady 87
+Slabada 1819
+Yukhnovka 950
+Zhdanovichy 5000
+Valer'yanovo 790
+Borovlyany 5000
+Lyasny 15000
+Dubovlyany 294
+Kurgany 13
+Skuraty 29
+Indura 1500
+
+Horad Zhodzina 61007
+Horad Smalyavichy 12516
+Mikolayevichi 340
+Zagor'ye 170
+Magistral'naya 30
+Astrashytski Haradok 2390
+Lyeskawka 1400
+Drozdovo 350
+Bal'shavik 3470
+Bol'shoye Stiklevo 967
+Volma 320
+Obchak 308
+Michanovichi 4800
+Smilavichy 5200
+Svir 1300
+Osveya 1300
+Ostrovy 748
+Natal'yewsk 672
+Chervyen' 9900
+Blon' 1780
+Chyrvona Zorka 500
+Gervyaty 500
+Ratamka 77
+Syomkava 1522
+Zaslawye 13500
+Rakaw 6300
+Vialikaja Barzdyn' 10
+Khoyniki 13200
+Lipnishki 500
+Fanipol 13200
+Charkasy 525
+Murovanka 500
+Stan'kava 1850
+Novy Svyerzhan' 2200
+Vishnyavyets 640
+Nyasvizh 12847
+Zhankovichi 99
+Panyutichi 71
+Kachanovichy 137
+Tsimkavichy 1299
+Lyakhavichy 11500
+Hantsavichy 13800
+
+Baranovichi 168772
+Stalovichy 639
+Haradzishcha 2600
+Haradzyeya 4100
+
+Dzyarzhynsk 24609
+Azyartso 1247
+Schomyslitsa 1822
+Mstibovo 500
+Maloye Mozheykovo 500
+Novosel'ye 1269
+Pyatryshki 1946
+Radashkovichy 5700
+Zhirovichi 1800
+Kryvichy 1298
+Budslaw 721
+Dokshytsy 8190
+Domashkovichi 96
+Zamastochcha 260
+Petukhovshchina 96
+Kholopenichi 1385
+Komsyenichy 555
+Byalynichy 9600
+Halowchyn 504
+Shklow 13485
+Lotva 1000
+Yermolovichi 219
+Palykavichy Pyershyya 1572
+Ramanavichy 1341
+Harbavichy 799
+Myshkavichy 2000
+Dashkawka 1528
+Hrudzinawka 110
+Vidzy 2000
+Vishow 1224
+Bol'shoy Nezhkov 126
+Novoye Pashkovo 663
+Staroe Pashkovo 150
+Pashkovo 154
+Sumarokovo 464
+Tarasovo 1000
+Novoselki 512
+Poselok Voskhod 2000
+Polovinnyy Log 271
+
+Mahilyow 369200
+Zyalyony Bor 1000
+Azyory 1000
+Knyazhytsy 767
+Myazhysyatki 1807
+Buynichy 4000
+Veyno 1717
+Kadino 1753
+Cheryomushki 390
+Paplavy 650
+Plamya 300
+Komarovka 300
+Skoki 1000
+Mastok 650
+Khatyn' 150
+Nyehorelaye 1000
+Zalyessye 1000
+Rudawka 1000
+Kopys' 900
+Kokhanava 4300
+Balbasava 3600
+Baran' 11600
+
+Orsha 125347
+Hatava 8000
+Myezhava 888
+Ivashkovichi 100
+Grushevka 100
+Dubrowna 8000
+Machulishchy 8000
+Talachyn 11381
+Hotsk 1100
+Pahost 728
+Byerazino 12800
+Hradzyanka 440
+
+Asipovichy 34591
+Tatarka 770
+Stantsiya Nyasyata 211
+Vyalikaya Mashchanitsa 579
+Bobr 1100
+Zyembin 1049
+
+Barysaw 143919
+Lahoysk 10321
+Kamyennyya Lavy 1500
+Hyeranyony 1500
+Karanyowka 1141
+Kastsyukowka 10552
+Kastsyukovichy 11946
+Klimavichy 14951
+
+Krychaw 27681
+Cherykaw 7874
+Bykhaw 17500
+Krasnyy Bereg 2359
+Dowsk 1840
+
+Rahachow 34700
+Chachevichy 296
+Klichaw 7200
+
+Babruysk 220517
+Lyuban' 10107
+Plyeshchanitsy 7800
+Urechcha 3300
+Karelichy 7800
+Sarachy 1350
+Zhytkavichy 13630
+Mikashevichy 14000
+Pukhavichy 2800
+
+Ivatsevichy 24200
+Mogylovtse 447
+Zhylichy 200
+Drahichyn 13389
+Synkovichi 200
+Pruzhany 19135
+Kamyanyets 8700
+Vyaliki Trastsyanets 2100
+Osinniki 15
+Krasnosel'skiy 7300
+Skidel' 10700
+Svyatsk-Velikiy 32
+Vyalikaya Byerastavitsa 5900
+Astravyets 8300
+Turets 630
+Zabalotstsye 640
+Stowbtsy 15500
+Snow 2600
+
+Novogrudok 30748
+Dyatlovo 8300
+Gruskovo 312
+Novolukoml' 13800
+Ishkol'd' 264
+Palanechka 201
+Valevka 401
+Yalizava 2600
+Byarozawka 11800
+Slawharad 8300
+Mstsislaw 11500
+Chyrvonaya Slabada 4700
+Staryya Darohi 10094
+Starobin 6000
+
+Salihorsk 101614
+Mar''ina Horka 20100
+Druzhny 8978
+Dukora 1300
+Pryluki 500
+Gnezno 500
+Yubilyeyny 3000
+Luhavaya Slabada 1306
+Sapotskin 1300
+Lyubcha 1300
+Valyevachy 562
+Vasilyevichy 4749
+
+Kalinkavichy 37190
+
+Mazyr 112137
+
+Svyetlahorsk 71250
+Pyetrykaw 10552
+Vyetka 8969
+Khal'ch 1249
+Chachersk 7600
+Chavusy 11313
+Krasnaye 2900
+Drybin 2900
+Rudzyensk 2900
+
+Horki 33897
+Khodasy 1990
+Prawdzinski 2900
+
+Pinsk 130777
+Stolin 10491
+Antopal' 2100
+Motal' 4079
+Ivanava 13614
+Kosava 2698
+Ross' 6200
+Mosty 16102
+Kruhlaye 7300
+Byelagruda 700
+
+Lida 98036
+Opsa 700
+Zhaludok 1017
+Shchuchyn 15700
+Shchorsy 600
+Vselyub 603
+Gaytyunishki 288
+Baruny 2500
+Ruzhany 3100
+Ashmyany 14345
+Myadzyel 10000
+
+Maladzyechna 101300
+Nasilava 1259
+
+Vilyeyka 30000
+Il'ya 1800
+Chyst' 5300
+Turets-Bayary 1602
+Turaw 3100
+Traby 842
+Narach 3400
+
+Smarhon' 36900
+Kreva 3100
+Valozhyn 9727
+Samakhvalavichy 2500
+Mir 2500
+Sasnovy Bor 2500
+Iwye 9684
+Voranava 6500
+Zamostochye 2500
+Katlowka 45
+Lyntupy 1600
+Pastavy 20218
+Paris 330
+Dzisna 2738
+Yazna 705
+
+Navapolatsk 100885
+
+Polatsk 82258
+Smolyany 646
+Syanno 9987
+Konstantinovo 3800
+Chashniki 11484
+Loshnitsa 6524
+Krupki 8600
+Lyepyel' 17400
+Hlybokaye 22000
+Sharkawshchyna 7500
+Ushachy 6071
+Shelkovo 23
+Zatish'ye 20
+Chernoruch'ye 20
+Ptich' 3
+Veshtarty 3
+Drysvyaty 280
+Myory 10649
+Vyerkhnyadzvinsk 7700
+Rasony 5400
+Braslaw 12378
+Uzda 10000
+Byahoml' 3500
+
+Homyel' 480951
+Zel'va 7000
+Loyew 7000
+
+Zhlobin 73089
+Hlusk 7800
+
+Slutsk 62228
+Klyetsk 9641
+Tsyelyakhany 4700
+Kapyl' 10500
+Enyerhyetykaw 2445
+Petkovichi 486
+
+Vitebsk 342700
+Haradok 13380
+Surazh 960
+Lyozna 6600
+Znamenka 1324
+Kamyanyuki 1200
+Nyakhachava 1200
+Damachava 1200
+Svislach 6886
+
+Volkovysk 47300
+
+Slonim 51434
+
+Byaroza 29645
+Boyary 189
+Asnyezhytsy 1185
+
+Luninyets 25000
+Davyd-Haradok 7694
+Lahishyn 2800
+Byelaazyorsk 10691
+Malyech 200
+Malaryta 9692
+Charnawchytsy 2372
+
+Brest 300715
+
+Kobryn 50691
+Zhabinka 10921
+Kirawsk 8700
+Vysokaye 4496
+Soly 1840
+Krasnapollye 6100
+Pryvol'ny 2000
+Parychy 2300
+
+Rechytsa 65400
+Peramoga 1423
+Dobrush 19083
+Brahin 3900
+Vishnyeva 7000
+Novaya Huta 2159
+
+Hrodna 317365

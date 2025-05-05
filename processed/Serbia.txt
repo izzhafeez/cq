@@ -1,0 +1,692 @@
+
+
+Belgrade 1397939
+Becmen 2494
+Zvecka 5321
+Velika Mostanica 2751
+Mala Mostanica 1125
+Vranic 3044
+Ostruznica 4060
+Umka 5618
+Vojka 4343
+Beska 6377
+Belegis 2430
+Sakule 2280
+Rusanj 4769
+Opovo 4769
+Ravni Topolovac 1656
+Kovacica 7357
+Jarkovac 2291
+Markovicevo 310
+Banatsko Visnjicevo 458
+Barice 1044
+Stari Lec 1341
+Secanj 2718
+Busenje 141
+Jasa Tomic 3625
+Gornja Bejasnica 141
+Novi Itebej 1553
+Srpski Itebej 3281
+Banatski Dvor 1374
+Banatska Topola 1463
+Banatsko Veliko Selo 3332
+Rusko Selo 3657
+
+Novo Milosevo 7805
+
+Backo Petrovo Selo 8959
+Backo Gradiste 5764
+Aradac 3825
+Taras 1328
+Sajkas 3541
+
+Novi Sad 215400
+Kovilj 5279
+Vilovo 1089
+Lok 1509
+Belo Blato 1746
+Lukino Selo 703
+Lukicevo 2186
+Lazarevo 3480
+Stajicevo 1993
+Krajisnik 2495
+Putnikovo 307
+Uzdin 3885
+Farkazdin 1662
+Padina 6367
+Vladimirovac 5106
+Vlajkovac 1356
+Laudanovac 78
+Markovac 717
+Margita 1550
+Ritisevo 954
+Vrsacki Ritovi 224
+
+Vrsac 36300
+Samos 1658
+Botos 2569
+Banatski Despotovac 1993
+Banatska Dubica 566
+Banatski Sokolac 458
+Banatski Karlovac 6319
+Nikolinci 1905
+Vojvodinci 727
+Kustilj 1189
+Vatin 417
+Mali Zam 565
+Malo Srediste 223
+Veliko Srediste 1698
+Plandiste 4122
+Ilandza 2426
+Seleus 1765
+Neuzina 1657
+Konak 1211
+Duzine 282
+Hajducica 1519
+Dobrica 2006
+Janosik 1372
+Surjan 406
+Sutjeska 2145
+Boka 2246
+Lokve 3511
+Velika Greda 1585
+Jermenovci 1454
+Alibunar 3803
+Uljma 4115
+Izbiste 2094
+Pavlis 2137
+Jablanka 536
+Sajan 1655
+
+Majdanpek 10071
+Belobrdani 5
+Lisani 5
+Banjanci 5
+Banja 5
+Tresnjar 5
+Trebicska Mala 5
+Ciganska Brodica 5
+Zica 5
+Rakovica 5
+Vesovici 5
+Ralenovici 5
+Zapaleze 5
+Brezova 5
+Petrovac 5
+Sajkovac 5
+Jelova 5
+Jacovac 5
+Boljkovac 5
+Pod Dulom 5
+Dubocica 5
+Rocevici 5
+Nikolici 5
+Milice 5
+Trsljice 5
+Sice 5
+Ornice 5
+Bratujevacke Pionice 5
+Kljucata 5
+Capljak 5
+Cudak 5
+Glavo 5
+Vukosava 5
+Luke 5
+Gradi 5
+Vidrov Grad 5
+Majstorovici 5
+Prisoj 5
+Porede 5
+Crna Reka 5
+Laz 5
+Badnjevo 5
+Ulmu 5
+Funjduri 5
+Duboki 5
+Stramosnik 5
+Rastiste 5
+Smiljana 5
+Kamidzora 5
+Torak 4289
+Torda 2697
+Toba 1099
+Banatski Monostor 202
+Ostojicevo 3395
+Radojevo 1872
+Srpska Crnja 5467
+Nova Crnja 2739
+Aleksandrovo 3061
+Nakovo 2604
+
+Kikinda 41935
+Meda 1636
+Vojvoda Stepa 2032
+Cestereg 1581
+Zitiste 3060
+Hetin 1139
+Tiszahegyes 2338
+Gornji Breg 2536
+
+Kanjiza 10200
+Podlokanj 274
+Coka 5414
+Mokrin 6567
+
+Mol 7950
+Krusedol 211
+
+Curug 9231
+Durdevo 4668
+Zmajevo 4547
+Celarevo 5017
+Visnjicevo 2030
+Sevarice 1458
+Platicevo 2812
+Stepanovicevo 1999
+Tabanovic 1286
+
+Sabac 55114
+Orasac 454
+Bogosavac 1191
+Vidovaca 85
+Jevremovac 1940
+Cerovac 445
+Pocerski Pricinovic 4018
+Sinosevic 1246
+Pejinovic 388
+Culjkovic 840
+Petkovica 1227
+Cokesina 1262
+Milina 408
+Sena 409
+Joseva 1228
+Tovarisevo 4
+Konarevo 4
+Karavukovo 4
+Prahovo 4
+Ratkovo 4
+Ratina 4
+Bacina 4
+Cicevac 4
+Radujevac 4
+Dusanovac 4
+Drenovak 4
+Velika Drenova 4
+Veliki Siljegovac 4
+Silbas 4
+Banja Koviljaca 4
+Mataruska Banja 4
+Raska 4
+Vajska 4
+Skela 4
+Selenca 4
+Grncara 608
+Gracac 4
+Stalac 4
+Gajdobra 4
+Globoder 4
+Kobisnica 4
+Ribnica 4
+Pivnice 4
+Supnje 4
+Klupci 4
+Citluk 4
+Kukljin 4
+Kokin Brod 4
+Tutin 4
+Milutovac 4
+Parunovac 4
+Mladenovo 4
+Bezdan 4
+Medveda 4
+Dedina 4
+Deronje 4
+Bosnjane 4
+Backi Monostor 4
+Lipnicki Sor 2240
+Mali Zvornik 4
+Gornji Dobric 884
+Donji Dobric 1695
+Jadranska Lesnica 2355
+Lesnica 4678
+Novo Selo 1452
+Prnjavor 4892
+Zminjak 1536
+Skradani 484
+Radenkovic 1040
+Metkovic 1419
+
+Sremska Mitrovica 39084
+Macvanska Mitrovica 3661
+Sremska Raca 942
+Bosut 1311
+Bogatic 7225
+Belotic 1801
+Stitar 2183
+Stari Lipolist 85
+Lipolist 3212
+Dvoriste 357
+Tekeris 616
+Ribari 2206
+Dobric 1375
+Ljukovo 1191
+Majur 5000
+Klenak 3388
+Jelenca 1950
+Nikinci 2425
+Pecinci 2232
+Putinci 3075
+Golubinci 4510
+Sasinci 1983
+Salas Nocajski 1876
+Zasavica Prva 924
+Ravnje 1692
+Klenje 3653
+Drenovac 2629
+Banatsko Karadordevo 2855
+Jarak 2092
+Jarkovci 364
+Novi Karlovci 3050
+Novi Slankamen 3210
+Stari Slankamen 638
+Stari Banovci 3393
+Novi Banovci 4007
+Ugrinovci 3278
+
+Dobanovci 7592
+Simanovci 2376
+Budanovci 1999
+Hrtkovci 2855
+Grabovci 1480
+Bojic 461
+Nakucani 749
+Mrovska 715
+Rumska 1208
+Krivaja 1296
+Bukor 1167
+Gornja Bukovica 1541
+Donja Badanja 756
+Draginac 315
+Jarebice 1549
+Mileticevo 811
+Trsic 1214
+Gornje Nedeljice 811
+Varna 1549
+Trbosilje 476
+Desic 409
+Ridake 470
+Brdarica 1690
+Draginje 1888
+Vladimirci 1857
+Kupinovo 2002
+
+Obrenovac 16821
+Grabovac 3072
+Stubline 2898
+Baric 5033
+Boljevci 3990
+Stepojevac 2773
+
+Lazarevac 23551
+
+Arandelovac 24309
+Ljig 2979
+
+Valjevo 61035
+Radenka 1541
+Kamenica 1371
+Osecina 3422
+Krupanj 3779
+Ljubovija 2717
+
+Bajina Basta 8533
+Cajetina 3162
+Batajnica 3
+Prislonica 1735
+Donja Gorevnica 981
+Progorelica 2
+
+Gornji Milanovac 23982
+
+Cacak 117072
+Arilje 6762
+
+Kraljevo 82846
+
+Kragujevac 147473
+
+Krusevac 75256
+Vrsevac 232
+Bogujevac 151
+Pepeljevac 318
+Belo Polje 225
+Beloljin 769
+Gojinovac 87
+Sismanovac 158
+Cukovac 368
+Bukoloram 25
+Jabucevo 41
+Bucince 67
+Obrtince 42
+Dobrotic 77
+Potocic 324
+Donja Toponica 488
+Gornja Toponica 116
+Donja Bejasnica 59
+Prekasnica 64
+Prekadin 258
+Vodice 289
+Bela Voda 252
+Beli Kamen 70
+Seliste 22
+Staro Selo 65
+Stari Durevac 49
+Novi Durevac 46
+Bogojevac 36
+Gornji Statovac 103
+Srednji Statovac 96
+Donji Statovac 178
+Rankova Reka 53
+Bregovina 154
+Jovine Livade 39
+Siroke Njive 136
+Gornje Tocane 36
+Tovrljane 253
+Donje Tocane 308
+Donja Konjusa 508
+Gornja Konjusa 134
+Kondzelj 222
+Miljkovica 192
+Vica 127
+Krusevica 133
+Sevis 55
+Pestis 123
+Bresnik 56
+Plocnik 326
+Barlovo 163
+Mrljak 66
+Balcak 60
+Piskalj 97
+Kaludra 149
+Rudare 367
+Krcmare 343
+Maricice 109
+Grabovnica 238
+Dedinac 304
+Kosmaca 262
+Visoka 303
+Desiska 86
+Arbanaska 166
+Rgaje 95
+Magas 342
+Dragi Deo 175
+Prolom 200
+Dobra Voda 200
+Vlasovo 226
+Glasovik 382
+Trnovi Laz 157
+Smrdan 121
+Gubetin 324
+
+Prokuplje 27673
+Zitni Potok 810
+Despotovo 2077
+Doroslovo 2131
+Gakovo 2122
+Stanisic 5476
+Ridica 3186
+Prigrevica 5026
+
+Apatin 18320
+
+Subotica 100000
+Vrbica 654
+Sanad 1584
+Adorjan 1203
+Padej 3465
+
+Becej 25774
+Kumane 4321
+
+Melenci 7685
+Elemir 4998
+Perlez 4283
+Orlovat 2159
+Mihajlovo 1318
+Jankov Most 841
+
+Zrenjanin 79773
+Knicanin 2226
+Titel 6227
+Gardinovci 1515
+Krcedin 2877
+
+Indija 26247
+
+Petrovaradin 13917
+Backi Petrovac 7229
+Obrovac 3100
+
+Backa Palanka 29449
+Rumenka 4367
+
+Ruma 32229
+Irig 4848
+Vezirac 150
+
+Veternik 10226
+Vrdnik 3704
+Staro Hopovo 12
+Novo Hopovo 10
+Grgeteg 23
+
+Sremski Karlovci 8839
+Cortanovci 1853
+
+Nova Pazova 15488
+
+Stara Pazova 16217
+Baranda 1656
+Centa 3192
+Surduk 1332
+Sefkerin 2836
+Debeljaca 6413
+Crepaja 5369
+
+Pancevo 76654
+
+Smederevo 62000
+
+Smederevska Palanka 27000
+Lugavcina 3300
+Ovca 2567
+
+Zemun 155591
+
+Sremcica 23000
+
+Surcin 12575
+Drcinci 8
+Rajince 2020
+Zujince 1284
+Spancevac 578
+Biljaca 2349
+Samoljica 2852
+Letovica 453
+Miratovac 2872
+
+Leskovac 94758
+Glogovac 1000
+Brezovica 1000
+Gornje Trnjane 280
+Mehane 143
+Veliko Pupavce 153
+Veliki Gaj 1039
+Sevica 1249
+Socica 340
+Gudurica 1448
+Mesic 392
+
+Bela Crkva 10675
+Golubac 1655
+Duboka 1804
+
+Bor 39387
+Boskovici 5
+Leskovica 5
+
+Kovin 14250
+
+Pozarevac 41736
+Turija 1039
+
+Cuprija 20585
+
+Vrnjacka Banja 10207
+
+Trstenik 49043
+Komarane 120
+Paracin 6000
+
+Jagodina 35589
+Lapovo 7422
+Donji Milanovac 2410
+Kusjak 5
+Panjak 5
+Zupanjci 5
+
+Vranje 56199
+Potporanj 453
+Bustranje 988
+Lagja e Shimshirve 720
+Lagja e Korbajve 680
+Lagja e Ternovcalive 520
+Lagja e Poshtme 1200
+Sumulice 2350
+Veliki Trnovac 423
+Kriva Feja 700
+Radovnica 1062
+
+Pirot 40678
+Dolac naselje 855
+
+Nis 250000
+
+Knjazevac 25000
+
+Zajecar 49800
+Garesnica 5
+Garina 5
+Marica 5
+Omar 5
+Tomasevac 2149
+Idvor 1442
+Mosorin 2483
+
+Zabalj 8503
+Kisac 1545
+Kulpin 3207
+Ravno Selo 3574
+Maglic 2733
+Glozan 2487
+Glusci 2512
+Uzvece 1263
+Dublje 3558
+Banovo Polje 1732
+Crna Bara 2606
+Salas Crnobarski 1538
+Badovinci 5879
+Kozjak 1201
+Novi Kozarci 2668
+Basaid 3864
+Bocar 2095
+Sterijino 434
+
+Senta 20302
+
+Novi Knezevac 8166
+
+Backa Topola 16154
+Backi Breg 1770
+Kolut 1886
+Kupusina 2694
+
+Sombor 48454
+Sonta 5991
+Bogojevo 2312
+
+Vrbas 25907
+Vrbnica 5
+Sosanica 5
+Iricani 5
+Durici 1081
+Suvi Do 605
+Zlatibor 2344
+Priboj 3
+Prijepolje 3
+Zeleznik 3
+Klek 2344
+Mokra Gora 605
+
+Uzice 63577
+Osjecenik 1430
+Jazovo 1261
+Sokolovo Brdo 1261
+Sokolovica 1022
+
+Novi Pazar 85996
+Tmava 463
+Bace 509
+Tulare 533
+Vrelo 5
+
+Negotin 17612
+Obodine 5
+Rudine 5
+Sudimska Mala 5
+Grabovska Mala 5
+Borcanska Mala 5
+Kamencka Mala 5
+Ecka 5293
+Sumeca 5
+Dumak 5
+Rakici 5
+Graici 5
+Strainje 5
+Strazba 5
+Strmenica 5
+Bzenice 5
+Propljenica 5
+Pljescicanji 5
+Lucica 5
+Kaludrice 5
+Kupinik 545
+Mala Popina 5
+Tominac 5
+Tomonj 5
+Cebrisonj 5
+Prisojnica 5
+Burgionji 5
+Burmazi 5
+Srmusnjak 5
+Dojovi 5
+Gajovici 5
+Pajovici 5
+Jevtovici 5
+Ceperkovici 5
+Miodragovici 5
+Colici 5
+Durdici 5
+Odmejie 5
+Vezanj 5
+Dolevi 5
+Sokolja 5
+Calja 5
+Magnohrom 5
+Cerovak 5
+Drenovaca 5
+Saovci 5
+Vladenac 5
+Biserske Kuce 5
+Cuka 5
+Paklenik 5

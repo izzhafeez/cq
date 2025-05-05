@@ -1,0 +1,369 @@
+
+
+Salt Lake City 199723
+South Salt Lake 26777
+North Salt Lake 21907
+South Weber 7867
+South Ogden 17488
+
+Ogden 87321
+North Ogden 20916
+South Willard 1840
+Willard 1978
+Harrisville 7036
+Farr West 7691
+West Haven 16739
+West Point 10963
+Clinton 23386
+
+Layton 81773
+
+Kaysville 32945
+Centerville 16884
+Snyderville 6744
+Coalville 1486
+Oakley 1588
+Duchesne 1588
+Henefer 838
+Morgan 4071
+Mountain Green 4231
+Plain City 7833
+Brigham City 19650
+River Heights 2144
+Riverside 971
+Providence 8218
+Millville 2326
+Wellsville 4060
+Honeyville 1606
+Tremonton 9894
+Lewiston 1939
+Pleasant View 11083
+Clearfield 31909
+Sunset 5475
+
+Syracuse 32141
+Washington Terrace 9267
+Farmington 24531
+Fruit Heights 6101
+Summit Park 8820
+Silver Summit 1694
+
+Millcreek 63380
+
+Holladay 31965
+
+Murray 50637
+
+Taylorsville 60448
+
+West Valley City 140230
+
+West Jordan 116961
+
+South Jordan 77487
+Erda 3673
+Bluffdale 17014
+Cedar Hills 10019
+
+Springville 35268
+
+Saratoga Springs 37696
+
+Lehi 75907
+Highland 19348
+Lindon 11397
+
+Sandy 96904
+
+Pleasant Grove 37726
+
+Provo 115162
+
+Orem 98129
+Elsinore 802
+Lake Shore 802
+
+Spanish Fork 42602
+
+American Fork 33337
+
+Herriman 55144
+
+Riverton 45285
+
+Draper 51017
+Alpine 10251
+White City 5522
+Park City 8396
+Francis 1564
+Kamas 2092
+East Basin 3023
+West Bountiful 5917
+
+Bountiful 45762
+Emigration Canyon 1466
+Woods Cross 11410
+
+Cottonwood Heights 33617
+
+Midvale 36028
+Midway 6003
+Heber 16856
+Bluebell 278
+Timber Lakes 866
+Spring Lake 528
+Enterprise (Morgan County) 575
+Centerfield 1341
+Peter 623
+Whiterocks 221
+Big Water 449
+Spring Glen 1054
+Henrieville 221
+Snowville 163
+Deweyville 417
+Apple Valley 855
+Castle Valley 347
+Newcastle 330
+Neola 491
+Huntsville 573
+West Mountain 1250
+Monticello 1824
+Richmond 2914
+Cache 38
+Goshen 978
+White Mesa 178
+Alta 228
+Uintah 1454
+Lapoint 170
+Summit 170
+Benjamin 1196
+Milford 1431
+Garden City 602
+Bear River City 877
+Spring City 949
+Mantua 1090
+Lyman 196
+Levan 862
+Junction 212
+Avon 390
+Mayfield 556
+Dugway 342
+Holden 438
+Kenilworth 200
+Lynndyl 111
+Plymouth 427
+Navajo Mountain 450
+Antimony 118
+Oljato-Monument Valley 682
+Redmond 762
+Cedar Fort 427
+Clear Creek 12
+Hobble Creek 169
+Halls Crossing 4
+Boulder 227
+Bonanza 0
+Naples 2280
+Maeser 4081
+Roosevelt 6747
+Tselakai Dezza 95
+Fort Duchesne 546
+West Wood 1066
+East Carbon 1556
+Carbonville 1383
+Orangeville 1224
+Aurora 984
+Ferron 1474
+Mona 1750
+Nephi 6443
+Ephraim 5611
+Fountain Green 1197
+Mount Pleasant 3655
+Manti 3429
+Huntington 1914
+Wellington 1605
+Mapleton 11365
+Palmyra 443
+Payson 21101
+Salem 9298
+Woodland Hills 1521
+Santaquin 13725
+
+Eagle Mountain 43623
+
+Tooele 35742
+Stansbury Park 9851
+
+Kearns 36723
+Magna 29251
+Paragonah 536
+Clarkston 749
+Copperton 829
+Brighton 432
+Marion 676
+Rockville 226
+Minersville 807
+Orderville 598
+Hanksville 158
+Hoytsville 702
+Cannonville 186
+Circleville 550
+Cove 494
+Vernal 10079
+Tabiona 143
+Portage 273
+Halchita 273
+Altamont 239
+New Harmony 236
+Koosharem 244
+Emery 307
+Bryce Canyon City 336
+Wallsburg 290
+Spanish Valley 529
+Pine Valley 249
+Scipio 353
+Beryl Junction 161
+Dutch John 141
+Echo 60
+Interlaken 179
+Sutherland 147
+Randolph 467
+Meadow 320
+Deseret 327
+Independence 121
+Sundance 113
+Daniel 916
+Fairview 1203
+Fairfield 160
+Granite 1076
+Cornish 274
+Kanosh 508
+Kanarraville 442
+Elk Ridge 4687
+Elwood 1173
+Wolf Creek 1645
+Central Valley 647
+Wales 338
+La Sal 348
+Thatcher 807
+Hatch 132
+Sterling 274
+Clawson 162
+Benson 1492
+Gunnison 3509
+Annabella 836
+Bicknell 323
+Richfield 8201
+Fillmore 2592
+Fremont 167
+Salina 2441
+Oak City 595
+Oasis 58
+Castle Dale 1492
+Cleveland 497
+Price 8216
+Helper 2112
+Scofield 26
+Rocky Ridge 848
+Genola 1548
+Enoch 7374
+Panguitch 1725
+Parowan 2996
+Washington 27993
+Springdale 514
+Hildale 1127
+Dammeron Valley 871
+Veyo 586
+La Verkin 4354
+Santa Clara 7553
+Escalante 786
+Blanding 3394
+Montezuma Creek 284
+Moab 5366
+Myton 561
+Ballard 1131
+Fielding 546
+Marriott-Slaterville 2135
+North Logan 10986
+
+Logan 52778
+Garland 2589
+Mendon 1339
+Nibley 7328
+Hyrum 9362
+Hyde Park 5234
+Paradise 971
+Smithfield 13571
+Perry 5555
+Riverdale 9343
+
+Roy 39306
+Hooper 9087
+Ophir 24
+Hideout 922
+Green River 847
+Vernon 256
+Wendover 1115
+Grantsville 12617
+Toquerville 1870
+Laketown 299
+Newton 789
+Leamington 256
+Trenton 512
+Cedar Highlands 99
+Glendale 312
+Teasdale 140
+Corinne 809
+Vineyard 12543
+Monroe 2515
+Eureka 662
+Liberty 1522
+Woodland 375
+Randlett 184
+Fayette 245
+Aneth 427
+Thompson Springs 34
+Rush Valley 431
+Marysvale 356
+Samak 93
+Woodruff 169
+Bluff 240
+Sigurd 405
+Elmo 405
+Delta 3622
+Beaver 3592
+
+Cedar City 35235
+Leeds 864
+Hurricane 20036
+
+St. George 95342
+Ivins 8978
+Enterprise 2027
+Modena 15
+Kanab 4683
+Manila 308
+Moroni 1544
+Charleston 436
+Flaming Gorge 72
+Glenwood 474
+Loa 516
+Sunnyside 377
+Hinckley 614
+Stockton 621
+Virgin 670
+Joseph 288
+Eden 690
+Garden 240
+Jensen 372
+Mexican Hat 21
+Brian Head 151
+Elberta 180
+Howell 240
+Alton 118
+Kingston 135
+Torrey 231
+Central 656
+Wanship 423
+Tropic 486
+Amalga 482
+Peoa 249

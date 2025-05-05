@@ -1,0 +1,585 @@
+
+
+Baltimore 585708
+Baltimore Highlands 7740
+
+Woodlawn (Baltimore County) 39986
+
+Catonsville 44701
+
+Pikesville 34168
+Cockeysville 24184
+Rossville 16029
+Rosedale 19961
+
+Dundalk 67796
+Ferndale 17091
+
+Severn 57118
+
+Severna Park 39933
+
+Pasadena 32979
+
+Odenton 42947
+Fulton 5916
+Burtonsville 9498
+Beltsville 20133
+Greenbelt 24921
+Glenarden 6402
+Bladensburg 9657
+Adelphi 16823
+Hillandale 5774
+
+Chillum 36039
+Peppermill Village 5264
+Walker Mill 12187
+Silver Hill 6381
+Temple Hills 8350
+Oxon Hill 18791
+Hillcrest Heights 15793
+Marlow Heights 6169
+Cedar Heights 1597
+Berwyn Heights 3345
+Fairwood 7983
+Woodmore 4513
+Seabrook 19627
+New Carrollton 13715
+
+College Park 34740
+Riverdale Park 7351
+East Riverdale 18459
+
+Landover 25998
+
+Suitland 25839
+Brandywine 10550
+
+Clinton 38760
+Marlton 9802
+Marlboro Village 9221
+Lake Arbor 14541
+Largo 11605
+Woodlawn (Prince George's County) 7541
+Springdale 5301
+Kettering 14424
+Camp Springs 22734
+Glassmanor 18430
+National Harbor 5509
+Friendly 9937
+Fort Washington 24261
+Forestville 12831
+Westphalia 11770
+Melwood 3977
+Croom 2720
+Rosaryville 11548
+Dunkirk 2431
+Huntingtown 3545
+Leonardtown 4563
+Wildewood 7821
+Golden Beach 3651
+Chesapeake Beach 6356
+North Beach 2146
+Shady Side 5806
+Lake Shore 19551
+Cape St. Claire 9179
+Arnold 24064
+Parole 17877
+
+Annapolis 40812
+Annapolis Neck 10973
+Mayo 8832
+Maryland City 19153
+Fairland 25396
+Calverton 17316
+Cloverly 15285
+
+Silver Spring 81015
+Kensington 2122
+South Kensington 8829
+North Kensington 9497
+
+North Bethesda 50094
+
+Bethesda 68056
+
+Gaithersburg 69657
+
+Clarksburg 29051
+
+Montgomery Village 34893
+Glenmont 16710
+Forest Glen 6897
+Four Corners 8316
+White Oak 16347
+
+Wheaton 52150
+
+Aspen Hill 51063
+Layhill 5764
+
+Rockville 67117
+Poolesville 5742
+
+Germantown 91249
+Ballenger Creek 24999
+Green Valley 12643
+Damascus 17224
+Scaggsville 9217
+North Laurel 25379
+
+Laurel 30060
+
+South Laurel 29602
+Glenn Dale 14698
+
+Bowie 58329
+Mount Rainier 8333
+Hyattsville 21187
+Takoma Park 17629
+Chevy Chase 10176
+
+Potomac 47018
+North Potomac 23790
+Travilah 11985
+Redland 18592
+Flower Hill 14108
+
+Olney 35820
+Leisure World 9215
+Ashton-Sandy Spring 5746
+
+Columbia 104681
+Linthicum 11190
+
+Ellicott City 75947
+Mays Chapel 12224
+
+Perry Hall 29409
+Fallston 9306
+
+Reisterstown 26822
+
+Randallstown 33655
+
+Owings Mills 35674
+
+Milford Mill 30622
+
+Parkville 31812
+
+Carney 29363
+Honeygo 12927
+Joppatowne 13425
+
+Towson 59553
+Lutherville 6835
+
+Bel Air South 57648
+
+Bel Air North 31841
+North East 4085
+Hampstead 6241
+Manchester 5408
+Westminster 20126
+
+Ilchester 26824
+
+Lochearn 25511
+Arbutus 21655
+
+Glen Burnie 72891
+Riviera Beach 12384
+
+Middle River 33203
+Riverside 7021
+Perryman 2496
+Abingdon 4826
+Aberdeen 16254
+Havre de Grace 14807
+
+Edgewood 25713
+Edgemere 9069
+Elkridge 25171
+Savage 7542
+Jessup 10535
+Fort Meade 9324
+
+Crofton 29641
+Edgewater 9446
+Chester 5003
+Stevensville 7442
+Grasonville 3474
+Easton 17101
+Cambridge 13096
+Chesapeake Ranch Estates 10308
+Hughesville 2438
+Bensville 15288
+
+Waldorf 81410
+Bryans Road 8650
+Bryantown 653
+Galestown 111
+Charlestown 1496
+Preston 673
+Cresaptown 5442
+
+Hagerstown 43527
+Middletown 4943
+Deale 4943
+Walkersville 6156
+Sykesville 4316
+
+Eldersburg 32582
+Langley Park 20126
+Thurmont 6213
+Smithsburg 2977
+Kitzmiller 300
+St. James 4757
+St. Michaels 1049
+Whaleyville 192
+Cabin John 2459
+Mountain Lake Park 2147
+Maryland Park 965
+Secretary 472
+Garrett Park 996
+New Market 1525
+Potomac Park 821
+Romancoke 1855
+Spencerville 1812
+Cedarville 639
+Keedysville 1213
+Grantsville 968
+Maugansville 3669
+Emmitsburg 2770
+University Park 2454
+Mount Vernon 761
+Landover Hills 1815
+Seat Pleasant 4522
+La Plata 10159
+Lanham 11282
+Oakland 1851
+Westernport 1812
+District Heights 5959
+Braddock Heights 3075
+Indian Head 3894
+Friendship Heights Village 5360
+Brookmont 3751
+Delmar 3798
+White Marsh 10287
+Bowleys Quarters 6853
+
+Essex 40505
+Hampton 5180
+Lansdowne 9004
+Downsville 341
+Galesville 623
+Laytonsville 572
+Barclay 183
+Taylors Island 125
+Gapland 109
+Cobb Island 929
+Adamstown 2331
+Kingstown 1689
+Lewistown 458
+Funkstown 852
+Bagtown 321
+Wilson-Conococheague 2262
+Hancock 1557
+Colesville 15421
+Bartonsville 2753
+Brownsville 102
+Church Hill 808
+Church Creek 102
+Princess Anne 3446
+Ocean Pines 12145
+West Ocean City 4952
+Ocean City 6844
+Fruitland 5534
+
+Salisbury 33050
+Berlin 5026
+Solomons 2650
+California 12947
+Lexington Park 13317
+Millington 549
+Owings 2141
+Jennings 99
+Bowling Green 1018
+Franklin 253
+Trappe 1177
+Centreville 4727
+Brentwood 3828
+Woodland 91
+Highland 1133
+Capitol Heights 4050
+Pittsville 1636
+Jarrettsville 2888
+Sudlersville 507
+Mercersville 91
+Somerset 1187
+St. Leonard 778
+Willards 963
+Arden on the Severn 1881
+Baden 2114
+Barton 464
+Stockton 91
+Edmonston 1617
+Monrovia 2702
+Crisfield 2475
+Crellin 210
+Nanticoke Acres 120
+West Pocomoke 481
+Big Pool 78
+Still Pond 131
+Williston 153
+Elliott 43
+National 52
+Martin's Additions 946
+Madison 205
+Indian Springs 68
+Spring Gap 52
+Clear Spring 372
+Clarysville 67
+Bakersville 30
+Rohrersville 175
+Edesville 169
+Barnesville 144
+Loch Lynn Heights 493
+North Chevy Chase 682
+Smith Island 202
+Highland Beach 118
+Deal Island 375
+Ocean 33
+Detmold 66
+Goldsboro 211
+Eagle Harbor 67
+Danville 224
+Port Tobacco Village 18
+Fort Ritchie 12
+Swanton 66
+Antietam 98
+Reid 64
+Butlertown 520
+Libertytown 984
+Chestertown 5532
+Corriganville 421
+Barrelville 58
+Flintstone 167
+Burnt Mills 3592
+Eakles Mill 26
+Marlboro Meadows 3655
+Colmar Manor 1588
+Nikep 95
+Kennedyville 230
+Fairview 76
+Oldtown 116
+Carlos 144
+Rosemont 272
+Parsonsburg 319
+Bivalve 185
+Algonquin 1220
+East New Market 389
+Newark 401
+Waterview 32
+Bishopville 499
+Ernstville 58
+Pomfret 514
+Woodsboro 1092
+Brookview 48
+Hebron 1113
+Cheverly 6170
+Riva 4257
+Union Bridge 936
+Queen Anne (Prince George's County) 1405
+Mount Airy 9654
+Kent Narrows 612
+Mount Aetna 580
+Mount Lena 547
+Galena 539
+Rising Sun 2740
+Spring Ridge 6005
+Summerfield 14758
+Timonium 10458
+Mechanicsville 1673
+Pylesville 711
+Midlothian 352
+Bloomington 271
+Darlington 398
+Rawlings 687
+Big Spring 85
+Fishing Creek 173
+Washington Grove 505
+Dames Quarter 142
+Dargan 163
+Sharpsburg 560
+Frostburg 7027
+Friendsville 438
+Sabillasville 470
+Vale Summit 111
+La Vale 4201
+Callaway 1779
+Rock Point 82
+Edgemont 218
+Fairmount 408
+Mount Briar 170
+Bel Air (Allegany County) 1689
+Leitersburg 569
+Middleburg 73
+Ridgely 1611
+Brooklyn Park 16112
+Brock Hall 13181
+Hurlock 2070
+Charlotte Hall 1388
+Chance 330
+Brown Station 3298
+Pleasant Grove 330
+Overlea 12832
+Jefferson 2697
+Chesapeake City 736
+Cottage City 1335
+North Brentwood 593
+Worton 214
+Denton 4848
+Morningside 1240
+Chesapeake Landing 472
+Cumberland 19076
+Queen Anne 192
+Boonsboro 3799
+Brunswick 7762
+
+Frederick 78171
+Linganore 12351
+Urbana 13304
+Point of Rocks 1886
+Potomac Heights 1036
+Forest Heights 2658
+Oxford 611
+Cearfoss 176
+Cecilton 676
+Charlton 166
+Chevy Chase View 1005
+Tolchester 297
+Chewsville 261
+Myersville 1748
+Trego-Rohrersville Station 160
+Breathedsville 255
+Brookeville 166
+Broomes Island 379
+Tilghman Island 807
+Bel Air (Harford County) 10661
+Fairplay 537
+Templeville 113
+Kemps Mill 117
+Friendship 384
+New Windsor 1441
+Dawson 100
+Henderson 160
+Nanticoke 209
+Benedict 232
+Quantico 148
+Bowmans Addition 584
+Klondike 103
+Lonaconing 1001
+Ringgold 166
+Mardela Springs 357
+San Mar 366
+Zihlman 331
+Mapleville 243
+Jesterville 179
+Girdletree 141
+Greensburg 236
+Frenchtown-Rumbly 86
+Georgetown 117
+Marydel 176
+Tyaskin 226
+Gilmore 132
+Greensboro 1919
+Queenstown 705
+Jugtown 168
+Sandy Hook 168
+Beaver Creek 461
+Betterton 286
+Accident 338
+Allen 199
+Tall Timbers 451
+Ellerslie 651
+Paramount-Long Meadow 2658
+Mount Savage 733
+Cordova 551
+Choptank 126
+Fountainhead-Orchard Hills 6189
+Hutton 87
+Tilghmanton 423
+Shaft 208
+Graceham 243
+Powellville 188
+Bier 186
+Vienna 270
+Aquasco 913
+Pleasant Hills 3998
+Snow Hill 2156
+Crownsville 1924
+Kingsville 4358
+Calvert Beach 791
+Fairlee 500
+Fairmount Heights 1528
+Prince Frederick 3226
+Coral Hills 9997
+Gambrills 3034
+Garrison 9487
+Konterra 3158
+Cavetown 1446
+Accokeek 13927
+Ten Mile Creek 1012
+Kemp Mill 13378
+Pocomoke City 4295
+Pinesburg 444
+Yarrowsburg 112
+Hillsboro 128
+Lisbon 282
+Lusby 2072
+Luke 85
+McCoole 449
+Garretts Mill 228
+Finzel 495
+Crumpton 496
+Gorman 85
+Eden 803
+Burkittsville 142
+Port Deposit 614
+Upper Marlboro 652
+Deer Park 303
+Glen Echo 279
+Pecktonville 164
+Eckhart Mines 858
+Piney Point 980
+Eldorado 45
+Highfield-Cascade 1082
+Moscow 219
+Perryville 4391
+Sharptown 691
+Andrews AFB 3025
+Whitehaven 46
+Little Orleans 65
+West Denton 46
+St. George Island 265
+Federalsburg 2833
+Herald Harbor 2869
+Rock Hall 1198
+West Laurel 4428
+Derwood 2535
+Long Beach 1739
+Buckeystown 1072
+Darnestown 6723
+Grahamtown 368
+Taneytown 7234
+Halfway 11896
+Elkton 15807
+Williamsport 2083
+Pondsville 139
+Midland 488
+Drum Point 2553
+Mitchellville 11136
+Robinwood 7397
+Queenland 2191

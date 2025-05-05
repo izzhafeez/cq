@@ -1,0 +1,447 @@
+
+
+Cardiff 447287
+Dinas Powys 7738
+
+Penarth 23437
+Pentyrch 2287
+Pontyclun 5794
+Llantrisant 14422
+Llantwit Fardre 3992
+Llanharan 5755
+Llanharry 3035
+
+Barry 54673
+Brynna 6686
+
+Bridgend 58380
+Llangeinor 973
+Betws 2253
+Beddau 8134
+
+Pontypridd 30420
+Abertridwr 6504
+Bedwas 8242
+Hengoed 5044
+Bargoed 13412
+New Tredegar 4208
+Tredegar 14855
+Deri 1006
+Treharris 12352
+
+Aberdare 31135
+Abercanaid 5061
+Aberfan 3547
+Abercynon 5983
+Bedlinog 1112
+
+Gelligaer 17376
+
+Caerphilly 31060
+Abercarn 10118
+Abertillery 10946
+Abergavenny 14651
+Govilon 1447
+Victoria 6688
+Crickhowell 2063
+Llangynidr 1036
+Brynmawr 14924
+
+Cwmbran 48157
+Newbridge 6509
+
+Risca 20443
+Caerleon 8747
+Caerwent 1201
+Blaenavon 5647
+
+Blackwood 15476
+Llanbradach 3746
+Machen 2362
+Marshfield 3054
+Magor 5941
+
+Newport 306844
+
+Pontypool 35686
+Crumlin 5947
+Nelson 12857
+Rhymney 8537
+
+Rhondda 59450
+Ferndale 7338
+Pentre 5424
+Treorchy 8105
+Gilfach Goch 2532
+Tonyrefail 9317
+Tonypandy 3750
+Llwynypia 2253
+Ewenny 768
+Ogmore-by-Sea 878
+Croeserw 1595
+Crynant 1602
+Brynamman 5693
+Glanamman 4168
+
+Ammanford 23709
+Cwmafan 5336
+
+Maesteg 21001
+Seven Sisters 2123
+Resolven 2068
+Glyn-neath 5419
+
+Neath 46126
+
+Swansea 300352
+Three Crosses 1583
+Crofty 1012
+Pontyates 1449
+Pontyberem 1695
+Pontarddulais 9073
+Pontlliw 1645
+
+Llanelli 49591
+Llannon 869
+
+Gorseinon 20581
+Grovesend 1131
+Tycroes 2156
+Cross Hands 4549
+Llandybie 2813
+Llandovery 2065
+Llandysul 1484
+Glandwr 1586
+Whitland 1514
+Neyland 3708
+Pendine 346
+Clunderwen 677
+Crundale 584
+Hundleton 435
+Waterston 335
+Johnston 1941
+Jameston 634
+Haverfordwest 14596
+Broad Haven 880
+Milford Haven 13582
+Cardigan 5301
+Fishguard 3419
+
+Carmarthen 15854
+Carway 672
+Pencader 1107
+Penparc 470
+Henfynyw Upper 512
+Tywyn 3097
+Dyffryn Ardudwy 1654
+Aberdyfi 725
+
+Aberystwyth 18749
+Aberaeron 1422
+Aberporth 1648
+Narberth 2265
+Abergwili 589
+Ferryside 846
+Burry Port 8310
+
+Briton Ferry 35179
+Bryn 923
+Taibach 4582
+
+Clydach 19307
+Pen-clawdd 1935
+Bishopston 3647
+Trimsaran 1584
+Saint Clears 1605
+Hill Mountain 673
+Pembroke Dock 9753
+Pembroke 7552
+Brawdy 620
+Cilgerran 865
+Kilgetty 1968
+Kidwelly 2782
+Tumble 4040
+Ystalyfera 10218
+Rhigos 718
+Hirwaun 7247
+Mountain Ash 11230
+Cwmbach 4330
+
+Merthyr Tydfil 43820
+
+Ebbw Vale 33068
+Ynysybwl 3503
+Price Town 2348
+Pontycymer 4288
+Pont Rhyd-y-cyff 1505
+Aberkenfig 10083
+
+Coity 41352
+Pencoed 9166
+Blackmill 654
+Pyle 13701
+
+Porthcawl 15672
+Llantwit Major 14384
+Cowbridge 3804
+Wenvoe 1155
+Corwen 477
+Coedpoeth 5723
+
+Brymbo 18111
+Bodelwyddan 1794
+Rhuddlan 3709
+
+Rhyl 25874
+Dyserth 2594
+Llandyrnog 747
+Llangollen 3466
+Chirk 4007
+Ruthin 5461
+
+Flint 26442
+Gronant 1258
+Greenfield 2446
+Mold 10058
+Holywell 6969
+Hope 4706
+Penyffordd 3554
+Gresford 5010
+Four Crosses 1438
+Forden 745
+Arddleen 418
+Leeswood 2282
+
+Deeside 32000
+
+Hawarden 25513
+Denbigh 8514
+Cerrigydrudion 289
+Penrhyndeudraeth 1546
+Criccieth 1753
+Bethesda 4735
+Pentraeth 557
+Malltraeth 255
+Valley 2361
+Benllech 2236
+Llanfechell 589
+Llanfairpwllgwyngyll 3107
+Llangefni 4864
+Llangristiolus 384
+
+Bangor 17988
+Bryngwran 405
+Dwyran 603
+Conwy 3873
+Llansantffraid Glan Conwy 1862
+Deganwy 9429
+Deiniolen 1379
+Blaenau-Ffestiniog 4005
+Llan Ffestiniog 864
+Llanrwst 3323
+Betws-y-Coed 1200
+Penmaenmawr 2535
+Gaerwen 1551
+Caernarfon 9730
+Talysarn 1086
+Garndolbenmaen 101
+Dolgellau 2688
+Upper Corris 200
+Llanfair Caereinion 1055
+Caersws 816
+Carno 730
+Penparcau 3088
+Borth 1269
+Fairbourne 721
+Barmouth 2315
+Bala 1974
+Llanbedr 385
+Harlech 1762
+Machynlleth 2235
+Llanidloes 2929
+Rhayader 1824
+Llandrindod Wells 5309
+Builth Wells 2829
+Clyro 781
+Bronllys 491
+Brecon 8250
+Coelbren 537
+Sennybridge 230
+Penysarn 595
+Laugharne 817
+Llanrug 1916
+Llanwrda 287
+Llandogo 547
+Llandinam 576
+Llanellen 506
+
+Chepstow 16169
+Port-Eynon 226
+Northop 1001
+Steynton 3000
+Reynoldston 439
+Penley 606
+Henllan 862
+Llanarth 503
+Llangoed 849
+Llanberis 1844
+Southgate 2004
+Talgarth 1268
+Spittal 494
+Ogmore Vale 2436
+Rogiet 1813
+Caldicot 11373
+Sudbrook 322
+Undy 5914
+Parc Seymour 744
+Monmouth 10110
+Raglan 1183
+Usk 2834
+Cwmann 872
+Llanrhidian 512
+Llanrhystud 646
+Lampeter 2970
+Newcastle Emlyn 1883
+Maenclochog 731
+Goodwick 1720
+Groeslon 880
+Tenby 4696
+Llanbedrog 613
+Rosemarket 613
+Kerry 785
+Berriew 283
+Abermule 900
+Newtown 11357
+Knighton 3007
+Clarbeston Road 318
+Templeton 627
+Llanbedr-Dyffryn-Clwyd 306
+Llansteffan 424
+Meidrim 582
+Meifod 317
+Montgomery 986
+Pontneddfechan 366
+Llechryd 875
+Cynwyd 542
+Mostyn 1606
+Keeston 324
+Cosheston 828
+Norton 375
+Bonvilston 392
+Letterston 1245
+Freshwater East 250
+Morfa Nefyn 857
+Trefnant 993
+Llansantffraid-ym-Mechain 1
+Llanrhaeadr-ym-Mochnant 408
+Welshpool 5948
+Overton 965
+Broughton 5974
+Gwalchmai 715
+Caergwrle 4673
+
+Wrexham 65692
+
+Rhosllanerchrugog 25362
+Rossett 2279
+
+Buckley 63576
+
+Abergele 17769
+Saint Asaph 3355
+
+Prestatyn 18701
+Bagillt 2749
+
+Colwyn Bay 34284
+Menai Bridge 4958
+Cemaes Bay 1187
+Amlwch 3211
+Bodedern 1051
+Holyhead 11431
+Beaumaris 1370
+Llanfairfechan 3637
+
+Llandudno 15371
+Y Felinheli 2284
+Bontnewydd 951
+Penygroes 1793
+Chwilog 640
+Porthmadog 2981
+Pwllheli 4076
+Mynytho 536
+Abersoch 783
+Roch 463
+Llanymynech 887
+Llanerchymedd 1133
+Llanyre 279
+Llanfyllin 1105
+Llan-non 598
+Llangadog 650
+Nantgaredig 524
+Presteigne 2056
+Rhosneigr 1008
+Lamphey 593
+Llanilar 1085
+Llanmadoc 365
+Llanddona 691
+Llangwm 875
+Llangattock 662
+Ruabon 3091
+Hook 838
+Rhossili 278
+Stepaside 619
+Llangybi 444
+Blaengwynfi 1362
+Llwyngwril 526
+Dolgarrog 446
+Tregarth 1307
+Trefriw 605
+Fochriw 1250
+Saint Davids 1800
+Pontrhydfendigaid 712
+Tregaron 1213
+Llandeilo 1795
+Cwm 2739
+Marchwiel 1092
+Guilsfield 1220
+Tavernspite 349
+Talacre 347
+Penally 848
+Newbridge on Wye 566
+New Quay 694
+Glyncorrwg 1096
+Heol-y-Cyw 538
+Wick 698
+Trawsfynydd 628
+Rhydymwyn 537
+Llandissilio 513
+Cefn Cribwr 1324
+Saundersfoot 3361
+Rhoose 6160
+Rhosgoch 1
+Llanbedrgoch 1
+Ty Croes 1
+Moelfre 710
+Aberffraw 620
+Radyr 4710
+Pontrhydyfen 830
+Tal-y-bont 1540
+Tyn-y-Gongl 1
+Glogue 1
+Brynteg 1
+Tintern 750
+Gilwern 2263
+Nefyn 1373
+Bow Street 1572
+Crymych 704
+Treuddyn 1360
+Marianglas 1
+Dulas 1
+Llanwrtyd Wells 630
+Caerwys 950
+Solva 710
+South Cornelly 471
+Pont Henri 987
+Tregynon 892
+Capel Bangor 256

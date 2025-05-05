@@ -1,0 +1,4880 @@
+
+
+London 8908081
+
+Croydon 173314
+
+South Croydon 55198
+
+Southall 70000
+
+Feltham 24325
+
+Walton-on-Thames 22834
+
+Sunbury-on-Thames 27784
+Thames Ditton 5863
+Kingston upon Thames 10001
+Harrow on the Hill 10632
+Greenhill 9324
+
+Greenford 38000
+Brentford 10750
+
+Morden 48233
+Stanmore 4179
+
+Borehamwood 32176
+
+Hadley Wood 21639
+Radlett 8163
+Sarratt 918
+Gerrards Cross 20633
+Maple Cross 2427
+Little Chalfont 4497
+Chalfont St Giles 7957
+Chalfont Saint Peter 20059
+Seer Green 2200
+Great Missenden 7227
+Grendon 544
+Wendover 7702
+Bovingdon 5295
+Ivinghoe 2939
+Tring 11929
+Wing 2589
+Winslow 4407
+Drayton Parslow 614
+Mursley 611
+Akeley 514
+Blakesley 508
+Claverley 549
+Steeple Claydon 2114
+Chesterton 850
+
+Bicester 33846
+Towcester 9057
+Irchester 4419
+Church Fenton 1357
+Badminton 271
+Glinton 1740
+Glatton 308
+Glapthorn 271
+Clapham 4560
+Clophill 2369
+Ampthill 20026
+Tickhill 4992
+Flitwick 12983
+Kempston Hardwick 20000
+Kempston 19873
+Emberton 315
+Pirton 1274
+Barton-le-Clay 4992
+Barkway 775
+Barley 662
+Redmarley D'Abitot 366
+Cottered 451
+Codicote 10938
+Upper Boddington 451
+Benington 608
+Stillington 1210
+Caddington 3112
+Toddington 4585
+Harlington 2297
+Lidlington 1185
+Yelling 411
+Hartwell 1875
+Sywell 1117
+
+Wellingborough 50577
+Irthlingborough 7502
+Desborough 10697
+
+Market Harborough 22911
+Narborough 6321
+Broughton Astley 8940
+Little Staughton 440
+Houghton on the Hill 1524
+Burton Overy 440
+Burton on the Wolds 1218
+Wold Newton 337
+Wymeswold 1296
+Waltham on the Wolds 836
+South Witham 1533
+Greetham 638
+Great Bircham 448
+Greatford 268
+Great Limber 271
+Seaton 250
+Great Glen 2977
+Glenfield 10000
+Markfield 4993
+Market Bosworth 2097
+Bagworth 1472
+Kegworth 3601
+Keyworth 6733
+Awsworth 2634
+Blidworth 4457
+Rainworth 7693
+Wingerworth 6430
+Babworth 1329
+Wadworth 1137
+Adwick le Street 19481
+Street 12911
+Treeton 3189
+Kiveton Park 8703
+Market Warsop 9018
+Warsop 9766
+
+Worksop 43252
+Epworth 4279
+Northorpe 2184
+
+Scunthorpe 79977
+Thorpe on the Hill 431
+Thorne 17295
+Armthorpe 12911
+Horning 1098
+Finningley 3525
+Dinnington 19860
+Long Bennington 2018
+Bollington 7033
+Partington 7895
+
+Warrington 165456
+Cuddington 843
+Bebington 15768
+Shevington 5195
+Adlington 7965
+Tottington 7713
+Billington 1458
+Podington 435
+
+Accrington 35318
+Church 4077
+Chatburn 1102
+
+Burnley 149422
+
+Blackburn 146521
+Blackrod 5086
+Clayton-le-Woods 14528
+Clayton le Moors 8474
+Little Lever 11329
+Little Hulton 10216
+
+Bolton 141331
+
+Golborne 24021
+
+Runcorn 62872
+Appleton Thorn 1324
+Grappenhall 9377
+Halton 2218
+Saughall 2569
+Kelsall 2721
+Helsby 5166
+Daresbury 4122
+North Thoresby 1068
+Hugh Town 1068
+
+Westhoughton 26260
+Hoghton 524
+Rishton 6625
+
+Ashton in Makerfield 29039
+Ince-in-Makerfield 11185
+
+Whitefield 23545
+Whitworth 5798
+Edgworth 2321
+
+Farnworth 25680
+Failsworth 20555
+Gawsworth 703
+
+Northwich 47421
+Middlewich 13595
+Nantwich 17226
+Walberswick 380
+
+Heswall 29789
+
+Wallasey 58794
+Nether Wallop 294
+
+Litherland 22971
+Bretherton 437
+Atherton 20149
+Stockton Heath 6396
+
+St Helens 102555
+Levens 843
+
+Winsford 30259
+Knutsford 13191
+Chelford 1058
+
+Stretford 41953
+
+Salford 72750
+
+Sale 55689
+Hale 15315
+
+Bramhall 25506
+Whaley Bridge 5140
+
+Stalybridge 22748
+Alderley Edge 4408
+Timperley 11049
+Disley 3159
+Chinley 1614
+Henley 573
+Tansley 1197
+Pilsley 3183
+
+Ripley 21097
+Shirley 240
+Orleton 573
+
+Alfreton 22550
+Calverton 6868
+Ashover 659
+Bolsover 11754
+Bolton upon Dearne 13236
+Upton 5874
+Woodplumpton 688
+Cawood 1409
+Lodsworth 348
+Rufforth 633
+Spofforth 1169
+Horsforth 19350
+Glemsford 3382
+Headingley 300
+
+Yeadon 37379
+Baildon 15710
+
+Shipley 28544
+Bingley 20327
+Otley 14668
+Ilkley 14809
+
+Morley 57385
+
+Batley 50807
+Emley 1497
+Shelley 5359
+Shepley 5444
+
+Sheffield 685368
+
+Dronfield 21124
+
+Chesterfield 113057
+South Wingfield 1088
+Duffield 4687
+
+Kirkby in Ashfield 27539
+
+Sutton in Ashfield 43912
+
+Mansfield 171958
+Mansfield Woodhouse 18330
+Farnsfield 2566
+Farndon 2506
+Sharnford 985
+Tuxford 2649
+
+Retford 22023
+Clarborough 1281
+Gainsborough 20842
+Laughton 410
+Broughton 4677
+Alkborough 458
+Brough 19904
+Hemingbrough 2483
+Bilbrough 348
+Goldsborough 469
+Knaresborough 14740
+Boroughbridge 4163
+Stowbridge 386
+Sundridge 1383
+Coundon 3256
+Shildon 9976
+Brandon 9566
+
+Sunderland 335415
+
+Peterlee 37015
+
+Chester-le-Street 36917
+
+Houghton-Le-Spring 37840
+Hetton-Le-Hole 13100
+Blaydon-on-Tyne 14974
+
+Newcastle upon Tyne 192382
+
+Newburn 41347
+Burnopfield 3735
+Tanfield 1659
+Annfield Plain 10406
+Petersfield 14974
+Stocksfield 2616
+
+North Shields 39747
+
+South Shields 83655
+Tynemouth 17436
+Shiremoor 4889
+
+Washington 53526
+Easington 7193
+Willington 6633
+
+Darlington 92363
+Halling 1848
+Northallerton 16832
+Scorton 1012
+West Cornforth 2501
+West Rainton 2316
+East Rainton 1213
+East Boldon 5001
+The Boldons 13567
+Heddon on the Wall 1318
+
+Wallsend 42739
+Hallaton 594
+Alston 1105
+Dalston 1285
+
+Kendal 29147
+Silverdale 1326
+Ulverston 11356
+Haverigg 1849
+
+Whitehaven 24900
+Braithwaite 342
+Bassenthwaite 412
+Stainton 770
+Cumwhinton 364
+Haltwhistle 3791
+Huntley 1105
+Castleside 4881
+Wideopen 8976
+Ryhope 14000
+Ferryhill 9805
+Fernhill Heath 3256
+Sherburn Hill 1202
+Sherburn 3140
+Bowburn 3884
+Fishburn 2588
+Whitburn 5352
+
+Whitley Bay 38055
+Whickham 16625
+Whittingham 280
+Bellingham 1070
+Bedlington 16974
+
+Cramlington 33180
+
+Ashington 27670
+Nash 417
+Whipsnade 279
+Hepscott 417
+Shilbottle 1834
+Witton Gilbert 2339
+Rowlands Gill 6096
+Ponteland 10135
+Seaton Delaval 9350
+
+Seaham 22373
+Greatham 939
+Great Ayton 4518
+Great Somerford 593
+Horsford 4163
+Aberford 1503
+Garforth 14838
+Garton on the Wolds 348
+Stockton on the Forest 875
+Culmstock 554
+Pocklington 8337
+Elvington 933
+Sherington 954
+Eastrington 1147
+Eastoft 431
+Carcroft 8584
+Crofton 5258
+
+Lofthouse 23458
+Portscatho 1500
+Cawthorne 893
+Grimethorpe 4672
+Hoyland Nether 15842
+
+Rotherham 117618
+Hathersage 2018
+Heage 2698
+
+Heanor 23122
+Ravenshead 5759
+Cotgrave 7203
+Walgrave 868
+
+Grantham 43833
+Brant Broughton 744
+Branston 3852
+Merstone 324
+Marston 360
+Barkston 493
+Barrowby 1952
+Harby 931
+Great Gonerby 5853
+Corby Glen 1017
+Ewerby 509
+Ridgewell 509
+Cranwell 1372
+Anwick 392
+Scopwick 815
+Ickleton 709
+Canwick 324
+Ancaster 1294
+Colsterworth 1245
+Elston 631
+Rolleston 312
+South Collingham 2637
+North Collingham 2578
+North Muskham 985
+Ruskington 5637
+Heckington 3823
+Donington 2805
+Coningsby 4388
+Spilsby 3440
+Scamblesby 228
+Mablethorpe 12531
+Hogsthorpe 908
+Weaverthorpe 349
+Leverton 349
+Sampford Peverell 1302
+Alford 3459
+Lackford 255
+Coverack 255
+Hoveringham 359
+Hagworthingham 359
+Kings Worthy 4388
+Woodhall Spa 4331
+Wainfleet All Saints 1744
+Chapel Saint Leonards 3481
+Grainthorpe 563
+
+Cleethorpes 32017
+Seething 365
+Wethersfield 691
+Withern 380
+Fotherby 482
+Withernsea 6159
+Hornsea 8432
+Burton Pidsea 944
+Brandesburton 1291
+Cherry Burton 1392
+Bishop Burton 696
+Morchard Bishop 1078
+Morland 374
+New Holland 970
+Mollington 626
+Kirmington 365
+Walkington 1769
+Lockington 374
+
+Bridlington 35154
+Dunnington 2987
+Dunswell 1682
+Whatstandwell 270
+Pitstone 3674
+Sharlston 4028
+Barkston Ash 370
+Boston Spa 6052
+Burton Salmon 416
+Hensall 852
+Campsall 1940
+South Elmsall 18835
+Kirk Sandall 13572
+Kirk Smeaton 688
+Great Comberton 300
+Great Houghton 2475
+Conisbrough 15934
+Mexborough 15079
+Laughton en le Morthen 971
+Beighton 10914
+Oughtibridge 4939
+Stocksbridge 13069
+Flockton 1368
+Burton Bradstock 682
+Badsworth 682
+Hemsworth 9246
+Cudworth 11903
+Dodworth 5870
+Low Ackworth 1500
+Rotherfield Peppard 1500
+Hayfield 1940
+Darfield 8246
+Darton 15259
+Sutterton 1368
+Chapel Allerton 18206
+Whaplode 1666
+Burley in Wharfedale 5996
+Sherburn in Elmet 6657
+Fairburn 819
+Horbury 10225
+
+Dewsbury 56640
+Queensbury 8912
+Menston 4764
+Guiseley 21000
+Bramhope 3382
+Bramham 1650
+Brayton 2913
+Hayton 193
+Dinton 696
+Winterton 4899
+Pointon 532
+Saint Agnes 2820
+Burton Agnes 270
+Norton 7000
+Ellerton 388
+Kellington 991
+Pollington 834
+Darrington 1182
+Marr 138
+Rawmarsh 18616
+Marsh Gibbon 969
+Bonsall 803
+Rickinghall 2073
+Brigham 756
+
+Nottingham 329200
+Bingham 9131
+Bassingham 1425
+Leasingham 1584
+Sleaford 17359
+Ropsley 647
+Rookley 638
+Braybrooke 378
+Claybrooke Magna 616
+
+Wigston Magna 33720
+Stoney Stanton 3793
+Barlestone 2607
+Ravenstone 1623
+Anstey 6528
+Upminster 10000
+
+Leicester 508916
+Terrington 337
+Ruddington 6404
+Edington 734
+Packington 734
+Whittington 2085
+Essington 4829
+Derrington 668
+Longton 12794
+Longstock 292
+Hinstock 861
+Stone 14258
+Barlaston 1979
+Wheaton Aston 1965
+Heather 920
+Osmotherley 668
+Tarporley 2614
+Great Wyrley 19193
+Great Haywood 1844
+Brewood 2614
+
+Burntwood 29244
+Barton under Needwood 3796
+
+Burton upon Trent 122199
+Coton in the Elms 896
+Breedon on the Hill 686
+Warthill 240
+Worth 634
+
+Tamworth 81964
+Polesworth 9645
+Curdworth 1115
+
+Bedworth 29981
+
+Kenilworth 22413
+North Stoke 362
+Stokenham 362
+Bubbenhall 655
+Exhall 2317
+Balsall Common 7039
+Ullenhall 353
+
+Solihull 96267
+Southam 6567
+Glentham 508
+
+Daventry 23879
+Weston upon Trent 761
+Grendon Underwood 637
+Great Horwood 1049
+Great Dalby 562
+Great Brickhill 817
+Little Brickhill 407
+Bow Brickhill 562
+Bowthorpe 20000
+Thorney 1745
+Husborne Crawley 190
+Cranfield 5369
+Greenfield 1831
+
+Hatfield 41677
+
+Hertford 25847
+Wangford 466
+Bayford 466
+Widford 534
+Buntingford 4948
+Wybunbury 854
+Little Hallingbury 1352
+Little Amwell 2606
+Shadwell 1352
+Much Hadham 1994
+Old Harlow 6968
+
+Harlow 94365
+Harringay 16500
+
+Barking 61000
+Kingswinford 20000
+West Kingsdown 5484
+Kings Hill 2638
+Ide Hill 389
+Crockham Hill 291
+Biggin Hill 13535
+Thornton Heath 14669
+
+Blackheath 25116
+West Wickham 14276
+West Keal 327
+Westerham 3303
+Caterham 20957
+
+Reigate 52123
+Chattenden 972
+Send 6597
+Chertsey 10553
+Shepperton 10106
+Upper Poppleton 3451
+Eton 3025
+Eton Wick 2029
+Old Windsor 7168
+
+Windsor 33348
+Hindhead 6187
+
+Maidenhead 64831
+Denham 1432
+Farnham Royal 6187
+Amersham on the Hill 17719
+
+Amersham 21731
+Chesham 20649
+Cheddington 1634
+Sinnington 287
+Chinnor 5473
+Lewknor 322
+Norton Lindsey 326
+Sturton le Steeple 486
+Forton 302
+North Dalton 302
+North Crawley 736
+Northwold 736
+Greatworth 708
+Pebworth 808
+Wirksworth 5038
+Worthen 311
+Peasemore 311
+East Grimstead 311
+East Barkwith 373
+Great Witley 560
+Great Rissington 367
+Nassington 827
+Chadlington 827
+Ducklington 1608
+Buckland 588
+Clanfield 879
+Westfield 1543
+Holmesfield 753
+Leafield 945
+
+Sutton Coldfield 107030
+
+Lichfield 32877
+
+Bloxwich 40000
+
+West Bromwich 135618
+
+Bromsgrove 49117
+Belbroughton 1272
+Albrighton 4829
+Haughton 920
+Hapton 1979
+Horton 1033
+Chorlton 346
+Hockwold cum Wilton 1195
+Burham 1195
+Weaverham 6087
+Sulgrave 380
+Guilden Sutton 1467
+Etton 277
+
+Congleton 26178
+Cheddleton 2947
+Cheadle 11404
+Radley 1979
+Audley 5638
+Betley 1033
+Lower Whitley 270
+
+Wilmslow 36617
+
+Urmston 41198
+Eccleston 4646
+
+Preston 313332
+Great Eccleston 1657
+Great Marton 1603
+Great Milton 618
+Great Harwood 11467
+
+Darwen 32566
+Horwich 18696
+
+Chorley 33888
+Tarleton 8582
+Freckleton 8049
+
+Morecambe 51644
+Ambleside 2529
+Burneside 1017
+Arnside 2334
+Carnforth 7920
+Orton 235
+Casterton 425
+Warton 2300
+Swarthmoor 1076
+Cleator Moor 6936
+Moor Row 787
+Broughton Moor 783
+Broughton in Furness 529
+Askam in Furness 3274
+Dalton in Furness 7827
+Lindal in Furness 755
+
+Barrow in Furness 45865
+Kirkby-in-Furness 554
+Kirkby Lonsdale 1843
+Burton in Lonsdale 579
+Lindale 579
+Grindleton 435
+Longridge 7526
+Appley Bridge 5270
+Wappenham 294
+
+Birkenhead 325264
+
+Kirkby 42744
+
+Ormskirk 24073
+
+Formby 23329
+Rainford 6131
+Billinge 5896
+Haslingden 15204
+Walsden 2000
+Todmorden 11690
+Ripponden 4665
+Hebden Bridge 4235
+Sowerby Bridge 9948
+Liversedge 11656
+Ferrybridge 1491
+Knottingley 13804
+Pattingham 1749
+Saxlingham Nethergate 688
+Wetherby 13572
+Westhead 795
+Keadby 2238
+Leadenham 410
+Howden 4142
+Steeple Morden 852
+Wedmore 1409
+Woore 633
+Latchingdon and Snoreham 1182
+
+Pontefract 44710
+
+Castleford 60509
+
+Doncaster 158141
+Ilchester 2153
+West Butterwick 795
+Scotter 2865
+Bircotes 7948
+Birdwell 3056
+Wombwell 15518
+Braithwell 804
+Whitwell 3846
+Creswell 5417
+Glapwell 2202
+Blackwell 3037
+Lambley 857
+Bleasby 824
+East Bridgford 1814
+
+West Bridgford 48314
+West Hallam 6314
+
+Ilkeston 38587
+Kimberley 11273
+Wilberfoss 1866
+Waltham Cross 10000
+Croft 1770
+Cropwell Butler 357
+Welland 903
+Welford 1043
+Shelfanger 378
+Langham 1371
+Uppingham 4745
+Erpingham 378
+Rothwell 7694
+Maidwell 429
+Wherwell 473
+Mells 638
+Felsham 448
+Rye Harbour 448
+Bourne 13961
+Welbourn 647
+Welney 542
+Barnwell 369
+Barnack 752
+Baston 1444
+Castor 1393
+Easton on the Hill 1015
+Stanford in the Vale 2093
+Stanwick 1942
+Papplewick 369
+Sopley 308
+Peopleton 585
+Cople 722
+Comberton 2346
+Coton 910
+Cottenham 5903
+Totternhoe 982
+Chatteris 10298
+Waterbeach 5795
+Great Chesterford 1494
+Great Chishill 921
+Great Gransden 1319
+Great Barford 2003
+Langford 3091
+Shefford 10816
+
+Bedford 106940
+Woodford 1461
+Stamford 20592
+Stamfordham 347
+Pitsford 671
+Elford 632
+Hainford 422
+Halford 341
+Wickhamford 747
+Defford 571
+Droxford 675
+
+Droitwich 23834
+
+Redditch 84300
+Church Lench 311
+North Leigh 1552
+High Bentham 1680
+Stoneleigh 341
+Haseley 242
+Bearley 724
+Earlswood 961
+Hopwood 993
+Astwood Bank 2717
+Chelmsley Wood 13010
+Keresley 2432
+Shawbury 2317
+Kingsbury 3730
+
+Wednesbury 24337
+
+Wednesfield 33555
+Norton Canes 7479
+
+Cannock 86121
+Swynnerton 484
+Otterton 656
+Potterne 1622
+Uttoxeter 13089
+Stutton 599
+Bratton Fleming 928
+Ratby 4468
+Enderby 8113
+Kirby Muxloe 9712
+Kirkby Mallory 383
+Appleby Magna 962
+Ashby de la Zouch 12370
+Measham 5209
+Borrowash 5746
+Barrow upon Soar 5196
+Farrington Gurney 901
+Sutton Bonington 1218
+Castle Donington 6416
+Little Eaton 2060
+
+Long Eaton 47898
+Long Whatton 1124
+Hathern 1866
+Findern 1669
+Sinfin 15128
+Brassington 573
+Marchington 615
+Doveridge 1622
+Penkridge 7791
+Aldridge 16008
+
+Walsall 172141
+Pelsall 10758
+
+Willenhall 27500
+Brownhills 20308
+Chasetown 9000
+Shenstone 2220
+Featherstone 14175
+Netherton 2587
+Mosterton 604
+
+Kidderminster 57059
+
+Worcester 101659
+Alcester 6939
+Alderminster 243
+Adderbury 2819
+
+Banbury 48651
+Wendlebury 421
+Polebrook 478
+Hook Norton 1919
+Chipping Norton 5719
+Long Compton 764
+Plumpton 341
+Fenny Compton 808
+Compton Martin 508
+
+Northampton 215963
+Kimpton 1436
+Burton Latimer 6890
+Finedon 4309
+Geddington 1503
+Ellington 585
+Willingham 4015
+Gislingham 669
+Haslingfield 1507
+Laxfield 910
+Stonesfield 1527
+Longstanton 2294
+Fenstanton 2639
+Fovant 669
+Over 2862
+Skinningrove 1606
+Oakington 1527
+Doddington 3235
+Wimblington 4239
+Wimbotsham 664
+Portesham 566
+Foulsham 1021
+Aylsham 6016
+North Walsham 12463
+Ledsham 162
+Coltishall 2310
+Holt 3810
+Salthouse 201
+Ashwellthorpe 454
+Bunwell 564
+Great Ellingham 856
+Hingham 2151
+Kenninghall 714
+Barningham 956
+Honington 323
+Chevington 301
+Cheveley 884
+Chedburgh 597
+
+Sudbury 22213
+Bures Saint Mary 1433
+Saint Stephen 2252
+Capel Saint Mary 2940
+Elmstead Market 1646
+Great Horkesley 2476
+Great Bentley 1545
+Great Oakley 702
+Bucklesham 526
+Rendlesham 3013
+Witnesham 309
+Garboldisham 543
+Diss 10734
+Mellis 519
+Elmswell 3950
+Badwell Ash 770
+Bardwell 643
+Great Barton 1600
+Barton Mills 867
+Mildenhall 14382
+Tuddenham St Mary 423
+Fornham St. Genevieve 324
+Pulham St Mary 770
+Market Weston 245
+
+Stowmarket 21028
+Needham Market 4528
+Beenham 770
+Banham 1159
+South Luffenham 455
+South Leverton 480
+South Cockerington 245
+Southrop 245
+Hopton 653
+Orston 454
+Burston 568
+Stuston 194
+Harleston 4458
+Geldeston 397
+Elton 679
+Thurlton 1077
+Thurton 883
+Somerton 4225
+Bromeswell 314
+Halesworth 5558
+Langworth 460
+Lingwood 2719
+Surlingham 542
+Ellingham 679
+Badingham 220
+Framlingham 3086
+Bramfield 487
+Crowfield 361
+Hatfield Peverel 3950
+Waldringfield 464
+Great Waldingfield 1256
+Gosfield 1140
+Panfield 841
+Finchingfield 711
+Great Bardfield 1227
+Great Dunmow 7749
+Little Dunmow 2190
+Little Paxton 3244
+Thaxted 2538
+Stansted Mountfitchet 5429
+Hatfield Heath 1717
+Hatfield Broad Oak 916
+
+Enfield Town 103970
+
+Camden Town 26122
+Downe 327
+Hadlow 2849
+Lower Stoke 766
+Allhallows 1686
+Chilham 379
+Chartham 2836
+Charing 1841
+Harrietsham 1442
+Lenham 2197
+Rainham 6394
+
+Chatham 75509
+Wrotham 1921
+Wortham 389
+Mouldsworth 327
+
+Coulsdon 25500
+Ulcombe 575
+Groombridge 1120
+
+Tonbridge 38657
+
+Royal Tunbridge Wells 68910
+Edenbridge 8172
+Rooks Bridge 389
+Upper Broughton 327
+Hildenborough 575
+Borough Green 4342
+Fawkham Green 231
+Greenhithe 4700
+Erith 9811
+
+Billericay 36338
+Newton Longville 1846
+Horndon on the Hill 1596
+South Ockendon 19460
+
+South Benfleet 48824
+
+Southend-on-Sea 295310
+Southchurch Village 2000
+Eastchurch 1135
+Upchurch 1340
+Hursley 443
+Marhamchurch 658
+Mark 741
+Marsworth 741
+Marden 2466
+Frittenden 267
+Biddenden 1303
+Benenden 787
+Lavendon 1303
+Seend 267
+Tenterden 7118
+Iden 456
+Marsden 3889
+Romney Marsh 2279
+New Romney 9674
+Somerford Keynes 479
+Mersham 806
+Marsh Baldon 310
+Aldington 988
+Kennington 4178
+Addington 857
+Stoke Goldington 575
+Great Addington 327
+Teddington 9615
+Chessington 19433
+Orpington 15248
+Chislehurst 20000
+Buckhurst Hill 10738
+Grange Hill 12449
+Ingrave 1846
+Pavenham 527
+
+Dagenham 108368
+
+Beckenham 82000
+Clerkenwell 4934
+
+Welling 42500
+Chigwell 10354
+High Easter 754
+Potter Heigham 829
+Great Leighs 2709
+Great Totham 735
+
+Witham 25353
+West Wittering 875
+Great Wratting 196
+Martin 684
+Newmarket 20384
+Manea 2088
+
+March 21051
+Marcham 1740
+Maxey 708
+Eye 2875
+
+Peterborough 163379
+Warboys 3825
+Wareham 7592
+Darenth 2481
+Linton 4525
+
+Braintree 53477
+Tiptree 9182
+Streatley 559
+Mistley 1696
+Shotley Gate 1511
+Hartley Wintney 4488
+Hartest 446
+Silchester 774
+Bildeston 1054
+Buckhorn Weston 356
+Lighthorne 361
+Sproughton 772
+Eight Ash Green 1106
+Ardleigh 912
+Brightlingsea 8076
+Healing 2940
+South Zeal 912
+Yarmouth 912
+Southminster 4025
+
+Colchester 121859
+Cold Norton 1099
+Black Notley 1988
+Slaley 711
+Ashley 749
+Ashdon 553
+Ashwell 1870
+Orwell 1035
+Hemswell 391
+Burwell 6309
+Eastbury 276
+East Keal 366
+Lea 553
+Earsham 882
+Harston 1729
+Hartland 910
+Sandy 11657
+Chicksands 1396
+
+Hitchin 36099
+
+Letchworth 33955
+
+Letchworth Garden City 43529
+Guilden Morden 986
+Lydden 673
+Lyddington 366
+Arkesden 366
+Saffron Walden 15210
+Luddenden Foot 2190
+Ford End 685
+Silver End 3861
+Kelvedon 5322
+Peldon 559
+Chappel 403
+Hitcham 774
+Ditchingham 1899
+Finningham 480
+Ottringham 597
+Icklingham 423
+Winterborne Stickland 653
+Winterborne Kingston 643
+Locking 1742
+Ashbocking 356
+Westhampnett 361
+Hessett 464
+
+Thetford 24833
+Tetford 464
+Long Melford 2898
+Boxford 996
+Bramford 1899
+Alresford 2009
+
+Chelmsford 111511
+
+Wickford 32975
+Wickham Bishops 3788
+Wickwar 1717
+Ware 17576
+Walkern 1541
+Puckeridge 3561
+Sawbridgeworth 8400
+Abridge 1613
+Waltham Abbey 18069
+Abbey Wood 13000
+
+Woodford Green 22803
+Hastingwood 700
+
+Brentwood 52586
+Hoo 5377
+Shoreham 800
+Shortlands 9303
+Horton Kirby 1241
+Newton on Trent 389
+Plumpton Green 1123
+Furnace Green 6737
+Gossops Green 6000
+Handcross 1027
+Husbands Bosworth 1027
+Wrestlingworth 591
+
+Worthing 99110
+Faldingworth 400
+Petworth 2544
+Fittleworth 681
+
+Littlehampton 58714
+Yapton 5459
+Capel 1239
+
+Carshalton 45525
+Ottershaw 3451
+Puttenham 601
+
+Farnham 36971
+
+Farnborough 59902
+Arborfield 334
+Charsfield 355
+Bradfield 1161
+Burghfield 355
+Binfield Heath 709
+Theale 2833
+Southery 1161
+Cheriton 325
+Hermitage 2157
+Wantage 18505
+Pant 1998
+Steventon 1485
+Chieveley 987
+Childrey 582
+Chilton Foliat 363
+Old Bolingbroke 325
+Cold Ash 2224
+Old Sarum 987
+Old Dalby 355
+Allendale Town 709
+Bourne End 5320
+Dorney 278
+Dorney Reach 474
+Beaconsfield 13797
+Harefield 6573
+Edgware 9832
+Redbourn 5113
+Aldbury 642
+
+Aylesbury 74748
+Ellesborough 544
+Princes Risborough 8231
+
+Slough 163777
+
+Hounslow 66292
+East Horsley 5866
+West Horsley 1276
+West Byfleet 5054
+West Molesey 18565
+East Molesey 18565
+Hampton 18000
+
+Egham 29663
+Immingham 10750
+
+Mitcham 48311
+Bletchingley 2221
+Betchworth 941
+Tadworth 6999
+Isleworth 20500
+
+Northolt 26000
+
+Ruislip 31000
+Pinner 19158
+
+Staines 51040
+Addlestone 14978
+Windlesham 4194
+
+Esher 52392
+
+Leatherhead 43544
+Headley 774
+Ashtead 13494
+
+Banstead 46280
+Dormansland 2550
+Dorking 17747
+
+Woking 103932
+Hook 18973
+Great Bookham 11000
+St Mary Bourne 671
+Donhead St Mary 253
+Elstead 2557
+Binchester 271
+Abinger Hammer 257
+Haslemere 13651
+Peaslake 2731
+South Creake 516
+South Moreton 420
+South Hayling 15485
+Hayling Island 16887
+Milland 326
+Milford 6220
+Washford 601
+Shackleford 253
+Ockley 595
+Icklesham 941
+
+Horsham 51472
+
+Horley 21232
+Copthorne 5000
+Albourne 310
+Pulborough 3993
+Bordon 20978
+Swinford 586
+Amberley 586
+Witley 6437
+Breighton 271
+Cranleigh 11082
+
+Crawley 180508
+Crawley Down 4300
+Blindley Heath 1123
+
+Haywards Heath 33845
+
+Burgess Hill 30635
+Danehill 219
+
+Redhill 51559
+Brixton Hill 12458
+Earlsfield 15562
+Warlingham 7970
+Woldingham 1502
+Ardingly 1250
+Ditchling 1476
+Slingsby 665
+Kingston near Lewes 831
+Lewes 17297
+Newick 3726
+Hickstead 60
+Hassocks 6821
+Much Wenlock 2211
+Dockenfield 399
+West Tanfield 293
+Watersfield 344
+Southwater 8692
+South Chailey 1021
+Lower Brailes 1027
+Maidenbower 8070
+Plaistow 395
+Pailton 516
+Alton 16584
+Bishops Waltham 6275
+Bishopstoke 17667
+Shouldham 605
+Shorwell 433
+Fontwell 1941
+Westergate 9783
+
+Chichester 31654
+Ebchester 871
+
+Winchester 46074
+Middle Winterslow 1579
+Countess 301
+Wicken Bonhunt 223
+Brockenhurst 3552
+Lyndhurst 2347
+Bursledon 6894
+Loddon 3552
+Trimdon Grange 1304
+Henstridge 1530
+Stalbridge 2396
+Albury 574
+Hazelbury Bryan 445
+Abbotsbury 481
+Winterbourne Abbas 652
+Cerne Abbas 784
+Bradford Abbas 975
+Child Okeford 1114
+Blandford Forum 11694
+Zeal Monachorum 413
+Fontmell Magna 333
+Charlton Marshall 1026
+Tivetshall St Margaret 296
+Lytchett Matravers 3315
+
+Christchurch 42396
+Marchwood 6141
+Ringwood 14084
+Verwood 13360
+Woodnewton 450
+Goodleigh 450
+High Ham 398
+North Hayling 439
+North Cheriton 208
+North Moreton 328
+Torton 303
+Everton 523
+Evercreech 1845
+Dovercourt 1001
+Staverton 458
+Kirby Misperton 370
+Bourton 1480
+Stourton Caundle 439
+Castle Cary 3232
+West Camel 459
+Weston on the Green 523
+Stretton on Fosse 439
+Stoney Stratton 311
+Enstone 849
+Warminster 17490
+Steep 849
+Steeple Ashton 935
+Limpley Stoke 1092
+Steeple Aston 947
+Weston 847
+Corston 494
+Wolston 2564
+Neston 15352
+Biddestone 498
+Godstone 2564
+Radstock 5275
+Bradford-on-Avon 9274
+Bratton 1248
+Wattisfield 475
+Therfield 320
+South Nutfield 1920
+South Newington 285
+Semington 786
+Bulkington 285
+Beckington 849
+Kington Langley 841
+Market Lavington 2482
+Chilmark 525
+Chitterne 307
+Whitley 2436
+Rattlesden 320
+Hillesley 350
+Dursley 14992
+Uley 998
+Bisley 936
+Bishops Cleeve 14231
+
+Evesham 23576
+Bishampton 675
+Kinsham 321
+Eckington 1217
+Kington 2655
+Harvington 1680
+Eattington 1039
+Cherington 373
+Donnington 4477
+Arlington 627
+Gotherington 995
+Eastington 1108
+Alvington 506
+Alveston 2656
+Coney Weston 394
+West Bretton 459
+Bream 3047
+Great Livermere 226
+Great Waltham 847
+Grewelthorpe 498
+Haswell 1248
+Wenhaston 475
+
+Chippenham 35800
+Upper Seagry 285
+Pewsey 3634
+Great Haseley 511
+Great Bedwyn 1175
+Great Gidding 363
+Great Shefford 937
+
+Oxford 171380
+Wallingford 10348
+Watlington 2187
+Garsington 1333
+Cassington 750
+Kidlington 15829
+Deddington 1594
+Kirtlington 988
+Shardlow 637
+Marsham 521
+Marston Moretaine 3850
+Tarrant Monkton 123
+Ridgmont 411
+Stanbridge 1044
+Hockliffe 823
+Stewkley 1840
+Stedham 544
+
+Berkhamsted 21997
+Wheathampstead 4326
+
+Hemel Hempstead 85629
+Lower Heyford 233
+
+Watford 125707
+Mundford 1835
+Elstree 1835
+Belsize Park 11600
+Worcester Park 16031
+Iver Heath 8065
+Iver 7492
+Frampton on Severn 1432
+Aston Clinton 4216
+Quainton 913
+Stourpaine 617
+Bletchingdon 617
+Bladon 898
+Hindon 560
+Faringdon 7121
+
+Swindon 185609
+Baydon 664
+Raydon 210
+Cuddesdon 511
+Stagsden 363
+Kingston Bagpuize 2349
+Kingsland 474
+Kingham 547
+Kings Sutton 2116
+Buckingham 12890
+Tingewick 1093
+Deanshanger 3817
+Hanslope 1916
+Penshurst 708
+Silverstone 1907
+Hardingstone 7897
+Edingale 632
+Birdingbury 362
+Cudham 362
+Duddon 655
+Findon 1886
+West Haddon 1718
+Eydon 422
+Helmdon 761
+Weedon Beck 2706
+Flecknoe 284
+Flore 1194
+Ryton on Dunsmore 1813
+Dunchurch 2405
+Thurgarton 440
+Halvergate 607
+Olveston 1015
+Collyweston 514
+Edith Weston 818
+Little Weighton 1015
+Whittlesey 12745
+Wittering 2348
+Terrington Saint John 1740
+
+Kettering 63675
+Ringstead 1461
+Brigstock 1357
+Brixworth 5228
+Lutterworth 9907
+Kibworth Harcourt 5790
+North Cadbury 638
+
+Oadby 23184
+Blaby 6300
+Horrabridge 3728
+Thornton 991
+Quorndon 5071
+Queniborough 2307
+
+Loughborough 59932
+Melbourne 4404
+Queen Camel 574
+Clifton Campville 634
+
+Coalville 38245
+Hartshill 12479
+Earl Shilton 19578
+Swarland 634
+
+Swadlincote 40960
+
+Hinckley 45249
+Mickley 50
+Wickham 2060
+Kilburn 5552
+Ashbourne 8377
+East Stour 573
+Eastwood 18612
+East Leake 6337
+Cricket St Thomas 50
+Great Staughton 896
+Netherseal 694
+Atherstone 11237
+
+Nuneaton 92698
+Hatton 2020
+West Wratting 502
+Stratton Audley 434
+Sutton on the Forest 539
+Weston Turville 2115
+Westoning 2147
+Lower Sundon 240
+Henlow 12320
+
+Harpenden 30240
+Essendon 580
+
+Hoddesdon 35174
+Roydon 1582
+Theydon Bois 3829
+Kelvedon Hatch 2400
+Takeley 3387
+Birchanger 596
+Burgh by Sands 596
+
+Bishops Stortford 37838
+Stotfold 6838
+Potton 4870
+Cotton End 838
+Eaton Socon 12712
+Alconbury 1569
+Oldbury-on-Severn 347
+Vernham Dean 552
+Blunham 946
+Winsham 748
+Leominster 10938
+Minety 854
+Worminghall 534
+Braughing 854
+Babraham 276
+Balsham 1591
+Bottisham 2199
+Mendlesham 884
+Cavendish 875
+Lavenham 1413
+
+Haverhill 27041
+Silverton 1494
+Clavering 882
+Rickling Green 587
+Chipping Ongar 6093
+Epping 10289
+
+Pitsea 25000
+Orsett 1267
+Margaretting 527
+Rodmell 527
+Melsonby 735
+Danbury 6673
+Tollesbury 2621
+Burstall 198
+Stadhampton 702
+Dedham 1014
+Hambledon 702
+Claydon 4488
+Gaydon 446
+East Haddon 643
+East Harling 2142
+East Dereham 20651
+Great Massingham 902
+Tillingham 902
+Litlington 877
+Taddington 457
+Shurdington 1798
+Cossington 564
+Costessey 2381
+Postwick 404
+
+Norwich 213166
+Rotherwick 564
+Shapwick 536
+
+Ipswich 178835
+Harwich 20723
+
+Felixstowe 29171
+Ixworth 2365
+Loxwood 956
+Croxton 261
+Oxton 568
+Watton 9924
+Witton le Wear 567
+Normanton on the Wolds 245
+Methwold 914
+Nether Whitacre 261
+Castle Acre 848
+Castle Rising 216
+Brancaster 430
+Brancaster Staithe 367
+Thurcaston 877
+Thurleigh 694
+Monks Eleigh 505
+Wighton 222
+East Budleigh 650
+Winthorpe 650
+Freethorpe 995
+Thorndon 648
+Gristhorpe 397
+Caister-on-Sea 8901
+Gorleston-on-Sea 5882
+Stratton-on-the-Fosse 995
+Long Stratton 4434
+Pulham Market 722
+Sparkford 460
+Ludford Parva 460
+Fulford 650
+Ulleskelf 650
+Hales 648
+Beccles 13868
+Acle 2317
+Rackheath 1628
+Acklam Wold 282
+Waltham St Lawrence 504
+Martham 3405
+Hartpury 699
+Barnsbury 10000
+Bigbury on Sea 220
+Musbury 543
+
+Bury St Edmunds 42812
+Risby 866
+Kentisbeare 597
+Clare 2028
+Lamarsh 187
+Marks Tey 3679
+Acomb 1106
+Motcombe 1014
+Fletching 301
+Turnditch 301
+Fulbourn 3725
+Melbourn 4689
+Bassingbourn 2481
+Bourn 669
+Cambourne 8186
+
+Cambridge 158434
+Swimbridge 669
+Kimbolton 1103
+Carlton 874
+Earls Barton 5387
+Barby 955
+Badby 632
+Kilsby 1196
+Arnesby 357
+Cosby 3728
+Sileby 7261
+Thrussington 581
+Allington 586
+Hannington 493
+Waddington 4081
+Heighington 6414
+Washingborough 6463
+Boughton 10120
+Habrough 631
+Silk Willoughby 299
+Billingborough 1837
+Billinghay 2046
+Metheringham 3605
+Folkingham 796
+Fyfield 796
+Aslackby 251
+Aslockton 1571
+Costock 337
+Chideock 686
+Ibstock 5650
+Woodstock 2442
+Woodhouse 215
+Austrey 928
+Streetly 13251
+
+Bartley Green 25473
+Barnt Green 5366
+Cutnall Green 488
+Hallow 1219
+Callow Hill 953
+Fillongley 695
+Hagley 5850
+
+Dudley 199059
+Cradley Heath 5001
+
+Brierley Hill 28000
+Hockley Heath 1604
+Dickens Heath 3992
+
+Warwick 24040
+Lowick 373
+Barlow 753
+Charlton Kings 11700
+Ashton Keynes 1400
+Sharpness 1029
+East Harptree 644
+Eastleach Martin 306
+Northleach 1854
+Methley 1184
+Hailey 474
+Cowley 16500
+Wheatley 5574
+Chearsley 539
+Haddenham 4391
+Waddesdon 1797
+Ambrosden 1662
+High Halstow 1662
+High Roding 478
+Great Rollright 502
+Rollesby 651
+Wellesbourne 5849
+Wellesbourne Mountford 6007
+Honeybourne 1388
+Gedney 311
+Sedgeberrow 845
+Inkberrow 1552
+Kirkby Overblow 462
+Kinvere 4723
+
+Wolverhampton 252791
+
+Tipton 47000
+Hampton in Arden 1692
+Henley in Arden 2859
+Moreton in Marsh 3493
+Shipston on Stour 5038
+Stow on the Wold 2042
+Bourton on the Water 3296
+Carterton 16364
+Sutton Courtenay 2467
+South Hetton 2561
+Hutton 560
+Thurlestone 627
+Frosterley 636
+Cirencester 17153
+
+Gloucester 150053
+South Cerney 2632
+Legbourne 644
+Aldbourne 1652
+Lambourn 3071
+Winterbourne 2168
+Warborough 987
+Nether Broughton 453
+Upper Basildon 1405
+Dorchester on Thames 992
+Henley-on-Thames 11494
+
+Thatcham 24274
+Ham 210
+Heapham 102
+Ansty 332
+Gerrans 535
+Hungerford 5100
+Bulford 9519
+Fordingbridge 6066
+Ridge 289
+Witheridge 1158
+South Petherton 3064
+Nether Compton 328
+Odcombe 759
+Corscombe 445
+Corton Denham 210
+Debden 328
+Maiden Newton 1268
+Newton Ferrers 1268
+Merriott 1979
+Chilthorne Domer 574
+Hornton 328
+Sherborne 9523
+Milborne Port 2802
+Mawgan Porth 303
+Langport 3063
+Westonzoyland 1686
+Chedzoy 404
+Middlezoy 725
+Madley 712
+Bradley Cross 3000
+Cross 337
+Scropton 354
+Compton Dundon 354
+Dundon 351
+Kingsdon 303
+Kingston St Mary 393
+Seavington st. Mary 361
+Dartington 876
+Ilmington 712
+Piddington 370
+Burrington 237
+Wrington 1918
+Churchill 1378
+Chilcompton 2062
+Holcombe 947
+Batcombe 439
+Litcham 439
+Ditcheat 370
+Cheddar 5199
+Darlaston 1001
+Glastonbury 8471
+Orlingbury 439
+Timsbury 2504
+Westbury 16989
+Tisbury 2178
+Shaftesbury 7314
+Wateringbury 2396
+Sturminster Newton 3501
+Iwerne Minster 978
+Manston 5261
+Troston 335
+
+Trowbridge 40952
+Rowde 1223
+Rode 1025
+
+Kingswood 64793
+
+Mangotsfield 36427
+Marshfield 1441
+Corsham 14906
+Melksham 19357
+Keynsham 15641
+Wittersham 776
+Shaw 1001
+Shipham 1087
+South Harting 1087
+Charterhouse 25
+Charlcombe 422
+Charfield 2370
+Little Haresfield 152
+Littlebury 592
+Ledbury 8862
+Bosbury 234
+Heytesbury 540
+Tewkesbury 19778
+Spetisbury 555
+Harbury 2148
+Tetbury 5472
+Malmesbury 6318
+Holme 636
+Ampney Crucis 636
+Down Ampney 644
+Meysey Hampton 438
+Bampton 2561
+Shipton under Wychwood 2892
+Ascott under Wychwood 560
+Alvescot 472
+Coveney 424
+Shrivenham 4676
+North Pickenham 472
+Wansford 472
+Burford 1184
+Fairford 3236
+Chalford 6776
+Christian Malford 540
+Fringford 602
+Coleford 10371
+Cinderford 12942
+
+Hereford 60415
+Belmont 3382
+Mobberley 2034
+Berkeley 2034
+Ebberston 459
+Wilbarston 753
+Willoughton 341
+Great Finborough 808
+Croughton 992
+Scarcroft 1194
+Crick 1886
+Long Buckby 3759
+Long Itchington 1683
+Chipping Warden 537
+Grampound 537
+Braunston 1513
+Stockton 1347
+Eyke 362
+Hovingham 362
+
+Rugby 73150
+Bugbrooke 2692
+Bromham 4670
+Millbrook 130
+
+Milton Keynes 229941
+Chalton 538
+Chalgrave 730
+Upper Gravenhurst 595
+Meppershall 1745
+Lawshall 669
+Sawston 7275
+Kilmeston 276
+Fowlmere 1206
+Meldreth 1783
+Polperro 1206
+Thriplow 488
+Long Load 332
+Loders 276
+Lode 704
+Milnthorpe 2199
+Horningsea 378
+Exning 1688
+Weeting 1839
+Saltfleet 543
+Coldwaltham 597
+Swainby 597
+Langwathby 643
+Wattisham 1539
+Delph 1899
+Aldeburgh 2341
+Grundisburgh 1375
+Chelmondiston 938
+Leiston 6495
+Purleigh 526
+Kesgrave 11020
+Grasby 480
+Raskelf 519
+Brooke 1215
+Stoke Holy Cross 917
+Gringley on the Hill 699
+Poringland 5132
+Cringleford 2105
+Sheringham 8090
+Trimingham 485
+Hevingham 967
+Helpringham 828
+Hindringham 457
+Sidbury 457
+Great Ryburgh 694
+Great Snoring 143
+Terrington St Clement 3301
+Clenchwarton 1733
+North Burton 430
+Longworth 566
+Spixworth 3598
+Bradworthy 650
+Bradwell 10000
+Bawdeswell 828
+Wells-next-the-Sea 2165
+Beachamwell 339
+Feltwell 2635
+Outwell 3320
+Upwell 4278
+Emneth 2257
+Nettlebed 727
+North Wheatley 509
+Kniveton 392
+Stickney 1127
+Butterwick 1302
+Bicker 727
+Cowbit 1220
+Murrow 792
+Crowland 4211
+Langtoft 1967
+Fishtoft 1085
+
+Boston 41340
+Gosberton 1764
+Kirton 3546
+East Kirkby 303
+Manton 359
+Manby 1479
+Ashby cum Fenby 249
+Brookenby 665
+Binbrook 892
+Sudbrooke 1788
+Modbury 1372
+Haselbury Plucknett 744
+Nettleham 3437
+Nettleton 685
+Pawlett 892
+Wrawby 1469
+Scawby 1631
+Bonby 532
+Appleby 305
+
+Selby 24859
+Barlby 3860
+Barmby on the Marsh 372
+Camblesforth 2056
+Hambleton 1749
+Nether Poppleton 3504
+Netherbury 343
+Amotherby 399
+Malton 5135
+Bishop Wilton 554
+Bishopthorpe 3237
+Copmanthorpe 3674
+Thorp Arch 1505
+Bishop Monkton 778
+Dishforth 382
+Ampleforth 705
+Helmsley 1515
+Stokesley 4757
+Sleights 1972
+Longhoughton 1383
+
+Middlesbrough 142707
+Guisborough 16979
+Boosbeck 1168
+Crook 9498
+Sacriston 7030
+Langley Park 4545
+Lanchester 3543
+Yetminster 1105
+Portinscale 560
+Maryport 9555
+Maltby le Marsh 342
+Scotby 1575
+Bothel 483
+Silloth 2906
+Allonby 444
+Wellow 529
+Millom 5980
+Kedington 1849
+Helsington 276
+Shenington 425
+North Sunderland 1843
+Windermere 7765
+Winkleigh 1305
+Chulmleigh 1017
+Higham Ferrers 6222
+Egremont 6222
+Great Urswick 281
+Elswick 1079
+Bickershaw 826
+Winwick 2435
+
+Prestwich 32125
+
+Manchester 563561
+
+Altrincham 41548
+Thame 11329
+
+Oldham 104782
+Meltham 7836
+Meltham Mills 9000
+Milnrow 13061
+
+Middleton 45589
+Wardle 7250
+
+Cheadle Hulme 28952
+Holmes Chapel 5605
+Chapel en le Frith 6598
+Hazel Grove 15265
+Dove Holes 1113
+Holmfirth 1980
+Holywell Green 3178
+Denholme 2715
+Oxenhope 1872
+Cornholme 1690
+Colne 20118
+
+Nelson 29317
+Silsden 7912
+Wilsden 5524
+Swillington 3088
+West Malling 2266
+Collingham 3033
+Addingham 3730
+Padiham 11338
+Sabden 1422
+Edenfield 2126
+Brierfield 10271
+Hellifield 1426
+
+Halifax 82624
+Kippax 15965
+Shiplake 682
+
+Wakefield 78978
+Mirfield 18800
+
+Huddersfield 149017
+Dukinfield 19306
+
+Macclesfield 63954
+
+Eccles 37275
+
+Walkden 35937
+
+Denton 27464
+Poynton 14351
+
+Droylsden 23689
+
+Royton 22848
+Clayton West 8109
+East Hoathly 893
+Wem 5870
+
+Barnsley 71447
+Barnburgh 1924
+Burghwallis 300
+Wales 5956
+Todwick 1673
+Hardwick Village 1881
+Edwinstowe 5188
+Spaldwick 631
+Whitchurch Canonicorum 312
+Southwell 6757
+Norwell 490
+Cromwell 232
+Treswell 211
+Great Amwell 1098
+Beckingham 1098
+Wolsingham 2503
+Burringham 1179
+Messingham 3496
+Niton 1162
+Burton 4106
+
+Lincoln 114879
+Spridlington 213
+Priston 232
+Gamston 246
+Harmston 709
+Harlaxton 782
+Exton 607
+Ketton 1926
+Rettendon 448
+Cottesmore 1067
+Bottesford 3348
+Asfordby 2446
+New Basford 8371
+Basford 16000
+Brailsford 756
+Cromford 2073
+Bamford 859
+Rayne 2018
+Newton Solney 659
+Chacombe 659
+
+Chapeltown 23056
+Middlestown 2402
+
+Ossett 21616
+Heckmondwike 11542
+
+Cleckheaton 27393
+Holbeck 5505
+Scholes 2266
+Bardsey 2876
+
+Pudsey 33109
+
+Leeds 455123
+Steeton 4196
+
+Keighley 50171
+
+Brighouse 32872
+Rastrick 11351
+East Keswick 1224
+Pannal 2219
+West Hanningfield 348
+Metfield 388
+North Duffield 1317
+North Cave 1348
+South Cave 3879
+Thornton-in-Craven 431
+Wysall 431
+Riccall 2216
+Strensall 6047
+Allerston 302
+Lamberhurst 1147
+Morcombelake 372
+Wheldrake 1984
+Swayfield 316
+Driffield 13080
+Leconfield 2127
+Slinfold 1147
+Stainforth 6483
+Askern 5570
+Skelton 6538
+Belton 2503
+Crowle 3928
+Barrow upon Humber 2820
+Barton upon Humber 11066
+
+Kingston upon Hull 314018
+Kingston Seymour 388
+Linton upon Ouse 1008
+Great Ouseburn 598
+Stainburn 1666
+Glusburn 7425
+
+Bury 61044
+Glazebury 1068
+Didsbury 14292
+Bredbury 15126
+Prestbury 3342
+Bunbury 1195
+Burtonwood 3361
+
+Great Sankey 43793
+Great Longstone 843
+Great Barrow 578
+Greasby 9830
+
+Crosby 52140
+Bromborough 14850
+Aughton 294
+Burscough 8799
+Soulbury 294
+Goulceby 294
+
+Maghull 26997
+Coppull 9014
+Culcheth 6708
+Sissinghurst 1068
+
+Leigh 43626
+
+Wigan 175405
+High Legh 1145
+Higher Whitley 270
+
+Hindley 24169
+
+Leyland 37614
+Langho 2015
+Garstang 9530
+Stanton Harcourt 618
+Lympsham 618
+Heysham 17016
+Cleveleys 15000
+
+Thornton-Cleveleys 31157
+Hornby 468
+Bay Horse 2239
+Priors Marston 579
+Hamstead Marshall 276
+Shap 1264
+Knapton 364
+Hampton Court 100
+Star 100
+Stannington 427
+
+Stanley 21938
+Thornley 2457
+
+Thornaby-on-Tees 22356
+
+Stockton-on-Tees 79957
+Tilstock 809
+Bilsdale 1841
+Lingdale 1423
+
+Billingham 35708
+
+Felling 34355
+Benwell 6500
+Chopwell 3096
+Choppington 3001
+Stakeford 9636
+Belford 1258
+Bamburgh 279
+Amble 6025
+Embleton 412
+
+Blyth 37339
+Lynemouth 1873
+Morpeth 14403
+Spennymoor 17766
+Ushaw Moor 7368
+Tow Law 2138
+Low Etherley 1929
+High Etherley 2119
+Cotherstone 594
+Sutton Scotney 858
+Sutton upon Derwent 594
+Yatton Keynell 825
+Over Kellet 581
+Kelloe 1502
+Coxhoe 3522
+Yoxford 726
+Gainford 1133
+Staindrop 1310
+Cockfield 1531
+Sedgefield 4456
+Bishop Middleham 1151
+
+Bishop Auckland 26050
+Byers Green 858
+Prees 939
+Ingleby Greenhow 14608
+Danby 1515
+Whitby 13213
+Saltburn-by-the-Sea 5958
+Marske-by-the-Sea 8282
+New Marske 3271
+Thirsk 9953
+Kirk Ireton 518
+Kirkbymoorside 2751
+Kirklevington 809
+Kirk Merrington 799
+
+Newton Aycliffe 25964
+Eaglescliffe 7900
+Yarm 19184
+Middleton Tyas 581
+Middleham 825
+Masham 1205
+Sharow 556
+Borrowby 386
+
+Harrogate 89060
+Gargrave 1755
+Grassington 1792
+Embsay 1679
+Skipton 14623
+Ripon 16363
+Poulshot 370
+Foulby 90
+South Milford 1995
+Monk Fryston 1728
+Freiston 348
+Roxton 348
+Flaxton 343
+Haxby 11894
+Holtby 166
+Dalton 518
+Bedale 4601
+Middleton in Teesdale 934
+Middleton on the Wolds 825
+Ingleton 1772
+Wrangle 887
+Grange-over-Sands 4788
+Bolton le Sands 6995
+Parbold 3904
+
+Skelmersdale 38944
+
+Ellesmere Port 67768
+Delamere 277
+Irlam 19442
+Lymm 11608
+
+Ashton-under-Lyne 43675
+
+Newton-le-Willows 21782
+Three Legged Cross 1492
+Croston 2917
+Lostock 891
+Haydock 17333
+Abram 10074
+Ramsbottom 17738
+
+Rossendale 67400
+
+Rochdale 97550
+Cragg vale 650
+Diggle 1716
+
+Glossop 33243
+Mossley 9929
+Kearsley 10127
+
+Tyldesley 35932
+Staithes 826
+
+Rawtenstall 22114
+Whalley 4754
+Brinscall 2286
+Catterall 2029
+Caton 2387
+Nether Kellet 663
+Clitheroe 14765
+Littleborough 13807
+Bacup 13047
+Cullingworth 2596
+Haworth 6213
+Cross Hills 11731
+Low Bradley 1244
+
+Bradford 299310
+Elland 15625
+Barkisland 1004
+Linthwaite 3835
+Blackmoorfoot 3835
+Boxted 1004
+Kirkburton 3786
+Lamerton 859
+Hope Valley 1001
+Thorpe Salvin 476
+Bilsthorpe 3514
+Skellingthorpe 3359
+Hellingly 286
+Egmanton 286
+Normanton on Trent 345
+Carlton on Trent 229
+
+Newark on Trent 43363
+Radcliffe on Trent 7510
+Aston-on-Trent 2160
+Winterhead 50
+Isley Walton 50
+Etwall 2572
+High Ercall 686
+North Elmham 1124
+Shepshed 13505
+Repton 2629
+Egginton 574
+Newton Regis 599
+Barnby 928
+Denbury 686
+Gazeley 686
+Rothley 3897
+Swithland 217
+Normandy 1563
+Shirland 3447
+Shirebrook 10885
+Upper Langwith 2955
+
+Belper 23417
+Upper Sundon 240
+
+Newcastle under Lyme 75794
+Little Plumstead 656
+Bramshall 656
+Eccleshall 2651
+Lilleshall 942
+Ellesmere 3686
+Dodleston 715
+
+Chester 90524
+Cheswardine 716
+Market Drayton 11773
+Ryton 16093
+Pelton 5366
+Alvechurch 3534
+Caldbeck 311
+Fulbeck 373
+Swaffham Bulbeck 708
+Hatch Beauchamp 317
+Charlbury 2830
+Cholesbury 326
+Cholsey 3081
+Holywell 326
+Harwell 1998
+Parwich 472
+Upavon 474
+Upton Grey 449
+Napton on the Hill 898
+Charlton on Otmoor 449
+Chilton 302
+Little Milton 486
+Chalgrove 2830
+Grove 18312
+Minster Lovell 1236
+Andoversford 555
+
+Cheltenham 116447
+Minchinhampton 2500
+Hinton 3533
+Pucklechurch 2364
+Brockley 458
+Cocklake 419
+Blackford 736
+Sandford 2135
+Winford 1165
+Saltford 4073
+Holme Hale 494
+Bitton 492
+Clutton 2739
+Bishop Sutton 1193
+Longbottom 25
+Rowberrow Bottom 20
+Rowley Regis 1001
+Rodney Stoke 269
+Chew Stoke 776
+Chew Magna 1149
+Shepton Mallet 10369
+Marston Magna 523
+Martock 4522
+Chardstock 284
+Chard 13074
+Charmouth 1352
+Axmouth 496
+Axminster 5761
+Ilminster 5808
+Westerfield 442
+Dorchester 16879
+Charminster 1366
+Beaminster 2957
+Osmington 227
+Rillington 1114
+Cublington 328
+Wawne 975
+Princetown 1366
+Puddletown 1158
+Tolpuddle 452
+Wool 2724
+
+Poole 150092
+Portland 12710
+Bridport 13737
+Broadwindsor 558
+Sharnbrook 1795
+Shalbourne 558
+Cheselbourne 296
+Milborne St Andrew 1062
+Wimborne Minster 14884
+Cranborne 606
+Rockbourne 167
+Stock 1579
+Halstock 546
+East Challow 769
+East Hanney 1238
+East Ilsley 538
+West Ilsley 332
+West Coker 1161
+
+Basingstoke 107642
+Old Basing 3876
+Chiddingfold 2211
+Waddingham 601
+
+Wokingham 41143
+Cookham 5422
+Colnbrook 5528
+Harmondsworth 879
+Rickmansworth 12043
+Kensworth 1455
+Warkworth 1346
+Heath and Reach 1346
+Great Offley 748
+Watton at Stone 2338
+Datchworth 1210
+Knebworth 4155
+
+Stevenage 90232
+Hempstead 451
+Sea Palling 451
+Baldock 10086
+
+St Albans 84561
+Shenley 4143
+Bushey 17380
+
+Cheshunt 57374
+Broxbourne 13298
+
+Barnet 30000
+
+Potters Bar 22639
+Mattersey 466
+Arlesey 5584
+Biggleswade 16551
+Gamlingay 3247
+Hilgay 874
+Haynes 940
+Eaton Bray 3912
+
+Leighton Buzzard 37469
+Reighton 407
+Houghton Conquest 1311
+Willoughby on the Wolds 572
+Houghton 1391
+Hemingford Abbots 635
+Hemingford Grey 3163
+Fordham 2712
+Witchford 2385
+Duxford 2099
+Whissonsett 488
+Histon 7592
+Royston 15781
+Hauxton 673
+Caxton 572
+Cardington 288
+Stevington 552
+Oakley 2493
+Hackleton 1408
+
+Bletchley 50193
+
+Dunstable 51973
+Great Kimble 698
+Water Eaton 8412
+Markyate 2912
+
+Luton 258018
+Flushing 722
+
+Rushden 37584
+Rushton 461
+Saint Osyth 2093
+Witcham 429
+Donisthorpe 1886
+Ullesthorpe 903
+Countesthorpe 6377
+Fleckney 4894
+West Dereham 440
+Billesdon 901
+Tugby 330
+
+Corby 56810
+Carlby 542
+Holbeach 7914
+Holbeach Clough 980
+Heacham 4714
+Lakenheath 4369
+Isleham 2228
+Bluntisham 2868
+Somersham 3524
+Michelmersh 881
+Mickleham 585
+Huttoft 585
+Buckden 2677
+Maulden 2357
+
+Welwyn Garden City 59910
+Welwyn 3254
+Hose 580
+Hotham 233
+Kings Langley 7230
+Abbots Langley 10472
+Holme Lacy 466
+Blackmore 829
+Bicknacre 2889
+East Hanningfield 977
+Avening 1031
+Wivenhoe 9567
+Rowhedge 1626
+Castle Hedingham 1063
+Sible Hedingham 3702
+Stoke Hammond 875
+Clifton Hampden 301
+Clipston 643
+Dunston 770
+Thurston 2952
+Griston 1540
+Cawston 1172
+Beeston 566
+Beetley 964
+Attleborough 10549
+Dickleburgh 1096
+Alburgh 410
+Burgh St Peter 274
+High Halden 1159
+Foulridge 1159
+North Lopham 623
+Hepworth 536
+North Kilworth 597
+Blisworth 1591
+Bentworth 553
+West Lulworth 332
+Furneux Pelham 553
+Hadstock 332
+Halstead 11906
+Earls Colne 3862
+Piddlehinton 403
+Childer Thornton 685
+Althorne 1031
+Thorpe le Soken 1394
+Earl Soham 455
+Wroot 455
+Cookley 1637
+Cantley 504
+Little Wymondley 995
+Castle Vale 10000
+Croxdale 505
+Cromer 8801
+Aylmerton 222
+Swaton 201
+Swaffham 7258
+Marham 733
+Downham Market 10884
+Old Buckenham 792
+Old Leake 1242
+Burgh le Marsh 2026
+Burnham Market 877
+Fakenham 8285
+Tintinhull 902
+Grimston 2086
+Muston 339
+Orcheston 339
+Urchfont 885
+Docking 885
+
+King's Lynn 46093
+Ely 19090
+Hollym 339
+Runcton Holme 657
+Necton 1798
+North Runcton 261
+Bacton 1324
+Fosdyke 480
+Botesdale 1742
+Occold 519
+Scole 1028
+Holcombe Rogus 261
+Ombersley 623
+Weybourne 543
+Dry Drayton 643
+Beyton 713
+Singleton 480
+Assington 402
+Worlington 526
+Nayland 938
+Layer de la Haye 1656
+Mayland 3724
+
+Rayleigh 30196
+Hadleigh 18300
+
+Canvey Island 38170
+Snodland 10211
+Langley Green 7000
+Edingley 443
+Hartley 16302
+
+Dartford 56694
+Eynsford 2791
+Otford 7155
+Aylesford 4548
+
+Ashford 62787
+Whittlesford 1536
+
+Whitstable 30195
+Blean 1536
+North Nibley 444
+Northiam 1785
+Bodiam 391
+Bodle Street 1359
+Stretham 1831
+Rusthall 4976
+Halland 369
+Hellaby 1100
+Flimwell 1100
+Ticehurst 1705
+Wadhurst 4051
+Goudhurst 1142
+Hawkhurst 3963
+Staplehurst 5051
+Shadoxhurst 1287
+Woodhurst 379
+Wootton 4467
+Notton 479
+Sutton on Trent 1171
+Brenchley 1171
+Bredgar 443
+Reed 310
+Leedstown 267
+Swinefleet 787
+Childswickham 787
+Wingham 1303
+Swineshead 2197
+Headcorn 2505
+Woodchurch 1074
+Dymchurch 3263
+Lympne 1704
+Lyminge 1948
+Hawkinge 8002
+Kingston 444
+Caston 443
+Toynton All Saints 443
+Grain 1648
+Great Wakering 5400
+Great Ponton 379
+Saint Peters 7042
+
+Canterbury 55240
+East Tilbury 5471
+Tilbury 11717
+
+Gravesend 54263
+
+Grays 89755
+Brasted 844
+Oxted 13452
+Buxted 1831
+Framfield 665
+Uckfield 18452
+Cuckfield 3500
+Henfield 4799
+Lingfield 3920
+Upper Hartfield 985
+Ninfield 1307
+Catsfield 639
+Mountsorrel 17297
+East Huntspill 782
+
+Eastbourne 118219
+
+East Grinstead 26523
+Barns Green 982
+Partridge Green 2341
+Enton Green 271
+Wormley 1770
+Chilworth 1852
+Charlwood 972
+Holmwood 1094
+Walliswood 354
+Wood Street Village 1619
+
+Fleet 38726
+Wetheringsett 334
+Ringmer 3165
+
+Reading 318014
+Finchampstead 1034
+Hampstead Norreys 628
+North Newton 355
+
+Newbury 33065
+Kintbury 2094
+Ramsbury 1574
+Blewbury 1581
+Winfrith Newburgh 326
+Withernwick 453
+
+Witney 29103
+Evenwood 1608
+Strete 474
+Trent 317
+Blackthorn 317
+Brackley 13018
+Kirkhamgate 992
+South Ferriby 651
+Aynho 651
+Eynsham 4648
+Shabbington 486
+
+Abingdon 38676
+Bix 263
+Fawley 258
+Langley 355
+Pangbourne 3802
+Calcot 9093
+
+Didcot 29341
+Culham 453
+Salhouse 987
+Berrick Salome 326
+Longwick 1143
+Wicken 698
+Stokenchurch 4056
+Hurst 1351
+Eversley 2600
+
+Aldershot 61339
+Bagshot 5430
+Ascot 17899
+Westcott 2528
+West Drayton 12156
+West Clandon 5422
+Marlow 18261
+Frieth 571
+Southfleet 918
+Cuffley 4282
+
+Wembley 90045
+
+Purley 72000
+Westerleigh 575
+
+Rochester 28671
+West Thurrock 7795
+Purfleet 12000
+Weeton 527
+Sole Street 977
+North Fambridge 835
+Burnham-on-Crouch 7561
+Leysdown-on-Sea 3019
+Birchington-on-Sea 9827
+
+Clacton-on-Sea 50548
+Frinton-on-Sea 16941
+Walton-on-the-Naze 17458
+Little Clacton 4590
+Totnes 8076
+Sheerness 11938
+
+Herne Bay 36642
+Eythorne 1520
+Aylesham 3793
+Shareshill 759
+Ash 2767
+Eastry 2492
+Upstreet 607
+Holberrow Green 443
+Queenborough 3548
+Borden 741
+Swardeston 619
+Swanscombe 15732
+
+Swanley 21839
+Aveley 7986
+Bulphan 1032
+Meopham 4361
+Longfield 16808
+Larkfield 7000
+Broadfield 13000
+
+Bexley 228000
+Sidcup 10400
+Kemsing 6889
+
+Sevenoaks 29506
+Moss 389
+Nunney 844
+Hawsker 291
+Berry's Green 232
+Portslade 20000
+
+Romford 95000
+Ingatestone 5620
+
+Basildon 144859
+
+Maldon 21462
+Coggeshall 4727
+Syresham 711
+Henham 924
+Elsenham 2272
+Snainton 754
+Henlade 700
+Finmere 466
+Dummer 466
+Ecton 466
+
+Acton 53689
+
+Sutton 187600
+
+Surbiton 38158
+Hinchley Wood 3674
+Pateley Bridge 1432
+Weybridge 19463
+Cobham 16724
+Chobham 2835
+Knaphill 8635
+
+Bracknell 76103
+Bramley 4233
+Tadley 15836
+Yateley 20214
+Lightwater 6791
+Virginia Water 2999
+Wargrave 4209
+Twyford 7533
+Charvil 3042
+Knowl Hill 910
+Shilton 230
+Oswaldkirk 230
+Dunkirk 278
+Kingston Blount 506
+Aston Rowant 287
+Wroxton 326
+Laxton 449
+Dunsfold 317
+Duns Tew 478
+Boars Hill 561
+Brill 1141
+Wacton 302
+Rudston 409
+Edgcott 988
+Potterspury 1453
+Speldhurst 1436
+Byfield 1277
+Nether Heyford 1637
+Upper Heyford 953
+Fritwell 736
+Wetwang 761
+Shutlanger 290
+Roade 2312
+Wilstead 2177
+Silsoe 1791
+Hexton 123
+Turvey 940
+Frithville 288
+Cherhill 572
+Bar Hill 4032
+Girton 3836
+Needingworth 2191
+Catworth 347
+Folksworth 881
+Papworth Everard 2880
+Abbotsley 446
+
+Saint Neots 30811
+Hail Weston 610
+Ipstones 881
+Helpston 981
+Thrapston 7068
+Wollaston 3491
+Bozeat 2052
+Harrold 1691
+Harpole 1344
+Thorner 1408
+Milton Ernest 761
+Newtown Limford 537
+Bloxham 3374
+Blockley 1104
+Chipping Campden 2288
+Broadway 2540
+Lower Broadheath 1406
+Broadwas 318
+Bromyard 4117
+Lugwardine 1913
+Wardington 602
+Leintwardine 592
+Bledington 506
+Shillington 1447
+Guilsborough 692
+Gunness 2253
+Stogursey 838
+Easton 7800
+Woolaston 820
+Woodbury 1605
+Lympstone 1763
+Bishopsteignton 2209
+Kingsteignton 11360
+Teignmouth 17463
+
+Exmouth 34432
+Exminster 3368
+
+Exeter 117763
+Budleigh Salterton 5185
+Chudleigh 4011
+Chudleigh Knighton 1125
+Buckfastleigh 3631
+Buckland Monachorum 779
+Dousland 833
+Gunnislake 4044
+Landrake 1115
+Lanivet 989
+Coniston 641
+Saint Dennis 2206
+Saint Columb Major 3170
+North Country 773
+Mount Hawke 1511
+Lound 471
+Longborough 471
+Malborough 819
+
+Camborne 22500
+Camelford 2335
+Wilsford 400
+Tilshead 358
+Shepherdswell 1630
+Othery 642
+Hatherleigh 1518
+Chawleigh 642
+High Bickington 837
+Ebrington 304
+Luddington 419
+Clayworth 419
+Beaworthy 236
+Holsworthy 2641
+Northam 7668
+Chedworth 802
+Tetsworth 693
+Worlingworth 802
+Porlock 1213
+Hemyock 1519
+Airmyn 768
+Raymond's Hill 768
+Willand 3360
+Langford Budville 535
+Brampford Speke 419
+Kennford 987
+Kenton 1005
+
+Paignton 49886
+Cheriton Fitzpaine 556
+Crediton 7835
+Cheriton Bishop 652
+Clyst Honiton 304
+Honiton 11483
+Thorverton 674
+Tiverton 19544
+Dulverton 1052
+Milverton 1112
+North Petherton 3142
+North Curry 926
+Curry Rivel 1844
+Fivehead 609
+Lopenhead 15
+Stokeinteignhead 354
+Butleigh 712
+Highbridge 4606
+Axbridge 2057
+Kexby 340
+Hoby 269
+Hope 900
+Thropton 458
+Christon 202
+
+Bristol 617280
+Long Ashton 5254
+Stonham Aspal 237
+Tickenham 585
+Wick 1989
+Wix 494
+Wilmcote 1092
+Woodmancote 285
+Chapmanslade 643
+Broad Chalke 680
+Broadstone 10256
+Parkstone 9593
+Brighstone 1157
+
+Eastleigh 54225
+Botley 2562
+Netley 6338
+Durley 298
+Burley 1384
+Alderbury 2223
+
+Salisbury 44748
+Amesbury 10116
+Damerham 225
+Alderholt 2848
+Chilbolton 862
+Wilton 3579
+Halton Holegate 475
+Colerne 2564
+Yarpole 285
+Yaxley 9174
+Whixley 363
+Colaton Raleigh 363
+Highclere 2463
+Burghclere 546
+Kingsclere 3164
+Collingbourne Kingston 511
+Collingbourne Ducis 957
+Hurstbourne Tarrant 676
+Sherborne St John 1186
+
+Crowthorne 25522
+
+Camberley 30155
+Frimley 12739
+Fairlands 1412
+
+Guildford 71873
+Salfords 4534
+Alfold Crossways 671
+Crondall 1239
+
+Godalming 22689
+Rushmoor 886
+Monk Sherborne 266
+Utterby 293
+Long Sutton 4633
+Sonning Common 4821
+Benson 5802
+Soberton 326
+Minstead 326
+Goring 4079
+Sedgebrook 355
+Owermoigne 334
+Odiham 3165
+Oakhanger 293
+Oare 266
+
+Fareham 57390
+Cosham 10226
+Bosham 2623
+Elsham 400
+Selsey 10550
+Seaview 2337
+
+Havant 45574
+Havenstreet 432
+Shalfleet 605
+Ryhall 1459
+Shanklin 8055
+Kirklington 400
+Storrington 8618
+Rustington 13210
+Funtington 352
+Emsworth 18777
+Naunton 352
+Lynton 1157
+Lymington 16446
+Milford on Sea 4348
+Barford St Martin 548
+Teffont Magna 248
+Clyst St Mary 849
+Stoke St Michael 731
+Oakhill 739
+Poughill 712
+Baltonsborough 523
+Paulton 4873
+Newton Tony 381
+Sutton Veny 734
+Pitton 510
+
+Totton 34169
+Abbotts Ann 2112
+Anna Valley 2893
+Ellerker 307
+Great Cheverell 475
+Mere 2686
+
+Frome 26203
+Midsomer Norton 10458
+Hallatrow 465
+Cameley 1286
+Farmborough 847
+Tynings Farm 25
+Goring-by-Sea 1001
+Nailsea 20543
+Failand 691
+Standlake 1149
+Buckland Dinham 381
+Gaddesby 381
+Hydestile 338
+Tilbrook 370
+Fishlake 370
+Bruton 2984
+Redlynch 2674
+Wincanton 5435
+Souldern 370
+Wells 11343
+Greywell 237
+Banwell 1956
+Winscombe 4546
+Easter Compton 327
+Almondsbury 1812
+Thornbury 11687
+Ashbury 506
+
+Chipping Sodbury 36108
+
+Yate 34406
+
+Bath 94782
+Atworth 1920
+Worton 624
+Tebworth 475
+Tidworth 9174
+North Cowton 503
+Shrewton 1723
+Lark Hill 2358
+East Farndon 307
+East Knoyle 335
+West Grimstead 223
+West Dean 252
+East Dean 1613
+Wath upon Dearne 17161
+Bramdean 266
+Denmead 6107
+Swanmore 2683
+Cranmore 316
+Bransgore 3719
+Brading 1800
+Sandown 20155
+Ferndown 17650
+Downton 2731
+Coombe Bissett 450
+Wiveliscombe 2178
+Tibberton 525
+Somerby 548
+Romsey 17161
+Compton 2311
+Colden Common 3419
+East Cowes 6166
+
+Cowes 21226
+West End 4227
+Hedge End 17978
+Curdridge 951
+Buriton 507
+East Meon 871
+Liss 6248
+Liphook 6480
+Tadcaster 6480
+Fernhurst 2106
+Midhurst 6514
+Churt 1098
+Ewhurst 1653
+Billingshurst 6911
+Ashurst 3185
+Hurstpierpoint 12730
+Frankby 310
+Alfriston 829
+Friston 1620
+
+Seaford 22584
+Great Sampford 586
+Stoke-by-Nayland 400
+Shoreham-by-Sea 19175
+Shotley 831
+Battle 6054
+Pett 390
+Pevensey 3152
+Pevensey Bay 2864
+Newhaven 13222
+Peacehaven 18579
+Horseheath 369
+Horam 2188
+Horsmonden 1620
+Arundel 3285
+Ince Blundell 516
+Iron Acton 516
+Eversholt 420
+Graffham 516
+Barnham 11881
+Warnham 1193
+Bewbush 9081
+Crowborough 20607
+Forest Row 3704
+Balcombe 1424
+
+Epsom 27065
+
+Hayes 50000
+Steeple Bumpstead 1432
+Fulmer 230
+Stoke Poges 4204
+Chorleywood 11917
+Hyde Heath 1047
+
+High Wycombe 133204
+Stow cum Quy 544
+Newton St Cyres 562
+Woburn Sands 5074
+Gisburn 521
+Cosgrove 521
+Lyonshall 521
+Newport Pagnell 15067
+Olney 6477
+South Mimms 874
+Southowram 2003
+Brampton 4862
+
+Huntingdon 23937
+Godmanchester 6506
+Earith 1606
+Culgaith 391
+Brinkley 391
+Shudy Camps 338
+Castle Camps 684
+Swaffham Prior 841
+West Bergholt 3215
+East Bergholt 2252
+Abberton 831
+West Mersea 7057
+Manningtree 5696
+Woodbridge 11200
+Orford 713
+Thorpeness 231
+Kessingland 4327
+
+Lowestoft 70945
+Hopton on Sea 2626
+Cockington 10000
+Widdington 504
+Alpington 650
+Broad Hinton 650
+Brundall 5927
+Trunch 909
+Bungay 5127
+North Luffenham 679
+North Mymms 274
+Haddiscoe 375
+St Olaves 282
+
+Great Yarmouth 63434
+Southwold 3680
+Saxmundham 4225
+Needham 309
+Carbrooke 567
+Stoke Ferry 1389
+Owston Ferry 1172
+Briston 3057
+Corpusty 505
+Reepham 2319
+Reedness 339
+Hampton Bishop 339
+Sutton Bridge 3882
+
+Wisbech 32489
+Pinchbeck 3918
+Rippingale 929
+Market Deeping 13574
+Market Overton 584
+Over Wallop 981
+Parson Drove 828
+Moulton Chapel 1050
+Ilton 727
+Silkstone 1764
+Stilton 2455
+Lerryn 308
+Owslebury 818
+Dowsby 215
+Long Clawson 1066
+Claypole 1382
+Newdigate 744
+Digby 621
+Wragby 1768
+Eagle 793
+Iwerne Courtney 232
+Stathern 728
+Kinoulton 868
+
+Melton Mowbray 27158
+Oakham 10922
+Medbourne 473
+Wendens Ambo 473
+Essendine 448
+
+Spalding 31588
+Rusper 647
+West Runton 815
+Market Rasen 4773
+Middle Rasen 1174
+Holton le Clay 3691
+Barnetby le Wold 1741
+Mareham le Fen 944
+North Ferriby 7416
+North Kyme 431
+Goole 20810
+Goodmanham 244
+Market Weighton 6429
+West Walton 1731
+East Halton 626
+Waltham 6563
+Alvingham 256
+Stallingborough 1073
+Aldbrough 1269
+Flamborough 1914
+
+Scarborough 61749
+
+Redcar 37203
+Catterick 3155
+Richmond 8413
+Montacute 533
+Nacton 414
+Hunton 414
+Huntspill 1133
+Riding Mill 966
+Corbridge 2946
+Haydon Bridge 1557
+Trimdon 2958
+Whaddon 533
+Hadlow Down 469
+Titchmarsh 598
+Burton Lazars 423
+Tur Langton 316
+Acton Turville 370
+Ryhill 5150
+Fitzwilliam 4259
+Burstwick 1924
+
+Bentley 34821
+Auckley 1434
+Thursley 305
+Woolley 365
+Westwood 1162
+Woodsetts 1746
+Stoke Golding 1684
+Stoke Fleming 803
+Matlock 14956
+Goodworth Clatford 573
+Youlgreave 1018
+
+Staveley 25719
+
+Burngreave 27481
+Catcliffe 1766
+Clowne 7590
+King's Clipstone 3469
+Elkesley 822
+Sancton 286
+Steeple 490
+Carlton le Moorland 565
+Studland 299
+Ulceby 1584
+Bracebridge Heath 5656
+Brigg 6787
+Knockholt 305
+Dunholme 5625
+Rye 4773
+Caistor 2489
+Stow 365
+Fulstow 522
+Tetney 1526
+Bardney 1655
+Southrey 213
+Louth 16419
+Wistow 522
+Long Riston 979
+Ludham 979
+Kilham 960
+Horham 305
+Oxhill 305
+Goxhill 2290
+Madron 626
+Thorngumbald 2973
+Humberston 8216
+Mumby 447
+Keelby 2092
+Thurlby 2153
+Blyton 1162
+Haxey 2153
+Bawtry 4109
+Hawkesbury Upton 991
+Snaith 3305
+Bubwith 954
+Luxulian 388
+Pulloxhill 569
+West Quantoxhead 343
+Quarndon 933
+Hindolveston 598
+Alne 569
+Easingwold 4358
+Bagby 593
+North Creake 386
+Brompton 1848
+Brotton 5394
+Loftus 4824
+Nailsworth 5394
+
+Hartlepool 88855
+Wingate 5134
+
+Gateshead 77649
+Shepreth 594
+Kirkby Stephen 1522
+Kirkby Thore 758
+Kirkby Malzeard 887
+Earby 4538
+Kelbrook 678
+Winchcombe 4538
+Barnoldswick 10435
+Austwick 463
+Settle 3659
+Long Preston 742
+Longhorsley 887
+Sedbergh 2171
+Flookburgh 1305
+
+Fleetwood 25359
+Leek Wootton 1017
+Norleywood 342
+Darley 783
+Arlecdon 757
+Hundon 757
+Thundridge 704
+Quadring 961
+Pickering 6936
+Beckermet 704
+Cockermouth 9146
+Southwick 1754
+Keswick 4281
+Huggate 342
+Galgate 2458
+Halsall 242
+Preesall 5367
+Poulton-le-Fylde 19914
+
+Fylde 76500
+Kirkham 11915
+Norham 579
+
+Lancaster 47162
+Moira 2458
+Hinderwell 618
+Chipping 618
+Goosnargh 1398
+Euxton 7863
+Cley next the Sea 437
+Swanbourne 437
+Banks 3572
+
+Southport 91703
+
+Lytham St Annes 41327
+
+Widnes 61464
+Frodsham 9032
+Rode Heath 2019
+Dunham on the Hill 501
+Mickle Trafford 1822
+Aldford 272
+Ford 697
+Kirdford 745
+Sedgeford 613
+
+Telford 147980
+
+Stafford 69217
+Standon 3429
+Tunstall 6232
+
+Kidsgrove 29480
+Alsager 13347
+Gnosall 3869
+Codsall 11673
+Yoxall 1638
+Hempnall 962
+Fazeley 7522
+
+Rugeley 24033
+Bradley 513
+Hadley 14829
+Maiden Bradley 331
+Acton Burnell 544
+Bicton 331
+Acton Trussell 786
+Moreton on Lugg 920
+Edgmond 1080
+Condover 721
+Coven 2694
+Alveley 1578
+Highley 3133
+Himley 462
+Broseley 5644
+Ubley 331
+Madeley 3893
+Keele 3953
+Leek 19903
+Biddulph 17669
+Malpas 1321
+Whitchurch 9710
+Baschurch 1595
+Church Stretton 3698
+All Stretton 308
+Oswestry 18743
+West Wellow 2929
+Tenbury Wells 3849
+Cleobury Mortimer 2711
+Hartlebury 1525
+Oldbury 10830
+Wychbold 1366
+Litchborough 321
+Little Walsingham 613
+Dorrington 613
+
+Wellington 22816
+Oakengates 8517
+Pontesbury 1873
+
+Shrewsbury 71715
+
+Crewe 75556
+Newchurch 380
+Capenhurst 380
+Thurstaston 160
+Stanhoe 289
+Tarvin 2309
+Tadmarton 541
+East Rudham 541
+Happisburgh 380
+Wisborough Green 843
+Acton Bridge 417
+Henton 501
+Prenton 14429
+Moreton 17670
+Hoylake 5710
+Blacon 13495
+Sandbach 17976
+Timberland 578
+Letcombe Regis 578
+
+Lower Earley 32000
+Gobowen 3270
+Goostrey 2008
+
+Stoke-on-Trent 372775
+Audlem 1658
+Woodborough 292
+Hodnet 292
+Netheravon 1321
+Ironbridge 1595
+Bridgnorth 12657
+
+Stourbridge 56284
+Wombourn 13511
+Stourport-on-Severn 20586
+
+Great Malvern 36770
+Wolvey 845
+Yelvertoft 764
+Worlaby 547
+Diseworth 636
+Highworth 7886
+Brinkworth 489
+Worth Matravers 275
+Stratton 2570
+Latton 548
+Royal Wootton Bassett 11265
+Sutton Benger 1045
+Weedon 275
+Broad Blunsdon 1803
+Dunford Bridge 627
+Pembridge 489
+Kirkbride 489
+Brimscombe 1554
+Mickleton 1554
+Cricklade 4030
+Lechlade 2469
+Little Gaddesden 627
+Quenington 603
+Paulerspury 644
+Purton 3554
+Didmarton 415
+Aylburton 711
+Lesbury 1007
+Burn 491
+Burghill 190
+Credenhill 2271
+Pickhill 401
+Crow Hill 602
+Barrowden 506
+Lydney 8776
+Lydbrook 1894
+Upper Broadheath 322
+
+Portishead 23699
+Dittisham 226
+Howsham 459
+Redgrave 459
+Edge 245
+Wotton-under-Edge 5627
+Dundry 269
+Draycott 1057
+Ashcott 876
+Long Wittenham 876
+Bethersden 876
+Frankton 351
+Freckenham 344
+Chickerell 2966
+Crewkerne 7826
+Creech Saint Michael 1795
+Tolleshunt Major 393
+
+Taunton 64621
+Hinton St George 442
+Ottery St Mary 4898
+Shotteswell 221
+Dunkeswell 1361
+Uffculme 2021
+Cullompton 7800
+Carhampton 687
+Chittlehampton 239
+Okehampton 7647
+Moretonhampstead 1339
+Broadhempston 672
+Ipplepen 2143
+Islip 652
+Norton St Philip 556
+Hilton 1052
+Dolton 687
+South Molton 5108
+South Kyme 393
+Lyme Regis 4712
+Colyton 2668
+Thornham 496
+Fincham 496
+Bradninch 1881
+Honingham 358
+Walkeringham 652
+Eakring 419
+Great Torrington 5714
+Great Dodford 236
+Exbourne 358
+Newbourne 304
+
+Newton Abbot 36474
+Abbotskerswell 1267
+Kingskerswell 4703
+Coffinswell 241
+Loddiswell 777
+Tideswell 1647
+Perranwell 1207
+Perranporth 3210
+Portreath 963
+Porthleven 3059
+Micheldever 471
+Helston 12184
+Calstock 790
+Bere Alston 2164
+Fressingfield 790
+Snitterfield 989
+Mayfield 1125
+Marldon 1838
+
+Torquay 65388
+Aylesbeare 583
+Copplestone 1253
+Newton Poppleford 1715
+North Tawton 1630
+North Newbald 1115
+Newington 2164
+Callington 5786
+Pensilva 1663
+Yelverton 3627
+Yealmpton 1677
+Plympton 8892
+
+Plymstock 24103
+
+Plymouth 260203
+South Brent 2559
+Dartmouth 5610
+Sidmouth 12569
+Hollesley 583
+Bicknoller 371
+Brent Knoll 1271
+East Brent 628
+East Worldham 354
+Great Yeldham 1844
+Stoke-sub-Hamdon 2004
+
+Burnham-on-Sea 23325
+
+Weston-super-Mare 82903
+Lower Weare 325
+Lower Hardres 269
+Maisemore 458
+Yatton 10251
+Congresbury 3078
+Blagdon 1001
+Bleadon 900
+Clevedon 21002
+Severn Beach 2182
+Aldwincle St Peter 322
+Clearwell 350
+Ruardean 1849
+Mitcheldean 2783
+Ross on Wye 10582
+Ewyas Harold 1007
+Yaxham 394
+Arlingham 459
+Stonehouse 7481
+Aust 226
+Tytherington 666
+Stoke Gifford 13560
+Broughton Gifford 851
+Wroughton 6474
+Wanborough 2268
+Marlborough 8395
+Burbage 1772
+Ludgershall 4427
+Pattishall 664
+Bishopstone 424
+Gooderstone 363
+East Garston 535
+Scruton 424
+Lydiard Millicent 1029
+Pytchley 489
+Lyneham 5437
+Calne 17274
+Lacock 320
+Beanacre 314
+Laceby 3259
+Upton Scudamore 295
+Boreham 3259
+Lye's Green 338
+Roxwell 381
+Peasedown Saint John 6263
+Longhope 1092
+Studham 492
+Castle Bytham 492
+Lustleigh 285
+Clun 680
+Hunwick 1248
+Keevil 441
+Devizes 18064
+Toft 503
+Overton 3392
+
+Andover 42276
+Preston Candover 510
+Winfarthing 503
+Appleshaw 503
+Barton Stacey 780
+Shiptonthorpe 503
+Brimpton 325
+Seagrave 546
+Swavesey 2463
+New Alresford 5431
+Four Marks 5674
+Cowplain 8775
+Cocking 420
+Boxgrove 3134
+
+Hove 75174
+
+Brighton 139001
+
+Rottingdean 21756
+Lancing 18692
+Steyning 9627
+Small Dole 796
+Cliffe 2403
+Cowfold 1301
+Bolney 591
+Redbourne 400
+Tangmere 3269
+
+Bognor Regis 63885
+Ventnor 5976
+North Baddesley 6823
+
+Southampton 246201
+
+Portsmouth 194150
+
+Gosport 70793
+
+Newport 24884
+
+New Milton 23753
+Sway 2421
+Swanage 10454
+Cadnam 1917
+St Leonards 5984
+Lizard 906
+Plaxtol 606
+Sixpenny Handley 906
+Guyhirn 333
+Durweston 398
+Osbournby 398
+
+Bournemouth 163600
+
+Weymouth 57691
+Wentworth 354
+Culworth 445
+Ruan Minor 558
+Dowlish Wake 293
+Bishops Lydeard 2040
+Tebay 393
+Naseby 687
+Ticknall 642
+Lapford 867
+Chagford 1020
+
+Bideford 28672
+Brushford 221
+Wootton Courtenay 264
+Otterburn 654
+East Wittering 5647
+Great Wilbraham 654
+Saxilby 3992
+Great Paxton 1007
+Saxton 592
+Spaxton 321
+Pakenham 592
+Dymock 592
+West Chinnock 592
+Newent 4322
+Newton Arlosh 318
+South Newton 462
+South Kelsey 604
+Kempsey 2609
+Kemerton 379
+Green Hammerton 675
+Reeth 724
+Smethwick 12842
+Colwich 2485
+Abbots Bromley 1351
+East Peckham 2485
+Armitage 4650
+
+Birmingham 1223000
+
+Royal Leamington Spa 95172
+Wroxall 1927
+Knowle 10823
+
+Halesowen 55265
+Bilston 5000
+Water Orton 3444
+Hopwas 647
+Alrewas 2852
+Shobdon 656
+
+Derby 270468
+Gotham 1563
+
+Arnold 37873
+
+Hucknall 29728
+Pinxton 14357
+Tibshelf 3787
+Barlborough 2975
+Harthill 1684
+Maltby 17513
+Wigginton 804
+Normanton 204
+Eyam 969
+Froggatt 204
+Corse 1178
+Mytholmroyd 3949
+
+Hyde 31926
+Longdendale 8873
+Denby Dale 3043
+Penistone 10956
+
+High Peak 92600
+Bakewell 3949
+Baslow 1178
+
+Buxton 21300
+New Mills 17968
+Marple 18241
+
+Stockport 139052
+Bowdon 6214
+Woodton 703
+
+Radcliffe 34239
+Barrowford 5378
+Slimbridge 742
+Hawes 887
+Appleby-in-Westmorland 3048
+Gilsland 205
+Lamesley 3928
+Wylam 1412
+Wylye 412
+Longframlington 864
+Felton 1126
+Poulton 408
+Offwell 408
+Beadnell 408
+Great Hormead 412
+Newgate Street 412
+Penton Mewsey 412
+Dunster 408
+Grantchester 540
+Datchet 4913
+East Chevington 1751
+Hadston 3570
+Tewin 864
+Rothbury 2326
+Northborough 1318
+Prudhoe 12075
+
+Consett 29137
+
+Durham 47785
+Murton 7413
+Hebburn 18808
+
+Jarrow 27264
+Backworth 1399
+
+Gosforth 23975
+Hazlerigg 1053
+Newbiggin-by-the-Sea 6308
+Seahouses 1959
+Seghill 2990
+Pegswood 3280
+Wooler 1983
+Doleberrow 100
+Rowberrow 100
+Gilberdyke 3430
+Berwick-upon-Tweed 13265
+Cornhill on Tweed 347
+Marnhull 1483
+Sparsholt 417
+Alnwick 8116
+Worfield 279
+Manfield 279
+Waresley 279
+Eardisley 550
+Isles of Scilly 2100
+
+Carlisle 78470
+Kingsley 1557
+Hexham 11388
+Humshaugh 622
+Butteryhaugh 100
+Haughley 1285
+Feckenham 364
+Wigton 5831
+Wigmore 757
+Stockbridge 757
+Backbarrow 512
+
+Blackpool 239409
+Sporle 755
+Seascale 1754
+Saint Bees 1644
+Starcross 1737
+Ribchester 888
+Distington 1445
+
+Workington 27120
+Wallington 500
+Tallington 497
+Kilmington 830
+Eardington 530
+Loddington 520
+Luckington 630
+Crudwell 630
+Weyhill 630
+Ormesby St Margaret 2810
+East Markham 1160
+Fawkham 500
+Northaw 590
+Edingworth 600
+Charlesworth 990
+Rangeworthy 500
+Woolfardisworthy 783
+Dearham 1799
+Flimby 1707
+Colby 120
+Temple Sowerby 528
+Penrith 15181
+Offham 483
+Caunton 483
+Aspatria 2454
+Padbury 810
+Wilburton 1013
+Burton Leonard 690
+Barnard Castle 7040
+Barnwood 2500
+Wookey 810
+Tattenhall 1950
+Debenham 2210
+Dersingham 4640
+Cottingham 1320
+Snettisham 2570
+Sproatley 1350
+Writtle 4840
+Wrentham 830
+Wrea Green 1373
+Wivelsfield Green 1091
+Five Oak Green 1540
+Oaksey 530
+Chiseldon 2090
+Riseley 1286
+Killamarsh 9625
+Shillingstone 1170
+Stradbroke 1089
+Overstrand 1030
+Trafford Park 3060
+Salford Priors 590
+Ickford 680
+Rochford 16739
+Tempsford 590
+Templecombe 1560
+Staplecross 760
+Croxton Kerrial 530
+Horringer 780
+Hawthorn 500
+Ashorne 110
+Pimperne 1109
+Nether Stowey 1373
+Lower Kingswood 1760
+Woodcote 2775
+Walberton 1778
+Walton 600
+Great Broughton 940
+Winster 600
+Sturminster Marshall 1490
+Rawcliffe 1542
+Clive 530
+Shipdham 1860
+Wymondham 500
+Monxton 530
+Herstmonceux 1130
+Hethersett 5520
+Shere 670
+Wereham 660
+Lower Halstow 1180
+Weston under Penyard 670
+Burton upon Stather 2410
+Newbold on Stour 517
+Trimdon Station 1
+Seavington st. Michael 125
+Stickford 497
+Newbold Verdon 2850
+Canewdon 1072
+Full Sutton 1072
+Gedney Hill 1072
+Pilning 1465
+Yalding 1365
+Hibaldstow 1974
+Bayston Hill 5079
+North Molton 721
+Stratfield Mortimer 3698
+Brimfield 751
+Ashford Carbonell 321
+Bucknell 717
+Cropredy 717
+Ditton Priors 821
+Cressage 707
+Far Forest 594
+Pershore 7626
+Apperley 550
+Selborne 540
+Ashleworth 540
+Twigworth 728
+Churchdown 13287
+
+Stroud 60155
+Trottiscliffe 257
+Rothersthorpe 472
+Colkirk 588
+Appleton 915
+Yarnton 2545
+Oving 478
+Barford St Michael 549
+Kineton 2014
+South Littleton 1564
+Dumbleton 576
+Ashton under Hill 753
+Roughton 571
+Bredon 1936
+Upton upon Severn 1861
+Clifton upon Teme 695
+Byram 1406
+Hanley Swan 627
+Badsey 2601
+Cleeve Prior 561
+Bidford-on-avon 4830
+
+Stratford-upon-Avon 27830
+Bidford-on-Avon 5047
+Binton 311
+West Meon 724
+Beoley 945
+Studley 6203
+Bewdley 8571
+Morcott 321
+Peterchurch 732
+Dorstone 401
+North Marston 781
+Frant 781
+Eltisley 401
+Lubenham 781
+Swinderby 491
+Hightown 2063
+Longtown 2064
+Long Lawford 3007
+Bishop's Castle 1893
+Craven Arms 2595
+Ludlow 10515
+Shebbear 707
+Shifnal 6240
+Mousehole 697
+Minsterley 1532
+Misson 745
+Yardley Hastings 745
+Inkpen 283
+Dennington 289
+Church Brampton 289
+Slindon 289
+Sculthorpe 289
+North Scarle 640
+Meriden 1753
+Woolpit 1753
+Pilton 646
+Walton upon Trent 872
+Stoke Gabriel 1107
+Stoke by Clare 512
+Stoke Prior 1762
+New Bolingbroke 289
+Barbrook 200
+Garsdale Head 200
+Mattishall 2315
+Saxby All Saints 385
+Painswick 1762
+Upton Snodsbury 385
+Kielder 200
+Itchenor 289
+Etchingham 405
+Shropham 405
+Ropley 477
+Graveley 289
+Misterton 1862
+Croscombe 603
+
+Prescot 40889
+
+Huyton 54738
+
+Liverpool 864122
+
+Bootle 57791
+West Kirby 7680
+Luston 541
+St Just 1957
+St Ives 9966
+
+St Austell 25447
+West Stockwith 641
+Rock 1203
+Roche 2517
+Crantock 801
+Devoran 400
+Gorran Haven 893
+Hargrave 241
+Martin Hussingtree 241
+Dawlish 11312
+Rawreth 304
+Moreton Pinkney 371
+Williton 2644
+Prickwillow 354
+Threapwood 351
+Woolavington 2115
+Husthwaite 404
+
+Bridgwater 41276
+Watchet 3581
+Cloughton 687
+Minehead 11981
+Fremington 4310
+Instow 706
+
+Barnstaple 31616
+Appledore 2161
+Dorridge 7800
+Lidgate 241
+Kingsbridge 6116
+Ivybridge 11851
+Brixton 1252
+Brixham 16693
+Slapton 182
+Launceston 8910
+Braunton 9525
+Georgeham 467
+Goldhanger 654
+Greystoke 654
+Stoke Canon 654
+Sherston 1449
+Thursby 846
+Roos 846
+Pool 1935
+Wickham Market 2156
+Combe Martin 2687
+Ilfracombe 11184
+Bovey Tracey 4729
+Christow 820
+Bow 1095
+Fownhope 779
+Inner Hope 249
+Salcombe 1909
+Saltash 15566
+Ashburton 3346
+North Kelsey 777
+Trefonen 777
+Long Crendon 2335
+Drybrook 1647
+
+Redruth 42690
+Reedham 1207
+Isham 771
+Westbury-sub-Mendip 801
+Fladbury 641
+Flexbury 2211
+Kingsbury Episcopi 641
+Wembury 1819
+Kemble 779
+Lutton 779
+East Winch 779
+Meonstoke 833
+Tavistock 12280
+Torpoint 7717
+Tintagel 1028
+Constantine 819
+Ponsanooth 967
+Stithians 1463
+Lostwithiel 2659
+Par 9462
+Padstow 2296
+Trebetherick 499
+Polzeath 1449
+Polruan 614
+Nanpean 2563
+Penzance 19872
+Penryn 7326
+Pelynt 763
+Uny Lelant 1056
+Four Lanes 1416
+St Agnes 73
+St Mary's 1666
+St Martin's 142
+Smarden 614
+Liskeard 9237
+Dobwalls 1418
+Probus 1906
+Bugle 2873
+Thornborough 641
+Woodham Mortimer 641
+Wouldham 1253
+Flintham 304
+Topsham 3624
+Whimple 1173
+Lenwade 496
+Ingoldsby 284
+
+Yeovil 45784
+Cononley 975
+Chetnole 344
+Overcombe 4971
+Pyrton 227
+Mulbarton 3315
+Whyteleafe 3315
+Corfe Castle 1355
+Bovington Camp 2586
+Bere Regis 1304
+Fortuneswell 3381
+Elsworth 566
+Walcott 566
+Claverdon 848
+Wingrave 1389
+Widmerpool 339
+Stanion 848
+Hunstanton 9332
+Foulden 430
+Tackley 877
+Blackborough End 259
+Ripe 216
+Turners Hill 885
+Ashill 1172
+Lyng 807
+Old Newton 828
+Hoveton 3089
+Catfield 699
+Heversham 699
+Stalham 3971
+Mundesley 2755
+Hemsby 5522
+Filby 765
+Filey 6530
+
+Beverley 30587
+Leven 2433
+Rolvenden 691
+Skeffling 149
+Keyingham 2314
+Escrick 944
+Tickton 1731
+Wickhambrook 554
+Askham Bryan 564
+Stamford Bridge 3528
+Thompson 343
+Thornton Dale 1759
+Settrington 316
+Sheriff Hutton 1019
+
+York 153717
+Acaster Malbis 280
+Clapton in Gordano 348
+Woburn 933
+Skidby 1132
+Nafferton 2433
+Beeford 1078
+Bempton 1040
+Ruyton-XI-Towns 1040
+East Ayton 2559
+Burniston 1523
+Robin Hood's Bay 457
+Goathland 265
+Nawton 798
+East Cowton 533
+Stogumber 414
+Leyburn 2183
+South Walsham 414
+Nympsfield 382
+Gawcott 778
+Wilcott 228
+Belchford 255
+Horncastle 6815
+Westleton 349
+White Waltham 349
+Sibsey 1464
+Myddle 349
+
+Skegness 24876
+Ingoldmells 3975
+North Somercotes 1732
+Mileham 563
+
+Grimsby 134160
+Patrington 1501
+Hedon 10358
+Hunmanby 3132
+Navenby 2932
+Seaton Ross 565
+Caythorpe 1374
+Marazion 1294
+Menheniot 782
+Cropwell Bishop 1853
+Burton Joyce 3752
+Lowdham 2234
+Birdham 1166
+
+Waterlooville 64350
+Freshwater 7829
+Letty Green 316
+Ramsey 7829
+Godshill 1459
+
+Ryde 26082
+Bembridge 3688
+Lee-on-the-Solent 7224
+Hamble-le-Rice 3939
+Hythe 20201
+Scothern 860
+North Waltham 870
+Pensford 870
+Rufford 1420
+Spratton 1150
+Merton 740
+Horsted Keynes 1180
+Lifton 1180
+Great Hanwood 1090
+Flamstead 990
+Stewartby 1190
+Mary Tavy 840
+Mindrum 1
+West Pennard 670
+Whiteparish 1130
+Romsley 1360
+Hoole 1180
+Holbrook 1090
+Winteringham 1000
+Peasenhall 517
+Woolacombe 840
+West Felton 720
+Higham on the Hill 840
+Great Stukeley 720
+Great Tey 620
+Teynham 2687
+Berrynarbor 802
+West Ashton 467
+Skipsea 693
+Holme next the Sea 239
+Ulrome 239
+Croyde 693
+Bude 7011
+Kilkhampton 853
+Boscastle 641
+Scalby 9462
+Fowey 2131
+Kirton in Lindsey 2873
+Bodmin 14614
+Wadebridge 6599
+Mylor Bridge 1443
+Breage 471
+Germoe 175
+
+Falmouth 31988
+Nocton 819
+Gweek 667
+Rudgwick 1955
+
+Truro 23041
+Tresco 180
+Bryher 83
+Hayle 8210
+St. Day 700
+Newquay 20189
+Cubert 771
+Chacewater 1226
+Mevagissey 2117
+Looe 5112
+Delabole 1647
+Densole 937
+Elham 911
+Barham 1114
+Bridge 1576
+Sellindge 759
+
+Gillingham 101187
+Detling 658
+
+Maidstone 107627
+Cuxton 4438
+
+Stanford-le-Hope 28725
+Iwade 3087
+
+Sittingbourne 48948
+Littlebourne 1529
+Sturry 7386
+Tankerton 4900
+Reculver 135
+Faversham 19829
+
+Dover 41709
+Alkham 351
+
+Folkestone 66429
+Capel le Ferne 1386
+
+Deal 30555
+Sandwich 4599
+Elwick 479
+East Chinnock 479
+Lydd 3889
+Lazonby 787
+Cranbrook 4368
+Brookland 479
+Brook 310
+Upwood 390
+Paddock Wood 7840
+High Ongar 1171
+Pembury 6128
+Burwash 1317
+Burwash Common 782
+Sedlescombe 891
+Camber 1265
+Robertsbridge 2047
+Crowhurst 891
+Sheering 891
+
+Bexhill-on-Sea 40478
+Saint Leonards-on-Sea 10001
+
+Hastings 133422
+Fairlight 1516
+Corton 244
+Cliff End 244
+Winchelsea Beach 1362
+Cockshutt 787
+Wye 1915
+Lynsted 619
+Shipbourne 470
+Swinton 20000
+Willaston 2813
+Hullavington 880
+Coddenham 620
+Manuden 677
+Puriton 1968
+Wetheral 1605
+Halberton 865
+Empingham 880
+Stanhope 1602
+Stebbing 923
+St. Helens 1213
+Hampsthwaite 923
+Easton-in-Gordano 4824
+Heathfield 1001
+
+Coventry 359262
+Weobley 1101
+Sapcote 2442
+Little Hadham 383
+Desford 3179
+Syston 11508
+Gilmorton 976
+Brinklow 1101
+Lowca 888
+Frizington 1737
+
+Margate 60134
+
+Ramsgate 38624
+Westgate on Sea 6594
+
+Broadstairs 23283
+St Mary's Bay 3028
+Hailsham 19977
+Tilston 603
+Rempstone 367
+Coates 2148
+Ewen 257
+Soham 9834
+Littleport 7935
+Mepal 982
+Sawtry 5252
+Lund 308
+Oundle 5735
+Raunds 8641
+Cogenhoe 1436
+Mullion 1955
+Ranskill 1362
+Kislingbury 1237
+Whittlebury 589
+Upper Dean 418
+Tolleshunt Knights 1030
+Seisdon 752

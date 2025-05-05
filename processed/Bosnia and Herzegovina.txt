@@ -1,0 +1,311 @@
+
+
+Sarajevo 696731
+Olovo 3305
+Sokolac 8842
+Koran 3395
+
+Gorazde 17650
+Pazaric 4787
+Pale 7458
+Kobilja Glava 3666
+Ilijas 5855
+Gromiljak 6457
+Kiseljak 8475
+Polje 3799
+Polje-Bijela 1078
+Bijela 3484
+Siroki Brijeg 9370
+Nevesinje 7313
+Ljubinje 4235
+
+Trebinje 33178
+
+Bileca 13257
+Vasilj 350
+Tasovcici 2007
+Crnici 5789
+Ilici 3688
+Radisici 4072
+Tomislavgrad 7737
+Vidosi 3905
+Sipovo 10738
+Podbrdo 4028
+
+Mrkonjic Grad 14737
+Donji Vakuf 7955
+Gornji Vakuf 7014
+
+Konjic 15950
+Hotonj 4013
+Vogosca 8180
+Gornje Mostre 4009
+Gornja Breza 3732
+Mahala 5062
+Hadzici 7173
+
+Visoko 17890
+Busovaca 4776
+
+Bugojno 41378
+Fojnica 8244
+
+Zenica 164423
+Zepce 8502
+Zeljezno Polje 5783
+Buljetova Luka 16
+Buljete 19
+Tesanj 7550
+Sanica 5666
+Tesanjka 5666
+Tesanovici 1
+Kovacevici 3
+Durdevici 2
+Ristici 2
+Malesici 3764
+Smilici 2
+Balabani 1
+Brdani 5
+
+Gracanica 15758
+Gnojnica 3985
+
+Zivinice 13641
+Gornje Zivinice 4661
+Dubrave Gornje 4821
+Dubrave Donje 3811
+Vukovije Donje 3535
+Sekovici 6315
+Milici 8210
+Celic 4
+Lisnja 4
+Grabovica Donja 4
+Crnjelovo Donje 4
+Bogutovo Selo 4
+Crnjelovo Gornje 4
+Gornji Rahic 4
+Koraj 4
+Kozarac 4
+Kozarusa 4
+Kozluk 4
+Bukinje 4
+Omanjska 4
+Maoca 4
+Domaljevac 4
+Trnopolje 4
+Miljanovci 4
+Ljubija 4
+Bosanska Bijela 4
+Bosanski Petrovac 4
+Durdevik 4
+Krizevici 4
+Kamicani 4
+Gomjenica 4
+Batkovic 4
+Carakovo 4
+Donji Vijacani 4
+Ivanjska 4
+
+Kakanj 12406
+Kacuni 5042
+Dobrinje 3987
+Vares 7193
+Careva Cuprija 3954
+Stupari 4424
+Serici 3663
+Barice 3697
+Banovici 7211
+Gostovici 5802
+
+Zavidovici 14380
+Dubravica 3868
+Lanena Bara 34
+Karadaglije 3700
+Maglaj 7399
+Lijesnica 3559
+Blatnica 5676
+Pribinic 3558
+Cecava 3847
+Prnjavor 7099
+Trn 7553
+Gornjoselci 179
+Velagici 4972
+Kljuc 7245
+Peci 3650
+Kmecani 238
+Bronzani Majdan 3945
+
+Sanski Most 13551
+Lamovita 4582
+Starcevica 2300
+Piskavica 3797
+Omarska 6466
+Maricka 3707
+Kozarska Dubica 9959
+
+Gradiska 13346
+Donja Gradina 289
+Novi Grad 8920
+Vrnograc 6860
+Pecigrad 6514
+Coralici 5223
+Pjanici 3537
+Trzacka Rastela 6617
+Izacic 4089
+Ostrozac 5456
+Varoska Rijeka 6573
+Stijena 10844
+
+Cazin 21741
+Buzim 7229
+Gornja Koprivna 4600
+Mala Kladusa 6033
+
+Velika Kladusa 19330
+
+Bosanska Krupa 15193
+Otoka 6595
+Skokovi 3553
+Medakova Glavica 332
+
+Bihac 75641
+Orasac 3856
+Bosansko Grahovo 5643
+Glamoc 4016
+Bila 4397
+Zabrisce 4261
+Gorica 1179
+Drinovci 3791
+Dreznica 3908
+Jablanica 6209
+Blagaj 4715
+Stolac 7733
+
+Mostar 104518
+Cim 3966
+Potoci 8312
+Rodoc 5159
+Prozor 10349
+Rumboci 3854
+Podhum 5801
+Pajic Polje 4026
+Jajce 9763
+Celinac 6670
+
+Banja Luka 221106
+Laktasi 6464
+Maslovare 4899
+Kotor Varos 5068
+Knezevo 6866
+Divicani 7251
+Turbe 4767
+
+Travnik 31127
+Novi Travnik 10006
+Vitez 8140
+Krsevi 34
+Novi Seher 4416
+Kovaci 6410
+Puracic 3461
+Mramor 3918
+Orahovica Donja 5612
+Donja Medida 3782
+Sladna 4304
+
+Gradacac 15659
+Samac 3599
+Donja Dubica 3489
+Donja Mahala 5565
+Orasje 3613
+Ostra Luka 3923
+Lukavica 4084
+
+Doboj 27235
+Jelah 5291
+Stjepan-Polje 4341
+Voljevac 3764
+Kuriacki Tor 487
+Mionica 8701
+Obudovac 2171
+Brka 2800
+
+Brcko 38968
+Srebrenik 6723
+Solina 4780
+
+Tuzla 142486
+Gornja Tuzla 4864
+Tojsici 6587
+Slavinovici 4
+Vidovice 4
+Cajnice 3909
+Srebrenica 2862
+Vlasenica 4508
+Han Pijesak 4206
+Kladanj 6783
+Svojat 3516
+Priboj 4351
+Lopare 3614
+Ugljevik 3452
+
+Bijeljina 37692
+Popovi 1145
+Dvorovi 1710
+Ostojicevo 673
+Brodac-Gornji 967
+Balatun 1400
+Velika Obarska 5142
+Glogovac 499
+Kojcinovac 863
+Johovac 324
+Janja 5544
+Cela 4
+Pelagicevo 4
+Maglajani 4221
+Srbac 7380
+Kalenderovci Donji 5890
+Derventa 9773
+Stanari 3590
+Teslic 6405
+Sturlic 5014
+Dobrljin 3582
+Kostajnica 4739
+Knezica 4792
+Svodna 4388
+Todorovo 9560
+Sumatac 4987
+Podzvizd 6665
+Zboriste 4922
+Jezerski 4361
+Ljubuski 9987
+Vitina 4384
+Citluk 5718
+Capljina 7923
+Neum 4200
+Gacko 3417
+
+Foca 14615
+Ustikolina 4446
+Rogatica 4947
+Visegrad 6087
+Rudo 1760
+Bratunac 4717
+Zvornik 8026
+Orahovica Gornja 4
+
+Prijedor 36347
+Krupa na Vrbasu 1257
+Grude 4627
+
+Livno 11748
+Orguz 4371
+Odzak 11621
+Brod 9249
+Lokvine 3928
+Osinja 4
+Skakava Donja 4
+Kocerin 3516
+Petkovci 2212
+Radusa 4
+Vozuca 3209
+Tolisa 4

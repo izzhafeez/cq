@@ -1,0 +1,327 @@
+
+
+Joinville 597658
+Campo Alegre 11981
+Rio Negrinho 42495
+Doutor Pedrinho 4115
+Rio dos Cedros 11808
+Pomerode 34010
+Rodeio 11600
+Presidente Getulio 17726
+Laurentino 7063
+Aurora 5683
+Ituporanga 25355
+Petrolandia 5905
+Atalanta 3195
+Agrolandia 11013
+Agronomica 5509
+Braco do Trombudo 3769
+Trombudo Central 7434
+Lontras 12315
+Ascurra 7978
+Apiuna 10848
+Ibirama 19096
+Vidal Ramos 6329
+Presidente Nereu 2283
+Jose Boiteux 5007
+Timbo 44977
+Botuvera 5322
+Ilhota 14359
+
+Itajai 223112
+
+Itapema 67338
+Penha 33284
+Barra Velha 29860
+Balneario Picarras 23772
+
+Balneario Camboriu 145796
+
+Camboriu 85105
+Bombinhas 20335
+Canelinha 12398
+Angelina 4743
+Major Gercino 3454
+Governador Celso Ramos 14606
+Aguas Mornas 6559
+
+Biguacu 69486
+Guabiruba 24382
+
+Brusque 137689
+
+Gaspar 70793
+
+Navegantes 83626
+Luiz Alves 13107
+
+Blumenau 361855
+Nova Trento 14782
+Antonio Carlos 8613
+Santo Amaro da Imperatriz 23579
+Sao Pedro de Alcantara 5935
+
+Sao Jose 250181
+Sao Joao Batista 38583
+Tijucas 39155
+Porto Belo 21932
+
+Florianopolis 508826
+Paulo Lopes 7569
+Garopaba 23579
+
+Palhoca 175272
+Sao Martinho 3171
+Imarui 9948
+Armazem 8759
+Treze de Maio 7093
+Capivari de Baixo 25177
+Pescaria Brava 10159
+Gravatal 11577
+Pedras Grandes 3953
+Grao Para 6595
+
+Tubarao 106422
+
+Icara 57247
+
+Criciuma 217311
+Morro da Fumaca 17947
+Maracaja 7378
+
+Ararangua 68867
+Sangao 12905
+Urussanga 21344
+Cocal do Sul 16821
+Braco do Norte 33876
+Rio Fortuna 4620
+
+Laguna 46122
+Jaguaruna 20288
+Balneario Rincao 12946
+Balneario Arroio do Silva 13430
+Balneario Gaivota 11260
+Sombrio 30733
+Santa Rosa do Sul 8378
+Sao Joao do Sul 7315
+Timbe do Sul 5343
+Turvo 12990
+Lauro Muller 15313
+Orleans 23038
+Sao Ludgero 13650
+Santa Rosa de Lima 2147
+Rancho Queimado 2887
+Chapadao do Lageado 3006
+
+Rio do Sul 72006
+Rio do Oeste 7520
+Rio do Campo 5902
+Sao Cristovao do Sul 5598
+Sao Jose do Cerrito 8173
+Cerro Negro 3068
+Ponte Alta do Norte 3420
+Ponte Alta 4650
+Capao Alto 2496
+
+Lages 157349
+Vargem 2432
+Frei Rogerio 1970
+Iomere 2962
+Pinheiro Preto 3596
+
+Videira 53610
+Macieira 1766
+Irani 10498
+Ipira 4406
+Piratuba 3745
+Alto Bela Vista 1926
+Peritiba 2760
+Ita 6129
+Arabuta 4267
+Seara 17576
+Vargeao 3571
+Vargem Bonita 4451
+Catanduvas 10984
+Tangara 8662
+Ibicare 3178
+Monte Carlo 9906
+Brunopolis 2368
+Campos Novos 36556
+Celso Ramos 2719
+Campo Belo do Sul 6952
+Bocaina do Sul 3488
+Painel 2356
+Palmeira 2650
+Otacilio Costa 18975
+Taio 18486
+Salete 7659
+Santa Terezinha 8773
+Santa Cecilia 16918
+Lebon Regis 12115
+Calmon 3335
+
+Cacador 79313
+Joacaba 30404
+Jabora 3918
+Presidente Castello Branco 1547
+
+Concordia 75167
+Paial 1474
+Planalto Alegre 2888
+Cordilheira Alta 4520
+Coronel Freitas 9940
+Aguas Frias 2354
+Guatambu 4698
+Caxambu do Sul 3551
+Xaxim 28983
+
+Xanxere 51642
+Xavantina 3903
+Faxinal dos Guedes 10649
+Passos Maia 4109
+Marema 1750
+Coronel Martins 2555
+Saltinho 3754
+Tigrinhos 1619
+Santa Terezinha do Progresso 2372
+Iraceminha 3938
+Cunha Pora 11118
+Cunhatai 1967
+Pinhalzinho 20712
+Saudades 9810
+Bom Jesus do Oeste 2139
+Uniao do Oeste 2412
+Santiago do Sul 1235
+Formosa do Sul 2495
+Irati 1909
+Jardinopolis 1546
+Sao Bernardino 2287
+Sao Domingos 9434
+Sao Lourenco do Oeste 24291
+Novo Horizonte 2404
+Nova Erechim 5092
+
+Chapeco 224013
+Arvoredo 2234
+Lajeado Grande 1418
+Morro Grande 2888
+Modelo 4218
+Quilombo 9829
+Bom Jesus 3057
+Ouro Verde 2207
+Abelardo Luz 17960
+Ipuacu 7579
+Entre Rios 3218
+Galvao 2791
+Campo Ere 8418
+Palma Sola 7372
+Paraiso 3360
+Guaraciaba 10026
+Guaruja do Sul 5178
+Ipora do Oeste 9045
+Sao Joao do Oeste 6402
+Sao Miguel do Oeste 40868
+Sao Miguel da Boa Vista 1807
+Barra Bonita 1651
+Dionisio Cerqueira 15545
+Sao Jose do Cedro 13820
+Flor do Sertao 1579
+Romelandia 4684
+Bandeirante 2648
+Belmonte 2709
+Mondai 11889
+Caibi 6130
+Riqueza 4561
+Palmitos 16157
+Sao Carlos 11369
+Sul Brasil 2423
+Maravilha 26116
+Anchieta 5557
+Descanso 8192
+Tunapolis 4525
+Itapiranga 17007
+Jupia 2092
+Santa Helena 2200
+Meleiro 7001
+Forquilhinha 27211
+Nova Veneza 15342
+Sideropolis 14092
+Treviso 3966
+Bom Jardim da Serra 4772
+Bom Retiro 10060
+Mirim Doce 2283
+Imbuia 6241
+Leoberto Leal 3000
+Alfredo Wagner 10086
+Anitapolis 3228
+Sao Bonifacio 2814
+Imbituba 45286
+Massaranduba 17125
+Araquari 39524
+Balneario Barra do Sul 11035
+
+Sao Francisco do Sul 53746
+Sao Joao do Itaperiu 3759
+Itapoa 21177
+Garuva 18484
+Corupa 16107
+Schroeder 21991
+
+Jaragua do Sul 181173
+Guaramirim 45797
+
+Sao Bento do Sul 85421
+Benedito Novo 11775
+Vitor Meireles 4943
+Witmarsum 3998
+Dona Emma 4186
+Pouso Redondo 17712
+Lindoia do Sul 4546
+Agua Doce 7152
+Treze Tilias 7991
+Arroio Trinta 3549
+Salto Veloso 4756
+Erval Velho 4418
+Herval d'Oeste 22714
+Luzerna 5684
+Lacerdopolis 2247
+Ouro 7272
+Capinzal 23035
+Zortea 3398
+Anita Garibaldi 6957
+Curitibanos 39893
+Fraiburgo 36584
+Timbo Grande 7941
+Papanduva 19422
+Monte Castelo 8269
+Major Vieira 8156
+Bela Vista do Toldo 6362
+
+Canoinhas 54480
+Tres Barras 19366
+Itaiopolis 21780
+
+Mafra 56561
+Urupema 2459
+Urubici 11273
+Rio Rufino 2483
+Sao Joaquim 27139
+Jacinto Machado 10376
+Ermo 2061
+Passo de Torres 9048
+Praia Grande 7312
+
+Indaial 70900
+Correia Pinto 12553
+Abdon Batista 2548
+Matos Costa 2480
+Porto Uniao 35543
+Irineopolis 11289
+Ipumirim 7620
+Ponte Serrada 11634
+Serra Alta 3256
+Nova Itaberaba 4329
+Aguas de Chapeco 6515
+Rio das Antas 6202
+Princesa 2937
+Ibiam 1954
