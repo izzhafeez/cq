@@ -1,189 +1,189 @@
 
 
 Lima 8838102
-Mala 28300
-
-Callao 994494
-Huaral 84800
-Huacho 165900
-Andahuaylas 62100
-Huarmey 22400
-Huaraz 129100
-Caraz 16600
-Paramonga 18900
-Oxapampa 11900
-Cerro de Pasco 61800
-La Merced 25900
-Villa Rica 11800
-Sicaya 21700
-
-Huancayo 441400
-Huancavelica 55100
-Lircay 10700
-
-Ayacucho 235200
-Chupaca 14600
-Nauta 21700
-Jauja 32800
-Concepcion 14600
-Monsefu 25800
-San Jeronimo de Tunan 13000
-San Martin de Pangoa 25800
-Sapallanga 13000
-Negritos 13000
-Pichari 17500
-Mazamari 19000
-Lamas 11800
-San Jose 11800
-Pichanaqui 46600
-Tarma 42500
-Junin 9980
-Oyon 8150
-
-Huanuco 214800
-Aucayacu 18100
-
-Pucallpa 380000
-Tingo Maria 70400
-Motupe 18300
-Tarapoto 162700
-Patapo 18300
-Juanjui 29800
-Bellavista 13400
-San Jose de Sisa 9610
-Santiago 14900
-San Marcos 9700
-
-Cajamarca 223900
-Bambamarca 16700
-Huamachuco 48800
-Tocache 18300
-Ilo 70400
-Pativilca 11900
-Chilca 15200
-Quilmana 10400
-San Vicente de Canete 70800
-San Clemente 28200
-San Juan de Marcona 18000
-Nazca 48900
-
-Ica 310600
-Supe 26500
 Tupac Amaru 26500
-Pisco 85600
+San Martin de Pangoa 25800
+San Vicente de Canete 70800
+Huanta 34600
+Tarma 42500
+Pichari 17500
+Chupaca 14600
 
 Chincha Alta 210500
-Huanchaco 14000
-Talara 97500
-Caleta Cruz 10100
-Catacaos 47100
-Los Organos 10000
-San Lorenzo 10200
-Ferrenafe 52000
-Reque 9750
+Junin 9980
+Chilca 15200
+Huancavelica 55100
+Villa Rica 11800
+Ilo 70400
+Atalaya 15900
+Abancay 80100
+Concepcion 14600
+Cerro de Pasco 61800
+Oxapampa 11900
+Lamas 11800
 
-Chiclayo 651100
-Pacasmayo 32100
-San Pedro de Lloc 14800
-Santa Rosa 13700
-Pimentel 22500
-Tucume 10200
-Tuman 24900
-Chongoyape 8340
-Chepen 40100
-Moche 23400
-Chao 13800
+Callao 994494
+Sicaya 21700
+Pichanaqui 46600
+Nauta 21700
+Quilmana 10400
+Nazca 48900
 
-Chimbote 386100
-Otuzco 13500
+Huancayo 441400
+Lircay 10700
+La Merced 25900
+Mala 28300
+Sapallanga 13000
+San Jose 11800
+Negritos 13000
+Mazamari 19000
+Tingo Maria 70400
+Pativilca 11900
 Querecotillo 14100
-
-Trujillo 986800
-Viru 11200
-Cartavio 13600
-Paijan 23400
+Motupe 18300
 Salaverry 14100
-Ilave 21900
-Laredo 27600
-Requena 25100
-
-Iquitos 422900
-Soritor 14900
-Rioja 23100
-Nueva Cajamarca 27800
-Segunda Jerusalen 17600
-Moyobamba 55200
-Yurimaguas 77200
-Jaen 81100
-San Ignacio de la Frontera 14400
 Cutervo 20800
-Olmos 16900
+Santiago 14900
+San Pedro de Lloc 14800
 Morrope 10000
-Chulucanas 43900
-Sullana 204200
-Zarumilla 42400
-Tumbes 107500
-Cajabamba 19800
-San Pedro de los Incas 19800
-Las Lomas 10500
+San Ignacio de la Frontera 14400
 Casa Grande 19800
+Nueva Cajamarca 27800
+Pacasmayo 32100
+Chulucanas 43900
+Tucume 10200
+Bambamarca 16700
+Cartavio 13600
+Caraz 16600
+San Marcos 9700
+Tuman 24900
+Las Lomas 10500
 Mancora 14000
-San Jacinto 9510
-Paita 94200
 
 Piura 522400
-Sechura 37600
-Chachapoyas 38400
-Chancay 37600
-Caballococha 10800
-Atalaya 15900
-Huanta 34600
-Abancay 80100
-Quillabamba 25500
-Urubamba 16300
-Yauri 32300
-Ayaviri 23000
-La Joya 9860
-La Pampa 9460
+Huanchaco 14000
 
 Arequipa 1081900
-Moquegua 79100
-El Pedregal 51900
-Azangaro 21500
-Yunguyo 11600
-Puno 137800
-Putina 9950
-La Rinconada 6310
-Puerto Maldonado 93900
-Santo Tomas 10600
-Macusani 11700
-Sicuani 51300
-
-Cusco 477300
-Coracora 11000
+Quillabamba 25500
 Puquio 13100
-Camana 12700
-Mollendo 26200
-Eten 11600
-Anta 11600
-
-Tacna 321700
-Desaguadero 7950
+Calca 15000
 
 Juliaca 308400
-Aguaytia 20000
-Bagua 26600
-Bagua Grande 36600
-Guadalupe 24100
+
+Ayacucho 235200
+
+Cusco 477300
+Azangaro 21500
+San Juan de Marcona 18000
+Camana 12700
+
+Ica 310600
+
+Trujillo 986800
+Los Organos 10000
+Catacaos 47100
+San Pedro de los Incas 19800
+Santa Rosa 13700
+Olmos 16900
+Moche 23400
+
+Chimbote 386100
+Tocache 18300
+
+Cajamarca 223900
+Rioja 23100
+Otuzco 13500
+Huamachuco 48800
+Huaraz 129100
+Barranca 62100
+Paramonga 18900
+Oyon 8150
+Aucayacu 18100
+Huacho 165900
+
+Huanuco 214800
+
+Pucallpa 380000
+Patapo 18300
+Bellavista 13400
+Viru 11200
+
+Chiclayo 651100
+Chao 13800
+Chongoyape 8340
+Chepen 40100
+Ferrenafe 52000
+Sullana 204200
+Talara 97500
+Zarumilla 42400
+Segunda Jerusalen 17600
+Jaen 81100
+Soritor 14900
+San Lorenzo 10200
+San Jacinto 9510
+
+Iquitos 422900
+San Jose de Sisa 9610
+
+Tacna 321700
+Macusani 11700
+Santo Tomas 10600
+Puerto Maldonado 93900
+Moquegua 79100
+Yunguyo 11600
+Urubamba 16300
+Yauri 32300
+La Rinconada 6310
+Coracora 11000
+Pisco 85600
+Tarapoto 162700
+Puno 137800
+Putina 9950
+Tumbes 107500
+Cajabamba 19800
+Paita 94200
+Caleta Cruz 10100
+Huaral 84800
+Huarmey 22400
+Andahuaylas 62100
+Yurimaguas 77200
+Moyobamba 55200
+El Pedregal 51900
+La Pampa 9460
+La Joya 9860
+Ayaviri 23000
+Sicuani 51300
+Anta 11600
+Chachapoyas 38400
+Casma 35700
+Chancay 37600
 Chota 23500
+Sechura 37600
+San Ramon 23200
+Tambo Grande 27700
+Celendin 20900
+Aguaytia 20000
+Guadalupe 24100
+Bagua 26600
+Caballococha 10800
+Bagua Grande 36600
+Jauja 32800
+Juanjui 29800
+Satipo 28800
 Santa 20000
 Contamana 20300
-Tambo Grande 27700
-San Ramon 23200
+San Clemente 28200
+San Jeronimo de Tunan 13000
+Laredo 27600
 La Oroya 21900
+Ilave 21900
 La Union 20300
-Celendin 20900
-Satipo 28800
-Casma 35700
-Calca 15000
-Barranca 62100
+Supe 26500
+Mollendo 26200
+Eten 11600
+Monsefu 25800
+Requena 25100
+Paijan 23400
+Pimentel 22500
+Reque 9750
+Desaguadero 7950

@@ -1,38 +1,38 @@
 
 
 Vladivostok 592034
-Shkotovo 5038
 Smolyaninovo 6715
+Novyy 5932
 Fokino 23696
-Dunay 7581
 
 Nakhodka 159719
-Bol'shoy Kamen' 39257
-
-Artem 102603
-Tavrichanka 7926
-Novyy 5932
-Barabash 5691
 Slavyanka 14036
-Yaroslavskiy 9104
-Novoshakhtinskiy 7841
+Tavrichanka 7926
 Mikhaylovka 9153
-Pokrovka 10360
-Lipovtsy 6402
-Pogranichnyy 10280
-Kamen'-Rybolov 10909
 Khorol' 10860
-Chernigovka 13046
-Monastyrishche 5299
-Spassk-Dal'niy 44173
-Kirovskiy 9057
-Lesozavodsk 37034
-Dal'nerechensk 27604
-Luchegorsk 21004
-Dal'negorsk 37519
-Kavalerovo 15381
-Plastun 5350
-Partizansk 38659
+Kamen'-Rybolov 10909
 Vozdvizhenka 6454
+Chernigovka 13046
+Pokrovka 10360
+Pogranichnyy 10280
+Lipovtsy 6402
+Novoshakhtinskiy 7841
+Yaroslavskiy 9104
 
 Ussuriysk 158004
+Monastyrishche 5299
+
+Artem 102603
+Dunay 7581
+Spassk-Dal'niy 44173
+Kirovskiy 9057
+Luchegorsk 21004
+Dal'negorsk 37519
+Partizansk 38659
+Barabash 5691
+Bol'shoy Kamen' 39257
+Shkotovo 5038
+Lesozavodsk 37034
+Dal'nerechensk 27604
+Kavalerovo 15381
+Plastun 5350

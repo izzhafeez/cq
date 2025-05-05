@@ -1,110 +1,110 @@
 
 
 Moncton 71889
-Bouctouche 2361
-Richibucto 1887
-
-Miramichi 17537
-Neguac 1684
-Maisonnette 495
-Caraquet 4248
-Bas-Caraquet 1305
-Lameque 1285
-Paquetville 2329
-Le Goulet 793
-Belledune 1417
-
-Campbellton 6883
-Atholville 3570
-Dalhousie 3126
-Balmoral 1674
-
-Bathurst 11897
-Beresford 6248
-Saint-Isidore 1361
-Sainte-Marie-Saint-Raphael 879
-Pointe-Verte 886
-Petit-Rocher 1897
-Charlo 1310
-Eel River Crossing 1953
-Saint-Quentin 2194
-Saint-Leonard 1300
-Sainte-Anne-de-Madawaska 957
-Woodstock 5228
-Florenceville-Bristol 1604
-Centreville 557
-Hartland 957
-Perth-Andover 1590
-Grand Falls 5326
-Drummond 2157
-
-Edmundston 16580
-Plaster Rock 1023
+Gagetown 711
+Petitcodiac 1383
+Cap-Pele 2425
+Cambridge-Narrows 562
 Nackawic 941
-Meductic 173
-
-Fredericton 58220
+Plaster Rock 1023
 
 Oromocto 9223
-Norton 1382
-Hampton 4289
-Minto 2305
-Chipman 1104
+Meductic 173
+Hartland 957
+Drummond 2157
+
+Campbellton 6883
+Bas-Caraquet 1305
+Charlo 1310
+Aroostook 306
+
+Bathurst 11897
+Balmoral 1674
+Saint-Isidore 1361
+Pointe-Verte 886
+Maisonnette 495
+Rexton 830
+Doaktown 792
+Saint-Antoine 1733
+Neguac 1684
+Lameque 1285
+Blackville 2028
 New Maryland 4174
-Canterbury 525
-St. Stephen 4415
-Saint Andrews 1786
-
-Saint John 67575
-
-Rothesay 11659
-Grand Bay-Westfield 4964
+Sainte-Anne-de-Madawaska 957
+Minto 2305
+Hampton 4289
+Memramcook 4778
 
 Quispamsis 18245
-Gagetown 711
-Cambridge-Narrows 562
-Sussex 4282
-Sussex Corner 1461
-Petitcodiac 1383
+Salisbury 3388
+Sackville 5331
+
+Riverview 19667
+Richibucto 1887
+Riviere-Verte 724
+Norton 1382
+
+Fredericton 58220
+Florenceville-Bristol 1604
+St. Stephen 4415
+Centreville 557
+Saint-Leonard 1300
+Saint-Quentin 2194
+Petit-Rocher 1897
+Caraquet 4248
+Sainte-Marie-Saint-Raphael 879
+
+Saint John 67575
+Canterbury 525
+Saint Andrews 1786
+Grand Manan 2360
+Chipman 1104
+Bouctouche 2361
+
+Miramichi 17537
+Shippagan 4800
+Paquetville 2329
+Belledune 1417
+Le Goulet 793
+Dalhousie 3126
+Eel River Crossing 1953
 
 Dieppe 25384
 
-Riverview 19667
-Salisbury 3388
-Memramcook 4778
-Sackville 5331
-Port Elgin 408
-Saint-Antoine 1733
-
 Shediac 6664
-Cap-Pele 2425
-Riviere-Verte 724
-Rexton 830
-Blackville 2028
-Doaktown 792
-Lac Baker 690
-Bath 476
-Blacks Harbour 894
-Hillsborough 1308
-St. Martins 276
-Grande-Anse 899
-Riverside-Albert 350
-Tide Head 938
-Fredericton Junction 704
-St. George 1517
+
+Edmundston 16580
 Stanley 832
-McAdam 1151
-Saint-Francois de Madawaska 470
-Saint-Louis de Kent 856
-Harvey 358
-Alma 213
-Millville 273
-Rogersville 1166
-Bertrand 1166
+Atholville 3570
+Grand Falls 5326
+Perth-Andover 1590
+
+Rothesay 11659
+Grand Bay-Westfield 4964
+Beresford 6248
+Woodstock 5228
+Sussex 4282
+Sussex Corner 1461
+St. George 1517
+Hillsborough 1308
+Blacks Harbour 894
 Tracy 608
-Shippagan 4800
-Grand Manan 2360
+McAdam 1151
+Grande-Anse 899
+Tide Head 938
+St. Martins 276
+Rogersville 1166
+Riverside-Albert 350
+Fredericton Junction 704
+Bertrand 1166
 Dorchester 1096
 Nigadoo 963
-Aroostook 306
+Saint-Louis de Kent 856
+Lac Baker 690
+Bath 476
 Saint-Leolin 647
+Port Elgin 408
+Saint-Francois de Madawaska 470
+Harvey 358
+Millville 273
+Alma 213

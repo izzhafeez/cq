@@ -1,19 +1,19 @@
 
 
 Kaliningrad 431902
-Zelenogradsk 13026
-Svetlogorsk 10772
-Pionerskiy 11016
-Yantarnyy 5524
-Svetlyy 21375
-Baltiysk 32697
-Mamonovo 7761
 Bagrationovsk 6400
-Gvardeysk 13899
+Baltiysk 32697
+Pionerskiy 11016
+Svetlogorsk 10772
+Zelenogradsk 13026
 Polessk 7581
 
-Chernyakhovsk 40449
-
 Sovetsk 41705
-Neman 11798
+
+Chernyakhovsk 40449
 Gusev 28260
+Svetlyy 21375
+Mamonovo 7761
+Gvardeysk 13899
+Neman 11798
+Yantarnyy 5524

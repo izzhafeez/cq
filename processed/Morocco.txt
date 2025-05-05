@@ -1,154 +1,154 @@
 
 
 Casablanca 3359818
-Lahraouyine 64821
-Tit Mellil 32782
 El Mansouria 19853
-Benslimane 57101
-Bouznika 37238
-Sidi Bouknadel 25255
-Sidi Yahya El Gharb 37979
-Sidi Slimane 92989
-Sidi Kacem 75672
-Mechra Bel Ksiri 31497
-Jorf El Melha 28681
-Souk El Arbaa 69265
-Ksar El Kebir 126617
-Larache 125008
-Chefchaouen 42786
-Ouezzane 59606
-Assilah 31147
-Martil 64355
-M'Diq 56227
-
-Tetouan 380787
-Taounate 37616
-Ain Taoujdate 28288
-Sabaa Aiyoun 26277
-
-Meknes 520428
-
-Fes 1112072
-El Hajeb 35282
-Azrou 54350
-Sefrou 79887
-Khemisset 131542
-Tiflet 86709
-
-Sale 890403
+El Gara 20855
+Sidi Rahal Chatai 20628
 
 Rabat 577827
+Bouskoura 103026
 
 Temara 313510
-Ain Attig 25078
-Ain El Aouda 49816
-Ain Harrouda 62420
-Deroua 47719
-Nouaceur 23802
-Bouskoura 103026
-Dar Bouazza 151373
 Had Soualem 36765
-Sidi Rahal Chatai 20628
-Lbir Jdid 24136
-El Jadida 194934
-El Gara 20855
-Ben Ahmed 33105
-Mediouna 22442
-
-Mohammedia 208612
-Tamesna 28119
-Mehdia 28636
-
-Kenitra 431282
-Skhirat 59775
-Tinghir 42044
-Errachidia 92374
-Er-Rich 25992
-Moulay Ali Cherif 22209
-Toulal 19077
-Tahla 27729
-Taza 148456
-Taourirt 103398
-Imzouren 33852
-Beni Ensar 56582
-Sidi Slimane Echcharaa 30202
-El Aioun Sidi Mellouk 41832
-Zaio 35806
-Selouane 21570
-Zeghanghane 34025
-Berkane 109237
-Jerada 43506
-
-Oujda 494252
-Ahfir 19630
-Nador 161726
-Al Aaroui 47599
-Al Hoceima 56716
-Guercif 90880
-Ben Guerir 88626
-Sidi Bennour 55815
-Sidi Taibi 46751
+Azemmour 40920
 Youssoufia 67628
-
-Safi 308508
-Essaouira 77966
-Aourir 35365
-
-Agadir 421844
-Dcheira El Jihadia 100336
-Inezgane 130333
-Ouislane 87910
-Oulad Berhil 24288
-Oulad Teima 89387
-Ait Melloul 171847
-Ait Amira 48560
-Tiznit 74699
-Sidi Ifni 21618
-Guelmim 118318
-Drargua 50946
-Temsia 27955
-Lqliaa 83235
-Biougra 37933
-Taroudant 80149
-Imintanoute 20837
-Tamensourt 25077
-Ait Ourir 39108
-Souk Sebt Oulad Nemma 60076
-Oulad Ayad 23818
-Oued Zem 95267
-Bejaad 46893
-Beni Mellal 192676
-Azilal 38520
-Fkih Ben Salah 102019
+Deroua 47719
+El Borouj 19235
+Sidi Bennour 55815
 
 Khouribga 196196
-El Ksiba 20001
-El Borouj 19235
-El Kelaa des Sraghna 95224
-Laattaouia 30315
-Demnate 29504
-Ouarzazate 71067
-Zagora 40067
-Tabounte 31072
-
-Marrakesh 928850
-Echemmaia 24303
-Azemmour 40920
-Berrechid 136634
-Settat 142250
-Tan-Tan 73209
-Tarfaya 8027
-Bouarfa 28846
-Chichaoua 27869
-Arfoud 29279
-Midelt 55304
-Missour 25584
-Imouzzer Kandar 19125
-M'Rirt 42730
-Khenifra 117510
 Zaouiat Cheikh 25388
+Ain El Aouda 49816
+Ben Ahmed 33105
+Oulad Ayad 23818
+Laattaouia 30315
 Kasba Tadla 47343
+El Kelaa des Sraghna 95224
+Beni Mellal 192676
+Benslimane 57101
+Tit Mellil 32782
+Tamesna 28119
+Mehdia 28636
+Jorf El Melha 28681
+El Hajeb 35282
+Midelt 55304
+Sidi Kacem 75672
+Ksar El Kebir 126617
+
+Sale 890403
+Mechra Bel Ksiri 31497
+Sidi Bouknadel 25255
+
+Meknes 520428
+Ouezzane 59606
 
 Tangier 947952
+Taounate 37616
+
+Tetouan 380787
+Ain Taoujdate 28288
+Chefchaouen 42786
 Gueznaia 23601
+
+Fes 1112072
+Sidi Yahya El Gharb 37979
+Ain Harrouda 62420
+Berrechid 136634
+Skhirat 59775
+Khemisset 131542
+Sefrou 79887
+Missour 25584
+El Aioun Sidi Mellouk 41832
+Sabaa Aiyoun 26277
+Souk El Arbaa 69265
+
+Marrakesh 928850
+Oulad Teima 89387
+Ouarzazate 71067
+Imintanoute 20837
+Ait Amira 48560
+Tamensourt 25077
+Tabounte 31072
+Taroudant 80149
+Ouislane 87910
+Oulad Berhil 24288
+Ben Guerir 88626
+Fkih Ben Salah 102019
+Lahraouyine 64821
+Ain Attig 25078
+Tiflet 86709
+M'Rirt 42730
+Er-Rich 25992
+Imouzzer Kandar 19125
+El Ksiba 20001
+
+Oujda 494252
+Toulal 19077
+Azrou 54350
+Taza 148456
+Zeghanghane 34025
+Sidi Slimane Echcharaa 30202
+Al Hoceima 56716
+Martil 64355
+Sidi Slimane 92989
+
+Kenitra 431282
+Larache 125008
+Assilah 31147
+
+Agadir 421844
+Ait Ourir 39108
+Souk Sebt Oulad Nemma 60076
+Settat 142250
+
+Safi 308508
+Aourir 35365
+Essaouira 77966
+Dcheira El Jihadia 100336
+Echemmaia 24303
+Demnate 29504
+Oued Zem 95267
+
+Mohammedia 208612
+Mediouna 22442
+El Jadida 194934
+Sidi Taibi 46751
+Lbir Jdid 24136
+Dar Bouazza 151373
+Bouznika 37238
+Ait Melloul 171847
+Tiznit 74699
+Sidi Ifni 21618
+Temsia 27955
+Lqliaa 83235
+Nador 161726
+Imzouren 33852
+Beni Ensar 56582
 Fnideq 77436
+Inezgane 130333
+Tan-Tan 73209
+Tarfaya 8027
+Drargua 50946
+Biougra 37933
+Guelmim 118318
+Khenifra 117510
+Berkane 109237
+Guercif 90880
+Jerada 43506
+Taourirt 103398
+Ahfir 19630
+Tahla 27729
+Errachidia 92374
+Tinghir 42044
+M'Diq 56227
+Al Aaroui 47599
+Bejaad 46893
+Zagora 40067
+Azilal 38520
+Zaio 35806
+Arfoud 29279
+Bouarfa 28846
+Chichaoua 27869
+Moulay Ali Cherif 22209
+Nouaceur 23802
+Selouane 21570

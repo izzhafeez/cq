@@ -1,151 +1,151 @@
 
 
 Lagos 13903620
-Sagamu 127513
-Gbongan 69931
-Oshogbo 250951
-Ejigbo 69366
-Ifon 62817
 Ilobu 59196
-Ilesha 139445
-Ilawe Ekiti 104049
-Ado Ekiti 156122
-Sango Otta 103332
-Ila Orangun 89861
-Ikirun 76565
-Inisa 82314
-
-Ilorin 532089
-Offa 74326
-Effon Alaiye 158977
-Ijero 95365
 Ikerre 58612
-Akure 239124
-Ikare 103843
-Ise 108136
 Ogaminan 55054
-Uromi 73569
-Ekpoma 40382
+
+Benin City 762719
+Ilawe Ekiti 104049
+Modakeke 59918
+Ejigbo 69366
+Offa 74326
+Gbongan 69931
+Sagamu 127513
+Inisa 82314
+Iseyin 170936
+Ifon 62817
+Ondo 146051
+Ijebu Igbo 64924
+
+Ogbomosho 433030
+Kishi 77972
+Kontagora 63994
+Sokoto 329639
+Azare 69035
+Yola 54810
+Nguru 61511
+Bama 65437
+Makurdi 151515
+Amaigbo 70756
+Obosi 85250
+Nsukka 69230
 Nkpor 64733
+Okigwi 64280
+Abakaliki 83651
+Ihiala 51959
+Uromi 73569
+Ughelli 54206
 Okpogho 105127
+Ishieke 56129
+Onitsha 350280
+Eha Amufu 44136
+Umuahia 147167
+Buguma 82865
+Uyo 58369
+
+Kano 3931300
+Birnin Kebbi 63147
+Ikirun 76565
+Ikare 103843
+Akure 239124
+Ikire 111435
+
+Ibadan 3034200
+Sango Otta 103332
+Ado Ekiti 156122
+
+Abuja 1235880
+Effium 54229
+Ohafia 40767
+Afikpo 44823
+Enugu Ukwu 42925
+Ugep 134773
+Uga 40048
 
 Enugu 407756
-Enugu Ukwu 42925
+Bende 44248
+Ikot Ekpene 119402
+
+Port Harcourt 703421
+Calabar 310839
+Abonnema 41972
+Asaba 49725
+Sapele 109576
+
+Kaduna 993642
+Ila Orangun 89861
+Ilesha 139445
+
+Ilorin 532089
+
+Maiduguri 618278
+Gusau 132393
+Igboho 68566
+Igbo Ora 46479
+Ikorodu 184674
+Ijebu Ode 124313
+Ede 142363
+
+Zaria 612257
+Gashua 69719
+Jalingo 67226
+Ikom 53226
+Gboko 101281
 Igbo Ukwu 46943
-Obosi 85250
 Agbor 45820
 Agulu 49310
 Ozubulu 46062
-Ihiala 51959
-Umuahia 147167
-Ohafia 40767
-Afikpo 44823
-Ikom 53226
-Abakaliki 83651
-Aku 45985
-Effium 54229
-Ishieke 56129
-Eha Amufu 44136
-Amaigbo 70756
-Okigwi 64280
-Nnewi 121065
-Uga 40048
-Awka 104682
-Nsukka 69230
-Otukpo 83218
-Ankpa 40249
-Makurdi 151515
-Gboko 101281
-Wukari 53050
-Kagoro 48329
-
-Kano 3931300
-Katsina 259315
-Kaura Namoda 40677
-Gusau 132393
-Daura 46954
-Nguru 61511
-Damaturu 141897
-
-Maiduguri 618278
-Bama 65437
-Gamboru 46904
-Gashua 69719
-Malumfashi 42415
-Kafanchan 49906
-Lafia 79387
-Keffi 53597
-Okene 312775
-Auchi 42610
-Idah 44828
-Asaba 49725
-Onitsha 350280
-Owerri 119711
-
-Aba 500183
-Abonnema 41972
-Buguma 82865
-
-Port Harcourt 703421
-Ikot Ekpene 119402
-Bende 44248
-Uyo 58369
-Oron 52442
-Calabar 310839
-Ugep 134773
-Epe 49909
-Modakeke 59918
-
-Ibadan 3034200
-Ikire 111435
-Iwo 125645
-Ede 142363
-Ife 186856
-Ondo 146051
-Ijebu Igbo 64924
-Ijebu Ode 124313
-Ikorodu 184674
-Ifo 52448
-Abeokuta 352735
-Igbo Ora 46479
-
-Ogbomosho 433030
-
-Oyo 369894
-Iseyin 170936
-Shaki 89595
-Kishi 77972
-Igboho 68566
-
-Abuja 1235880
-Suleja 105075
-Minna 189191
-
-Kaduna 993642
-Funtua 82072
-Kontagora 63994
-Bida 111245
-Biu 52629
-Mubi 128900
-Jimeta 141724
-Yola 54810
-Jalingo 67226
-Gombe 163604
-Bauchi 206537
 
 Jos 510300
-
-Zaria 612257
-Azare 69035
 Hadejia 65966
+Kafanchan 49906
+Wukari 53050
+Kagoro 48329
+Gombe 163604
+Gamboru 46904
+Kaura Namoda 40677
+Bauchi 206537
+Malumfashi 42415
+Damaturu 141897
+Funtua 82072
 
-Benin City 762719
-Okitipupa 42064
-Owo 157181
-Birnin Kebbi 63147
-Sokoto 329639
-Okrika 81558
-Ughelli 54206
-Sapele 109576
+Aba 500183
+
+Oyo 369894
 Warri 363382
+Okrika 81558
+Awka 104682
+Abeokuta 352735
+Okitipupa 42064
+Okene 312775
+Katsina 259315
+Minna 189191
+Keffi 53597
+Lafia 79387
+Ankpa 40249
+Ekpoma 40382
+Oshogbo 250951
+Ife 186856
+Effon Alaiye 158977
+Owo 157181
+Jimeta 141724
+Mubi 128900
+Biu 52629
+Iwo 125645
+Nnewi 121065
+Owerri 119711
+Bida 111245
+Ise 108136
+Suleja 105075
+Ijero 95365
+Shaki 89595
+Otukpo 83218
+Ifo 52448
+Oron 52442
+Epe 49909
+Daura 46954
+Aku 45985
+Idah 44828
 Numan 44308
+Auchi 42610

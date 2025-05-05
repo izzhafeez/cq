@@ -1,24 +1,24 @@
 
 
 Izhevsk 627734
-
-Votkinsk 99022
-Khokhryaki 5089
 Sharkan 6614
-Debesy 5720
-Kez 11080
-Balezino 16121
-Glazov 95854
-Yar 6596
-Igra 20737
-Selty 5276
-Uva 19984
-Syumsi 5316
-Mozhga 47961
-Alnashi 6303
-Kizner 9536
-Malaya Purga 7711
 
 Sarapul 101381
 Kambarka 11021
+
+Votkinsk 99022
+Debesy 5720
+Glazov 95854
+Yar 6596
+Mozhga 47961
+Selty 5276
+Syumsi 5316
+Igra 20737
+Uva 19984
+Balezino 16121
+Kez 11080
+Kizner 9536
+Malaya Purga 7711
+Alnashi 6303
 Vavozh 5816
+Khokhryaki 5089

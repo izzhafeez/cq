@@ -1,67 +1,67 @@
 
 
 Krakow 757611
-Krzeszowice 10286
-Trzebinia 20392
-Libiaz 17428
+Miechow 11927
+Bochnia 30187
+Myslenice 18414
+Stryszawa 5326
+Andrychow 21530
 Chelmek 9223
+Chocznia 5690
+Brzeszcze 11798
+Sucha Beskidzka 9557
+Skawina 24253
+Wieprz 5030
+Trzebinia 20392
+Klucze 5182
+Krzeszowice 10286
+Wadowice 19386
+Jawiszowice 6743
+
+Tarnow 114053
+Proszowice 6270
+Dabrowa Tarnowska 11788
+
+Nowy Sacz 84290
+Piwniczna-Zdroj 5999
+Mszana Dolna 7792
+Zawoja 6483
+Rabka-Zdroj 13278
+Sulkowice 6468
+Wieliczka 20559
+Zielonki 5028
+Zabierzow 5418
 
 Chrzanow 38829
 Bukowno 10509
 
+Oswiecim 40342
+Osiek 6706
+
 Olkusz 37319
 Wolbrom 9013
-Proszowice 6270
-Zabierzow 5418
-Zielonki 5028
-Wieliczka 20559
-Skawina 24253
-Sulkowice 6468
-Myslenice 18414
-Pcim 5327
-Dobczyce 6358
-Mszana Dolna 7792
-Bialy Dunajec 5251
+Niepolomice 9987
+Slopnice 6264
+Szczawnica 5965
+Krynica-Zdroj 11361
+Grybow 6261
+Limanowa 15146
 
 Nowy Targ 33812
 Jordanow 5299
 Makow Podhalanski 6072
-Sucha Beskidzka 9557
-Lipnica Wielka 5244
-Jablonka 5042
-Zawoja 6483
-Stryszawa 5326
-Wadowice 19386
-Chocznia 5690
-Andrychow 21530
-Wieprz 5030
-Osiek 6706
-
-Oswiecim 40342
-Jawiszowice 6743
-Brzeszcze 11798
-Kety 19198
-Piwniczna-Zdroj 5999
-Szczawnica 5965
-Slopnice 6264
-Limanowa 15146
-
-Nowy Sacz 84290
-Stary Sacz 9109
-Grybow 6261
-Krynica-Zdroj 11361
-Muszyna 5123
 Gorlice 28819
-Tuchow 6681
-
-Tarnow 114053
-Dabrowa Tarnowska 11788
-Wola Rzedzinska 5886
-Brzesko 17278
-Jadowniki 5048
-Bochnia 30187
-Niepolomice 9987
-Miechow 11927
-Klucze 5182
 Zakopane 27857
-Rabka-Zdroj 13278
+Jablonka 5042
+Lipnica Wielka 5244
+Kety 19198
+Libiaz 17428
+Brzesko 17278
+Wola Rzedzinska 5886
+Stary Sacz 9109
+Tuchow 6681
+Dobczyce 6358
+Pcim 5327
+Bialy Dunajec 5251
+Muszyna 5123
+Jadowniki 5048

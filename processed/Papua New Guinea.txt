@@ -1,51 +1,51 @@
 
 
 Port Moresby 364125
-Popondetta 12600
 Tufi Government Station 511
+Kerema 5885
 Finschafen 2905
+Bereina 1565
 Kainantu 4634
-Ukarumpa S.I.L. 459
-Goroka 22830
-Kundiawa 10833
-Ialibu 2014
-Laiagam 1386
-Wabag 5041
-
-Mount Hagen 29765
-Pogera 1113
-Tari 3360
-Tabubil 10270
-Ambunti 1598
-Angoram 1884
 
 Madang 35971
+Angoram 1884
+Laiagam 1386
+Kundiawa 10833
+
+Mount Hagen 29765
+Ambunti 1598
+Tabubil 10270
+Ialibu 2014
+Bulolo 7090
 
 Lae 148934
 Wau 3508
-Bulolo 7090
-Bereina 1565
-Kerema 5885
 Sogeri 435
-Kokoda 658
-Kokopo 6677
-Kerevat 1826
-Rabaul 4785
-Arawa 2769
-Buka 5416
-Kandrian 821
-Kimbe 22923
-Hoskins 395
-Kavieng 9943
-Lombrum Navy Base 1097
-Lorengau 8882
+Kikori 2490
+Goroka 22830
+Ukarumpa S.I.L. 459
 
 Wewak 37825
-Aitape 6229
-Vanimo 13970
-Namatanai 1542
-Alotau 11857
+Tari 3360
+Kimbe 22923
+Kerevat 1826
+Arawa 2769
+Rabaul 4785
+Lombrum Navy Base 1097
+Lorengau 8882
+Kavieng 9943
+Kandrian 821
 Daru 15142
-Kikori 2490
-Mendi 9987
+Vanimo 13970
+Popondetta 12600
+Alotau 11857
 Kiunga 10981
+Mendi 9987
+Kokopo 6677
+Aitape 6229
+Buka 5416
+Wabag 5041
+Namatanai 1542
+Pogera 1113
+Kokoda 658
+Hoskins 395

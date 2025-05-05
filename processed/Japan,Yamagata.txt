@@ -1,41 +1,41 @@
 
 
 Yamagata 247590
-Nakayama 10746
-Yamanobe 13725
-Sagae 40189
-Asahi 6366
-Kahoku 17641
-Higashine 47682
-Murayama 22516
-Oishida 6577
-Obanazawa 14971
-Funagata 5007
-Okura 3028
-Mamurogawa 7203
-Sakegawa 3902
-Tozawa 4199
-Shinjo 34432
-Kaneyama 5071
-Mogami 8080
-Kaminoyama 29110
-Nan'yo 30420
-Kawanishi 14558
 Shirataka 12890
-Nagai 26543
-Iide 6613
-Oguni 7107
-
-Yonezawa 81252
-Takahata 22463
-
-Sakata 100273
-Shonai 20151
-Mikawa 7601
+Nakayama 10746
+Murayama 22516
+Yamanobe 13725
+Kaminoyama 29110
 
 Tsuruoka 122347
-Yuza 13032
-Oe 7646
+Kaneyama 5071
+Obanazawa 14971
 Nishikawa 4956
+Higashine 47682
+Sagae 40189
+Oe 7646
+
+Sakata 100273
+Funagata 5007
+Mogami 8080
+Mamurogawa 7203
+Mikawa 7601
+Sakegawa 3902
+Tozawa 4199
+
+Yonezawa 81252
+Nan'yo 30420
+Kawanishi 14558
 
 Tendo 62140
+Asahi 6366
+Kahoku 17641
+Shinjo 34432
+Oishida 6577
+Nagai 26543
+Takahata 22463
+Shonai 20151
+Yuza 13032
+Oguni 7107
+Iide 6613
+Okura 3028

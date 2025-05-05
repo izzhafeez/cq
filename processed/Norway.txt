@@ -1,733 +1,733 @@
 
 
 Oslo 580000
-Aros 1142
-Royken 2775
-
-Asker 60926
-Lysaker 3439
-Blakstad 1898
-Billingstad 2349
-Smestad 578
+Kroderen 496
+Lena 1092
 
 Lillestrom 14000
-Larkollen 1373
-Sogn Hagekoloni 400
-Fagerstrand 1990
-Fjellstrand 832
-Tranby 5552
-Saetre 3009
-Sande 1389
-Selvik 1829
-Svelvik 3926
-Movik 351
-
-Moss 34492
-Hvittingfoss 1016
-Gullhaug 1912
-Holmestrand 6135
-Holmsbu 351
-
-Horten 17660
-Sorvagen 471
-Sondre Fuglevik 471
-Lervik 2331
-Slevik 990
-
-Larvik 23113
-Stavern 5593
-
-Fredrikstad 72760
-Stange 2416
-Tangen 471
-Rygge 2567
-Ryggebyen 2416
-Vestby 5330
-Nesjestranda 351
-Asgardstrand 2934
-
-Sandefjord 42654
-Tjome 4663
-Melsomvik 1498
-Stokke 2618
-
-Tonsberg 38914
-Berger 1108
-Skoger 1082
-Frogner 1108
-Tofte 3109
-Tomter 1307
-Flateby 3175
-Lindeberg 571
-Borgen 593
-Bjorkelangen 2346
-Fosser 557
-Mysen 5516
-Ise 691
-Sem 1827
-Langangen 505
-Langesund 5500
-Aroysund 2052
-Barkaker 1238
-Nykirke 662
-
-Ski 12513
-
-Askim 12482
-
-As 7961
-Heias 654
-Hemnes 613
-Hamnas 213
-Haga 579
-Gardermoen 259
-Aursmoen 2173
-Auli 2638
-Maura 2400
-
-Raholt 8593
-Storas 309
-Tomterasen 676
-Disena 284
-Nordkisa 853
-Sorumsand 3563
-Sander 325
-Sand 946
-Skogrand 334
-Ask 1038
-Skui 3487
-Sylling 525
 Hallingby 772
-Aneby 1373
-
-Nesoddtangen 10911
-
-Drobak 11363
-
-Drammen 90722
-Vikersund 2448
-Sundvollen 718
-Noresund 330
-Rod 330
-Kroderen 496
-
-Notodden 8306
-Lunde 1422
-Tveitsund 344
-Tvedestrand 1975
-Prestestranda 1215
-Folkestad 422
-Hillestad 302
-
-Kongsberg 17667
-Svene 296
-Yli 324
-Nakkerud 350
-Hjuksevelta 350
-Seljord 1185
-Kviteseid 640
-Kvalsvik 265
-Rosvik 223
-Vikedal 393
-Eike 1408
-Vikevag 529
-Sovik 725
-Hellvik 643
-Lyefjell 2200
-Flekkefjord 5615
-Byglandsfjord 332
-Nodeland 1834
-Birkeland 2254
-Vigeland 1258
-Svenevig 203
-Skalevik 2599
-Fevik 4989
-Justvik 1630
-
-Kristiansand 63814
-Lillesand 6081
-
-Mandal 10143
-
-Arendal 30916
-Lyngdal 3671
-Vestbygd 1083
-Vigrestad 1764
-Pollestad 469
-Tonstad 751
-Vanse 1953
-Farsund 3151
-
-Egersund 9502
-Undeim 451
-
-Haugesund 40321
-Tau 2548
-Tananger 5817
-
-Stavanger 121610
-Vedavagen 2728
-Vormedal 2774
-Oltedal 725
-Feda 396
-Mo 396
-Moi 1740
-Judaberg 560
-Skudeneshavn 3187
-Visnes 609
-Rubbestadneset 1130
-Folderoy 368
-Heroysund 371
-Oystese 1634
-Brandsoy 459
-Kaland 403
-Eikelandsosen 434
-Syfteland 1170
-Espeland 1793
-Hammarsland 402
-Flesland 298
-Sandsli 1070
-Li 349
-Sollsvika 536
-Klokkarvik 627
-Bekkjarvik 367
-Fitjar 1280
-Sagvag 3288
-Langevag 733
-
-Saeveland 7736
-Sandve 326
-
-Sandnes 63032
-Brusand 384
-
-Bryne 8006
-Liknes 2141
-
-Vennesla 10931
-Strai 1266
-Sira 584
-Hauge i Dalane 2148
-Varhaug 2484
-Ytre Arna 2484
-Naerbo 4975
-Tysvaer 1077
-
-Kopervik 6507
-
-Leirvik 11028
-Hagavik 1305
-Taelavag 490
-Skogsvagen 465
-Knappskog 1045
-
-Askoy 17224
-Lindas 1087
-Aras 550
-Knarvik 4265
-Frekhaug 1610
-Hylkje 1853
-Vage 513
-Lonevag 513
-Fotlandsvag 246
-Stanghelle 775
-Manger 814
-
-Bergen 213585
-Indre Arna 6117
-Indra Haga 900
-Indre Alvik 592
-Kinsarvik 459
-Ulvik 675
-Vik 2899
-Rovika 100
-Innvik 381
-Ulsteinvik 5103
-Steinshamn 475
-Hareid 3626
-Hauge 320
-Austnes 385
-Vatne 1609
-Brattvag 2146
-Sirevag 385
-Tjorvag 352
-Nordfjordeid 2553
-
-Forde 8510
-Naustdal 1071
-Fyresdal 359
-Tyssedal 715
-Haddal 320
-Brandal 314
-Nordstranda 3700
-Norheimsund 2146
-Midsund 468
-
-Alesund 44096
-Myklebost 276
-Kleive 499
-Eide 1155
-
-Molde 18594
-Giskemo 548
-Mork 70
-Orsta 6337
-Larsnes 511
-Otnes 307
-Alnes 204
-Ikornnes 737
-Vestnes 2088
-Andalsnes 2035
-Sunndalsora 4159
-Batnfjordsora 339
-Kyrksaeterora 2471
-Ottersbo 317
-Botngard 1144
-Opphaug 358
-Uthaug 395
-Skaun 1682
-Berkak 914
-Lokken Verk 943
-Selbekken 376
-Brekstad 1835
-Frosta 2495
-Rora 481
-Romedal 343
-Hommelvik 4000
-Malvik 6419
-Smaland 343
-Muruvik 343
-Hell 968
-Hegra 649
-
-Trondheim 147139
-Trolla Bruk 461
-Reinsvoll 1145
-Voll 466
-Follafoss 466
-Hylla 370
-Rafsbotn 370
-Kyrkjebo 245
-
-Steinkjer 20000
-Sparbu 635
-Straumen 1147
-Meraker 961
-Koppera 209
-Skogn 1884
-
-Levanger 8411
-Bangsund 878
-Lysoysundet 313
-Vormsund 478
-Lundamo 1063
-Rindal 649
-
-Verdal 7154
-
-Stjordalshalsen 11416
-Asen 441
-Kvithamar 245
-Kval 495
-Rakvag 262
-Fedje 480
-Fillan 510
-Hestvika 241
-Rensvik 2121
-
-Kristiansund 16785
-Sistranda 685
-Raudsand 286
-Bud 768
-Elnesvagen 2362
-Eidsvag 891
-Kvalvag 250
-Kalvag 353
-Vagsvag 228
-Maloy 3062
-
-Floro 8230
-Grodas 353
-Stryn 2106
-Bryggja 359
-Reipa 307
-Geiranger 250
-Tennevollen 250
-Volda 5376
-Roald 708
-Arset 472
-Hjelset 1011
-Gjerstad 339
-Bremsnes 415
-Tingvoll 1005
-Olen 891
-Siljan 891
-Nerland 211
-Groa 502
-Gryllefjord 439
-Follebu 959
-Myklebust 454
-Kolbu 581
-Lena 1092
-Eina 657
-Jevnaker 4308
-Sokna 543
-Ogna 330
-Tyristrand 795
-
-Honefoss 13678
-Grua 1477
-Rotnes 4705
-Arnes 3289
-Skarnes 2172
-Minnesund 488
-Leirsund 1177
-
-Fetsund 6441
-Fjellsrud 438
-Fjellfoten 1029
-Fjelldal 334
-Kjellmyra 399
-Hof 809
-Klofta 5942
-Lorenfallet 926
-Loken 906
-Spydeberg 3166
-Knappstad 1133
-Rakkestad 3779
-Orje 1722
-Skjeberg 1862
-Skjaerhalden 642
-
-Halden 21970
-Sponvika 416
-Tornes 416
-Utgard 304
-
-Sarpsborg 52159
-Fossby 318
-Karlshus 1801
-Skoppum 1633
-Kvelde 854
-
-Porsgrunn 34377
-Herre 1356
-
-Skien 50595
-Kil 901
-Myra 544
-Kragero 5158
-Risor 4475
-
-Grimstad 9561
-Rykene 647
-Eikeland 408
-Holen 408
-Amli 572
-Hyggen 408
-Ulefoss 2697
-Gvarv 871
-Bo 2522
-Rjukan 3568
-Miland 388
-Dalen 801
-Roldal 357
-Rosendal 945
-Uskedalen 717
-Dimmelsvik 225
-Etne 1002
-Sandeid 534
-Skjold 600
-Holme 623
-Terrak 623
-Akrehamn 5018
-Osthusvik 293
-Jorpeland 5537
-Hommersak 5692
-Lia 248
-Gilja 248
-Selje 694
-Ranemsletta 307
-Sandane 2149
-
-Sogndal 6700
-Laerdalsoyri 1110
-Ardalstangen 1510
-Gudvangen 100
-Borgund 100
-Undredal 85
-Hemsedal 1876
-Al 2278
-Aurdal 702
-
-Brumunddal 8441
-Adalsbruk 552
-Kylstad 312
 Ilseng 876
-Langset 309
-
-Kongsvinger 11181
-Spetalen 1969
-Valer 1188
-Olderdalen 312
-Grinder 233
-Kirkenaer 1252
-Nordvik 399
-Magnor 967
-Skotterud 1361
-Roverud 865
-
-Jessheim 12365
-Storforshei 690
-Ornes 1538
-Hauknes 1864
-Nesna 1211
-Sandnessjoen 5778
-
-Mosjoen 9636
-
-Namsos 9035
-Skanevik 603
-Skage 603
-Grong 1052
-Trones 420
-Bronnoysund 4366
-Mundal 300
-Berg 474
-Korgen 858
-Hemnesberget 1243
-Leknes 3556
-Stokmarknes 3119
-Borkenes 1460
-Bogen 392
-Ballangen 956
-Lodingen 1808
-Korsvegen 473
-Sjovegan 723
-Tovik 200
-
-Narvik 14114
-Bjerkvik 1220
-Evenskjer 601
-Torsken 196
-Storsteinnes 890
-Stordalstrand 20
-Storslett 1455
-Ersfjord 306
-Kasfjord 269
-Sigerfjord 792
-Beisfjord 589
-Ibestad 473
-
-Harstad 19433
-Gibostad 377
-Ginnasluokta 514
-Finnsnes 3907
-Andenes 2766
-Strand 564
-Sviland 347
-Sortland 4620
-Holvika 347
-Hollen 456
-Bleik 456
-Sveio 960
-Veggli 292
-Ramsund 289
-Straumsnes 476
-Stranda 2499
-Leland 563
-Rokland 467
-Sorland 556
-Ballstad 758
-Stamsund 999
-Nyksund 6
-Alsvag 347
-Svolvaer 4197
-Henningsvaer 409
-Loding 2835
-
-Bodo 34073
-Lopsmarka 2308
-Kjopsvik 960
-Lidaladdi 292
-Soknedal 269
-Risoyhamn 210
-Myre 1995
-Straume 291
-Melbu 2161
-Kabelvag 1638
-Evjen 2127
-Gravdal 1624
-Inndyr 666
-Glomfjord 1204
-Gladstad 300
-Trofors 808
-Rorvik 2615
-Royrvik 254
-Kolvereid 1467
-Lauvsnes 453
-Velbe 442
-Malm 1230
-A i Afjord 1145
-Olden 480
-Gjolme 478
-Melhus 4593
-Ivgobahta 495
-Eggkleiva 243
-Ler 440
-Hovin 588
-Tanem 977
-Bjornli 277
-Aure 596
-
-Oppdal 6976
-Folldal 586
-Alvdal 677
-Tynset 2356
-Vinstra 2449
-Harpefoss 454
-Hundorp 615
-Dovre 439
-Dombas 1156
-Fossbergom 2406
-Bismoen 573
-Vagamo 1463
-Kvam 844
-
-Lillehammer 19096
+Koppang 1182
+Aneby 1373
+Frogner 1108
+Hemnes 613
+Smestad 578
+Arnes 3289
 
 Hamar 29479
-Loten 2458
+Svarstad 585
+Valer 1188
+Follebu 959
+Fjelldal 334
 
-Elverum 12490
+Brumunddal 8441
+Sundvollen 718
+Fjellfoten 1029
+
+Honefoss 13678
+Holmestrand 6135
+Langesund 5500
+Fagerstrand 1990
+Tangen 471
+Stavern 5593
+Tveitsund 344
+Sande 1389
+
+Sarpsborg 52159
+Lysaker 3439
+Fosser 557
+Skoger 1082
+Lervik 2331
+Hole 318
+Lindeberg 571
+Vikersund 2448
+Barkaker 1238
+Gvarv 871
+Karlshus 1801
+Fjellsrud 438
+Jevnaker 4308
+Knappstad 1133
+Klofta 5942
+Sokna 543
+Sorumsand 3563
+Holmsbu 351
+Larkollen 1373
+Aros 1142
+Hvittingfoss 1016
+Folkestad 422
+Royken 2775
+Svene 296
+Rotnes 4705
+Roverud 865
+
+Drobak 11363
+Aroysund 2052
+Kragero 5158
+Stange 2416
+Sylling 525
+Gullhaug 1912
+Hamnas 213
+Asgardstrand 2934
+
+Asker 60926
+Skoppum 1633
+Sogn Hagekoloni 400
+Sondre Fuglevik 471
+
+Drammen 90722
+Mysen 5516
+Borgen 593
+Orje 1722
+
+Horten 17660
+Loken 906
+Sorvagen 471
+Langangen 505
+
+Kongsberg 17667
+
+Tonsberg 38914
+
+Notodden 8306
+Holen 408
+Oyslebo 362
+Ulefoss 2697
+Slevik 990
+Svelvik 3926
+Hjuksevelta 350
+Eikeland 408
+Nesjestranda 351
+Hillestad 302
+
+Nesoddtangen 10911
+Bjorkelangen 2346
+Kirkenaer 1252
+
+Askim 12482
+Tomterasen 676
+Tofte 3109
+Tornes 416
+Tomter 1307
+Skjeberg 1862
+
+Skien 50595
+Skui 3487
+Ask 1038
+Skotterud 1361
+Skreia 1285
+Noresund 330
+Lorenfallet 926
+Langset 309
+
+Fetsund 6441
+Sand 946
+Tyristrand 795
+Storas 309
+Tranby 5552
+Maura 2400
+Kjellmyra 399
 Moelv 4049
+Gardermoen 259
+Spydeberg 3166
+
+Halden 21970
+
+Sandefjord 42654
+Fjellstrand 832
+
+Bergen 213585
+Hermansverk 2000
+Byrknes 287
+Vikesa 715
+Vestnes 2088
+Fyresdal 359
+Lindas 1087
+Sauda 4290
+Vaksdal 918
+Langevag 733
+Stanghelle 775
+Gudvangen 100
+Fotlandsvag 246
+Sandeid 534
+Brandsoy 459
+Hoyanger 2266
+
+Askoy 17224
+Skudeneshavn 3187
+Skogsvagen 465
+Valvatna 569
+Taelavag 490
+Flam 500
+Sollsvika 536
+
+Kopervik 6507
+Knappskog 1045
+Naustdal 1071
+Nordstranda 3700
+Gryllefjord 439
+Grodas 353
+Andalsnes 2035
+Farnes 3465
+Kinsarvik 459
+Aras 550
+Bekkjarvik 367
+Hardbakke 235
+Eidfjord 569
+
+Leirvik 11028
+Dale 1167
+Neskollen 1157
+Larsnes 511
+Gjerstad 339
+Ler 440
+Nerland 211
+Tanem 977
+Brekstad 1835
+Kolvereid 1467
+Aure 596
+Arset 472
+Ardalstangen 1510
+Svelgen 1173
+Tennevollen 250
+Solsnes 100
+Roldal 357
+Holme 623
+Lonevag 513
+Etne 1002
+Vage 513
+Kaupanger 892
+Aurdal 702
+Gaupne 1157
+Ikornnes 737
+Vik 2899
+Klokkarvik 627
+Osthusvik 293
+Svenevig 203
+Dalen 801
+Kaland 403
+
+Sogndal 6700
+Odda 5359
+Vikevag 529
+Bagn 607
+Judaberg 560
+Lyngdal 3671
+
+Stavanger 121610
+Vigeland 1258
+Prestestranda 1215
+Saetre 3009
+
+Trondheim 147139
+Rorvik 2615
+Ornes 1538
+Torsken 196
+Nordvagen 450
+Borkenes 1460
+Bjerka 452
+
+Levanger 8411
+Olen 891
+Myklebost 276
+Fossbergom 2406
+Tyinkrysset 100
+Tretten 859
+Luster 100
+Vinstra 2449
+Minnesund 488
+Grinder 233
+Billingstad 2349
+Auli 2638
+Aursmoen 2173
+Movik 351
+Melsomvik 1498
+Sponvika 416
+
+Porsgrunn 34377
+Nakkerud 350
+Nykirke 662
+Rakkestad 3779
+Blakstad 1898
+
+Fredrikstad 72760
+Herre 1356
+
+Arendal 30916
+Hauge i Dalane 2148
+Vormedal 2774
+Dimmelsvik 225
+Hammarsland 402
+Balestrand 769
+Sandsli 1070
+Sagvag 3288
+Vassenden 265
+Voss 5571
+Lofthus 565
+Prestfoss 465
+Undredal 85
+Sandane 2149
+Ranemsletta 307
+Seimsdal 446
+Forset 637
+Braskereidfoss 255
+
+Ski 12513
+Nordkisa 853
+Nordvik 399
 
 Gjovik 17596
 Hov 2095
-Raufoss 6052
-Forset 637
-Tretten 859
-Rena 2009
-Skreia 1285
-Braskereidfoss 255
-Heradsbygd 457
-Innbygda 2250
-Nybergsund 329
-Koppang 1182
-Svarstad 585
-Segalstad 864
-Dokka 2796
-Leira 771
-Geilo 2276
-Lofthus 565
-Valvatna 569
-Vaksdal 918
-Dale 1167
-Mosterhamn 1167
-Amot 592
-Flam 500
-Kaupanger 892
-Kautokeino 2000
-Balestrand 769
-Hermansverk 2000
-Neskollen 1157
-Solsnes 100
-Farnes 3465
-Fagernes 1788
-Gol 2530
-Torpo 387
-Nesbyen 2086
-Luster 100
-Sylte 403
-Eidfjord 569
-Granvin 460
-Voss 5571
+Adalsbruk 552
+Grua 1477
+Haga 579
+Magnor 967
+
+Kristiansand 63814
+Tananger 5817
+
+Mandal 10143
+Jorpeland 5537
+Flekkefjord 5615
+Skjold 600
 Skodje 1634
-Odda 5359
-Sauda 4290
-Hovden 265
-Vassenden 265
-Bykle 223
-Byrknes 287
-Agotnes 1344
-Misje 226
-Lovund 349
-Prestfoss 465
-Storebo 1026
+Uskedalen 717
+Eike 1408
+Knarvik 4265
 Snaase 733
-Hansnes 342
+Ytre Arna 2484
+Storebo 1026
+Akrehamn 5018
+Indra Haga 900
+
+Haugesund 40321
+Espeland 1793
+Sandve 326
+Eikelandsosen 434
+
+Saeveland 7736
+Naerbo 4975
+Folderoy 368
+Hovden 265
+Hyggen 408
+
+Vennesla 10931
+Kvelde 854
+Seljord 1185
+Tjome 4663
+Sjoholt 1133
+
+Sandnes 63032
+Birkeland 2254
+Brusand 384
+Byglandsfjord 332
+Vestbygd 1083
+Visnes 609
+Rosvik 223
+Tysvaer 1077
+Varhaug 2484
+Kvalsvik 265
+Hagavik 1305
+Indre Alvik 592
+Rovika 100
+Rjukan 3568
+Miland 388
+Geilo 2276
+Kviteseid 640
+Sem 1827
+Ise 691
+Selvik 1829
+
+Larvik 23113
 
 Tromso 52436
-Sorvaer 201
-Skjervoy 2376
-Reine 342
-Lyngseidet 821
-Krokeide 377
-Gargan 377
-Moen 840
-Setermoen 2410
-Andselv 741
-Saebovik 840
-Furuflata 231
+Rokland 467
+Grong 1052
+Kyrksaeterora 2471
+Meraker 961
+Gjolme 478
+Batnfjordsora 339
+Dombas 1156
+Vormsund 478
+Roros 3496
+Follafoss 466
+Tolga 646
+Olderdalen 312
+Spetalen 1969
+
+Alesund 44096
+Otnes 307
+Bremsnes 415
+Dovre 439
+Giskemo 548
+
+Kristiansund 16785
+Bismoen 573
+Mork 70
+Sunndalsora 4159
+Alvdal 677
+Hommelvik 4000
+Rensvik 2121
+Hareid 3626
+Geiranger 250
+Eide 1155
+Eggkleiva 243
+Rakvag 262
+Elnesvagen 2362
+Vagamo 1463
+Vatne 1609
+Eidsvag 891
+Kval 495
+Folldal 586
+Raufoss 6052
+
+Raholt 8593
+Skogrand 334
+Kolbu 581
+Leira 771
+Eina 657
+
+Kongsvinger 11181
+
+Moss 34492
+Fossby 318
+Flateby 3175
+Ryggebyen 2416
+Berger 1108
+
+Bodo 34073
+Ibestad 473
+Nesna 1211
+Ginnasluokta 514
 
 Alta 12077
+Gravdal 1624
+Alsvag 347
+Hasvik 380
+Misvaer 251
+Korsvegen 473
+Henningsvaer 409
+Saebovik 840
+Svolvaer 4197
+Berg 474
+Ottersbo 317
+Kyrkjebo 245
+Lokken Verk 943
+Velbe 442
+Melhus 4593
+Kleive 499
+Reipa 307
+Kautokeino 2000
+Torpo 387
+Harpefoss 454
+Haugland 439
+Skaun 1682
+Bangsund 878
+Leland 563
+Hell 968
+Tingvoll 1005
+Botngard 1144
+
+Verdal 7154
+
+Oppdal 6976
+Kvalvag 250
+Lalm 301
+Kalvag 353
+Alnes 204
+Maloy 3062
+Roald 708
+Tyssedal 715
+Laerdalsoyri 1110
+Sommaroy 250
+Groa 502
+Fillan 510
+Voll 466
+Trolla Bruk 461
+Sistranda 685
+Smaland 343
+Raudsand 286
+Hauge 320
+Steinshamn 475
+Innvik 381
+Ulsteinvik 5103
+
+Steinkjer 20000
+Hovin 588
+Syvik 586
+Kvithamar 245
+Opphaug 358
+Rora 481
+Bronnoysund 4366
+Lundamo 1063
+Lysoysundet 313
+Tynset 2356
+Selbekken 376
+
+Stjordalshalsen 11416
+Bjornli 277
+A i Afjord 1145
+Rafsbotn 370
+Koppera 209
+Berkak 914
+Hestvika 241
+Skage 603
+Korgen 858
+Asen 441
+Straumen 1147
+Lauvsnes 453
+Hemnesberget 1243
+Stokmarknes 3119
 Oksfjord 515
-Rypefjord 1731
-Kjollefjord 975
-Batsfjord 2166
-Bjornevatn 2392
-Berlevag 1085
-Kiberg 256
-Kirkenes 3282
-Bugoynes 230
-Vadso 5139
-Vardo 2075
-Nordvagen 450
+Kjopsvik 960
+Ersfjord 306
 Skarsvag 80
-Honningsvag 2541
-Avanuorri 1138
+Sveio 960
+Lyngseidet 821
+Nervei 30
+Andenes 2766
+Hauknes 1864
+
+Harstad 19433
 
 Hammerfest 6788
-Mehamn 742
-Hasvik 380
-Lakselv 2168
-Karasjohka 1908
-Laggu 2
-Nervei 30
-Jordtveit 653
-Maebo 52
-Oyslebo 362
+Sulisjielmma 483
+Nyksund 6
+Inndyr 666
+Andselv 741
+Sorland 556
 
-Sogne 9000
-Bagn 607
-Sesvoll 653
-Spangereid 607
-Hoyanger 2266
-Gaupne 1157
-Seimsdal 446
-Tyinkrysset 100
-Ekset 100
+Namsos 9035
+
+Mosjoen 9636
+Olden 480
+
+Molde 18594
+Nordfjordeid 2553
+Borgund 100
+
+Forde 8510
+Orsta 6337
+Tjotta 235
+Fitjar 1280
+Granvin 460
+Ulvik 675
+
+Lillehammer 19096
+Kvam 844
 
 Mo i Rana 17853
-Rognan 2499
-Misvaer 251
-Fauske 5953
-Sulisjielmma 483
-Bjerka 452
-Roros 3496
+Straume 291
+Trofors 808
+Romedal 343
+Trones 420
+Frosta 2495
 Os 626
-Tolga 646
-Syvik 586
-Haugland 439
-Lalm 301
-Otta 1602
-Tjotta 235
-Hardbakke 235
-Tomra 1167
-Sommaroy 250
+Fedje 480
+Hjelset 1011
+Selje 694
+Siljan 891
+Brandal 314
+Haddal 320
+Volda 5376
+
+Narvik 14114
+Sorvaer 201
+Sigerfjord 792
+Stordalstrand 20
+Storforshei 690
+Kasfjord 269
+Lopsmarka 2308
+Skanevik 603
+Skogn 1884
+
+Elverum 12490
+Sander 325
+
+Jessheim 12365
+Leirsund 1177
+Heias 654
+
+As 7961
+
+Grimstad 9561
+Stokke 2618
+Vestby 5330
+
+Egersund 9502
+Heroysund 371
+Lovund 349
+Rosendal 945
+Vedavagen 2728
+Oltedal 725
+Terrak 623
+Manger 814
+
+Sogne 9000
+
+Bryne 8006
+Rubbestadneset 1130
+Agotnes 1344
+Amot 592
+Mosterhamn 1167
+Sylte 403
+Hylkje 1853
+Misje 226
+
+Floro 8230
+Tjorvag 352
+Brattvag 2146
+Bryggja 359
+Midsund 468
+Norheimsund 2146
+Malvik 6419
+Malm 1230
+Mundal 300
+Muruvik 343
+Indre Arna 6117
+Lillesand 6081
+Gilja 248
+Amli 572
+Lia 248
+Pollestad 469
+Tau 2548
+Vigrestad 1764
+Justvik 1630
+Liknes 2141
+Fevik 4989
+Feda 396
+Myra 544
+Tvedestrand 1975
+Lunde 1422
+Fauske 5953
+Krokeide 377
+Rognan 2499
+Royrvik 254
+Sandnessjoen 5778
+Straumsnes 476
+Storsteinnes 890
+Honningsvag 2541
+Holvika 347
+Bjerkvik 1220
+Evjen 2127
+Skjervoy 2376
+Bugoynes 230
+Risoyhamn 210
+Hansnes 342
+Mehamn 742
+Bleik 456
+Beisfjord 589
+Reine 342
+Loding 2835
+Finnsnes 3907
+Lodingen 1808
+Glomfjord 1204
+Sjovegan 723
+Rypefjord 1731
+Karasjohka 1908
+Stranda 2499
+Stamsund 999
+Gladstad 300
+Hylla 370
+Reinsvoll 1145
+Rindal 649
+Hommersak 5692
+Farsund 3151
+Undeim 451
+Spangereid 607
+Vadso 5139
+Ballstad 758
+Hollen 456
+Leknes 3556
+Soknedal 269
+Sortland 4620
+Ballangen 956
+Sviland 347
+Strand 564
+Ramsund 289
+Risor 4475
+Jordtveit 653
+Utgard 304
+Kirkenes 3282
+Kiberg 256
+Setermoen 2410
+Lakselv 2168
+Melbu 2161
+Kabelvag 1638
+Dokka 2796
+Heradsbygd 457
+Segalstad 864
+Ekset 100
+Oystese 1634
+Syfteland 1170
+Flesland 298
+Skalevik 2599
+Hellvik 643
+Vikedal 393
+Sovik 725
+Rygge 2567
+Gol 2530
+Bo 2522
+Loten 2458
+Disena 284
+Bjornevatn 2392
+Evenskjer 601
+Al 2278
+Hemsedal 1876
+Innbygda 2250
+Lyefjell 2200
+Nodeland 1834
+Skarnes 2172
+Batsfjord 2166
+Furuflata 231
+Laggu 2
+Lidaladdi 292
+Stryn 2106
+Austnes 385
 Aukra 730
 Raudeberg 715
-Svelgen 1173
-Vikesa 715
-Sjoholt 1133
-Hole 318
+Bud 768
+Nesbyen 2086
+Fagernes 1788
+Vardo 2075
+Gargan 377
+Rena 2009
+Myre 1995
+Vanse 1953
+Sesvoll 653
+Moi 1740
+Mo 396
+Frekhaug 1610
+Otta 1602
+Kylstad 312
+Storslett 1455
+Kjollefjord 975
+Strai 1266
+Tonstad 751
+Tomra 1167
+Avanuorri 1138
+Berlevag 1085
+Kil 901
+Moen 840
+Bogen 392
+Gibostad 377
+Hof 809
+Hegra 649
+Rykene 647
+Bykle 223
+Skjaerhalden 642
+Sparbu 635
+Hundorp 615
+Nybergsund 329
+Sira 584
+Ivgobahta 495
+Myklebust 454
+Uthaug 395
+Sirevag 385
+Vagsvag 228
+Li 349
+Ogna 330
+Rod 330
+Yli 324
+Veggli 292
+Tovik 200
+Maebo 52

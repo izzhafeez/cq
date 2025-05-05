@@ -1,44 +1,44 @@
 
 
 Gdansk 460276
-Pruszcz Gdanski 27787
 Skarszewy 7185
-Starogard Gdanski 49191
-Pelplin 8286
-Gniew 6899
-
-Tczew 60889
-Malbork 39387
-Nowy Dwor Gdanski 10197
 Sztum 10427
-Dzierzgon 5654
-Kwidzyn 38632
-Prabuty 8873
-Straszyn 6475
-Kartuzy 15190
-Luzino 7264
-Goscicino 5784
-Bolszewo 6803
-Wladyslawowo 15296
-
-Wejherowo 49922
-Reda 21579
-Rumia 46714
+Pruszcz Gdanski 27787
 
 Gdynia 249139
-Sopot 38690
-Zukowo 6452
-Sierakowice 7373
-Koscierzyna 23765
-Bytow 17121
-Czersk 10022
-Czluchow 14628
-Chojnice 40452
-Debrzno 5265
-Czarne 6089
-Miastko 11127
-Ustka 16560
+Straszyn 6475
+Starogard Gdanski 49191
 
 Slupsk 95882
-Lebork 35789
+Sierakowice 7373
+Goscicino 5784
+Luzino 7264
+Rumia 46714
+Bolszewo 6803
+Zukowo 6452
+
+Wejherowo 49922
+Wladyslawowo 15296
+
+Tczew 60889
+Nowy Dwor Gdanski 10197
+Malbork 39387
+Prabuty 8873
+Pelplin 8286
+Dzierzgon 5654
+Gniew 6899
+Chojnice 40452
+Czarne 6089
+Czersk 10022
+Koscierzyna 23765
+Kartuzy 15190
+Sopot 38690
 Puck 11549
+Kwidzyn 38632
+Lebork 35789
+Reda 21579
+Bytow 17121
+Czluchow 14628
+Ustka 16560
+Miastko 11127
+Debrzno 5265

@@ -1,517 +1,517 @@
 
 
 Phoenix 1608139
-Paradise Valley 12658
-
-Surprise 143148
-
-Sun City 39931
-
-Sun City West 25806
-Citrus Park 5194
-Litchfield Park 6847
-
-Maricopa 58125
-Arizona City 9868
-
-Marana 51908
-
-Casa Grande 53658
-
-Chandler 275987
-
-San Tan Valley 99894
-
-Oro Valley 47070
-Rincon Valley 5612
+Golden Valley 8801
 Valencia West 14101
 
-Green Valley 22616
-
-Queen Creek 59519
-
-Florence 26785
-Eloy 15635
-Coolidge 13218
-Gold Canyon 11404
-Central Heights-Midland City 2319
-
-El Mirage 35805
-
-Glendale 248325
-Guadalupe 5322
-
-Tempe 180587
-
 Peoria 190985
-
-Anthem 23190
-
-Scottsdale 241361
-
-Avondale 89334
-Tolleson 7216
-
-Prescott Valley 46785
-
-Prescott 45827
-
-Mesa 504258
-San Carlos 3987
-Globe 7249
-
-Gilbert 267918
-Sun Lakes 14868
-
-Fountain Hills 23820
-
-Apache Junction 38499
-
-Payson 16351
-Verde Village 12019
-Sedona 9684
-
-Flagstaff 76831
-Snowflake 6104
-Pinetop-Lakeside 4030
-Show Low 11732
-Timberline-Fernwood 2572
-Chino Valley 13020
-Golden Valley 8801
-
-Kingman 32689
-New Kingman-Butler 12907
-
-Bullhead City 41348
-
-Lake Havasu City 57144
-
-Fort Mohave 16190
-
-Fortuna Foothills 27776
-
-Yuma 95548
-Somerton 14197
-
-San Luis 35257
+Corona de Tucson 9240
 
 Buckeye 91502
 
-Goodyear 95294
-Picture Rocks 9551
-
-Tucson 542629
-Tucson Mountains 10862
-Tucson Estates 12069
-Corona de Tucson 9240
+Prescott Valley 46785
 
 Catalina Foothills 52401
-Catalina 7551
-Saddlebrooke 12574
+Chino Valley 13020
 
-Casas Adobes 70973
+Chandler 275987
 
 Tanque Verde 16250
+Sierra Vista Southeast 14428
+Paradise Valley 12658
 
 Sierra Vista 45308
-Sierra Vista Southeast 14428
+
+Surprise 143148
+
+Lake Havasu City 57144
+Vail 13604
+Verde Village 12019
+Safford 10129
+
+Casa Grande 53658
 
 Douglas 16534
-Vail 13604
-Summit 4724
 
-Drexel Heights 27523
+Flagstaff 76831
+Catalina 7551
+Sedona 9684
+
+Tucson 542629
+
+Fortuna Foothills 27776
+
+Oro Valley 47070
+
+Scottsdale 241361
+
+Green Valley 22616
+
+Florence 26785
+Show Low 11732
+New Kingman-Butler 12907
+
+Yuma 95548
+
+Kingman 32689
+
+San Tan Valley 99894
+Tucson Estates 12069
+Somerton 14197
+
+Payson 16351
+
+Avondale 89334
+
+Fort Mohave 16190
+
+Fountain Hills 23820
+Rincon Valley 5612
+
+Glendale 248325
+Central Heights-Midland City 2319
+Summit 4724
+Litchfield Park 6847
+
+Bullhead City 41348
+
+Goodyear 95294
+San Carlos 3987
+Timberline-Fernwood 2572
+Coolidge 13218
+
+Rio Rico 20549
+
+Apache Junction 38499
+
+Anthem 23190
+Tucson Mountains 10862
+
+Sun City 39931
 
 Sahuarita 34134
 
-Rio Rico 20549
-Rio Verde 2210
-Linden 2760
-Dateland 257
-Oxbow Estates 198
-Blackwater 1190
-Shumway 347
-Washington Park 85
-Poston 183
-Padre Ranchitos 133
-Red Rock (Apache County) 136
-Picacho 250
-Crystal Beach 250
-Beaver Dam 1552
-Yuma Proving Ground 313
-Red Rock (Pinal County) 2625
+San Luis 35257
+
+Marana 51908
+
+El Mirage 35805
+Eloy 15635
+
+Drexel Heights 27523
+
+Prescott 45827
+
+Maricopa 58125
+Pinetop-Lakeside 4030
+Tolleson 7216
+Gold Canyon 11404
+Arizona City 9868
+Citrus Park 5194
+
+Sun City West 25806
+
+Mesa 504258
+Saddlebrooke 12574
+Guadalupe 5322
+
+Casas Adobes 70973
+
+Gilbert 267918
+Thatcher 5231
+
+Tempe 180587
+
+Queen Creek 59519
+Sun Lakes 14868
+Snowflake 6104
+
+Nogales 19770
 Alpine 146
-Valle 759
-Pirtleville 1412
-Grand Canyon Village 1784
-Wet Camp Village 300
-Klagetoh 181
-Dragoon 178
-Dripping Springs 142
-Dolan Springs 1734
-Donovan Estates 1295
-Sonoita 803
-Solomon 399
-Cibola 198
-Arivaca 623
-Maricopa Colony 854
-Many Farms 1243
-Turkey Creek 377
-Carefree 3690
-Wickenburg 7474
-Wenden 458
-Sanders 575
-Second Mesa 843
-Roosevelt Estates 449
-Theba 111
-LeChee 1236
-Salome 1162
 Winslow 9005
-Taylor 3995
-Colorado City 2478
-Cornville 3362
+Pine Lake 142
+Pirtleville 1412
 Sawmill 564
-Sacate Village 260
-Littletown 873
-Peach Springs 1098
+Second Mesa 843
+Bouse 707
+White Mountain Lake 2335
 Chinle 4573
-Whiteriver 4520
-Camp Verde 12147
+Dripping Springs 142
+Blue Ridge 594
+Santa Rosa 474
+Stanfield 558
+Grand Canyon Village 1784
+Dateland 257
+Winkelman 296
+Yuma Proving Ground 313
+East Globe 259
+Tonto Basin 1444
+Crystal Beach 250
+Donovan Estates 1295
+Sacate Village 260
+Lake Montezuma 5111
+Oatman 102
+Maricopa Colony 854
+Comobabi 44
+Colorado City 2478
+Gadsden 571
+Gila Bend 1892
+Cibecue 1816
+Bitter Springs 355
+Washington Park 85
+Clifton 3933
+Jeddito 346
+Morristown 186
+Top-of-the-World 189
+Tonalea 451
+McNary 484
+Munds Park 1096
+Kleindale 165
+Beaver Valley 226
+Lower Santan Village 437
+San Jose 467
+Antares 132
+Oak Creek Canyon 442
+Congress 1811
+Brenda 466
+Round Rock 640
+Buckshot 70
+Greenehaven 381
+Vernon 126
+Nelson 249
+Shonto 494
+Hotevilla-Bacavi 1001
+Desert Hills 2764
+Mesa del Caballo 781
+Round Valley 459
+Maish Vaya 129
+Clay Springs 331
+Ak-Chin Village 884
+Indian Wells 232
+Pinion Pines 158
+Scenic 1321
+Pisinemo 359
+Kino Springs 166
+Ali Molina 61
+Naco 824
+Cactus Flats 1524
+Duncan 694
+Cane Beds 466
+Ehrenberg 763
+Paulden 5567
+Del Muerto 258
+Yarnell 570
+Gisela 536
+South Komelik 176
+Benson 5355
+Burnside 494
+San Simon 158
+Mammoth 1076
+Campo Bonito 83
+Whitecone 768
+Anegam 149
+Franklin 75
+Ali Chukson 113
+Cowlic 105
+Pimaco Two 647
+Tonto Village 209
+Copper Hill 158
+McConnico 63
+
+New River 17290
+Wall Lane 262
+Valentine 39
+Vaiva Vo 93
+Haigler Creek 35
+Summerhaven 71
+Flowing Wells 15657
+Salome 1162
+Sanders 575
+Tsaile 1408
+LeChee 1236
 Heber-Overgaard 2898
-Red Lake 1680
-Oak Creek 6128
-Walnut Creek 571
-Rancho Mesa Verde 571
+Parker Strip 621
+Ash Fork 361
+Many Farms 1243
+Hard Rock 38
+Wickenburg 7474
+Komatke 1013
+Wheatfields 556
+Golden Shores 1927
+Solomon 399
+Dolan Springs 1734
+Amado 198
+Wet Camp Village 300
+Wenden 458
+Camp Verde 12147
 Casa Blanca 1727
-Black Canyon City 2677
-Tuba City 8072
-Bagdad 1932
+Icehouse Canyon 574
+Fort Defiance 3541
+San Manuel 3114
+Orange Grove Mobile Manor 495
+Cornville 3362
+Kearny 1741
 Clarkdale 4424
+Spring Valley 1143
+Arizona Village 1057
+Willcox 3213
+Beyerville 72
+Avra Valley 5569
+Haivana Nakya 72
+Whiteriver 4520
+Whetstone 3236
+Dennehotso 587
+Morenci 2028
+Taylor 3995
+Cornfields 221
+Seligman 446
+Nazlini 505
+Stotonic Village 610
+Klagetoh 181
+Red Lake 1680
+Fredonia 1323
+Oak Creek 6128
+Tuba City 8072
+La Paz Valley 368
+Lazy Y U 474
+Shumway 347
+Canyon Day 1205
+York 599
+Oracle 3051
+Peach Springs 1098
+Lukachukai 1424
+Black Canyon City 2677
+Cottonwood 12029
+Wahak Hotrontk 88
+Hayden 512
+Wide Ruins 20
+Valle Vista 1802
+Geronimo Estates 30
+Jakes Corner 98
+East Verde Estates 151
+Fort Thomas 319
+Wilhoit 864
+Picture Rocks 9551
+Page 7440
+Tat Momoli 18
+Williams 3202
+Arlington 150
+Cottonwood (Apache County) 167
+Concho 54
+Ali Chuk 119
+Sun Valley 153
+Wellton Hills 167
+Truxton 104
+Rillito 94
+Upper Santan Village 665
+Willow Canyon 2
+Globe 7249
+Youngtown 7056
+Oak Springs 54
+Carrizo 92
+Nutrioso 39
+Katherine 76
+Kohatk 37
+Red Mesa 354
+Mojave Ranch Estates 53
+Mesquite Creek 403
+Chuichu 240
+Steamboat 235
+Cutter 84
+Deer Creek 230
+Bear Flat 11
+Strawberry 943
+Sunwest 5
+Winslow West 457
+Wintersburg 51
+Central 758
+Kohls Ranch 30
+Rough Rock 428
+Roosevelt 26
+Ventana 52
+Palominas 222
+Tacna 425
+Clacks Canyon 167
+Santa Cruz 39
+Crozier 21
+Bluewater 682
+Lupton 19
+Christopher Creek 121
+Tees Toh 420
+Sweet Water Village 123
+El Prado Estates 320
+Forest Lakes 155
+Kaka 83
+White Hills 345
+Willow Valley 1059
+Rainbow City 1001
+Joseph City 1307
+Williamson 6196
+So-Hi 428
+Tolani Lake 227
+Oljato-Monument Valley 115
+Ko Vaya 43
+Dilkon 1194
+Aguila 565
+Gu Oidak 126
+Mormon Lake 90
 Doney Park 5910
 Parks 1382
-Kearny 1741
-Icehouse Canyon 574
-Bouse 707
-Gila Bend 1892
-Beyerville 72
-Arizona Village 1057
-Haivana Nakya 72
-Nazlini 505
-Lazy Y U 474
-Pine Lake 142
-Winkelman 296
-Komatke 1013
-Comobabi 44
-Orange Grove Mobile Manor 495
-Bitter Springs 355
-Spring Valley 1143
-East Globe 259
-Ash Fork 361
-Golden Shores 1927
-Cornfields 221
-Wheatfields 556
-East Fork 672
-York 599
-Seligman 446
-Amado 198
-Bryce 173
-Stotonic Village 610
-Kykotsmovi Village 736
-Springerville 1717
-Goodyear Village 463
-Tsaile 1408
-Hard Rock 38
-Round Rock 640
-Round Valley 459
-Willow Valley 1059
-Mesa del Caballo 781
-Del Muerto 258
-Tonto Village 209
-Shonto 494
-Burnside 494
-Pisinemo 359
-Morristown 186
-Hackberry 103
-Naco 824
-Cowlic 105
-Franklin 75
-Ali Molina 61
-Tonalea 451
-Pinedale 482
-Pinion Pines 158
-Mormon Lake 90
-San Simon 158
-San Jose 467
-Tusayan 603
-Cactus Flats 1524
-Hotevilla-Bacavi 1001
-Ak-Chin Village 884
-Kino Springs 166
-El Prado Estates 320
-Jeddito 346
-Freedom Acres 90
-Christopher Creek 121
-Top-of-the-World 189
-Fort Apache 113
-Forest Lakes 155
-Congress 1811
-Greenehaven 381
-Beaver Valley 226
-Summerhaven 71
-Mammoth 1076
-Pima 2847
-Pinal 456
-McNary 484
-Drysdale 225
-Elgin 162
-Gisela 536
-Maish Vaya 129
-Joseph City 1307
-Rainbow City 1001
-Ehrenberg 763
-Benson 5355
-Ali Chukson 113
-South Komelik 176
-Pimaco Two 647
-Tees Toh 420
-Tubac 1581
-Paulden 5567
-Aguila 565
-Copper Hill 158
-Campo Bonito 83
-McConnico 63
-Scenic 1321
-Oak Creek Canyon 442
-Rock Point 552
-Why 122
-Antares 132
-Desert Hills 2764
-Munds Park 1096
-Parker 3417
-Eagar 4395
-McNeal 182
-Mead Ranch 42
-Mountain View Ranches 1508
-Window Rock 2500
-Bowie 406
-Cienega Springs 1690
-Gila Crossing 636
-Cave Creek 4892
-Avenue B and C 4101
-Willow Canyon 2
-Keams Canyon 265
-Cactus Forest 606
-Kaibab Estates West 1034
-Kaibito 1540
-Kachina Village 2502
-Upper Santan Village 665
-Page 7440
-Patagonia 804
-Chiawuli Tak 48
-Ak Chin 50
-Huachuca City 1626
-Yucca 96
-Pine 1953
-Ajo 3039
-Greasewood 372
-Sehili 153
-Rillito 94
-Arlington 150
-Flowing Springs 34
-Oak Springs 54
-Steamboat 235
-Mojave Ranch Estates 53
-Grand Canyon West 0
-Sunwest 5
+Quartzsite 2413
+Three Points 5184
+Low Mountain 631
 Supai 0
-Palominas 222
-Fort Thomas 319
+Cedar Creek 372
+Bisbee 4923
+Queen Valley 967
+San Miguel 205
+Grand Canyon West 0
+Greer 58
+Cave Creek 4892
+Huachuca City 1626
+Cactus Forest 606
+Keams Canyon 265
+Sacaton 3254
+Yucca 96
+Greasewood 372
+Moccasin 53
+Flowing Springs 34
+Ak Chin 50
+Cordes Lakes 2684
+Holbrook 4858
+Shongopovi 711
+Patagonia 804
+Kaibab Estates West 1034
+Mountain View Ranches 1508
+Kayenta 4670
+Claypool 1395
 South Tucson 4613
 Utting 92
-Martinez Lake 94
-Tolani Lake 227
-Alamo Lake 4
-Geronimo Estates 30
-Tat Momoli 18
-Nolic 12
-Kohatk 37
-Kohls Ranch 30
+Pine 1953
+Elgin 162
+Rock Point 552
+Pinal 456
+Drysdale 225
+Leupp 934
+Wikieup 135
+Eagar 4395
+Star Valley 2484
+Roosevelt Estates 449
+East Fork 672
+Meadview 1420
+Springerville 1717
+Valle 759
+Arivaca 623
+Rio Verde 2210
+Seven Mile 742
+Linden 2760
+Dewey-Humboldt 4326
 Chloride 229
-Chuichu 240
-Concho 54
-Wahak Hotrontk 88
-Katherine 76
-Deer Creek 230
-Queen Valley 967
-Oljato-Monument Valley 115
-Central 758
-Valentine 39
-Santa Cruz 39
-San Miguel 205
-Miami 1541
-Mesquite Creek 403
-Cedar Creek 372
-Bear Flat 11
-East Verde Estates 151
-Winslow West 457
-Bluewater 682
-Cutter 84
-Strawberry 943
-Carrizo 92
-Ko Vaya 43
-Sun Valley 153
-Ventana 52
-Crozier 21
-Vaiva Vo 93
-Moccasin 53
-Jakes Corner 98
-Red Mesa 354
-Greer 58
-Bisbee 4923
-Nutrioso 39
-Truxton 104
-Wide Ruins 20
-Circle City 522
-Clacks Canyon 167
-Claypool 1395
-Kayenta 4670
-Ganado 883
-Wellton Hills 167
-Cottonwood (Apache County) 167
-Roosevelt 26
-Rye 104
-Wall Lane 262
-Woodruff 154
-Cottonwood 12029
+Avenue B and C 4101
+El Capitan 48
+Sells 2121
+Fort Valley 1682
+Dudleyville 597
+Kachina Village 2502
+Gila Crossing 636
+Whispering Pines 124
+Cienega Springs 1690
+Bowie 406
+Sunizona 233
+Wellton 2375
+Topawa 233
+Kaibito 1540
+Tonopah 23
+North Fork 1467
+Parker 3417
+Carefree 3690
+Wagon Wheel 1856
+Theba 111
+Picacho 250
+Red Rock (Apache County) 136
+Pinetop Country Club 1409
+Bryce 173
+Turkey Creek 377
 Lake of the Woods 3648
-Three Points 5184
-Centennial Park 1578
-Hunter Creek 51
-Wintersburg 51
-Low Mountain 631
-Young 588
-Youngtown 7056
+Circle City 522
 Mountainaire 1068
 Kaibab 140
 Elfrida 421
-Moenkopi 771
-Pinon 1084
-Teec Nos Pos 507
-Peeples Valley 499
-Sacaton Flats Village 576
-Cameron 734
-Williamson 6196
-
-New River 17290
-Superior 2407
-Elephant Head 588
-Dewey-Humboldt 4326
 Littlefield 256
-Chilchinbito 769
-So-Hi 428
-Hayden 512
-Tumacacori-Carmen 329
-Jerome 464
-Rough Rock 428
-Ali Chuk 119
-Tacna 425
-Sacaton 3254
-Wellton 2375
-Tombstone 1308
-Topock 2
-Rock House 10
-Sells 2121
+Elephant Head 588
+Peeples Valley 499
+Teec Nos Pos 507
+Hunter Creek 51
+Young 588
+St. Johns 3417
 Vicksburg 418
-Fort Valley 1682
-North Fork 1467
-Tonopah 23
-Topawa 233
-Shongopovi 711
-Six Shooter Canyon 958
-El Capitan 48
-Holbrook 4858
-Dudleyville 597
-Valle Vista 1802
-Star Valley 2484
+Window Rock 2500
 Wittmann 684
-Wagon Wheel 1856
-Canyon Day 1205
-Clifton 3933
-Sunsites 790
-Seven Mile 742
-Meadview 1420
-Tonto Basin 1444
-Santa Rosa 474
-San Manuel 3114
-Stanfield 558
-Willcox 3213
-Flowing Wells 15657
-Bellemont 1167
-Lake Montezuma 5111
+Sonoita 803
+Ajo 3039
+Pima 2847
+Swift Trail Junction 2810
+St. Johns (Maricopa County) 690
+Arivaca Junction 970
+Miracle Valley 571
+First Mesa 1352
 St. Michaels 1384
+Mohave Valley 2693
+Bellemont 1167
+Red Rock (Pinal County) 2625
+Superior 2407
+Jerome 464
+Tumacacori-Carmen 329
+Centennial Park 1578
+Moenkopi 771
+Alamo Lake 4
+Miami 1541
+Bagdad 1932
+Dragoon 178
+Poston 183
+Padre Ranchitos 133
+Bylas 1782
+Mescal 1751
+Rancho Mesa Verde 571
 St. David 1639
 Hondah 814
 Houck 886
-Dennehotso 587
-Gadsden 571
-Morenci 2028
-Mohave Valley 2693
-Miracle Valley 571
-La Paz Valley 368
-Avra Valley 5569
-Arivaca Junction 970
-Quartzsite 2413
-Oatman 102
-Mayer 1558
-Vernon 126
+Tubac 1581
 Seba Dalkai 126
-Brenda 466
-Gu Oidak 126
-Kleindale 165
-Indian Wells 232
-Lower Santan Village 437
-Sweet Water Village 123
-Cane Beds 466
-Duncan 694
-Leupp 934
-Clay Springs 331
-Whitecone 768
-Wikieup 135
-Buckshot 70
-Kaka 83
-Yarnell 570
-Anegam 149
-Nelson 249
-White Hills 345
-White Mountain Lake 2335
-Pinetop Country Club 1409
-Oracle 3051
-Fort Defiance 3541
-Blue Ridge 594
+Pinedale 482
+Mayer 1558
+Tusayan 603
+Beaver Dam 1552
+Goodyear Village 463
+Tombstone 1308
+McNeal 182
+Mead Ranch 42
 Peridot 1308
-Whispering Pines 124
-Sunizona 233
-Aztec 2
-Toyei 2
-St. Johns 3417
-
-Nogales 19770
-Mescal 1751
-Cibecue 1816
-Lukachukai 1424
-Fredonia 1323
-Parker Strip 621
-St. Johns (Maricopa County) 690
-Swift Trail Junction 2810
-First Mesa 1352
-Whetstone 3236
-Lupton 19
+Ganado 883
+Blackwater 1190
+Oxbow Estates 198
+Pinon 1084
+Cameron 734
+Sacaton Flats Village 576
+Six Shooter Canyon 958
+Sunsites 790
+Littletown 873
+Chilchinbito 769
+Kykotsmovi Village 736
+Walnut Creek 571
+Cibola 198
+Woodruff 154
+Sehili 153
+Nolic 12
+Why 122
+Fort Apache 113
+Freedom Acres 90
+Rye 104
+Hackberry 103
+Martinez Lake 94
+Chiawuli Tak 48
 Charco 27
-Haigler Creek 35
-Dilkon 1194
-Bylas 1782
-Safford 10129
-Thatcher 5231
-Williams 3202
-Wilhoit 864
-Cordes Lakes 2684
+Rock House 10
+Topock 2
+Toyei 2
+Aztec 2

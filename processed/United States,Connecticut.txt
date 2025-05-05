@@ -1,337 +1,337 @@
 
 
 Bridgeport 148654
-Westport 26391
-Weston 10354
-Easton 7605
-Tashua 3857
-
-Shelton 40869
-Bethel 11582
-Brookfield 17528
-New Fairfield 13579
-Ridgefield 7596
-
-Fairfield 61512
-Greens Farms 3125
-Darien 20732
-
-Danbury 86518
-New Canaan 6220
-
-Norwalk 91184
-Saugatuck 2937
+Watertown 3938
 
 Stratford 51384
 
-Milford 50558
-Orange 14280
-North Branford 13544
-North Haven 24253
+Naugatuck 31519
+Rocky Hill 20845
+Hazardville 6870
+Harwinton 5484
+Glastonbury Center 8459
+Winchester 10224
+Sherman 3527
+North Canaan 3211
 
-East Haven 27923
+West Hartford 64083
+Wallingford Center 18278
 
-New Haven 134023
+East Hartford 51045
+Stafford Springs 4780
+Farmington 26712
+
+Middletown 47717
+Canton 10124
+Tolland 14563
+Plainville 17525
+Rockville 7920
+Killingly 17752
+Old Lyme 7628
+Bloomfield 21535
+Ellington 16426
+Preston 4788
+
+Newington 30536
+Windsor Locks 12613
+
+Torrington 35515
+
+Windsor 29492
+Berlin 20175
+
+Manchester 36379
+Terryville 5202
+Simsbury Center 6268
+Durham 3771
 
 West Haven 55584
-Derby 12325
+Old Hill 2676
+Oakville 9504
+
+Milford 50558
+
+Stamford 135470
 
 Hamden 61169
+Derby 12325
+Trumbull Center 9746
 
 Meriden 60850
 
-Middletown 47717
-Farmington 26712
-
-Newington 30536
-
 New Britain 74135
-Plainville 17525
-Terryville 5202
-Oakville 9504
-Cheshire Village 6499
-Prospect 9401
-
-Naugatuck 31519
-
-Waterbury 114403
-Watertown 3938
-Wallingford Center 18278
-Durham 3771
-East Haddam 8875
-East Lyme 18693
-Old Lyme 7628
-
-New London 27367
-Long Hill 8039
-Montville 18387
-Rockville 7920
-Hazardville 6870
-Thompsonville 8514
-Southwood Acres 7879
-Sherwood Manor 5372
-
-Manchester 36379
-
-West Hartford 64083
+North Branford 13544
 
 Hartford 121054
+Windham 24425
 
-East Hartford 51045
-Glastonbury Center 8459
-Simsbury Center 6268
-Bloomfield 21535
-Suffield 15752
-
-Enfield 42141
-Ellington 16426
-Willimantic 18149
-
-Norwich 40125
-Mystic 4348
-Preston 4788
-Groton 9387
-Gales Ferry 1159
-Bozrah 2429
-Marlborough 6133
-South Windsor 26918
-
-Windsor 29492
-Windsor Locks 12613
-Rocky Hill 20845
-Wethersfield 27298
-Cromwell 14225
-Berlin 20175
-
-Southington 43501
-Plymouth 11671
-Seymour 16748
-Monroe 18825
-Stepney 4280
-Coleytown 3522
-Old Hill 2676
-Old Greenwich 6962
-Greenwich 13836
-Redding 8765
-
-Trumbull 36018
-Trumbull Center 9746
-Ansonia 18918
-Sandy Hook 9114
-Sherman 3527
-Wolcott 16142
-
-Bristol 60833
-
-Torrington 35515
-Harwinton 5484
-Winchester 10224
-Canton 10124
-North Canaan 3211
-Salisbury 4194
-West Simsbury 2521
-Pemberwick 3899
-Goshen 3150
-Colchester 4700
-East Brooklyn 2205
-Byram 4493
-
-Stamford 135470
-Staples 6954
-Stafford 11472
-Tokeneke 2794
-Riverside 8843
-Riverton 160
-Deep River Center 2765
-Kent 3019
-Lakeville 1059
-Tariffville 1324
-Falls Village 383
-Pleasant Valley 161
-Salem 4213
-Old Saybrook Center 2278
-Brooklyn 952
-Bridgewater 1662
-Bogus Hill 100
-Collinsville 3721
-Gaylordsville 603
-Candlewood Orchards 752
-Candlewood Knolls 255
-South Woodstock 1493
-North Stonington 5149
-Northwest Harwinton 3158
-Westport Village 3251
-East Village 4057
-East Hampton 2960
-East Windsor 11190
-West Cornwall 138
-Chester Center 1720
-Woodbury Center 1335
-Redding Center 315
-Branford Center 6026
-Northford 6082
-New Milford 7160
-Beacon Falls 6000
-Ball Pond 2189
-Crystal Lake 2152
-North Grosvenor Dale 1464
-Noroton 5317
-Willington 5566
-Oxoboxo River 2955
-Lisbon 4195
-Franklin 1863
-Middlebury 7574
-Hebron 9098
-Noroton Heights 3116
-Andover 3151
-Cannondale 396
-Canaan 1190
-Noank 1654
-Mill Plain 1654
-Plantsville 2016
-Plainfield Village 2580
-Suffield Depot 1440
-Moosup 3113
-Ashford 4191
-Haddam 8452
-South Wilton 1447
-Thomaston 1928
-Taylor Corners 645
-Bigelow Corners 617
-Cos Cob 6873
-Columbia 5272
-Voluntown 2570
-Ridgebury 2223
-Poquonock Bridge 1686
-Rock Ridge 658
-Inglenook 799
-Salmon Brook 2428
-Moodus 1982
-Candlewood Isle 491
-Middlefield 4217
-Danielson 4155
-Lyme 2352
-Somers 1990
-Portland 5813
-Poplar Plains 1322
-Chimney Point 133
-Sprague 2967
-Guilford Center 2586
-Oxford 12706
-Stratford Downtown 1473
-Higganum 2089
-Bethany 5297
-Oronoque 3790
-Groton Long Point 530
-Clinton 3441
-Topstone 113
-West Mountain 603
-Indian Field 705
-Barkhamsted 3647
-Hartland 1901
-Scotland 1576
-Norfolk 551
-Knollcrest 334
-Quasset Lake 187
-Hampton 1728
-Compo 3354
-Colebrook 1361
-Winsted 7192
-Mamanasco Lake 509
-Mashantucket 457
-Lakeside Woods 309
-Witches Woods 114
-Litchfield 1179
-Brookfield Center 545
-Wilton Center 1466
-Madison Center 2250
-Westbrook Center 2220
-Dayville 631
-Branchville 262
-Hawleyville 151
-Bethlehem Village 1970
-Plattsville 1131
-Kellogg Point 20
-Woodmont 1486
-Woodbridge 9087
-Dodgingtown 380
-Woodstock 8221
-Candlewood Lake Club 305
-Cornwall 1567
-Fenwick 53
-Baltic 1186
-Bolton 4858
-Stonington 976
-New Preston 1126
-Candlewood Shores 665
-Lakes West 1186
-Lake Bungee 601
-Lake Chaffee 282
-Coventry Lake 2823
-Lakes East 1299
-Eastford 1649
-Waterford 3074
-Canterbury 5045
-Bantam 720
-Canton Valley 1623
-Glenville 2762
-Blue Hills 2762
-Southbury 19879
-Chaplin 2151
-Killingworth 6174
-Southport 1797
-South Windham 1383
-South Coventry 1612
-Sail Harbor 175
-Saybrook Manor 1172
-Newtown 1914
-Murray 848
-Storrs 15979
-Botsford 499
-Kensington 9962
-Pomfret 4266
-Ledyard 15413
-Sharon 662
-Darien Downtown 1147
-East Granby 5214
-Granby 10903
-Avon 18932
+New London 27367
 
 Vernon 30215
-Coventry 12235
-Tolland 14563
-Stafford Springs 4780
 Sterling 3578
-Killingly 17752
-Thompson 9189
-Quinebaug 1114
+Marlborough 6133
+
+Southington 43501
+
+Shelton 40869
+Cheshire Village 6499
+
+New Haven 134023
+Sandy Hook 9114
+Tokeneke 2794
+New Fairfield 13579
+Darien 20732
+Goshen 3150
+Prospect 9401
+Brookfield 17528
+
+Bristol 60833
+Salisbury 4194
+Seymour 16748
+
+Danbury 86518
+Ansonia 18918
+Weston 10354
+Staples 6954
+Plymouth 11671
+Wethersfield 27298
+Sherwood Manor 5372
+
+Norwich 40125
+South Windsor 26918
+Thompsonville 8514
+Cromwell 14225
+Suffield 15752
 Georgetown 1832
-Morris 2256
+Groton 9387
 Griswold 11402
-Windham 24425
-Putnam 7065
-Jewett City 3328
-Heritage Village 5091
-Lake Pocotopaug 4901
-Union 785
-Warren 1351
-Washington 3646
-Lordship 2954
-Burlington 9519
-North Granby 1835
-Lebanon 7142
+
+Enfield 42141
+Coventry 12235
+Gales Ferry 1159
+
+Waterbury 114403
+
+Norwalk 91184
+Orange 14280
+Ridgefield 7596
+Riverside 8843
+North Haven 24253
+Avon 18932
+
+Fairfield 61512
+Old Greenwich 6962
+Redding 8765
+Greenwich 13836
+Greens Farms 3125
+
+Trumbull 36018
+
+East Haven 27923
+Tashua 3857
+Stafford 11472
+Easton 7605
+Westport 26391
+Southbury 19879
 Wauregan 1539
-Roxbury 2260
+Bantam 720
+Woodmont 1486
+Canton Valley 1623
+Collinsville 3721
+Chaplin 2151
+Witches Woods 114
+Westbrook Center 2220
+Waterford 3074
+Old Saybrook Center 2278
+Salem 4213
+Inglenook 799
+Cannondale 396
+Beacon Falls 6000
+Bethel 11582
+Monroe 18825
+East Lyme 18693
+Mystic 4348
+East Haddam 8875
+Montville 18387
+Essex Village 2583
+Long Hill 8039
+Willimantic 18149
+Niantic 3194
+Wolcott 16142
+Storrs 15979
+Bolton 4858
+Sail Harbor 175
+Warren 1351
+Fenwick 53
+Kensington 9962
+Lake Bungee 601
+Canterbury 5045
+Brookfield Center 545
+Old Mystic 3493
+Indian Field 705
+Columbia 5272
+Ball Pond 2189
+East Windsor 11190
+Ashford 4191
+Noroton 5317
+North Grosvenor Dale 1464
+Plantsville 2016
+Canaan 1190
+Branford Center 6026
+Franklin 1863
+New Canaan 6220
+Stepney 4280
+Coleytown 3522
+Ledyard 15413
+Colebrook 1361
+Candlewood Orchards 752
+Northwest Harwinton 3158
+West Mountain 603
+Clinton 3441
+Noroton Heights 3116
+Higganum 2089
+Hartland 1901
+Westport Village 3251
+North Stonington 5149
+Groton Long Point 530
+Hebron 9098
+Colchester 4700
+West Simsbury 2521
+East Brooklyn 2205
+Oxford 12706
+Portland 5813
+Chimney Point 133
+Chester Center 1720
+Guilford Center 2586
+Bridgewater 1662
+Weatogue 2906
+Pleasant Valley 161
+Gaylordsville 603
+Tariffville 1324
+Bogus Hill 100
+Cos Cob 6873
+Redding Center 315
+Haddam 8452
+Bethany 5297
+South Wilton 1447
+East Hampton 2960
+Willington 5566
+Granby 10903
+Burlington 9519
+Wilton Center 1466
+South Coventry 1612
+Madison Center 2250
+Coventry Lake 2823
+Mamanasco Lake 509
+Candlewood Lake Club 305
+Blue Hills 2762
+Lakeside Woods 309
+South Windham 1383
+Lakes West 1186
+Lake Pocotopaug 4901
+Heritage Village 5091
+Lake Chaffee 282
+Lakes East 1299
+New Preston 1126
+Woodstock 8221
+Killingworth 6174
+Dodgingtown 380
+Woodbridge 9087
+Branchville 262
+East Granby 5214
+Mashantucket 457
+Pomfret 4266
+Hampton 1728
+Riverton 160
+Andover 3151
+Stratford Downtown 1473
+Bigelow Corners 617
+Plainfield Village 2580
+Daniels Farm 6150
+Thompson 9189
+Southwood Acres 7879
+Middlebury 7574
+New Milford 7160
+Northford 6082
+Winsted 7192
+Barkhamsted 3647
+Putnam 7065
+Thomaston 1928
+East Village 4057
+Mill Plain 1654
+Crystal Lake 2152
+Lebanon 7142
+Hawleyville 151
+Bethlehem Village 1970
+Glenville 2762
+Plattsville 1131
+Botsford 499
+Essex 6733
+Pawcatuck 5433
+Candlewood Isle 491
+Lisbon 4195
+Oxoboxo River 2955
+Byram 4493
+Middlefield 4217
+Rock Ridge 658
+Oronoque 3790
+Taylor Corners 645
+Somers 1990
+Danielson 4155
+Suffield Depot 1440
+Moosup 3113
+Noank 1654
+Poquonock Bridge 1686
+South Woodstock 1493
+Woodbury Center 1335
+Moodus 1982
+Jewett City 3328
+West Cornwall 138
 Broad Brook 3998
 Cornwall Bridge 287
-Mechanicsville 540
+Morris 2256
+Pemberwick 3899
+Washington 3646
+Lordship 2954
+Kellogg Point 20
+Southport 1797
+North Granby 1835
+Sprague 2967
+Compo 3354
+Scotland 1576
+Lakeville 1059
+Kent 3019
+Quasset Lake 187
+Saugatuck 2937
+Deep River Center 2765
+Voluntown 2570
+Candlewood Knolls 255
+Norfolk 551
+Knollcrest 334
+Bozrah 2429
+Salmon Brook 2428
+Lyme 2352
+Ridgebury 2223
+Falls Village 383
+Roxbury 2260
+Newtown 1914
+Candlewood Shores 665
+Eastford 1649
+Cornwall 1567
+Baltic 1186
+Poplar Plains 1322
 New Hartford Center 1284
-Terramuggus 990
+Litchfield 1179
+Saybrook Manor 1172
+Murray 848
+Dayville 631
+Darien Downtown 1147
+Sharon 662
+Quinebaug 1114
 Mansfield Center 1021
-Essex 6733
-Essex Village 2583
-Niantic 3194
-Old Mystic 3493
-Weatogue 2906
-Pawcatuck 5433
-Daniels Farm 6150
+Terramuggus 990
+Stonington 976
+Union 785
+Brooklyn 952
+Mechanicsville 540
+Topstone 113

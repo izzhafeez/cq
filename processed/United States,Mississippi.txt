@@ -1,471 +1,471 @@
 
 
 Jackson 153701
-
-Madison 27747
-
-Meridian 35052
-
-Ridgeland 24340
-Richland 7137
-Nicholson 2833
-
-Long Beach 16780
-
-Ocean Springs 18429
-Vancleave 5592
-Waveland 7210
-
-Brookhaven 11674
-
-Flowood 10202
-Florence 4572
-
-Greenville 29670
-Ruleville 2642
-
-Cleveland 11199
-
-Clarksdale 14903
-
-Grenada 12700
-
-Greenwood 14490
-Aberdeen 4961
-Derma 957
 Houston 3797
-Mound Bayou 1534
-Batesville 7523
-Water Valley 3380
-University 4696
-
-Olive Branch 39711
-Lynchburg 2466
-Holly Springs 6968
-
-Corinth 14622
-
-West Point 10105
-
-Starkville 24360
-Louisville 6072
-Collinsville 1984
-Collins 2342
+Nicholson 2833
+New Hope 3161
 Arnold Line 2333
-West Hattiesburg 6006
-
-Hattiesburg 48730
-Escatawpa 3254
-
-Pascagoula 22010
-Gulf Park Estates 5972
-Gulf Hills 8526
-
-Gulfport 72926
-Morton 3711
-
-Canton 10948
-
-Clinton 28100
-Raymond 1960
-
-Byram 12666
 
 Pearl 27115
+Gulf Park Estates 5972
+Ruleville 2642
+Saltillo 4922
+Poplarville 2833
+Water Valley 3380
+Vancleave 5592
 
-Petal 11010
-Crystal Springs 4862
+Canton 10948
+Escatawpa 3254
+
+Natchez 14520
+Batesville 7523
+
+Hattiesburg 48730
 
 Vicksburg 21573
 
+Starkville 24360
+
+Petal 11010
+
+Clarksdale 14903
+
 Laurel 17161
-Philadelphia 7118
-Carthage 4901
-Kosciusko 7114
-Winona 4505
+
+Greenwood 14490
+Booneville 9126
+Nettleton 1935
+Glendale 1681
+Hurley 1557
+DeLisle 1275
+Farrell 200
+Big Creek 133
+Sherman 600
+Duncan 276
+Shannon 1496
+Anguilla 496
+Bay St. Louis 9284
+Baxterville 267
+Coldwater 1381
+Walnut Grove 510
+Bogue Chitto (Lincoln County) 437
+Columbus AFB 1604
+Bolton 441
+McCool 103
+Osyka 381
+Ethel 348
+Delta City 70
+Pachuta 207
+Blue Mountain 948
+Friars Point 896
+Taylorsville 1148
+Valley Park 71
+Mayersville 433
+Bay Springs 1670
+Snow Lake Shores 306
+Guntown 2410
+Tremont 467
+Rena Lara 123
+Braxton 186
+De Soto 274
+Newton 3195
+Longview 295
+New Site 122
+Calhoun City 1533
+Carrollton 423
+Crosby 242
+Buckatunna 383
+New Houlka 698
+Runnelstown 320
+Wheeler 274
+Monticello 1441
+Agricola 346
+Slate Springs 105
+Rienzi 281
+Renova 676
+Beauregard 289
+Sturgis 207
+Eastabuchie 187
+Leaf 62
+Lexington 1602
+Henderson Point 232
+Heidelberg 637
+Beulah 242
+
+Indianola 9646
+Sardis 1748
+Sylvarena 87
+Mooresville 859
+Morgan City 207
+Mount Pleasant 293
+Louin 275
+Mount Olive 895
+Cloverdale 557
+Falkner 437
+Algoma 705
+Quitman 2061
+Ashland 551
+Sebastopol 266
+Red Banks 215
+Pheba 160
+Merigold 379
+Toccopola 286
+Scott 90
+Pattison 176
+Schlater 236
+
+Gulfport 72926
+
+Oxford 25416
+Florence 4572
+
+Long Beach 16780
+Louisville 6072
+
+D'Iberville 12721
 Tutwiler 2476
+Collinsville 1984
+Gulf Hills 8526
+
+Greenville 29670
+Aberdeen 4961
+Derma 957
+
+Meridian 35052
+Hide-A-Way Lake 2065
+Raymond 1960
+Waveland 7210
+Philadelphia 7118
+
+Tupelo 37923
+
+Ridgeland 24340
+Pass Christian 5686
+Crystal Springs 4862
+
+West Point 10105
+Collins 2342
+Winona 4505
+
+Corinth 14622
+Columbia 5864
+
+Diamondhead 9529
+Mound Bayou 1534
+New Albany 7626
+Lucedale 2869
+
+Grenada 12700
+
+Hernando 17138
+Itta Bena 1679
+Belmont 1859
+Winterville 96
+Abbeville 372
+Sandersville 636
+Richland 7137
+
+Ocean Springs 18429
 
 Southaven 54648
 
-Horn Lake 26736
+Cleveland 11199
 
-Hernando 17138
-
-Oxford 25416
-Amory 6666
-
-Tupelo 37923
-Saltillo 4922
-Booneville 9126
-Iuka 3139
-Ackerman 1594
-Pickens 920
-Tunica 1026
-Dundee 73
-Duncan 276
-Eden 133
-De Kalb 877
-DeLisle 1275
-Paris 163
-Louise 178
-Taylor 355
-Fayette 1445
-Georgetown 252
-Jonestown 962
-Conehatta 1376
-Ovett 183
-Silver City 223
-Baxterville 267
-Harperville 250
-Doddsville 69
-Chalybeate 170
-Noxapater 390
-Pace 183
-Shuqualak 399
-Lula 204
-McLain 313
-Isola 638
-Moorhead 1937
-Como 1118
-Courtland 470
-Hatley 495
-Hurley 1557
-Pearlington 1153
-Blue Springs 436
-Gluckstadt 3208
-Duck Hill 619
-Puckett 342
-Hickory 408
-Hickory Flat 496
-Anguilla 496
-Sumner 278
-Beaumont 669
-Eagle Bend 296
-Independence 200
-Golden 192
-Wade 996
-Decatur 1945
-Tula 197
-Randolph 197
-Lyon 296
-Macon 2582
-Sherman 600
-Shannon 1496
-Wesson 1833
-Bassfield 192
-Scooba 744
-Arcola 304
-
-Columbus 24084
-Sumrall 1765
-Oak Grove 1758
-Leakesville 3775
-Kirkville 308
-Sidon 311
-Benton 415
-Benoit 365
-Liberty 560
-Roxie 469
-Farrell 200
-Bay St. Louis 9284
-Kilmichael 639
-Tchula 1652
-Beechwood 3469
-Pleasant Hill 1863
-Durant 2231
-Nellieburg 1316
-Moselle 304
-
-Moss Point 12147
-Gloster 897
-Union 2042
-Belzoni 1938
-Drew 1852
-Mississippi State 4968
-Artesia 304
-Charleston 1884
-Farmington 2055
-Pelahatchie 1272
-Shaw 1457
-Sharon 1344
-Marion 1751
-Gattman 77
-Mathiston 831
-Baldwyn 3071
-Raleigh 1094
-Grace 77
-Holcomb 568
-Lambert 1273
-Terry 1304
-Verona 2792
-Mendenhall 2199
-Waynesboro 4567
-Crawford 415
-Symonds 72
-Bovina 516
-Marks 1444
-Elliott 880
-Kiln 2224
-Fulton 4542
-New Hamilton 533
-Crenshaw 638
-Big Creek 133
-Crowder 573
-D'Lo 373
-Potts Camp 416
-Mize 317
-Webb 416
-Marietta 198
-Mantachie 1121
-Latimer 6720
-Oakland 462
-Rosedale 1584
-Caledonia 1135
-North Tunica 760
-Coffeeville 797
-Ellisville 4652
-Bridgetown 2281
-Nettleton 1935
+Olive Branch 39711
 Richton 920
-Hamilton 404
+North Tunica 760
+Liberty 560
+Chalybeate 170
+Moorhead 1937
+Eagle Bend 296
+Eden 133
+Enterprise 496
+Isola 638
+Oakland 462
+Tula 197
+Webb 416
+Benoit 365
+Golden 192
+De Kalb 877
+Decatur 1945
+Latimer 6720
+Hatley 495
+Kilmichael 639
+Conehatta 1376
+Puckett 342
+Mize 317
+Taylor 355
+Gluckstadt 3208
+Hickory Flat 496
+Mantachie 1121
 Hillsboro 1072
-Pittsboro 157
-Itta Bena 1679
-Summit 1505
-Tishomingo 370
-Prentiss 976
-Centreville 1258
-Sandersville 636
-Brooksville 915
-Walnut 704
-Utica 636
-Shubuta 406
-Hazlehurst 3619
-Forest 5430
-Flora 1647
-Pearl River 3822
-Goodman 1258
-Vardaman 1110
-Benndale 65
-Glen Allan 298
-Walls 1351
-Stonewall 879
-New Augusta 554
-Saucier 1077
-Pontotoc 5640
-Big Point 618
-Soso 418
-Lake 475
-Rawls Springs 1202
-Waterford 112
-Shelby 2021
-
-Natchez 14520
-
-McComb 12413
-Columbia 5864
+Doddsville 69
+Duck Hill 619
+New Hamilton 533
+Potts Camp 416
+Tunica 1026
+Hickory 408
 
 Biloxi 49449
 
-D'Iberville 12721
-Poplarville 2833
-Hide-A-Way Lake 2065
+Flowood 10202
+
+Brookhaven 11674
+University 4696
+
+Yazoo City 10316
+Hamilton 404
+Pearlington 1153
+Beaumont 669
+Como 1118
+Kirkville 308
+Kiln 2224
+Crowder 573
+Sumner 278
+Jonestown 962
+Fulton 4542
+Bridgetown 2281
+Ovett 183
+McLain 313
+Courtland 470
+Scooba 744
+Noxapater 390
+Roxie 469
+Shuqualak 399
+Rosedale 1584
+Louise 178
+D'Lo 373
+Lyon 296
+Wesson 1833
+Union 2042
+Symonds 72
+Mendenhall 2199
+Wade 996
+Independence 200
+Pace 183
+Macon 2582
+Arcola 304
+Sharon 1344
+Benton 415
+Farmington 2055
+Fayette 1445
+Gloster 897
+Mississippi State 4968
+Paris 163
+Marietta 198
+Georgetown 252
+
+Clinton 28100
+Morton 3711
+Carthage 4901
 
 Picayune 11885
 
-Diamondhead 9529
-Pass Christian 5686
+Pascagoula 22010
+Kosciusko 7114
+Iuka 3139
+
+Madison 27747
 St. Martin 7811
+West Hattiesburg 6006
 
 Gautier 19024
-Lucedale 2869
-Glendale 1681
-Coldwater 1381
-Enterprise 496
-Winterville 96
-Meridian Station 581
-Eupora 2018
-Tunica Resorts 2132
-Snow Lake Shores 306
-De Soto 274
-Scott 90
-Agricola 346
-Columbus AFB 1604
-Friars Point 896
-Mayersville 433
-Meadville 448
-Mooresville 859
-Lexington 1602
-Newton 3195
-Tremont 467
-Monticello 1441
-Pattison 176
-Henderson Point 232
-Gunnison 295
-Guntown 2410
-Bogue Chitto (Lincoln County) 437
-Calhoun City 1533
-New Houlka 698
-Falkner 437
-Longview 295
-Louin 275
-Taylorsville 1148
 
-Indianola 9646
-Ashland 551
-Schlater 236
-Slate Springs 105
-Braxton 186
-Carrollton 423
-Bolton 441
-Bond 506
-Boyle 532
-Wheeler 274
-Heidelberg 637
-Ethel 348
+Horn Lake 26736
+Eupora 2018
 Foxworth 523
-Myrtle 484
-Leaf 62
-Eastabuchie 187
-Sebastopol 266
-Pheba 160
-Red Banks 215
-Renova 676
-Valley Park 71
-Algoma 705
-Quitman 2061
-Morgan City 207
-Sturgis 207
-Sardis 1748
-Crosby 242
-Cruger 268
-Runnelstown 320
-Buckatunna 383
-Bude 780
-Merigold 379
-Rienzi 281
-Pachuta 207
-Walnut Grove 510
-Mount Olive 895
-Pope 268
-Beulah 242
-Toccopola 286
 Fernwood 286
-Cloverdale 557
-Mount Pleasant 293
-New Site 122
-Osyka 381
-Kossuth 160
-Weir 441
-Blue Mountain 948
-Sylvarena 87
-Rena Lara 123
-Delta City 70
-Cary 241
-Beauregard 289
-Bay Springs 1670
-Darling 154
-Standing Pine 517
-Woodland 110
-Redwood 84
-Redwater 683
-Porterville 34
-Biggersville 205
-Winstonville 153
-Abbeville 372
-Stoneville 39
-Lamar 39
-Dumas 471
-Mantee 237
-Panther Burn 115
-Bethlehem 319
-Van Vleet 95
-Bolivar 39
-Bobo 118
-Lauderdale 395
-Walthall 116
-Alligator 116
-Senatobia 8354
-Satartia 41
-Sallis 131
-Dennis 172
-Bentonia 319
-Jacinto 52
-Silver Creek 175
-Magee 3988
-Lyman 2372
-Leland 3988
-Glendora 154
-Coahoma 229
-Kokomo 150
-State Line 452
-Chunky 272
-North Carrollton 405
-Seminary 305
-Montrose 104
-Strayhorn 284
-Byhalia 1339
-Victoria 1066
-White Oak 595
-Bogue Chitto 864
-Tillatoba 95
-Paden 104
-Elizabeth 127
-Arkabutla 285
-West 153
-Falcon 116
-Smithville 509
-Nitta Yuma 8
-Helena 983
-Purvis 1909
-McCool 103
-Woodville 928
-Port Gibson 1269
-Sledge 368
-Okolona 2513
-Lena 157
-Bruce 1707
-Ecru 901
-Sunflower 964
-Belmont 1859
-Ripley 5462
-Plantersville 868
-Burnsville 868
-Hermanville 692
-Polkville 588
-Wiggins 4272
-Robinhood 1491
-Hollandale 2323
+Cruger 268
 
 Brandon 25138
-Eudora 386
-Clara 386
-Cleary 1688
-Learned 56
-Kearney Park 1048
-Inverness 868
-French Camp 256
-Jumpertown 425
-Lumberton 1617
-Thaxton 692
-Lakeview 299
-Tucker 642
+Strayhorn 284
+Tishomingo 370
+Rawls Springs 1202
+
+Byram 12666
+
+Columbus 24084
+Randolph 197
+Sumrall 1765
+Crawford 415
+Waynesboro 4567
+Charleston 1884
+Tchula 1652
+Beechwood 3469
+Pelahatchie 1272
+Shaw 1457
+Sidon 311
+Verona 2792
+Lambert 1273
+Belzoni 1938
+Marion 1751
+Artesia 304
+Leakesville 3775
+Pleasant Hill 1863
+Woodville 928
+Moselle 304
+
+Moss Point 12147
+Port Gibson 1269
+Oak Grove 1758
+Bovina 516
+
+McComb 12413
+Senatobia 8354
 Skene 210
+Standing Pine 517
+Kearney Park 1048
+Seminary 305
+Stewart 99
+Stoneville 39
+Lumberton 1617
+Porterville 34
+Tillatoba 95
+Austin 51
+Wiggins 4272
 Glen 382
+Hollandale 2323
+Coahoma 229
+Nitta Yuma 8
+Magee 3988
+Bentonia 319
+Lena 157
+Paden 104
+Glendora 154
+Dennis 172
+Helena 983
+Holly Springs 6968
+Meridian Station 581
+Amory 6666
+Pontotoc 5640
+Big Point 618
+Centreville 1258
+Glen Allan 298
+New Augusta 554
+Forest 5430
+Prentiss 976
+Ripley 5462
+Pearl River 3822
+Ellisville 4652
+Harperville 250
+Leland 3988
+Van Vleet 95
+Woodland 110
+Lyman 2372
+Hazlehurst 3619
+Stonewall 879
+West 153
+Lauderdale 395
+Sallis 131
+Walnut 704
+Redwater 683
+Walls 1351
+Baldwyn 3071
+Bassfield 192
+Nellieburg 1316
+Durant 2231
+Gattman 77
+Mathiston 831
+Okolona 2513
+Lynchburg 2466
+Tunica Resorts 2132
+Pickens 920
+Crenshaw 638
+Shelby 2021
+Shubuta 406
+Utica 636
+Victoria 1066
+Satartia 41
+Lamar 39
+French Camp 256
+Chunky 272
+Jumpertown 425
+Thaxton 692
+Winstonville 153
+Smithville 509
+Kossuth 160
+Purvis 1909
+Meadville 448
+Rolling Fork 1883
+Arkabutla 285
+Bolivar 39
+Polkville 588
+North Carrollton 405
+Magnolia 1883
+State Line 452
+Alligator 116
+Byhalia 1339
+Falcon 116
+Walthall 116
+Bethlehem 319
+Panther Burn 115
+Inverness 868
+Hermanville 692
+Biggersville 205
+Drew 1852
+Bruce 1707
+White Oak 595
+Pittsboro 157
+Montrose 104
+Robinhood 1491
+Darling 154
+Elizabeth 127
+Metcalfe 816
+Cleary 1688
+Edwards 995
+Clara 386
+Lakeview 299
+Plantersville 868
+Morgantown 1334
+Eudora 386
+Flora 1647
+Waterford 112
+Vardaman 1110
+Benndale 65
+Ackerman 1594
+Tylertown 1515
+Summit 1505
+Sunflower 964
+Marks 1444
+Terry 1304
+Goodman 1258
+Caledonia 1135
+Raleigh 1094
+Grace 77
+Sledge 368
+Saucier 1077
+Brooksville 915
+Kokomo 150
 Vaiden 907
 Maben 771
-Metcalfe 816
-Morgantown 1334
-Tylertown 1515
-Stewart 99
-Edwards 995
-Magnolia 1883
-Rolling Fork 1883
-Dublin 24
+Dumas 471
+Mantee 237
+Jacinto 52
+Ecru 901
+Silver Creek 175
+Bogue Chitto 864
+Bobo 118
+Elliott 880
+Burnsville 868
+Learned 56
+Coffeeville 797
+Dundee 73
+Bude 780
 Toomsuba 778
+Dublin 24
+Tucker 642
+Holcomb 568
+Boyle 532
+Myrtle 484
+Bond 506
+Lake 475
+Weir 441
+Blue Springs 436
+Soso 418
 New Hebron 386
-Austin 51
-
-Yazoo City 10316
-New Albany 7626
-New Hope 3161
+Gunnison 295
+Pope 268
+Cary 241
+Silver City 223
+Lula 204
+Redwood 84

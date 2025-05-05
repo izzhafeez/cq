@@ -1,44 +1,44 @@
 
 
 Rzeszow 179952
-Strzyzow 8902
-Boguchwala 5775
+Przeworsk 15971
+Lezajsk 14512
 Glogow Malopolski 5816
-Sedziszow Malopolski 7435
+Zolynia 5188
+Rudnik nad Sanem 6881
+Rakszawa 6241
+Boguchwala 5775
 Kolbuszowa 9428
+Jezowe 5162
 Nowa Deba 11582
 
 Stalowa Wola 65182
-Nowa Sarzyna 6380
-Rudnik nad Sanem 6881
-Nisko 15610
-Lezajsk 14512
-Rakszawa 6241
-Zolynia 5188
-Lancut 18184
-Przeworsk 15971
-Jaroslaw 39857
-
-Przemysl 65000
-Zagorz 5090
-Brzozow 7676
-Kroscienko Wyzne 5426
-Krosno 47471
-Sanok 39511
-Dynow 6228
-Korczyna 6034
-Jedlicze 5752
-Ropczyce 15556
-Pustkow 5588
-Debica 47218
-
-Mielec 61549
 
 Tarnobrzeg 48821
-Gorzyce 7116
-Jezowe 5162
-Lubaczow 12573
+Nowa Sarzyna 6380
+
+Przemysl 65000
+Brzozow 7676
+Zagorz 5090
+Strzyzow 8902
+Sedziszow Malopolski 7435
+
+Mielec 61549
+Krosno 47471
+Ropczyce 15556
+Jedlicze 5752
+Debica 47218
+Korczyna 6034
+Dynow 6228
+Sanok 39511
+Jaroslaw 39857
+Lancut 18184
 Jaslo 37071
+Nisko 15610
+Lubaczow 12573
 Ustrzyki Dolne 9635
+Gorzyce 7116
 Lesko 5778
+Kroscienko Wyzne 5426
+Pustkow 5588
 Radymno 5514

@@ -1,44 +1,44 @@
 
 
 Perm' 991162
+Okhansk 7250
+Kukushtan 5650
 Sylva 8324
-Kondratovo 10023
 Gamovo 5464
 Krasnokamsk 51916
-Okhansk 7250
 Vereshchagino 22156
-Ocher 14238
-Nytva 19041
+Zvezdnyy 9151
+Orda 5375
+Kondratovo 10023
 Karagay 6682
 Kudymkar 28967
-Dobryanka 33686
-Polazna 12753
-Zvezdnyy 9151
-Kukushtan 5650
-
-Kungur 66074
-Orda 5375
-Barda 8826
-Osa 21188
-Elovo 5334
-
-Chaykovskiy 82895
-Chernushka 33272
-Sars 5043
-Krasnovishersk 16099
-Nyrob 5523
-Aleksandrovsk 14495
-Ugleural'skiy 5352
-Kizel 19587
-
-Berezniki 156466
 
 Solikamsk 97384
-Yayva 10325
+Dobryanka 33686
 Gremyachinsk 10752
-Chusovoy 46735
+Yayva 10325
+Ugleural'skiy 5352
+
+Berezniki 156466
+Polazna 12753
+
+Chaykovskiy 82895
+Ocher 14238
+
+Kungur 66074
+Barda 8826
+Sars 5043
+Osa 21188
 Lys'va 65918
-Gornozavodsk 12057
+Chusovoy 46735
+Aleksandrovsk 14495
+Chernushka 33272
 Gubakha 28111
-Yugo-Kamskiy 8019
+Kizel 19587
+Nytva 19041
+Krasnovishersk 16099
+Gornozavodsk 12057
 Suksun 8022
+Yugo-Kamskiy 8019
+Nyrob 5523
+Elovo 5334

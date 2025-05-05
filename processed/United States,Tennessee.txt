@@ -1,557 +1,557 @@
 
 
 Nashville 689447
-Ashland City 5193
-Shackle Island 3331
+New Johnsonville 1804
 
-Portland 13156
-Westmoreland 2718
-Forest Hills 5038
-Oak Hill 4891
-Rural Hill 2047
-Green Hill 6518
-Greenbrier 6898
-
-Springfield 18782
-Kingston Springs 2824
-
-Spring Hill 50005
-Chapel Hill 1717
-Estill Springs 2267
-Winchester 9375
-
-Manchester 12212
-Lynchburg 6461
-South Pittsburg 3106
-South Cleveland 7673
-
-Cleveland 47356
-Ooltewah 684
-Etowah 3603
-Sweetwater 6312
-
-Athens 14084
-Decatur 1563
-Spring City 1949
-Kingston 5953
-Oliver Springs 3297
-
-Oak Ridge 31402
-Alcoa 10978
-Halls Crossroads 10341
-Harrogate 4400
-Rogersville 4671
-
-Sevierville 17889
-John Sevier 1026
-
-Seymour 14705
-Loudon 5991
-Louisville 4384
-
-Maryville 31907
-Madisonville 5132
-Crossville 12071
-Huntsville 1270
-Caryville 2212
-Maynardville 2456
-Sneedville 1282
-
-Greeneville 15479
-Tusculum 3298
-Bluff City 1822
-
-Johnson City 71046
-Jefferson City 8419
-Jellico 2154
-Luttrell 1017
-
-Powell 13802
-Tellico Village 7311
-Eagleton Village 5393
-Pigeon Forge 6343
-Gatlinburg 3577
-Clinton 10056
-Orlinda 947
-Livingston 3905
-Red Boiling Springs 1205
-Gainesboro 920
-
-Gallatin 44431
-New Deal 398
-Lakewood 2302
+Shelbyville 23557
 
 Goodlettsville 17789
-Hartsville 11615
+Lobelville 919
+Fayetteville 7068
+
+Hendersonville 61753
+Hohenwald 3668
+Rutherford 1163
+Loretto 1739
+South Pittsburg 3106
 Carthage 2291
-South Carthage 1490
-Smithville 5004
+Chapel Hill 1717
+Dunlap 5357
+Tellico Village 7311
+Tazewell 2348
+Sweetwater 6312
+Gruetli-Laager 1742
+Green Hill 6518
+Crossville 12071
+Eagleton Village 5393
+
+Cookeville 34842
+Lakewood 2302
+Dodson Branch 1160
+Christiana 4305
+Signal Mountain 8852
+
+Smyrna 53070
+
+Clarksville 166722
 
 McMinnville 13788
 
-Cookeville 34842
-Algood 3963
-Dodson Branch 1160
-
-Hendersonville 61753
-
-Nolensville 13829
-
-Brentwood 45373
-Lakewood Park 1161
-Woodbury 2703
-
-Murfreesboro 152769
+Spring Hill 50005
+Hartsville 11615
+Smithville 5004
+Middle Valley 11695
+Louisville 4384
+Collegedale 11109
+Alcoa 10978
+Sale Creek 3021
+Lenoir City 10117
+Lakesite 1856
+Park City 2422
+White Bluff 3862
+Winchester 9375
+Lawrenceburg 11633
+Milan 8171
 
 Franklin 83454
-Pegram 2072
-Coopertown 4480
-
-White House 12982
-White Bluff 3862
-Belle Meade 2901
-
-La Vergne 38719
-
-Smyrna 53070
-Christiana 4305
-Alexandria 981
-
-Lebanon 38431
-
-Mount Juliet 39289
-Thompson's Station 7485
-
-Dickson 16058
-New Johnsonville 1804
-Parsons 2100
-Henderson 6308
-
-Jackson 68205
-Gleason 1369
-Puryear 706
-Paris 10316
-Martin 10825
-Huntingdon 4439
-Lexington 7956
-Clifton 2651
-Linden 997
-Camden 3674
-Waverly 4297
-Dover 1826
-McEwen 1643
-Centerville 3532
-Fairview 9357
-
-Columbia 41690
-Hohenwald 3668
-Lobelville 919
-Milledgeville 271
-Adamsville 2265
-Whiteville 2606
-Somerville 3415
-Rossville 1041
-Brownsville 9788
-Bells 2463
-Halls 2091
-Alamo 2336
-Milan 8171
-Medina 5126
-Selmer 4446
-St. Joseph 790
-Loretto 1739
-Fayetteville 7068
-Park City 2422
 Tracy City 1406
-Mowbray Mountain 1705
-Signal Mountain 8852
-Coalmont 784
-Lone Oak 1198
-Lakesite 1856
-Lake Tansi 4629
-Rockwood 5444
-Greenback 1102
-Jacksboro 2306
-Jamestown 1935
-Byrdstown 798
-Grimsley 1219
-Harriman 5892
-
-Farragut 23506
-Rarity Bay 885
-Lenoir City 10117
-
-Knoxville 190740
-Karns 3536
-Norris 1599
-Strawberry Plains 2405
-Blaine 2084
-Newport 6868
-Jonesborough 5860
-Colonial Heights 3055
-Bloomingdale 8918
-
-Kingsport 55442
-Orebank 929
-Banner Hill 1426
-Church Hill 6998
-Walnut Hill 2331
-
-Bristol 27147
-Charleston 664
-Hampton 2030
-
-Elizabethton 14546
-Hunter 1803
-Mount Carmel 5473
-Ardmore 1217
-Darden 364
-Dancyville 85
-Blanche 310
-Cumberland Gap 313
-Wrigley 257
-Bethpage 313
-Finger 276
-Ridgeside 446
-Gates 664
-Gallaway 528
-Slayden 170
-Gadsden 469
-Mitchellville 163
-Helenwood 635
-Lenox 308
-Henry 446
-Farner 267
-Hornsby 264
-Mooresburg 877
-Petersburg 528
-Burlison 367
-Bon Air 430
-Kahite 834
-Shiloh 163
-Scotts Hill 877
-Moscow 572
-Dellrose 73
-Tazewell 2348
-Bean Station 2967
-
-Morristown 30431
-Mosheim 2479
-Erwin 6083
-Unicoi 3833
-Gray 1293
-Pikeville 1824
-Guys 414
-Lookout Mountain 2058
-South Fulton 2245
-Watertown 1553
-Wartrace 653
-Luray 197
-Graball 228
-Kimball 1545
-Baileyton 436
-Stantonville 335
-Stanton 417
-Statesville 82
-Dowelltown 342
-Mayland 472
-Ridgetop 2155
-Dandridge 3344
-Pittman Center 454
-Chesterfield 543
-Fairmount 2193
-Charlotte 1656
-La Follette 7430
-Lafayette 5584
-Kenton 1205
-Sparta 4998
-Dayton 7065
-Sale Creek 3021
-Middle Valley 11695
-Collegedale 11109
-Apison 4428
-Harrison 7902
-
-Chattanooga 181099
-Red Bank 11899
-
-East Ridge 22167
-
-Soddy-Daisy 13070
-Dunlap 5357
-New Union 1646
-Sewanee 2535
-Cowan 1759
-
-Tullahoma 20339
-New Hope 987
-Gruetli-Laager 1742
-
-Shelbyville 23557
-Pulaski 8397
-Lawrenceburg 11633
-Waynesboro 2317
-Savannah 7213
-Bolivar 5205
-
-Arlington 14549
-Millington 10582
-Covington 8663
-Trenton 4240
-Trezevant 799
-Troy 1423
-Union City 11170
-Maury City 583
-Friendship 613
-Ripley 7800
+Rural Hill 2047
+Centerville 3532
+Adamsville 2265
 Tiptonville 3976
-Newbern 3349
-
-Dyersburg 16164
-Dyer 2308
-Rutherford 1163
-Bethel Springs 742
-Crump 1594
-Humboldt 7874
-Greenfield 2031
-McKenzie 5529
-Tuckers Crossroads 263
-Miston 77
-Toone 270
-Wildwood 1157
-Huntland 886
-Tennessee Ridge 1332
-Gordonsville 1363
-McLemoresville 288
-Pleasant Hill 540
-Mason 1337
-Mascot 2760
-Fincastle 1611
-Winfield 947
-Fairfield 141
-Wildersville 161
-Eagleville 813
-Lynnville 292
-Flintville 722
-Eastview 763
-Mount Pleasant 4784
-Oak Grove (Sumner County) 238
-Blountville 3120
-Counce 316
-Calhoun 536
-Decaturville 807
-Andersonville 508
-Walland 281
-Woodland Mills 346
-Bulls Gap 756
-Morris Chapel 238
-Buchanan 71
-Delano 777
-Minor Hill 504
-Cedar Hill 301
-Childers Hill 100
-Palmersville 162
-Prospect 121
-Beersheba Springs 434
-Beech Bluff 379
-Fall Branch 1248
-Bradford 1001
-Bransford 166
-Fowlkes 882
-Lyles 763
-Whiteside 274
-Ethridge 537
-Oneida 3787
-Adams 624
-Braden 255
-Iron City 274
-Gilt Edge 476
-Medon 189
-Baneberry 523
-Sherwood 122
-Wildwood Lake 3286
-Oakdale 191
-Big Rock 291
-Robbins 254
-Hillsboro 433
-Yorkville 236
-Enville 188
-Briceville 334
-Sunbright 519
-Big Sandy 486
-Grand Junction 338
-Burns 1573
-Hilham 338
-Altamont 1117
-Cottontown 397
-Ducktown 461
-Englewood 1483
-Rutledge 1321
-Friendsville 896
-Oak Grove (Washington County) 4482
-Clarksburg 379
-Pelham 371
-Petros 459
-Olivet 1441
-Watauga 353
-Garland 289
-Clarkrange 596
-La Grange 123
-Ramer 325
-Palmer 551
-Saltillo 420
-Sharon 935
-Walnut Grove (Hardin County) 359
-Randolph 258
-Townsend 550
-Centertown 297
-Falling Water 1873
-Celina 1422
-Elgin 297
-Butler 297
-Bowman 297
-Pocahontas 176
-Eva 239
-Lavinia 81
-Jacks Creek 81
-Williston 349
-Gibson 366
-Norene 148
-Orme 87
-Dresden 3019
-Walden 1981
-Coalfield 2361
-Plainview 2060
-Unionville 1394
-Riceville 688
-Gladeville 1189
-Oakland 8936
-Roan Mountain 1078
-Castalian Springs 608
-Frankewing 124
-Saulsbury 112
-Bogota 112
-New Tazewell 2769
-Whitwell 1641
-Westpoint 164
-Powells Crossroads 1296
-Cross Plains 1789
-White Pine 2471
-Sullivan Gardens 1271
-Crab Orchard 720
-Telford 909
-Vonore 1574
-Belvidere 96
-Ridgely 1690
-Spurgeon 3978
-Valley Forge 1926
-New Market 1349
-
-Bartlett 57786
-Middleton 658
 
 Collierville 51324
 
-Germantown 41333
+Columbia 41690
+Puryear 706
+Parsons 2100
+
+Nolensville 13829
+
+Lebanon 38431
+Sewanee 2535
+Fairview 9357
+McKenzie 5529
+
+Springfield 18782
+Paris 10316
+Greenbrier 6898
+Kenton 1205
+Lakewood Park 1161
+New Deal 398
+Algood 3963
+Coalmont 784
+
+Mount Juliet 39289
+
+Tullahoma 20339
+
+Cleveland 47356
+
+Powell 13802
+South Cleveland 7673
+Clinton 10056
+Mowbray Mountain 1705
+Cowan 1759
+Ooltewah 684
+New Union 1646
+
+La Vergne 38719
+Lone Oak 1198
+Gainesboro 920
+Forest Hills 5038
+
+White House 12982
+Lake Tansi 4629
+Karns 3536
+Harrogate 4400
+Hampton 2030
+Halls Crossroads 10341
+Madisonville 5132
+Maynardville 2456
+Gray 1293
+
+Farragut 23506
+Sparta 4998
+Oliver Springs 3297
+Bean Station 2967
+Gates 664
+Petersburg 528
+Ridgetop 2155
+Rogersville 4671
+Pikeville 1824
+John Sevier 1026
+Jonesborough 5860
+Norris 1599
+
+Kingsport 55442
+Blaine 2084
+Erwin 6083
+Fincastle 1611
+Mount Carmel 5473
+Mosheim 2479
+Greenback 1102
+Luttrell 1017
+Orebank 929
+Blanche 310
+Charleston 664
+Caryville 2212
+Decatur 1563
+Woodbury 2703
+Red Boiling Springs 1205
+
+Murfreesboro 152769
+Westmoreland 2718
+McEwen 1643
+Greenfield 2031
+Pegram 2072
+Camden 3674
+
+Brentwood 45373
+Linden 997
+Belle Meade 2901
+Shackle Island 3331
+
+Dickson 16058
+South Carthage 1490
+Harriman 5892
+Strawberry Plains 2405
+
+Athens 14084
+Gatlinburg 3577
+Jellico 2154
+Livingston 3905
+Orlinda 947
+Newport 6868
+Banner Hill 1426
+Huntsville 1270
+Sneedville 1282
+
+Knoxville 190740
+
+Greeneville 15479
+
+Maryville 31907
+
+Sevierville 17889
+Dellrose 73
+Ridgeside 446
+Statesville 82
+Dancyville 85
+Mitchellville 163
+Church Hill 6998
+Hunter 1803
+Finger 276
+Pigeon Forge 6343
+Colonial Heights 3055
+Henry 446
+Gadsden 469
+Helenwood 635
+Darden 364
+Farner 267
+Wartrace 653
+Pittman Center 454
+Bluff City 1822
+Jefferson City 8419
+Rarity Bay 885
+Harrison 7902
+
+Chattanooga 181099
+
+Manchester 12212
+Estill Springs 2267
+Oak Hill 4891
 
 Memphis 633104
+Thompson's Station 7485
 
-Lakeland 13904
-Atoka 10008
-Munford 6302
-Rockford 822
-Ocoee 201
-Hollow Rock 683
-Viola 93
-Collinwood 898
-Atwood 940
-Sequatchie 622
-Chewalla 94
-Hickory Valley 78
-Hickman 224
-Tellico Plains 762
-Russellville 822
-Millersville 6299
-Cornersville 1228
-Graysville 1471
-Surgoinsville 1882
+Gallatin 44431
 
-Lewisburg 12288
-Wynnburg 91
-Samburg 210
-Embreeville 429
-Greenvale 79
-Vanleer 374
-Coker Creek 150
-Monterey 2746
-Monteagle 1393
-Mountain City 2415
-Flat Top Mountain 561
-Walnut Grove (Sumner County) 911
-Cumberland City 305
-Berry Hill 2112
-Copperhill 443
-Wartburg 848
-Huron 58
-Parker's Crossroads 284
-Pine Crest 2439
-Griffith Creek 465
-Fairgarden 481
-Midtown 1220
-Auburntown 272
-Normandy 108
-Holladay 95
-Conasauga 95
-Erin 1224
-Mercer 150
-Silerton 97
-Elkton 545
-Bell Buckle 410
-Rives 246
-Cottage Grove 66
-Whitlock 95
-East Cleveland 1725
-Nixon 514
-Henning 871
-McDonald 586
-Parrottsville 217
-Baxter 1578
-Walterhill 407
-Finley 774
-Fairfield Glade 9152
-Brighton 2888
-Benton 1523
-Piperton 2263
-Spencer 1462
-Hopewell 2087
-Obion 991
-Biltmore 1837
-Allardt 555
-Decherd 2379
-Pinson 464
-Leoma 464
-Bon Aqua Junction 1279
-Rockvale 1279
-Taft 256
-Central 2114
-Trimble 547
-Summertown 856
-Bruceton 1507
-Pleasant View 4807
-Hornbeak 511
-Three Way 1877
-Jasper 3612
-Michie 679
+Johnson City 71046
+
+Jackson 68205
+Millington 10582
+Bethel Springs 742
+Newbern 3349
+Dover 1826
+Henderson 6308
+Somerville 3415
+Brownsville 9788
+
+Germantown 41333
+Martin 10825
+Kingston Springs 2824
+Clifton 2651
+Covington 8663
+Middleton 658
+Gleason 1369
+Pulaski 8397
+Ashland City 5193
+Alexandria 981
+Grimsley 1219
+
+Seymour 14705
+
+Morristown 30431
+Moscow 572
+Mooresburg 877
+Luray 197
+Tusculum 3298
 Philadelphia 607
 
-Clarksville 166722
-Lake City 1628
-Essary Springs 147
-Liberty 334
-Morrison 733
+Bartlett 57786
+
+Oak Ridge 31402
+Spring City 1949
+Kingston 5953
+Etowah 3603
+Jamestown 1935
+Jacksboro 2306
+Rockwood 5444
+
+Soddy-Daisy 13070
+Dayton 7065
+
+Bristol 27147
 Sardis 414
+Burlison 367
+
+Elizabethton 14546
+Bethpage 313
+South Fulton 2245
+Dowelltown 342
+Stantonville 335
+Pleasant Hill 540
+Briceville 334
+Cedar Hill 301
+Saltillo 420
+Flintville 722
+Decaturville 807
+Prospect 121
+Walnut Grove (Hardin County) 359
+Lake City 1628
+Walland 281
+Clarkrange 596
+Rutledge 1321
+Eagleville 813
+Friendsville 896
+Yorkville 236
+Williston 349
+Enville 188
+Childers Hill 100
+Lynnville 292
+Palmersville 162
+Blountville 3120
+Wildersville 161
+
+East Ridge 22167
+
+Dyersburg 16164
+Selmer 4446
+
+Lakeland 13904
+Bells 2463
+Rossville 1041
+Milledgeville 271
+Whiteville 2606
+
+Arlington 14549
+Waverly 4297
+Dyer 2308
+
+Portland 13156
+Coopertown 4480
+
+Lewisburg 12288
+Chewalla 94
+Gladeville 1189
+Holladay 95
+Three Way 1877
+Monterey 2746
+Piperton 2263
+Mercer 150
+Walterhill 407
+Hickory Valley 78
+Unionville 1394
+Plainview 2060
+Friendship 613
+Trenton 4240
+Huntingdon 4439
+Union City 11170
+Munford 6302
+Waynesboro 2317
+Troy 1423
+Trezevant 799
+Bolivar 5205
+Savannah 7213
+Medina 5126
+Lexington 7956
+Atoka 10008
+Red Bank 11899
+Fairfield Glade 9152
+Cottage Grove 66
+White Pine 2471
+Telford 909
+Ridgely 1690
+Elkton 545
+Pinson 464
+Henning 871
+Spencer 1462
+Erin 1224
+Decherd 2379
+Sequatchie 622
+Hickman 224
+New Market 1349
+Maury City 583
+Oakland 8936
+Vanleer 374
+East Cleveland 1725
+Rives 246
+Brighton 2888
+Midtown 1220
+Benton 1523
+Bell Buckle 410
+Hornbeak 511
+Auburntown 272
+Cornersville 1228
+Copperhill 443
+Russellville 822
+Hopewell 2087
+Millersville 6299
+Berry Hill 2112
+Parrottsville 217
+Parker's Crossroads 284
+Crab Orchard 720
+Crump 1594
+St. Joseph 790
+Bloomingdale 8918
+Humboldt 7874
+Ripley 7800
+La Follette 7430
+Scotts Hill 877
+Charlotte 1656
+Cumberland Gap 313
+Gallaway 528
+Kimball 1545
+Walnut Hill 2331
+Lynchburg 6461
+Loudon 5991
+Apison 4428
+Lafayette 5584
+Pleasant View 4807
+Cross Plains 1789
+Coker Creek 150
+Vonore 1574
+Huron 58
+Obion 991
+McDonald 586
+Central 2114
+Allardt 555
+Viola 93
+Riceville 688
+Michie 679
+Whitwell 1641
+Westpoint 164
+Castalian Springs 608
+Jasper 3612
+Spurgeon 3978
+Saulsbury 112
+Trimble 547
+Mount Pleasant 4784
+Centertown 297
+Fowlkes 882
+Essary Springs 147
+Lyles 763
+Oakdale 191
+Altamont 1117
+Watauga 353
+Calhoun 536
+Oak Grove (Washington County) 4482
+Sharon 935
+Morris Chapel 238
+Baneberry 523
+Beech Bluff 379
+Buchanan 71
+Big Sandy 486
+Bowman 297
+Bransford 166
+Sunbright 519
+Ethridge 537
+Morrison 733
+Hillsboro 433
 Cosby 807
+Townsend 550
+Garland 289
+Grand Junction 338
+Braden 255
+Randolph 258
+Bradford 1001
+Adams 624
+Andersonville 508
+Woodland Mills 346
+Minor Hill 504
+Delano 777
+Pelham 371
+Celina 1422
+Olivet 1441
+Gilt Edge 476
+Hilham 338
+Whiteside 274
+Oneida 3787
+Medon 189
+Iron City 274
+Petros 459
+Big Rock 291
+Oak Grove (Sumner County) 238
+Counce 316
+Fall Branch 1248
+Ramer 325
+Sherwood 122
+Butler 297
+Burns 1573
+Robbins 254
+Lavinia 81
+La Grange 123
+Bulls Gap 756
+Clarksburg 379
+Unicoi 3833
+Mascot 2760
+Dandridge 3344
+Mayland 472
+Stanton 417
+Lookout Mountain 2058
+Shiloh 163
+Kahite 834
+Watertown 1553
+Chesterfield 543
+Wildwood Lake 3286
+Englewood 1483
+Eastview 763
+Fairfield 141
+Elgin 297
+Gibson 366
+Cottontown 397
+Pocahontas 176
 Niota 772
+Dresden 3019
+Norene 148
+Orme 87
+Palmer 551
+Liberty 334
+Beersheba Springs 434
+New Tazewell 2769
+Bogota 112
+Nixon 514
+Monteagle 1393
+Baxter 1578
+Silerton 97
+Wartburg 848
+Surgoinsville 1882
+Tellico Plains 762
+Flat Top Mountain 561
+Taft 256
 Doyle 493
-Dukedom 103
+Rockvale 1279
+Walnut Grove (Sumner County) 911
+Greenvale 79
+Graysville 1471
+Embreeville 429
+Griffith Creek 465
+Finley 774
+Collinwood 898
+Falling Water 1873
+Pine Crest 2439
+Mountain City 2415
+Bon Aqua Junction 1279
+Coalfield 2361
+Alamo 2336
+Halls 2091
+Fairmount 2193
+Ardmore 1217
+Walden 1981
+Belvidere 96
+Valley Forge 1926
+Biltmore 1837
+Rockford 822
+Normandy 108
+Leoma 464
+Bruceton 1507
+Gordonsville 1363
+McLemoresville 288
+Mason 1337
+Miston 77
+Baileyton 436
+Bon Air 430
+Tennessee Ridge 1332
+Toone 270
+Wildwood 1157
+Powells Crossroads 1296
+Roan Mountain 1078
+Sullivan Gardens 1271
+Summertown 856
+New Hope 987
+Winfield 947
+Atwood 940
+Fairgarden 481
+Wynnburg 91
+Hollow Rock 683
+Whitlock 95
+Ocoee 201
+Conasauga 95
+Samburg 210
+Cumberland City 305
+Huntland 886
+Byrdstown 798
+Ducktown 461
+Guys 414
+Lenox 308
+Slayden 170
+Hornsby 264
+Tuckers Crossroads 263
+Wrigley 257
+Eva 239
+Graball 228
+Frankewing 124
 Yuma 103
+Dukedom 103
+Jacks Creek 81
