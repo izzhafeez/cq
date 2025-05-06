@@ -1,233 +1,233 @@
 
 
 Cairo 9293612
-As-Saff 59348
-Al-Fashn 101928
-Manshat al-Qanatir 18504
-Sadat City 66615
-Shubrakhit 36077
-Mit Ghamr 140985
-Qaha 34686
-
-Az-Zaqaziq 396852
-As-Santah 42000
-Kafr ash-Shaykh 182186
-As-Sinbillawayn 113717
-Mit Salsil 44160
-'Izbat al-Burj 50285
-Tama al-Amdid 18695
-Abu Hammad 39644
-Al-'Ubur 133102
-Al-Qanayat 65172
-
-Al-Mahallah al-Kubra 543271
-
-Shibin al-Kawm 249611
-Al-Ibrahimiyah 49596
-Shibin al-Qanatir 70585
-Birkat as-Sab' 47436
-Al-Qanatir al-Khayriyah 80022
-Al-Hawamidiyah 149567
-Minya al-Qamh 91535
-At-Tall al-Kabir 43459
-Al-Qantarah 44045
-Ar-Rawdah 29592
-Al-Matariyah 148591
-Diyarb Najm 74639
-Minyat an-Nasr 75581
-Ras al-Bar 9677
-
-Al-Mansurah 570271
-Faraskur 41118
-Faqus 107819
-Aja 43106
-Al-Kurdy 41173
-Al-Qurayn 87250
-Quwaysina 61193
-Awsim 90839
-Sirs al-Layyanah 72821
-Al-Khankah 78185
-Al-Badrashayn 87611
-Banha 174518
-
-Tanta 528672
-Ar-Rahmaniyah 38920
-Samannud 80606
-Al-Hamul 54711
-Mutubis 41106
-An-Nubariyah al-Jadidah 20369
-Ar-Riyad 22708
-As-Sarw 27743
-Kafr Saqr 41055
-Kafr Shukr 29634
-Ashmun 115973
-Kirdasah 132716
-Ash-Shuhada' 70872
-Mashtul as-Suq 69920
-Ash-Shuruq 88909
-
-Al-Khusus 468194
-Al-Bajur 58651
-
-Alexandria 5107530
-Tala 67576
-Qallin 45164
-Shirbin 69761
-Abu Kabir 142420
-Dikirnis 92682
-Madinat Dumyat al-Jadidah 51635
-San al-Hajar 28555
-Al-Qantarah Sharq 29433
-Az-Zarqa' 25534
-Nabaruh 54286
-Basyun 68839
-Bilqas 125686
-Al-Manzilah 116807
-Al-Jamaliyah 91364
-Biyala 83398
-Awlad Saqr 30279
-Al-Qasasin al-Jadidah 22546
-As-Salihiyah al-Jadidah 54695
-
-Al-Isma'iliyah 397446
-B'ir al-'Abd 25319
-Mit Abu Ghalb 19393
-Sidi Ghazi 26344
-Bani Ubayd 42235
-Kafr al-Battikh 44716
-Baltim 48015
-Burj al-Barlus 56481
-Abu Hummus 53713
-Al-Hammam 15963
-Al-Mahmudiyah 30325
-Abu al-Matamir 58576
-Burj al-'Arab 21780
-Ad-Dab'ah 24021
-
-Damanhur 278413
-Qutur 29380
-
-Giza 4212750
-Al-'Ayyat 44171
-
-Al-Fayyum 489377
-Matay 73888
-Ibshaway 81264
-Al-'Idwah 23416
-Al-Qusiyah 90523
-Al-Wasita 52200
-Itsa 70108
-Samalut 127447
-Tima 94021
-Bani Mazar 103891
-Manfalut 107184
-Al-Maraghah 49872
-Al-Qarnuh al-Jadidah 36276
-Al-Ghurdaqah 195675
-Al-Manshah 84744
-Al-Kharijah 75530
-Al-Ghanayim 64429
-Akhmim 140785
-
-Al-Minya 254523
-Al-Badari 50933
-Al-Minya al-Jadidah 15677
-Tamiyah 68897
-Ihnasiya 57782
-Sidfa 27475
-Sinnuris 125905
-
-Shubra al-Khaymah 1187747
-
-Port Said 760152
-Kafr Sa'd 17164
-
-Suez 740874
-Al-Husayniyah 46703
-
-Asyut 480516
-Dar as-Salam 35335
-Mallawi 190829
-Sawhaj 248174
-Dayr Mawas 54598
-Nasir Bush 123075
-New Beni Suef 29117
-Yusuf as-Siddiq 22596
-Qalyub 149737
-
-6th of October 355616
-Sheikh Zayed City 92457
 
 New Cairo 302926
 
+Alexandria 5107530
+
+Giza 4212750
+
+Shubra al-Khaymah 1187747
+Al-Qanatir al-Khayriyah 80022
+Al-Qanayat 65172
+Manshat al-Qanatir 18504
+Shibin al-Qanatir 70585
+
+Shibin al-Kawm 249611
+
+Port Said 760152
+Mit Salsil 44160
+Mit Ghamr 140985
+
+Suez 740874
+
+Al-Mansurah 570271
+Al-Manzilah 116807
+
+Al-Mahallah al-Kubra 543271
+Al-Kurdy 41173
+Faraskur 41118
+
+Tanta 528672
+As-Santah 42000
+
+Al-Fayyum 489377
+Sirs al-Layyanah 72821
+
+Asyut 480516
+
+Al-Khusus 468194
+Al-Khankah 78185
+
+Al-Isma'iliyah 397446
+Al-Jamaliyah 91364
+As-Salihiyah al-Jadidah 54695
+
+Az-Zaqaziq 396852
+
+6th of October 355616
+10th of Ramadan 226953
+
 Aswan 337472
-Al-Balyana 63599
+Dayr Mawas 54598
+Ibshaway 81264
+Al-Hawamidiyah 149567
+Tamiyah 68897
 
 Damietta 289833
-Talkha 103471
-Zifta 102411
+
+Damanhur 278413
+Banha 174518
+
+Al-Minya 254523
+Al-Minya al-Jadidah 15677
 
 Luxor 250704
-Sahil Salim 49167
-Saqultah 31864
-Abu Qurqas 81011
-Abnub 101605
-Ras Gharib 42365
-Biba 85404
-Beni Suef 246395
-Qina 241422
-Al-Qusayr 47986
-Al-Waqf 33152
-Naqadah 25561
-Daraw 54905
-Armant 73438
-Farshut 67793
-Dayrut 93223
-Juhaynah 71174
-Isna 90355
-Naj' Hammadi 56899
-Safaja 50665
-Jirja 140622
-10th of Ramadan 226953
-Badr 31877
-Bilbays 170785
-Al-'Arish 191584
-Idku 154997
-New Borg El Arab 44511
-Kafr ad-Dawwar 112467
-Wadi an-Natrun 36033
-Fuwah 87451
-Marsa Matruh 153062
-Disuq 139794
-Ad-Dilinjat 60284
-Minuf 117107
-Tahta 124874
-Abu Tisht 17367
-Kawm Umbu 103342
-Abu Tij 95815
-Rosetta 110048
-Sidi Salim 41864
+Samalut 127447
+Manfalut 107184
+Al-Manshah 84744
+Al-Maraghah 49872
 Maghaghah 106100
-Qus 80559
-Dishna 61812
-Kafr az-Zayyat 76413
-Hawsh 'Isa 72621
-Kawm Hamadah 48691
-Idfu 70657
-Hihya 68987
-Rafah 42516
-Fa'id 32450
-Sharm El Sheikh 38478
-At-Tur 35046
-Atfih 25987
-Sidi Barrani 33173
-Siwa 21711
-At-Tud 28722
-Ash-Shaykh Zuwayd 25687
-Mut 24376
+Sawhaj 248174
+Safaja 50665
+Beni Suef 246395
+New Beni Suef 29117
+Qina 241422
 Qift 22921
-As-Siba'iyah Gharb 19204
-An-Najaylah 17142
+Al-Ghurdaqah 195675
+Al-Ghanayim 64429
+Al-'Arish 191584
+B'ir al-'Abd 25319
+Mallawi 190829
 Al-Bawiti 15098
+Al-Badari 50933
+Kafr ash-Shaykh 182186
+Bilbays 170785
+Quwaysina 61193
+Idku 154997
+Marsa Matruh 153062
+Nabaruh 54286
+Qalyub 149737
+Al-Matariyah 148591
+Abu Kabir 142420
+At-Tall al-Kabir 43459
+Akhmim 140785
+Tima 94021
+Jirja 140622
+Disuq 139794
+Al-'Ubur 133102
+Al-'Ayyat 44171
+Kirdasah 132716
+Sinnuris 125905
+Bilqas 125686
+As-Sinbillawayn 113717
+Tahta 124874
+Saqultah 31864
+Nasir Bush 123075
+Ihnasiya 57782
+Minuf 117107
+Minya al-Qamh 91535
+Ashmun 115973
+Ash-Shuruq 88909
+Kafr ad-Dawwar 112467
+Rosetta 110048
+Faqus 107819
+Bani Mazar 103891
+Talkha 103471
+Tala 67576
+Biyala 83398
+Kawm Umbu 103342
+Zifta 102411
+Al-Fashn 101928
+Al-Badrashayn 87611
+Badr 31877
+Abnub 101605
+Abu Tij 95815
+Abu Tisht 17367
+Dayrut 93223
+Dikirnis 92682
+Sheikh Zayed City 92457
+Sadat City 66615
+Awsim 90839
+Al-Qusiyah 90523
+Isna 90355
+Dishna 61812
+Fuwah 87451
+Al-Qurayn 87250
+Biba 85404
+Abu Qurqas 81011
+Samannud 80606
+Qus 80559
+Al-Qusayr 47986
+Kafr az-Zayyat 76413
+Minyat an-Nasr 75581
+Al-Kharijah 75530
+Diyarb Najm 74639
+Matay 73888
+Armant 73438
+Hawsh 'Isa 72621
+Juhaynah 71174
+Ash-Shuhada' 70872
+Idfu 70657
+Itsa 70108
+Mashtul as-Suq 69920
+Shirbin 69761
+Hihya 68987
+Basyun 68839
+Farshut 67793
+Al-Balyana 63599
+Ad-Dilinjat 60284
+Qallin 45164
+As-Saff 59348
+Al-Bajur 58651
+Abu al-Matamir 58576
+Naj' Hammadi 56899
+Burj al-Barlus 56481
+Ras al-Bar 9677
+Daraw 54905
+Dar as-Salam 35335
+Al-Hamul 54711
+Abu Hummus 53713
+Al-Wasita 52200
+Madinat Dumyat al-Jadidah 51635
+'Izbat al-Burj 50285
+Kafr al-Battikh 44716
+Kafr Saqr 41055
+Kafr Shukr 29634
+Al-Ibrahimiyah 49596
+Sahil Salim 49167
+Kawm Hamadah 48691
+Baltim 48015
+Birkat as-Sab' 47436
+Al-Husayniyah 46703
+New Borg El Arab 44511
+Al-Qantarah 44045
+Aja 43106
+San al-Hajar 28555
+Rafah 42516
+Ras Gharib 42365
+Bani Ubayd 42235
+Sidi Salim 41864
+Sidi Ghazi 26344
+Mutubis 41106
+Qutur 29380
+Abu Hammad 39644
+Ar-Rahmaniyah 38920
+Ar-Riyad 22708
+Ar-Rawdah 29592
+Sharm El Sheikh 38478
+Al-Qarnuh al-Jadidah 36276
+Shubrakhit 36077
+Wadi an-Natrun 36033
+An-Nubariyah al-Jadidah 20369
+At-Tur 35046
+Qaha 34686
+Sidi Barrani 33173
+Al-Waqf 33152
+Fa'id 32450
+Al-Mahmudiyah 30325
+Awlad Saqr 30279
+Al-Qantarah Sharq 29433
+At-Tud 28722
+As-Sarw 27743
+Sidfa 27475
+Atfih 25987
+Ash-Shaykh Zuwayd 25687
+Naqadah 25561
+Az-Zarqa' 25534
+Mut 24376
+Ad-Dab'ah 24021
+Al-'Idwah 23416
+Yusuf as-Siddiq 22596
+Al-Qasasin al-Jadidah 22546
+Burj al-'Arab 21780
+Siwa 21711
+Mit Abu Ghalb 19393
+As-Siba'iyah Gharb 19204
+Tama al-Amdid 18695
+Kafr Sa'd 17164
+An-Najaylah 17142
+Al-Hammam 15963
 As-Sallum 14349
 Ash-Shalatin 11732

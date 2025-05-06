@@ -2,748 +2,748 @@
 
 Glasgow 591620
 
-Larkhall 15020
-
-Kirkintilloch 19630
-
-Stirling 36440
-Blairhall 950
-Blackridge 1950
-Braidwood 600
-Brightons 4700
-Kirkliston 3590
-Elphinstone 540
-Duns 2680
-Freuchie 1240
-Markinch 2430
-Auchtermuchty 2120
-Winchburgh 2500
-Bargeddie 2670
-Salsburgh 1540
-Laurieston 2670
-Blackburn 5480
-Currie 6500
-Longridge 860
-
-Airdrie 37130
-Rumford 840
-Carronshore 3040
-Croy 1390
-Westquarter 1150
-Rosewell 1540
-Stenhousemuir 10050
-Seafield 1330
-Gatehouse of Fleet 950
-Ratho Station 1190
-Tranent 11840
-Dechmont 690
-Burntisland 6370
-Clackmannan 3450
-Dunning 930
-
-Grangemouth 17280
-Drumoak 860
-Dennyloanhead 1530
-Oakley 2280
-Glenochil Village 820
-Callander 3120
-
-Clydebank 26640
-Springside 1260
-Milton of Campsie 3950
-Carron 2530
-
-Broxburn 15360
-Kinghorn 2870
-Carnock 760
-Lochgelly 6586
-Loanhead 6350
-
-Glenrothes 39100
-Roslin 1630
-Inverkeithing 5220
-Whitecraig 1200
-
-Bathgate 21070
-Airth 1760
-
-Rosyth 13690
-Addiebrownhill 1470
-High Valleyfield 2280
-West Calder 3100
-
-Dalserf 17985
-Hallglen 3200
-Alva 4720
-Twechar 1160
-Coaltown of Wemyss 610
-Galston 4690
-
-Bellshill 20650
-Dunbeg 610
-
-Cumbernauld 51610
-
-Bearsden 27340
-Calderbank 1610
-Denny 7860
-Glenmavis 2290
-Maddiston 3190
-Coalsnaughton 850
-Nairn 9860
-West Barns 680
-Plains 2740
-
-Blantyre 17090
-Duntocher 7036
-Nerston 500
-Strathblane 1960
-Clarkston 9460
-Law 3250
-Wallacestone 680
-Chapelhall 6560
-Shieldhill 2470
-Tillicoultry 5160
-Burrelton 690
-Bilston 1210
-Methil 11160
-
-Perth 47180
-Carnwath 1430
-Netherburn 760
-Dornoch 1270
-Aberdour 1650
-Kincardine 2810
-Cairneyhill 2480
-East Whitburn 1240
-Ashgill 1460
-Kilsyth 9860
-
-Hamilton 53200
-Stoneyburn 1970
-Colinton 7637
-Haddington 9020
-Kirknewton 1950
-Scone 4840
-Newbridge 1013
-Dalgety Bay 9810
-Avonbridge 690
-Mid Calder 3460
-Gorebridge 6330
-Forth 2240
-Gartcosh 2130
-Milngavie 13110
-Bonhill 9180
-Glenboig 2780
-Cleland 3000
-Kirkfieldbank 940
-Kirkconnel 2070
-
-Viewpark 16020
-Harthill 3710
-Bothwell 6410
-High Bonnybridge 620
-
-Bo'ness 14910
-Abernethy 1470
-
-Motherwell 32120
-
-Barrhead 17620
-Newmacher 2510
-Armadale 11770
-Alford 2290
-Torrance 2370
-Renton 2490
-Lennoxtown 4060
-New Stevenston 5450
-
-Newton Mearns 24650
-
-Dumbarton 19950
-
-Cambuslang 27610
-Bowling 520
-Overtown 2110
-Milnathort 1910
-Rosneath 1260
-Waterfoot 1260
-Blackwood 1901
-New Cumnock 2840
-
-Dumfries 33280
-
-Prestwick 14750
-Rothesay 4540
-Whiting Bay 640
-Drongan 3170
-Brodick 830
-Auchinleck 3760
-
-Kilwinning 16420
-Moniaive 500
-Cairnryan 3757
-
-Paisley 76220
-Fairlie 1440
-Carstairs 890
-Faichem 10
-Southerness 170
-Crosshouse 2850
-Bishopton 4640
-Stewarton 7140
-Coylton 2180
-Stonehouse 5500
-Busby 3220
-Queenzieburn 520
-Cowie 2640
-Lenzie 8580
-Lerwick 7040
-Auchterarder 4620
-Errol 1410
-Ceres 950
-Reddingmuirhead 1580
-Danderhall 2770
-Bridgend 760
-Bonnybridge 5280
-Menstrie 2770
-Comrie 1900
-Buchlyvie 530
-Elderslie 5690
-Darvel 3860
-Brookfield 570
-Balfron 1860
-Kilbarchan 3580
-Lochwinnoch 2900
-
-Wishaw 30510
-Thorntonhall 610
-Chryston 2900
-Wemyss Bay 2580
-Banknock 2370
-Balloch 1743
-Dalry 5560
-Alexandria 6940
-Cardross 2130
-Kinnesswood 500
-
-Erskine 15530
-Skelmorlie 1990
-Town Yetholm 570
-Caol 3220
-Kippen 1110
-Kirriemuir 6160
-Kemnay 3830
-Ardersier 1110
-Aberfeldy 1960
-Cowdenbeath 11460
-Cockenzie 5660
-Leslie 3050
-Prestonpans 9490
-Cupar 9270
-Dunbar 8470
-Earlston 1780
-East Wemyss 1970
-Muirhead 1542
-
-Kirkcaldy 49460
-Carstairs Junction 780
-East Calder 4710
-
-Mayfield 13140
-Fauldhouse 4840
-Holytown 5080
-Lesmahagow 4380
+Port Glasgow 15190
 
 Edinburgh 464990
-Buckhaven 4340
-Cardenden 4913
-Guardbridge 660
-Crieff 7430
-Kinglassie 1820
+
+Aberdeen 196670
+Aberchirder 1250
+Ardersier 1110
+
+Dundee 147710
+Dunbar 8470
+Duns 2680
+
+Paisley 76220
+Faifley 5030
+Fairlie 1440
+Skelmorlie 1990
+
+East Kilbride 74740
 
 Livingston 56570
 
-Linlithgow 13320
-Tullibody 8710
+Hamilton 53200
+Milton of Campsie 3950
+
+Cumbernauld 51610
+Fauldhouse 4840
+Stonehouse 5500
 
 Dunfermline 50380
-Huntly 4720
-Grantown on Spey 2440
-Polmont 5390
-Dollar 2740
-Dunblane 8830
-Dunipace 2580
-California 830
+Dunning 930
 
-Alloa 20390
-Muthill 760
-Murthly 510
-Walkerburn 760
-Kelty 6590
-Kennoway 4600
-Carnoustie 11430
-
-Musselburgh 23620
-Kinross 4910
-Fallin 2850
-
-Falkirk 35310
-Head of Muir 1710
-Caldercruix 2440
-Whitecross 780
-Whitburn 10460
-Balerno 6000
-Ballingry 5758
-Elie 949
-Golspie 1410
-Pittenweem 1490
-Dalkeith 12720
-Polbeth 2350
-
-Aberdeen 196670
-Cullen 1450
-Ballater 1550
-Banff 4020
-Hopeman 1710
-Lanark 8890
-Coupar Angus 2350
-Braco 590
-Bridge of Earn 2790
-Crook of Devon 630
-Monkton 930
-Bankfoot 1270
-Lundin Links 2124
-Wellbank 600
-Kilbirnie 7520
-Crail 1670
-Blairgowrie 8890
-Forgandenny 590
-Almondbank 1420
-Bannockburn 7040
-Moodiesburn 6900
-Thornliebank 4190
-Auchinloch 750
-Kilmaurs 2800
-Dalmellington 1390
-Port Ellen 830
-
-Vale of Leven 24640
-
-Rutherglen 31180
-Strathaven 7480
-Catrine 2210
-
-Carluke 13370
-Biggar 2330
-
-High Blantyre 16739
-Inchinnan 1910
-Inverkip 3060
-
-Kilmarnock 46350
-Maybole 4750
-Ullapool 1510
-Largs 11340
-Cargenbridge 610
-Bridge of Weir 4860
-
-East Kilbride 74740
-Neilston 5310
-Stevenston 9290
-Smithton 2090
-Millport 1280
-Old Kilpatrick 4850
-
-Coatbridge 43970
-
-Bishopbriggs 23430
-Howwood 1580
-Dunlop 1160
-Mossblown 2090
-Logan 1220
-Girvan 6650
-Kirkcudbright 3390
-Dreghorn 3640
-Drymen 830
-
-Helensburgh 13720
-Isle of Bute 7228
-Spean Bridge 570
-Oban 8540
-Isle of Arran 5058
-Ardrishaig 1320
-Maidens 530
-Faifley 5030
-Aberfoyle 750
-Tighnabruaich 520
-Wick 7140
-Hawkhead 968
-
-Dundee 147710
-Lhanbryde 1970
-Leuchars 2200
-Leven 8960
-
-Penicuik 16110
-Longniddry 2430
-Balmullo 1430
-Gullane 2570
-Lumphanan 550
-
-Hawick 14050
-Coldingham 550
-Gauldry 660
-Ferryden 905
-Pitlochry 2860
-Tobermory 1010
-Potterton 920
-Kingskettle 1010
-Nethy Bridge 660
-
-Arbroath 23640
-Brechin 7520
-Aviemore 3150
-Buckie 8430
-Maryburgh 1180
-Turriff 5060
-Laurencekirk 2920
-Kilcreggan 1290
-
-Saint Andrews 16800
-Portree 2410
-Anstruther 3420
-Eyemouth 3430
-Douglas Water 100
-Glenluce 600
-Douglas 1560
-Uyeasound 10
-Hillhead 630
-Quarrier's Village 750
-
-Irvine 33740
+Kirkcaldy 49460
 
 Ayr 47190
 
+Blantyre 17090
+Strathblane 1960
+Dunblane 8830
+
+Perth 47180
+Airth 1760
+
+Airdrie 37130
+
 Inverness 46870
-Crossford 2350
-Montrose 11880
-East Linton 1700
-Newtown St Boswells 1330
-Galashiels 12660
-Allanton 1266
+Inverurie 12760
+
+Kilmarnock 46350
+Kilmaurs 2800
+
+Coatbridge 43970
 
 Greenock 43690
+Banknock 2370
+Bannockburn 7040
+Blackburn 5480
+Blackwood 1901
+Blackridge 1950
+Bridgend 760
+Newbridge 1013
+Gorebridge 6330
 
-Renfrew 22010
+Glenrothes 39100
+Kinross 4910
+
+Stirling 36440
+
+Falkirk 35310
+
+Irvine 33740
+Girvan 6650
+
+Dumfries 33280
+
+Motherwell 32120
+Bothwell 6410
+Rosewell 1540
+
+Rutherglen 31180
+
+Wishaw 30510
+Hawkhead 968
+
+Barrhead 17620
+
+Cambuslang 27610
+Busby 3220
+Salsburgh 1540
+
+Bearsden 27340
+
+Clydebank 26640
+Calderbank 1610
+West Calder 3100
+Caldercruix 2440
+East Calder 4710
+Mid Calder 3460
+
+Newton Mearns 24650
+
+Vale of Leven 24640
+
+Arbroath 23640
+Broadford 760
+Alford 2290
+Rumford 840
+
+Musselburgh 23620
+
+Bishopbriggs 23430
+Bishopton 4640
 
 Elgin 22980
-Inverurie 12760
-Burghead 1930
-Thurso 7760
 
-Fraserburgh 13140
-Castletown 840
+Renfrew 22010
+Renton 2490
+Thornton 2110
+Thorntonhall 610
 
-Peterhead 18450
-Auldearn 660
-Maud 870
-North Kessock 1000
-Lossiemouth 7620
-Newtonmore 1100
-Tarbolton 1900
-Bowmore 760
-Redding 2540
+Bathgate 21070
+Crossgates 2530
+Whitecross 780
+
+Bellshill 20650
+Shieldhill 2470
+Harthill 3710
+
+Alloa 20390
 
 Orkney 20100
-Newmilns 2980
-New Deer 660
-Gardenstown 670
-Mosstodloch 990
-Boddam 1290
-Balintore 1090
-Banchory 7520
-Brora 1290
-Rosemarkie 660
-Kingussie 1450
-Tain 3690
-Kingswells 4750
-Haggs 660
-Aberchirder 1250
-Invergordon 4130
-Bracorina 4
-Saint Combs 660
-Corrour 1
-Gourock 10570
-Giffnock 12070
+
+Dumbarton 19950
+Stewarton 7140
+Stevenston 9290
+
+Kirkintilloch 19630
+Balloch 1743
+Lochwinnoch 2900
 
 Isle of Lewis 18500
-Eaglesham 3150
-Kyle 1
-Isle of Eigg 67
-Slamannan 1360
-Stanley 1450
-Evanton 1380
-Aird Tong 487
-Milton of Leys 1740
-Boat of Garten 517
-Ratho 1730
-Keith 4740
-Drumnadrochit 1130
-Rothienorman 1060
-Portlethen 8200
-Portknockie 1270
-Blackford 760
-Broadford 760
+Isle of Coll 164
+Isle of Cumbrae 1434
+
+Peterhead 18450
+Muirhead 1542
+
+Dalserf 17985
+Galston 4690
+Neilston 5310
+Nerston 500
+
+Erskine 15530
+Elderslie 5690
+
+Grangemouth 17280
+
+Saint Andrews 16800
+
+High Blantyre 16739
+High Bonnybridge 620
+Bonnybridge 5280
+
+Kilwinning 16420
 
 Johnstone 16390
-Houston 6420
-Thornton 2110
 
 Bonnyrigg 16360
 
-Port Glasgow 15190
+Penicuik 16110
+
+Viewpark 16020
+
+Broxburn 15360
+Whitburn 10460
+East Whitburn 1240
+
+Larkhall 15020
+Clarkston 9460
+
+Bo'ness 14910
+
+Prestwick 14750
+Wick 7140
 
 Troon 14680
-Hatton 890
+Dunoon 8160
+
+Hawick 14050
+Fenwick 1070
 
 Forfar 13970
-Killearn 1670
+
+Helensburgh 13720
+
+Rosyth 13690
+Roslin 1630
+Leslie 3050
+Elie 949
+
+Carluke 13370
+Carron 2530
+Carronshore 3040
+
+Linlithgow 13320
+Fallin 2850
+
+Fraserburgh 13140
+Burghead 1930
+
+Mayfield 13140
+High Valleyfield 2280
+Seafield 1330
+Milngavie 13110
+Milnathort 1910
+Millport 1280
+Port Ellen 830
 Saltcoats 12800
-Ardrossan 10930
-Annbank 890
-Bellsbank 1350
-Beith 6170
+Coaltown of Wemyss 610
+Bridge of Weir 4860
+Dalkeith 12720
+Inverkeithing 5220
+Galashiels 12660
+Giffnock 12070
+Montrose 11880
+Tranent 11840
+Armadale 11770
+Maddiston 3190
+Kirkliston 3590
+Kirknewton 1950
 Westhill 11600
-Strathmiglo 900
-Patna 2190
-Ochiltree 1080
-Cults 3500
-Coalburn 1200
-Gourdon 750
-Glassford 640
-Crosshill 500
+Newarthill 6480
+Newton Stewart 4010
+Cowdenbeath 11460
+Cowie 2640
+Carnoustie 11430
+Carnwath 1430
+Carnock 760
 Stonehaven 11370
-Charlestown of Aberlour 1120
-Tarbert 1130
-Portsoy 1730
-Forres 9900
-Stromness 1730
-Saline 1100
-Aboyne 2650
-Newport-on-Tay 4203
+Buckhaven 4340
+Largs 11340
+Methil 11160
+Muthill 760
+Ardrossan 10930
+Cardross 2130
+Gourock 10570
 Stranraer 10510
-Isle of Cumbrae 1434
-Carradale 497
-Garelochhead 2110
-Rosehearty 1320
-Lochgilphead 2390
-Bruichladdich 50
-North Berwick 6650
+Strathaven 7480
 Ellon 10100
-Selkirk 5730
-Kintore 4680
-Stow 740
-Scalloway 1100
-Ardgay 496
-Stornoway 7500
-Kirkwall 7150
-Alness 5700
-Alyth 2410
+Stenhousemuir 10050
+Forres 9900
+Corrour 1
+Kilsyth 9860
+Nairn 9860
+Dalgety Bay 9810
 Larbert 9530
-Luncarty 1680
-Tayport 3920
-Whithorn 790
-Letham 1650
-Locharbriggs 5960
-Bracara 10
-Carfin 2510
+Prestonpans 9490
+Laurieston 2670
+Wallacestone 680
+Cupar 9270
+Coupar Angus 2350
+Bonhill 9180
+Haddington 9020
+Redding 2540
+Reddingmuirhead 1580
+Head of Muir 1710
+Leven 8960
 Queensferry 8960
-Torphins 1410
 Annan 8920
-Innerleithen 3040
-Auchenstroan Free Peoples' Republic 10
-Eastriggs 1850
-Strathpeffer 1070
-Peebles 8380
-Tweedbank 2100
-North Queensferry 1070
-Thornhill 1610
 Cumnock 8920
-Lauder 1610
+New Cumnock 2840
+Blairgowrie 8890
+Blairhall 950
+Danderhall 2770
+Callander 3120
+Lanark 8890
+Tullibody 8710
 Linwood 8590
+Kinnesswood 500
+Howwood 1580
+Lenzie 8580
+Hallglen 3200
+Glenboig 2780
+Glenluce 600
+Oban 8540
+Buckie 8430
+Portknockie 1270
+Peebles 8380
 Shotts 8235
 Monifieth 8210
-Peterculter 4560
-Fochabers 1690
-Ecclefechan 850
-Loans 730
-Innellan 980
-Ladybank 1530
-Ballachulish 650
-Liff 940
-Methven 1200
-Fenwick 1070
-Lockerbie 4290
-Kelso 5600
-Melrose 2340
-Macmerry 1350
-Cardrona Mains 810
-Dunoon 8160
-Dundonald 2670
-Cove 7060
-Stepps 6730
-Newarthill 6480
-Newmains 5710
-Strathkinness 610
-Port Bannatyne 1200
-Loanstone 50
-Dirleton 496
-Muirkirk 1540
-Kinlochleven 900
-Glenfarg 770
-Plean 1920
-Newtyle 730
-Doune 1760
-Newtonhill 3040
-Newton Stewart 4010
-Fort William 5830
+Letham 1650
+Portlethen 8200
+Portree 2410
+Denny 7860
+Forgandenny 590
+Cardenden 4913
+Thurso 7760
+Colinton 7637
+East Linton 1700
+Lossiemouth 7620
+Banchory 7520
+Brechin 7520
+Kilbirnie 7520
+Stornoway 7500
+Dornoch 1270
+Crieff 7430
+Isle of Bute 7228
+Kirkwall 7150
 Kirkhill 670
-Ballindalloch 1
-Culloden 4240
-Beauly 1360
-Fort Augustus 670
-Mauchline 4130
-Faichemard Farm 4
-Tarves 1000
-Johnshaven 670
-Inveraray 570
-Isle of Jura 188
-Isle of Coll 164
-Isle of North Uist 1271
-Isle of Gigha 110
-Isle of Iona 125
-Isle of South Uist 1818
-Muir of Ord 2620
-Isle of Rum 22
-Isle of Islay 3457
-Isle Of Mull 2667
-Isle of Canna 6
-Sandbank 1380
-Saint Cyrus 1060
-Cruden Bay 1670
-Cromarty 740
-Crimond 860
-Falkland 1110
-Findochty 1180
-Avoch 990
-New Pitsligo 1150
-Pitmedden 1420
-Oldmeldrum 3230
-Balmedie 2520
-Fyvie 499
+Cove 7060
+Lerwick 7040
+Duntocher 7036
+Newmacher 2510
+Alexandria 6940
+Moodiesburn 6900
+Stepps 6730
+New Stevenston 5450
+North Berwick 6650
+Kelty 6590
+Burrelton 690
+Lochgelly 6586
+Chapelhall 6560
+Currie 6500
+Houston 6420
+Crosshouse 2850
+Crosshill 500
+Burntisland 6370
+Loanhead 6350
+Beith 6170
+Kirriemuir 6160
+Balerno 6000
+Locharbriggs 5960
+Eastriggs 1850
+Fort William 5830
+Ballingry 5758
 Dyce 5730
-Friockheim 1010
-Milltimber 2660
-Mintlaw 2720
-Insch 2320
+Selkirk 5730
+Newmains 5710
+Cardrona Mains 810
+Alness 5700
+Stromness 1730
+Cockenzie 5660
+Kennoway 4600
 Uddingston 5610
-Chapelton 650
-Kirkton of Largo 496
-Milton 945
-Newcastleton 770
-Thankerton 510
-Symington 1050
-Longside 960
-Lochmaben 2100
-Dingwall 5520
-Bridge of Allan 5000
-Pencaitland 1480
-Greenlaw 640
-Langholm 2250
-Jedburgh 3980
-Campbeltown 4800
+Kelso 5600
+Dalry 5560
 Dalrymple 1510
+Drymen 830
+Dingwall 5520
+Polmont 5390
+Dechmont 690
+Tillicoultry 5160
+Holytown 5080
+Turriff 5060
+Isle of Arran 5058
+Isle of Islay 3457
+Isle of Iona 125
+Isle of Rum 22
+Isle Of Mull 2667
+Bridge of Allan 5000
+Old Kilpatrick 4850
+Scone 4840
+Campbeltown 4800
 West Kilbride 4760
+Maybole 4750
+Kingswells 4750
+Keith 4740
+Alva 4720
+Huntly 4720
+Brightons 4700
+Coalsnaughton 850
+Kintore 4680
+Balintore 1090
+Saline 1100
+Mauchline 4130
+Maud 870
+Auchterarder 4620
+Auchtermuchty 2120
+Peterculter 4560
+Cults 3500
+Rothesay 4540
+Lesmahagow 4380
+Lockerbie 4290
 Dalbeattie 4260
+Hatton 890
+Culloden 4240
+Cullen 1450
+Newport-on-Tay 4203
+Thornliebank 4190
+Invergordon 4130
 Castle Douglas 4070
+Douglas Water 100
+Douglas 1560
+Lennoxtown 4060
 Macduff 4030
-Halkirk 1020
-Sanquhar 1980
-Saint Boswells 1400
-Port Erroll 1620
-Strone 502
-West Linton 1530
-Ayton 560
-Townhill 1220
-Chirnside 1400
-Denholm 650
-Rigside 770
-Munerigie 10
+Banff 4020
+Sandbank 1380
+Almondbank 1420
+Jedburgh 3980
 Kilmacolm 3980
+Tayport 3920
+Darvel 3860
+Kemnay 3830
+Auchinleck 3760
+Auchinloch 750
+Cairnryan 3757
+Tain 3690
+Dreghorn 3640
+Kilbarchan 3580
+Clackmannan 3450
+Eyemouth 3430
+Anstruther 3420
+Kirkcudbright 3390
+Kirkconnel 2070
+Law 3250
+Oldmeldrum 3230
+Gauldry 660
+Caol 3220
+Drongan 3170
+Logan 1220
+Aviemore 3150
+Newtonmore 1100
+Eaglesham 3150
+Inverkip 3060
+Inveraray 570
 Gretna 3040
+Innerleithen 3040
+Newtonhill 3040
+Cleland 3000
+Newmilns 2980
+Laurencekirk 2920
+Chryston 2900
+Kinghorn 2870
+Pitlochry 2860
+Kincardine 2810
+Bridge of Earn 2790
+Menstrie 2770
+Dollar 2740
+Plains 2740
+Mintlaw 2720
+Dundonald 2670
+Bargeddie 2670
+Milltimber 2660
+Aboyne 2650
+Muir of Ord 2620
+Dunipace 2580
+Wemyss Bay 2580
+Gullane 2570
+Allanton 1266
 Moffat 2550
-Pathhead 960
-Helmsdale 637
-Torphichen 650
-Ormiston 2040
-Carmunnock 1250
-Dunbeath 276
-Inverbervie 2310
-Quarter 750
-Port William 466
-Wigtown 900
-Invergowrie 1770
-Creetown 650
-Inchture 1220
-Strichen 940
-Stromeferry 1
-Portpatrick 620
-Isle of Scalpay 322
-Crossgates 2530
-Newburgh 2060
-Saint Fergus 750
-Sandhaven 820
-Langbank 910
-Sandwick 1217
-Findhorn 880
-Portgordon 850
-Morningside 650
-Uplawmoor 560
+Liff 940
 Gifford 780
-Longforgan 1210
-Kinloss 1250
-Fortrose 1400
-Kingseat 770
-Springfield 960
-Coldstream 1870
-Eaglesfield 680
-Stuartfield 700
+Balmedie 2520
+Balmullo 1430
+Carfin 2510
+Winchburgh 2500
+Cairneyhill 2480
+Grantown on Spey 2440
+Longniddry 2430
+Longridge 860
+Markinch 2430
+Alyth 2410
+Lochgilphead 2390
+Garelochhead 2110
+Torrance 2370
+Crossford 2350
+Polbeth 2350
+Melrose 2340
+Biggar 2330
+Insch 2320
+Torphins 1410
+Inverbervie 2310
+Glenmavis 2290
+Oakley 2280
+Drumoak 860
+Langholm 2250
+Forth 2240
+Catrine 2210
+Leuchars 2200
+Freuchie 1240
+Patna 2190
+Portpatrick 620
+Strichen 940
+Torphichen 650
+Auchenblae 540
+Coylton 2180
+Aberfoyle 750
+Waterfoot 1260
+Gartcosh 2130
+Lundin Links 2124
+Overtown 2110
+Lochmaben 2100
+Tweedbank 2100
+Kirkfieldbank 940
+Mossblown 2090
+Smithton 2090
+Newburgh 2060
+Ormiston 2040
+Milton 945
+Sanquhar 1980
+East Wemyss 1970
+Lhanbryde 1970
+Stoneyburn 1970
+Aberfeldy 1960
+Aberdour 1650
+Plean 1920
+Inchinnan 1910
+Comrie 1900
+Tarbolton 1900
 Windygates 1890
+Gatehouse of Fleet 950
+Coldstream 1870
+Ochiltree 1080
 Rhu 1870
-Whitehills 1140
-Dailly 850
-Mallaig 780
+Balfron 1860
+Kinglassie 1820
+Isle of South Uist 1818
+Isle of North Uist 1271
+Earlston 1780
+Bilston 1210
+Invergowrie 1770
+Doune 1760
+Munerigie 10
+Milton of Leys 1740
+Portsoy 1730
+Ratho 1730
 Conon Bridge 1710
+Hopeman 1710
+Rosemarkie 660
+Fochabers 1690
+Luncarty 1680
+Crail 1670
+Whitecraig 1200
+Killearn 1670
+Cruden Bay 1670
 Dufftown 1660
+Stow 740
+Gardenstown 670
+Maidens 530
+Port Erroll 1620
+Port William 466
+Lauder 1610
+Thornhill 1610
+Ballater 1550
+Muirkirk 1540
+Halkirk 1020
+Ladybank 1530
+Langbank 910
+West Linton 1530
+Dennyloanhead 1530
+Ullapool 1510
+Pittenweem 1490
+Pencaitland 1480
+Addiebrownhill 1470
+Abernethy 1470
+Ashgill 1460
+Kingussie 1450
+Stanley 1450
+Pitmedden 1420
+Errol 1410
+Golspie 1410
+Chirnside 1400
+Hillside 1170
+Fortrose 1400
 Limekilns 1400
+Saint Boswells 1400
+Dalmellington 1390
+Croy 1390
+Evanton 1380
+Beauly 1360
+Auldearn 660
+Slamannan 1360
+Isle of Canna 6
+Macmerry 1350
+Bellsbank 1350
+Annbank 890
+Newtown St Boswells 1330
+Ardrishaig 1320
+Rosehearty 1320
+Boddam 1290
+Brora 1290
+Kilcreggan 1290
+Bankfoot 1270
+Rosneath 1260
+Springside 1260
+Carmunnock 1250
+Gargunnock 750
+Kinloss 1250
+Kinlochleven 900
 Rothes 1230
 Saint Monans 1230
-Isle of Colonsay 108
+Inchture 1220
+Townhill 1220
 Benbecula 1219
+Sandwick 1217
+Longforgan 1210
+Longside 960
+Morningside 650
+Rigside 770
+Coalburn 1200
+Methven 1200
+Port Bannatyne 1200
+Ratho Station 1190
+Carstairs Junction 780
+Findochty 1180
+Maryburgh 1180
 Aberlady 1180
-Hillside 1170
+Charlestown of Aberlour 1120
+Dunlop 1160
+Twechar 1160
+New Pitsligo 1150
+New Deer 660
+Westquarter 1150
+West Barns 680
+Whitehills 1140
+Whithorn 790
+Drumnadrochit 1130
+Tarbert 1130
+Falkland 1110
+Kippen 1110
+Scalloway 1100
 Barra 1078
+Carradale 497
+North Queensferry 1070
+Strathpeffer 1070
+Rothienorman 1060
+Saint Cyrus 1060
+Saint Combs 660
+Symington 1050
+Wigtown 900
+Creetown 650
 Lamlash 1030
+Friockheim 1010
+Kingskettle 1010
+Tobermory 1010
+Bowmore 760
+North Kessock 1000
+Tarves 1000
+Avoch 990
+Mosstodloch 990
+Innellan 980
+Pathhead 960
+Springfield 960
+Ceres 950
+Monkton 930
+Potterton 920
+Ferryden 905
 Edzell 900
+Strathmiglo 900
+Strathkinness 610
+Carstairs 890
+Findhorn 880
+Crimond 860
+Ecclefechan 850
+Dailly 850
+Portgordon 850
+Gourdon 750
+Castletown 840
+Brodick 830
+California 830
+Sandhaven 820
+Glenochil Village 820
 Symbister 797
-Gargunnock 750
-Garmouth 580
+Mallaig 780
+Glenfarg 770
+Kingseat 770
+Newcastleton 770
+Dirleton 496
+Blackford 760
+Netherburn 760
+Walkerburn 760
+Quarter 750
+Stuartfield 700
+Saint Fergus 750
+Quarrier's Village 750
+Cromarty 740
+Loans 730
+Loanstone 50
+Newtyle 730
 Brae 720
 Dullatur 720
 Killin 720
 Tarland 720
+Avonbridge 690
+Eaglesfield 680
+Fort Augustus 670
+Johnshaven 670
+Haggs 660
+Guardbridge 660
+Nethy Bridge 660
+Ballachulish 650
+Chapelton 650
+Denholm 650
 Kyle of Lochalsh 650
-Auchenblae 540
+Glassford 640
+Greenlaw 640
+Whiting Bay 640
+Helmsdale 637
+Crook of Devon 630
+Hillhead 630
+Dunbeg 610
+Cargenbridge 610
+Braidwood 600
+Wellbank 600
+Braco 590
+Garmouth 580
+Southerness 170
+Spean Bridge 570
+Town Yetholm 570
+Brookfield 570
+Ayton 560
+Uplawmoor 560
+Coldingham 550
+Lumphanan 550
 Cuminestown 540
+Elphinstone 540
+Buchlyvie 530
+Bowling 520
+Tighnabruaich 520
+Queenzieburn 520
+Boat of Garten 517
+Thankerton 510
+Murthly 510
+Strone 502
+Stromeferry 1
+Moniaive 500
+Fyvie 499
+Kirkton of Largo 496
+Ardgay 496
+Aird Tong 487
+Faichemard Farm 4
+Isle of Scalpay 322
+Dunbeath 276
+Isle of Jura 188
+Isle of Gigha 110
+Isle of Colonsay 108
+Isle of Eigg 67
+Bruichladdich 50
+Auchenstroan Free Peoples' Republic 10
+Uyeasound 10
+Bracara 10
+Faichem 10
+Bracorina 4
 Roybridge 1
+Ballindalloch 1
+Kyle 1

@@ -1,0 +1,438 @@
+
+
+Bari 277387
+
+Mola di Bari 24682
+Sannicandro di Bari 9261
+
+Taranto 181082
+
+Foggia 137032
+
+Andria 98342
+
+Barletta 93279
+
+Molfetta 59557
+Bitetto 11374
+
+Bitonto 51661
+Antonelli 699
+
+Lecce 80695
+Castri di Lecce 2899
+Monteroni di Lecce 13246
+San Donato di Lecce 4461
+San Donaci 6840
+
+Brindisi 78548
+Canisi 422
+
+Altamura 67821
+
+San Severo 54880
+
+Cerignola 54056
+
+Lucera 32222
+
+Trani 53981
+
+Bisceglie 53648
+
+Manfredonia 52911
+Ordona 2654
+
+Corato 46505
+Leporano 2598
+
+Gravina in Puglia 42210
+
+Canosa di Puglia 30046
+Orsara di Puglia 2522
+
+Ruvo di Puglia 23938
+
+Monopoli 37738
+Polignano a Mare 13356
+
+Martina Franca 37685
+
+Francavilla Fontana 33415
+Villanova 360
+Villa Castelli 6982
+Castellaneta 14333
+Castellana 14485
+Castellaneta Marina 814
+
+Modugno 36384
+
+Grottaglie 31320
+
+Massafra 30875
+Casamassima 18380
+
+San Paolo 29800
+
+Nardo 29668
+Poggiardo 5863
+
+Manduria 27411
+
+Triggiano 26811
+Triggianello 606
+Palagianello 7195
+Palagiano 15388
+Faggiano 3507
+
+Mesagne 26497
+
+San Giovanni Rotondo 26179
+
+Terlizzi 25811
+
+Santeramo in Colle 24922
+Palo del Colle 20692
+
+Gioia del Colle 24184
+
+Ostuni 24157
+
+Putignano 23661
+Rutigliano 17674
+
+Copertino 23489
+Matino 10966
+Galatina 19569
+Galatone 14153
+
+Conversano 22661
+
+Fasano 22593
+Noicattaro 21988
+Statte 13867
+Acquaviva delle Fonti 20536
+Casarano 19359
+Giovinazzo 19186
+Spinazzola 6613
+Gallipoli 19176
+Cavallino 7959
+Zollino 1945
+San Vito dei Normanni 17617
+Paolo VI 17330
+Torremaggiore 16955
+Castelluccio Valmaggiore 1284
+Castelluccio dei Sauri 1890
+Adelfia 16756
+Orta Nova 16677
+Ceglie Messapica 16536
+Veglie 13970
+Maglie 14397
+Ginosa 16151
+Marina di Ginosa 4989
+Valenzano 16101
+Sava 15898
+Savelletri 682
+Sannicandro Garganico 15815
+Rodi Garganico 3055
+Vico del Gargano 7284
+Noci 15383
+Oria 14715
+Giorgilorio 3360
+Latiano 14662
+San Giorgio Ionico 14617
+Squinzano 14482
+Lequile 8137
+Trepuzzi 14141
+Alezio 5397
+Racale 9542
+Carovigno 14043
+Carosino 6742
+Capurso 13958
+Capirro 1094
+Trinitapoli 13885
+Laterza 13879
+Roccaforzata 1746
+San Ferdinando di Puglia 13734
+Anzano di Puglia 1343
+Tricase 13702
+Acquarica 832
+Sanarica 1359
+San Pietro Vernotico 13667
+San Pietro in Lama 3600
+San Pietro Piturno 726
+Leverano 13643
+Vernole 2813
+San Marco in Lamis 13388
+Apricena 13195
+Serracapriola 3652
+Mottola 13146
+Toritto 8060
+Bitritto 10773
+Grumo Appula 12618
+Monte Sant'Angelo 12482
+Rocchetta Sant'Antonio 1870
+Crispiano 12429
+Cassano delle Murge 12321
+Minervino Murge 9242
+Turi 11813
+Taviano 11560
+Margherita di Savoia 11488
+Troia 6614
+Surbo 11363
+Vieste 11227
+Taurisano 10799
+Campi Salentina 10596
+Carpignano Salentino 2297
+Montesano Salentino 2492
+San Pancrazio Salentino 10184
+Salice Salentino 8499
+San Michele Salentino 5920
+Lizzano 10116
+Torre Santa Susanna 9814
+Aradeo 9570
+Carmiano 9472
+Alberobello 9391
+Montalbano 2686
+Monteparano 2263
+Martano 9320
+Pulsano 9197
+Ruffano 9091
+San Marzano di San Giuseppe 8916
+Cellino San Marco 6696
+Ugento 8875
+Parabita 8739
+Erchie 8468
+Cutrofiano 8056
+Novoli 7898
+Locorotondo 7471
+Cagnano Varano 7309
+Calimera 7207
+Merine 4785
+Melissano 7169
+Melpignano 2012
+San Cesario di Lecce 7036
+Avetrana 6797
+Sammichele di Bari 6578
+Carapelle 6524
+Scorrano 6476
+Corsano 5526
+Supersano 4158
+Melendugno 6415
+Collepasso 6178
+Collemeto 1919
+Lizzanello 6115
+Lesina 5954
+San Paolo di Civitate 5898
+Cisternino 5746
+Mattinata 5727
+Ascoli Satriano 5518
+Presicce 5482
+Depressa 1503
+Alessano 5078
+Monteiasi 5350
+Montemesola 4016
+Corigliano d'Otranto 5313
+Otranto 4914
+Cellamare 5209
+Neviano 5182
+Stornara 5144
+Stornarella 4992
+Torchiarolo 5136
+Torre Chianca 459
+Torre Bianca 351
+Torre Suda 710
+Torre San Sabina 365
+Torre San Giovanni 1259
+Tuglie 5100
+Soleto 5098
+Fragagnano 5098
+Borgagne 2073
+Gagliano del Capo 5042
+Acquarica del Capo 4813
+Castrignano del Capo 3350
+Castrignano De' Greci 4070
+Pezze di Greco 4917
+Sannicola 4895
+Leporano Marina 4887
+Marina Porto 279
+Muro Leccese 4883
+Guagnano 4881
+Maruggio 4756
+Alliste 4543
+Specchia 4348
+Specchia Gallone 478
+Loseto 4279
+Porto Cesareo 4258
+Cursi 4013
+Castromediano 3937
+Sogliano Cavour 3823
+Magliano 2407
+Carpino 3802
+Carlantino 1020
+Salve 3778
+Parco Scizzo-Parchitello 3705
+Deliceto 3660
+Miggiano 3595
+Ischitella 3531
+Torricella 3442
+Peschici 3396
+Noha 3396
+Andrano 3339
+Spongano 3335
+Bovino 3335
+Minervino di Lecce 2268
+Uggiano la Chiesa 3294
+Chiesanuova 735
+Zapponeta 3206
+Binetto 2080
+Tuturano 3045
+Tiggiano 2822
+Poggio Imperiale 2750
+Poggiorsini 1367
+Botrugno 2744
+Lamie di Olimpie-Selva 2679
+Lamie 1669
+Pietramontecorvino 2615
+Caprarica di Lecce 2572
+Arnesano 2552
+Nociglia 2456
+Biccari 2443
+Palombaio 2386
+San Menaio 248
+Sternatia 2308
+Morciano di Leuca 2304
+Accadia 2262
+Candela 2197
+San Cassiano 2053
+Rignano Garganico 1972
+Materdomini 1928
+Bagnolo del Salento 1879
+Giurdignano 1836
+Secli 1802
+Castro 1801
+Vignacastrisi 1350
+Pisignano 1047
+Marittima 1796
+Mariotto 1473
+Lucugnano 1773
+Galugnano 1060
+Sant'Agata di Puglia 1769
+Gemini 1708
+Martignano 1697
+Celenza Valfortore 1691
+Uggiano Montefusco 1667
+Volturino 1645
+Volturara Appula 421
+Cannole 1639
+Torre Canne 448
+Casalvecchio di Puglia 1625
+Struda 1610
+Surano 1582
+Cerfignano 1570
+Palmariggi 1554
+Chieuti 1504
+Patu 1473
+Felline 1466
+Cozzana 1435
+Monti d'Arena-Bosco Caggione 1415
+Sant'Antonio d'Ascula 768
+Castelnuovo della Daunia 1412
+Casalnuovo Monterotaro 1407
+Serrano 1334
+La Rosa 1313
+Montesardo 1309
+Leuca 1263
+Giuggianello 1249
+Castiglione 1228
+Roseto Valfortore 1145
+Diso 1143
+Vitigliano 1081
+San Marco la Catola 1077
+Casalini 1056
+Casamassella 1018
+Ortelle 1009
+Villa Baldassarri 953
+Riesci 952
+Cocumola 943
+Barbarano del Capo 915
+Monteleone di Puglia 903
+Madonna Pozzo Guacito 896
+Alberona 871
+Incoronata 477
+Panni 858
+Aria Sana 793
+Masseria Seminario 708
+Motta Montecorvino 768
+Superga 750
+San Pietro Specchiarica 744
+Alcanterini 734
+Coreggia 730
+Gorgofreddo 729
+Villa Convento 726
+Complesso Agave 719
+Santa Lucia 673
+Pantano 658
+Auricarro 652
+Lido Azzurro 638
+Faeto 636
+Impalata 631
+Marina di Mancaversa-Giannelli 595
+Parco Principi 589
+Parco Adria 229
+San Pietro 575
+Stazione di Fasano 569
+Betlemme 562
+Giuliano 537
+Speziale 535
+Borgo Celano 532
+Ruggiano 530
+Parco di Guerra 526
+Borgo Fra' Diavolo 526
+Frigole 499
+Borgo Incoronata-Lagogemolo 496
+Lamalunga 495
+Capilungo 344
+Monacizzo-Librari-Truglione 486
+Localita D32 435
+Mezzanone 433
+San Simone 410
+Acaja 405
+Foce Varano 384
+San Foca 354
+Contrada Guidano 379
+Caranna 376
+San Cataldo 365
+Capitolo 362
+Casalabate 361
+Torre Lapillo 360
+Torretta-Manfredonia 351
+Sciali di Lauro 330
+Santa Cesarea Terme 328
+Villaggio San Domino 322
+La Comune-Terrisi 318
+Terralta 220
+Quasano 305
+Monte Gallo-San Barbato 299
+San Matteo 298
+Pezze di Monsignore 296
+San Pasquale 280
+Chiesiola 275
+Calendano 272
+Centro Climatico San Paolo 264
+Masonghia 254
+Virbo 252
+Scalo dei Saraceni 248
+Vanze 245
+Carifano-Mastralessio 240
+Torre Rossa 235
+Scialara 228
+Defensola 226
+Mezzagrande 224
+Villaggio Adriatico 217
+San Vito 217
+Masseria Liuni 217
+Coppitella 214
+Contrada Sant'Elia 212
+San Salvatore 204
+Macchia al Monte 202

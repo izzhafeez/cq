@@ -1,0 +1,449 @@
+
+
+Fargo 125990
+Argusville 480
+
+Mayville 1854
+Fordville 207
+
+Bismarck 73622
+
+Grand Forks 59166
+Grandin 186
+
+Minot 48377
+
+Minot AFB 5017
+
+Grand Forks AFB 2002
+
+West Fargo 38626
+
+Williston 29160
+
+Lisbon 2204
+
+Dickinson 25679
+Hankinson 921
+Robinson 36
+
+Mandan 24206
+Landa 41
+
+Jamestown 15849
+
+New Town 2764
+
+Wahpeton 8007
+
+Devils Lake 7192
+
+Valley City 6575
+Pick City 123
+Tower City 268
+Willow City 149
+
+Watford City 6207
+
+Lincoln 4257
+Colfax 172
+Driscoll 68
+Gascoyne 21
+
+Grafton 4170
+Grano 9
+
+Horace 3085
+Medora 121
+
+Beulah 3058
+Hannah 8
+Hannaford 126
+Lansford 238
+
+Rugby 2509
+
+Casselton 2479
+Wilton 718
+
+Stanley 2321
+Stanton 368
+
+Hazen 2281
+Hazelton 223
+
+Tioga 2202
+
+Bottineau 2194
+
+Carrington 2080
+
+Langdon 1909
+
+Oakes 1798
+Drake 292
+
+Harvey 1650
+
+Hillsboro 1649
+Pillsbury 12
+Galesburg 118
+
+Belcourt 1510
+
+Bowman 1470
+Bowdon 137
+
+Garrison 1462
+
+Park River 1424
+Forest River 109
+Riverdale 223
+
+New Rockford 1361
+
+Surrey 1357
+
+Mapleton 1320
+Mooreton 177
+
+Washburn 1300
+Glenburn 404
+
+Burlington 1291
+Larimore 1260
+Edmore 139
+Wyndmere 454
+Cavalier 1246
+Rolla 1223
+Tolley 41
+Fort Totten 1160
+Mott 653
+Shell Valley 1146
+Ellendale 1125
+Cando 1117
+Thompson 1101
+Berthold 490
+Velva 1086
+Golva 84
+Hettinger 1074
+Linton 1071
+Crosby 1065
+Belfield 996
+Cooperstown 983
+Northwood 982
+Woodworth 44
+Harwood 794
+Underwood 784
+Lidgerwood 600
+Beach 981
+New Salem 973
+New Leipzig 218
+Kenmare 961
+Marmarth 101
+Martin 63
+Parshall 949
+Walhalla 893
+Killdeer 939
+Golden Valley 191
+Apple Valley 194
+Gwinner 924
+Wing 132
+Kindred 889
+Enderlin 881
+Berlin 31
+Wishek 864
+Sheldon 95
+Cannon Ball 864
+Canton City 31
+Hebron 794
+LaMoure 764
+Alamo 53
+Anamoose 230
+Drayton 757
+Scranton 258
+Napoleon 749
+Solen 70
+Rolette 484
+Butte 70
+Tuttle 60
+Ray 740
+Ayr 11
+Bucyrus 18
+Glen Ullin 732
+Hatton 712
+Hamilton 46
+Milton 39
+Reile's Acres 703
+Mohall 694
+Halliday 241
+Richardton 692
+Mandaree 691
+New England 683
+Lakota 683
+Rocklake 94
+Brocket 34
+Steele 665
+Dunseith 632
+East Dunseith 500
+East Fairview 73
+Milnor 624
+Minto 616
+Ashley 613
+Green Acres 605
+Center 588
+Dunn Center 227
+Edgeley 585
+Selfridge 127
+Portland 578
+Elgin 543
+Turtle Lake 542
+Pembina 512
+Forman 509
+Mantador 67
+Four Bears Village 500
+Trenton 488
+Regent 170
+Towner 479
+Fessenden 462
+Emerado 443
+Leeds 442
+Maddock 402
+Finley 401
+South Heart 394
+Souris 37
+Oriska 114
+McVille 392
+Powers Lake 385
+Des Lacs 185
+De Lamere 25
+Oxbow 381
+Bowbells 301
+Strasburg 379
+Petersburg 162
+Manvel 377
+Westhope 374
+Hope 272
+Hoople 247
+Kulm 368
+White Shield 363
+White Earth 100
+Buxton 348
+Flaxton 60
+Max 331
+Maxbass 89
+Neche 344
+Fairmount 343
+Hunter 332
+Mountain 80
+Arthur 328
+St. Thomas 323
+St. John 322
+McClusky 322
+Sawyer 319
+Dawson 74
+Alexander 319
+Arnegard 282
+Barney 40
+Gackle 281
+Blacktail 61
+Reynolds 277
+Gladstone 271
+Medina 264
+Michigan City 263
+Walcott 262
+Harmon 259
+Palermo 125
+Davenport 256
+Carson 254
+Leonard 248
+Gardena 24
+Logan 247
+Abercrombie 244
+Gilby 243
+Granville 240
+Aneta 234
+Pettibone 60
+Taylor 230
+Mylo 21
+Zap 221
+Grenora 221
+Tappen 217
+Flasher 217
+Plaza 211
+Dazey 78
+Minnewaukan 199
+Edinburg 199
+Porcupine 197
+Portal 125
+Frontier 195
+Montpelier 85
+Buffalo 195
+Sherwood 194
+Page 190
+Niagara 46
+Caledonia 37
+Munich 190
+Sheyenne 186
+Wimbledon 178
+Fredonia 38
+Amenia 85
+Fort Yates 176
+Binford 170
+Litchville 169
+Ruthville 151
+Rutland 163
+Sanborn 161
+Rhame 158
+Upham 135
+Christine 151
+Streeter 149
+Makoti 148
+Kensal 146
+Carpio 144
+Lignite 141
+Columbus 139
+Noonan 137
+Tolna 136
+Gardner 129
+Adams 127
+Reeder 125
+Marion 125
+Crystal 116
+Wildrose 115
+Ross 95
+Crary 113
+Bisbee 110
+Ypsilanti 109
+Ryder 108
+Goodrich 106
+Sykeston 105
+Osnabrock 105
+Long Creek 104
+Pingree 41
+Epping 84
+Fingal 92
+Lankin 102
+Oberon 101
+Sharon 86
+Starkweather 100
+Almont 100
+Spiritwood Lake 97
+Newburg 96
+Glenfield 94
+Deering 94
+Erie 54
+Douglas 93
+Wheatland 92
+Fort Ransom 91
+Esmond 91
+Monango 30
+Verona 59
+Pisek 89
+Pekin 75
+Dodge 89
+Mercer 88
+Karlsruhe 87
+Buchanan 87
+Zeeland 82
+Lehr 81
+Dwight 80
+Menoken 78
+Brooktree Park 76
+Springbrook 37
+Donnybrook 75
+Cogswell 73
+Hague 70
+Benedict 68
+Havana 67
+Kathryn 66
+Cathay 20
+Bathgate 47
+Balta 66
+Balfour 20
+Jud 65
+Ludden 15
+McHenry 64
+Hurdsfield 64
+Fullerton 62
+Sentinel Butte 61
+Coleharbor 59
+Cleveland 57
+Briarwood 57
+Prairie Rose 56
+Ambrose 24
+Foxholm 56
+Warwick 55
+North River 55
+Grace City 53
+Nome 51
+Rogers 49
+Great Bend 49
+McGregor 47
+Manning 47
+Voltaire 46
+Wolford 43
+Dickey 42
+Embden 41
+Alice 41
+Selz 40
+Cayuga 40
+Inkster 38
+Forbes 36
+Englevale 36
+Courtenay 36
+Regan 35
+Egeland 32
+Alsen 32
+Nekoma 31
+Auburn 31
+Ardoch 31
+Braddock 18
+Fortuna 30
+Fairdale 30
+Clifford 30
+Brinsmade 30
+Spiritwood 29
+Hampden 29
+Hamberg 11
+Luverne 28
+Leith 28
+Leal 27
+Kramer 24
+Elliott 24
+Amidon 24
+McLeod 22
+Knox 22
+Jessie 22
+Antler 22
+Bantry 6
+Venturia 21
+Sibley 19
+York 17
+Sutton 17
+Dahlen 17
+Sarles 16
+Heimdal 16
+Blanchard 16
+Lawton 15
+Heil 15
+Haynes 15
+Hansboro 15
+Conway 15
+Calvin 15
+Raleigh 14
+Nash 13
+Denhoff 13
+Barton 13
+Wales 10
+Overly 10
+Loma 10
+Bergen 10
+Loraine 9
+Larson 9
+Churchs Ferry 9
+Kief 8
+Calio 8
+Orrin 7
+Perth 6
+Ruso 1

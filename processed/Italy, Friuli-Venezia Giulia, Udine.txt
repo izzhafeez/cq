@@ -1,0 +1,510 @@
+
+
+Trieste 187056
+
+Udine 97761
+
+Pordenone 49878
+
+Prata di Pordenone 4608
+
+Pasian di Prato 5447
+
+Gorizia 34646
+
+Casarsa della Delizia 8320
+
+Reana del Roiale 4336
+
+Cividale del Friuli 9290
+
+San Daniele del Friuli 6700
+Mariano del Friuli 1264
+Pozzuolo del Friuli 1684
+
+Cervignano del Friuli 12275
+
+Monfalcone 26706
+Montereale Valcellina 3541
+San Valentino 3277
+
+Sacile 16626
+Aquileia 2939
+
+Cordenons 15962
+
+Cormons 5795
+
+Porcia 12987
+
+Codroipo 12811
+Moimacco 1292
+
+Pagnacco 4537
+
+Martignacco 5050
+
+Tavagnacco 11638
+
+San Vito al Tagliamento 12599
+
+Azzano Decimo 12320
+Bevazzana 1164
+
+Caneva 6224
+
+Ronchi dei Legionari 11902
+Ronchis 1643
+
+Gemona 11141
+Gonars 3938
+
+Muggia 10929
+
+Maniago 10395
+
+Spilimbergo 9422
+Bertiolo 1996
+Castions 3782
+Castions di Strada 3647
+
+Fiume Veneto 9313
+
+Latisana 8896
+San Giovanni al Natisone 4067
+San Giovanni 1356
+
+San Giorgio di Nogaro 6219
+
+Vigonovo-Fontanafredda 8283
+Rivignano 3541
+
+Tolmezzo 8078
+
+Villa Opicina 8009
+Villa Santina 2145
+Villanova 1005
+Palmanova 2515
+
+Talmassons 4076
+Passons 2649
+
+Staranzano 6803
+
+Manzano 5168
+
+Grado 6767
+
+Tarcento 6485
+Orcenico Inferiore 2062
+
+Gradisca d'Isonzo 6431
+Farra d'Isonzo 1360
+
+Buia 6327
+Budoia 2449
+
+Lignano Sabbiadoro 5837
+
+Majano 5690
+
+Tricesimo 5590
+
+Brugnera 5585
+
+Aviano-Castello 5465
+Zugliano-Terenzano-Cargnacco 3687
+
+Roveredo in Piano 5323
+Magnano in Riviera 1768
+
+Fagagna 4942
+Buttrio 3947
+Basaldella 3923
+Mortegliano 3487
+Sedegliano 1169
+Remanzacco 3399
+Premariacco 1743
+Pieris 3140
+Pradamano 3115
+Amaro 836
+Romans d'Isonzo 3109
+Corno di Rosazzo 3005
+Sistiana-Visogliano 2996
+Fogliano 1715
+Cassacco 2819
+Turriaco 2749
+Terzo d'Aquileia 2679
+Cordovado 2607
+Artegna 2588
+Palazzolo dello Stella 2544
+Tarvisio 2509
+Osoppo 2493
+Pasiano 2490
+Campoformido 2391
+Muzzana del Turgnano 2382
+Orgnano 456
+Corgnolo 249
+Colugna 2346
+Zoppola 2241
+Rauscedo-Domanins 2240
+Ramuscello 1384
+Nimis 2213
+Aurisina 2202
+San Quirino 2199
+Aiello del Friuli 2199
+Puia-Villanova 2167
+Basiliano-Vissandone 2096
+Prosecco-Contovello 1994
+Povoletto 1969
+Porpetto 1550
+Marano Lagunare 1934
+San Giacomo 1921
+Pertegada 1899
+Dolina 1892
+Torviscosa 1886
+Bagnarola 1875
+Domio 1860
+Tomba 439
+Romans 524
+Fusine in Valromana 402
+Fusea 233
+Coseano 771
+Valvasone 1802
+Tamai 1783
+Vajont 1715
+Montina 217
+San Canzian d'Isonzo 1679
+San Pier d'Isonzo 1552
+Chions 1679
+Chiopris 385
+Privano 490
+Rivarotta 528
+Villotta 1397
+Villesse 1659
+Blessano 751
+Capriva del Friuli 1679
+Mossa 1659
+San Lorenzo Isontino 1546
+Percoto 1542
+Barco 760
+Villa D'Arco 779
+Paularo 1504
+Fanna 1500
+Aquilinia-Stramare 1483
+Aquilinia 292
+Ceolini 507
+Morsano 1478
+Torsa 880
+Torreano 939
+Beano 380
+Barbeano 574
+Arba 1041
+Polcenigo 1474
+Fagnigola 693
+Pocenia 1451
+Santa Croce 1248
+Santa Maria la Longa 1229
+Santa Maria 994
+San Pietro al Natisone 1445
+Arta Terme 1408
+Ruda 1399
+Duino 1369
+Carlino 1339
+San Martino del Carso 258
+San Marco 454
+Sevegliano 1336
+Begliano 1019
+Venzone 1334
+San Lorenzo 572
+Morena 207
+Cavolano-Schiavoi 1322
+Teor 1314
+Sagrado 1300
+Cavasso Nuovo 1295
+Avasinis 313
+Faedis 1290
+Marsure 1282
+Pravisdomini 1280
+Villa Vicentina 1270
+San Martino al Tagliamento 1263
+Arzene 1263
+Carpeneto 552
+Colloredo di Prato 1249
+Colloredo di Monte Albano-Lauzzana 710
+Lauzacco 1122
+Rodeano 1241
+Medea 921
+Paluzza 1241
+Palse 707
+Bressa 1239
+Ialmicco 1194
+Precenicco 1190
+Cecchini 1175
+Meduno 1162
+Moggio di Sotto 1142
+Moggio di Sopra 328
+Treppo Grande 1129
+Sutrio 1126
+Pontebba 1109
+San Vito al Torre 1083
+Lestans 1075
+Pavia di Udine 1037
+Trivignano Udinese 944
+Orsaria 1034
+Variano 902
+Sesto al Reghena 1021
+Attimis 1019
+Timau 346
+Sottoselva 1008
+Forni di Sotto 602
+Tramonti di Sopra 239
+Enemonzo-Quinis 1000
+Ravinis 207
+Raveo 386
+Aurava 322
+Ravascletto 361
+Savorgnano 996
+Borgnano 473
+Rivolto-Lonca 977
+Forni Avoltri 441
+Musil 971
+Gorgo 968
+Solimbergo 216
+Castions delle Mura 968
+Casale della Madonna 671
+Forni di Sopra 966
+San Vito di Fagagna 959
+Carpacco 958
+Nogaredo di Prato 952
+Ghirano 939
+Trasaghis 469
+Istrago 480
+Strassoldo 707
+Isola 203
+Lavariano 922
+Giais 918
+Campagna 917
+San Martino Di Campagna 608
+Flaibano 905
+Flambruzzo 275
+Papariano 892
+Doberdo del Lago 890
+Savorgnano del Torre 887
+Lestizza 882
+Travesio 875
+Moruzzo 864
+Biauzzo 728
+Sequals 859
+Qualso 652
+Nespoledo-Villacaccia 858
+Ovaro 840
+Vivaro 634
+Cinque Strade-Cimpello 838
+Alesso 826
+Sales 309
+Nave 818
+Villaverde 293
+Ampezzo 813
+Sammardenchia 811
+Camporosso in Valcanale 799
+Lumignacco 796
+Bicinicco 796
+Bottenicco 326
+Sclaunicco 548
+Pantianicco 545
+Savogna d'Isonzo 793
+Madrisio 788
+Padriciano 780
+Claut 787
+Dignano 780
+Marignana 411
+Forgaria nel Friuli 776
+Visco 767
+Gradisca 727
+Pradielis 231
+Moraro 765
+Brazzacco 762
+Campolongo al Torre-Cavenzano 758
+San Giorgio della Richinvelda 742
+San Giuseppe della Chiusa 405
+Chiusaforte 246
+San Leonardo 737
+Redipuglia 736
+Frattina 736
+Pozzo 735
+Pozzecco 526
+San Giovanni di Livenza 732
+Camino al Tagliamento 730
+Cral Tamai 301
+Pinzano al Tagliamento 430
+Grado-Pineta 715
+Cisterna 713
+Ciseriis 232
+Bueriis 546
+Ariis 318
+Perteole 711
+Erto 328
+Varmo 709
+Muris 707
+Cavazzo Carnico 706
+Campeglio 682
+Risano 671
+Gris 364
+Basovizza 659
+Ugovizza 315
+Visinale 656
+Cerneglons 647
+Villaorba 646
+Poggio Terzarmata 645
+Terzo 304
+Sanguarzo 311
+Mereto di Tomba 642
+Mereto di Capitolo 412
+Rive d'Arcano 638
+Cercivento 637
+Valeriano 619
+Brazzano 616
+Azzanello 259
+Lazzacco 295
+Polazzo 587
+Silvella 605
+Casette 603
+Ziracco 602
+Bordano 602
+Ravosa-Magredis 598
+Galleriano 598
+Caporiacco 592
+Plasencis 586
+Chiasellis 484
+Zellina 312
+Orzano 585
+Repen 581
+Gleris 579
+Medeuzza 567
+Primulacco 559
+Fraelacco 261
+Trebiciano 558
+Treppo Carnico 555
+Pieria-Prato Carnico 335
+Dolegnano 552
+Mels 545
+Grions 540
+Grignano 474
+Sedrano 531
+San Foca 530
+San Paolo 319
+San Pietro 345
+Provesano 523
+Caresana 311
+Casanova 523
+Ipplis 521
+Malisana 432
+Salino 318
+Usago 517
+Vendoglio-Carvacco 509
+Togliano 331
+Tapogliano 438
+Felettis 507
+Caneva di Tolmezzo 504
+Casabianca 493
+Cornino 490
+Clauiano 457
+Lauco 290
+Zuglio 455
+Tissano 453
+Basagliapenta 453
+Coderno 450
+Ontagnano 446
+Tesis 444
+Resiutta 233
+Sant'Antonio in Bosco 433
+Dierico 433
+Prato 423
+Toppo 422
+Vacile 419
+San Cassiano di Livenza 409
+Ara Grande 409
+Ara Piccola 216
+Cleulis 396
+Chiaulis 202
+Vidulis 376
+San Vidotto 245
+Carnia 390
+Roveredo 388
+Versa 361
+Racchiuso 385
+Flagogna 384
+Merso di Sopra 380
+Castello 378
+Cave del Predil 376
+Rigolato 372
+Lovaria 355
+Oleis 354
+Illegio 353
+Colle 223
+Collalto 350
+Collerumiz 316
+Cosa 352
+Osais-Pesariis 249
+Liariis 213
+Cimolais 351
+Cassegliano-Basegliano 345
+Imponzo 338
+Turrida 337
+Saciletto 333
+Marsure di Sotto-Nuova 331
+Casut 331
+Marina Julia 325
+Dobbia 325
+Canussio 321
+Socchieve 320
+Peonis 312
+Corona 310
+Villaggio del Pescatore 304
+Manzinello 304
+Taiedo 303
+Taipana 238
+Oseacco 299
+San Floriano del Collio 297
+Pozzalis 296
+Gropada 290
+Braulins 286
+Sedilis 282
+Longera 280
+Leonacco 278
+Saletto-Bando 277
+Mussons 274
+Barazzetto 274
+San Pelagio 266
+Rivoli 266
+Rivis 238
+Preone 266
+Viscone 222
+Gabrovizza 266
+Borgonuovo 265
+Sant'Odorico 260
+Loneriacco 256
+Chiaicis 256
+San Michele del Carso 254
+Purgessimo 252
+Nogaredo al Torre 250
+Monteaperta 247
+Malborghetto 245
+Firmano 244
+Prestento 243
+Cadunea 241
+Zampariul 238
+Selvis 238
+Cabia 238
+Paludea 226
+Campolonghetto 224
+Malchina 223
+Cuccana 223
+Jamiano 222
+Frisanco 222
+Nogaredo di Corno 220
+Borgo Grotta Gigante 218
+Felettano 213
+Sornico Superiore 202
+Andreis 201

@@ -1,0 +1,493 @@
+
+
+Brisbane 2054614
+
+Gold Coast 600335
+
+Sunshine Coast 346522
+
+Townsville 168729
+Rossville 204
+Collinsville 1248
+
+Ipswich 163000
+
+Warwick 12222
+
+Cairns 144730
+Airlie Beach 1208
+Turkey Beach 183
+
+Toowoomba 100032
+
+Jimboomba 13201
+Thulimbah 319
+
+Mackay 75710
+
+Rockhampton 61214
+
+Hervey Bay 52073
+
+Bundaberg 50148
+Mundubbera 1261
+Mungar 309
+Garradunga 142
+
+Caloundra 41293
+
+Gladstone 33418
+Proston 379
+Rolleston 309
+
+Southport 31908
+South Johnstone 413
+
+Caboolture 26433
+Cabarlah 1075
+
+Narangba 18573
+
+Nerang 16864
+Peranga 85
+Yangan 386
+
+Mount Isa 18342
+Mount Coolon 64
+Mount Chalmers 235
+
+Maryborough 15406
+Landsborough 3812
+Marlborough 149
+
+Emerald 14356
+Memerambi 272
+
+Dalby 12719
+Kalbar 1093
+
+Gracemere 11315
+
+Nambour 11187
+Cherbourg 1269
+
+Mareeba 11079
+Clare 196
+Baree 164
+
+Bargara 7485
+Baralaba 314
+
+Gympie 10803
+
+Bowen 10377
+McEwens Beach 202
+
+Kingaroy 10020
+Cooroy 3791
+Wooroolin 315
+Boonooroo 322
+
+Ayr 8738
+
+Moranbah 8735
+Taranganba 2276
+
+Bli Bli 7801
+Blackbutt 836
+
+Atherton 7331
+Augathella 449
+
+Gatton 7101
+Hatton Vale 1521
+Emu Vale 185
+
+Roma 6848
+Taroom 869
+Tara 2297
+
+Beerwah 6769
+Toogoolawah 1279
+Marcoola 3173
+Cooran 1624
+Tingoora 273
+
+Chinchilla 6612
+Childers 1584
+
+Beaudesert 6395
+Beachmere 4112
+Peregian Beach 3791
+
+Goondiwindi 6355
+
+Yeppoon 6334
+Keppel Sands 360
+
+Tannum Sands 5145
+Wandoan 566
+Jandowae 1047
+
+Biloela 5758
+
+Sarina 5522
+
+Stanthorpe 5406
+
+Calliope 5101
+Callide 86
+Glass House Mountains 5065
+Bucasia 4771
+Boyne Island 4760
+Blackwater 4749
+Agnes Water 2210
+Innes Park 2302
+Emu Park 2130
+Oakey 4705
+Ingham 4426
+Dingo 340
+Thangool 741
+Nanango 3599
+Lowood 4159
+Rosewood 2834
+Rosevale 208
+Roadvale 286
+Westbrook 3885
+Donnybrook 617
+Springbrook 659
+Laidley 3808
+Plainland 1596
+Cecil Plains 429
+Maleny 3734
+Proserpine 3562
+Ambrose 218
+Amby 86
+Woombye 3246
+Port Douglas 3504
+Walkerston 3403
+Bakers Creek 1161
+Mena Creek 244
+Charleville 3335
+Pittsworth 3294
+Fernvale 3209
+St George 3048
+East Greenmount 361
+Clermont 3031
+Monto 1189
+Kuranda 3008
+Malanda 1985
+Longreach 2970
+Wonglepong 341
+Home Hill 2954
+Nome 1016
+Cloncurry 2719
+Tolga 2718
+Burnett Heads 2656
+Elliott Heads 1040
+Cooktown 2631
+Boonah 2484
+Cambooya 1584
+Tully 2390
+Hull Heads 113
+Tully Heads 354
+Murgon 2378
+Marburg 873
+Tin Can Bay 2242
+Cowan Cowan 28
+Lammermoor 2167
+Marmor 212
+Carmila 333
+Gowrie Junction 2120
+Freshwater 2023
+Gayndah 1981
+Kandanga 665
+Wondai 1973
+Condamine 384
+Minden 1204
+Thargomindah 270
+Mount Morgan 1963
+Mount Martin 186
+Mossman 1937
+Eromanga 119
+Curra 1920
+Kilcoy 1898
+Withcott 1844
+Wyreema 1834
+Moura 1786
+Mourilyan 571
+Bedourie 122
+Miles 1746
+Drayton 1710
+Esk 1698
+Walloon 1588
+Allora 1223
+Millmerran 1563
+Millaroo 96
+Clifton 1456
+Rollingstone 125
+Stonehenge 44
+Barcaldine 1422
+Blackall 1416
+Doomadgee 1405
+Ravenshoe 1400
+Howard 1359
+Wowan 216
+Hay Point 1348
+Hideaway Bay-Dingo Beach 373
+Etty Bay 397
+Cooee Bay 913
+Ball Bay 360
+Bingil Bay 427
+Cardwell 1309
+Aurukun 1269
+Normanton 1257
+Babinda 1253
+Yungaburra 1239
+Canungra 1229
+Benaraby 1219
+Coominya 1200
+Woodgate 1165
+Bamaga 1164
+Aramac 299
+Innisfail 1145
+Cunnamulla 1140
+Mount Mulligan 4
+Mount Molloy 254
+Hughenden 1136
+Almaden 71
+Eudlo 1117
+Springsure 1103
+Mount Surprise 169
+Brandon 1094
+Bouldercombe 1085
+Abercorn 46
+Yarraman 1064
+Helidon 1059
+Chatsworth 1055
+Watsonville 191
+Dimbulah 1050
+Mitchell 1031
+Bell 502
+Hope Vale 1015
+Capella 1010
+Wonga 975
+Forest Hill 968
+St Helens Beach 197
+Ellis Beach 24
+Woorabinda 962
+Taabinga 549
+Inglewood 954
+Killarney 954
+Kowanyama 944
+South Mission Beach 932
+Mission Beach 815
+Toorbul 930
+Bullyard 189
+Imbil 924
+Winton 875
+Dunwich 864
+Richmond 648
+Jericho 115
+Conondale 858
+Jondaryan 385
+Meandarra 262
+Dajarra 191
+Herberton 855
+Biggenden 845
+Goovigen 215
+Texas 843
+Cawarral 831
+Torbanlea 791
+Kin Kin 764
+Kilkivan 713
+Beerburrum 763
+Karumba 531
+Tiaro 758
+Nebo 753
+The Caves 718
+The Leap 642
+Point Lookout 713
+Steiglitz 705
+Grandchester 444
+Greenmount 699
+Glenmorgan 148
+Calen 390
+Goomeri 664
+Dirranbandi 640
+Apple Tree Creek 639
+Amamoor 636
+Grantham 634
+Murphys Creek 629
+Swan Creek 139
+Mungindi 601
+Gin Gin 109
+Quilpie 595
+Horseshoe Bay 578
+Purga 576
+Eidsvold 574
+Nobby 563
+Injinoo 561
+Kenilworth 558
+Mount Perry 538
+Aratula 532
+Aramara 57
+Millaa Millaa 514
+Applethorpe 511
+Thornborough 9
+Bororen 398
+Yalboroo 170
+Julia Creek 511
+Finch Hatton 499
+Mutchilba 495
+Chillagoe 251
+Geham 489
+Meringandan 487
+Traveston 480
+Leyburn 476
+Walkamin 474
+Amity 387
+Wallangarra 468
+Halifax 462
+Tarzali 398
+Injune 461
+Yengarie 460
+Bajool 455
+Mirriwinni 447
+Tirroan 165
+Cordalba 445
+Dalbeg 76
+Kairi 442
+Prairie 143
+Abergowrie 438
+Theodore 438
+Windorah 115
+Lamb Island 432
+Prenzlau 427
+Clarendon 244
+Flying Fish Point 425
+El Arish 344
+Wallaville 410
+Linville 156
+Surat 407
+Lucinda 406
+Trebonne 397
+Gunalda 392
+Silkwood 391
+Wallumbilla 388
+New Mapoon 383
+Bluff 373
+Tambo 367
+Coen 364
+Yelarbon 364
+Hampton 356
+Banana 356
+Giru 354
+Georgetown 348
+Burketown 238
+Ballandean 338
+Alpha 335
+Thallon 257
+Rathdowney 308
+Pentland 306
+Maryvale 303
+Byfield 301
+Boulia 301
+Lakeland 299
+Kumbia 294
+Kaimkillenbun 293
+Alva 279
+Duaringa 278
+Homebush 271
+Mapoon 266
+Gargett 261
+Goomburra 259
+Scottville 259
+Ilfracombe 259
+Cracow 89
+Croydon 258
+Ravenswood 255
+Aubigny 254
+Bowenville 250
+Woolooga 247
+Warrill View 240
+Woodstock 239
+Greenvale 232
+Laura 228
+Mundoo 224
+Bollon 221
+Isisford 218
+Camooweal 208
+Yuleba 207
+Bloomfield 204
+Karragarra Island 204
+Morven 199
+Maidenwell 199
+Haden 195
+Toobeah 191
+Dulacca 191
+Moonie 189
+Corfield 183
+Gumlu 181
+McKinlay 178
+Westwood 174
+Mulgildie 174
+Bramston Beach 174
+Quinalow 173
+Harlin 173
+Brigalow 170
+Hivesville 169
+Bromelton 155
+Dagun 150
+Gundiah 123
+Ma Ma Creek 149
+Raglan 146
+Inkerman 145
+White Patch 142
+Yowah 141
+Birdsville 140
+Mungallala 136
+Mount Walker 134
+Daintree 129
+Forsayth 129
+Foxdale 127
+Dululu 126
+Drillham 126
+Irvinebank 125
+Theebine 104
+Mount Carbine 101
+Karara 123
+Cape Tribulation 118
+Mutarnee 116
+Muttaburra 88
+Jundah 106
+Pechey 105
+Brooweena 104
+Wyandra 99
+Pindi Pindi 98
+Eulo 95
+Adavale 93
+Einasleigh 92
+Joskeleigh 70
+Jimna 91
+Cowley Beach 78
+Hillview 74
+Gregory 72
+Torrens Creek 70
+Hebel 67
+Turallin 65
+Benarkin 61
+Muckadilla 58
+Jackson 57
+Kynuna 55
+Selwyn 50
+Bauhinia 47
+Yandilla 46
+Kooringal 45
+Stamford 43
+Hungerford 23
+Byrnestown 34
+Acland 32
+Ceratodus 28
+Duchess 23
+Maxwelton 22

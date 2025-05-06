@@ -1,0 +1,487 @@
+
+
+Charleston 48864
+
+South Charleston 13647
+
+Huntington 46842
+
+Morgantown 30347
+
+Parkersburg 29738
+
+Clarksburg 16061
+Petersburg 2284
+
+Wheeling 27052
+Belington 1805
+Washington 1151
+
+Weirton 19163
+
+Weston 3952
+
+Westover 3955
+
+Martinsburg 18777
+Wellsburg 2450
+Rowlesburg 438
+
+Fairmont 18416
+
+Beckley 17286
+
+Teays Valley 14350
+
+St. Albans 10861
+Ansted 1303
+Institute 569
+Justice 313
+
+Vienna 10652
+Elkview 1116
+Fairview 373
+
+Cheat Lake 9930
+
+Cross Lanes 9727
+
+Bluefield 9658
+Bluewell 2162
+
+Bridgeport 9336
+
+Oak Hill 8179
+Oakvale 133
+Matoaka 173
+Matheny 446
+Athens 962
+Smithers 754
+
+Moundsville 8093
+Reynoldsville 339
+Cassville 1268
+Cass 38
+Gassaway 759
+
+Dunbar 7480
+Verdunville 491
+Danville 672
+
+Hurricane 6961
+
+Elkins 6934
+Kincaid 191
+Cairo 176
+
+Nitro 6624
+
+Pea Ridge 6602
+
+Charles Town 6534
+
+Princeton 5872
+
+Brookhaven 5707
+
+Ranson 5433
+Parsons 1327
+Henderson 228
+
+New Martinsville 5204
+
+Buckhannon 5186
+Itmann 259
+
+Keyser 4864
+Enterprise 805
+
+Grafton 4722
+
+Barboursville 4456
+
+Sissonville 4084
+
+Point Pleasant 4070
+
+Lewisburg 3922
+
+Ravenswood 3865
+
+Upper Falls 3701
+Kopperston 569
+
+Welch 3590
+Bramwell 276
+
+Pleasant Valley 3498
+East View 817
+East Dailey 469
+
+Shannondale 3487
+Carpendale 860
+Glen Dale 1496
+Glenville 1129
+
+Summersville 3431
+Inwood 3426
+Benwood 1252
+Stonewood 1798
+Shady Spring 3169
+Green Spring 250
+Falling Spring 170
+Blennerhassett 3118
+Nettie 483
+Robinette 567
+Williamson 3083
+Ripley 3079
+Kenova 3033
+Culloden 3016
+Mallory 1552
+Williamstown 2997
+Hometown 556
+Kingwood 2980
+Philippi 2929
+Pinch 2914
+Madison 2913
+Fayetteville 2887
+Pineville 645
+Piney View 902
+Falls View 193
+Follansbee 2848
+Milton 2811
+Hilltop 528
+Bethlehem 2605
+Salem 1529
+Hooverson Heights 2582
+Windsor Heights 361
+Paden City 2541
+Star City 1779
+Moorefield 2524
+Crab Orchard 2416
+Winfield 2393
+Shinnston 2328
+Hinton 2245
+White Sulphur Springs 2221
+Webster Springs 731
+Chester 2208
+Lester 338
+Craigsville 2173
+Rainelle 1190
+Belle 1169
+Spencer 2063
+Mannington 1952
+Bradley 1928
+Handley 223
+Rand 1543
+St. Marys 1831
+Mineralwells 1805
+Romney 1724
+Fairlea 1720
+McMechen 1697
+Coal City 1689
+Dupont City 602
+Raymond City 367
+Hartford City 503
+Richwood 1660
+Daniels 1654
+Harrisville 1631
+Rivesville 828
+Whitesville 361
+White Hall 700
+Alum Creek 1595
+Big Creek 195
+Ronceverte 1572
+Eleanor 1542
+Helen 137
+Chelyan 681
+Shepherdstown 1531
+Marmet 1504
+Nutter Fort 1493
+Mullens 1480
+New Haven 1476
+West Liberty 1454
+Oceana 1449
+Stanaford 1215
+Wayne 1443
+Falling Waters 1440
+Logan 1439
+Mount Gay-Shamrock 1430
+Mount Hope 1125
+Mount Carbon 341
+Terra Alta 1415
+Barrackville 1201
+Sistersville 1412
+Ceredo 1408
+MacArthur 1376
+Granville 1355
+Grantsville 494
+Grant Town 685
+Prosperity 1345
+Mabscott 1341
+Chesapeake 1335
+Lesage 1290
+Page 152
+Boaz 1321
+Lubeck 1309
+Lumberport 717
+Sprague 1289
+Fort Ashby 1289
+Comfort 320
+Northfork 231
+Norton 336
+Montgomery 1275
+Boomer 599
+Buffalo 1211
+Newell 1203
+Arthurdale 1143
+Gilbert Creek 1136
+Gilbert 333
+Sophia 1130
+Beaver 1129
+Waverly 369
+Tornado 1081
+Brush Fork 1065
+Pennsboro 1054
+Ellenboro 221
+Hamlin 1039
+Coal Fork 1039
+Bolivar 1036
+Arbovale 134
+New Cumberland 1020
+Chapmanville 1020
+Marlinton 998
+Alderson 975
+Monongah 965
+Belmont 875
+Lavalette 932
+Wiley Ford 906
+Rupert 877
+Poca 874
+Capon Bridge 420
+Gauley Bridge 553
+Ridgeley 591
+Mason 866
+Sutton 863
+Huttonsville 163
+Cameron 861
+Whitmer 94
+Glen White 245
+Glen Fork 457
+Sand Fork 180
+Beards Fork 127
+Clendenin 854
+Minden 250
+North Hills 834
+East Bank 822
+Frank 79
+Despard 794
+Holden 783
+Hollygrove 113
+Valley Grove 275
+Apple Grove 187
+Pine Grove 363
+Bethany 781
+Gary 773
+Garten 204
+Man 772
+Pullman 135
+Berkeley Springs 753
+Gallipolis Ferry 735
+Elizabeth 724
+Piedmont 718
+Cedar Grove 718
+Middlebourne 717
+Glasgow 703
+Clay 396
+Fort Gay 675
+Triadelphia 669
+Reader 278
+West Union 653
+Chattaroy 641
+Prichard 461
+Shenandoah Junction 635
+Big Chimney 629
+War 623
+Beverly 622
+West Dunbar 617
+West Logan 399
+Thomas 611
+Masontown 510
+Davis 600
+Accoville 599
+Switzer 593
+Kermit 317
+Ghent 582
+Brenton 194
+Pentress 135
+Montcalm 575
+Harts 573
+Mill Creek 560
+Beech Bottom 553
+Idamay 542
+Reedsville 530
+Greenville 243
+Jefferson 527
+Red Jacket 525
+Crooked Creek 273
+Lost Creek 359
+West Hamlin 524
+Bolt 518
+Shrewsbury 517
+Anmoore 513
+Rossmore 241
+Newark 496
+Franklin 495
+Powellton 493
+Cowen 487
+Colcord 148
+Colliers 166
+Pratt 483
+Bruno 483
+Crum 136
+Middleway 482
+Clearview 472
+Valley Bend 470
+Scarbro 461
+Springfield 455
+West Milford 449
+Peterstown 448
+Malden 444
+Kanawha 430
+Delbarton 422
+Bartley 146
+Kistler 420
+Union 419
+Omar 416
+McConnell 412
+Matewan 412
+Paw Paw 410
+Anawalt 165
+Lashmeet 409
+Jane Lew 408
+Burnsville 394
+Auburn 79
+Farmington 392
+Gatewood 390
+Carolina 390
+Hepzibah 387
+Bancroft 387
+Junior 384
+Justice Addition 331
+Salt Rock 373
+Hinkleville 366
+Raysal 364
+Henlawson 353
+Amherstdale 350
+Bud 347
+Booth 342
+Eccles 334
+Greenview 333
+Meadow Bridge 324
+Rock Cave 319
+Corinne 318
+Great Cacapon 315
+Mitchell Heights 314
+Raleigh 245
+Stollings 310
+Flemington 309
+Burlington 131
+Earling 76
+Charlton Heights 307
+Monaville 302
+Hedgesville 300
+Tunnelton 296
+Clifton 277
+Wardensville 269
+Harpers Ferry 269
+Racine 267
+Flatwoods 264
+Newburg 259
+Iaeger 257
+Adrian 183
+Hundred 255
+Albright 249
+Spelter 244
+Hico 239
+Chauncey 234
+Hillsboro 232
+Durbin 231
+Hendricks 228
+Hansford 227
+Dixie 227
+Rachel 224
+Quinwood 222
+Hambleton 218
+Wolf Summit 214
+Kimberly 213
+Elk Garden 212
+Davy 209
+Dailey 106
+Valley Head 207
+Sarah Ann 207
+Dorothy 207
+Bradshaw 207
+Neibert 205
+Wallace 201
+Galloway 127
+Bayard 201
+Cunard 98
+Cucumber 74
+Aurora 200
+Big Sandy 198
+Gypsy 197
+New Richmond 193
+Womelsdorf (Coalton) 189
+Berwind 188
+Peach Creek 185
+Deep Water 183
+Worthington 179
+Brandywine 178
+Van 177
+Keystone 176
+Pageton 174
+Glen Ferris 174
+Sylvester 171
+Baxter 162
+Crumpler 151
+Reedy 150
+Montrose 145
+Kimball 145
+Rhodell 141
+Roderfield 62
+Green Bank 141
+Leon 137
+Pax 136
+Parcoal 130
+Eskdale 130
+Brandonville 129
+Camden-on-Gauley 126
+Blacksville 118
+Jacksonburg 114
+Prince 115
+Cottageville 114
+Century 111
+Maybeury 109
+Smithfield 103
+Littleton 103
+Friendly 101
+Harman 95
+Glen Jean 90
+Birch River 86
+Vivian 85
+Covel 85
+Osage 82
+Tioga 79
+Belva 78
+Twilight 74
+St. George 74
+Fenwick 69
+Huntersville 68
+Bergoo 64
+Bartow 64
+Bruceton Mills 63
+Pickens 41
+Helvetia 38
+Thurmond 5
+Bowden 0

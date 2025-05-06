@@ -1,0 +1,651 @@
+
+
+Omaha 486051
+
+Wahoo 4818
+
+Lincoln 291082
+Lindy 13
+
+Bellevue 64176
+
+Grand Island 53131
+
+Kearney 33790
+Arnold 592
+
+Fremont 27141
+
+Hastings 25152
+
+Norfolk 24955
+Nora 21
+
+Papillion 24159
+
+Columbus 24028
+Trumbull 194
+
+North Platte 23390
+
+La Vista 16746
+
+Scottsbluff 14436
+
+South Sioux City 14043
+
+Beatrice 12261
+
+Chalco 11064
+
+Lexington 10348
+Bennington 2026
+
+Gering 8564
+Pilger 240
+
+Alliance 8151
+
+York 8066
+
+Blair 7790
+
+Fairbury 3970
+Fairmont 592
+
+Seward 7643
+
+McCook 7446
+
+Nebraska City 7222
+Mason City 151
+
+Crete 7099
+Loretto 50
+
+Schuyler 6547
+Miller 129
+Milligan 244
+
+Plattsmouth 6544
+
+Ralston 6494
+Preston 19
+
+Sidney 6410
+
+Wayne 5973
+Lynch 194
+Lyons 824
+Tryon 107
+
+Holdrege 5515
+
+Offutt AFB 5363
+
+Chadron 5206
+
+Gretna 5083
+
+Ogallala 4878
+
+Aurora 4678
+
+Auburn 3470
+Burton 11
+Burr 52
+
+Waverly 4279
+Overland 202
+
+Falls City 4133
+
+Cozad 3988
+
+O'Neill 3581
+Diller 247
+
+Broken Bow 3506
+Holbrook 201
+Cook 319
+
+West Point 3500
+
+Gothenburg 3478
+Martinsburg 78
+Martin 76
+
+Minden 3118
+
+Ashland 3086
+
+Central City 3039
+
+Valley 3037
+
+David City 2995
+Howard City 181
+Loup City 1053
+Steele City 44
+Pawnee City 865
+
+Valentine 2633
+Inavale 66
+Bow Valley 95
+
+Hickman 2607
+
+St. Paul 2416
+Woodland Park 1830
+
+Kimball 2290
+
+Madison 2283
+Edison 111
+
+Milford 2155
+Fordyce 134
+Oxford 718
+
+Geneva 2136
+Genoa 894
+Sargent 500
+
+Ord 2113
+
+Dakota City 2081
+Imperial 2068
+Elyria 50
+Syracuse 1941
+Cushing 37
+Bushnell 115
+Wilber 1937
+Wilcox 330
+Gibbon 1878
+Pierce 1845
+Orchard 363
+Superior 1825
+Tekamah 1714
+Albion 1699
+Union 195
+Juniata 748
+Tecumseh 1694
+Ainsworth 1616
+Mitchell 1548
+Chester 224
+Westerville 31
+Stockville 25
+Raeville 18
+Hordville 131
+Neligh 1536
+Wakefield 1522
+Stanton 1520
+Stapleton 267
+Pleasanton 361
+Pleasant Dale 218
+Oakdale 276
+Hartington 1517
+Arlington 1300
+Gordon 1504
+Springfield 1501
+Hebron 1458
+Bridgeport 1454
+Sutton 1447
+Butte 286
+Ravenna 1441
+Kennard 381
+Wymore 1377
+Raymond 159
+Murray 480
+Oakland 1369
+Upland 125
+Yutan 1347
+Louisville 1319
+Sutherland 1313
+Atkinson 1306
+Ruskin 105
+Plainview 1282
+North Bend 1279
+Fullerton 1244
+Mullen 500
+Allen 355
+Wisner 1239
+Grant 1197
+Battle Creek 1194
+Elm Creek 979
+Wood River 1172
+Riverdale 247
+Creighton 1147
+Dwight 229
+Stromsburg 1143
+Bayard 1140
+Harvard 951
+Pender 1115
+Enders 37
+Fort Calhoun 1108
+Burwell 1087
+Howells 561
+Lewellen 175
+Bennet 1082
+Henderson 1080
+Cambridge 1071
+Eagle 1065
+Glenwood 503
+Terrytown 1057
+Macy 1045
+Max 50
+Alma 1043
+Talmage 198
+Shelton 1034
+Dalton 284
+Weeping Water 1029
+Arapahoe 1002
+Tilden 992
+Bloomfield 986
+Laurel 972
+Red Cloud 962
+Friend 954
+Franklin 941
+Yankee Hill 286
+Woodland Hills 232
+Waterloo 935
+Clearwater 320
+Morrill 934
+Harrison 239
+Kenesaw 919
+Ceresco 919
+Winnebago 916
+Dannebrog 273
+Ponca 907
+Randolph 879
+Osceola 875
+Roscoe 44
+Humphrey 857
+Humboldt 800
+Hooper 857
+Chappell 844
+Scribner 843
+Goehner 181
+Sumner 252
+Utica 840
+Emerson 840
+Beemer 611
+Crawford 840
+Cairo 822
+Benkelman 821
+Rushville 816
+Oshkosh 809
+Doniphan 809
+Curtis 806
+Blue Hill 805
+Osmond 794
+Monroe 296
+Hemingford 787
+Crofton 756
+Grafton 106
+Belgrade 103
+Belden 113
+Denton 189
+Deshler 752
+Odessa 132
+Clay Center 735
+Platte Center 333
+Axtell 732
+Maxwell 257
+St. Edward 725
+Elgin 717
+Minatare 715
+Shelby 710
+Bertrand 709
+Shubert 163
+Walthill 682
+Newman Grove 667
+Gross 3
+Elwood 658
+Elmwood 654
+Hershey 649
+Firth 649
+North Loup 254
+Peru 648
+Naper 89
+Naponee 83
+Alda 647
+Clarkson 641
+Jackson 207
+Nelson 456
+Mead 617
+Cedar Bluffs 615
+Cedar Creek 465
+Dodge 611
+Coleridge 537
+Dorchester 610
+Overton 607
+Adams 604
+Hay Springs 599
+Valparaiso 595
+Craig 202
+Haigler 145
+Greenwood 595
+Linwood 94
+Wausa 592
+Callaway 563
+Hallam 268
+Verdigre 554
+Verdon 164
+Wauneta 549
+Melbeta 108
+Melia 98
+Bassett 538
+Beaver City 537
+Palmyra 534
+Culbertson 534
+Homer 532
+De Witt 530
+Guide Rock 199
+Rockville 89
+Brock 123
+Indianola 524
+Exeter 523
+Trenton 516
+Swanton 82
+Wann 102
+Paxton 516
+Weston 250
+Creston 181
+Cortland 504
+Atlanta 106
+Bancroft 496
+Stuart 486
+Sterling 480
+Ansley 459
+Jansen 101
+Malcolm 457
+Malmo 94
+Anselmo 108
+McCool Junction 453
+Palmer 439
+Leigh 435
+Hampton 432
+Edgar 428
+Gandy 34
+Ragan 22
+Santee 424
+Decatur 410
+Boys Town 410
+Johnstown 47
+Johnson 309
+Spencer 408
+Spalding 408
+Bellwood 407
+Maywood 262
+Giltner 406
+Greeley Center 402
+Big Springs 394
+Duncan 392
+Loomis 391
+Eustis 389
+Lewiston 55
+Brady 383
+Bradshaw 273
+Cedar Rapids 382
+Inglewood 380
+Winside 379
+Lakeview 378
+Springview 238
+Hildreth 377
+Beaver Crossing 375
+Prosser 76
+Ewing 373
+Niobrara 365
+Plymouth 364
+Lyman 259
+Rising City 356
+Walton 351
+Wallace 318
+Shickley 347
+Polk 346
+Clarks 344
+Clatonia 263
+Merna 343
+Potter 342
+Orleans 341
+Brainard 336
+Petersburg 332
+Brule 331
+Fairfield 330
+Silver Creek 320
+Phillips 320
+Davenport 319
+Newport 68
+Agnew 30
+Newcastle 272
+Huntley 33
+Nickerson 312
+Lodgepole 312
+Stratton 310
+Long Pine 305
+King Lake 114
+Scotia 301
+Waco 296
+Unadilla 296
+Palisade 294
+Prague 291
+Gurley 187
+Chambers 288
+Meadow Grove 287
+Lindsay 283
+Arcadia 283
+Archer 68
+Burchard 76
+Hardy 97
+Blue Springs 282
+Bruning 281
+Hadar 280
+Lawrence 272
+Campbell 272
+Champion 115
+Murdock 270
+Bartley 270
+Bartlett 109
+Roseland 263
+Hoskins 263
+Odell 260
+Verdel 38
+Glenvil 260
+Chapman 260
+Snyder 254
+Herman 247
+Madrid 242
+Uehling 241
+St. Libory 241
+St. Helena 89
+Staplehurst 236
+Marquette 236
+Panama 235
+Table Rock 233
+Western 227
+Wolbach 224
+Linoma Beach 43
+Hayes Center 224
+Center 79
+Litchfield 220
+Smithfield 60
+Gresham 219
+Wynot 216
+Reynolds 57
+Sunol 57
+Bruno 95
+Garland 210
+Thedford 208
+Bladen 205
+Benedict 203
+Roca 201
+Amherst 201
+Thurston 116
+Belmar 199
+Ashton 198
+Ulysses 196
+Elba 192
+Holstein 191
+Carroll 191
+Dix 187
+Pickrell 186
+Farnam 182
+Avoca 178
+Funk 175
+Nehawka 173
+Bee 171
+Cody 168
+Manley 167
+Cornlea 33
+Page 166
+Douglas 166
+Hyannis 165
+Dunbar 165
+Cheney 164
+Otoe 161
+Ithaca 160
+Rosalie 159
+Salem 83
+Stamford 158
+Venango 157
+Hubbard 153
+Barada 21
+Daykin 153
+Brunswick 152
+Dawson 148
+Alexandria 148
+Stella 145
+Rulo 145
+Taylor 141
+Lorenzo 36
+Brownville 139
+Oconto 138
+Farwell 138
+Sprague 136
+Davey 135
+Republican City 134
+Aten 134
+Waterbury 72
+Washington 129
+Arthur 128
+Concord 126
+Martell 125
+Henry 125
+Filley 124
+Du Bois 122
+Ohiowa 120
+Morse Bluff 117
+Alvo 115
+Tobias 114
+Nemaha 114
+Endicott 113
+Bloomington 110
+Memphis 109
+Leshara 108
+Octavia 107
+Colon 107
+Elsie 102
+Harrisburg 99
+Garrison 55
+Inman 95
+Broadwater 95
+South Bend 92
+Cordova 92
+Carleton 92
+Barneston 90
+Ericson 89
+Richland 70
+Eddyville 88
+Merriman 87
+Byron 83
+Ayr 83
+Rogers 82
+Heartwell 81
+Dunning 80
+Danbury 80
+Dixon 77
+Wilsonville 75
+Venice 75
+McGrew 75
+Berwyn 75
+Virginia 74
+Keystone 73
+Wellfleet 72
+Crookston 71
+Bristow 70
+Elk Creek 69
+Lisco 68
+Halsey 68
+Comstock 68
+Fontanelle 67
+Abie 65
+Kilgore 63
+Hubbell 63
+Whitney 62
+Holmesville 60
+Steinauer 59
+Royal 58
+Maskell 58
+Inland 58
+Riverton 57
+Hazard 57
+Harbine 56
+Primrose 55
+Beacon View 55
+Winnetoon 54
+Oak 54
+Tarnov 52
+Princeton 51
+Belvidere 51
+Berea 49
+La Platte 50
+Seneca 49
+Ong 49
+Wood Lake 46
+Lebanon 46
+Anoka 10
+Julian 46
+Emmet 46
+Emerald 45
+Crab Orchard 46
+Thayer 44
+Tamora 44
+Lemoyne 44
+Magnet 43
+Richfield 42
+Foster 42
+Brewster 12
+Deweese 42
+Prairie Home 38
+Clinton 38
+Surprise 37
+Liberty 37
+Obert 22
+Saronville 35
+Lorton 35
+McLean 33
+Gilead 30
+Stockham 32
+Norman 32
+Sarben 31
+Strang 30
+Cotesfield 29
+Lushton 28
+Lamar 28
+Moorefield 27
+Hamlet 27
+Kramer 26
+Bazile Mills 26
+Willow Island 25
+Poole 22
+Cowles 21
+Hendley 20
+Winslow 19
+Nenzel 17
+Sholes 16
+Ames 14
+Brownlee 13
+Parks 12
+White Clay 8
+Monowi 2

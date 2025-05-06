@@ -1,0 +1,916 @@
+
+
+Roma 2318895
+
+Fiano Romano 11417
+Bassano Romano 3728
+
+Acilia-Castel Fusano-Ostia Antica 129362
+Castel Sant'Elia 2077
+
+Lido di Ostia 79400
+Lido dei Pini 3094
+
+Latina 76305
+
+Latina Scalo 6883
+
+Velletri 48443
+
+Civitavecchia 47543
+
+Cecchina 9141
+
+Viterbo 47134
+Carbognano 1932
+Onano 864
+Trevignano Romano 3515
+
+Anzio 45403
+San Martino-Sant'Anzino 934
+
+Nettuno 44756
+
+Frosinone 44502
+
+Cassino 21074
+Bassiano 922
+
+Aprilia 41094
+
+Rieti 39068
+
+Marino 38013
+
+Monterotondo 37225
+
+Valmontone 13001
+Tre Pontoni 777
+
+Ciampino 35174
+Supino 4482
+Arpino 1535
+
+Fiumicino-Isola Sacra 34556
+Sacrofano 2871
+
+Ladispoli 34204
+Poli 1987
+
+Terracina 30980
+
+Formia 28521
+La Forma 1515
+Norma 3473
+Borgo Hermada 3037
+
+Cisterna di Latina 27362
+
+Albano Laziale 26684
+
+Villalba 8831
+
+Villanova 15117
+
+Fondi 26634
+
+Sora 23758
+
+Pomezia 22347
+Manziana 6125
+
+Tivoli 22018
+
+Bagni di Tivoli 9418
+
+Anagni 9206
+Segni 6713
+Bellegra 1929
+
+Guidonia 20943
+
+Tor Lupara 20843
+Morlupo 6424
+
+Colleferro 20736
+Corcolle 5788
+Cori 6376
+Moricone 2383
+
+Genzano di Roma 20582
+
+Campagnano di Roma 7179
+
+Marina di Ardea-Tor San Lorenzo 20216
+Mantiglia di Ardea 1130
+
+Ardea 17078
+
+Frascati 20036
+
+Gaeta 19936
+Farneta 843
+Farneto 620
+Carnello 718
+
+Grottaferrata 18144
+
+Ariccia 17487
+
+Torvaianica 17235
+Torvaianica Alta 2694
+
+Mentana 17043
+
+Minturno 16236
+Spigno Saturnia Inferiore 954
+Collefontana-Fontana Liri Inferiore 2532
+Atina Inferiore 1426
+Atina 883
+
+Sezze 16071
+Sezze Scalo 2865
+
+Cerveteri 15883
+
+Marina di Cerveteri 7720
+
+Rocca di Papa 15036
+
+Rocca Priora 9034
+
+Palestrina 14925
+
+Ceccano 14805
+Roccasecca Stazione 3029
+Roccasecca dei Volsci 740
+
+Anguillara Sabazia 14121
+Palombara Sabina 6044
+
+Santa Marinella 14034
+
+Lariano 12893
+
+Riano 6784
+
+Ferentino 12539
+Pontinia 6407
+Vitinia 5799
+
+Bracciano 12459
+
+Villa Adriana 12008
+
+Tarquinia 11949
+Lido di Tarquinia 627
+
+Civita Castellana 11745
+
+Zagarolo 11509
+
+Vetralla 11231
+
+La Massimina-Casal Lumbroso 11112
+
+Isola del Liri 10805
+Castelliri 2300
+
+Artena 10805
+
+Montefiascone 10637
+Monteflavio 1374
+Montelarco 1303
+
+Marco Simone 6839
+
+San Cesareo 10529
+Cesano 6549
+
+Alatri 10308
+Montecompatri 5820
+Montecelio 3165
+
+Priverno 10005
+Veroli 2419
+
+Fiuggi 9325
+Sant'Elia Fiumerapido 4218
+
+Sabaudia 8743
+
+Itri 8360
+Penitro 2132
+Anitrella-Chiaiamari 2108
+
+Cave 8210
+
+Pontecorvo 7994
+
+Tuscania 7226
+Villa San Giovanni in Tuscia 1251
+
+Ronciglione 7211
+Contigliano 2230
+
+Santa Lucia 7053
+
+Rignano Flaminio 6824
+
+Monte Porzio Catone 6821
+Monte Caminetto 1451
+Case Campoli-Panetta 1622
+Campoleone 1273
+Campo di Carne 3792
+
+Selcetta 6772
+Armetta 1166
+Formello 5143
+
+Fregene 6727
+Regolelli 1279
+San Felice Circeo 6497
+Arce 2154
+Marcellina 6406
+Lanuvio 6467
+Nepi 6186
+Ara Nova 6158
+Castel Madama 6037
+Castel Chiodato 1654
+Subiaco 6025
+Paliano 5748
+Ceprano 5740
+Olevano Romano 5614
+Soriano nel Cimino 5553
+Gallicano nel Lazio 3776
+Trevi nel Lazio 851
+Capena 5542
+Capranica 5271
+Fabrica di Roma 5108
+Tecchiena 5044
+Canino 4891
+Setteville 4851
+Montevirginio 865
+Colle Verde 4777
+Pavona 4766
+Montalto di Castro 4623
+Genazzano 4599
+Mazzano Romano 2493
+Carpineto Romano 4483
+Tolfa 4421
+Valle Martella 4410
+Labico 4408
+Vignanello 4326
+Vasanello 3881
+Genio Civile 4299
+Bivio di Capanelle 1767
+Ponte Galeria-La Pisana 4292
+Faleria 1607
+Npp 23 Parco Leonardo 4196
+Colleverde II 4175
+Castelverde 348
+Passo Oscuro 4173
+Passo Corese 3573
+Sutri 4162
+Acquapendente 4158
+Acquaviva 758
+Cervaro 4148
+Caprarola 4083
+Capranica-Scalo 314
+Scalo 621
+Laghetto 4035
+Le Rughe 2879
+Grunuovo-Campomaggiore San Luca 3912
+Orte 3865
+Orte Scalo 3251
+Montelibretti 3824
+Valcanneto 3764
+Castelnuovo di Porto 3760
+Aquino 3735
+Fossignano 3718
+Castel Gandolfo 3694
+Colonna 3620
+Vicovaro 3617
+Allumiere 3603
+Cellere 1186
+Campo Limpido-Favale 3528
+Monte San Biagio 3481
+Monte Santa Maria 314
+Bolsena 3468
+Pastena 445
+Fastello 255
+Piglio 3399
+Sonnino 3350
+Tonnicoda 426
+Madonnina 301
+Poggio Mirteto 3343
+Poggio Moiano 2279
+San Vito Romano 3337
+Marta 3253
+Piana del Sole 3183
+San Bartolomeo 3153
+Focene 3143
+Capocroce 307
+Oriolo Romano 3108
+Montorio Romano 2035
+Sperlonga 3008
+De Gasperi-Panaccio 244
+Maccareccia-Spinaceta 203
+Macere 1619
+Canepina 2916
+Corchiano 2861
+Lenola 2855
+Collenocello 776
+Sant'Oreste 2830
+Maranola-Trivio 2823
+Reali-Bosco d'Olmi-Trivio 326
+Santa Rufina 2813
+Valentano 2809
+Valle Santa 1763
+Vallerano 2530
+Grotte Santo Stefano 2802
+Grotte di Castro 2560
+Arlena di Castro 856
+Ischia di Castro 2217
+Castelforte 2676
+Albuccione 2661
+Monterosi 2554
+Blera 2549
+Faleri 658
+Giulianello 2519
+Fosso di San Giuliano 973
+Antrodoco 2517
+Centro Tre Denari 973
+Piedimonte San Germano 2513
+Piedimonte San Germano Alta 1705
+Roccagorga 2477
+Monte Migliore-La Selvotta 2416
+Cittaducale 2411
+Carchitti 2255
+Vallecorsa 2353
+San Martino al Cimino 2340
+Bagnoregio 2326
+Castagnola 224
+Carrara-Pontenuovo 2235
+Borgo San Michele 2149
+Canale Monterano 2080
+Magliano Sabina 2075
+San Giorgio a Liri 2069
+Cogna 2068
+Sant'Angelo in Villa-Giglio 2063
+Sant'Angelo 203
+Castel Sant'Angelo 480
+Borgo Sabotino-Foce Verde 2045
+Borgo Lotti 1039
+Borgo Carso 937
+Castiglione in Teverina 1995
+Scalo Teverina 558
+Vitorchiano 1982
+Monte Romano 1965
+Colle Campano-Scrima 1958
+San Polo dei Cavalieri 1953
+Bivio San Polo 1183
+Borgo San Pietro 635
+Borgo Santa Maria 640
+Santa Maria 209
+Santa Maria Infante 580
+Colli di Enea 1952
+Sant'Angelo Romano 1931
+San Lorenzo Nuovo 1921
+Vejano 1856
+Ponza 1831
+Piansano 1775
+Madonna del Piano 720
+Ripi 1769
+Sipicciano 667
+Colle di Fuori 1740
+Ponton dell'Elce 1736
+Pontoni 290
+Montelanico 1715
+San Nicola 340
+Marina San Nicola 1673
+Corvaro 1715
+Zepponami 1707
+San Giuseppe le Prata-Cotropagno 1655
+Colle San Magno 513
+Monte San Marino 1254
+Maenza 1627
+Residenza Aurelia 290
+Licenza 935
+Acuto 1624
+Borgo Podgora 1623
+Borgo Flora 539
+Borgo Montello 894
+Girardi-Bellavista-Terrazze 1616
+Amaseno 1616
+Tragliatella Campitello 1608
+Bomarzo 1595
+Caira 1586
+Torre Caietani 923
+Farnese 1572
+Colle Farnese 603
+Bella Farnia 1002
+La Botte 1550
+Forano 1544
+Campoleone di Lanuvio 1544
+Gallese 1542
+Broccostella 1507
+Prato di Coppola 1501
+Arsoli 1497
+Casalazzara 1496
+Sgurgola 1485
+Roccasecca 1479
+Costaroni 1439
+Capodimonte 1399
+Campodimele 338
+Campodivivo 291
+Magliano Romano 1398
+Scandriglia 1373
+Stimigliano Scalo 473
+Castelmassimo 1373
+Roviano 1370
+San Silviano 334
+Fumone 1342
+Affile 1325
+San Giovanni Incarico 1321
+Monte San Giovanni Campano 696
+Gradoli 1305
+Coreno Ausonio 1289
+Pisoniano 772
+Cantalupo in Sabina 1284
+Montopoli in Sabina 1216
+Le Forna 1268
+Forno Casale 702
+San Donato Val di Comino 1256
+Aurelia 1248
+Colle Mainello 1228
+Marinello 282
+Civitella San Paolo 1214
+Osteria Nuova 1210
+Riserva Nuova 267
+Colubro 1196
+Lubriano 511
+Campo Jemini 1173
+Campolano 315
+Campoli Appennino 961
+Colle Cappellino 228
+Collina 222
+Castagnetta 1172
+Cerreto Laziale 1163
+Guarcino 1157
+Nemi 1156
+Nazzano 1156
+Cartiera-Stazione 1145
+Stazione d'Aquino 293
+Cretone 1120
+Canneto 568
+Leonessa 1118
+Ciciliano 1117
+Stimigliano 1114
+Maccarese 1112
+San Gregorio da Sassola 1108
+Arcinazzo Romano 1105
+Altipiani di Arcinazzo 1002
+Camilleri-Vallelata 1101
+Vallelata Nord 286
+Santa Severa Nord 538
+Borgo Grappa 1097
+Molella 1090
+Collelavena 706
+Colli 639
+San Giovanni-Patoni 1086
+Cerquotti-Madonna del Piano 1082
+Madonna di Paris 230
+Sassacci 1073
+Sasso 233
+Sermoneta 1066
+Celleta 213
+Poggio Ellera 1064
+Agosta 1054
+Gerano 1049
+Amatrice 1046
+Torrice 888
+Bassano in Teverina 1025
+Arci-Empolitana 1024
+Colle del Pino 1018
+Colle del Fagiano 695
+Colle Spina 1016
+Pescia Romana 1013
+Strada Romana Dritta 275
+Case Cibba-Sciascia-Crocifisso-Tondarella-Virano 998
+Crocefisso 885
+Pallone 995
+Villa Santa Lucia 994
+Forme di Suio-San Cataldo 988
+Alvito 988
+Casalvieri 386
+Stazione di Pavona-Palazzo Margana 984
+Sant'Apollinare 984
+Palidoro 980
+Santa Severa 970
+Colle Monfortani 952
+Cancelliera-Massimetta-Pantanelle 947
+Pantanelle 448
+Piani Poggio Fidoni 946
+Ponzano Romano 942
+Borgo Quinzio 940
+Borgo Velino 867
+Borgo Vodice 569
+San Vittore del Lazio 939
+Graffignano 939
+Arillette 937
+Tufo 932
+Tufano 689
+Paparano 932
+Celleno 932
+Ausonia 932
+Andreuzza 925
+Boville Ernica 918
+San Donato 916
+Sambuci 916
+Sambuco 349
+Fossamare 274
+Pastenelle-Pacitti-Sprumaro 912
+Villa Latina 909
+Nerola 906
+Esperia 903
+Giuliano di Roma 900
+Rocca Santo Stefano 889
+Villa Santo Stefano 451
+Spadellata 888
+Monticchio 888
+Anticoli Corrado 886
+Pofi 879
+Toffia 724
+Castrocielo 873
+Poggio Bustone 847
+Poggio Corese 493
+Casavitola 842
+Casali 787
+Gavignano Sabino 840
+Gavignano 815
+Intignano 791
+Posta Fibreno 828
+Talocci 827
+Borgorose 824
+Gorga 472
+Gorgoglicino 280
+La Fiora 818
+Poggio Mirteto Scalo 817
+Vico nel Lazio 809
+Fontana Scurano 809
+Campoverde 809
+Latera 806
+Chiesuola 802
+Brecciaro 796
+Colli di Cicerone 793
+Poggio Nativo 792
+Poggio Catino 637
+Marano Equo 785
+Pichini 784
+Tofe 781
+Fresine 769
+Via Latina IVKm 755
+Santi Cosma e Damiano 753
+Pantano Cosa 511
+Nascosa 340
+Pescosolido 652
+Pescorocchiano 599
+Antica Colle Piscioso 743
+Pisciarelli 255
+Pescarella 306
+Ciccarelli 227
+Sedici Pini-La Macchiozza 738
+Macchia Grande 327
+Borgo Bainsizza 738
+Riofreddo 730
+Leofreni 431
+Torano 729
+Monteleone Sabino 729
+Limiti di Greccio 726
+Pian di Gerri 312
+Cerri Aprano 512
+Roiate 724
+Casape 719
+Pico 704
+Piedicolle 448
+Colle San Pietro 385
+Castel San Pietro Romano 411
+Spregamore 699
+Cappella Morrone 682
+Morroni 207
+Cruci 679
+Fucigno 289
+Corese Terra 676
+Colle Tenne 273
+Valvori 667
+Selvotta 305
+Selvacava 335
+Rotabile 659
+Serrone 658
+Borgo Faiti 657
+Madonna delle Grazie Iacp 653
+Mole Bisleti 652
+Cineto Romano 636
+Mandela 635
+Sant'Andrea del Garigliano 516
+Sant'Ambrogio sul Garigliano 622
+Sant'Anna 229
+Morolo 634
+Collevecchio 632
+Belvedere Lidia 632
+Vigna di Valle 630
+La Valle 307
+Caronti 629
+Monticelli 503
+Barbarano Romano 628
+Pignataro Interamna 626
+Selci 623
+Valle Bernardo 620
+Arnara 326
+Colle Diana 618
+Casperia 613
+Castelnuovo di Farfa 612
+Calcata Nuova 611
+Camerata Nuova 405
+Grotti 610
+Basciano 599
+Landi-Pedica 587
+Civitella d'Agliano 582
+Prato del Mare 581
+Ferruti 577
+Ceriara 576
+Prossedi 571
+Maccarese-Stazione 570
+Castel di Leva 570
+Bellavista 566
+Santa Croce 562
+Costa Croce 325
+Strangolagalli 561
+Lungolago 212
+La Lucca 561
+Porrino 559
+Torrita Tiberina 558
+Casette 550
+La Vittoria 548
+Molara 545
+Collepardo 544
+Coldragone 544
+Ventosa 540
+Vicalvi 539
+Vicero 377
+Quattro Strade 533
+Stragonello 342
+Borbona 533
+Ventotene 530
+Torricella in Sabina 526
+Scopeto Madonna Gulia 524
+Colli sul Velino 524
+Osteria della Fontana 520
+La Forcella 242
+Forcella 227
+Filettino 516
+Isoletta I 466
+Isola Bella 227
+Villa Felice 515
+Villa Falilo 307
+Santa Francesca 514
+Apriliana 514
+Pitocco 513
+San Rocco 368
+Roccantica 300
+Colleberardi 509
+Girate 508
+Prato Lauro 503
+Pratolungo 502
+Cantalice 497
+Sant'Angelo in Theodice 494
+Murillo 493
+Filacciano 490
+Ponticelli 488
+Valleluce 482
+Collelungo 234
+San Vittorino 479
+Puntoni 479
+Marina 478
+Marina Velca 293
+Salto Covino 471
+Montalto Marina 395
+Patrica 471
+Torri in Sabina 470
+Fara in Sabina 284
+Sabina 211
+Ginestra Sabina 365
+Madonna delle Grazie 458
+Madonna della Pace 408
+Fornoli-La Cona 452
+Schizzanello 451
+Schito 338
+Sermoneta Scalo 450
+Anguillarese-Colle Due Pini 445
+Sant'Ilario 439
+Sant'Antonio 350
+Martellona I 438
+Monte Stallonara 437
+Fontana Liri Superiore 436
+San Giovanni Reatino 435
+Vetriolo 434
+San Manno 434
+Laguccio 433
+La Badia 433
+Santa Balbina 365
+Valle Yoro 432
+Valli 246
+San Liberato 426
+Berardelli 265
+Ponte Lucidi-La Torre 422
+Coltodino 420
+Quarticciolo 414
+Chia 414
+Santa Procula 413
+Rinascente 413
+Vallemaio 409
+Orvinio 409
+Colle Alto-Porciri 404
+Porciano 231
+Vignola 398
+Castellonorato 397
+Santopadre 395
+Pietrara 393
+Colle d'Alba 393
+Rocca Massima 392
+Villa Fiorita 390
+La Bianca 390
+Casaprota 388
+Valvarino 387
+Santa Anatolia 387
+Valiana 209
+Cocuruzzo 385
+La Torretta 383
+Portella 382
+Poggio San Lorenzo 382
+Monte Lungo 382
+Fosso Pietroso 381
+Castel San Pietro 202
+Colle Leo 381
+Villaggio Adriano 377
+Olivella 377
+Livata 270
+Sant'Oliva 223
+Via della Pace 374
+Acqua Sotterra 374
+San Giovanni 372
+Jenne 371
+Colle di Tora 367
+Castel di Tora 254
+San Michele 362
+Vetiche I 206
+Castro dei Volsci 358
+Vigna Grande 354
+Vallerotonda 354
+San Sosio 353
+Vasche 350
+Collalto Sabino 349
+Frasso Sabino 223
+Viticuso 348
+Seritico 272
+Pozzo dell'Inferno 347
+Colle dell'Oro 236
+Marzolanella 347
+Sant'Eutizio 345
+Roana 345
+Granari 290
+Gli Osti 345
+Vado Oscuro 344
+Terzone 343
+Castel de' Ceveri-Casal de' Ceveri 339
+Vocabolo Campetella 335
+Tessennano 335
+Possesso 205
+Montebuono 333
+Nocchieto 331
+Villaggio Ardeatino 328
+Villaggio Santa Maria 207
+Torre del Papa-Tufo Ranzani 327
+Colle Sfiamma 327
+Belmonte Castello 323
+Lampione 322
+Ponte delle Tavole 321
+Ponte di Cetti 202
+Piumarola 321
+San Lorenzo 319
+Maglianello Basso 319
+Commenda 314
+Colle Sughereto 314
+Cicchillitto 313
+Civitella Cesi 311
+Casamarciano 310
+Vallepietra 306
+Picinisco 304
+Rosanisco 243
+Fonte Vivola 304
+Valle Copella 303
+Maddalena 300
+Madonna degli Angeli 299
+Scifelli 297
+Cinelli 255
+Ammaturo 297
+Turania 239
+Scaffa 296
+Concerviano 296
+Canterano 295
+Cardigna 293
+Torre Alfina 291
+Poggi d'Oro 288
+Case San Benedetto 288
+Bandita 288
+San Benedetto 285
+Le Caselle 284
+Roccagiovine 280
+Monte Pistillo 280
+Monticello 267
+Le Gotte 279
+Salisano 278
+Taliani 219
+Percile 277
+Murella-Stazione Sant'Oreste 276
+Argilla 275
+Nespolo 274
+Borgonuovo 273
+Tobia 268
+Taverna 268
+Trigoria Alta 266
+Suio Alto 213
+Terelle 266
+Mozzano Torretta 266
+Pisciarello 265
+Campo Maggiore 262
+Verdara 261
+Lagoscillo 261
+Corea Castelluccia San Paolo 259
+Colle Illirio 256
+Trivigliano 254
+Menigoni 252
+Via Brozzolo 251
+Stazzano 251
+Caldare 250
+Piazza Palatina 248
+Capradosso 248
+Ruscito 245
+Quarto della Colonna 244
+Gallo 244
+Carpineto 244
+Valle Pera 242
+Fantauzzi 242
+Valle Grande 241
+Vallinfreda 239
+San Cataldo 238
+Collealto I 237
+Colle Carino 237
+Colle Cedro 220
+Monte Vario 236
+Tor Tre Ponti 235
+Posta 235
+Colletronco 235
+Borgo Montenero 233
+Ponte Sfondato-Coltimone 232
+Rosetoli-Maleranca 229
+Pratone-Belvedere 229
+Boccafolle 229
+Rivodutri 228
+Cese 228
+Casale Giminiani 228
+Piscitelli 224
+Monte Sarleo 223
+Colle Mazzolino 223
+Olmobello 222
+Trullo 220
+Santa Croce-San Valentino-Casavina-Rufani 220
+Quadrato 220
+Foresta-Mazzarella 220
+Pulcherini 219
+Le Sterpare 218
+Sornino 217
+Castel di Decima 217
+Borghetto 217
+Massacci-Scalette-Montecalvo di Sotto 215
+Cevoli 215
+Capranica Prenestina 215
+Piazza lunga 214
+Monte Calgara 214
+Primecase 213
+Campo del Fico-Sele 213
+O.N.P.I. 211
+Carpello 211
+Punta del Lago 210
+Colle Ciaffone 210
+Ponte Corradini 208
+Mompeo 208
+Filetti 208
+Colle la Guardia I 208
+San Elpidio 206
+Poggio Perugino 206
+Prato Rinaldo 205
+Poggio Sommavilla 205
+La Sbarra 205
+Cervara di Roma 202

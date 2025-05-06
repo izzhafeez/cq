@@ -1,0 +1,662 @@
+
+
+Lucknow 2817105
+Lucknow Cantonment 63003
+Kanpur Cantonment 108534
+
+Kanpur 2768057
+
+Ghaziabad 1648643
+
+Agra 1585704
+Agra Cantonment 53053
+Mathura Cantonment 25681
+
+Meerut 1305429
+Baraut 103764
+Naraura 22775
+Dhanaura 30007
+Budhana 53722
+Sardhana 58252
+
+Varanasi 1198491
+Varanasi Cantonment 14119
+
+Prayagraj 1168385
+Nagram 10648
+Bilgram 29768
+Talgram 11665
+
+Bareilly 904797
+Marehra 19542
+Hathras 143020
+
+Moradabad 887871
+
+Aligarh 874408
+Vijaigarh 7124
+Jaithara 12009
+
+Saharanpur 705478
+Miranpur 29283
+Khanpur 17247
+
+Gorakhpur 673446
+
+Noida 637272
+Bahjoi 37037
+Baheri 68413
+Barkhera 11964
+Kheri 33355
+
+Firozabad 604214
+Sadabad 40926
+
+Loni 516082
+
+Jhansi 505693
+Jhansi Railway Settlement 13602
+
+Muzaffarnagar 392768
+Muradnagar 95208
+Faridnagar 12785
+
+Mathura 349909
+
+Shahjahanpur 329736
+Shahjahanpur Cantonment 18116
+
+Rampur 325313
+Dhampur 50997
+Bhojpur Dharampur 31305
+
+Maunath Bhanjan 278745
+
+Farrukhabad 276581
+Shahabad 80226
+Shahi 16950
+
+Hapur 262983
+
+Etawah 256838
+Sahawar 24067
+Sahaswan 66204
+
+Mirzapur 234871
+
+Bulandshahr 230024
+Anupshahr 29087
+
+Sambhal 220813
+
+Amroha 198471
+
+Hardoi 197029
+
+Fatehpur 193193
+Fatehpur Chaurasi 6715
+Auras 6466
+
+Rae Bareli 191316
+
+Orai 190575
+Oran 7212
+Koraon 14821
+
+Khora 190005
+
+Bahraich 186223
+
+Jaunpur 180362
+
+Unnao 177658
+Kannauj 84862
+
+Sitapur 177234
+Itaunja 7305
+Faizabad 165228
+Nizamabad 13848
+Zamania 33243
+Maniyar 19890
+Jiyanpur 11816
+Gyanpur 12808
+Banda 160473
+Budaun 159285
+Lakhimpur 151993
+Mainpuri 136557
+Amanpur 10830
+Lalitpur 133305
+Modinagar 130325
+Nagina 95246
+Deoria 129479
+Pilibhit 127988
+Kampil 10281
+Khurja 121207
+Ghazipur 121020
+Kadipur 8010
+Etah 118517
+Bah 16211
+Basti 114657
+Dostpur 14011
+Chandausi 114383
+Chandpur 83441
+Gonda 114046
+Kunda 27179
+Tanda 95516
+Akbarpur 111447
+Azamgarh 110983
+Pandit Deen Dayal Upadhyaya Nagar 109650
+Pandit Deen Dayal Upadhyaya Railway Settlement 20441
+Maruadih Railway Settlement 14298
+Sultanpur 107640
+Shikohabad 107404
+Fatehabad 23278
+Fatehgarh 14793
+Fatehganj Purvi 9480
+Fatehganj Pashchimi 26607
+Shamli 107266
+Ballia 104424
+Greater Noida 102054
+Kasganj 101277
+Aliganj 28396
+Deoband 97037
+Mahoba 95216
+Bhadohi 94620
+Bhadarsa 13154
+Parsadepur 11853
+Paintepur 13917
+Meerut Cantonment 93312
+Bijnor 93297
+Noorpur 38806
+Dadri 91189
+Kairana 89000
+Najibabad 88535
+Auraiya 87736
+Gangaghat 84072
+Pilkhuwa 83736
+Pilkhana 11518
+Balrampur 82488
+Nawabganj 81486
+Mawana 81443
+Gawan 9568
+Naugawan Sadat 32954
+Sikandrabad 81028
+Sikandrarao 46038
+Faridpur 78249
+Bela Pratapgarh 76133
+Pratapgarh City 15071
+Bisalpur 73551
+Bisauli 32780
+Narauli 18346
+Atrauli 50412
+Khatauli 72949
+Mubarakpur 70463
+Rath 65056
+Sirathu 14423
+Vrindavan 63005
+Sherkot 62226
+Shergarh 16247
+Ujhani 62039
+Ujhari 24488
+Jhalu 20978
+Jhinjhana 18740
+Laharpur 61990
+Kiratpur 61946
+Mauranipur 61449
+Maurawan 15484
+Bachhrawan 12521
+Tilhar 61444
+Hasanpur 61243
+Chhibramau 60986
+Gopamau 15526
+Gola Gokaran Nath 60172
+Kosi Kalan 60074
+Nidhauli Kalan 8418
+Jahangirabad 59858
+Jahangirpur 11006
+Gangoh 59279
+Sandila 58346
+Sandi 26007
+Bilsanda 16036
+Bilsi 26604
+Bilari 37567
+Bilaspur 43908
+Sahaspur 24463
+Sahanpur 21639
+Chitrakoot Dham 57402
+Kotra 8390
+Jalaun 56909
+Ayodhya 55890
+Biswan 55780
+Aonla 55629
+Gajraula 55048
+Sirauli 23650
+Konch 53412
+Chirgaon 16724
+Seohara 53296
+Kalpi 51670
+Gulaothi 50823
+Mahmudabad 50777
+Tundla 50423
+Baghpat 50310
+Padrauna 49723
+Sonbhadra 36689
+Bakshi Ka Talab 49166
+Ramnagar 49132
+Khekada 48676
+Khairabad 48538
+Nanpara 48337
+Khalilabad 47847
+Nehtaur 47834
+Ambehta 15739
+Behat 20474
+Atarra 47419
+Kandhla 46796
+Obra 46574
+Garhmukhteshwar 46077
+Warhapur 23456
+Gursahaiganj 46060
+Sirsaganj 32098
+Tirwaganj 24082
+Dataganj 26244
+Khudaganj 14737
+Ganj Dundawara 45385
+Mohammadi 44968
+Mohanpur 4919
+Siana 44415
+Thakurdwara 44255
+Bangarmau 44204
+Bharthana 44120
+Rudauli 43091
+Hindalco Industries Limited Renukoot 41792
+Renukoot 20076
+Kanoria Chemicals & Industries Limited Renukoot 3631
+Muhammadabad 41780
+Mohammadabad 38328
+Paliya Kalan 41126
+Pali 18708
+Patiyali 14366
+Bansi 41057
+Bansgaon 15313
+Ghatampur 40623
+Rampura 12944
+Puranpur 40007
+Maudaha 40003
+Dibai 39818
+Ghosi 39165
+Ghosia Bazar 20760
+Gola Bazar 13335
+Siswa Bazar 20963
+Risiya Bazar 13750
+Uska Bazar 24444
+Mundera Bazar 10818
+Sumerpur 39132
+Hamirpur 35475
+Jalalabad 38202
+Jalesar 38130
+Jalali 20238
+Kakrala 37986
+Babrala 18108
+Shikarpur 37969
+Chunar 37185
+Bindki 36926
+Tindwari 11113
+Nyotini 7577
+Mallawan 36915
+Allahganj 14755
+Allapur 23985
+Thana Bhawan 36669
+Bhawan Bahadur Nagar 10188
+Gaura Barhaj 36459
+Barhani Bazar 14492
+Bhatni Bazar 15352
+Nai Bazar 13408
+Pihani 36014
+Khair 35751
+Khaga 35637
+Bhagwant Nagar 6995
+Tikait Nagar 9456
+Dasna 34914
+Kopaganj 34782
+Gopiganj 19058
+Zaidpur 34443
+Kaimganj 34384
+Rudrapur 34014
+Maharajganj 33930
+Mahrajganj 6735
+Nautanwa 33753
+Sahjanwan 32886
+Shamsabad 33144
+Fatehpur Sikri 32905
+Katra 32440
+Jewar 32269
+Bidhuna 32252
+Sidhpura 15740
+Suar 32158
+Utraula 32145
+Atrauliya 9374
+Jalalpur 31972
+Rasra 31765
+Samdhan 31479
+Bachhraon 31101
+Islamnagar 31022
+Bhogaon 30874
+Madhoganj 11523
+Kamalganj 15477
+Domariyaganj 30698
+Bilariaganj 13096
+Lar 28307
+Milak 30553
+Bareilly Cantonment 30003
+Kundarki 29951
+Colonelganj 29435
+Lalganj 23124
+Lal Gopalganj Nindaura 28288
+Babarpur Ajitmal 29284
+Afzalgarh 29101
+Purquazi 29041
+Kemri 28698
+Umri Kalan 17803
+Powayan 28613
+Rudayan 7620
+Hasayan 6621
+Raya 21344
+Kabrai 28564
+Jhansi Cantonment 28343
+Jaswantnagar 28164
+Rampur Maniharan 27979
+Kithaur 27933
+Mehdawal 27897
+Mehnagar 14841
+Babina 27852
+Pinahat 18709
+Charkhari 27760
+Karhal 27701
+Soron 27468
+Dibiyapur 27237
+Bighapur 6501
+Kanth 27137
+Sainthal 15332
+Prayagraj Cantonment 26944
+Gursarai 26869
+Kursath 6770
+Jais 26735
+Shahganj 26556
+Aurangabad 26544
+Sirsi 26519
+Hastinapur 26452
+Reoti 26359
+Kora Jahanabad 26359
+Machhlishahr 26107
+Tambaur 26052
+Khamaria 25929
+Mariahu 22778
+Shishgarh 25815
+Safipur 25688
+Siddharthnagar 25422
+Siddhaur 12438
+Sidhauli 24976
+Barua Sagar 25028
+Baragaon 8585
+Kuraoali 24969
+Ahraura 24967
+Sewalkhas 24882
+Dhaurehra 24518
+Tulsipur 24488
+Purwa 24467
+Bharwari 17260
+Saidpur 24338
+Pukhrayan 24258
+Jhinjhak 24027
+Sikanderpur 23986
+Kiraoali 23788
+Bhinga 23780
+Gosainganj 12931
+Kaptanganj 23526
+Gangapur 7561
+Bewar 23729
+Bakewar 14965
+Dhaura Tanda 23727
+Gunnaur 23665
+Chhata 23537
+Chhatari 11373
+Jatari 18387
+Thiriya Nizamat Khan 23184
+Jyoti Khuriya 5665
+Sewarhi 23077
+Chandauli 23020
+Phulpur 22998
+Achhnera 22781
+Kachhla 9471
+Nakur 22712
+Govardhan 22576
+Nanauta 22551
+Samthar 22455
+Kushinagar 22214
+Rasulabad 22196
+Atasu 11568
+Lawar 22024
+Mandawar 21078
+Etmadpur 21897
+Bhargain 21891
+Kunwargaon 8053
+Purdilnagar 21885
+Chitbara Gaon 21879
+Wazirganj 21844
+Mirganj 17542
+Nyoria Husainpur 21812
+Handia 21798
+Kheragarh 21470
+Maholi 21331
+Mahona 8557
+Banki 21317
+Mankapur 9461
+Bikapur 14453
+Barhalganj 21290
+Bansdih 21201
+Chharra Rafatpur 21146
+Salempur 21124
+Richha 20977
+Hargaon 20920
+Majhauliraj 20818
+Deoranian 20815
+Banat 20728
+Pahasu 20672
+Charthawal 20653
+Sahatwar 20615
+Bilhaur 20493
+Belthara Road 20404
+Shahpur 20154
+Kul Pahar 20096
+Mogra Badshahpur 20004
+Bahadurganj 19992
+Phalauda 19908
+Parikshitgarh 19830
+Jansath 19786
+Daurala 19776
+Haldaur 19567
+Mau Aima 19645
+Dalmau 9983
+Sarai Aquil 19538
+Chilkana Sultanpur 19501
+Khetasarai 19438
+Kakori 19403
+Jarwal 19289
+Singahi Bhiraura 19196
+Maghar 19181
+Sarai Mir 19055
+Chhaprauli 18970
+Sarsawa 18956
+Suriyawan 18843
+Nichlaul 18414
+Misrikh 18388
+Saurikh 12498
+Joya 18377
+Dariyabad 18338
+Saiyad Raza 18315
+Ranipur 18132
+Bhokarhedi 17829
+Malihabad 17818
+Shankargarh 17785
+Maswasi 17737
+Phaphund 17637
+Khutar 17423
+Chakia 17356
+Chail 9820
+Pachperwa 17220
+Haidergarh 17200
+Rithora 17186
+Ajhuwa 16936
+Jhusi 13878
+Karari 16467
+Kurara 13408
+Manikpur Sarhat 16467
+Manikpur 15435
+Manjhanpur 16457
+Usehat 16361
+Bharatganj 16345
+Azmatgarh 12160
+Shohratgarh 9326
+Rura 16233
+Khadda 16117
+Bisharatganj 15975
+Kachhwa 15958
+Ghiraur 15911
+Ashrafpur Kichhauchha 15838
+Dewa 15662
+Kachhauna Patseni 15647
+Achhalda 9431
+Pipraich 15621
+Pipiganj 13517
+Iglas 15478
+Rabupura 15454
+Babugarh 5452
+Bugrasi 14992
+Baberu 15156
+Un 15124
+Sisauli 15091
+Mohan 15071
+Pipri 15063
+Kadaura 14903
+Ikauna 14869
+Bhatpar Rani 14839
+Salon 14757
+Mendu 14484
+Ramkola 14433
+Kharkhoda 14364
+Jahanabad 14328
+Chopan 14302
+Barwar 14196
+Talbehat 14176
+Doghat 14166
+Tikri 14092
+Agarwal Mandi 13873
+Amethi 13849
+Subeha 13772
+Kharela 13745
+Adari 13717
+Sadat 12361
+Harduaganj 13690
+Mursan 13637
+Barsana 11184
+Sikandra 13580
+Kerakat 13525
+Dankaur 13520
+Kauriaganj 12244
+Katghar Lalganj 13467
+Rajapur 13439
+Mailani 13416
+Naraini 13400
+Usawan 13327
+Sasni 13291
+Chaumuhan 13173
+Iltifatganj Bazar 13136
+Gauri Bazar 6468
+Oel Dhakwa 12958
+Moth 12947
+Madhogarh 12858
+Dildarnagar Fatehpur Bazar 12855
+Hata 12801
+Sirsa 12686
+Dudhi 12560
+Bilram 12429
+Faizabad Canntonment 12391
+Faizganj 12334
+Jangipur 12223
+Ailam 12110
+Satrikh 12107
+Shivrajpur 11948
+Shivli 8621
+Kusmara 11938
+Tondi Fatehpur 11855
+Baldeo 11813
+Dohrighat 11799
+Bahsuma 11753
+Garhi Pukhta 11748
+Karnawal 11663
+Raja Ka Rampur 11644
+Bisanda Buzurg 11611
+Jagner 11575
+Nandgaon 11517
+Railway Settlement Roza 11489
+Ekdil 11310
+Bithoor 11300
+Hariharpur 11285
+Kalinagar 11282
+Ghughuli 11271
+Aminagar Sarai 11174
+Kishni 11098
+Unchahar 11033
+Bahuwa 11031
+Mahaban 10995
+Awagarh 10983
+Ganj Muradabad 10957
+Lakhna 10902
+Titron 10898
+Garautha 10807
+Jafarabad 10792
+Patti 10788
+Jasrana 10648
+Sakhanu 10627
+Sakit 8089
+Khargupur 10472
+Amraudha 10436
+Farah 10412
+Fariha 6887
+Beniganj 10173
+Anandnagar 10113
+Rampur Karkhana 9943
+Saunkh 9556
+Erich 9531
+Patala 9500
+Mahroni 9415
+Mataundh 9371
+Sarila 9271
+Umri 9248
+Kakod 9213
+Niwari 9205
+Harraiya 9158
+Bajna 8991
+Koeripur 8927
+Sahpau 8920
+Antu 8504
+Musafirkhana 7999
+Nadigaon 7991
+Katra Medniganj 7931
+Hyderabad 7697
+Kathera 7533
+Derapur 7533
+Radhakund 7511
+Gohand 7503
+Ghorawal 7291
+Kishunpur 7000
+Churk Ghurma 6883
+Mundiya 6384
+Ugu 6318
+Beswan 6278
+Gulariya Bhindara 6172
+Gulariya 5539
+Amila 5234
+Gokul 4916
+Dayalbagh 2830
+Swamibagh 2039

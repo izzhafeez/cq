@@ -1,212 +1,212 @@
 
 
 Seoul 9668465
-Icheon 218388
-Chuncheon 282765
-Gwacheon 65880
-Dongducheon 94912
-Hwacheon 23822
-Gwangmyeong 298599
-Gapyeong 55415
-Yeoju 111897
-
-Cheongju 844993
-Seocheon 50012
-Seonghwan 29239
-Gwangju (Gyeonggi) 382054
-Yangju 230359
-Uiwang 163795
-Dangjin 166249
-
-Incheon 2942828
-
-Yongin 1074176
-Jincheon 60964
-Jecheon 133018
-
-Daejeon 1463882
-Hongseong 100102
-Eumseong 100866
-Hongcheon 75251
-Sokcho 89047
-Chungju 210186
-Pyeongchang 9940
-Mungyeong 81525
-Cheongsong gun 31313
-Gimcheon 140548
-Yeongju 103119
-Jeungpyeong 36652
-Cheongyang 30103
-Okcheon 56634
-Seongju 40804
-Cheongsong 23288
-Hapcheon 40642
-
-Changwon 1036738
-Hadong 40167
-Geochang 59238
-Haman 63233
-Gwangyang 151769
-Changnyeong 74668
-Tongyeong 128293
-Goryeong 30399
-Goseong (South Gyeongsang) 26704
-Sancheong 33014
-Gyeongsan 263728
-Uiryeong 25325
-Yeosu 280242
-Sinhyeon 82560
-Gyeongju 253502
-Yeongdeok 33927
-Yeonil 40852
-Chilgok 114758
-Yeongcheon 102015
-Yeongyang 15558
-Yeongwol 25413
-Yangpyeong 118810
-
-Goyang 1079216
-
-Namyangju 713321
-
-Anyang 550027
-Anseong 187012
 Seosan 175591
-Nonsan 116675
-
-Cheonan 658808
-
-Seongnam 940064
-
-Hwaseong 855248
-Asan 316129
-Taesal-li 23149
-Yongsan-dong 12612
 Osan 229725
-Hanam 293452
+Asan 316129
 
 Ansan 654915
 Munsan 43208
-Gunpo 273791
-Gimpo 473970
+
+Busan 3391946
+
+Incheon 2942828
 Yeoncheon 41642
 
-Bucheon 818383
-Wabu 96775
-Cheorwon 41855
+Daegu 2418346
+
+Daejeon 1463882
+
+Jeonju 657432
+Wanju 84009
+
+Gwangju 1450062
+Gwangyang 151769
 
 Suwon 1186078
 
-Busan 3391946
-Sacheon 111105
-Cheongdo 40071
-
-Daegu 2418346
-Heunghae 36080
-Naeso 80987
-Hayang 40423
-Ungsang 83360
-
 Ulsan 1136017
-Kyosai 72124
-Namhae 40870
-Sunchang 25483
-Jangheung 34268
-Jeongeup 108508
-Yeongam 55000
-Jangseong 40604
-Boseong 36981
-Gokseong 26781
 
-Gwangju 1450062
-Wando 47210
-Muan 75718
-Iksan 282276
-Jinan 22760
-Buan 22267
-Jangsu 26463
-Gochang 72996
-Hamyang 36541
+Goyang 1079216
+Yangju 230359
 
-Jeonju 657432
-Yeongdong 24154
+Namyangju 713321
+
+Yongin 1074176
+Yongsan-dong 12612
+
+Changwon 1036738
+
+Seongnam 940064
+Hanam 293452
+
+Hwaseong 855248
+Seonghwan 29239
+
+Cheongju 844993
+
+Bucheon 818383
+Dongducheon 94912
+
+Cheonan 658808
+Icheon 218388
+
+Anyang 550027
 Gimhae 542338
-Pohang 502916
-Yangsan 352229
-Miryang 104831
-Gijang 174545
-Damyang 44034
-Dalseong 259339
-Uiseong 48021
-Eisen 56006
-Jenzan 20673
-Danyang 26937
-Gangneung 213321
-Yanggu 24027
-Guri 197454
-Ganghwa-gun 25535
-Hwado 106358
+Namhae 40870
+Haenam 23928
 Pyeongtaek 537307
+Yangpyeong 118810
+Jeungpyeong 36652
+Pyeongchang 9940
+Hongcheon 75251
+Pohang 502916
 Siheung 500895
 Jeju City 492466
-Jinju 348096
+Gimpo 473970
 Paju 465617
 Paripark 1000
-Pubal 63026
-Goesan 44461
-Hoengseong 44712
-Jeongseon 33786
-Goseong 62446
+Guri 197454
 Uijeongbu 461710
 Masan 434371
-Wanju 84009
-Hwasun 59914
-Goheung 58873
-Suncheon 282189
 Gumi 416328
-Jinan-gun 31273
-Boeun 30929
-Kunwi 34293
-Yecheon 54267
-Samcheok 42145
+Miryang 104831
+Uiryeong 25325
+Goryeong 30399
+Gurye 30000
+Gwangju (Gyeonggi) 382054
 Sejong 355831
-Gongju 104545
+Hongseong 100102
 Wonju 354376
-Inje 30670
+Yangsan 352229
+Gyeongsan 263728
+Ungsang 83360
+Jinju 348096
+Gwangmyeong 298599
+Chuncheon 282765
+Iksan 282276
+Suncheon 282189
+Sunchang 25483
+Gochang 72996
+Geochang 59238
+Yeosu 280242
+Gunpo 273791
+Ganghwa-gun 25535
 Gunsan 267859
-Sintansin 15000
-Sangju 55640
-Geumsan 25243
-Imsil 37514
-Gyeryong 41415
-Boryeong 100229
+Nonsan 116675
+Dalseong 259339
+Seongju 40804
+Gyeongju 253502
 Geoje 245754
 Mokpo 224044
-Sinan 53150
-Namwon 58057
-Hampyeong 29369
-Haenam 23928
-Naju 115613
 Ulju 222538
+Gangneung 213321
+Chungju 210186
+Sangju 55640
+Yeongju 103119
+Anseong 187012
 Seogwipo 182169
-Yeonggwang 19909
+Gijang 174545
+Dangjin 166249
+Uiwang 163795
 Andong 158907
+Yeongdong 24154
 Pocheon 147274
+Gimcheon 140548
+Jecheon 133018
+Yecheon 54267
+Yeongcheon 102015
+Tongyeong 128293
+Naju 115613
+Chilgok 114758
+Okcheon 56634
+Yeoju 111897
+Sacheon 111105
+Sancheong 33014
+Jeongeup 108508
+Geumsan 25243
+Eumseong 100866
+Jeongseon 33786
+Hoengseong 44712
+Hwado 106358
+Hwacheon 23822
+Gwacheon 65880
+Gongju 104545
 Donghae 101128
-Taebaek 48962
-Hwawon 64718
-Taean 60285
-Yesan 39409
-Buyeo 32642
-Uljin 46369
-Ulleung 8169
-Yangyang 26632
-Gimje 44894
-Gangjin 31941
-Jindo 29013
-Gurye 30000
-Bonghwa 29168
-Yonmu 25015
+Boryeong 100229
+Wabu 96775
+Sokcho 89047
+Sinhyeon 82560
+Mungyeong 81525
+Yeongyang 15558
+Naeso 80987
+Muan 75718
 Muju 22305
+Yonmu 25015
+Gyeryong 41415
+Changnyeong 74668
+Kyosai 72124
+Hwawon 64718
+Haman 63233
+Hamyang 36541
+Pubal 63026
+Goseong 62446
+Jincheon 60964
+Taean 60285
+Taesal-li 23149
+Yesan 39409
+Goesan 44461
+Hwasun 59914
+Goheung 58873
+Jangheung 34268
+Namwon 58057
+Eisen 56006
+Uiseong 48021
+Gapyeong 55415
+Yeongam 55000
+Sinan 53150
+Jinan-gun 31273
+Jinan 22760
+Seocheon 50012
+Taebaek 48962
+Wando 47210
+Jindo 29013
+Uljin 46369
+Gimje 44894
+Damyang 44034
+Samcheok 42145
+Cheorwon 41855
+Yeonil 40852
+Hapcheon 40642
+Jangseong 40604
+Jangsu 26463
+Hayang 40423
+Hadong 40167
+Cheongdo 40071
+Imsil 37514
+Sintansin 15000
+Boseong 36981
+Heunghae 36080
+Kunwi 34293
+Yeongdeok 33927
+Buyeo 32642
+Buan 22267
+Gangjin 31941
+Cheongsong gun 31313
+Cheongsong 23288
+Boeun 30929
+Inje 30670
+Cheongyang 30103
+Hampyeong 29369
+Bonghwa 29168
+Danyang 26937
+Gokseong 26781
+Goseong (South Gyeongsang) 26704
+Yangyang 26632
+Yeongwol 25413
+Yanggu 24027
 Gaigeturi 23717
+Jenzan 20673
+Yeonggwang 19909
 Beolgyo 19842
+Ulleung 8169

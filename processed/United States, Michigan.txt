@@ -1,0 +1,823 @@
+
+
+Detroit 639111
+Detroit Beach 1957
+
+Grand Rapids 198917
+Big Rapids 7727
+Eaton Rapids 5203
+
+Warren 139387
+
+Sterling Heights 134346
+
+Dearborn Heights 63292
+
+Madison Heights 28468
+
+Ann Arbor 123851
+
+Dearborn 109976
+
+Lansing 112644
+
+East Lansing 47741
+
+Livonia 95535
+Ionia 13378
+
+Troy 87294
+
+Westland 85420
+
+Farmington Hills 83986
+Farmington 11597
+
+Flint 81252
+Saline 8948
+Center Line 8552
+
+Southfield 76618
+
+Wyoming 76501
+
+Rochester Hills 76300
+
+Forest Hills 28573
+
+Kalamazoo 73598
+
+Novi 66243
+
+Taylor 63409
+
+Pontiac 61606
+
+St. Clair Shores 58874
+
+Royal Oak 58211
+
+Kentwood 54304
+Westwood 9621
+Eastwood 6366
+
+Battle Creek 52721
+Swartz Creek 5897
+
+Portage 48891
+
+Roseville 47710
+
+Saginaw 44202
+
+Midland 42547
+Woodland Beach 1899
+
+Lincoln Park 40245
+Level Park-Oak Park 3260
+
+Oak Park 29560
+
+Allen Park 28638
+
+Muskegon 38318
+Otsego 4120
+North Muskegon 4093
+Muskegon Heights 9917
+Benton Heights 3652
+
+Holland 34378
+Holly 5997
+
+Holt 25625
+
+Eastpointe 34318
+Grosse Pointe Park 11595
+
+Grosse Pointe Woods 16487
+Grosse Pointe 5678
+
+Bay City 32661
+Imlay City 3703
+
+Jackson 31309
+Mason 8283
+
+Southgate 30014
+
+Burton 29715
+
+Port Huron 28983
+
+Hamtramck 28433
+
+Garden City 27380
+
+Allendale 27073
+Owendale 275
+
+Inkster 26088
+Rochester 13035
+
+Romulus 25178
+Flushing 8411
+
+Walker 25132
+Walled Lake 7250
+Grand Ledge 7784
+Grand Haven 11011
+South Haven 3964
+
+Okemos 25121
+
+Wyandotte 25058
+
+Norton Shores 25030
+
+Auburn Hills 24360
+
+Waverly 23812
+Beverly Hills 10584
+
+Birmingham 21813
+
+Mount Pleasant 21688
+
+Mount Clemens 15697
+Mount Morris 3170
+
+Ypsilanti 20648
+Milan 6079
+Milford 6520
+Rockford 6142
+
+Adrian 20645
+
+Marquette 20629
+Marlette 1855
+
+Monroe 20462
+South Monroe 6468
+West Monroe 3227
+
+Haslett 19670
+
+Ferndale 19190
+Melvindale 12851
+
+Trenton 18544
+Centreville 1319
+
+Cutlerville 17849
+
+Wayne 17713
+
+Wixom 17193
+
+Jenison 16640
+Davison 5143
+
+Grandville 16083
+Grant 952
+
+Traverse City 15678
+
+Harper Woods 15492
+Huntington Woods 6388
+
+Northview 15301
+
+Berkley 15194
+
+Hazel Park 14983
+
+Fraser 14726
+Grass Lake 1105
+Owosso 14714
+Coldwater 13822
+Sault Ste. Marie 13337
+Woodhaven 12941
+New Haven 6097
+Riverview 12490
+Escanaba 12450
+New Baltimore 12117
+Fenton 12050
+Lake Fenton 5905
+Niles 11988
+Leslie 1927
+South Lyon 11746
+Clawson 11389
+Clayton 311
+Clinton 2517
+Clio 2525
+Clifford 300
+East Grand Rapids 11371
+Sturgis 11082
+Flat Rock 10541
+Comstock Park 10500
+Lambertville 10433
+Cadillac 10371
+Canadian Lakes 3202
+Arcadia 309
+Alpena 10197
+Grosse Pointe Farms 10148
+Grosse Pointe Shores 2647
+Howell 10068
+Marysville 9997
+Alma 9488
+Almont 2846
+Fremont 4516
+Plymouth 9370
+Ecorse 9305
+Charlotte 9299
+St. Charles 1992
+Temperance 9188
+Benton Harbor 9103
+Lapeer 9023
+Highland Park 8977
+Richland 946
+Leland 410
+Lake Leelanau 229
+Beecher 8840
+Greenville 8816
+Tecumseh 8680
+Menominee 8488
+Omena 295
+Romeo 3767
+Omer 274
+Montgomery 322
+Houghton 8386
+Houghton Lake 5294
+Grand Blanc 8091
+Hillsdale 8036
+Three Rivers 7973
+St. Joseph 7856
+St. Johns 7698
+Albion 7700
+Ludington 7655
+Burlington 281
+Freeland 7630
+Freeport 542
+Northport 496
+Portland 3796
+Hudsonville 7629
+Whitmore Lake 7584
+White Pine 339
+Whittemore 414
+Whitehall 2909
+Iron Mountain 7518
+Hastings 7514
+Brighton 7446
+Byron Center 7431
+Fair Plain 7402
+Plainwell 3788
+River Rouge 7224
+Shields 7035
+Wakefield 1702
+Deerfield 901
+St. Louis 7010
+Marshall 6822
+Bridgeport 6571
+Manistee 6259
+Marenisco 179
+Ishpeming 6140
+West Ishpeming 2552
+Northville 6119
+Nashville 1537
+Belding 5938
+Reading 1094
+Richmond 5878
+Petoskey 5877
+Buena Vista 5855
+Manistique 2828
+Tustin 270
+Dowagiac 5721
+Zeeland 5719
+Comstock Northwest 5562
+Chelsea 5467
+St. Clair 5464
+Bellaire 1053
+Lake Isabella 1829
+Dundee 5323
+Springfield 5292
+Gladstone 5257
+Utica 5245
+Caro 4328
+Allegan 5222
+Kingsford 5139
+Oxford 3492
+Sanford 813
+Ironwood 5045
+Norwood 144
+Sherwood 285
+Wolf Lake 5034
+Bear Lake 342
+Gibraltar 4997
+Central Lake 960
+Frankenmuth 4987
+Frankfort 1252
+Coopersville 4828
+DeWitt 4776
+Cheboygan 4770
+Boyne Falls 358
+Boyne City 3816
+Pearl Beach 4698
+Negaunee 4627
+Applegate 241
+Michigan Center 4609
+Michigamme 255
+Emmett 258
+Vandercook Lake 4579
+Wolverine Lake 4544
+Marine City 4079
+Rose City 577
+Hancock 4501
+Rock 181
+Rockland 173
+Dexter 4500
+Bloomfield Hills 4460
+Wayland 4435
+Grayling 1867
+Buchanan 4300
+Michiana 200
+Middleville 4295
+Gaylord 4286
+Sparta 4244
+Hart 2053
+Martin 377
+Evart 1742
+Algonac 4196
+Roosevelt Park 4172
+Lowell 4142
+Wellston 254
+Linden 4142
+Oden 358
+Lake Odessa 1994
+Lake Orion 2876
+Lathrup Village 4088
+Orchard Lake Village 2238
+Belleville 4008
+Williamston 3819
+Vicksburg 3706
+Cedar Springs 3627
+Cedar 102
+Baroda 875
+Dorr 3520
+Perry 2091
+Newberry 1446
+Durand 3507
+Essexville 3379
+Paw Paw 3362
+Mackinaw City 846
+Paw Paw Lake 3323
+Blissfield 3277
+Clare 3254
+Harvey 3244
+Haring 335
+Rockwood 3240
+Franklin 3139
+Beechwood 3121
+Skidway Lake 3082
+Gladwin 3069
+K. I. Sawyer 3064
+Potterville 3055
+Deckerville 877
+Corunna 3046
+Bad Axe 3021
+Iron River 3007
+Eagle River 65
+Ferrysburg 2952
+Millersburg 169
+Petersburg 1171
+Galesburg 2049
+Fowlerville 2951
+Fowler 1226
+Dowling 351
+Spring Arbor 2916
+Ithaca 2853
+Cass City 2494
+Rogers City 2850
+Bath 2841
+Norway 2840
+Keego Harbor 2764
+St. Helen 2735
+Vassar 2727
+Chassell 876
+Chatham 193
+Sandusky 2709
+Argentine 2685
+Atlantic Mine 565
+East Tawas 2663
+Pleasant Ridge 2627
+Kincheloe 2587
+Mattawan 2550
+Hartford 2515
+Spring Lake 2497
+Springport 776
+Reed City 2490
+Newaygo 2471
+Chesaning 2430
+Manchester 2037
+West Branch 2351
+Montague 2417
+Pinckney 2415
+Vineyard Lake 992
+Sand Lake 522
+Sand Lake (Iosco County) 1418
+Lake City 829
+Maple City 209
+Hudson 2415
+Alanson 778
+Stephenson 816
+Charlevoix 2348
+Edgemont Park 2326
+Carleton 2326
+Croswell 2322
+Farwell 880
+Bronson 2307
+St. Ignace 2306
+Trowbridge Park 2287
+Stockbridge 1244
+Breckenridge 1238
+Morenci 2270
+East Jordan 2239
+Eastport 206
+Fruitport 1103
+Jonesville 2176
+Harrison 2150
+Kalkaska 2132
+Bridgman 2096
+McBride 189
+McBain 637
+Auburn 2068
+Burt 1194
+Twin Lake 2056
+Sylvan Lake 1723
+Manitou Beach-Devils Lake 2032
+Goodrich 2022
+Brownlee Park 2021
+Bangor 2016
+Munising 1986
+Nunica 351
+Capac 1983
+Shelby 1964
+Indian River 1950
+Constantine 1947
+Parchment 1926
+Berrien Springs 1910
+Harbor Springs 1274
+Yale 1903
+Baraga 1883
+Barryton 405
+L'Anse 1874
+Dansville 529
+Laurium 1864
+Calumet 621
+Metamora 594
+Pewamo 503
+Sebewaing 1721
+Lawton 1850
+Howard City 1835
+Tawas City 1834
+Bessemer 1805
+Stony Point 1784
+Gwinn 1784
+Fennville 1745
+Montrose 1743
+White Pigeon 1718
+White Cloud 1479
+Union City 1714
+Cassopolis 1712
+Olivet 1517
+New Buffalo 1708
+Mio 1690
+Armada 1684
+North Adams 452
+Watervliet 1669
+Watersmeet 408
+Decatur 1651
+Prudenville 1643
+Ortonville 1376
+Greilickville 1634
+Caledonia 1622
+Harbor Beach 1604
+Crystal Falls 1598
+Crystal Mountain 73
+Fountain 170
+Trimountain 212
+South Rockwood 1587
+Homer 1575
+Lake LeAnn 1571
+Lake Linden 1014
+Quincy 1554
+Zilwaukee 1534
+Wacousta 1532
+Elk Rapids 1529
+Maple Rapids 573
+Birch Run 1525
+Ovid 1481
+Shepherd 1469
+Schoolcraft 1466
+Shaftsburg 450
+Coloma 1465
+Standish 1458
+Au Sable 1453
+Eau Claire 552
+Kingsley 1431
+Kingston 399
+Laingsburg 1424
+Hemlock 1408
+Litchfield 1399
+Luna Pier 1382
+Douglas 1378
+Saranac 1376
+Stronach 170
+Three Oaks 1370
+Three Lakes 167
+Manistee Lake 465
+Rapid City 1357
+Scottville 1356
+Scotts 187
+Pittsford 553
+Stanton 1348
+Manton 1258
+Mancelona 1344
+Colon 1199
+Lakewood Club 1340
+Brooklyn 1313
+Ravenna 1308
+Bellevue 1308
+Hubbell 908
+Hubbard Lake 857
+Edwardsburg 1304
+Brown City 1302
+Minden City 165
+Nessen City 81
+Webberville 1288
+Walkerville 246
+Ontonagon 1285
+Kent City 1262
+Coleman 1262
+Reese 1261
+Shorewood-Tower Hills-Harbert 1249
+Barton Hills 316
+Pigeon 1222
+Napoleon 1131
+Edmore 1210
+Pinconning 1204
+Jennings 229
+South Gull Lake 1179
+Stevensville 1147
+Hermansville 509
+Vermontville 716
+Beaverton 1145
+Dimondale 1134
+Bingham Farms 1124
+Carson City 1120
+Lake Michigan Beach 1101
+North Branch 1096
+Lamont 1094
+Barnes Lake-Millers Lake 1093
+Barnes Lake 768
+Carney 179
+Turner 121
+Concord 1085
+Memphis 1084
+Empire 362
+Quinnesec 1083
+Marcellus 1074
+Chums Corner 1065
+Hickory Corners 313
+Dollar Bay 1061
+Big Bay 257
+Lakes of the North 1044
+Hesperia 1034
+Millington 1028
+Lakeview 1024
+Dryden 1023
+Lewiston 996
+Onsted 988
+Lake Victoria 984
+Roscommon 981
+Lawrence 964
+Attica 962
+Morrice 949
+Au Gres 945
+Lexington 943
+Athens 936
+Luther 332
+Ossineke 932
+Elsie 930
+Clarkston 928
+Westphalia 924
+Alpha 126
+Mayville 922
+Weidman 920
+Oscoda 916
+Baldwin 902
+Pentwater 890
+Onaway 890
+Crystal 888
+Mendon 881
+Saugatuck 865
+Augusta 864
+Custer 272
+Delton 854
+Ruby 852
+Gobles 851
+Shoreham 844
+Ubly 836
+Middletown 825
+Gagetown 321
+Otisville 819
+Grawn 816
+Caspian 805
+Caseville 652
+Dodgeville 391
+Elkton 796
+Ida 790
+Marion 789
+Parma 780
+Hartland 777
+Buckley 775
+Pellston 774
+Pelkie 51
+Lyons 763
+Burr Oak 753
+South Range 750
+Vernon 738
+Lennon 509
+Cannonsburg 203
+Lakeport 720
+Atlanta 720
+Climax 712
+Columbiaville 702
+Interlochen 694
+Sheridan 692
+Bay Shore 687
+Robin Glen-Indiantown 674
+Fostoria 664
+Merrill 663
+Perrinton 393
+Tekonsha 653
+Muir 646
+Ironton 148
+Hurontown 244
+Presque Isle Harbor 643
+Port Austin 622
+Hopkins 615
+Kinde 421
+Suttons Bay 613
+Parkdale 607
+Hillman 605
+Peck 593
+Mackinac Island 583
+Millburg 578
+Addison 573
+Port Sanilac 567
+New Lothrop 565
+Benzonia 551
+Oak Hill 545
+Maybee 545
+Byron 545
+Britton 537
+Mulliken 525
+Sunfield 518
+Morley 517
+Oakley 299
+Fairgrove 514
+Galien 513
+Bloomingdale 513
+Loomis 194
+Trufant 510
+South Boardman 509
+Ashley 508
+Kaleva 507
+Waldron 505
+Brimley 501
+Pilgrim 44
+Vanderbilt 498
+Camden 496
+Horton Bay 485
+Bancroft 484
+New Troy 483
+New Era 446
+Unionville 481
+Carsonville 465
+Sterling 474
+Hanover 472
+Republic 470
+Bay Port 464
+Rothbury 462
+Fife Lake 456
+Thompsonville 451
+Harrisville 437
+Otter Lake 426
+Cement City 424
+Eastlake 415
+Henderson 413
+Pierson 229
+Clarksville 411
+Estral Beach 403
+Onekama 399
+Amasa 195
+Zeba 397
+Rosebush 353
+Mesick 397
+Hardwood Acres 393
+Woodland 391
+Mohawk 388
+Mecosta 386
+Powers 381
+Palmer 378
+Palo 236
+Leonard 377
+Gaines 377
+Jasper 371
+Hubbardston 369
+Lost Lake Woods 367
+Ellsworth 367
+Bear Lake (Kalkaska County) 366
+Carp Lake 356
+Akron 349
+Hersey 347
+Advance 340
+Conway 338
+Honor 337
+Painesdale 336
+Rapid River 335
+Mears 332
+Beal City 332
+Brethren 331
+Snover 330
+Elberta 329
+Vandalia 318
+Lupton 318
+Gaastra 316
+Casnovia 316
+Beulah 313
+Millers Lake 311
+Grand Beach 310
+Wolverine 309
+Lincoln 305
+Port Hope 293
+Lake Angelus 287
+Alba 287
+Riverdale 281
+Elm Hall 279
+Allen 201
+Ramsay 278
+Lake Ann 273
+Walloon Lake 271
+Paris 271
+Posen 270
+De Tour Village 263
+Glen Arbor 261
+Le Roy 260
+Canada Creek Ranch 258
+Cambria 258
+Tower 248
+Grand Marais 234
+Eureka 233
+Ewen 229
+Wedgewood 227
+Prescott 217
+Bendon 210
+Brutus 202
+Bruce Crossing 184
+Cross Village 79
+Breedsville 202
+Daggett 201
+Copemish 195
+Stanwood 194
+Copper City 187
+Falmouth 183
+Bay View 183
+Fulton 182
+Levering 176
+Garden 174
+Winn 166
+Free Soil 158
+Harrietta 151
+Melvin 148
+Mass City 148
+Naubinway 147
+Greenland 146
+St. James 145
+Bergland 141
+Maple Grove 139
+Filer City 136
+Copper Harbor 136
+Eagle Harbor 69
+Twining 130
+Ahmeek 127
+Ponshewaing 126
+Alden 123
+Lake Gogebic 122
+Eagle 122
+Forestville 104
+Skanee 102
+Covington 99
+Boon 90
+Caberfae 72
+Crystal Downs Country Club 55

@@ -1,0 +1,421 @@
+
+
+Toronto 2731571
+Minto 8671
+
+Ottawa 934243
+Petawawa 17187
+Magnetawan 1390
+
+Mississauga 721599
+Essa 21083
+
+Brampton 593638
+
+Hamilton 536917
+
+Milton 110128
+
+London 383822
+
+Markham 328966
+Ramara 9488
+Cramahe 6355
+
+Vaughan 306233
+
+Peterborough 81032
+
+Kitchener 233222
+
+Windsor 217188
+
+Richmond Hill 195022
+
+Halton Hills 61161
+
+Oakville 193832
+
+Burlington 183314
+
+Clarington 92013
+
+Greater Sudbury 161531
+
+Oshawa 159458
+
+Barrie 141434
+
+St. Catharines 133113
+
+Guelph 131794
+Lucan Biddulph 4700
+
+Cambridge 129920
+
+Whitby 128377
+
+Kingston 123798
+
+Ajax 119677
+East Garafraxa 2579
+East Gwillimbury 23991
+Bradford West Gwillimbury 35325
+West Grey 12518
+West Perth 8865
+North Perth 13130
+Perth South 3810
+
+Thunder Bay 107909
+North Bay 51553
+
+Waterloo 104986
+Bluewater 7136
+
+Chatham-Kent 101647
+Thames Centre 13191
+Middlesex Centre 17262
+Southwest Middlesex 5723
+North Middlesex 6352
+
+Brantford 97496
+Amaranth 4079
+
+Pickering 91771
+Erin 11439
+
+Niagara Falls 88071
+Niagara-on-the-Lake 17511
+
+Newmarket 84224
+
+Kawartha Lakes 75423
+North Kawartha 2479
+
+Sault Ste. Marie 73368
+
+Sarnia 71594
+
+Caledon 66502
+Oro-Medonte 21036
+Douro-Dummer 6709
+
+Norfolk County 64044
+Port Colborne 18306
+Port Hope 16753
+Fort Erie 30710
+
+Aurora 55445
+Welland 52293
+Wellesley 11260
+Belleville 50716
+Brockville 21346
+Cornwall 46589
+Whitchurch-Stouffville 45837
+Haldimand County 45608
+Georgina 45418
+Georgian Bay 2499
+Georgian Bluffs 10479
+Quinte West 43577
+South Algonquin 1096
+North Algona Wilberforce 2915
+Timmins 41788
+Woodstock 40902
+St. Thomas 38909
+St. Clair 14086
+Lakeshore 36611
+Lambton Shores 10631
+Saugeen Shores 13715
+Innisfil 36566
+New Tecumseth 34242
+Stratford 31465
+Orillia 31166
+LaSalle 30180
+Orangeville 28900
+Centre Wellington 28191
+Wellington North 11914
+Leamington 27595
+Grimsby 27314
+Woolwich 25006
+Howick 3873
+Warwick 3692
+King 24512
+Clarence-Rockland 24512
+Brock 11642
+Lincoln 23787
+Puslinch 7336
+West Lincoln 14500
+Tecumseh 23229
+Amherstburg 21936
+Tillsonburg 15872
+Collingwood 21793
+Scugog 21617
+Kingsville 21552
+Owen Sound 21341
+Parry Sound 6408
+Uxbridge 21176
+Bracebridge 16010
+Strathroy-Caradoc 20867
+Wasaga Beach 20675
+Wilmot 20545
+Essex 20427
+Huntsville 19816
+Cobourg 19440
+Springwater 19059
+Thorold 18801
+South Frontenac 18646
+Frontenac Islands 1760
+Central Frontenac 4373
+Pelham 17110
+Bayham 7396
+Loyalist 16971
+Midland 16864
+Russell 16520
+Casselman 3548
+North Grenville 16451
+North Glengarry 10109
+South Glengarry 13150
+Greater Napanee 15892
+Whitewater Region 7009
+Kenora 15096
+West Nipissing 14364
+Nipissing 1707
+Clearview 14151
+Pembroke 13882
+Severn 13477
+South River 1114
+French River 2662
+Blind River 3472
+Mississippi Mills 13163
+South Stormont 13110
+North Stormont 6873
+Trent Hills 12900
+Minden Hills 6088
+Ingersoll 12757
+Central Elgin 12607
+Central Huron 7576
+Gravenhurst 12311
+Perth East 12261
+Brighton 11844
+Addington Highlands 2323
+Algonquin Highlands 2351
+Tiny 11787
+Kincardine 11389
+North Dundas 11278
+South Dundas 10833
+Norwich 11001
+Meaford 10991
+Adjala-Tosorontio 10975
+Elliot Lake 10741
+Carleton Place 10644
+Mapleton 10527
+Rideau Lakes 10326
+Hawkesbury 10263
+East Hawkesbury 3296
+North Dumfries 10215
+South Huron 10096
+North Huron 4932
+Tay 10033
+Temiskaming Shores 9920
+Huron Shores 1664
+Elizabethtown-Kitley 9854
+Grey Highlands 9804
+Alfred and Plantagenet 9680
+Leeds and the Thousand Islands 9465
+Highlands East 3343
+Lanark Highlands 5338
+Hastings Highlands 4078
+Brockton 9461
+Laurentian Valley 9387
+Tay Valley 5665
+Malahide 9292
+Huron East 9138
+Penetanguishene 8962
+Arnprior 8795
+Champlain 8706
+Mono 8609
+South Bruce Peninsula 8416
+South Bruce 5639
+Kapuskasing 8292
+Muskoka Lakes 6588
+Renfrew 8223
+Zorra 8138
+Morris-Turnberry 3496
+Shelburne 8126
+Kirkland Lake 7981
+Plympton-Wyoming 7795
+Dryden 7749
+Fort Frances 7739
+Stone Mills 7702
+Hanover 7688
+South-West Oxford 7664
+Beckwith 7644
+Goderich 7628
+Aylmer 7492
+Blandford-Blenheim 7399
+Southgate 7354
+Augusta 7353
+East Zorra-Tavistock 7129
+Huron-Kinloss 7069
+Arran-Elderslie 6803
+Otonabee-South Monaghan 6670
+Chatsworth 6630
+Wainfleet 6372
+Tweed 6044
+Perth 5930
+Oliver Paipoonge 5922
+Petrolia 5742
+Ashfield-Colborne-Wawanosh 5422
+Cochrane 5321
+Sioux Lookout 5272
+Hearst 5070
+Kearney 882
+Espanola 4996
+Sables-Spanish Rivers 3214
+West Elgin 4995
+Stirling-Rawdon 4882
+Centre Hastings 4774
+East Ferris 4750
+Greenstone 4636
+Whitestone 916
+Iroquois Falls 4537
+Burk's Falls 981
+Havelock-Belmont-Methuen 4530
+Southwold 4421
+Seguin 4304
+Tyendinaga 4297
+Madawaska Valley 4123
+Greater Madawaska 2518
+Deep River 4109
+Asphodel-Norwood 4109
+Red Lake 4107
+Red Rock 895
+Northern Bruce Peninsula 3999
+Marmora and Lake 3953
+Bancroft 3881
+Lake of Bays 3167
+Callander 3863
+Calvin 516
+Montague 3761
+Bonnechere Valley 3674
+Mulmur 3478
+Powassan 3455
+Marathon 3273
+Merrickville-Wolford 3067
+Limerick 346
+Athens 3013
+Melancthon 3008
+Laurentian Hills 2961
+Horton 2887
+Shuniah 2798
+Enniskillen 2796
+Atikokan 2753
+Opasatika 226
+Northeastern Manitoulin and the Islands 2712
+Nairn and Hyman 342
+Laird 1047
+McDougall 2702
+Markstay-Warren 2656
+Front of Yonge 2607
+Perry 2454
+Black River-Matheson 2438
+Brooke-Alvinston 2411
+Central Manitoulin 2084
+Madoc 2078
+Neebing 2055
+Point Edward 2037
+Mattawa 1993
+Mattawan 161
+Bonfield 1975
+Dawn-Euphemia 1967
+Dawson 468
+Ryerson 648
+Chapleau 1964
+Manitouwadge 1937
+North Frontenac 1898
+Deseronto 1774
+Nipigon 1642
+Terrace Bay 1611
+Gore Bay 867
+Moosonee 1481
+Englehart 1479
+Harley 551
+St.-Charles 1269
+Machar 882
+Strong 1439
+Armour 1414
+Faraday 1401
+Emo 1333
+Coleman 595
+Temagami 802
+Smooth Rock Falls 1330
+Chisholm 1291
+Thessalon 1286
+St. Joseph 1240
+Moonbeam 1231
+Ignace 1202
+Assiginack 1013
+Armstrong 1166
+Cobalt 1128
+Baldwin 620
+Carling 1125
+McKellar 1111
+Schreiber 1059
+Papineau-Cameron 1016
+James 420
+Prince 1010
+Oil Springs 648
+Ear Falls 995
+Hornepayne 980
+Thornloe 112
+Machin 971
+Alberton 969
+Sundridge 961
+La Vallee 938
+Conmee 819
+O'Connor 663
+Rainy River 807
+Val Rita-Harty 762
+Johnson 751
+Larder Lake 730
+Spanish 712
+Charlton and Dack 686
+Wollaston 670
+Mattice-Val Cote 648
+White River 645
+Chapple 638
+Dubreuilville 613
+McGarry 609
+Billings 603
+Westport 590
+Tudor and Cashel 586
+Bruce Mines 582
+Sioux Narrows-Nestor Falls 567
+Harris 545
+Fauquier-Strickland 536
+The Archipelago 531
+Hudson 503
+The North Shore 497
+Morley 481
+Gillies 474
+Newbury 466
+Evanturel 449
+Tehkummah 436
+Pickle Lake 388
+Killarney 386
+Casey 368
+Kerns 358
+Burpee and Mills 343
+Chamberlain 332
+Dorion 316
+Latchford 313
+Jocelyn 313
+Joly 304
+Hilton 307
+Hilton Beach 171
+Pelee 235
+Lake of the Woods 230
+Matachewan 225
+Hilliard 223
+Gauthier 138
+Brethour 97

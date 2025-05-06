@@ -1,0 +1,1422 @@
+
+
+Torino 870456
+
+Trino 6953
+
+Poirino 6686
+
+Cirie 17439
+
+Novara 95723
+Fara Novarese 2105
+
+Alessandria 64178
+
+Asti 61254
+Costigliole d'Asti 1771
+Buttigliera d'Asti 1677
+
+Moncalieri 49153
+
+Chieri 32169
+Occhieppo Superiore 2450
+Occhieppo Inferiore 3893
+
+Nichelino 47605
+San Michele Mondovi 1368
+Chiusa di San Michele 1631
+Chiusa di Pesio 2429
+Pessione 1318
+
+Collegno 46524
+
+Oleggio 12655
+Cureggio 1630
+
+Cuneo 46416
+
+Breo 14772
+
+Bra 24072
+
+Brandizzo 8373
+
+Candiolo 5452
+
+Rivoli 46031
+Givoletto 3557
+
+Vercelli 45593
+
+Settimo Torinese 44122
+
+Lanzo Torinese 4900
+
+Gassino Torinese 8211
+
+Borgaro Torinese 11291
+
+Pino Torinese 6930
+
+Biella 43030
+
+Venaria Reale 33531
+
+Grugliasco 33100
+Revigliasco 2265
+
+Savigliano 16800
+
+Avigliana 9099
+
+Casale Monferrato 31275
+San Salvatore Monferrato 3266
+
+Pinerolo 30866
+
+Dronero 5454
+
+Pallanza-Intra-Suna 28911
+Suno 1694
+
+Novi Ligure 25957
+Villanova Mondovi 4101
+Villanova d'Asti 3798
+Villafranca d'Asti 2289
+Villafranca Piemonte 3247
+Caramagna Piemonte 2464
+Castagnole Piemonte 1847
+
+Alba 24923
+
+Ivrea 23278
+Borgofranco d'Ivrea 2918
+
+Chivasso 23017
+Ornavasso 3056
+
+Carmagnola 23012
+
+Tortona 22743
+
+Orbassano 21813
+Silvano d'Orba 1524
+
+Borgomanero 20430
+
+Trecate 19430
+
+Fossano 18773
+
+Cossato 13931
+
+San Mauro Torinese 18521
+
+Acqui Terme 17828
+
+Domodossola 17778
+
+Villadossola 6633
+
+Valenza 17305
+
+Piossasco 16904
+Frossasco 2464
+
+Alpignano 16598
+
+Carignano 7322
+
+Omegna 14868
+
+Galliate 14649
+
+Volpiano 14371
+
+Leini 13644
+Beinette 2658
+Meina 1604
+
+Pianezza 13242
+
+Saluzzo 13111
+Viguzzolo 2892
+
+Arona 12970
+Quarona 3558
+
+Caselle Torinese 11817
+
+Castiglione Torinese 5131
+
+Giaveno 11540
+
+Borgo San Dalmazzo 11128
+Mazze 1324
+
+Rivarolo Canavese 10978
+Romano Canavese 2792
+Forno Canavese 3438
+
+Borgosesia 10967
+
+Serravalle Sesia 4656
+
+Serravalle Scrivia 5672
+
+Trofarello 10763
+Are 699
+
+Santena 10437
+Vernante 1096
+Pernate 3391
+Luserna 1058
+
+Caluso 5203
+
+Rivalta di Torino 10411
+
+Cameri 10330
+
+Vinovo 10173
+
+Ovada 9542
+Crova 370
+Croveo 231
+
+Castelletto Sopra Ticino 9213
+Castelletto Stura 907
+
+Racconigi 9156
+
+Bellinzago Novarese 8993
+
+Canelli 8805
+
+San Maurizio 8676
+
+Nizza Monferrato 8633
+
+Cuorgne 8581
+
+La Loggia 8433
+
+Druento 8232
+
+Santhia 8079
+Mathi 3653
+
+Bruino 8070
+
+Gattinara 8001
+Baratte 1918
+
+Vigliano Biellese 7898
+Asigliano Vercellese 1355
+
+Candelo 7750
+
+None 7507
+
+Borgaretto 7256
+
+Castellamonte 7215
+
+Villastellone 4629
+
+Boves 7089
+Condove 4057
+
+Gravellona Toce 7077
+
+Cerano 6499
+Masserano 1527
+Masera 1349
+
+Beinasco 6469
+
+Spinetta Marengo 6392
+Bosco Marengo 1603
+
+Crescentino 6003
+
+Gerbole 5868
+Arborio 830
+Corio 1482
+Vistrorio 442
+Stroppiana 1248
+Piano 273
+
+Cambiano 5784
+
+Strambino 4673
+
+Sommariva del Bosco 5685
+
+Volvera 5660
+
+Airali 5619
+Airasca 3583
+
+Susa 5596
+
+Sant'Antonino di Susa 4156
+
+Sant'Ambrogio di Torino 4688
+
+Busca 5588
+
+Bussoleno 5396
+
+Cumiana 5498
+
+Varallo 5427
+
+Varallo Pombia 4531
+
+Nole 5298
+Vignole Borbera 1979
+
+Montanaro 5244
+Monta 3512
+
+Romentino 5234
+Carentino 285
+Santino 310
+
+San Benigno Canavese 5214
+
+Almese-Rivera 5009
+
+Arquata Scrivia 4992
+Carbonara Scrivia 542
+Alzano Scrivia 327
+
+Mappano 4956
+
+Verzuolo 4940
+
+Castelnuovo Scrivia 4768
+
+Favria 4630
+
+Gozzano 4596
+Mergozzo 1511
+
+Cannobio 4430
+
+Canale 4426
+Sale 3080
+
+Rosta 4391
+Pasta 1986
+
+Ceva 4378
+Crevacuore 1467
+Cressa 660
+
+San Francesco al Campo 4363
+
+San Damiano d'Asti 4349
+
+Caraglio 4267
+
+Crevoladossola 4216
+
+Cavallermaggiore 4121
+
+Pozzolo Formigaro 4110
+Castellazzo Bormida 4073
+Torre Pellice 4043
+Borgo Ticino 3997
+Stresa 3985
+Lesa 2037
+Trivero-Prativero-Ponzone 3970
+Verrone 1167
+Grignasco 3967
+Barge 3950
+Centallo 3939
+Lenta 816
+Montalenghe 983
+Villar Perosa 3930
+Villar San Costanzo 490
+Villar Pellice 809
+Villa 1208
+Villaretto 420
+Villafalletto 1364
+Livorno Ferraris 3919
+Ferriera 2860
+Baveno 3918
+Moretta 3909
+Vigone 3907
+Cigliano 3881
+Tavigliano 806
+Pontecurone 3839
+Ponderano 3622
+Camerano 302
+Garino 3600
+Romagnano Sesia 3596
+Gaglianico 3549
+Invorio 3510
+Ghemme 3499
+Betlemme 416
+Sangano 3459
+Buttigliera Alta 3443
+Montiglio 459
+Castiglione 306
+Castiglione Falletto 228
+Tiglione 225
+Cortiglione 316
+Dogliani 3433
+Cherasco 3406
+Bricherasio 2694
+Osasio 856
+Sasso 260
+Coassolo 353
+Montalto Dora 3391
+Villar Dora 2305
+San Giusto Canavese 3379
+San Carlo Canavese 3011
+Manta 3372
+Pavone Canavese 3361
+Cossano Canavese 336
+Salerano Canavese 446
+Banchette 3273
+Riva Presso Chieri 3272
+Pont-Canavese 3264
+Candia Canavese 1165
+Piobesi Torinese 3241
+Carru 3134
+Andorno Cacciorna 3024
+Ceresane-Curanuova 3023
+Cereseto 279
+Briga Novarese 3009
+Tronzano Vercellese 2997
+Albano Vercellese 281
+Saluggia 2989
+Gattico 2975
+Cavour 2963
+Bardonecchia 2962
+Perosa Argentina 2932
+Santo Stefano Belbo 2899
+Castelnuovo Belbo 681
+Castelnuovo Bormida 564
+Monastero Bormida 601
+Rivalta Bormida 1152
+Caselette 2875
+Balangero 2868
+Coazze 2785
+Colazza 434
+Sovazza 232
+Bosconero 2784
+Torrazza Piemonte 2741
+Cavaglia 2741
+Graglia 717
+Piscina 2710
+Bagnolo Piemonte 2704
+Limone Piemonte 1054
+Costiglione Saluzzo 2681
+Basaluzzo 1891
+San Maurizio D'Opaglio 2663
+Gerbole-Zucche 2645
+Gerbido 2330
+Mussotto 2640
+San Gillio 2631
+Dormelletto 2613
+Garessio 2612
+Caresana 973
+Peveragno 2604
+Revello 2186
+Verolengo 2575
+Carpignano Sesia 2562
+Prato Sesia 1578
+Valperga 2548
+Gargallo 1869
+Sanfre 2538
+Sanfront 1190
+Piasco 2536
+Lombriasco 1007
+Civiasco 231
+Buriasco 738
+Fornaci 2503
+Tollegno 2467
+Sostegno 614
+Roccavione 2454
+Castagnole delle Lanze 2410
+Bibiana 2360
+Bianze 1777
+Cafasse 2328
+Pecetto 2323
+Gavi 2317
+Robassomero 2298
+Mezzomerico 1129
+Borgo d'Ale 2297
+Diano d'Alba 711
+Vezza d'Alba 1408
+Foglizzo 2278
+Felizzano 2276
+Marene 2261
+Guarene 756
+Oulx 2256
+Sauze d'Oulx 1096
+Ghiffa 2241
+San Giorgio Canavese 2214
+Torre San Giorgio 577
+San Giovanni 795
+Alice Castello 2192
+Montecastello 264
+Genola 2186
+Feletto 2171
+Bandito 2164
+Vicoforte 2130
+Villarbasse 2128
+Rivara 2115
+Rivarossa 919
+Riva 1492
+Borgo Vercelli 2113
+Quinto Vercellese 367
+Cantalupa 2102
+Tagliaferro 2089
+Moncalvo 2082
+Casalvolone 815
+Valle Mosso 2079
+Pinasca-Dubbione 2068
+Bubbio 499
+Gabbio 257
+Gabiano 337
+Urbiano 204
+Pomaretto 2050
+Borgolavezzaro 2041
+Arizzano 2033
+Roreto 2031
+Stazzano 2021
+Piazza 1489
+Castelnuovo Don Bosco 2018
+Vespolate 2011
+Paruzzaro 1999
+Tonengo-Casale 1991
+Valdengo 1986
+Bene Vagienna 1977
+Benna 1156
+Piana San Raffaele 1971
+San Chiaffredo 818
+San Germano Chisone 1474
+Lerma 628
+Momo 1971
+Brusnengo 1971
+Olcenengo 701
+Ternengo 251
+Montelera 1969
+Drubiaglio-Grangia 1966
+Rubiana 1838
+Cassine 1963
+Robilante 1957
+Gabbio-Cereda-Ramate 1929
+Pombia 1926
+Cambiasca 1149
+Magliano Alpi 1906
+Miagliano 628
+Giaglione 563
+Savonera 1899
+Govone 813
+Paesana 1895
+Caresanablot 1115
+Fiano 1894
+Agliano 897
+Vascagliana 254
+Pancalieri 1892
+Pieve Vergonte 1888
+Baldissero Torinese 1881
+Baldissero d'Alba 495
+Pralungo 1866
+Borgone Susa 1857
+Cortemilia 1845
+Varzo 1839
+Litta Parodi-Cascinagrossa 1839
+Oleggio Castello 1833
+Greggio 317
+Neive-Borgonovo 1806
+Torrion Quartara 1805
+Borgo Melano 1797
+Cercenasco 1795
+Venasca 1227
+Gallo 1773
+Salassa 1763
+Andezeno 1744
+Caltignaga 1743
+Lesna 1723
+Lessona 1392
+Lessolo 1443
+Villanova Monferrato 1717
+Trana 1701
+Cantarana 257
+Corneliano d'Alba 1692
+Molare 1676
+Rondissone 1669
+Cerone 885
+Piverone 908
+Priocca 1668
+Pollone 1663
+Pollenzo 793
+San Lorenzo 516
+Frugarolo 1658
+Bernezzo 1656
+Maggiora 1655
+Selvaggio 881
+Voltaggio 571
+Cassano Spinola 1648
+La Cassa 1312
+Sandigliano 1645
+Farigliano 1043
+Lumellogno 1633
+Melle 203
+Crivelle 301
+Novello 563
+Moncrivello 1013
+Rive 467
+Armeno 1627
+Castelceriolo 1617
+Samone 1614
+Coggiola 1611
+Vergnasco 1608
+Tavagnasco 795
+Bagnasco 936
+Aglie 1607
+San Germano Vercellese 1600
+Reano 1598
+Villata 1590
+Villabella 253
+Cinzano 1569
+Conzano 278
+Albiano d'Ivrea 1559
+Mandrogne 1545
+Scalenghe 1525
+Malanghero 574
+Belvedere Langhe 261
+Polonghera 1128
+Narzole 1515
+Bozzole 331
+Morozzo 1130
+Lozzolo 748
+Marano Ticino 1500
+Valfenera 1499
+Fenestrelle 317
+Colle Sestriere 646
+Priero 366
+Strevi 1495
+Revislate 578
+Ghislarengo 781
+Olengo 458
+Bruzolo 1483
+Sant'Albano Stura 1480
+Ala di Stura 328
+Due Sture 233
+Busano 1467
+Mombercelli 1461
+Cascinette d'Ivrea 1460
+Vignolo 1459
+Divignano 1407
+Arignano 668
+Sagliano Micca 1453
+Ricca 1220
+Vaie 1450
+San Secondo di Pinerolo 1447
+Villa San Secondo 234
+Vogogna 1434
+Pogno 1433
+Bogogno 978
+Scarnafigi 1432
+Quarna Sotto 420
+Quaregna 1276
+Quargnento 1042
+Borgo San Martino 1430
+Solero 1426
+Trinita 1421
+Biglini 399
+Corbiglia 565
+Pray 1408
+Prata 236
+Chiaverano 1396
+Valmadonna 1394
+Bassignana 1366
+Balzola 1363
+Alzo 473
+Tetti Neirotti 1359
+Tetti Rolle 460
+Tetti Berruto 444
+Frassineto Po 1357
+Castagneto Po 944
+Castagnito 530
+Bistagno 1281
+Pagno 392
+Ticineto 1343
+Ghiare-Madonna 1341
+Madonna delle Grazie 212
+Madonna della Neve 343
+Villa Del Foro 383
+La Villa 400
+Villate 375
+Ceresole Alba 1321
+Ceres 405
+Ceretto 247
+Ceretti 270
+Cervere 1310
+Gravere 608
+Grana 615
+Sizzano 1308
+Lombardore 1308
+Mombaruzzo 522
+Valle San Bartolomeo 1288
+Malesco 1287
+Salesina 219
+Garbagna Novarese 1287
+Garbagna 428
+Palazzolo Vercellese 1285
+Pezzana 1282
+Sarezzano 554
+Bollengo 1280
+Ormea 1276
+Cavaglio D'Agogna 1275
+Premosello-Chiovenda 1270
+Brovello 202
+Brolo 294
+Santa Maria Maggiore 1264
+Casalgrasso 1258
+Casalino 404
+Valduggia 1257
+Levaldigi 553
+Castelletto d'Orba 1252
+San Pietro Val Lemina 1247
+Sordevolo 1245
+Levone 415
+Morano sul Po 1242
+Predosa 1241
+Osasco 645
+Mirabello Monferrato 1239
+Montegrosso 1231
+Fubine 1231
+Zubiena 345
+Bienca-Tomalino 354
+Capriata d'Orba 1231
+Piedimulera 1229
+Sant'Antonio 1224
+Occimiano 1218
+San Rocco 1205
+Castel Rocchero 246
+Pianfei 1204
+Fontaneto D'Agogna 1204
+Borgo 1194
+Casale Corte Cerro 1191
+Valle Cerrina 559
+Valle Talloria 385
+Demonte 1184
+Montemagno 974
+Ronco Biellese 1181
+Tonco 769
+Fontanetto Po 1181
+Pallanzeno 1176
+Marocchi 1175
+Montechiaro d'Asti 1170
+Quattordio 1166
+Biandrate 1162
+Brusasco 1161
+Piano-Molini d'Isola 1146
+San Giuliano Vecchio 1145
+San Giuliano Nuovo 588
+San Giuseppe 711
+San Giorio 824
+San Giorgio 594
+Cervasca 1139
+Milanere 1136
+Montanera 493
+Trontano 465
+Pettenasco 1133
+Mercenasco 862
+Ozzano Monferrato 1129
+Roddi 1121
+Cavallirio 1115
+San Defendente 1113
+Viverone 1110
+Sezzadio 1107
+Ozegna 1105
+Vaccheria 1104
+Viale Piemonte 1099
+Viale 225
+Viani 497
+Piobesi d'Alba 1099
+Lagnasco 1083
+Monasterolo di Savigliano 1071
+Monasterolo 1048
+Favari-Avatanei 1067
+Cavalleri-Fumeri 574
+Cavallerleone 485
+Vallo 519
+Roata Rossi 1063
+Cascine Rosse 332
+Cascinetta 399
+Castello di Annone 1062
+Mombello di Torino 278
+Vische 1057
+Massino Visconti 959
+Margarita 1042
+Castell'Alfero 1038
+Quincinetto 1036
+Agrate 1035
+Azeglio 1029
+Cuceglio 959
+Volpedo 1027
+Veruno 1025
+Desana 1019
+Briona 1018
+Mosso Santa Maria 1016
+Santa Maria-Sangrato 426
+Monforte d'Alba 1010
+Caprie 1005
+Villanova Canavese 1001
+San Michele e Grato 1000
+La Morra 1000
+Altavilla Monferrato 275
+Cantalupo 990
+Rocchetta Tanaro 987
+Nebbiuno 977
+Lobbi 668
+Nibbia 572
+Terdobbiate 480
+Trisobbio 280
+Roccaforte Mondovi 975
+Oglianico 973
+Casalbeltrame 958
+Sant'Anna Avagnina 954
+Villalvernia 953
+Bricco Favole 950
+Coniolo Bricco 314
+San Michele 947
+Tettorosso 945
+Rossana 625
+Casalbagliano 945
+Brossasco 943
+Livera 942
+Sozzago 939
+Cameriano 935
+Valenzani 934
+Novaretto 927
+Tagliolo Monferrato 926
+Castagnole Monferrato 696
+Camagna Monferrato 405
+Bosio 925
+Carrosio 431
+Boglietto 924
+Candoglia 210
+Grazzano Badoglio 458
+Casalborgone 921
+Oviglio 920
+Vignone 919
+Crocemosso 917
+Cannero Riviera 917
+Lu 915
+Lurisia 231
+Casaleggio Novara 915
+Caravino 914
+Germagnano 913
+Scarmagno 380
+Bolzano Novarese 912
+Castellazzo Novarese 242
+Venaus 905
+Pasturana 903
+Vaprio D'Agogna 901
+Magognino 227
+Vauda Canavese Superiore 899
+Pralormo 897
+Pralino 283
+Cocconato 895
+Feriolo 890
+Lauriano 888
+San Pietro 883
+San Pietro Mosezzo 776
+Baldichieri d'Asti 880
+Barbania 875
+Refrancore 873
+Francavilla Bisio 466
+Crodo 871
+Burolo 871
+Barolo 428
+Tassarolo 504
+Borghetto di Borbera 866
+Granozzo 861
+Portacomaro 855
+Castelletto Monferrato 852
+Pomaro Monferrato 298
+Sala Monferrato 339
+Tarantasca 847
+Sparone 847
+Recetto 838
+Pontestura 832
+Fiorano Canavese 828
+Orio Canavese 800
+Visone 826
+Aisone 222
+Calliano 825
+Valgioie 824
+Olimpia 823
+Grosso 818
+Monterosso 245
+Rodallo 816
+Rodello 593
+Settimo Vittone 815
+San Vito 242
+Pontepietra 815
+Roccapietra 646
+Rocco 356
+Calamandrana 815
+Andrate 388
+Villareggia 814
+San Paolo Solbrito 811
+San Ponso 240
+Ronsecco 503
+Loranze 810
+Costanzana 798
+Saliceto 792
+Alice Superiore 352
+Falicetto 497
+Vicolungo 789
+Tornaco 789
+Carde 786
+Guardella 203
+Guazzora 308
+Chiomonte 784
+Pietra Marazzi 783
+Martiniana Po 781
+Envie 780
+Baraccone 778
+Baraggione 766
+Casalnoceto 777
+Boca 776
+Locana 740
+Rocca Canavese 605
+Motta De Conti 774
+Motta 603
+Rifreddo 770
+Fresonara 325
+Piovera 767
+Piova Massaia 426
+Pontetto-Roldo 763
+Barengo 760
+Nibbiola 755
+Borriana 755
+Cerrina 314
+Marentino 754
+Passatore 753
+Murisengo 753
+Muriaglio 205
+Maglione 429
+Maglione-Crosa 232
+Nomaglio 290
+Comignago 752
+Lignana 519
+Antignano 421
+Capovilla-Castello 751
+Buronzo 749
+Vallo Torinese 748
+Toceno 745
+Beura 745
+Murazzano 573
+Villa-Borgo 743
+Sant'Antonino 741
+Borgomasino 738
+Miasino 398
+Masio 612
+San Bernardino 736
+Roletto 734
+Croppo 727
+Entracque 722
+Rovasenda 721
+Valmacca 717
+Casal Cermelli 715
+Varisella 713
+Castelrotto 711
+Castellinaldo 711
+Palazzo Canavese 709
+Vico Canavese 430
+Front 709
+Soriso 704
+Casorzo 617
+Dorzano 420
+Borgo Revel 704
+Giarole 702
+Pisano 700
+Pocapaglia 699
+Carema 698
+Sologno 697
+Tricerro 691
+Zumaglia 690
+Cabanette 684
+Tavernette 277
+Baraggia 682
+Agrano 682
+Terruggia 679
+Orta San Giulio 677
+Santa Croce 673
+Murello 672
+Murazzo 299
+Rocca d'Arazzo 274
+San Nazzaro Sesia 667
+Pavarolo 666
+Meana di Susa 666
+Cisterna d'Asti 657
+Vigliano d'Asti 230
+Miradolo 656
+Crava 655
+Craveggia 484
+Viotto 650
+Grangia 647
+Grange 472
+Callianetto 646
+Vignale Monferrato 639
+Fondotoce 633
+Mattie 627
+Stazione 624
+Stazione Prasco-Cremolino 216
+Salussola 620
+Cesana Torinese 617
+Moriondo Torinese 484
+Cerro Tanaro 615
+Porte 611
+Mezzenile 610
+Benne 609
+San Benigno 353
+Molino dei Torti 606
+Monteu da Po 605
+Villaromagnano 604
+Canove 604
+Terranova 477
+Bergamasco 603
+Torreratti-Persi 601
+Giardino-Botto 601
+Portula 600
+Lamporo 524
+Campagnola 361
+Campiglione 565
+Campo 244
+San Cristoforo 588
+San Carlo 275
+Tuninetti 587
+Pessinetto 456
+Bee 585
+Robella 310
+Bellaria 239
+Isolabella 382
+Cabella Ligure 356
+Gurro 229
+Roata Chiusani 581
+Borgoratto Alessandrino 577
+Landiona 575
+San Biagio 569
+Bairo 569
+Baio Dora 462
+Druogno 568
+Cerreto Castello 568
+Sampeyre 566
+Rueglio 557
+Villanova Solaro 552
+San Sebastiano da Po 549
+San Sebastiano 286
+San Sebastiano Curone 468
+Carisio 547
+Cartosio 362
+Arto-Centonara 210
+Barone Canavese 547
+Torre Canavese 510
+Monesiglio 542
+Colleretto Giacosa 541
+Mango 537
+Casabianca 535
+Rumianca 319
+Boschetto 534
+Vestigne 531
+Roppolo 530
+San Didero 529
+Lusiglie 527
+Mombasiglio 375
+Issiglio 337
+Pertusio 526
+Bossolasco 523
+Anzola d'Ossola 438
+Vigellio 521
+Vigna 219
+Rivoira 520
+Mornese 520
+Dagnente 518
+Sant'Eusebio 516
+Foresto 516
+Bieno 516
+Macello 513
+Cellio 302
+Netro 511
+Cantoira 511
+Magliano Alfieri 509
+Pella 508
+Cappella Moreri 340
+Ferrere 507
+Ghevio 506
+Mottalciata 505
+Piatto 402
+Bioglio-Portula-Andre 504
+Re 502
+Gonte 501
+Valdieri 500
+Cuzzego 500
+Cossogno 497
+Ameno 491
+Gaiola 490
+Camburzano 489
+Fornacino 488
+Talonno 484
+Andonno 231
+Perosa Canavese 484
+San Martino Canavese 481
+Rozzo 480
+Piozzo 480
+San Matteo 479
+Castelnuovo-Combalere 479
+Viu 476
+Viarigi 476
+Bandi-Diletta-Paradiso 476
+Borgata Paradiso 229
+Doccio 474
+Cacciana 309
+Fleccia-Chianavasso 339
+Pratavecchia 218
+Cellarengo 474
+Settimo Rottaro 473
+Muzzano 472
+Favaro 470
+Salbertrand 467
+Premeno 466
+Rivalta Nuova 464
+Rivodora 460
+Pecetto di Valenza 459
+Tetti Valfre 218
+Tetti None 242
+Gignese 457
+Busignetto 278
+America 453
+Ricaldone 395
+Revigliasco d'Asti 451
+Pino d'Asti 211
+Lesegno 450
+Sillavengo 449
+Settime 449
+Ottiglio 449
+Faule 447
+Frassinello Monferrato 445
+Cesara 445
+Beguda 445
+Vauda 309
+Barauda 373
+Fontanella-Ozino 444
+Cuzzago 444
+Bulliana-Vico 442
+Nonio 439
+Pianceri Alto 437
+Loranze Alto 229
+Morsasco 435
+Prascorsano 259
+Orsara Bormida 228
+Montaldo Bormida 413
+Mongardino 434
+Cascine Enea 434
+Celle Enomondo 318
+Belforte Monferrato 433
+Gamalero 432
+Vasco 429
+Terzo 428
+Montemarzo 377
+Carpeneto 428
+Dusino 427
+Vernetto 426
+Lusernetta 287
+Cassinelle-Concentrico 425
+Centro 264
+Zimone 424
+Fabbrica-Bettolino-Malvicina-Via Serravalle 423
+Castelferro 422
+Stazione Molare 421
+Baceno 420
+San Valeriano 419
+San Martino 419
+Lequio Tanaro 418
+Zerbi 415
+Scurzolengo 415
+Postua 415
+Casapinta 415
+Isola Sant'Antonio 412
+Calea 411
+Roccasparvera 410
+Parella 410
+Brosso 410
+Magnonevolo 409
+Cerrione 409
+Bobbio Pellice 409
+Montaldo Torinese 408
+Vinadio 405
+Pragelato-Rua 402
+Luzzogno 402
+Rosignano Monferrato 400
+Spigno Monferrato 299
+Mombisaggio e Torre Calderai 400
+Sala Biellese 399
+Frabosa Soprana 397
+Novalesa 396
+Monchiero Borgonuovo 394
+Verduno 393
+Castellar Guidobono 393
+Stella 221
+Savoulx 392
+San Giulio 392
+Chiabotto 392
+Chianocco 224
+Argentera 392
+Antronapiana 392
+Bruere 391
+Savi 389
+Ronchi 388
+Donato 387
+Belgirate 387
+Palucco 386
+Grinzano 385
+Pollastra-Levata 380
+Vinchio 377
+Premia 376
+Valgrana 375
+Valpone 373
+Ponti 306
+Grava 372
+Formigliana 371
+Madonna della Scala 370
+Villa del Bosco 302
+Miazzina 369
+Fontanile 369
+Macellai 368
+Garola 368
+Prarolo 315
+Salmour 366
+Frascaro 365
+Rolandini-Sbarro 363
+Arro 218
+Cunico 363
+Castelspina 363
+Bombonina Soprana 363
+Paschera San Carlo Soprana 283
+Pellizzari 361
+Realizio 358
+Dossi San Bernardo 358
+Berzano di San Pietro 263
+Cella Monte 358
+Monte 272
+Ciconio 355
+Cotonificio 219
+Trucchi-Rossi-Filippi 354
+Bauducchi 303
+Baudenasca 273
+Gorzano 353
+San Marzanotto 216
+San Marzano Oliveto 221
+Rivarone 351
+Vintebbio 350
+Quassolo 350
+Brione 350
+Someraro 346
+Bagni 344
+Tetti Barbasso 343
+Barbaresco 290
+Cossombrato 342
+Carrone 335
+Rivalba 334
+Camino 333
+Cappellazzo 332
+Serravalle 331
+Rocca Grimalda 330
+Sant'Eurosia 328
+San Pietro Del Gallo 325
+Stazione di Portacomaro 324
+Sale delle Langhe 324
+Cuccaro Monferrato 324
+Pratiglione 323
+Montaldo Scarampi 323
+Montaldo Roero 253
+Montaldeo 223
+Lanvario 323
+Cossano Belbo 323
+Niella Belbo 289
+Fosseno 322
+Rossi 233
+Vidracco 321
+Piazzo 321
+Cavaglietto 320
+Mezzi Po 318
+Bettole di Pozzolo 274
+Marcellino 317
+Bastia Mondovi 316
+Montegiove 315
+Case Devesio 315
+Vesime 267
+Sedime 308
+Pratomorone 313
+Belmonte 312
+Scopello 309
+Villaggio la Quercia 307
+Sciolze 307
+Priola 245
+Montrigiasco 307
+Montelupo Albese 307
+Guardabosone 307
+Castelnuovo Calcea 307
+Colleretto Castelnuovo 269
+San Martino Alfieri 306
+Pertengo 305
+Mosche 304
+Azzano d'Asti 304
+San Marzanotto Piana 302
+Alagna Valsesia 301
+Morra del Villar 297
+Glisente 296
+Bruno 296
+Villarboit 295
+Piea 294
+Treiso 293
+Marzalesco 291
+Cinaglio 290
+Quarna Sopra 289
+Alluvioni Cambio 289
+Strambinello 214
+San Damiano Macra 286
+Biellese-Belvedere 286
+San Genuario 285
+Pianca 285
+Fraschea 285
+Vastalla 281
+Gonella 281
+Varinella 242
+Valverde 276
+Melazzo 276
+Pichi 275
+Garzigliana 275
+Crebini 275
+San Bernardo 273
+Montechiaro Piana 273
+Auzate 273
+Spineto Scrivia 272
+Moncucco Torinese 272
+Canton Colombo-Gerbo 269
+Regione Colombero 238
+Nucetto 268
+Vottignasco 267
+San Bartolomeo 266
+Casetti-Rosone 266
+Lugnacco 265
+Villette 264
+Sant'Agata Fossili 264
+Comero 263
+Alice Bel Colle 263
+Coimo 262
+Brassi 262
+Monterosso Grana 259
+Vho 258
+San Giacomo Vercellese 258
+Mondrossa 258
+Cortanze 257
+Scopa 256
+San Giacomo 255
+San Giuliano 244
+Monticello 255
+Generala 255
+Plello 254
+Staffa 253
+Montafia 216
+Ruffia 252
+Alfiano Natta 232
+Villa Pagliara-Morella 251
+Vauda Canavese Inferiore 251
+San Grisante 251
+San Giovanni-Perucca 251
+Rigoroso 250
+Palazzo Grosso 250
+Feisoglio 250
+Alzate 249
+Cassinasco 248
+Bannio 247
+Abazia 247
+Poisatto 246
+Roapiana 245
+Maranzana 245
+Quagliuzzo 244
+Vindrolere 243
+Santa Maria 243
+Perrero 243
+Bossola 243
+Saronsella 242
+Casa circondariale Rodolfo Morandi 242
+Vanzone 241
+Cortereggio 241
+Le Villette 239
+Alpette 239
+Vezzo 238
+Montestrutto 238
+Massazza 238
+Pradleves 236
+Maddalena 236
+Cravanzana 235
+Crabbia 235
+Tina 234
+Ramello 234
+Pozzengo 234
+Bausone 233
+Battifollo 233
+Pedaggio 232
+Casanova Elvo 232
+Quarti 230
+Borgiallo 230
+Vinzaglio 229
+Albo I 229
+Veglia 228
+Paderna 228
+Mugarone 228
+Gosi-Planaval 228
+Castellar Ponzano 228
+Trucchi 226
+Vialfre 224
+Valentino 224
+Monale 224
+Calosso 224
+Beaulard 224
+Albugnano 224
+Bugnate 216
+Mantovana 223
+Carcegna 223
+Vaglio 222
+San Silvestro 221
+Oldenico 221
+Maddalene 221
+Mandello Vitta 220
+Brignano 220
+Colombero 219
+Cimena 218
+Casa Fornace 218
+Montecomposto 216
+La Rezza di Bardassano 213
+Benevello 213
+Traversella 212
+Pievetta 212
+Masseranga 212
+Allivellatori 212
+Granero 209
+Tapigliano 208
+Corso Roma 208
+Castino 208
+Gagnago 203
+Cantavenna 203
+Cremolino 202
+Rovegro 201
+Repergo 201
+Cerreto Grue 201

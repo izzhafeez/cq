@@ -1,212 +1,212 @@
 
 
 Maracaibo 2262600
-Bocono 59400
-San Francisco de Asis 20500
-
-San Cristobal 284600
-Sabaneta 23300
-Cabudare 200000
-Guacara 196400
-Carrizal 58100
-Caucagua 26300
-Cua 165600
-
-Guarenas 244600
-Las Tejerias 38400
-San Mateo 40300
-San Francisco de Yare 38400
-Villa de Cura 95200
-La Guaira 20300
-La Victoria 112900
-Santa Lucia 126400
-San Pablo 23800
-Palo Negro 128700
-
-Valencia 1585500
-Maiquetia 69800
-
-Maracay 464700
-Charallave 145500
-Mamporal 28000
-Altagracia 60400
-Juan Griego 25700
-El Tigre 215800
-Las Mercedes del Llano 23700
-El Hatillo 92900
-Zuata 35400
-
-Petare 441700
-Santa Teresa del Tuy 79900
-Altagracia de Orituco 63600
 
 Caracas 2087700
-Mariara 114800
+Guacara 196400
+
+Valencia 1585500
 
 Barquisimeto 1089100
-Guanarito 25400
-Nirgua 42200
-Piritu 31900
-
-Barinas 356800
-Yaritagua 100200
-Guanare 175400
-Guasdualito 53800
-San Josecito 53200
-Santa Cruz 35500
-Rubio 75800
-Bachaquero 38600
 Quibor 45800
-Miranda 31700
-Sabana de Parra 20200
-Montalban 28800
-San Sebastian 23800
+Tinaquillo 105200
 San Joaquin 68800
-Tinaco 33200
-Duaca 31600
-Carora 113600
-Punta Cardon 113800
-
-Acarigua-Araure 356700
-Guigue 78700
-Los Teques 230800
-La Dolorita 77300
-Los Dos Caminos 75000
-San Juan de los Morros 151600
-Sanare 22900
-San Casimiro 20900
-El Cafetal 64500
-Ocumare del Tuy 127600
-El Sombrero 29000
-El Limon 114900
-San Antonio de los Altos 78300
 
 Ciudad Guayana 893400
-Aragua de Barcelona 26700
-Araya 20000
-Cantaura 55300
-El Valle del Espiritu Santo 24200
-San Jose de Guanipa 81800
-Punta de Mata 57000
-Pampatar 33000
-Tacarigua 65900
-Plaza Paraguachi 34700
-Guanta 33900
-La Guardia 34700
-Guiria 36800
-Puerto Piritu-Piritu 60400
-Guatire 180500
-Araira 37600
-Caraballeda 51100
-
-Maturin 508200
-Tucupita 105600
-Punta de Piedras 27700
-La Asuncion 35600
-Rio Caribe 22100
-Pariaguan 39800
-Caripito 38700
-Carvajal 21600
 
 Ciudad Bolivar 425000
-Valle de la Pascua 136400
+
+Maturin 508200
+
+Maracay 464700
 
 Barcelona 454200
+Aragua de Barcelona 26700
+
+Petare 441700
+Sanare 22900
 
 Cumana 384900
-Tucupido 27200
+Cumanacoa 21600
+Anaco 138700
+Cariaco 27600
+Tacarigua 65900
+Mariguitar 20000
 
 Turmero 379500
-Puerto Cabello 191000
-San Carlos de Austria 107100
-San Diego 22900
-San Felipe 174300
+
+Barinas 356800
+Tinaco 33200
+
+Acarigua-Araure 356700
 
 Baruta 309400
 
 Cabimas 299700
-Barinitas 45400
-Lagunillas 57300
-Tucani 20500
-Caja Seca 29400
+Cabudare 200000
+Guanare 175400
+Guanarito 25400
+Yaritagua 100200
 
 Puerto La Cruz 299500
-Carupano 159300
-Cariaco 27600
-Lecheria 46900
-Higuerote 32200
-Cagua 136400
 
 Merida 289800
-La Fria 37000
-El Vigia 98900
-San Antonio del Tachira 49400
-La Villa del Rosario 75900
-Trujillo 45600
-San Carlos del Zulia 82300
-Santa Ana del Tachira 30500
-Machiques 73500
-Capacho Nuevo 24400
-Pampanito 26100
+
+San Cristobal 284600
+Santa Cruz 35500
 Santa Rita 54600
-Tabay 21100
-La Grita 24100
-Mene Grande 22700
-San Rafael del Mojan 54700
-Sabana de Mendoza 29100
-Tia Juana 23500
-Judibana 22000
-Ciudad Ojeda 153400
-Paraguaipoa 31100
+
+Guarenas 244600
 Coro 231600
-Bejuma 33800
-El Consejo 50300
+Moron 67400
+San Juan de los Morros 151600
+San Antonio de los Altos 78300
+Los Teques 230800
+Los Dos Caminos 75000
+El Tigre 215800
+El Tocuyo 57000
+Puerto Cabello 191000
+Guatire 180500
+Zuata 35400
+San Felipe 174300
 San Fernando de Apure 166400
-Puerto Ayacucho 116300
-Achaguas 36000
-Chivacoa 64000
-Tucacas 26600
+San Francisco de Yare 38400
+Cua 165600
 Valera 165500
-El Callao 25400
+Carupano 159300
+Upata 95600
+Pampatar 33000
+Mamporal 28000
 Calabozo 155200
 Punto Fijo 154100
-Pueblo Nuevo 28100
 Betijoque 19900
-Anaco 138700
-Macuto 20000
-Porlamar 126500
-Temblador 34200
-Tumeremo 35700
-Cumanacoa 21600
-Ejido 116700
-Tovar 35500
-Tariba 109400
-Santa Barbara 36600
-Tinaquillo 105200
-Villa Bruzual 42800
-Upata 95600
-Mariguitar 20000
+Ciudad Ojeda 153400
+Charallave 145500
 Chacao 79300
+Valle de la Pascua 136400
+Villa de Cura 95200
+Cagua 136400
+Pariaguan 39800
+Palo Negro 128700
+Ocumare del Tuy 127600
+Santa Teresa del Tuy 79900
+Porlamar 126500
+Santa Lucia 126400
+Ejido 116700
+Trujillo 45600
+Villa Bruzual 42800
+Puerto Ayacucho 116300
+El Limon 114900
+Montalban 28800
+Mariara 114800
+Punta Cardon 113800
+Carora 113600
+La Victoria 112900
+Tariba 109400
+San Carlos de Austria 107100
+Tucupita 105600
+Tucupido 27200
+El Vigia 98900
+La Villa del Rosario 75900
+El Hatillo 92900
+San Carlos del Zulia 82300
+San Jose de Guanipa 81800
+Guigue 78700
+La Dolorita 77300
+Rubio 75800
 La Concepcion 75100
-Santa Cruz de Los Taques 20700
-La Vela de Coro 31000
-Moron 67400
-Dabajuro 21900
-Cocorote 49300
+Coloncito 23600
+Concepcion 39100
+Machiques 73500
+Bachaquero 38600
+Maiquetia 69800
+El Cafetal 64500
+El Consejo 50300
 Biruaca 64300
+Chivacoa 64000
+Urachiche 21900
+Altagracia de Orituco 63600
+Altagracia 60400
+Puerto Piritu-Piritu 60400
+El Valle del Espiritu Santo 24200
+Bocono 59400
+Cocorote 49300
 Zaraza 58200
-El Tocuyo 57000
+Araira 37600
+La Guaira 20300
+Carrizal 58100
+Lagunillas 57300
+Punta de Mata 57000
+Punta de Piedras 27700
+Cantaura 55300
+Guanta 33900
+San Rafael del Mojan 54700
 Urena 54100
 Socopo 53800
-San Juan de Colon 50500
-Coloncito 23600
-Ciudad Bolivia 36600
+Guasdualito 53800
+San Josecito 53200
 San Juan Bautista 53100
+Caraballeda 51100
 Caicara del Orinoco 50600
+San Juan de Colon 50500
+San Antonio del Tachira 49400
+Santa Ana del Tachira 30500
 Palmira 47600
-Concepcion 39100
+Lecheria 46900
+Las Tejerias 38400
+Las Mercedes del Llano 23700
+Barinitas 45400
+Nirgua 42200
+San Mateo 40300
+Caripito 38700
+La Fria 37000
+Guiria 36800
+Santa Barbara 36600
+Ciudad Bolivia 36600
+Achaguas 36000
+Tumeremo 35700
+La Asuncion 35600
+Tovar 35500
+Plaza Paraguachi 34700
+La Guardia 34700
+Temblador 34200
+Bejuma 33800
+Higuerote 32200
+Piritu 31900
+Miranda 31700
+Duaca 31600
+Paraguaipoa 31100
+La Vela de Coro 31000
 Puerto Cumarebo 29600
+Caja Seca 29400
+Sabana de Mendoza 29100
+Sabaneta 23300
+Sabana de Parra 20200
+El Sombrero 29000
+Pueblo Nuevo 28100
+Tucacas 26600
+Caucagua 26300
+Pampanito 26100
+Tucani 20500
 Guasipati 26000
+Juan Griego 25700
+El Callao 25400
 Soledad 25000
+Capacho Nuevo 24400
+La Grita 24100
+San Sebastian 23800
+San Pablo 23800
+Tia Juana 23500
 Ospino 23200
-Urachiche 21900
+San Diego 22900
+Mene Grande 22700
+Rio Caribe 22100
+Judibana 22000
+Dabajuro 21900
+Carvajal 21600
+Tabay 21100
+San Casimiro 20900
+Santa Cruz de Los Taques 20700
+San Francisco de Asis 20500
+Macuto 20000
+Araya 20000

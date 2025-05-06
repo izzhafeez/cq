@@ -1,0 +1,654 @@
+
+
+Huntsville 215006
+Blountsville 1826
+Guntersville 8553
+
+Birmingham 200733
+
+Pelham 24318
+
+Opelika 30995
+
+Fairhope 22477
+Fairfield 10000
+Sheffield 9403
+Midfield 5211
+
+Montgomery 200603
+Piedmont 4787
+Montevallo 7229
+Valley 10529
+Valley Grande 4190
+Grayson Valley 5982
+
+Mobile 187041
+
+Tuscaloosa 99600
+
+Calera 16494
+
+Hoover 92606
+
+Auburn 76143
+
+Dothan 71072
+
+Decatur 57938
+
+Madison 56933
+Jemison 2642
+Pinson 7215
+
+Florence 40184
+
+Vestavia Hills 39102
+Grove Hill 1818
+
+Phenix City 38816
+
+Prattville 37781
+
+Albertville 22386
+
+Gadsden 33945
+
+Gardendale 16044
+
+Irondale 13497
+Fultondale 9876
+Moulton 3398
+
+Alabaster 33284
+
+Northport 31125
+
+Enterprise 28711
+Morris 2259
+Warrior 3224
+Tarrant 6124
+
+Daphne 27462
+Dauphin Island 1778
+Ashland 1984
+Brook Highland 7406
+
+Millbrook 16564
+
+Mountain Brook 22461
+Emerald Mountain 3310
+
+Homewood 26414
+
+Trussville 26123
+Rainsville 5505
+
+Bessemer 26019
+
+Athens 25406
+
+Oxford 22069
+Ashford 2246
+
+Anniston 21564
+
+Helena 20914
+
+Foley 20335
+
+Prichard 19322
+
+Cullman 18213
+
+Selma 17971
+
+Hartselle 15455
+Hartford 2651
+
+Tillmans Corner 17731
+
+Troy 17727
+Citronelle 3946
+
+Hueytown 16776
+Uniontown 2107
+
+Center Point 16406
+
+Muscle Shoals 16275
+
+Gulf Shores 15014
+
+Saraland 16171
+Arab 8461
+
+Talladega 15861
+Attalla 5827
+
+Scottsboro 15578
+
+Chelsea 14982
+
+Fort Payne 14877
+
+Alexander City 14843
+
+Jasper 14572
+
+Jacksonville 14385
+Jackson 4748
+
+Ozark 14368
+
+Moody 13170
+
+McCalla 12965
+
+Pell City 12939
+Dodge City 548
+Reece City 615
+Sardis City 1814
+
+Eufaula 12882
+
+Sylacauga 12578
+Leeds 12324
+Russellville 10855
+Forestdale 10409
+Clay 10291
+Clayton 2265
+Clanton 8768
+Rainbow City 10191
+Boaz 10107
+Hazel Green 4105
+Spanish Fort 10049
+Saks 9956
+Meadowbrook 9688
+Brookside 1253
+Riverside 2227
+Pleasant Grove 9544
+Pike Road 9439
+Roanoke 5311
+Southside 9426
+Tuskegee 9395
+Tuscumbia 9054
+Columbiana 4462
+Andalusia 8805
+Atmore 8391
+Ardmore 1321
+Tidmore Bend 1119
+Meridianville 8209
+Bay Minette 8107
+Lanett 6970
+Orange Beach 8095
+Greenville 7374
+Wetumpka 7220
+Demopolis 7162
+Hamilton 7042
+Carlton 46
+Oneonta 6938
+Lincoln 6845
+Opp 6771
+Satsuma 6749
+Summerdale 1468
+Moores Mill 6729
+Robertsdale 6708
+Chickasaw 6457
+Childersburg 4754
+Theodore 6270
+Dora 2297
+Monroeville 5951
+Ridgeville 83
+Bridgeport 2264
+Eldridge 136
+Pea Ridge 841
+Blue Ridge 1485
+Harvest 5893
+Smiths Station 5384
+Glencoe 5372
+Glenwood 152
+Brewton 5276
+Highland Lakes 5239
+Redland 5106
+Headland 4973
+Valley Head 577
+Margaret 5106
+New Market 1543
+New Site 773
+New Hope 2889
+Good Hope 2483
+Odenville 4969
+Semmes 4941
+Grimes 573
+Holtville 4940
+Pine Level 4885
+Daleville 4866
+Aliceville 2177
+Hanceville 3217
+Priceville 3512
+Beatrice 204
+Triana 2890
+Uriah 263
+Graham 196
+Winfield 4845
+Springville 4786
+Tallassee 4763
+Fort Rucker 4464
+Hokes Bluff 4446
+Mount Olive (Jefferson County) 4427
+Argo 4368
+Adamsville 4366
+Dadeville 3084
+Lineville 2489
+Haleyville 4361
+Fayette 4285
+Fayetteville 1422
+Geneva 4245
+Alexandria 4032
+Kimberly 3841
+Loxley 3710
+Thomasville 3649
+Centre 3587
+Lake View 3560
+Fairview 543
+Riverview 163
+Evergreen 3520
+Greensboro 2218
+Elba 3508
+Grand Bay 3460
+Grant 1039
+Livingston 3436
+Billingsley 125
+Coaling 2035
+Heflin 3431
+Holt 3413
+Hollywood 914
+Holly Pond 851
+Pollard 128
+Union Springs 3358
+Weaver 3339
+Red Bay 3232
+Marion 3176
+Cottondale 3130
+West End-Cobb Town 3128
+Westover 1766
+Ladonia 3074
+Underwood-Petersville 3051
+Woodville 746
+Moundville 3024
+Brent 2972
+Benton 41
+Mentone 319
+Eutaw 2937
+Eagle Point 2903
+West Point 584
+Choccolocco 2838
+Slocomb 2082
+Centreville 2800
+Luverne 2765
+La Fayette 2684
+Remlap 2624
+Owens Cross Roads 2594
+Morrison Crossroads 221
+Crossville 1830
+Trinity 2526
+Brookwood 2504
+Indian Springs Village 2481
+Sylvan Springs 1653
+Sylvania 1790
+Huguley 2470
+Gurley 816
+Sumiton 2444
+York 2414
+Abbeville 2358
+Ashville 2346
+Brighton 2337
+Brilliant 845
+East Brewton 2293
+Henagar 2292
+Taylor 2262
+Gaylesville 170
+Midland City 2239
+Stapleton 2213
+Bayou La Batre 2204
+Kinsey 2203
+Guin 2195
+Gu-Win 141
+Twin 359
+Carlisle-Rockledge 2167
+Arley 330
+Selmont-West Selmont 2158
+Elkmont 411
+Whitesboro 2113
+Hurtsboro 349
+Vance 2092
+Lipscomb 2086
+Point Clear 2076
+Brundidge 2073
+Pine Ridge 263
+Thorsby 2064
+Collinsville 2059
+Vincent 1982
+Elberta 1974
+Gilbertown 739
+Stevenson 1955
+Lester 111
+Graysville 1950
+Ray 326
+Creola 1936
+Linden 1930
+Hayden 1342
+Cowarts 1930
+Camden 1927
+Florala 1923
+Vernon 1921
+Mount Vernon 1354
+Mount Olive (Coosa County) 311
+Coosada 1217
+Sulligent 1879
+Lillian 1330
+Nanafalia 75
+Georgiana 1324
+Samson 1874
+Hobson 100
+Rehobeth 1791
+Hobson City 759
+Garden City 528
+Butler 1871
+Wilsonville 1857
+Gordonville 245
+Cedar Bluff 1845
+Yellow Bluff 208
+Level Plains 1825
+Cleveland 1245
+Carbon Hill 1769
+Oak Hill 14
+Bon Secour 1754
+Cordova 1728
+Gordo 1628
+Ragland 1693
+Concord 1690
+Gordon 294
+Deatsville 1679
+Shoal Creek 1668
+Rock Creek 1471
+Stewartville 1662
+Smoke Rise 1661
+Harpersville 1614
+Newton 1607
+Malvern 1536
+Reform 1520
+Lookout Mountain 1484
+Woodstock 1472
+Flomaton 1466
+Ballplay 1437
+New Brockton 1428
+Marbury 1427
+Hackleburg 1425
+Leesburg 911
+Nixburg 329
+Munford 1351
+Coats Bend 1318
+Goodwater 1291
+Sweet Water 228
+Waterloo 178
+Rogersville 1286
+Elmore 1280
+Webb 1270
+Fort Deposit 1225
+Clio 1220
+Union 180
+New Union 1019
+West Blocton 1217
+West Jefferson 417
+Berry 1216
+Berlin 476
+Waverly 159
+Beaverton 187
+Calvert 255
+Silverhill 768
+Falkville 1197
+Millerville 303
+Orrville 150
+Eclectic 1193
+Locust Fork 1192
+Mignon 1186
+Minor 1088
+Frisco City 1170
+Ohatchee 1157
+Cherokee 970
+Double Springs 1119
+Chatom 1104
+Vandiver 1084
+Town Creek 1052
+Cottonwood 1048
+Bear Creek 1047
+Littleville 1038
+Killen 1034
+Snead 1032
+Carrollton 1023
+Millport 1010
+Millry 450
+Camp Hill 1006
+Phil Campbell 992
+Steele 992
+Parrish 982
+Fyffe 967
+Coffee Springs 206
+Blue Springs 84
+Altoona 948
+Ivalee 946
+Shelby 940
+Dunnavant 936
+Brantleyville 931
+Brantley 825
+Notasulga 914
+Geraldine 910
+Coker 904
+Powell 901
+White Plains 877
+Gallant 869
+Gantt 196
+Egypt 845
+Redstone Arsenal 837
+Skyline 834
+County Line 311
+Mosses 834
+Cusseta 152
+Hayneville 830
+Magnolia Springs 811
+White Hall 806
+Somerville 796
+Autaugaville 795
+Reeltown 794
+Susan Moore 787
+Mulga 784
+Walnut Grove 773
+Oak Grove 564
+Oakman 771
+Lisman 427
+Leroy 766
+Douglas 761
+Pine Hill 758
+Section 756
+Nectar 379
+Jacksons' Gap 747
+Edgewater 746
+McDonald Chapel 739
+Wedowee 737
+Macedonia 241
+Ider 735
+Perdido 730
+Lexington 727
+Langston 265
+Kinston 580
+Sterrett 706
+Columbia 690
+Colony 264
+Malcolm 136
+Pisgah 681
+Leighton 665
+Hollis Crossroads 665
+Ariton 662
+Wadley 659
+Addison 659
+Baileyton 649
+Kellyton 129
+Hytop 441
+Maytown 316
+Maplesville 637
+Babbie 625
+Bristow Cove 624
+Daviston 174
+Stockton 557
+Trafford 613
+Belle Fontaine 613
+Lynn 610
+Our Town 605
+Rock Mills 603
+Rockford 349
+Sand Rock 591
+Standing Rock 132
+Franklin 590
+Eva 589
+Wilton 587
+Fulton 223
+St. Florian 584
+Courtland 583
+Pinckard 582
+Axis 561
+South Vinemont 558
+Pickensville 557
+Excel 557
+Joppa 556
+Perdido Beach 555
+Cardiff 52
+Allgood 548
+Newville 544
+Hollins 517
+McKenzie 507
+Dozier 285
+Castleberry 486
+North Courtland 483
+River Falls 479
+Clayhatchee 466
+Avon 465
+Nauvoo 185
+Lockhart 445
+Forkland 445
+Kennedy 435
+Glen Allen 433
+Red Level 432
+Pleasant Groves 426
+Hammondville 425
+Goldville 52
+Ranburne 422
+Midway 421
+Edwardsville 206
+St. Stephens 415
+Highland Lake 412
+Lakeview 161
+Napier Field 409
+Hillsboro 407
+Nances Creek 399
+Louisville 395
+Shorter 385
+Silas 377
+Rosa 376
+Sipsey 363
+Bellamy 363
+Belk 186
+Rutledge 351
+Hackneyville 349
+Dutton 330
+Pennington 329
+Thomaston 326
+Vina 325
+Carolina 286
+Shiloh 321
+Cuba 306
+Boligee 301
+Geiger 155
+Movico 291
+Eunola 284
+Epes 272
+Repton 235
+Goshen 269
+Madrid 265
+Hodges 265
+Coffeeville 263
+Delta 260
+Waldo 258
+Sanford 257
+Anderson 254
+Hatton 244
+Heath 236
+Fruithurst 235
+Fruitdale 175
+Detroit 230
+Petrey 67
+Akron 225
+Vredenburgh 222
+Woodland 221
+Black 221
+Spring Garden 216
+Spruce Pine 215
+Pine Apple 143
+Bakerhill 211
+Hissop 209
+Boykin 208
+Weogufka 207
+Horn Hill 207
+McIntosh 206
+Fredonia 198
+Chunchula 195
+Paint Rock 182
+Kansas 180
+Vinegar Bend 178
+Putnam 172
+Gainesville 172
+Mooresville 47
+East Point 172
+Five Points 114
+Bon Air 172
+Belgreen 170
+Whatley 167
+Providence 167
+Onycha 167
+Penton 163
+Fairford 161
+Loachapoka 160
+Broomtown 160
+Banks 156
+Hanover 151
+Equality 150
+Toxey 145
+Sims Chapel 145
+Talladega Springs 144
+Gulfcrest 142
+Deer Park 141
+Newbern 133
+Abanda 133
+North Johns 127
+Cullomburg 126
+Haleburg 112
+Libertyville 108
+Faunsdale 90
+Lowndesboro 89
+Peterman 87
+Fitzpatrick 79
+Needham 73
+Panola 71
+Myrtlewood 70
+Union Grove 67
+Catherine 65
+Megargel 60
+Tibbie 55
+Ethelsville 49
+Rockville 47
+Natural Bridge 32
+McMullen 32
+Emelle 32
+Memphis 29
+Dayton 28
+Bucks 22

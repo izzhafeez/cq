@@ -1,154 +1,154 @@
 
 
 Vilnius 542366
-Salcininkai 6891
-Sirvintos 7321
-Baltoji Voke 1071
-Birstonas 3181
-Varena 10304
-Vaivadiskes 71
-Kaisiadorys 9867
-Senieji Trakai 1501
-Jieznas 1390
-Vievis 5269
-Skaidiskes 4457
-Kernave 272
-Karmelava 1395
-Aukstadvaris 1031
-Martinava 65
-Linksmakalnis 817
-Vilkaviskis 13011
-Ezerelis 2051
-Ziezmariai 4060
-Ramuciai 1583
-Vepriai 549
-Anyksciai 11958
-Dukstas 1021
-Kavarskas 755
-
-Jonava 34993
-Prienai 11352
-Elektrenai 13721
-Lentvaris 11588
-Moletai 7243
-Trakai 5530
-Dubravai 122
-Garliava 13809
-Ariogala 3653
-Samylai 198
-Daugai 1279
-Mastaiciai 1339
-Sakiai 6613
-Ziegzdriai 291
-
-Kedainiai 31980
-Seduva 3321
-Vabalninkas 1177
-Pabirze 490
-Ramygala 1637
-Naujamiestis 770
-Vilkija 2289
-Gelgaudiskis 1839
 
 Kaunas 374643
-Kulautuva 1401
-Kudirkos Naumiestis 1961
-Noreikiskes 926
 
 Klaipeda 192307
-Bugai 1976
-Kursenai 13914
-Tytuveneliai 2775
-
-Panevezys 117395
-Pakruojis 5964
-Pandelys 973
-Stelmuze 50
-Svencioneliai 6790
-Leliunai 483
-
-Utena 33240
-Nemencine 6062
-Ignalina 6421
-Troskunai 480
-Linkuva 1719
-Tyruliai 372
-Vieksniai 2212
-Radailiai 53
-
-Mazeikiai 41309
-Plateliai 1100
-Silute 21760
 Seda 1224
-Zemaiciu Naumiestis 1284
-Panemune 313
-Plunge 23381
-
-Taurage 27662
-Kybartai 6355
-
-Marijampole 47613
-Veisiejai 1654
-Gervenupis 200
 
 Siauliai 130587
-Silale 6026
-Salantai 1829
-Uzventis 827
-Joniskis 11113
-Varniai 1227
-Pagegiai 2363
-Raseiniai 12523
-Smalininkai 599
-Kalvarija 4875
-
-Alytus 70747
-Simnas 1864
 
 Telsiai 30098
+Plateliai 1100
+
+Panevezys 117395
+Pandelys 973
+Pasvalys 8510
+
+Alytus 70747
+
+Marijampole 47613
+Kalvarija 4875
+
+Mazeikiai 41309
+
+Jonava 34993
+Martinava 65
+
+Utena 33240
+Kena 400
+Varena 10304
+Elektrenai 13721
+Prienai 11352
+
+Kedainiai 31980
+Raseiniai 12523
+Varniai 1227
 
 Visaginas 28348
-Kena 400
-Svencionys 5538
-Kulionys 47
-Obeliai 1247
-Sudeikiai 407
-Pabrade 6375
+
+Taurage 27662
+Pagegiai 2363
 
 Ukmerge 25886
-Kretinga 22236
-Gargzdai 16433
-Skuodas 7726
-Rietavas 3737
-Venta 3270
-Sventoji 2000
-Akmene 3026
-Kelme 10626
-Naujoji Akmene 11922
-Radviliskis 20339
+Plunge 23381
+Silute 21760
+Silale 6026
 Palanga 17796
-Juodkrante 720
+Neringa 2380
+Kretinga 22236
+Radviliskis 20339
 Druskininkai 17791
-Kazlu Ruda 7247
-Lazdijai 4975
+Salcininkai 6891
+Gargzdai 16433
 Rokiskis 16255
 Kupiskis 8263
-Juodupe 1989
-Dusetos 833
+Joniskis 11113
 Birzai 14911
-Zarasai 8095
+Pabirze 490
+Kursenai 13914
+Garliava 13809
 Jurbarkas 13102
 Virbalis 1281
-Pasvalys 8510
-Eisiskes 3809
-Lavoriskes 585
+Vilkaviskis 13011
+Vilkija 2289
+Anyksciai 11958
+Naujoji Akmene 11922
+Akmene 3026
+Lentvaris 11588
+Aukstadvaris 1031
+Kelme 10626
+Kaisiadorys 9867
+Zarasai 8095
+Skuodas 7726
+Juodkrante 720
+Sirvintos 7321
+Kazlu Ruda 7247
+Moletai 7243
+Svencioneliai 6790
+Svencionys 5538
+Kulionys 47
+Sakiai 6613
+Ignalina 6421
+Pabrade 6375
+Kybartai 6355
+Nemencine 6062
+Pakruojis 5964
+Trakai 5530
+Linksmakalnis 817
+Vievis 5269
+Lazdijai 4975
+Skaidiskes 4457
 Rudiskes 2616
+Vaivadiskes 71
+Ziezmariai 4060
+Jieznas 1390
+Eisiskes 3809
+Rietavas 3737
+Ariogala 3653
+Ramygala 1637
+Samylai 198
+Seduva 3321
+Linkuva 1719
+Venta 3270
+Sventoji 2000
+Birstonas 3181
+Tytuveneliai 2775
 Rusne 2484
-Naustubriai 20
-Neringa 2380
-Priekule 1710
+Panemune 313
+Vieksniai 2212
 Zagare 2201
+Ezerelis 2051
+Juodupe 1989
+Bugai 1976
+Kudirkos Naumiestis 1961
+Simnas 1864
+Gelgaudiskis 1839
+Salantai 1829
+Priekule 1710
+Veisiejai 1654
+Senieji Trakai 1501
 Nida 1650
+Ramuciai 1583
+Mastaiciai 1339
+Kulautuva 1401
+Karmelava 1395
+Zemaiciu Naumiestis 1284
+Daugai 1279
+Obeliai 1247
+Vabalninkas 1177
+Baltoji Voke 1071
+Dukstas 1021
+Noreikiskes 926
+Dusetos 833
+Uzventis 827
 Dotnuva 783
+Naujamiestis 770
+Kavarskas 755
+Smalininkai 599
+Lavoriskes 585
+Vepriai 549
+Leliunai 483
+Troskunai 480
+Sudeikiai 407
+Tyruliai 372
+Ziegzdriai 291
 Turmantas 282
+Kernave 272
+Gervenupis 200
+Dubravai 122
+Radailiai 53
+Stelmuze 50
 Smiltyne 50
+Naustubriai 20

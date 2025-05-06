@@ -1,5779 +1,5779 @@
 
 
 Ljubljana 272220
-
-Voglje 668
-Kolicevo 347
-Sevec 44
-Precna 444
-Gorenja Brezovica 210
-Prezenjske Njive 20
-
-Gornji Grad 1048
-Dolenji Leskovec 282
-Srednji Vrh 98
-Dolenji Globodol 50
-Vrh pri Dolskem 21
-Sadinja Vas pri Dvoru 161
-Stranje pri Dobrnicu 21
-Suhor pri Dol. Toplicah 64
-Podsmreka pri Velikih Lascah 22
-Brezovica pri Trebelnem 21
-Tremerje 64
-Kamensko 21
-Jerovska Vas 35
-Jurjevski Dol 60
-Mala Dobrava 35
-Klece pri Dolu 139
-Pristava pri Lesicnem 40
-Dobravica pri Vel. Gabru 21
-Veliko Brdo 106
-
-Dolenji Bostanj 667
-Malence 58
-Gorenje Dole 43
-Gorje 87
-Sentjost nad Horjulom 378
-Ulaka 43
-Mali Kal 69
-Velika Strmica 43
-Prikrnica 69
-Vrhnika pri Lozu 153
-
-Prozinska Vas 483
-Senturska Gora 166
-Gornja Vas 157
-Bogneca Vas 80
-Ravne v Bohinju 43
-Obcine 33
-Stegne 171
-Nemcavci 245
-Bukovscica 146
-Buce 157
-Cresnjice 132
-Srednji Gasteraj 77
-Drecji Vrh 80
-Srednji Globodol 57
-Njivice 106
-Kozmerice 21
-Socerga 66
-Sotensko pri Smarju 115
-Sarsko 58
-Zazar 169
-Jazbin Vrh 40
-Raztez 86
-Brezovi Dol 169
-Dolnje Vreme 114
-Zgornje Palovce 40
-Brezje pri Slov. Bistrici 21
-Spodnje Slemene 15
-Beli Potok pri Lembergu 40
-Otosce 21
-Topolovci 64
-Storovo 5
-Ostrozno Brdo 94
-Gabrno 49
-Sinovica 13
-Rudnica 27
-Golek pri Vinici 61
-Dolenji Potok 1
-Blecji Vrh 61
-Spodnji Cacic 1
-Podlog pod Bohorjem 61
-Spodnji Vrsnik 49
-Pogonik 8
-Fijeroga 27
-Gajsevci 55
-Preveg 27
-Hrusevica 139
-Strukljeva Vas 22
-Kostanjevica na Krasu 348
-Goricica pri Moravcah 86
-Straza pri Dolu 21
-Sele pri Polskavi 168
-Gradisce pri Lukovici 228
-Bodislavci 147
-Lacaves 129
-Zagozdac 21
-Zavinek 64
-Zabrdo 5
-Dobrovlje pri Mozirju 64
-Laze pri Gobniku 21
-Velike Gorelce 64
-Selnik 21
-Veliki Boc 106
-Lisjaki 43
-Dolenja Vas pri Polici 87
-Dragomlja Vas 106
-Gorenja Podgora 21
-Jugorje 64
-Cateska Gora 21
-Razgorce 15
-Limbarska Gora 118
-Zgornja Sorica 167
-Podsmreka pri Visnji Gori 33
-Pristava pri Sentjerneju 57
-Brezova Reber pri Dvoru 41
-Kraberk 73
-Becaje 33
-Strmec 128
-Metnaj 115
-Tirna 167
-Cimerno 33
-Zerovnica 202
-Sv. Trojica 115
-Svinjsko 58
-Gradisce v Tuhinju 60
-Cesca Vas 128
-Recica ob Paki 466
-
-Lokovica 906
-Jevnica 389
-Glogovica 149
-Goricice 71
-Male Vodenice 36
-Ponikve pri Studencu 71
-Gornji Suhor pri Vinici 36
-Nova Vas pri Smarju 71
-Gorenja Lepa Vas 42
-Gorenjci pri Adlesicih 51
-Zalog pri Kresnicah 36
-Borovec pri Kocevski Reki 51
-Veliki Vrh pri Litiji 163
-Slavski Laz 20
-Mlaka 282
-
-Lukavci 630
-
-Kalce 529
-Ceste 119
-Dolenje Karteljevo 116
-Polje pri Visnji Gori 20
-Zgornji Cacic 9
-Goveji Dol 20
-Mali Cerovec 29
-Male Dole 168
-Spodnja Dobrava 47
-Mrzlava Vas 168
-Dolenja Vas pri Polhovem Gradcu 246
-Vrhole pri Laporju 167
-Zavrse pri Dobjem 33
-Obrezje pri Zidanem Mostu 128
-Nemilje 80
-Onek 43
-Dolenje Podpoljane 58
-Landol 156
-Male Dole pri Temenici 27
-Dobrova pri Prihovi 55
-Mackovec pri Suhorju 8
-Koromaci-Boskini 31
-Mala Kostrevnica 242
-Zgornja Jablanica 106
-Zdinja Vas 207
-Spodnja Branica 111
-Kremenica 58
-Locica pri Vranskem 169
-Sela pri Dobu 40
-Selska Gora 21
-Selo nad Laskim 35
-Trebanjski Vrh 60
-Vrh pri Povrsju 43
-Sela pri Otovcu 69
-Srobotnik pri Vel. Lascah 54
-Selce pri Leskovcu 48
-Brestovica pri Komnu 188
-Sela pri Dolenjskih Toplicah 251
-
-Ursna Sela 626
-Melise 49
-Nose 8
-Jesenica 84
-Kvasica 52
-Bizeljska Vas 47
-Vinska Gorica 168
-Zgornja Kostrivnica 147
-Mali Korinj 51
-Dravinjski Vrh 266
-Podgrad pri Vremah 24
-Spodnja Pristava 36
-Brezje pri Podplatu 63
-Dolenje Gradisce pri Sentj. 116
-Breg pri Zagradcu 20
-Zagaj pod Bocem 168
-Podpreska 118
-Podmelec 86
-Goricica pod Krimom 169
-Blocice 114
-Kancevci 60
-Vrtovce 114
-Brekovice 60
-Seniski Breg 128
-Letenice 115
-Klenovo 58
-Male Lese 43
-Lepence 33
-
-Petanjci 667
-Strezetina 69
-Dolenji Podborst pri Treb. 43
-Spodnje Jelenje 33
-Lormanje 170
-Spodnje Grusovje 197
-Male Rodne 122
-Stranske Makole 127
-Trata pri Velesovem 122
-Radkovec 41
-Podbukovje 153
-Spodnja Bela 99
-Zgornja Radovna 73
-
-Zgornje Poljcane 885
-Dolenjci 92
-Podgora pri Dolskem 252
-Dolenja Vas pri Articah 99
-Koroska Vas 194
-Korpule 69
-Gorenje Zabukovje 43
-Drenovec pri Leskovcu 58
-Lesicno 169
-Panovci 40
-Padeski Vrh 139
-Sela pri Zajcjem Vrhu 62
-Bozic Vrh 11
-Krzisce 53
-Krsinji Vrh 34
-Razbore-K. O. Jezni Vrh 27
-Praprece pri Strazi 139
-Borje pri Mlinsah 40
-Zagorica pri Rovah 47
-Draga pri Sinjem Vrhu 15
-Businec 40
-Cusperk 222
-Spodnji Prekar 50
-Podgora pri Zlatem Polju 25
-Varpolje 315
-Razgor pri Zabljeku 98
-Crna pri Kamniku 193
-Stara Gora pri Sentilju 98
-Stranje pri Skocjanu 50
-Petelinjek pri Locah 47
-Mali Lipovec 64
-Skemljevec 21
-Mali Rakitovec 35
-Leskovec v Podborstu 84
-Podstrmec 22
-Straza pri Moravcah 47
-Gorenji Maharovec 66
-Zalog pri Moravcah 182
-Ravnje 48
-Dolenje Laknice 56
-Spodnje Vodale 118
-Podbreze 35
-Brodnice 60
-Krstenica 43
-Drazica 87
-Spodnja Senica 378
-Temnica 153
-Brezovica na Bizeljskem 99
-Smartno na Pohorju 173
-Budna Vas 99
-
-Spodnja Polskava 936
-Turiska Vas 148
-Jurski Vrh 151
-Veliki Cerovec 148
-Stavesinski Vrh 151
-Zgornji Drazen Vrh 131
-Pristava pri Visnji Gori 30
-Zgornji Obrez 175
-Dolnji Lakos 273
-Jakob pri Sentjurju 138
-Sentpavel na Dolenjskem 148
-Dolnja Paka 39
-Poljsica pri Gorjah 248
-
-Gornja Bistrica 725
-Ostrog 172
-Mala Vas pri Grosupljem 295
-Cuznja Vas 110
-Brezni Vrh 164
-Sebrelje 311
-Pusto Polje 97
-Vrhovo pri Sentlovrencu 33
-Potov Vrh 171
-Bukovje v Babni Gori 85
-Podgorica pri Smarju 89
-Smiklavz pri Skofji Vasi 215
-Trnovec pri Slovenski Bistrici 76
-Javorniski Rovt 249
-Jurovci 174
-Bevce 322
-Veliki Gaber 314
-Paski Kozjak 234
-Svrzaki 112
-Zagorci 322
-Zgornje Verjane 135
-Podgorje pri Letusu 68
-
-Gorica pri Smartnem 558
-Preloge pri Konjicah 166
-Zali Log 253
-Voglarji 109
-
-Vojnik 2292
-Blatnik pri Crnomlju 153
-Koprivnik 99
-Kusernik 97
-Ustje 377
-Roje 90
-Zgornje Prebukovje 171
-Berkovski Prelogi 33
-Belavsek 77
-Zgornje Selce 80
-Kalce-Naklo 170
-Babna Reka 97
-Pekel 170
-Velicane 122
-Ohonica 80
-Lipovsica 54
-Koprivnica 142
-Kostanjevica 37
-Stalcerji 183
-
-Gabrje 626
-Serjuce 56
-Dolenje Jesenice 60
-Razbor pri Cemseniku 58
-Laze pri Dramljah 169
-Strmec pri Destrniku 40
-Kremenik 21
-Oskrt 15
-Plesko 40
-Cresnova 86
-Sneznik 21
-Catez 106
-Tratna ob Voglajni 21
-Okrog pri Motniku 64
-Brsnik 5
-Radomerscak 156
-Bereca Vas 188
-Sela pri Stravberku 5
-Ostrozno pri Ponikvi-Del 111
-Strelac 43
-Mala Stanga 33
-Pongrce 128
-Spodnje Palovce 80
-Zaloska Gorica 43
-Zgornja Javorsica 87
-Podgorica pri Pecah 56
-Podblica 118
-Hosnica 200
-Osojnik 115
-Stojanski Vrh 58
-Strojna 111
-Mali Trn 43
-Dornice 58
-Zgornja Kapla 169
-Gorjane 182
-Zlogona Gora 87
-Mirna Vas 58
-Trnjava 242
-Gornje Impolje 22
-Dalnje Njive 21
-Zgornji Otok 64
-Cresnjevec pri Ostrcu 21
-Zagorica pri Dobrnicu 64
-Podob 21
-Spodnje Hlapje 106
-Podpec pod Skalo 21
-Studenec na Blokah 64
-
-Slovenska Vas 549
-Skakovci 207
-Zgornje Gruskovje 111
-Petrusnja Vas 200
-Draga pri Sentrupertu 118
-Tublje pri Hrpeljah 129
-Spodnje Prebukovje 147
-Prevoje 20
-Mevce 29
-Srzevica 91
-Gric pri Doblicah 84
-Dobovo 21
-Vidovica 64
-Padovo pri Fari 5
-Jeranovo 94
-Volcje 93
-Slugovo 13
-Migolska Gora 27
-Gorenja Vas pri Polici 55
-Poljane pri Stjaku 6
-Jesovec pri Smarju 62
-Gabrje pri Jancah 94
-Hrase pri Preddvoru 27
-Gorica pri Raztezu 55
-Brezje pri Dobrovi 399
-Hrastje pri Mirni Peci 86
-Skrjance pri Novem Mestu 47
-Brezje pri Trebelnem 35
-Belsak 60
-Sibenik 114
-Libusnje 40
-Gorenje Brezovo 47
-Robidni Breg 35
-Sobrace 60
-Brezje pod Nanosom 43
-Zgornje Dobrenje 87
-Gorenji Globodol 106
-Dolenje pri Jelsanah 207
-Rizana 139
-Zabavlje 22
-Grabe pri Ljutomeru 118
-Vrh pri Bostanju 200
-Dedni Vrh 5
-Decja Vas 94
-Spodnja Sorica 93
-Dolnja Briga 13
-Stehanja Vas 49
-Dolenja Podgora 8
-Gorenjski Vrh 84
-Zajcji Vrh pri Stopicah 91
-Hrastovica 118
-Susica 106
-Praprotnica 43
-Brezovica 216
-Kosnica 111
-Racica 202
-Bloska Polica 69
-Ptujska Cesta 225
-Poljsica pri Podnartu 97
-Podturn pri Dol. Toplicah 325
-
-Leskova Dolina 539
-Vitanjsko Skomarje 85
-Artmanja Vas 26
-Litmerk 160
-Libna 171
-Olimje 245
-Grlinci 146
-Studenca 69
-Podklanc 153
-Spodnje Secovo 467
-Zgornje Grusovlje 194
-Gorenje Skopice 171
-Skofce 33
-Otoce 170
-Vinice 97
-Cesnjice pri Trebelnem 99
-Dole pri Krascah 194
-Bokraci 69
-Kremenca 43
-Moskrin 22
-Druzinska Vas 348
-Stranski Vrh 57
-Vrhov Dol 106
-Kapelski Vrh 243
-Vrh pri Pahi 87
-Sv. Vrh 106
-Vrsnik 118
-Velika Kostrevnica 202
-Bistra 80
-Borst 170
-Dvori 33
-Gorenje pri Divaci 128
-Slatina pri Dobjem 57
-Dobovica 41
-Pesnica 153
-Rupe 73
-Predloka 69
-Veliki Otok 157
-Vetrnik 132
-Velike Lese 122
-Loke pri Planini 96
-Presna Loka 73
-Gradisce-K. O. St. Lovrenc 33
-Radez 128
-Gornje Brezovo 57
-Ratecevo Brdo 33
-Grdina 128
-Krasna 80
-Padna 170
-Gradensak 33
-Jakovica 77
-Bukov Vrh 99
-Zgornji Leskovec 157
-Jelovec pri Makolah 203
-Breg pri Konjicah 132
-
-Brezje pri Grosupljem 861
-Griblje 356
-Lenart pri Gornjem Gradu 147
-Zgornji Razbor 129
-Spodnji Ivanjci 147
-Kostanjevec 326
-Grintovec 98
-Skamevec 9
-Gorenja Nemska Vas 114
-Mrseca Vas 35
-Brezovica pri Dobu 60
-Dedni Dol 128
-Vrhovo pri Mirni Peci 69
-
-Senovo 2343
-Sela 194
-Kosise 171
-Koce 245
-Berkovci 146
-Gabrk 108
-Spodnja Vizinga 319
-Tomazja Vas 127
-Straza na Gori 121
-Marijina Vas 77
-Zubina 96
-Jurna Vas 108
-Martinja Vas pri Mokronogu 127
-Dol pri Smarju 77
-Dobovec pri Ponikvi 69
-Velika Pristava 57
-Gorica pri Dobjem 41
-Slatina pri Ponikvi 108
-Vrhole pri Slov. Konjicah 319
-Sv. Ema 195
-Sela pri Smarju 160
-Dole pri Polici 135
-Sela pri Volcah 85
-Mala Lahinja 26
-Malo Hudo 166
-Podstudenec 108
-Rovt pod Menino 99
-Kamni Potok 77
-Podgorje pod Cerinom 99
-Podlonk 153
-Ponikva pri Zalcu 373
-Dolenja Vas pri Mirni Peci 83
-Tomaska Vas 135
-Velika Ilova Gora 68
-Ratanska Vas 83
-
-Sostanj 2880
-Sveta Planina 95
-Slivnica pri Celju 109
-Stara Cerkev 309
-Smarjeta 326
-Tatre 47
-Troscine 35
-Zalose 84
-Lozec 22
-
-Otocec 776
-Trzec 410
-Brstovec 40
-Marsici 21
-Polsina 64
-Dobindol 115
-Gorenji Suhadol 64
-Selce pri Speharjih 5
-Cesnjica pri Kropi 111
-Straza pri Raki 167
-Gradisce pri Trebnjem 69
-
-Smarje pri Jelsah 1779
-Zirje 96
-Bobovo pri Smarju 108
-Komarnica 41
-Spodnji Gabernik 122
-Velike Rodne 164
-Brezovica pri Metliki 70
-Suha pri Predosljah 237
-Borovak pri Podkumu 121
-Murscak 164
-Gorenji Novaki 226
-Bohova 270
-Morava 132
-Zavrc 77
-Klavze 80
-Lokavci 157
-Zavine 80
-Prnek 122
-Praprotno 127
-
-Hotinja Vas 1344
-Zgornja Sveca 70
-Rumanja Vas 252
-
-Zgornja Bistrica 567
-Bic 90
-Strtenica 97
-Sentrupert 377
-Martinj Vrh 240
-
-Podkraj pri Velenju 764
-Smarjeta pri Celju 219
-Brezovica pri Mirni 132
-Dolenja Pirosica 77
-
-Zgornja Volicina 614
-Stefanja Gora 92
-Gorjansko 263
-
-Gorisnica 788
-Senovica 136
-Svino 104
-Vizore 159
-
-Podvinci 852
-Spodnji Kljucarovci 134
-
-Ljubija 486
-Hrastje pri Cerkljah 134
-
-Cersak 708
-
-Serdica 532
-Mala Bukovica 162
-Male Cesnjice 103
-Mali Podlog 110
-Spodnja Loznica 173
-Srednja Vas pri Kamniku 237
-Lusecka Vas 271
-Kastelec 70
-Polzanska Vas 90
-Polensak 171
-
-Kasaze 842
-
-Skale 883
-Dolencice 85
-Fiksinci 173
-Hinje 70
-Zgornje Koseze 90
-Podgorje ob Sevnicni 127
-Trnice 437
-
-Petrovce 973
-Cezanjevci 236
-Drganja Sela 227
-Levanjci 140
-Dane 112
-Vodranci 132
-Norsinci pri Ljutomeru 225
-Drenovec pri Bukovju 132
-Butajnova 219
-Lemberg pri Novi Cerkvi 140
-Vrh pri Sentjerneju 124
-Vrhovlje 92
-Turjanski Vrh 81
-Zgornje Tinsko 142
-Dovsko 242
-Rankovci 251
-Zabukovje pri Raki 58
-Zabreznik 43
-Gabrje pod Spilkom 33
-
-Spodnja Recica 635
-Matenja Vas 353
-Velika Varnica 208
-Zgornja Breznica 76
-Srebrnice 112
-Mrtvice 215
-Trgovisce 225
-Zadlaz-Cadrg 33
-Azenski Vrh 54
-Zavrhek 48
-Trsek 54
-Plese 48
-Vosek 317
-Pocakovo 128
-Vrtoce 57
-Kocno pri Polskavi 101
-Skarucna 306
-Jeruzalem 41
-Serovo 122
-Rodik 311
-Veliki Kal 97
-Ivanjsevski Vrh 170
-Veliki Korinj 33
-Ocinje 57
-Koprivnik v Bohinju 216
-Golobinjek ob Sotli 48
-Gornji Kot 54
-Crneska Gora 48
-Gornje Laze 27
-Dolenje Vrhpolje 139
-Kozji Vrh 62
-Sv. Trije Kralji v Slov. Gor. 55
-Gorenji Potok 1
-Hrenova 169
-Recenjak 182
-Gorenje Mokro Polje 48
-
-Podgorje 993
-Kuzarjev Kal 48
-Lukacevci 57
-Slinovce 41
-Ratkovci 57
-Cinzat 167
-Maline 22
-
-Smarjeske Toplice 582
-Lopar 111
-Hruskarje 43
-Stranska Vas pri Semicu 60
-Dol pri Pristavi 56
-Sentvid pri Lukovici 242
-Ravne nad Sentrupertom 37
-Poljane pri Zuzemberku 31
-Spodnje Jablane 242
-Dolenje Grcevje 22
-Podolseva 60
-Globocdol 35
-Brezje pri Veliki Dolini 111
-Roje pri Trebelnem 47
-Breg pri Dobu 15
-Selo pri Radohovi Vasi 36
-Gorenja Vas pri Smarjeti 214
-Bruna Vas 42
-Planina pri Raki 63
-Bukovica pri Vodicah 398
-Huda Polica 24
-Ponkvica 42
-Kostrevnica 71
-Goljevica 36
-Vinje 477
-Dolenje Skopice 210
-Spodnje Koseze 98
-Podgorje pri Pisecah 210
-Gora pri Komendi 238
-Lipa pri Frankolovem 163
-Vimolj pri Predgradu 19
-Kal pri Krmelju 59
-Krnice pri Novakih 32
-Zeje pri Komendi 150
-Dolnji Kriz 24
-Lipni Dol 36
-Dolenja Vas pri Crnomlju 51
-Famlje 147
-Irje 315
-Godnje 76
-Vrhtrebnje 85
-Labinje 89
-Spodnje Stranice 174
-Rosalnice 386
-Osp 174
-Osredek pri Krmelju 130
-Nova Vas pri Mokricah 223
-Mala Stara Vas 99
-Pregara 153
-Rep 41
-Strejaci 57
-Ravnace 41
-Rucetna Vas 146
-Boletina 140
-Mrzla Planina 108
-Sestrze 319
-Drazevnik 122
-Ravno 80
-Koretno 77
-Novake 203
-Pevno 77
-Dobrljevo 96
-Dobletina 122
-Studeno na Blokah 41
-Iglenik pri Veliki Loki 57
-Breg pri Temenici 41
-Brje pri Komnu 108
-Gradisce pri Vipavi 225
-Mala Pristava 77
-Mali Obrez 124
-Kal 340
-Veliki Kamen 227
-Orehovski Vrh 132
-Lahov Graben 122
-Dolenji Maharovec 127
-Zgornji Tustanj 77
-Libanja 80
-Apnenik pri Bostanju 43
-Gorenja Vas pri Mirni 87
-Vitna Vas 56
-
-Mirna Pec 990
-Podgora pri Lozu 114
-Podpec pri Sentvidu 60
-Selo pri Mirni 66
-Klanec pri Kozini 115
-Landek 58
-Lasce 60
-Zasavci 58
-Javnik 169
-Mavrc 5
-Dobravsce 94
-Podpec ob Dravinji 49
-Gorenja Ravan 13
-Gradisce pri Raki 1
-Drusce 61
-Andrejcje 8
-Dragocajna 207
-Ocizla 106
-Ivanci 243
-Planina pri Sevnici 378
-Poljane pri Mirni Peci 73
-Brezje pri Dobjem 80
-Jelse pri Otoccu 54
-Brezovica pri Predgradu 48
-Dob pri Sentvidu 188
-Groblje pri Prekopi 207
-Ravne pri Cerknem 165
-Statenberk 47
-Dolenja Vas pri Temenici 15
-Dobrava pri Kostanjevici 40
-Ukanje 47
-Jagnjenica 334
-Dolenje Selce 56
-Telcice 57
-Sitez 41
-Prezrenje 73
-Srednje Grcevje 90
-Zgornje Secovo 99
-Mihovo 97
-Hrib nad Ribcami 33
-Hrusevec 54
-Perudina 48
-Tupelce 57
-Bela Cerkev 106
-Levic 115
-Ledine 86
-Debenec 47
-Bezovje nad Zrecami 106
-Secje Selo 115
-Polje ob Sotli 58
-Sojek 111
-Dolenje Zabukovje 22
-Podkraj pri Zagorju 47
-Mramorovo pri Pajkovem 15
-Rovisce 42
-Ovsise 218
-Zibiska Vas 75
-Idrijska Bela 76
-Velika Ligojna 391
-Potoska Vas 231
-Bodrisna Vas 118
-Barislovci 129
-Lokarje 109
-Okoslavci 246
-Slovrenc 109
-Blanca 246
-Lajse 109
-Velika Hubajnica 25
-Loznica pri Zalcu 450
-Vodice pri Kalobju 76
-Vodruz 240
-Bozakovo 129
-Sv. Ozbolt 75
-
-Trbovlje 15163
-Triban 168
-Veliki Trn 47
-Rakitnik 161
-Hiteno 21
-Videm pri Temenici 15
-Bac pri Materiji 117
-
-Preserje pri Radomljah 1531
-Prelesje 116
-Cresnjevec pri Semicu 98
-Pristava pri Mestinju 210
-Zaborst pri Dolu 347
-Velika Vas pri Krskem 266
-Knezja Vas 71
-Laze pri Vacah 36
-
-Prevoje pri Sentvidu 721
-Reber pri Skofljici 116
-Creskova 98
-
-Nova Stifta 633
-Dragucova 238
-Drezniske Ravne 143
-Dombrava 63
-Brezje nad Kamnikom 116
-Krkovo pri Karlovici 14
-Pristavica pri Vel. Gabru 91
-Brezje pri Raki 40
-Cretez pri Krskem 47
-Gornja Tezka Voda 91
-Gornje Praprece 29
-Premagovce 20
-Hrenovice 193
-
-Stanezice 716
-Brdice pri Kozbani 19
-Ravne pri Zdolah 198
-Selo pri Vodicah 266
-Preska pri Dobrnicu 71
-Velika Dolina 149
-Krmacina 20
-Mala Mislinja 193
-Dragonja Vas 187
-Gornja Prekopa 119
-Dolenja Stara Vas 163
-Srednja Vas-Loski Potok 63
-Lesniski Vrh 44
-Kozji Vrh nad Dravogradom 98
-Jareninski Vrh 210
-Zgornja Senica 279
-Zglavnica 28
-Gorica Vas 398
-Kovaski Vrh 51
-Radna Vas 36
-Gradisce pri Vojniku 51
-Javorje pri Gabrovki 36
-Hobovse pri Stari Oselici 71
-Osevek 150
-Podnanos 395
-
-Moste 1234
-Cesnjice pri Moravcah 228
-Znojile pri Krki 116
-Log pri Zuzemberku 20
-Gric pri Trebnjem 9
-Gradenje 42
-Cipnje 15
-Zupancici 42
-Papirnica 71
-Mihovica 149
-Hoticna 71
-Selo nad Polhovim Gradcem 36
-
-Sentvid pri Sticni 1002
-Genterovci 205
-Sentvid pri Zavodnju 40
-Javorjev Dol 15
-Vnajnarje 118
-Nadgrad 56
-
-Mirna 1398
-Krcevina 66
-Razborca 111
-Trckov Gric 43
-Breg ob Bistrici 69
-Drasici 224
-Cresnjevec ob Bistrici 81
-Strmica 142
-Pokojnica 49
-Pavlica 13
-Brslenovica 27
-Slivno 55
-Novi Pot 6
-Zlato Polje 40
-Orkljevec 47
-Dolnji Ajdovec 64
-Mackovec pri Dvoru 107
-Breg pri Borovnici 326
-Otavnik 25
-
-Gotovlje 1216
-Otalez 146
-Nadole 140
-Volcji Grad 90
-Zgornji Velovlek 97
-Spodnji Jernej 33
-
-Srednje Bitnje 579
-Predjama 83
-Kamna Gorca 112
-Zgornja Draga 132
-Spodnja Nova Vas 215
-Mala Ilova Gora 76
-Valicna Vas 75
-
-Gornji Dolic 502
-Spodnji Log 235
-Podlipovica 476
-Cehovini 63
-Rakovnik 326
-Mali Osolnik 63
-
-Polica 720
-Bukovec pri Poljanah 9
-Baca pri Podbrdu 20
-Loka pri Zusmu 407
-Zalog pri Cerkljah 440
 Biljana 154
-Zlebic 228
-
-Suhadole 770
-Smartno v Rozni Dolini 279
-Salinci 187
-Markovscina 119
-Planina nad Horjulom 116
-
-Krcevina pri Vurbergu 943
-
-Srednja Vas pri Sencurju 490
-Gabrje pri Sticni 179
-Zagaj pri Ponikvi 116
-Zavrh pri Trojanah 51
-Kamni Vrh 44
-Vrh pri Sobracah 24
-Selo pri Robu 36
-Zalog pri Skocjanu 51
-Loka pri Dobrni 36
-Bobovo pri Ponikvi 71
-Bodonci 431
-Spodnji Zerjavci 347
-Muljava 332
-Sevlje 221
-Boraceva 418
-Zgornje Gradisce 141
-Tinjska Gora 277
-Soteska 332
-Hotavlje 396
-Bostanj 312
-
-Bonini 516
-Gabrovnik 198
-Zvabovo 32
-Nova Vas ob Sotli 59
-Nuskova 279
-Breska Vas 28
-
-Cresnjevci 817
-Repnje 344
-
-Breg 670
-Brunsvik 418
-Radovica 280
-Otonica 20
-Krtinovica 9
-Artvize 47
-Modraze 64
-Cresnjevec pri Dragatusu 5
-Neverke 111
-Stanjevci 182
-Pristavlja Vas 48
-Potok pri Muljavi 56
-Pristova 118
-Vrh pri Krizu 35
-Dolnji Kot 60
-Rdeci Kal 86
-Hudenje 47
-Dolenja Lepa Vas 15
-Jelenk 29
-Kupljenik 50
-Male Zablje 309
-Zaloze 401
-
-Zadobrova 861
-Trobni Dol 153
-Jama pri Dvoru 99
-Ambrus 270
-Dobrava 237
-Catez ob Savi 319
-Sentjanz nad Storami 215
-Senbric 158
-Mose 235
-
-Kosnica pri Celju 579
-Zavrh pri Borovnici 33
-Kitni Vrh 77
-Breg pri Litiji 225
-Brezovci 255
-Smartinske Cirkovce 76
-Pristava pri Leskovcu 89
-Gorica pri Oplotnici 226
-Rogoznica 108
-Ojstrica 99
-Viselnica 73
-Selo pri Zagorici 33
-Primoz pri Sentjurju 202
-Hrib pri Hinjah 22
-Goriska Vas pri Skocjanu 60
-Jerneja Vas 66
-Rudna Vas 21
-Sentjur na Polju 91
-Vrsna Vas 118
-Goli Vrh 56
-Velika Vas 60
-Straska Gorca 86
-Jurka Vas 169
-Sloka Gora 8
-Sveti Florijan nad Skofjo Loko 31
-Gabrje pod Limbarsko Goro 49
-Cabrace 55
-Obrse 37
-Valterski Vrh 5
-
-Vrhpolje 549
-Gorenje Radulje 66
-Predgrad 111
-Vedrijan 182
-Jarmovec 111
-Radovlja 182
-Dolenja Brezovica 156
-Javorje pri Blagovici 27
-Borjana 142
-Babna Gora 182
-Postena Vas 48
-Radanja Vas 54
-Nemska Vas na Blokah 33
-Velika Brda 43
-Malenska Vas 69
-Stara Vas-Bizeljsko 229
-
-Vransko 778
-Konjiska Vas 225
-Preska nad Kostrevnico 97
-Zamesko 99
-Zagon 194
-Golac 69
-Klada 54
-Doblatina 48
-Laze pri Domzalah 27
-Ravne pri Smartnem 61
-Hrib pri Fari 6
-Praprece pri Sentjerneju 61
-Zapuze pri Kostelu 6
-Ravne pri Mlinsah 62
-Brezje pri Lekmarju 55
-Poljane pri Podgradu 6
-Tublje pri Komnu 34
-Povlje 37
-Jesovec pri Kozjem 139
-Kozljek 62
-Zabrekve 55
-Brezovica pri Crmosnjicah 8
-Benica 84
-Rakovica 91
-Kokolajnscak 84
-Pusce 52
-Cedem 12
-Police 395
-Velike Dole 50
-Spodnje Duplice 29
-Liplje 20
-Licenca 193
-
-Spodnje Pirnice 796
-Zgornje Grusovje 116
-Drazgose 332
-Mostje 351
-Soteska pri Moravcah 98
-Tunjiska Mlaka 318
-Zgornji Kozji Vrh 143
-Cerkljanski Vrh 63
-Straznji Vrh 163
-Spodnji Kocjan 63
-Breg pri Komendi 163
-
-Brezovica pri Ljubljani 2862
-Planina pri Cerknem 137
-
-Bistrica pri Trzicu 2996
-
-Trnovlje pri Celju 1234
-
-Spodnje Duplje 512
-Gorenje Susice 119
-
-Srednje Jarse 674
-Spodnja Rocica 116
-Brod v Podbocju 98
-
-Spodnje Jarse 621
-Polje pri Vodicah 231
-Podvin pri Polzeli 284
-Dolenje Mokro Polje 147
-
-Breg pri Polzeli 957
-Vrh pri Fari 25
-
-Smartno pri Litiji 1444
-Crni Potok pri Vel. Lascah 25
-Kot pri Ribnici 118
-Leskovica pri Smartnem 66
-Zales 5
-Brestovec 156
-Cresnjice pri Cerkljah 241
-Mali Vrh pri Prezganju 81
-Tolsti Vrh 121
-Stoperce 213
-Zupetinci 172
-Ciginj 176
-Krasci 265
-Savci 233
-Boreci 289
-
-Muretinci 487
-Lancovo 452
-Novi Lazi 127
-Zihlava 77
-Mlace 252
-Cerovec 146
-Pecice 108
-Kokorici 132
-Cunkovci 85
-Slavce 26
-Frankovci 181
-
-Leskovec 561
-Strukovci 164
-
-Kovaca Vas 557
-Raceva 166
-Cadramska Vas 164
-
-Zgornja Polskava 1208
-Kresniske Poljane 338
-Turiska Vas na Pohorju 74
-Budganja Vas 100
-
-Dolnja Bistrica 612
-Destrnik 172
-
-Dol pri Hrastniku 1491
-Trstenik 375
-Pestike 126
-
-Beltinci 2394
-
-Centiba 839
-Dolenje 103
-Dolga Gora 283
-
-Gaj 653
-Dobovec pri Rogatcu 283
-Zgornje Roje 130
-Imenje 122
-Spodnje Jezersko 96
-Grgarske Ravne 122
-Laski Rovt 41
-Osredek pri Dobrovi 73
-Sovinek 80
-Soca 153
-Radelca 99
-Cadovlje 97
-Cankova 446
-Banovci 199
-Srednja Kanomlja 170
-Sela na Krasu 157
-Paska Vas 225
-Velika Goba 41
-Dobovec 170
-Robic 33
-Marija Dobje 171
-Dolnja Lokvica 83
-Otavice 109
-
-Velike Brusnice 502
-Tupalice 408
-Lopersice 191
-Gabrsko 359
-Logarovci 286
-Draga 174
-Drobtinci 130
-
-Jesenca 486
-Gorenje Jezero 99
-Spodnje Krase 153
-
-Slovenske Konjice 4869
-Ugovec 124
-Vesenik 373
-
-Cresnjevec 510
-Dolnje Lezece 227
-Zgornje Jarse 385
-Dolnje Impolje 30
-
-Spodnje Gameljne 581
-Podbela 74
-Podpulfrca 39
-Spodnji Stari Grad 248
-Velika Stanga 103
-Trnovska Vas 367
-Srednja Vas-Gorice 82
-Spodnje Vrtice 175
-Racice 172
-
-Cernelavci 1272
-Sentjanz nad Dravcami 247
-Markisavci 185
-Kozarisce 262
-Podgozd 100
-Sotensko pod Kalobjem 30
-Raskovec 72
-Grcarevec 206
-Hrastovec pod Bocem 103
-
-Lovrenc na Dravskem Polju 664
-Most na Soci 434
-Babna Brda 136
-Grahovo ob Baci 138
-
-Mihovci pri Vel. Nedelji 563
-Kebelj 155
-Sesce pri Preboldu 421
-Primoz pri Ljubnem 172
-Kot pri Prevaljah 134
-Trnovlje pri Socki 151
-
-Zgornje Pirnice 1267
-Koritnice 151
-Jablanica 148
-Kal-Koritnica 151
-Rjavica 148
-Bukovnica 39
-Vicanci 248
-Zgornja Recica 419
-Spodnji Porcic 236
-
-Zgornji Duplek 1752
-Lepa Njiva 454
-Sobenja Vas 148
-Spodnja Javorsica 78
-Blodnik 30
-Tomaz nad Vojnikom 72
-Mali Brebrovnik 175
-Brnica 232
-Gabrovec pri Kostrivnici 72
-Krivcevo 120
-Drakovci 248
-Kljucarovci pri Ljutomeru 357
-Sencak pri Jursincih 104
-Senuse 144
-Cermozise 283
-Mamolj 130
-Gornji Zemon 122
-Mozelj 197
-Telce 77
-Kosovelje 41
-Velika Sevnica 54
-Policka Vas 182
-Velika Slevica 48
-Zeleznica 27
-Zemelj 61
-Belica 37
-
-Dolenjske Toplice 797
-Gorenje 379
-Gornja Briga 7
-Grahovo Brdo 40
-Zagrad pri Otoccu 38
-Radovna 15
-Movraz 115
-Grabonoski Vrh 66
-Starihov Vrh 21
-Stanetinci 161
-Celine 52
-Bacne 23
-Gornje Ravne 15
-Izgorje 21
-Koreno nad Horjulom 106
-Gorenji Podsumberk 21
-Ambroz pod Krvavcem 91
-Vodice nad Kamnikom 29
-Motnik 168
-Velike Vodenice 47
-Vodule 106
-Podolnica 207
-Spodnja Gorica 251
-Podgora 336
-Goropeke 64
-Gorenje Kalisce 5
-Glinje 111
-Gorenje Gradisce 86
-Vosce 56
-Postaja 115
-Tatinec 64
-Pecica 107
-Oslica 60
-Zgornja Gorica 114
-Spodnja Kostrivnica 111
-Podhosta 182
-Podsmrecje 48
-Drenje 56
-Nadanje Selo 111
-Veliko Crnelo 86
-Malo Tinje 84
-Sela pri Hinjah 52
-Jelenja Vas 23
-Banja Loka 40
-Gorenja Gomila 86
-Prusnja Vas 47
-Cesnjice v Tuhinju 107
-Gornje Dobravice 40
-Javorovica 38
-Pugled pri Karlovici 4
-Predstruge 264
-Runec 177
-Koske Poljane 12
-Bezuljak 91
-Knezja Njiva 29
-Spodnja Jablanica 50
-Planjsko 47
-Jankova 106
-Onkraj Meze 86
-Laze 410
-Zaplana 114
-Zadobje 60
-Padez 58
-Beznovci 169
-Straza pri Novi Cerkvi 40
-Krvavi Potok 86
-Coljava 56
-Ravnica 242
-Crnolica 48
-Brstovnica 56
-Sajenice 35
-Zagaj 139
-Mala Breza 216
-Sentpavel pri Domzalah 87
-Jesen 5
-Lanise 94
-Gradisica 27
-Velike Grahovse 142
-Grabce 93
-Ranca 242
-Ucak 37
-Tanca Gora 207
-Krizeca Vas 84
-Stranska Vas ob Visnjici 52
-Nunska Graba 165
-
-Salka Vas 758
-Goriska Gora 11
-Bukovska Vas 371
-Dobrovscak 11
-Stanovisce 37
-Statenberg 183
-Sratovci 182
-Stope 43
-Mostec 216
-Osilnica 87
-Plitvica 106
-Poznica 58
-Kresnica 156
-Crmosnjice pri Stopicah 399
-Samotorica 66
-Susa 47
-Mali Hrib 66
-Dole pri Litiji 111
-Dolenja Zetina 35
-Sveti Stefan 139
-Tevce 182
-Jurkloster 86
-Tehovec 21
-Prihodi 106
-Orehovo 243
-Volaka 87
-Godicevo 5
-Globocice 94
-Kocjan 56
-Pance 86
-Jelce 111
-
-Radece 2168
-Crnec 22
-Zlatenek 47
-Lopatnik 35
-Hrastno 60
-Hrib pri Kamniku 66
-Prazniki 22
-Lukini 60
-Svetinje 56
-Gorenje Jesenice 111
-Renke 43
-Desenci 33
-Besnica 229
-
-Zabukovica 1009
-Loznica 196
-Plesivica 186
-
-Recica ob Savinji 489
-Ledeca Vas 85
-Decno Selo 304
-Mrzlo Polje 68
-
-Smartno pri Slovenj Gradcu 1250
-Malovse 125
-
-Ruse 4503
-Sentpavel 85
-
-Lopata 619
-Matjasevci 166
-Podsentjur 108
-Podtabor 92
-Babici 263
-Vogricevci 164
-Lasigovci 92
-Planinska Vas 81
-Brezovska Gora 65
-Dobriska Vas 69
-Pavla Vas 54
-Lipovec pri Skofji Vasi 48
-
-Lancova Vas 555
-Tesova 96
-Vrhovska Vas 57
-Stara Nova Vas 348
-Decja Vas pri Zagradcu 66
-Cucja Mlaka 21
-Zgornja Lipnica 168
-Velika Loka 293
-Vrenska Gorca 191
-
-Mislinjska Dobrava 717
-Veliki Obrez 284
-Cisti Breg 25
-Dobrisa Vas 466
-Prosecka Vas 128
-Rova 466
-Loska Vas 76
-Graska Gora 112
-
-Slovenj Gradec 7519
-Lukovek 85
-Veliko Globoko 76
-Cudno Selo 89
-Log 370
-Lokve pri Dobrnicu 26
-Dobeno 209
-Trnovo 359
-Vojsko 209
-Kocevske Poljane 85
-Maline pri Strekljevcu 26
-Puzevci 181
-
-Radizel 1698
-Zgornje Laze 130
-Malahorna 292
-Vrhovo 250
-Javor 174
-Jarcja Dolina 76
-Zgornja Orlica 89
-Libeliska Gora 160
-Gora pri Pecah 135
-Sentvid pri Planini 109
-Selo pri Zagorju 309
-Pohorje 109
-Spodnji Hotic 253
-Podvine 75
-Podskrajnik 85
-Spodnje Pobrezje 75
-Zgornje Stranje 424
-Travnik 294
-Vinje pri Moravcah 76
-Hrastje pri Grosupljem 112
-
-Sentjanz pri Dravogradu 543
-Cerkljanska Dobrava 83
-
-Ravne 1092
-Senesci 240
-Dolscaki 76
-Dol pod Gojko 215
-Trebnja Gorica 76
-
-Prebold 1709
-Dolnje Brezovo 158
-Predole 85
-Ledinica 75
-Krajncica 225
-Cigonca 240
-Bolehnecici 129
-
-Zalec 4943
-
-Letus 785
-Smartno v Tuhinju 218
-Suhadol 68
-Brdce nad Dobrno 83
-Dolge Njive 135
-Gorenje Polje 85
-Spodnje Verjane 26
-
-Velenje 25456
-
-Vitanje 865
-Vinarje 245
-Petelinjek 217
-Selscek 124
-Drasca Vas 92
-Dragotinci 130
-
-Marjeta na Dravskem Polju 486
-
-Velika Polana 929
-
-Lovrenc na Pohorju 1977
-Gorenji Leskovec 76
-Platinovec 112
-Nova Cerkev 457
-Vranovici 109
-Koracice 186
-Gabrska Gora 76
-Zgornja Vizinga 249
-Vinji Vrh 184
-Vintarjevec 160
-
-Locica ob Savinji 825
-Nova Vas pri Konjicah 83
-Sela pri Kamniku 133
-Dobrava pri Skocjanu 197
-Strmec pri Leskovcu 77
-Ilovca 96
-Selo pri Pancah 54
-Preserje pri Zlatem Polju 33
-Poljana 128
-Podkocna 57
-Locic 128
-Jablovec 115
-Blagus 64
-Kolacno 47
-Dolenje Dole 91
-Grebenje 9
-Ivanje Selo 228
-Stare Slemene 116
-Nemska Gora 23
-Primstal 29
-Goricica pri Ihanu 256
-Mlaka pri Kocevju 280
-
-Prebacevo 495
-Mackovec 32
-Cirkovce 418
-Krizevci 402
-Dovze 332
-Zapuze pri Ribnici 19
-Bistricica 280
-Dobravica 143
-Hude Ravne 19
-Dednja Vas 179
-
-Zgornja Besnica 789
-Pernice 137
-Potok v Crni 32
-Rodni Vrh 44
-Spodnje Pijavsko 20
-Spital 24
-Male Loce 36
-
-Bocna 621
-Knezina 25
-Nebova 128
-Kostabona 229
-Lokovina 275
-Rakovlje 374
-Kozjak 433
-
-Arja Vas 517
-Zgornji Zerjavci 261
-Kupcinji Vrh 129
-Podvinje 109
-Podraga 309
-Spodnje Gruskovje 50
-Spodnje Mladetice 47
-Zgornje Vodale 35
-Skorno 207
-Novelo 56
-
-Novo Mesto 23341
-Stari Dvor 84
-Boricevo 35
-Bobovek 139
-Dobric 182
-Stari Breg 5
-Stanecka Vas 94
-Stara Lipa 93
-Lopaca 139
-Dane pri Divaci 62
-Brezovica pri Gradinu 61
-Brezec pri Podgorju 1
-Smarje pri Sezani 288
-Povzane 107
-Vernek 50
-Kortine 117
-
-Zgornje Gorje 500
-Moravci v Slov. Goricah 396
-Brezje pri Locah 116
-Praproce pri Temenici 51
-Goricica 210
-Strazica 187
-Zimarice 277
-Lazise 163
-Pribisje 20
-Lisec 29
-Silovec 50
-Zece 246
-Gorenja Zetina 60
-Cetore 128
-
-Vrtovin 492
-Sentlambert 90
-Tenetise 397
-Gostece 85
-Zgornji Prhovec 75
-Srednji Dolic 253
-Zgornji Gabernik 140
-Gobnik 108
-Gorenje Laknice 92
-Jelovice 70
-
-Slovenska Bistrica 7454
-Sentovec 99
-Montinjan 73
-Podlog v Savinjski Dolini 311
-Dolje 157
-Grmovlje 146
-Gradisca 325
-Grlice 217
-
-Vogrsko 885
-
-Mokronog 637
-Nomenj 173
-Zahomce 70
-Zaplanina 90
-Kreplje 146
-Breg ob Kokri 108
-Pozeg 73
-Jezerce pri Smartnem 69
-Laska Vas pri Storah 229
-Tovsto 153
-Kostanj 41
-Mosenik 77
-Unise 41
-Gradiske Laze 153
-Grlava 99
-Slance 97
-Topla 33
-Lastnic 171
-
-Depala Vas 507
-
-Lasko 3456
-Koreno 75
-Dezno pri Makolah 85
-Brezovica pri Zlatem Polju 26
-
-Bresternica 1377
-Podbreg 110
-Spodnje Partinje 134
-Paricjak 232
-
-Hrastovec v Slov. Goricah 518
-Zagorica nad Kamnikom 159
-Gore 148
-Oresje na Bizeljskem 223
-Spodnja Korena 414
-Grenc 176
-Stari Grad 248
-
-Grajenscak 506
-Prosenjakovci 178
-Sentanel 192
-Lomanose 265
-Novinci 206
-Mance 148
-Gorce 138
-Ziberci 176
-Belcji Vrh 82
-Gornji Slaveci 451
-Perovec 45
-
-Krog 1132
-Froleh 120
-Rogacice 45
-Laze pri Borovnici 267
-Zalog pri Skofljici 138
-Rakovnik pri Sentrupertu 120
-Stranje pri Velikem Gabru 45
-Spodnji Velovlek 212
-Zalovice 102
-Ajsevica 267
-Osenca 82
-Sulinci 175
-Zitence 273
-Smolinci 138
-Veliko Tinje 148
-Kamnje 223
-Cresnjevec ob Dravi 250
-Bukovec 408
-Janskovo Selo 160
-Sovodenj 166
-Topol pri Medvodah 160
-Voduce 166
-
-Podgrad 614
-Radvenci 132
-Raduse 225
-Presladol 166
-Knezdol 245
-Polje 170
-Podjelse 33
-Kanalski Vrh 57
-Osredek pri Trski Gori 41
-Stari Trg ob Kolpi 97
-Stavesinci 80
-Stajngrob 43
-Pusti Gradec 33
-Straze 97
-Pretrz 33
-Strtenik 54
-Primostek 142
-Koblek 27
-Zgornji Petelinjek 17
-Laze pri Kostelu 13
-Gornji Kriz 37
-Mali Konec 31
-Veliki Vrh pri Smarju 324
-Velike Kompolje 49
-Grcarske Ravne 13
-Rake 1
-Gradac 410
-Gregovce 58
-Graben 22
-Babni Vrt 60
-Mali Videm 35
-Mala Cikava 115
-Martinja Vas 107
-Vrh pri Hinjah 40
-Kocki Vrh 47
-Volcanski Ruti 15
-Cetena Ravan 40
-Temenica 177
-Mahnici 12
-
-Log pri Brezovici 1634
-Dobrava pri Sticni 59
-Breg pri Ribnici na Dol. 287
-Pirsenbreg 266
-
-Lukovica pri Brezovici 501
-Spodnji Brnik 430
-Ravno Brdo 51
-Koprivna 150
-Nestoplja Vas 24
-Hrustovo 36
-Podvolovljek 218
-Karlovica 42
-Stara Susica 51
-Sidraz 44
-Padovo pri Osilnici 19
-Pristava pri Polh. Gradcu 119
-Dobje pri Planini 116
-
-Dobrova 943
-Zirovski Vrh 238
-Farovec 44
-Okrog 98
-Grabrovec 168
-Rihtarovci 114
-Mihovec 40
-Dragomilo 38
-Slogonsko 161
-Malo Globoko 52
-Meglenik 23
-Zali Breg 91
-Srednji Lipovec 84
-Cerovec pri Trebelnem 66
-Sveta Trojica 5
-Vinica pri Smarjeti 94
-Sela pri Visnji Gori 49
-Gorski Vrh 13
-Urslja Gora 27
-Gorenja Vas pri Mokronogu 17
-Stranska Vas 432
-Strug 62
-Stankovo 11
-Balkovci 55
-Hujbar 37
-Nova Vas pri Markovcih 410
-Zurkov Dol 182
-Kolovec 66
-Pavlovci 216
-Palcje 200
-Mali Locnik 54
-Dol pri Ljubljani 241
-Dolz 331
-
-Podbrdo 695
-Spodnje Preloge 306
-Brezje pri Bojsnem 69
-Sela pri Ratezu 54
-Brezje pri Sentjerneju 48
-Jercin 56
-Kovcice 57
-Mislice 41
-Formin 341
-Kutinci 41
-Gradin 73
-Raka 311
-Socka 388
-Stiska Vas 100
-Loska Gora pri Zrecah 159
-Gorenja Pirosica 134
-
-Zgornja Hajdina 858
-Srednja Dobrava 134
-Racja Vas 110
-
-Stara Vrhnika 730
-Tolsti Vrh pri Mislinji 162
-Hrasenski Vrh 103
-Jesenje 110
-Sardinje 121
-Juvanje 144
-Jursce 155
-Gorenji Podborst 82
-Spodnje Konjisce 39
-Gorenje Brdo 82
-
-Renkovci 622
-Videm pri Lukovici 45
-Brezje pri Dovskem 103
-Grahovse 136
-Selce pri Moravcah 30
-Vrhpolje pri Sentvidu 72
-Sela pri Sumberku 126
-Lukovica pri Domzalah 419
-Dobrova pri Dravogradu 155
-Stajngrova 232
-Gornji Kljucarovci 100
-Dolenji Radenci 30
-
-Bratonci 698
-
-Obrez 528
-Zelen Breg 162
-Zegar 123
-
-Starse 803
-Plodrsnica 124
-Zagorica 245
-Vrbica 164
-Biserjane 77
-Jablance 225
-Plat 90
-Gladomes 397
-Hotemez 85
-Crnotice 89
-Arnace 286
-
-Celje 37520
-Belca 170
-Rocica 245
-Pocenik 108
-Popovci 132
-
-Kompole 492
-Lahomno 240
-Koritno 234
-Ivanovci 135
-Orova Vas 109
-Lokrovec 309
-Gabrovka pri Zagradcu 109
-Zavrh pri Crnivcu 25
-Gabrnik 274
-Sabonje 75
-Zgornji Boc 261
-Sinji Vrh 75
-Starosince 225
-Kloster 77
-Cagosce 96
-Nova Vas nad Dragonjo 229
-Stajerska Vas 41
-Imenska Gorca 73
-Zavrh pod Smarno Goro 217
-Podgrad na Pohorju 70
-
-Spodnja Volicina 679
-Zvodno 270
-Kamno 226
-Prapretno 83
-
-Oplotnica 1352
-Kapla 270
-
-Pivola 672
-Slape 155
-Sv. Petra Hrib 30
-
-Mezgovci ob Pesnici 485
-Zgornja Dobrava 159
-Pobrez 148
-
-Cezarji 528
-Brezula 248
-Slap 419
-
-Zlatolicje 768
-
-Gorica pri Slivnici 557
-Goriski Vrh 236
-Vrhpolje pri Moravcah 227
-Brezje pri Oplotnici 140
-Kocno ob Loznici 170
-Delnice 140
-Brode 208
-Obrne 76
-Brezno 466
-Vrbno 446
-Vratja Vas 90
-
-Sentjur 4762
-Lase 122
-Idrsek 41
-Strekljevec 122
-Strmec nad Dobrno 127
-Doblezice 121
-Globoce 77
-Dolnje Dobravice 80
-Rozni Dol 57
-Dol-Suha 167
-Olesce 261
-Preserje 466
-Smihel nad Mozirjem 158
-Sv. Anton na Pohorju 249
-Cagona 275
-Polzanska Gorca 135
-Spodnja Senarska 125
-Cesenik 158
-Kruplivnik 208
-Dolenje Ponikve 196
-Veliki Osolnik 83
-Petelinje 292
-Slatina v Rozni Dolini 255
-Mlajtinci 196
-Mekinje nad Sticno 186
-Spodnje Gorce 76
-Lacna Gora 174
-Zagorica pri Velikem Gabru 229
-Kamni Vrh pri Ambrusu 41
-Potok pri Vacah 54
-Gabrovec pri Dramljah 33
-Rovt 54
-Rozic Vrh 48
-Zagozd 56
-Strmec pri Ormozu 60
-Ostroznik 35
-Mali Slatnik 242
-Malo Lesce 37
-Nemska Loka 31
-Krka 242
-Straza pri Krskem 37
-Velike Dole pri Temenici 31
-Znojile pri Studencu 8
-Breg pri Sinjem Vrhu 2
-Grm pri Podzemlju 53
-Podporezen 13
-Podhruska 62
-Komendska Dobrava 61
-Rajndol 49
-Prhajevo 13
-Vodisko 49
-Medvedica 55
-Bavsica 8
-Podslivnica 31
-Jelovica 11
-Bresnica 251
-Vesca 66
-Trebese 60
-Peskovci 86
-Poznikovo 21
-Srakovlje 91
-Vir pri Nevljah 29
-Rudnik pri Moravcah 20
-Branoslavci 168
-Pavicici 20
-Brezovica pri Stopicah 29
-Selo pri Moravcah 63
-Miklavz pri Ormozu 256
-Sela pri Zburah 24
-Log pri Mlinsah 42
-Laze pri Predgradu 15
-Vodice pri Gabrovki 42
-Beli Gric 51
-Velike Bloke 210
-Golo Brdo 418
-Obrov 198
-Gorenje Kronovo 32
-Korita na Krasu 44
-Sutna 444
-Skadanscina 32
-
-Stara Fuzina 595
-Globocice pri Kostanjevici 105
-Devina 198
-Olsevek 343
-Jarse 18
-
-Jesenice 13440
-Rakitnica 258
-
-Radovljica 5940
-Ladra 150
-
-Mlaka pri Kranju 1566
-Gorenja Kanomlja 137
-Spodnje Dobrenje 435
-Gornje Lezece 46
-Velike Lipljene 141
-Zajcje Polje 32
-Spodnje Bitnje 280
-
-Tepanje 521
-Pleterje 238
-Jersanovo 24
-Javorje 186
-Avsa 36
-Zgornja Pristava 218
-Gornji Ajdovec 42
-Jezevec 15
-Jevscek 29
-Prevale 14
-Bericevo 449
-Zgornje Vrtice 71
-
-Cerklje na Gorenjskem 1608
-Zgornje Praprece 51
-Velika Preska 44
-Velesovo 395
-Preska 24
-Prosenisko 473
-
-Skofja Loka 11969
-Sovinja Pec 28
-Brezovica pri Medvodah 12
-Jankovici 40
-Smokvica 38
-Psenicna Polica 107
-Polom 50
-Sentilj pod Turjakom 293
-Gaj nad Mariborom 228
-Majski Vrh 116
-Sentjurij na Dolenjskem 98
-Mizni Dol 147
-Tolminski Lom 68
-Hom 83
-Sveti Tomaz 284
-Slatina 218
-Male Braslovce 235
-Krasnji Vrh 25
-Hrastulje 186
-Sela pri Dragatusu 76
-Brezje pri Senusah 89
-Koroski Selovec 95
-Vipavski Kriz 196
-Lipce 240
-Velike Poljane 129
-Fojana 147
-Panece 129
-Glinek 147
-Golica 51
-Gorca 163
-
-Zgornje Bitnje 1480
-Zupanje njive 312
-Spodnje Loke 143
-Zapodje 19
-Log pod Mangartom 137
-
-Podpec 529
-Spodnje Grusovlje 119
-Milje 394
-
-Dragomelj 866
-
-Podreca 521
-
-Podljubelj 807
-Poreber 179
-Podborst 116
-Podplesivica 272
-Podreber 150
-Drca 24
-Laznica 315
-Bezovica 76
-Cirknica 112
-Jurjevica 209
-Visevek 174
-
-Verje 517
-
-Gaberke 684
-Podbeze 85
-Boben 173
-Golobinjek 99
-Globoka 194
-Doklece 92
-Dobje pri Lesicnem 81
-Dobec 65
-Pisece 345
-Meniska Vas 363
-Hrastenice 48
-
-Brestanica 993
-Brezovo 69
-Vologa 41
-Psevo 73
-Voglajna 33
-Gornji Rogatec 41
 
 Maribor 95171
-Podgorica 110
-Pernica 416
-Pescenik 74
-Ruperce 411
+Hrib 70
 
-Gabernik 564
-Idrijske Krnice 140
-Gazice 146
-Gornje Lozine 140
-Canje 108
-Gornje Pijavsko 92
-Dolenje Kamenje 81
-Slavinje 65
-Gorenje Vrhpolje 324
-Brezje v Podbocju 49
-Dole pod Sv. Trojico 13
-Dolenje Otave 27
-Sidol 55
-Hrib pri Roznem Dolu 1
-Klanec pri Gabrovki 34
-Hribljane 6
-Jablaniske Laze 62
-Poljane nad Blagovico 11
-Polajna 53
-Laze nad Krko 34
-Zelce 37
-Belsko 207
-Rozenberk 22
-Dren 22
-Presa 86
-Zasap 56
-Slap ob Idrijci 242
-Rubije 37
-Zgornje Hlapje 156
-Mala Gora 37
-Mrzla Luza 31
-Ljubez v Lazih 11
-Riharjevec 55
-Sec 6
-Sejanci 62
-Predanovci 183
-Nozed 58
-Blatno 156
-Mlake 37
-Dobrava pod Rako 17
-Brestovica pri Povirju 49
-Mala Loka pri Visnji Gori 34
-Gornja Paka 31
-Gornji Suhor pri Metliki 94
-Zgornje Loke 93
-Dolnje Retje 55
-Spodnje Tinsko 62
-Dolenje Poljane 11
-Dolnji Vrh 31
-Dolsce 94
-Dolnja Prekopa 241
-Doropolje 156
-Kozljevec 27
-Pecelj 55
-Delac 2
-Lahovo 7
-Blate 61
-Slapnik 1
-Dolnje Praprece 61
-Spodnje Selce 62
-Zgornje Duplice 31
-Srnjak 11
-Klake 31
-Tolminske Ravne 11
-Desinec 55
-Dedna Gora 6
-Sv. Gregor 62
-Gabrje pri Ilovi Gori 11
-Bukovica pri Litiji 31
-Knezja Lipa 17
-Krupa 49
+Celje 37520
 
-Kostanjevica na Krki 695
-
-Sevnica 4660
-Pristavica 69
-Prilesje pri Plavah 54
-Kobjeglava 182
-Bela 87
-
-Zeljne 555
-Zemono 80
-Repno 54
-Jerinov Gric 56
-Gradisce-K. O. Grad. In Polj. 86
-Vrh Sv. Treh Kraljev 56
-Jastrebnik 35
-
-Straza 1996
-Zabjek 22
-Zakojca 47
-Ljubgojna 161
-Lozina 52
-Lazna 12
-Trscina 52
-Zavrsje 47
-Vranke 15
-Drazen Vrh-Del 161
-Zadrze 52
-Zabljek 165
-Zakal 58
-Velka 43
-Kukava 216
-Dezno pri Podlehniku 101
-Dolenja Vas pri Raki 65
-Buseca Vas 142
-Sedlasek 242
-Sipek 22
-Krvava Pec 21
-Boga Vas 22
-Pogled 58
-Lehen na Pohorju 183
-Lepena 35
-Murski Petrovci 111
-Zalog pod Ursulo 47
-Podplat 111
-Podlesje 58
-Spodnji Otok 111
-Podlog 66
-Hudi Log 22
-Sv. Lenart 118
-Lekmarje 58
-Malni 5
-Godemarci 94
-Brod 93
-Podstrm 13
-Spodnja Bilpa 7
-Kot ob Kolpi 2
-Bezenskovo Bukovje 93
-Kovacji Grad 13
-Prihova 188
-Praproce pri Grosupljem 48
-Zagorica pri Dolskem 101
-Gomilsko 348
-Borovak pri Polsniku 22
-Koroska Vas na Pohorju 111
-Artiza Vas 66
-Segova Vas 111
+Kosnica pri Celju 579
+Slivnica pri Celju 109
+Smarjeta pri Celju 219
 
 Kranj 36874
-Dolenja Dobrava 198
-Dolga Poljana 343
-Janezovci 105
-Visoko pri Poljanah 28
-Kumpolje 14
-Kukenberk 40
-Velike Vrhe 47
-Kovski Vrh 35
-Vrh pri Ljubnu 84
-Racni Vrh 91
-Podhojni Hrib 40
-Podzemelj 139
-Glem 62
-Prilesje 61
-Cadovlje pri Trzicu 93
-Paka pri Predgradu 13
-Hrib pri Koprivniku 1
-Gorice pri Famljah 34
-Gorenji Podborst pri V. Loki 17
-Crni Potok pri Dragi 27
-Mali Dol 61
-Olika 2
-Dilici 8
-Veliki Okic 84
-Vremski Britof 52
-Brise pri Polhovem Gradcu 165
-Borovec pri Karlovici 8
-Sitarovci 31
-Trebelno pri Palovcah 11
-Strmec pri Polensaku 53
-Ojstri Vrh 61
-Vrhovje 6
-Povrsje 62
-Logarsce 55
-Rogla 1
-Sromlje 139
-Zakobiljek 40
-Dobrije 86
-Brezje ob Slomu 84
-Preserje pri Komnu 52
-Oresje nad Sevnico 165
-Gornje Retje 22
 
-Trebnje 3477
-Debro 165
-Paka-Del 47
-Mele 168
-Adlesici 118
-Radna 106
-Ledina 243
-Hudi Konec 33
-Vidonci 317
-Dobe 96
-Terbegovci 122
-Zahenberc 269
-Senik 90
-Ribnisko Selo 292
-Zaborst pri Sentvidu 90
-Preloge pri Smarju 127
-Brezje pri Dobu 90
-Veliki Dol 127
-Jelicni Vrh 121
-Krizan Vrh 77
-Kred 124
-Cerej 122
-Brest 311
-Pesceni Vrh 110
-Vrhje 227
-Stranje 164
-Gorenje Kamenje 92
-
-Spodnje Poljcane 614
-Topole 237
-Stogovci 236
-Okroglo 155
-Kremberk 257
-Rodine pri Trebnjem 82
-Spodnja Hajdina 257
-Ledinsko Razpotje 30
-
-Skofja Vas 485
-Dolnja Tezka Voda 212
-Dolane 159
-Mala Nedelja 100
-Dol pri Vogljah 102
-Dolenji Suhadol 136
-Zgornji Kocjan 30
-Brezovica v Podbocju 39
-Plesivica pri Zalni 155
-Gorica 295
-Stahovica 178
-Vitan 92
-Zerovinci 263
-Sklendrovec 164
-Govejk 77
-Zgornje Negonje 130
-Vrbnje 346
-Bojanji Vrh 70
-Vrhpec 90
-Vrba 203
-Kristan Vrh 390
-Razkrizje 252
-Kremen 223
-Krizevec 314
-Sevno 75
-Hrase 422
-Selovec 471
-
-Andraz nad Polzelo 828
-Ludranski Vrh 85
-Zastranje 26
-
-Brdinje 654
-Obrezje 401
-Doblice 186
-Lobnica 158
-
-Migojnice 654
-Kostrivnica 191
-Spodnja Selnica 135
-
-Zabreznica 507
-Savica 68
-Osojnica 25
-
-Kresnice 745
-Banjsice 256
-Sejenice 24
-Gmajnica 407
-
-Kokrica 1646
-Velika Bukovica 193
-Rakulik 20
-
-Izlake 1181
-Klanc 401
-Anovec 83
-Nova Vas pri Lescah 191
-Leskovca 85
-Rajnkovec 89
-
-Stojnci 869
-Strehovci 235
-Dol pri Trebnjem 76
-Kotredez 191
-Razdelj 85
-Strahovlje 75
-Pavlova Vas 225
-Dresinja Vas 240
-Andrenci 174
-Pince 209
-Selce 359
-
-Kavce 489
-Zbigovci 268
-Zgornji Porcic 356
-Zagora 25
-Zgornja Senarska 118
-Roginska Gorca 129
-Ojstriska Vas 274
-Vinska Gora 368
-Iska Loka 274
-Paka pri Velenju 447
-Cerkvenjak 135
-Zerjav 389
-Trnava 244
-Cerina 158
-Matena 249
-Mocna 275
-Nasirec 68
-
-Dobrna 548
-Planina na Pohorju 195
-Storje 325
-Koblarji 292
-Hocko Pohorje 469
-Podbocje 314
-Vucja Vas 252
-Pecje 108
-
-Rogatec 1558
-Kregarjevo 130
-Sevce 77
-Bodkovci 124
-Trdobojci 92
-Strit 81
-Trebelno 99
-Ostrc 173
-Oskorsnica 70
-Slivnisko Pohorje 173
-Pregarje 195
-Iga Vas 227
-Spodnja Velka 453
-Apnenik pri Velikem Trnu 30
-Klanec pri Komnu 39
-
-Dvorjane 714
-Harje 131
-Vitomarci 329
-Mrcna Sela 164
-Mala Dolina 92
-Zepina 96
-Svetina 122
-Jamna 130
-Svecina 166
-Sv. Andrej 157
-Brezje pri Poljcanah 124
-Osredek pri Podsredi 70
-Srgasi 173
-Stara Vas 108
-Pilstanj 124
-Cepinci 283
-Pece 213
-Studenec 172
-Laze v Tuhinju 278
-Gorenja Trebusa 103
-Kadrenci 74
-
-Moskanjci 688
-Kokosnje 110
-Skoflje 121
-Bukovje 164
-
-Trnje 564
-Lutrje 203
-Strihovec 236
-Sv. Trije Kralji 227
-
-Lenart v Slov. Goricah 3006
-Sela pri Sobracah 39
-Selsek 82
-Sedlarjevo 72
-Sela pri Jugorju 45
-Mala Vas 267
-Male Lipljene 102
-Dobropolje 70
-Kraljevci 157
-Sepulje 99
-Desen 90
-Sentlovrenc 127
-Vrh 153
-Selski Vrh 90
-Selo pri Ihanu 292
-Preloge 146
-Lom 80
-Malo Mlacevo 199
-Volovnik 33
-Stopnik 194
-Mrtovec 73
-Otok 69
-Kramarovci 54
-Dravce 142
-Hranjigovci 93
-Restanj 242
-Ivanjkovci 251
-Zabukovje 84
-Daber 22
-Grabonos 207
-Loncarovci 66
-Zirovse 22
-Virlog 118
-Savinsko 106
-Vinkov Vrh 43
-Bukovlje 224
-Volckova Vas 81
-Setarova 65
-Arnovo Selo 302
-Vinji Vrh pri Semicu 48
-Mali Cirnik pri Sentjanzu 87
-Malenski Vrh 48
-Mali Breg 58
-Malo Mrasevo 111
-Hlevise 66
-Novi Vrh 22
-Metni Vrh 183
-Urh 66
-Veliko Polje 66
-Radoblje 111
-Topolje 58
-Stopice 445
-Tomacevica 165
-Vrtaca 8
-
-Vrbje 626
-Talcji Vrh 27
-Vrh nad Krasnjo 55
-Skrajnek 8
-Gradiski Dol 31
-Senadolice 11
-Travni Dol 13
-Andol 17
-Radovici 93
-Dolenji Suhor pri Vinici 48
-Studenec pri Krtini 65
-Sela pri Sentjerneju 94
-Zgornja Bela 317
-Mala Sela 33
-Selce nad Blanco 54
-Staro Selo 142
-Lovsko Brdo 27
-Skofi 8
-Skrlovica 31
-Gotenica 2
-Breznica pod Lubnikom 53
-Srednik 61
-Srobotnik ob Kolpi 1
-Brje pri Koprivi 34
-Krivo Brdo 7
-Zakraj 34
-Krzeti 49
-Kregolisce 13
-Zgonce 8
-Trbinc 64
-Dekmanca 107
-Tolcane 40
-
-Ivancna Gorica 1988
-Gornja Lokvica 154
-
-Zgornje Gameljne 482
-
-Visnja Gora 1000
-
-Moravce 903
-Moverna Vas 29
-Vavpca Vas pri Dobrnicu 52
-Kanji Dol 12
+Mlaka pri Kranju 1566
+Tunjiska Mlaka 318
 Tunjice 279
-Dolenji Podsumberk 28
-Podsmreka 435
-Smalcja Vas 145
+Cesnjice 19
 
-Smartno ob Paki 642
-Marincev Gric 28
+Velenje 25456
+Paka pri Velenju 447
 
-Smarje-Sap 1492
-Smiklavz 143
-Lazec 116
-Milava 14
-
-Planina 815
-
-Sezana 5531
-Zagradec 113
-Zalog 137
-Mali Vrh 372
-Mala Hubajnica 44
-Malo Naklo 19
-Pako 143
-Kostanjek 116
-Zavodnje 299
-Zadolje 14
-Dolnje Mrasevo 29
-Dolenja Ravan 14
-Srednja Bela 305
-
-Ilirska Bistrica 4553
-Ptujska Gora 381
-Marija Gradec 256
-Podgraje 254
-Povodje 15
-Podlom 42
-Loze 218
-Vrhloga 255
-Zaga 353
-Zapuze 403
-Zacret 341
-Kozarno 41
-Povceno 54
-Rozno 224
-Sentozbolt 48
-Mozjanca 54
-Kocarija 65
-Kolenca Vas 48
-Smoleva 56
-Drevenik 66
-Velika Sela 21
-Zelse 107
-Zece pri Bucah 50
-Dol pri Hrastovljah 107
-Trnov Hrib 50
-Trobelno 20
-Vaseno 29
-Trno 52
-Trebizani 12
-Dreznik 40
-Jagodnik 38
-Rifnik 161
-Hrastnik pri Trojanah 52
-Kozana 381
-
-Senozeti 759
-Perati 24
-Sveti Lenart 36
-Potiskavec 51
-Trska Gorca 42
-Gornje Orle 50
-Brlog 25
-Loska Gora 9
-Butoraj 114
-Topovlje 111
+Podkraj pri Velenju 764
 
 Koper 24996
 
-Cerkno 1596
-Jance 19
-Pordasinci 44
-Herinja Vas 98
-Gorenja Zaga 9
-Spodnja Lusa 147
-Luze 326
-Zerjavka 63
-Smihel pri Zuzemberku 116
-Orehek pri Materiji 14
-
-Kamnik pod Krimom 921
-Osolnik 23
-Gresovscak 117
-Rejcov Gric 15
-Brezova Reber 40
-Bodrez 183
-Dragatus 251
-
-Dolga Vas 829
-Dolenji Lazi 288
-Dolenja Vas pri Krskem 230
-Zupeca Vas 222
-Ornuska Vas 50
-Mala Varnica 98
-Mali Jelnik 50
-Kopivnik 231
-Klopce 168
-Racje Selo 91
-Sela nad Podmelcem 9
-Mala Goba 25
-Zgornja Backova 42
-Doblicka Gora 71
-Kriska Vas 266
-Srednja Vas pri Polh. Grad. 179
-Dedni Vrh pri Vojniku 19
-
-Srednje Gameljne 676
-Medvedce 119
-Mekotnjak 210
-Spodnja Breznica 238
-Srednja Vas pri Dragi 44
-Deskova Vas 24
-Negova 347
-Lovranovo 24
-Dragovic 150
-Podzaga 20
-Popovo 24
-Male Poljane 42
-Malo Ubeljsko 51
-Mali Kamen 260
-Meja 24
-Vranja Pec 36
-Melanjski Vrh 25
-
-Polzela 2380
-Veliki Jelnik 25
-Setnik 186
-Kosec 71
-Klecet 150
-Sveti Duh 20
-Petrinci 29
-Korpe 20
-Zlakova 147
-Mala Polana 356
-Kladje nad Blanco 147
-Gradno 51
-Drenovec 150
-Novi Kot 51
-Crni Potok 326
-Daljni Vrh 98
-Cajnarje 24
-Zarecje 147
-
-Parizlje 739
-Prekopa 246
-Lahomsek 109
-Hrastek 25
-Reka 167
-Ravenska Vas 246
-
-Latkova Vas 952
-Lukovec 186
-Krkovo nad Faro 24
-Torovo 36
-Stopce 231
-Porece 109
-Vinec 25
-
-Krtina 739
-Skrjancevo 246
-Cesnjevek 149
-Jereka 196
-Dolnje Cerovo 135
-Skrovnik 68
-Krnica 433
-Vodice pri Slivnici 26
-Zabukovje nad Sevnico 181
-Nadbisec 90
-Ljubinj 132
-Duplje 215
-Baselj 422
-Krasce 109
-Kristandol 25
-Dolnje Orle 25
-Volcje Njive 50
-Slivje 117
-Gorenje Jelenje 9
-Tominje 107
-Gorenje Selce 52
-Stanjel 349
-Dolenje Jezero 230
-Zgornji Jakobski Dol 332
-
-Dob 1563
-Kacji Dol 163
-Jarcje Brdo 24
-
-Smarje 784
-Artice 312
-Sobetinci 163
-Hrusovje 20
-Borst pri Dvoru 42
-Ostrozno pri Locah 15
-Bosljiva Loka 29
-Goriska Vas 52
-Mala Goricica 12
-Strojici 15
-Placerovci 168
-Vace 361
-Pirce 15
-Cenkova 40
-Vavta Vas 410
-Cikecka Vas 84
-Kukec 66
-Tisovec 35
-Sveti Andrej 60
-Zubejevo 22
-Dvorce 118
-Krnice 129
-Brezovica pri Borovnici 261
-Lokvica 75
-Dreznica 229
-Brezova 229
-Vareja 208
-Dolenja Trebusa 286
-
-Stari Trg 629
-Vidrga 109
-Bezgovica 25
-Brdo pri Lukovici 9
-Hohovica 25
-Hocevje 147
-Rakov Skocjan 9
-Trojane 107
-Starod 52
-Zavrtace 23
-Stari Kot 15
-Kot 117
-Bockovo 15
-Borje 40
-Bojanci 84
-Gobovce 52
-Obla Gorica 23
-
-Borovnica 2162
-
-Goricane 516
-
-Drenov Gric 914
-Gorenje Blato 230
-Drenik 63
-Gorenje Karteljevo 150
-Mlescevo 193
-Ciglence 332
-Hlaponci 272
-Galantici 14
-Briga 15
-Mala Brda 52
-Zlan 12
-Slamna Vas 117
-Blatna Brezovica 347
-
-Lavrica 2438
-Markecica 117
-Pliskovica 230
-Bukovski Vrh 23
-Kocevska Reka 272
-Zirovski Vrh Sv. Antona 59
-Rajnovsce 32
-Zirovski Vrh Sv. Urbana 137
-
-Ajdovscina 6656
-Segovci 305
-
-Vase 535
-Senicno 287
-Sentvid pri Grobelnem 198
-Dol pri Laskem 32
-
-Dolsko 595
-Koboli 18
-
-Bosamarin 544
-Koseze 343
-Spodnje Laze 141
-Dolenje Gradisce 28
-Log pri Polhovem Gradcu 14
-Volcji Potok 381
-Gorenji Lazi 38
-Mramorovo pri Luzarjih 4
-Lipovec pri Kostelu 2
-Stebljevek 49
-Levstiki 8
-Svetinja 31
-Brezje pri Vinjem Vrhu 17
-Veliki Videm 55
-Hudi Vrh 62
-Zasadi 55
-Zavrate 27
-Zalisec 55
-Bec 11
-Spodnja Sveca 53
-Sahovec 61
-Psata 445
-Stara Gora 165
-Vrata 107
-Silentabor 9
-Stara Cesta 293
-Hrastov Dol 98
-Jastrebci 149
-Stan 98
-Rozance 9
-Lanisce 231
-Tisina 404
-Gradiscak 33
-Raduha 243
-Ratje 33
-Spodnje Danje 54
-Zgornje Gorce 65
-Jezerce pri Dobjem 65
-Stefan pri Trebnjem 142
-Srebrnik 93
-Brezovo Brdo 31
-Rudolfovo 8
-Brunk 11
-Bratonecice 62
-Snezatno 94
-Matavun 57
-Miklavz pri Taboru 167
-Laze pri Bostanju 33
-Veliki Ban 80
-Lipnik 33
-
-Malija 483
-Smarata 97
-Batuje 346
-Cirkuse v Tuhinju 73
-Krusni Vrh 33
-Ruta 97
-Cuber 73
-Zbelovska Gora 325
-Zavrse pri Grobelnem 140
-Nemski Rovt 112
-Rovisce pri Studencu 125
-Jelence 209
-
-Legen 1026
-Zgornji Lehen na Pohorju 112
-Prekorje 373
-Predenca 157
-
-Godesic 614
-Josipdol 311
-Saksid 108
-Rakitovec 127
-Dvor pri Polhovem Gradcu 130
-Cerovec pod Bocem 346
-Petrovo Brdo 130
-Vodole 203
-Volca 110
-Polze 102
-Erzelj 70
-Poljce 217
-Troblje 311
-Dobrnic 97
-Sopotnica 90
-Sora 446
-Razbor 170
-Studena Gora 33
-Hudo 225
-Rudno 240
-Klenovik 133
-Hlevnik 33
-Rapljevo 69
-Pluzna 54
-Bracna Vas 48
-Krizna Gora 101
-Kaniza 224
-Podveza 142
-Ardro pod Velikim Trnom 27
-Nova Oselica 17
-Paunovici 34
-Opalkovo 27
-Levpa 188
-Curile 139
-Cerovec pri Cresnjevcu 62
-Rihpovec 94
-Podklanec 93
-Planinski Vrh 55
-Vrhovci 62
-Motvarjevci 156
-Vidanovci 56
-Fokovci 200
-Konjsko 87
-Markovec 224
-Podpec nad Marofom 33
-Smartno 199
-Nimno 92
-Zgornja Nova Vas 81
-Bolecka Vas 54
-Klinja Vas 241
-Rocinj 324
-Vinica 241
-Vinharje 57
-Paroz 54
-Tepanjski Vrh 142
-Replje 37
-Planina v Podbocju 31
-Pijana Gora 13
-Komarna Vas 1
-Dol pri Smarjeti 34
-Sirje 49
-Radosi 8
-Siroka Set 27
-Velika Racna 242
-Pecnik 37
-Zupeno 17
-Dol pri Stopercah 34
-Gabrje pri Soteski 31
-Gradisce pri Stjaku 2
-Rudnik pri Radomljah 53
-Kladje pri Krmelju 61
-Podbukovje pri Vacah 34
-Spodnje Roje 34
-Srednji Potok 1
-Predmeja 379
-Sleme 11
-
-Metlika 3273
-Strahomer 156
-Strajna 106
-Majcni 66
-Materija 66
+Novo Mesto 23341
+Brestovec 156
+Brestovica pri Povirju 49
+Brestovica pri Komnu 188
 
 Ptuj 18164
-Hrib 70
-Ritoznoj 223
+Batuje 346
+Tuji Grm 70
+Sujica 434
+Cesnjica 121
+Male Cesnjice 103
 
-Rogoza 1390
-Zazid 70
-Zavrstnik 364
-Cerovec Stanka Vraza 126
-Veliki Lipovec 102
-Jereslavec 155
-Boreca 82
-Premancan 175
-Konc 30
-Kopriva 175
-Petrova Vas 102
-Pretrez 172
-Svetinci 155
-Pletovarje 159
-
-Moravske Toplice 735
-Slivice 176
-Dolic 392
-Veliko Lipje 45
-Jelovec 357
-Pavlovski Vrh 151
-Gornje Vreme 100
-Javornik 159
-Klokocovnik 155
-Podlehnik 388
-
-Spodnji Duplek 1429
-Zupelevec 211
-Slope 74
-Savna Pec 100
-Jurisna Vas 82
-Sv. Ana v Slov. Goricah 155
-Veliki Slatnik 151
-Jedlovnik 100
-Veliki Podljuben 102
-Vinski Vrh 267
-
-Dravski Dvor 648
-Veliki Podlog 262
-Podjelovo Brdo 134
-Podstenje 74
-
-Podgorci 530
-Spodnje Stranje 265
-Gorenje Kamence 155
-
-Spodnje Hoce 2555
-Zgornje Jablane 185
-Gorenje pri Zrecah 110
-Osredek pri Zrecah 121
-Poklek nad Blanco 213
-Lahonci 355
-
-Gancani 1027
-Spodnja Scavnica 405
-Srpenica 185
-
-Sv. Trojica v Slov. Goricah 730
-
-Pesnica pri Mariboru 913
-Stari Log 270
-Stanovsko 226
-Trnovce 83
-Avce 240
-Zitkovci 128
-Sinkov Turn 111
+Trbovlje 15163
+Trbonje 235
+Sabonje 75
+Kostabona 229
+Kostanj 41
 
 Kamnik 13644
-Kokarje 187
+Kamni Vrh 44
 
-Smokuc 527
-Potok pri Komendi 44
-Koti 19
-
-Skocjan 546
-Spodnja Kanomlja 258
-
-Slovenja Vas 546
-Mala Vas pri Ormozu 113
-Krizevska Vas 220
-Skrilje 426
-Dolenje Kronovo 119
-Loncarjev Dol 220
-
-Smrjene 732
-Luzarji 14
-Dolenji Vrh 29
-Visnji Grm 23
-Resnik 117
-
-Smlednik 500
-Kubed 179
-Kungota pri Ptuju 394
-Cerovec pri Smarju 119
-Drankovec 116
-Boldraz 51
-Golce 36
-Ravni Dol 25
-Zidani Most 284
-Rozicki Vrh 244
-Jareninski Dol 391
-Brunska Gora 83
-Slatinski Dol 196
-Slamnjak 174
-Sakusak 209
-Tusev Dol 76
-
-Studence 600
-Ostenk 218
-Senozete 42
-Smartno ob Dreti 274
-Stara Oselica 234
-
-Galicija 625
-
-Mislinja 1945
-Mihovce 209
-Kozminci 135
-
-Mozirje 2085
-Mala Piresica 75
-Mali Lipoglav 229
-Volog 133
-Skrljevo 85
-Janezevo Brdo 26
-Dobrovo 368
-Dol 85
-Magolnik 26
-Marindol 95
-Radegunda 286
-Sladka Gora 83
-Gorjusa 158
-Gornji Lenart 235
-
-Zgornje Duplje 517
-Pluznje 129
-Placar 274
-Paridol 129
-Cilpah 43
-Kamovci 111
-Smolnik 334
-Smrecje v Crni 25
-
-Sempeter v Savinj. Dolini 2021
-Sembije 229
-Temljine 41
-Semnik 229
-Apnenik 33
-Praprot 54
-Prelasko 69
-Drobinsko 41
-Trebija 194
-
-Strocja Vas 492
-Strmca 404
-Hermanci 133
-
-Pernovo 507
-Pecine 158
-Jursinci 314
-Ciringa 90
-Zavino 92
-Krasno 90
-Gorenja Stara Vas 92
-Bruhanja Vas 121
-Dolnja Bitnja 81
-Desnjak 142
-Tlaka 37
-Crni Kal 207
-Hudi Kot 251
-Breg pri Kocevju 371
-Brezovec pri Rogatcu 52
-Prezigal 23
-Gradez 205
-
-Jezero 751
-
-Rovte 915
-
-Kropa 807
-Dobro Polje 137
-
-Zbilje 837
-Biska Vas 119
-Dolenja Vas pri Catezu 59
-Krizate 32
-Zabnica 332
-
-Sinja Gorica 542
-Piresica 150
-Bohinjska Cesnjica 347
-
-Mekinje 1582
-
-Ljubno ob Savinji 1104
-Breginj 196
-Brda 304
-Hudo Brezje 95
-Sv. Duh na Ostrem Vrhu 112
-Noricki Vrh 160
-Zavrh pri Galiciji 135
-Krvavcji Vrh 85
-Gornji Ig 26
-Zigrski Vrh 174
-Lutrsko Selo 181
-
-Selnica ob Dravi 1297
-Vinicka Vas 148
-Locki Vrh 176
-Murski Crnci 414
-Veliki Hrib 78
-Hrusevo 452
-Kovacevci 131
-Gorenje Lakovnice 82
-Veliki Brebrovnik 212
-Breza 102
-Dobrina 248
-Globel 123
-Zaloka 45
-
-Izakovci 827
-Goricak 192
-
-Kidricevo 1253
-
-Kovor 788
-Gorenja Vas pri Leskovcu 136
-
-Bukovci 973
-Zbure 162
-Podkoren 405
-Spodnje Blato 162
-Gornje Cerovo 298
-Vrbovo 295
-Bele Vode 278
-
-Smolenja Vas 487
-Jelendol 136
-Dolgovaske Gorice 307
-Mezgovci 45
-
-Melinci 808
-Veliki Nerajec 74
-Jelsevec 39
-Opatje Selo 392
-Trata 206
-Tribuce 328
-Krizisce 39
-Krapje 328
-Rasica 267
-Presika 144
-Kursinci 162
-Drstelja 233
-Norsinci 267
-Neradnovci 138
-Domanjsevci 278
-Senadole 72
-Kal pri Dolah 45
-Potok pri Dornberku 144
-Loka pri Framu 162
-Moravska Gora 103
-Vucja Gomila 289
-Filovci 478
-Stavca Vas 104
-Oceslavci 159
-Slivna 134
-
-Bezena 515
-Vurberk 452
-Smaver 70
-Levec 437
-
-Visole 539
-
-Bistrica ob Dravi 1368
-Draksl 112
-Bukovje pri Slivnici 160
+Jesenice 13440
 
 Nova Gorica 13178
-Lunovec 28
-Vino 154
-Vihre 143
-Korenjak 116
-Jaksici 14
-Dragosi 15
-Rakovnik pri Bircni Vasi 29
-Breznica pri Zireh 50
-Brezovec-Del 9
-Razori 107
+
+Sinja Gorica 542
+Obla Gorica 23
+Zgornja Gorica 114
 
 Domzale 12406
-Zagorje 351
 
-Zgornje Hoce 676
-Strazgonjca 193
-
-Zgornja Kungota 535
-Vesela Gora 59
-Velika Raven 32
-
-Ponikve 490
-Veliki Rigelj 24
-Zapoge 266
-Spodnja Pohanca 119
-Ukanc 44
-
-Ihan 784
-Jerman Vrh 71
-Verdun pri Ursnih Selih 63
-
-Verzej 903
-Gersici 50
-Jagrsce 25
-
-Pongrac 895
-Konjski Vrh 133
-Hrib-Loski Potok 373
-Pesniski Dvor 83
-Pepelno 109
-Jesenovo 293
-Belovo 196
-Sv. Lovrenc 352
-Gradenc 76
-Grce 89
-
-Crnece 665
-
-Loce 684
-Puce 249
-Repisce 140
-Modrejce 112
-Sv. Jernej nad Muto 125
-Zgornji Janzevski Vrh 26
-Volcja Jama 95
-Boltija 26
-Prsetinci 181
-
-Pragersko 1150
-Okoska Gora 181
-Log nad Skofjo Loko 203
-
-Loka pri Zidanem Mostu 486
-Lom pod Storzicem 346
-Kocice 263
-Kozarsce 92
-Puscava 130
-Golisce 217
-Lipe 97
-Kupetinci 69
-Podkum 224
-Mali Podljuben 48
-Male Brusnice 48
-Obcice 65
-Globoko 323
-Dobrava ob Krki 94
-
-Leskovec pri Krskem 1021
-Strensko 54
-Veliko Ubeljsko 87
-Dupeljne 58
-Pecovje 242
-Plazovje 22
+Skofja Loka 11969
+Mala Loka 187
+Loka 354
 
 Murska Sobota 11614
-Velika Lasna 120
-Vas 414
-Grusova 78
-Avgustine 30
-Stangarske Poljane 72
-Janhova 39
-Komanija 82
-Gombisce 39
-Domajinci 248
-Gornji Petrovci 419
-Bucecovci 265
-Lavrovec 123
-Slancji Vrh 45
-Cirkulane 434
-
-Majsperk 637
-Vojscica 227
-Krivica 164
-Orehovica 226
-Mala Slevica 197
-Orla Vas 195
-Janzeva Gora 454
-
-Sentilj v Slov. Goricah 1826
-Jasen 262
-Kalse 131
-Mala Lasna 30
-Kale 120
-Pluska 45
-
-Pusca 541
-Presnica 151
-
-Rakican 1560
-
-Kamna Gorica 563
-Cadram 265
-Drbetinci 233
-Drnovk 138
-Gubno 176
-Trnovo ob Soci 138
-Gocova 247
-
-Gornja Radgona 3159
-Vinja Vas 126
-Zgornja Korena 419
-Oresje 155
-Srebotje 126
-
-Pobrezje 907
-Gabrovlje 74
-Cundrovec 131
-Odrga 138
-
-Podbrezje 788
-Podulce 110
-Poklek pri Podsredi 102
-Predmost 162
-Mocilno 103
-Lomno 74
-Penoje 39
-Pecarovci 420
-Limovce 78
-Smoldno 30
-Curnovec 126
-Gornji Crnci 144
-Cesnjica 121
-Botricnica 144
-Spodnja Lipnica 175
-Srednje 172
-Spodnja Backova 123
-Pocehova 358
-Hrib pri Orehku 74
-Hrastje ob Bistrici 148
-Preserje pri Lukovici 78
-Bukovca 30
-Gabrovica pri Komnu 120
-Zabrdje 159
-
-Draza Vas 518
-Zupecja Vas 259
-Orehova Vas 427
-Ihova 292
-Zgornji Hotic 252
-Spodnji Razbor 217
 
 Izola 11223
-Ivandol 28
-
-Col 496
-
-Dolnji Zemon 508
-Vrh pri Trebelnem 28
-Lepi Vrh 12
-
-Dolenja Vas 731
-Zlogona Vas 53
-Koglo 40
-Kilovce 52
-Grintovec pri Osilnici 23
-
-Begunje pri Cerknici 658
-Ravne pri Zireh 28
-Hrast pri Vinici 141
-Tomazini 32
-
-Komenda 881
-Brezen 228
-Zepovci 396
-Sturmovci 143
-Hrastje-Mota 360
-Tabor 406
-Dvor 395
-Laporje 398
-Malo Polje 71
-Vatovlje 20
-
-Vrhpolje pri Kamniku 737
-Prevalje pod Krimom 187
-
-Prelog 656
-Rogasovci 254
-Nova Vas 299
-Ruhna Vas 14
-
-Vrhnika 8413
-Zavrh nad Dobrno 254
-Janski Vrh 52
 
 Postojna 9183
-Podstenjsek 12
-
-Podkraj 482
-Krsic 28
-Skrabce 14
-Iska Vas 402
-Dolnja Stara Vas 119
-Katarija 44
-Berinjak 19
-
-Bohinjska Bela 546
-Poljubinj 456
-Grobisce 79
-Scurki 10
-
-Zelezniki 3075
-Poznanovci 190
-
-Nozice 571
-Medno 406
-Vratno 63
-Radenski Vrh 150
-Blatni Vrh 98
-Jablaniski Potok 9
-Iska 228
-Karlce 9
-Prelska 260
-Velika Lahinja 51
-Ribcev Laz 147
-Praproce v Tuhinju 24
-Suhor 44
-
-Sv. Duh 1066
-Spodnji Dolic 190
-Sodna Vas 67
-
-Spodnja Idrija 1501
-Podgorica pri Podtaboru 46
-Sv. Primoz na Pohorju 343
-Dobrava pri Konjicah 88
-Dragonja 383
-Konca Vas 113
-Vincarje 141
-Crnci 299
-Cikava 254
-Trtnik 23
-Trojno 52
-Zrnova 23
-Podobeno 52
-Gorenje Podpoljane 23
-
-Notranje Gorice 1645
-Golice 137
-
-Rocevnica 529
-Lipica 67
-Grudnica 10
-
-Budanje 817
-Bucerca 88
-
-Cesta 538
-Kambresko 119
-
-Skofljica 2209
-Zalog pod Sv. Trojico 98
-Podloze 282
-Zeje 214
-Kutezevo 228
-Klemencevo 9
-Ritomece 42
-Otovci 218
-Mirtovici 9
-Cerovica 168
 
 Logatec 8942
-Bezgarji 14
-Razguri 38
-Zgornje Danje 4
-Berinjek 11
-Bedenj 62
-Lindek 94
-Medvedjek 87
-Otovec 54
-Stopno 87
-Vodenovo 96
-
-Livold 483
-Glinsko 41
-Okonina 199
-Loke v Tuhinju 217
-Turjanci 99
-Cogetinci 270
-
-Dogose 763
-Venise 250
-Sentjungert 148
-
-Podcetrtek 528
-Livek 155
-Selisce 30
-Veliki Cirnik 72
-Kresniski Vrh 206
-Jurovski Dol 385
-Misji Dol 30
-Jarcji Vrh 39
-Bicje 82
-
-Kicar 819
-Skarnice 100
-Kriska Reber 30
-Skalske Cirkovce 155
-Vukovski Dol 421
-Hercegovscak 123
-Gornji Lakos 421
-
-Spodnji Slemen 641
-Polene 211
-Kneza 206
-
-Zamusani 523
-Zakriz 178
-Ogljensak 192
-Mlinsko 74
-Planina pod Golico 289
-
-Bogojina 537
-Borejci 248
-Bodovlje 192
-Oselj 74
-Senicica 233
-Pusenci 248
-Businja Vas 123
-Dolnja Pocehova 338
-Spodnja Kapla 365
-Plac 135
-Jablana 85
-
-Martjanci 539
-Hvaletinci 108
-
-Rogaska Slatina 5111
-Sedina 121
-Medribnik 144
-
-Sredisce ob Dravi 1124
-Cesnjice pri Zagradcu 82
-Laze pri Dolskem 247
-Brezovec pri Polju 74
-Gric pri Klevevzu 45
-Gradisce pri Materiji 144
-Marija Reka 259
-Barka 102
-Kalobje 70
-
-Dobrovce 799
-Kustanovci 181
-Doslovce 124
-Korovci 181
-Gabrovka 250
-Brengova 270
-
-Trcova 740
-Petrinje 39
-Zloganje 138
-Gajevci 295
-
-Hajdose 628
-Zamostec 227
-Zagrad 140
-Nadlesk 174
-Cadraze 76
-
-Nazarje 872
-Zavrse 422
-Vrhek 112
-
-Pekre 1517
-Knape 78
-
-Rakitna 672
-Trnovski Vrh 155
-Podvrh 388
-Gorenji Vrh pri Dobrnicu 45
-Turski Vrh 419
-Safarsko 298
-Crmljensak 206
-Dobrusa 123
-Rucmanci 206
-Mace 134
-Lozice 262
-Cerkvisce 78
-Rance 227
-Slaptinci 140
-Naraplje 90
-Hrusevlje 124
-Susak 92
-Jelsane 325
-Belo 127
 
 Kocevje 8672
-Cepulje 38
-Sajevce 40
-Gorenje Mrasevo 38
-Hrastovlje 154
-Skrblje 63
-Brecljevo 163
-Jelovo 143
-Nove Lozine 44
+Breg pri Kocevju 371
 
-Stara Loka 830
-Kraska Vas 32
+Vrhnika 8413
+Mahnici 12
 
-Bohinjska Bistrica 1799
-Gorice 362
-Dolenje Lakovnice 79
+Slovenj Gradec 7519
 
-Zice 568
+Smartno pri Slovenj Gradcu 1250
 
-Retece 630
+Gorica pri Smartnem 558
+Jezerce pri Smartnem 69
+Jezerce pri Dobjem 65
+Zavrse pri Dobjem 33
+Slatina pri Dobjem 57
+Gorica pri Dobjem 41
+Brezje pri Dobjem 80
+Brezje pri Dobu 90
 
-Homec 806
+Slovenska Bistrica 7454
 
-Hotemaze 512
-Razdrto 190
-Mali Otok 79
-Kal nad Kanalom 327
-Narin 221
-Marolce 32
-Fara 59
-Krasnja 354
-Laska Vas 67
-Nasova 187
-Dvorska Vas 179
-Rovtarske Zibrse 220
-
-Zaborst 752
-Pozarje 14
-Loke pri Mozirju 305
-Log pri Vrhovem 88
-Trnovec pri Dramljah 145
-Nova Vas pri Jelsanah 10
-Velika Stara Vas 137
-
-Pristava 911
-Golavabuka 198
-Mala Loka 187
-Srednje Laknice 32
-
-Preddvor 837
-Skedenj 71
-Bodesce 163
-Lesnjake 24
-Visnjevik 149
-Podvin 386
-Sodinci 286
-Nasovce 219
+Zgornja Bistrica 567
 
 Grosuplje 7098
-Gradec 50
-Mladje 20
-Grmada 29
-Zadniki 14
-Jamnik 40
-Kamenica 38
-
-Cerknica 3928
-Prigorica 438
-Dragovica 53
-Pijavice 61
-Pikovnik 11
-Zenkovci 371
-Lokovec 281
-
-Loz 642
-Sv. Florijan 371
-Betanja 11
-Spodnje Vetrno 53
-Zenje 38
-
-Zgornje Partinje 569
-
-Vnanje Gorice 2195
-Spodnje Praprece 179
-Srednje Arto 19
-Retnje 296
-Strletje 44
-Svetelka 238
-Svibno 163
-Sveti Jurij ob Scavnici 204
-Pecovnik 272
-Colnarji 14
-Kralji 12
-Spitalic pri Slov. Konjicah 14
-Zalog pri Sempetru 91
-Stara Sela 52
-Kostel 12
-Most 40
-Kristanci 84
-Precetinci 161
-Rtice 22
-Okroglice 86
-Rob 84
-Robanov Kot 139
-Nova Gora 62
-Nozno 31
-Osredek nad Sticno 11
-Bircna Vas 379
-Sveta Ana pri Lozu 7
-Velike Loce 38
-Libelj 12
-
-Ribnica 3604
-Jelsevica 4
-
-Sv. Danijel 482
-Planinca 52
-Vine 64
-Novi Grad 40
-Novokracine 222
-Zihovo Selo 38
-Hotovlja 254
-Mohorje 15
-Studor v Bohinju 117
-Gornja Bitnja 50
-
-Litija 6467
-Mlinse 260
-Seki 9
-Lavtarski Vrh 25
-Preclava 42
-Dravci 63
-Sava 260
-Murave 71
-Solcava 214
-Mlaka nad Luso 36
-Nemska Vas 246
-
-Rimske Toplice 778
+Kupljenik 50
 
 Krsko 7097
-Konj 81
-Globoko ob Dravinji 92
-Veliko Sirje 271
-Veliki Vrh 270
-Velika Piresica 452
-
-Kamnica 1638
-Blagovica 123
-Jamnica 78
-
-Kozjak nad Pesnico 602
-Spodnji Jakobski Dol 365
-Vranji Vrh 387
-Janzev Vrh 262
-Jablan 148
-Anze 110
-Adrijanci 164
-Radovci 217
-Oslusevci 197
+Sarsko 58
+Morsko 207
 
 Ravne na Koroskem 6979
 
-Radlje ob Dravi 2811
-Ivanji Grad 85
-Spodnji Petelinjek 26
-Zgornje Konjisce 95
-Gradisce pri Litiji 83
-Preloze pri Lokvi 76
-Kanalski Lom 89
-Veliki Orehek 95
-Male Vrhe 26
-Makole 250
-Smast 185
-Mahovci 110
-Podhom 329
-Orehovci 70
-Radohova Vas 180
-Lahovce 443
-Sovice 110
-Sodisinci 227
-Gracisce 185
-Gonjace 172
-Racki Vrh 82
-Vrh pri Mlinsah 39
+Ravne 1092
 
-Plintovec 669
-Trenta 123
-
-Prestranek 708
-Selo pri Vranskem 74
-
-Mestni Vrh 679
-Vrh nad Laskim 134
-Kot na Pohorju 159
-Lemberg pri Smarju 126
-Selo pri Bledu 213
-Dole pri Skofljici 45
-Primskovo 30
-Fuckovci 45
-Mavcice 443
-Crmosnjice 136
-
-Crni Vrh 648
-Krn 30
-Malo Crnelo 39
-Male Rebrce 30
-Vrcice 45
-Stranice 192
-Zabice 298
-Bitnje 82
-Binkelj 175
-Savina 206
-Gornja Kosana 134
-
-Dornava 1267
-Dolena 180
-Orle 213
-Velike Malence 283
-Prvenci 233
-Rigonce 175
-Moscanci 273
-Primoz 30
-Kozbana 39
-Pozirno 30
-Magozd 72
-Smatevz 175
-Markovci 462
-Gederovci 175
-Videz 159
-Brvi 45
-Brezovec 192
-Barizoni 136
-Segonje 30
-Topol pri Begunjah 72
-Vrh pri Visnji Gori 126
-Moravce pri Gabrovki 213
-Zlatece pri Sentjurju 102
-Ribnica na Pohorju 443
-Planica 136
-
-Nedelica 576
-Veliko Mrasevo 262
-
-Zgornja Velka 821
-Velika Dobrava 131
-
-Miklavz na Dravskem Polju 3854
-Sedraz 180
-Srednje Brdo 103
-Visnje 178
-Brise 121
-Podlanisce 144
-Podgradje 267
-Spodnje Negonje 273
-Prezganje 151
-Zgornje Mladetice 78
-
-Sveti Jurij 484
-
-Turnisce 1509
-Zgornja Slivnica 104
-
-Dobrovnik 972
-Zelodnik 45
-Zelezno 213
-Kameno 136
-Zejno 104
-Podgraceno 30
-Podturn 72
-Studeno 298
-Staje 126
-Vajgen 103
-Jelenik 45
-Zebnik 151
-Kuzeljevec 39
-Dolnji Slaveci 425
-Zgornji Gasteraj 126
-Grajena 357
-Grinjan 104
-Gorenja Dobrava 136
-Ravnik 104
-Lahovna 103
-Brebovnica 126
-Vrbovec 102
-Novi Svet 110
-Creta 329
-Banuta 70
-Tinjan 178
-Visnja Vas 233
-Sadinja Vas 459
-Paradiz 213
-Budinci 110
-Buc 178
-Vrbicje 70
-Skorba 364
-Kovk 134
-Bovse 110
-Rzise 102
-Strnisce 110
-Bis 329
-
-Gradiska 929
-Rodine 338
-Crneca Vas 123
-Dobruska Vas 338
-Vasca 78
-Belsinja Vas 39
-Primca Vas 78
-Zelimlje 416
-Breze 151
-Brdo 100
+Ajdovscina 6656
+Markovscina 119
 
 Brezice 6573
-Ceplez 65
-Sikole 323
-Cirnik 101
-Zgornja Jevnica 65
-Spodnja Orlica 101
-Otlica 306
+
+Litija 6467
+
+Smartno pri Litiji 1444
 
 Zagorje ob Savi 6439
-Zagrajec 25
-Gruca 50
+
+Locica ob Savinji 825
+Locic 128
 
 Menges 6112
 
-Medvode 5178
+Loka pri Mengsu 844
+Pristava pri Mestinju 210
 
-Godic 689
-Hodos 228
-
-Rodica 857
-Dilce 143
-Jagoce 141
-Brce 28
-Muhabran 14
-Babno Polje 337
-Kramplje 7
-Kamenik 62
-Meje 61
-Brestje 37
-Obrat 94
-Brinje 156
+Pristava 911
 
 Idrija 5955
-Sovjak 299
-Govce 14
-Satahovci 299
-Bratnice 14
-Grcarice 177
-Bakrc 12
-Martinjak 316
-Prtovc 23
-Kaptol 15
-Kamence 161
-Huda Jama 84
-Varda 107
+Idrija pri Baci 290
+Bac 458
+Bacne 23
+Racni Vrh 91
+
+Radovljica 5940
+Radovica 280
 
 Lucija 5872
-Pribinci 59
-
-Krizevci pri Ljutomeru 490
-Ljubno 479
-Podjelje 67
-Mali Rigelj 10
-Jelenska Reber 32
-Celestrina 300
-Cesnjice 19
-Krivoglavice 59
-Glina 32
-Sprinc 137
-
-Drazenci 529
-Vuzmetinci 150
-Ivenca 187
-Vester 204
-Strane 59
-Trebez 277
-Cretvez 44
-Blatnik pri Crmosnjicah 19
-Ortnice 32
-Drtija 198
-Drobocnik 32
-Ropoca 210
-Praproce 98
-Vrabce 50
-Sodji Vrh 25
-Ladja 167
-Slatnik 118
-Zavratec 129
-Radmozanci 244
-Mocila 76
-Plave 249
-Plesivec 424
-Velike Pece 89
-Verpete 135
-Avber 109
-Zenavlje 109
+Luce 413
 
 Crnomelj 5776
-Omota 55
-Tajhte 62
-Cetez pri Strugah 61
-Ostrovica 17
-Selo pri Kostelu 2
-Hosta 93
-Tavzlje 17
-Rjavce 37
-Logarji 31
-Rjavci 94
-Ivanjsevci 37
-Njivica 31
-Peracica 34
-Gabrovnica 34
-Brinovscica 17
-Zagorica pri Catezu 34
-Zagomila 6
-Zastava 13
-Birna Vas 62
-Mihelja Vas 55
-Sibelji 11
-Benecija 31
-Sentjakob 34
-Grant 17
-Janezi 13
-Brezovk 6
-Rakova Steza 34
-Makose 6
-Masore 62
-Prem 156
-Cemse 37
-Podlisec 27
-Podplanina 31
-Nanos 8
-Vidosici 27
-Sirci 48
-Gracic 65
-Podigrac 69
+Zemelj 61
+Podzemelj 139
 
 Hrastnik 5621
-Praprotno Brdo 42
-Papezi 25
-Zibika 186
-Nezbise 147
-Sredisce 51
+Hrastno 60
+Hrastovica 118
 
-Vodice 1589
-Dvorje 431
-
-Zgornje Jezersko 568
-Zgosa 372
-Gozd 137
-
-Golnik 1063
-Dolenje Polje 67
-Brezje pri Roznem Dolu 10
-Poljane pri Sticni 32
-Klanec 300
-Veceslavci 360
-Buckovci 119
-Kljucevica 28
-
-Naklo 1716
-Logje 59
-Lohaca 32
-Stenica 150
-Zunici 51
-Pungert 147
-Adergas 235
-Osredek 76
-Mosnje 391
-Modrej 293
-Podsreda 191
-Podroje 135
-Spodnji Tustanj 125
-Pustike 83
-Poletici 76
-Vipolze 457
-Jezerca 26
-Caca Vas 160
-Baca pri Modreju 135
-Videm pri Ptuju 471
-Poljane pri Primskovem 26
-Polje pri Trziscu 95
-Zgornje Pobrezje 112
-Dobrnez 112
-Brezec pri Divaci 26
-Grzeca Vas 95
-Gruskovec 152
-Grm 135
-
-Dravograd 3289
-Gorenji Radenci 26
-Trebence 95
-Trnovci 152
-Kaplanovo 26
-Planina pod Sumikom 95
-Mala Strmica 26
-Srednja Bistrica 471
-
-Vuhred 782
-Orehovec 226
-
-Zrece 2935
-Place 234
-Kaplja Vas 294
-Deseca Vas 76
-Grajska Vas 353
-Zdenska Vas 234
+Sezana 5531
+Koseze 343
 
 Bled 5181
-Slepsek 119
-Polenci 210
 
-Sencur 3152
+Medvode 5178
+Dvor 395
 
-Selca 666
-Preloze 67
-Bozje 119
-Podborst pri Komendi 210
-Radomerje 187
+Rogaska Slatina 5111
+Slatina pri Ponikvi 108
 
-Polhov Gradec 617
-Topol 59
-Zdole 287
+Ponikva 492
+Ponikva pri Zalcu 373
 
-Zlebe 536
-Mihele 28
-Pugled 14
-Radlek 40
-Goljek 64
-Dole 165
-Orlek 165
-Frluga 5
-Roce 64
+Zalec 4943
+
+Slovenske Konjice 4869
+Vrhole pri Slov. Konjicah 319
+Preloge pri Konjicah 166
+Nova Vas pri Konjicah 83
+Breg pri Konjicah 132
+
+Sentjur 4762
+Podsentjur 108
+
+Sevnica 4660
+Velika Sevnica 54
+Velika Slevica 48
+Velika Strmica 43
 
 Prevalje 4643
-Praprece 149
-Zapudje 71
-Zadlaz-Zabce 36
-Jazbina 51
+
+Ilirska Bistrica 4553
+Kamniska Bistrica 23
+
+Ruse 4503
+Hrusevlje 124
+
+Piran 4192
+
+Cerknica 3928
+Planina pri Cerknem 137
+
+Begunje pri Cerknici 658
+
+Trzic 3865
+Trzisce 214
 
 Trzin 3844
 
-Trboje 662
-Trzisce 214
-Kobilscak 51
-Orlaka 36
-Dolanci 25
-Gerlinci 334
+Miklavz na Dravskem Polju 3854
 
-Piran 4192
-Uzmani 18
-Poljane 145
-Mackovec pri Skocjanu 28
-Skopo 230
-Pokojisce 38
-Gradisko 4
-Kokra 264
-Pristava ob Krki 38
-Staro Brezje 4
-Rozar 23
-Dobrovlje 371
-Rovte v Selski Dolini 53
-Macji Dol 61
-Trebnji Vrh 13
-Dolenji Podborst 34
-Zabjek v Podbocju 55
-Jesenov Vrt 2
-Gaspinovo 7
-Tesanovci 371
-Sapnik 11
-Snovik 53
-Kocno 13
-Obolno 7
-Bostetje 7
-Kuretno 38
-Sv. Peter 379
-Retje 436
-Recica 88
+Lovrenc na Dravskem Polju 664
 
-Pijava Gorica 766
-Kamniska Bistrica 23
-Gric 349
-Stari Grad v Podbocju 4
-
-Grahovo 482
-
-Horjul 1329
-
-Hotedrsica 598
-Praprotna Polica 189
-Colnica 16
-Vescica 436
-Lipnica 53
-
-Sodrazica 832
-Nadrozica 4
-Gracnica 38
-
-Gradisce 752
-
-Velike Lasce 729
-Dolgi Laz 14
-Volavlje 177
-Malo Trebeljevo 165
-Nevlje 251
-
-Trzic 3865
-
-Tropovci 521
-Trate 287
-Spodnji Gasteraj 301
-
-Hrastje 1051
-
-Radomlje 1674
+Marjeta na Dravskem Polju 486
 
 Sempeter pri Gorici 3760
-Sela pri Vrcicah 16
-Stara Gora pri Vel.Gabru 14
-Mali Vrh pri Smarju 351
-Marincki 23
-Sencak 52
-Jakicevo 23
 
-Rakek 2152
-Velike Zablje 330
-Gorenje Ponikve 105
-Spodnje Dule 67
-Gorenje Grcevje 10
-Tekacevo 220
-Drnovo 428
-Krnce 16
-Trnovica 18
-Kerinov Grm 79
-Hrib pri Cerovcu 10
-Zabovci 461
-Ogorevc 105
-Zgornja Rocica 67
-Spodnja Draga 113
+Sempas 1146
 
-Blejska Dobrava 962
-Pristava pod Rako 10
-
-Vipava 1771
-Visevca 3
-Rzisce 59
-
-Visoko 877
-Ponovice 190
-Studencice 150
-Vejice 20
-Bocaji 24
-Sebeborci 473
-Podboc 20
-Podrecje 396
+Ribnica 3604
 
 Ziri 3588
 
-Britof 1908
-Breznica 470
-
-Slivnica pri Mariboru 631
-Creta pri Kokarjah 18
-Strjanci 79
-Stjak 59
-Mestinje 343
-
-Spodnje Skofije 1402
-Leskovica 105
-Palovice 67
-Kacice-Pared 113
-Pangrsica 79
-Pacinje 204
-Hotunje 282
-Tucna 24
-Gibina 256
-Bisecki Vrh 193
-Negovski Vrh 24
-
 Tolmin 3534
-Dolenci 204
-Iglenik 32
-Migolica 67
-Zatolmin 344
-Zadnja Vas 32
-Zgornja Loznica 366
-Srednja Vas 67
+Zminec 464
 
-Predoslje 989
-Slavina 221
-Davca 301
-Vintarovci 362
-Selo pri Zirovnici 296
-Golobinjek pri Planini 46
-Osevljek 201
-Gorenje Nekovo 16
-Orehovlje 480
-Razbore-Del 46
-
-Begunje na Gorenjskem 988
-Gora 79
-Zgornji Prekar 46
-Dolenji Novaki 201
-
-Gorenja Vas 1192
-
-Crna Vas 817
-Crni Potok pri Kocevju 141
-Socerb 19
-
-Lesce 2835
-Brdice pri Neblem 46
-Gradisce na Kozjaku 201
-Pristava nad Sticno 16
-Bistrica ob Sotli 272
-
-Vanca Vas 495
-
-Vanganel 571
-Sentjanz 394
-Ziganja Vas 481
-
-Spodnja Besnica 905
-Ljubnica 300
-Cegelnica 360
-Kopacnica 79
-
-Hrusica 1722
-
-Pustal 630
-Zaloke 59
-Velike Rebrce 32
-Vikrce 332
-Gabrc 19
-
-Valburga 540
-Gabrce 51
-Zabja Vas 44
+Trebnje 3477
 
 Ljutomer 3460
-Stolovnik 233
-Svibnik 110
+Kljucarovci pri Ljutomeru 357
+Gornji Kljucarovci 100
+Spodnji Kljucarovci 134
 
-Videm 740
+Lasko 3456
+Lasce 60
 
 Vir 3415
-Hmeljcic 71
 
 Solkan 3324
-Log Cezsoski 67
-Kalisovec 46
+Podvelka 343
 
-Slovenski Javornik 2002
-Kot pri Veliki Slevici 10
+Dravograd 3289
 
-Dol pri Borovnici 496
-Podkraj pri Mezici 113
-Roje pri Catezu 67
-Brezje pri Kumpolju 10
-Laze pri Gorenjem Jezeru 18
-Polje pri Bistrici 79
-Male Dole pri Stehanji Vasi 46
-Opale 32
-Galusak 67
-Tuljaki 10
-Zgornji Tuhinj 372
-Martinje 119
-
-Strahinj 765
-Pri Cerkvi-Struge 67
-Brezje pri Trzicu 366
-
-Brezje 513
-
-Bezina 536
-Jezce 28
-Hrasce 429
-Travna Gora 12
-Gorenje Otave 38
-Mota 351
-Mali Moravscak 12
-Male Kompolje 23
-Mali Kum 23
-Kunsperk 117
-Drensko Rebro 154
-Konusko 23
-Golusnik 15
-Susje 118
-Huje 107
-Buje 47
+Sentjanz pri Dravogradu 543
+St. Janz pri Radljah 274
 
 Ankaran 3278
-Dragovanja Vas 113
-Zagojici 189
-Zabrez 16
-Zalci 18
-Zagradisce 79
-Sad 46
-Zagradec pri Grosupljem 189
-Grc Vrh 10
-Gradnik 67
-Spicnik 113
+Brankovo 23
+Drankovec 116
 
-Spodnje Gorje 998
-Smrje 119
-Udje 59
-Dobravlje 435
-Metulje 46
-Smednik 79
-Smrecje 258
-Celevec 46
-Podvelka 343
-Lipovec 145
-
-Verd 1891
-Jeronim 221
-
-Dragomer 1446
-Metava 305
-Vrtace 23
-Kracali 38
-Malinisce 4
-Vale 14
-Ozbalt 264
-
-Stari Trg pri Lozu 864
-Cetez pri Turjaku 28
+Metlika 3273
+Olika 2
 
 Mezica 3254
-Lome 109
 
-Florjan 836
-Dolnja Kosana 335
-Medana 234
-Dolina 195
-Polana 227
-Lipoglav 173
-Cerov Log 227
+Zice 568
 
-Njiverce 682
-Podcerkev 124
-Podlipa 467
-Paka 259
-Zaklanec 213
-Drozanje 136
-Bojanja Vas 104
-Zgornja Pohanca 104
-Hrenca 144
-Hrusevje 248
-Osek 405
-Posavec 387
-Pec 131
-Smecice 30
-Kumen 357
+Stanezice 716
 
-Radenci 2201
-Rakovci 126
-Zakl 212
-Cerklje ob Krki 232
-Vopovlje 126
-Zvarulje 74
-Marinca Vas 131
-Godeninci 151
+Gornja Radgona 3159
 
-Puconci 638
+Sencur 3152
 
-Secovlje 773
-Hrastovec 443
-Topolovo 45
-Potoce 357
-Runtole 30
-Koble 123
-
-Malecnik 553
-Sele 257
-Pokose 211
-Kog 232
-Kosarovci 72
-Salamenci 307
-Slatenik 45
-Ter 232
-Gunte 30
-Ples 72
+Srednja Vas pri Sencurju 490
+Nova Vas pri Smarju 71
+Gorenja Vas pri Smarjeti 214
 
 Lendava 3129
-Dolenja Nemska Vas 273
-Logarska Dolina 104
-Idrijski Log 72
-Janzevski Vrh 273
-Vranje 104
-Frankolovo 307
-Selo 441
-Na Logu 136
-Ilovci 102
-Znojile 121
-Kunova 122
-Imeno 297
-Trlicno 121
-Mali Okic 102
-Zapotok 295
+Jelendol 136
+Jelenik 45
+Klenik 178
 
-Apace 802
-Bisce 213
-Bistrica 121
-Ojstro 180
+Zelezniki 3075
+
+Lenart v Slov. Goricah 3006
+
+Sentilj v Slov. Goricah 1826
+Sv. Ana v Slov. Goricah 155
+
+Hrastovec v Slov. Goricah 518
+
+Sv. Trojica v Slov. Goricah 730
+
+Bistrica pri Trzicu 2996
+Bistricica 280
 
 Portoroz 2947
-Todraz 10
 
-Dutovlje 715
-Potoki 113
-Oklukova Gora 67
-Zukovo 10
-Pirsevo 32
-Virstanj 204
-Cirkuse 32
-Repus 44
-Purkace 24
-Pudob 228
-Studor 29
-Dolgo Brdo 63
-Svetli Dol 71
+Store 1937
 
-Vrtojba 2591
-Osredek pri Hubajnici 16
-Vrhovlje pri Kozbani 18
+Zrece 2935
 
-Kozina 544
+Sostanj 2880
 
-Kanal 1269
-Zapreval 28
-Predgrize 154
-Medlog 281
+Brezovica pri Ljubljani 2862
 
-Golo 500
-Kolovrat 143
-Gatina 141
-Utik 473
+Lukovica pri Brezovici 501
+Gorenja Brezovica 210
+Blatna Brezovica 347
 
-Race 2529
-Goce 185
-Skalce 414
-Preloka 123
-Veliki Locnik 123
-Policki Vrh 185
-Gorenji Vrsnik 123
-Vukovski Vrh 185
-Zavrh 387
+Lesce 2835
+Mlescevo 193
+Bodesce 163
 
-Knezak 486
+Radlje ob Dravi 2811
 
-Poljcane 1153
+Bistrica ob Dravi 1368
 
-Crna na Koroskem 2409
-Otemna 125
-Ratez 391
-Matke 356
-Rotman 158
-Gmajna 457
-Fuzina 152
-Smarcna 89
-Harije 275
-Armesko 174
-
-Muta 2300
-Potarje 85
-Dorfarje 209
-Cirje 76
-
-Ig 2262
-Ravni 63
-Prase 214
-Gorjuse 150
-
-Jagodje 2225
-Jama 239
-Male Grahovse 46
-Gradisce pri Divaci 18
-
-Prade 1129
-
-Vrzdenec 503
-Velika Nedelja 305
-Libelice 205
-Bitice 38
-Podstenice 4
-Unicno 14
-
-Ormoz 2174
-Zlabor 126
-Bojtina 74
-Kodreti 45
-Dramlje 405
-Drvanja 185
-
-Zgornja Scavnica 533
-Koritnica 148
+Selnica ob Dravi 1297
 
 Selnica ob Muri 1078
-Straza pri Oplotnici 78
-Loke pri Zagorju 211
 
-Skoke 967
+Vrtojba 2591
 
-Kozje 669
-Rozengrunt 181
+Spodnje Hoce 2555
+
+Race 2529
+
+Lavrica 2438
+Goricica 210
+Gorice 362
+Goricice 71
+
+Crna na Koroskem 2409
+
+Beltinci 2394
+Svetinci 155
+
+Polzela 2380
+
+Andraz nad Polzelo 828
+Vipolze 457
+
+Breg pri Polzeli 957
+Podvin pri Polzeli 284
+Podvine 75
+Vinec 25
+
+Senovo 2343
+Vodenovo 96
+
+Muta 2300
+Butajnova 219
+
+Vojnik 2292
+
+Ig 2262
+
+Jagodje 2225
+Jagoce 141
+
+Skofljica 2209
+Reber pri Skofljici 116
+Poreber 179
+Podreber 150
+
+Podreca 521
+Podrecje 396
+Zarecje 147
+
+Radenci 2201
+Dolenji Radenci 30
+
+Vnanje Gorice 2195
+
+Zgornje Gorje 500
+
+Ormoz 2174
+Cermozise 283
+Rzise 102
+
+Radece 2168
+Pusti Gradec 33
+
+Borovnica 2162
+
+Dol pri Borovnici 496
+Borovci 310
+Zabovci 461
+Zabocevo 105
+Zabork 67
+Tabor 406
+
+Zaborst 752
+Zaborst pri Dolu 347
+Borst pri Dvoru 42
+Mackovec pri Dvoru 107
+Stari Dvor 84
 
 Koroska Bela 2160
-Beli Potok pri Frankolovem 46
 
-Branik 960
-Radana Vas 145
-Gradicek 28
-Velike Cesnjice 220
-Crnice 426
+Bohinjska Bela 546
 
-Spodnja Slivnica 544
-Gradnje 28
-Srednji Radenci 28
+Bohinjska Bistrica 1799
 
-Zgornji Brnik 704
-Kamno Brdo 19
-Spodnji Boc 190
-Hrvaski Brod 67
-Strmo Rebro 10
-
-Morje 1032
-Gorenje Kamenje pri Dobrnicu 46
-Vrhovlje pri Kojskem 113
-Vrhe 327
-Obrh 79
-Suhi Vrh 113
-
-Srednja Vas v Bohinju 505
-Spodnje Mestinje 46
-Dolenje Brdo 79
-Sebenje 423
-Dolenje Radulje 79
-Prevole 79
-Perovo 10
-Rosnja 426
-Cerovo 28
-
-Veliko Mlacevo 538
-Bukovo 179
-Rove 187
-Sveto 204
-Tomiselj 299
-Zminec 464
-Pecke 287
-Konec 79
-
-Ratece 644
-Strazisce 19
+Rakek 2152
 
 Pivka 2088
 
-Kampel 699
-Bucka 113
+Mozirje 2085
+Cirje 76
+Irje 315
+
+Kromberk 2081
+Plemberk 67
+
+Limbus 2040
+Businja Vas 123
+Vinja Vas 126
+Sadinja Vas 459
+
+Sempeter v Savinj. Dolini 2021
+
+Slovenski Javornik 2002
+
+Semic 2000
+Vinji Vrh pri Semicu 48
+
+Straza 1996
+Straza pri Dolu 21
+Straza pri Raki 167
+Straza pri Moravcah 47
+Goricica pri Moravcah 86
+Zalog pri Moravcah 182
+
+Ivancna Gorica 1988
+
+Lovrenc na Pohorju 1977
+Smartno na Pohorju 173
+Podgrad na Pohorju 70
+
+Podgrad 614
+
+Mislinja 1945
+
+Mislinjska Dobrava 717
+
+Rence 1937
+
+Britof 1908
+Korita 79
+Korita na Krasu 44
+
+Verd 1891
+
+Kisovec 1838
+
+Smarje pri Jelsah 1779
+Jelsane 325
+
+Vipava 1771
+
+Zgornji Duplek 1752
+Zgornji Log 148
+Gornji Lakos 421
+
+Sv. Anton 1736
+Zirovski Vrh Sv. Antona 59
+Zirovski Vrh Sv. Urbana 137
+
+Hrusica 1722
+
+Naklo 1716
+Malo Naklo 19
+Malo Polje 71
+
+Prebold 1709
+
+Livold 483
+Volog 133
+Vologa 41
+Volovnik 33
+
+Radizel 1698
+
+Gradiska 929
+
+Odranci 1693
+Vicanci 248
+
+Gancani 1027
+Premancan 175
+
+Radomlje 1674
+Radomerje 187
+
+Preserje pri Radomljah 1531
+
+Kokrica 1646
+
+Notranje Gorice 1645
+
+Kamnica 1638
+Kamno 226
+Kamna Gora 122
+Jamna 130
+
+Log pri Brezovici 1634
+
+Bovec 1631
+
+Cerklje na Gorenjskem 1608
+Tinjska Gora 277
 
 Kranjska Gora 1439
-Rincetova Graba 105
-Radehova 201
-Trava 28
+
+Cerkno 1596
+
+Vodice 1589
+
+Godic 689
+Selo pri Vodicah 266
+Selo pri Moravcah 63
+Cesnjice pri Moravcah 228
+
+Dekani 1586
+
+Mekinje 1582
+Mekinje nad Sticno 186
+
+Vuzenica 1580
+
+Dob 1563
+
+Rakican 1560
+
+Kicar 819
+Mali Okic 102
+Mali Obrez 124
+
+Rogatec 1558
+Gornji Rogatec 41
+
+Pekre 1517
+Kred 124
+Kreplje 146
+Rep 41
+Repno 54
+Stopno 87
+Stopice 445
+Crmosnjice pri Stopicah 399
+Brezovica pri Crmosnjicah 8
+
+Turnisce 1509
+Turnse 267
+Podturn 72
+
+Spodnja Idrija 1501
+Spodnja Draga 113
+
+Volcja Draga 743
+
+Smarje-Sap 1492
+Smarje pri Sezani 288
+
+Bakovci 1491
+Rakovci 126
+
+Izakovci 827
+Drakovci 248
+
+Dol pri Hrastniku 1491
+
+Zgornje Bitnje 1480
+Spodnje Bitnje 280
+
+Miren 1460
+
+Dragomer 1446
+Dragovic 150
+
+Smarca 1441
+
+Smarje 784
+Smarjeta 326
+
+Spodnji Duplek 1429
+
+Sentjernej 1423
+Jerneja Vas 66
+
+Spodnje Skofije 1402
+
+Zgornje Skofije 917
+
+Mirna 1398
+Tirna 167
+Mirna Vas 58
+
+Mirna Pec 990
+
+Rogoza 1390
+
+Bresternica 1377
+Pernica 416
+Brnica 232
+
+Divaca 1357
+Gradisce pri Divaci 18
+
+Gradisce nad Prvacino 505
+Zagradisce 79
+Dolenje Gradisce 28
+
+Gradisce 752
+
+Razvanje 1357
+
+Oplotnica 1352
+Sopotnica 90
+Brezje pri Oplotnici 140
+Gorica pri Oplotnici 226
+
+Gorica pri Slivnici 557
+
+Hotinja Vas 1344
+Tinjan 178
+Montinjan 73
+Zemono 80
+Gornji Zemon 122
+
+Pamece 1333
+
+Horjul 1329
+Planina nad Horjulom 116
+
+Topolsica 1294
+
+Deskle 1279
+
+Cernelavci 1272
+Savci 233
+Mavcice 443
+
+Kanal 1269
+Kal nad Kanalom 327
+
+Prvacina 1268
+Pacinje 204
+Vinje 477
+Vino 154
+
+Dornava 1267
+Zgornja Dobrava 159
+Srednja Dobrava 134
+
+Zgornje Pirnice 1267
+
+Kidricevo 1253
+
+Moste 1234
+Mostje 351
+
+Trnovlje pri Celju 1234
+
+Hrvatini 1232
+Gatina 141
+
+Pobegi 1228
+Sober 239
+
+Gotovlje 1216
+
+Seca 1210
+
+Zgornja Polskava 1208
+Gornja Vas 157
+
+Gorenja Vas 1192
+
+Bilje 1191
+Skrilje 426
+
+Izlake 1181
+Zlakova 147
+
+Crensovci 1178
+
+Petisovci 812
+
+Petrovce 973
+
+Dobrovce 799
+
+Mojstrana 1175
+Strane 59
+
+Poljcane 1153
+Polje 170
+Gorenje Polje 85
+
+Pragersko 1150
+
+Krog 1132
+Okroglo 155
+
+Mokronog 637
+Martinja Vas pri Mokronogu 127
+Nova Vas pri Mokricah 223
+
+Prade 1129
+
+Sredisce ob Dravi 1124
+
+Kobarid 1121
+
+Rozna Dolina 1118
+
+Ljubno ob Savinji 1104
+
+Breg ob Savi 489
+
+Recica ob Savinji 489
+Recica ob Paki 466
+
+Lipovci 1097
+
+Ljubecna 1071
 
 Lokavec 1069
 
+Sv. Duh 1066
+
+Golnik 1063
+
+Zuzemberk 1053
+
+Hrastje 1051
+Hrastje-Mota 360
+
+Gornji Grad 1048
+
+Zasip 1032
+
+Morje 1032
+Dvorje 431
+
+Legen 1026
+
+Kotlje 1026
+
+Fram 1024
+Frankovci 181
+
+Leskovec pri Krskem 1021
+Drenovec pri Leskovcu 58
+Selce pri Leskovcu 48
+
+Zabukovica 1009
+
+Sentvid pri Sticni 1002
+Sentvid pri Zavodnju 40
+
+Visnja Gora 1000
+Polje pri Visnji Gori 20
+
+Spodnje Gorje 998
+
+Brestanica 993
+
+Podgorje 993
+Gorje 87
+
+Predoslje 989
+
+Begunje na Gorenjskem 988
+
+Parecag 986
+
+Bukovci 973
+Bukovca 30
+Bukovnica 39
+
+Dobrovnik 972
+
+Skoke 967
+
 Bertoki 966
-Macki 28
-Stomaz 285
-Tosko Celo 18
+Prtovc 23
+Mirtovici 9
+Vrtovce 114
 
-Zgornje Skofije 917
-Gornja Stara Vas 18
+Blejska Dobrava 962
+Dolenja Dobrava 198
 
-Gerecja Vas 566
-Krajna Vas 113
-Gricek pri Zeljnah 67
-Damelj 32
+Branik 960
 
-Kromberk 2081
-Krnci 59
+Benedikt 955
+
+Latkova Vas 952
+Orova Vas 109
+Rova 466
+
+Zadobrova 861
+Dobrovo 368
+
+Dobrova 943
+Obrov 198
+
+Krcevina pri Vurbergu 943
+Devina 198
+Slavina 221
+
+Spodnja Polskava 936
+
+Bevke 929
+Drnovk 138
+Kovk 134
+Gabrovka 250
+Gabrovo 26
+
+Velika Polana 929
+Polana 227
+Jablana 85
+Jablance 225
+Slance 97
+
+Kamnik pod Krimom 921
+Vodice nad Kamnikom 29
+Brezje nad Kamnikom 116
+
+Rovte 915
+
+Drenov Gric 914
+Drenovec 150
+
+Pesnica pri Mariboru 913
+Presnica 151
+
+Pobrezje 907
+Pobrez 148
+Breze 151
+
+Obrez 528
+
+Lokovica 906
+Lokvica 75
+Preloze pri Lokvi 76
+Dolnja Lokvica 83
+
+Spodnja Besnica 905
+Spodnja Breznica 238
+
+Moravce 903
+
+Verzej 903
+Zeje 214
+Zeje pri Komendi 150
+Gora pri Komendi 238
+Breg pri Komendi 163
+Podborst pri Komendi 210
+Podborst 116
+Podboc 20
+Brod v Podbocju 98
+
+Doklezovje 901
+Bezovje pri Sentjurju 103
+Jakob pri Sentjurju 138
+Zlatece pri Sentjurju 102
 
 Krize 898
 
-Limbus 2040
-Spitalic 185
-Lig 123
+Pongrac 895
+Pongrce 128
 
-Semic 2000
-Kalise 62
-Strzisce 61
-Krusce 6
-Pusti Hrib 11
-Pristavo 7
-Stare Zage 38
-Stajer 4
-Rajhenav 2
-Poden 7
-Decina 1
-Rakovec 61
-Vukovci 34
-Grivce 62
-Grusce 62
-Drumlazno 31
-Gumnisce 242
-Ogulin 48
-Dolgo Brdo pri Mlinsah 54
-Vecje Brdo 69
-Gorenje Medvedje Selo 54
-Goreljce 65
+Spuhlja 893
 
-Rence 1937
-Reva 16
-Ivanjse 14
-Mrse 29
-Vovse 14
-Hribarjevo 23
-Tibolci 205
+Zgornje Poljcane 885
+Poljce 217
+Brezje pri Poljcanah 124
 
-Store 1937
-Skorno pri Sostanju 383
-Gornji Vrh 16
-Zgornje Slemene 18
-Plemberk 67
-Dule 46
-Hlebce 277
-Rozice 59
+Spodnje Poljcane 614
 
-Kisovec 1838
-Crnivec 244
-Gornji Ivanjci 75
+Vogrsko 885
+Idrsko 325
+Idrsek 41
+Trsek 54
 
-Sv. Anton 1736
-Gorenji Mokronog 18
-Porezen 10
+Skale 883
 
-Prepolje 538
-Novo Celje 10
+Komenda 881
+Potok pri Komendi 44
+Crni Potok pri Kocevju 141
+Mlaka pri Kocevju 280
+Hocevje 147
 
-Vitovlje 526
-Polhovica 46
+Visoko 877
 
-Godovic 704
-Bukovica 475
-Gabrje pri Dobovi 239
-Dane pri Sezani 413
-Mala Sevnica 18
+Nazarje 872
 
-Salara 550
-Klance 18
-Labor 46
-Volarje 239
-Spodnje Brezovo 145
-Breg pri Golem Brdu 28
+Otiski Vrh 869
+Preski Vrh 184
+Preska 24
+Velika Preska 44
 
-Odranci 1693
-Zamenci 72
-Lemerje 273
-Verace 103
-Rafolce 289
-Grabe 136
-Zbelovo 273
-Reber 103
-Sveti Jernej 178
+Stojnci 869
+
+Dragomelj 866
+
+Vitanje 865
+Vitanjsko Skomarje 85
+
+Stari Trg pri Lozu 864
+Stari Kot 15
+Dolnji Kot 60
+
+Brezje pri Grosupljem 861
+
+Zgornja Hajdina 858
+
+Zgornja Volicina 614
+
+Rodica 857
+Bukovica pri Vodicah 398
+
+Podvinci 852
+Zerovinci 263
+
+Ozeljan 847
+Poljane 145
+Koske Poljane 12
+
+Kasaze 842
+
+Centiba 839
+
+Preddvor 837
+
+Zbilje 837
+Milje 394
+
+Florjan 836
+Strmec pri Sv. Florijanu 149
+
+Sodrazica 832
+Modraze 64
+
+Stara Loka 830
+
+Dolga Vas 829
+
+Dolenja Vas 731
+Dolenja Lepa Vas 15
+Gorenja Lepa Vas 42
+
+Zgornja Velka 821
+Spodnja Velka 453
+
+Budanje 817
+
+Cresnjevci 817
+
+Crna Vas 817
+
+Planina 815
+
+Melinci 808
+Novinci 206
+Norsinci 267
+Sencak pri Jursincih 104
+Osenca 82
+
+Kropa 807
+Ropoca 210
+
+Tropovci 521
+Popovo 24
+
+Podljubelj 807
+Ljubnica 300
+Ljubno 479
+Ljubicno 67
+Poljubinj 456
+
+Homec 806
+Ritomece 42
+
+Starse 803
+Zgornje Jarse 385
+Zgornje Jablane 185
+Jablan 148
+Jablanica 148
+
+Apace 802
+Mace 134
 
 Sticna 799
 Vir pri Sticni 454
 
-Gacnik 520
-Gabrijele 227
-Pijovci 134
-Sv. Jurij 131
-Ljubstava 74
-Stanovno 123
-Bojsno 211
-Boharina 227
-Parje 110
-
-Arclin 485
-Varos 100
-Rodez 45
-Debece 30
-
-Benedikt 955
-Budihni 45
-Polsnik 100
-Belski Vrh 103
-Meljski Hrib 289
-Hrast pri Jugorju 103
-Bezovje pri Sentjurju 103
-
-Bovec 1631
-Podsabotin 310
-Podulaka 28
-Vrhulje 28
-Plitvicki Vrh 179
-Veliki Rakitovec 28
-Murski Vrh 119
-Smuka 59
-Loka 354
-
-Dekani 1586
-Zenik 105
-Mikote 59
-Teharje 287
-Doblar 79
-Podnart 354
-Smihel pod Nanosom 190
-Smihel 277
-Milici 19
-
-Vuzenica 1580
-Mevkuz 83
-Kozjak pri Cersaku 158
-Kozmani 112
-Rozni Vrh 135
-
-Zirovnica 601
-Lesnica 196
-
-Bakovci 1491
-Ajba 74
-Frajhajm 162
-Mihalovec 278
-Hardek 273
-
-Sared 587
-Paradisce 72
-Zavodice 45
-Hudinja 212
-
-Strunjan 576
-Strelci 104
-Tratna pri Grobelnem 273
-Dolina pri Lendavi 342
-
-Lendavske Gorice 648
-
-Miren 1460
-Sirmanski Hrib 16
-Hrovaca 201
-Vaneca 429
-Prvine 12
-Jazne 117
-Pirmane 9
-Lupinica 114
-
-Smarca 1441
-
-Sentjernej 1423
-Vrbljene 241
-Vrbovce 54
-Skrbina 142
-Skovec 81
-Skofija 121
-Za Kalvarijo 157
-
-Divaca 1357
-Idrija pri Baci 290
-
-Kobarid 1121
-
-Grgar 772
-Baredi 145
-Bavdek 28
-
-Plavje 500
-Zerjavin 12
-Pozenik 230
-Primozi 12
-Mocile 14
-
-Razvanje 1357
-Dolenje Kamenje pri Dobrnicu 16
-
-Pamece 1333
-Trnovec 152
-Nova Gora nad Slov. Bistrico 152
-Rogatec nad Zelimljami 26
-Veliko Trebeljevo 95
-
-Kotlje 1026
-
-Otiski Vrh 869
-Cresnjice nad Pijavskim 26
-Spodnji Leskovec 112
-Steske 26
-Cmereska Gorca 95
-Merce 125
-Spodnji Kamenscak 408
-Lucarjev Kal 95
-Zarecica 125
-
-Topolsica 1294
-Zajelse 268
-Gajnice 42
-Krajna 293
-Krizmani 9
-
-Deskle 1279
-Kapele 239
-Praprose 28
-
-Prvacina 1268
-Raca 28
-Grivac 28
-
-Hrvatini 1232
-Mahneti 18
-Ledinek 220
-Kobdilj 189
-Crngrob 46
-Marno 201
-Nova Sela 28
-
-Pobegi 1228
-Robidnica 18
-Studenice 145
-Dednik 18
-Osredke 67
-
-Seca 1210
-Veckoti 10
-Razpotje 67
-Gotenc 10
-Trotkova 105
-Borovci 310
-Zabork 67
-
-Liboje 516
-
-Bilje 1191
-Abitanti 16
-Zabocevo 105
-Zalna 330
-Mali Log 239
-Poljane nad Skofjo Loko 429
-Sokolici 3
-Kojsko 276
-Kobile 28
-Lesje 204
-
-Crensovci 1178
-Cvetkovci 459
-Trdkova 178
-Prapetno Brdo 121
-Verdun 73
-Lastomerci 122
-
-Mojstrana 1175
-Loje 10
-
-Dovje 640
-Vezovje 46
-Marezige 480
-Krzisce pri Catezu 16
-Zalosce 428
-Braslovce 383
-Ceglo 105
-Kozlovici 46
-Zlatece 105
-
-Unec 524
-Podplece 18
-
-Senozece 610
-Gabrovcec 201
-Brdce 310
-Luce 413
-Vadice 18
-Kladje 59
-Zadlog 276
-Cadrg 46
-Radmirje 475
-Sekirisce 10
-Golek 105
-
-Gozd Martuljek 631
-Mulhe 18
-Ljubicno 67
-Apno 113
-
-Gradisce nad Prvacino 505
-Pugled pri Mokronogu 16
-Vrh pri Poljanah 3
-Janezovski Vrh 239
-
-Ozeljan 847
-Roznik 46
-Lozane 105
-
-Kolomban 524
-Loke 290
-Gorenji Log 46
-Veliki Lipoglav 46
-Podlipoglav 201
-Podkogelj 16
-Podmolnik 475
-Slamniki 16
-Hramse 189
-Kot pri Damlju 10
-Vrh nad Zelimljami 290
-Rim 28
-Trimlini 305
-Krplivnik 88
-
-Kriz 592
-Perisce 16
-Sober 239
-Liberga 67
-Zurge 10
-Zaplana-Del 67
-Sodevci 46
-Cezsoca 343
-Jezni Vrh 18
-Sveti Vid 46
-Pusti Javor 18
-
-Volcja Draga 743
-Zgornja Selnica 428
-Razgor 145
-Sveta Gora 18
-Korita 79
-
-Sempas 1146
-
-Parecag 986
-Markovo 189
-
 Dornberk 798
-Krkavce 290
-Divci 46
-Drskovce 105
-Salovci 426
-Sajevec 145
-Visejec 88
-Pisari 12
 
-Rozna Dolina 1118
+Dolenjske Toplice 797
 
-Lipovci 1097
-Motovilci 273
-Mihelca 30
-Jelarji 176
-Vinski Vrh pri Smarju 78
-Skomarje 185
-Zamarkova 78
-Vukovje 350
-Cekovnik 131
-Stolnik 123
-Dolnje Lozine 151
-Zgornji Log 148
-Florjan pri Gornjem Gradu 185
+Smarjeske Toplice 582
+Sela pri Dolenjskih Toplicah 251
+Sela pri Dobu 40
+Breg pri Dobu 15
+Brezovica pri Dobu 60
+Brezovica 216
+Dolenja Brezovica 156
 
-Ljubecna 1071
-Zablje 33
-
-Zuzemberk 1053
-
-Zasip 1032
-Kupsinci 362
-
-Fram 1024
-
-Bevke 929
-Nizevec 39
-Zetale 392
-Popetre 120
-Tepe 185
-
-Doklezovje 901
-Podova 307
-Nova Lipa 103
-Nova Susica 102
-Stanosina 178
-Mostecno 178
-Turno 121
-Tuji Grm 70
-
-Spuhlja 893
-Zilje 148
-
-Krmelj 708
-Hum pri Ormozu 338
-
-Loka pri Mengsu 844
-
-Petisovci 812
-Grusovlje 72
-Ceplje 126
-Prepuz 144
-Prezid 102
-Prerad 144
+Spodnje Pirnice 796
+Spodnje Pijavsko 20
 
 Sladki Vrh 794
-Vratji Vrh 78
-Vrsno 131
-Rozicno 134
-
-Zimica 604
+Veliki Vrh 270
+Veliki Dol 127
+Veliki Kal 97
+Veliki Korinj 33
 
 Hrpelje 792
-Petkovec 458
-Betonovo 4
-Potok 251
 
-Lokve 514
-Polzelo 2
-Snezece 53
-Kneske Ravne 13
-Bane 1
-Skrjance 53
-Kozjane 13
-Jazbine 49
-Vrbina 48
-Vanetina 54
-Krtince 101
+Zgornja Besnica 789
+Zgornja Senica 279
 
-Krska Vas 555
-Sentviska Gora 101
-Dolga Njiva pri Sentlovren. 65
+Gorisnica 788
+Gorica 295
+Goricak 192
 
-Sela pri Dobovi 575
-Globoko pri Smarju 81
-Vonarje 80
-Arto 363
-Butari 43
-Ardro pri Raki 87
-Plavski Rovt 87
-Sela pri Raki 101
+Kovor 788
+
+Podbrezje 788
+Podbreg 110
+Brege 252
+
+Letus 785
+Poletici 76
+Boletina 140
+Svetina 122
+
+Ihan 784
+Goricica pri Ihanu 256
+
+Vuhred 782
 
 Lokev 780
-Lokanja Vas 105
+Spodnje Loke 143
+Spodnje Laze 141
+
+Rimske Toplice 778
+Topla 33
+Plat 90
+
+Vransko 778
+Stranski Vrh 57
+Stojanski Vrh 58
+
+Otocec 776
 
 Hotiza 773
-Skofja Riza 126
+
+Secovlje 773
+
+Grgar 772
+
+Suhadole 770
+
+Zlatolicje 768
+
+Pijava Gorica 766
+
+Strahinj 765
+
+Dogose 763
+Osek 405
+Oselj 74
 
 Korte 762
+Ortnek 16
 
-Komen 650
-Lom nad Volco 46
-Adamovo 10
-Vodriz 105
-Plesivo 239
+Senozeti 759
+Vaseno 29
 
-Volce 588
-Paljevo 18
+Salka Vas 758
+
+Jezero 751
+Dolenje Jezero 230
+
+Kresnice 745
+Resnik 117
 
 Dobova 744
-Cepovan 348
+Dobovica 41
+Dobovec 170
+Dobovec pri Ponikvi 69
+
+Trcova 740
+Ostrc 173
+
+Videm 740
+Videm pri Lukovici 45
+
+Parizlje 739
+Paridol 129
+
+Krtina 739
+
+Vrhpolje pri Kamniku 737
+Crna pri Kamniku 193
+
+Moravske Toplice 735
+Moravska Gora 103
+
+Smrjene 732
+
+Stara Vrhnika 730
+
+Velike Lasce 729
+Velike Dole 50
+Velike Poljane 129
+Male Poljane 42
+
+Gornja Bistrica 725
+
+Dolnja Bistrica 612
+
+Prevoje pri Sentvidu 721
+Prevoje 20
+
+Polica 720
+Golica 51
+Police 395
+Kolicevo 347
+Bericevo 449
+
+Dutovlje 715
+
+Vitovlje 526
+
+Dvorjane 714
+Gorjansko 263
+
+Cersak 708
+
+Krmelj 708
+
+Prestranek 708
+Zastranje 26
+Zgornje Stranje 424
+Spodnje Stranice 174
+Stranje 164
+
+Godovic 704
+
+Zgornji Brnik 704
+Spodnji Brnik 430
+Spodnji Dolic 190
+Spodnji Boc 190
 
 Dobja Vas 700
-Dobje 89
 
-Breg ob Savi 489
-Misace 75
-Gojace 174
-Donacka Gora 181
+Arja Vas 517
+
+Kampel 699
+Kapele 239
+
+Bratonci 698
+Lahonci 355
+Konc 30
+
+Kostanjevica na Krki 695
+Kostanjevica 37
+Kostanjevica na Krasu 348
+
+Podbrdo 695
+Podbreze 35
 
 Bizeljsko 691
-Krizni Vrh 302
+Brezovica na Bizeljskem 99
+Oresje na Bizeljskem 223
+
+Moskanjci 688
 
 Grad 686
-Grusena 123
-Dolenje Susice 134
+
+Gaberke 684
+Veliki Gaber 314
+
+Gabernik 564
+Spodnji Gabernik 122
+Mali Gaber 81
+
+Loce 684
+
+Njiverce 682
+
+Mestni Vrh 679
+
+Spodnja Volicina 679
+
+Srednje Gameljne 676
+
+Zgornje Hoce 676
+
+Srednje Jarse 674
+
+Spodnje Jarse 621
 
 Gomilica 673
-Sremic 159
 
 Virmase 673
 
+Pivola 672
+
+Rakitna 672
+Rakitovec 127
+
+Breg 670
+
+Plintovec 669
+
+Kozje 669
+
+Voglje 668
+
+Dolenji Bostanj 667
+Laze pri Bostanju 33
+Vrh pri Bostanju 200
+Zavrh pri Borovnici 33
+Brezovica pri Borovnici 261
+
+Petanjci 667
+
+Selca 666
+
+Crnece 665
+Crnova 374
+Trnovo 359
+
+Pernovo 507
+
+Trboje 662
+
+Liboje 516
+
+Prelog 656
+
+Brdinje 654
+
 Grize 654
-Nizka 186
+Krizevec 314
+
+Migojnice 654
+Velika Ligojna 391
+Velika Loka 293
+Iska Loka 274
+
+Gaj 653
+
+Komen 650
+
+Lendavske Gorice 648
+Dolina pri Lendavi 342
+
+Dravski Dvor 648
+
+Crni Vrh 648
+
+Ratece 644
+
+Retece 630
+
+Loz 642
+Podloz 53
+
+Smartno ob Paki 642
+Smartno v Rozni Dolini 279
+
+Spodnji Slemen 641
+
+Dovje 640
+Vezovje 46
+
+Puconci 638
+Lucova 120
+Gocova 247
+Goce 185
+Koce 245
+
+Majsperk 637
+
+Spodnja Recica 635
+Spodnja Senica 378
+
+Nova Stifta 633
+
+Gozd Martuljek 631
+Gozd 137
+
+Slivnica pri Mariboru 631
+
+Pustal 630
+
+Lukavci 630
+Dravci 63
+
+Stari Trg 629
 
 Zrkovci 629
-Gavce 391
+
+Hajdose 628
+Spodnja Hajdina 257
+Spodnja Korena 414
+
+Gabrje 626
+Gabrje pri Jancah 94
+
+Ursna Sela 626
+
+Vrbje 626
+Vrbina 48
+Skrbina 142
+Zubina 96
+
+Galicija 625
+Zavrh pri Galiciji 135
+
+Renkovci 622
+
+Bocna 621
+Kocna 218
+Mocna 275
+Mocila 76
+
+Lopata 619
 
 Kobilje 618
-Babinci 278
 
-Gaberje 552
-Sentjurje 72
+Polhov Gradec 617
 
 Cven 614
 
+Godesic 614
+Desen 90
+Desenci 33
+
 Ribno 611
-Prapetno 113
-Laseno 18
-Sentjost 105
+Svibno 163
+
+Senozece 610
+
+Zimica 604
+Sremic 159
+
+Kozjak nad Pesnico 602
 
 Gortina 601
-Trska Gora 184
+
+Zirovnica 601
+
+Studence 600
+
+Hotedrsica 598
+Krsic 28
+
+Stara Fuzina 595
+
+Dolsko 595
+
+Kriz 592
+Krizevci 402
+
+Volce 588
+Marolce 32
 
 Zizki 587
-Zagajski Vrh 136
-Podgaj 102
+Krizisce 39
+
+Sared 587
+Kosarovci 72
+Pecarovci 420
+Pec 131
 
 Lese 586
-Pesje 89
-Preski Vrh 184
-Hlevni Vrh 95
-Celovnik 26
-Remsnik 226
 
 Kanizarica 583
-Zagric 17
-Zabava 55
-Ravna 6
-Navrski Vrh 62
-Crni Vrh v Tuhinju 31
-Perniki 17
-Jugorje pri Metliki 34
-Suhorje 61
-Korplje 49
-Utovlje 34
-Jesovec 17
-Lescevje 34
-Male Pece 13
-Mali Orehek 49
-Zala 13
-Zajcji Vrh 17
-Hinjce 31
-Lazina 17
-Naredi 11
-Kocarji 31
-Arcelca 11
-Vareje 34
-Zelebej 49
-Soze 31
-Zelezne Dveri 49
+Rizana 139
 
 Lipa 581
-Selisci 104
+Nova Lipa 103
+Spodnja Lipnica 175
+
+Spodnje Gameljne 581
+
+Srednje Bitnje 579
+
+Nedelica 576
+
+Mihovci pri Vel. Nedelji 563
+Mala Nedelja 100
+Mala Vas 267
+
+Strunjan 576
+Runtole 30
+Gunte 30
+Topol pri Begunjah 72
+
+Sela pri Dobovi 575
+
+Nozice 571
+
+Vanganel 571
 
 Ponova Vas 569
+Nova Vas 299
+
+Zgornje Partinje 569
+
+Zgornje Jezersko 568
 
 Gazon 566
-Obrh pri Dragatusu 88
-Zadraga 88
-Zafara 38
-Kladnart 4
-Vrt 1
-Bukov Vrh nad Visokim 53
-Sovra 13
+
+Gerecja Vas 566
+
+Trnje 564
+Trnice 437
+Strnisce 110
+Destrnik 172
+
+Kamna Gorica 563
+
+Leskovec 561
+Leskovca 85
+
+Kovaca Vas 557
+
+Krska Vas 555
+
+Lancova Vas 555
+
+Zeljne 555
+
+Malecnik 553
+
+Gacnik 520
+
+Gaberje 552
+
+Salara 550
+Volarje 239
+
+Slovenska Vas 549
+
+Vrhpolje 549
+
+Dobrna 548
+Dobrnez 112
+Obrne 76
+
+Skocjan 546
+
+Slovenja Vas 546
+
+Bosamarin 544
+Marincki 23
+
+Kozina 544
+
+Spodnja Slivnica 544
+
+Pusca 541
+Pusenci 248
+Senuse 144
+
+Valburga 540
+
+Visole 539
+
+Leskova Dolina 539
+Dolina 195
+Jarcja Dolina 76
+Velika Dolina 149
+
+Martjanci 539
+Turjanci 99
+Turjanski Vrh 81
+
+Cesta 538
+Ceste 119
+Vester 204
+
+Prepolje 538
+
+Veliko Mlacevo 538
+
+Bogojina 537
+
+Zlebe 536
+
+Bezina 536
+
+Vase 535
+Prase 214
+
+Zgornja Kungota 535
+Kungota pri Ptuju 394
+
+Zgornja Scavnica 533
+Spodnja Scavnica 405
+
+Serdica 532
+
+Podgorci 530
+Podgorica 110
+
+Rocevnica 529
+Kostrevnica 71
+Zgornja Kostrivnica 147
+Kostrivnica 191
+
+Drazenci 529
+
+Kalce 529
+
+Podpec 529
+
+Cezarji 528
+Jelarji 176
+
+Podcetrtek 528
+
+Smokuc 527
+
+Kolomban 524
+
+Unec 524
+Vaneca 429
+
+Zamusani 523
+Dobrusa 123
+Dobruska Vas 338
+
+Tepanje 521
+Zupanje njive 312
+Zupancici 42
+Pavicici 20
+
+Draza Vas 518
+
+Verje 517
+Preserje 466
+Preserje pri Zlatem Polju 33
+
+Zgornje Duplje 517
+Duplje 215
+
+Goricane 516
+Gorica Vas 398
+
+Bonini 516
+Otonica 20
+
+Bezena 515
+Podbeze 85
+
+Lokve 514
+
+Brezje 513
+
+Hotemaze 512
+
+Spodnje Duplje 512
+
+Cresnjevec 510
+Cresnjevec ob Dravi 250
+
+Dolnji Zemon 508
+
+Depala Vas 507
+Orla Vas 195
 
 Voklo 507
-Silova 191
-Grabsinci 75
-Krasinec 196
-Krajna Brda 83
+
+Zabreznica 507
+Dreznica 229
+
+Grajenscak 506
+
+Srednja Vas v Bohinju 505
+Srednja Vas 67
+Srednja Vas pri Dragi 44
+Dednja Vas 179
+
+Vrzdenec 503
+
+Gornji Dolic 502
+Srednji Dolic 253
+
+Velike Brusnice 502
+Velike Pece 89
+
+Golo 500
+Golo Brdo 418
+Ravno Brdo 51
+
+Plavje 500
+
+Smlednik 500
+
+Col 496
+Colnica 16
+Colnarji 14
+Colnisce 256
+
+Prebacevo 495
+
+Vanca Vas 495
 
 Kompolje 494
+Kumpolje 14
+Male Kompolje 23
+Male Dole 168
+Dolenje Dole 91
+Dole 165
 
-Ponikva 492
+Kompole 492
+
+Vrtovin 492
+
+Strocja Vas 492
+Vucja Vas 252
+
+Krizevci pri Ljutomeru 490
+
+Ponikve 490
+Ponikve pri Studencu 71
+
+Kavce 489
+Avce 240
+Gavce 391
+
+Muretinci 487
+Zupetinci 172
+
+Smolenja Vas 487
+
+Jesenca 486
+Jesenje 110
+
+Knezak 486
+Knezdol 245
+
+Ljubija 486
+Ljubinj 132
+
+Loka pri Zidanem Mostu 486
+
+Mezgovci ob Pesnici 485
+Mezgovci 45
+
+Arclin 485
+
+Skofja Vas 485
+Skofja Riza 126
+
+Sveti Jurij 484
+Sv. Jurij 131
+Sv. Trije Kralji 227
+
+Prozinska Vas 483
+Malenska Vas 69
+
+Malija 483
+Mali Kal 69
+
+Grahovo 482
+Grahovo Brdo 40
+
+Podkraj 482
+
+Sv. Danijel 482
+Zgornje Danje 4
+
+Zgornje Gameljne 482
+Ziganja Vas 481
+Orehovlje 480
+Marezige 480
+Mali Rigelj 10
+Mali Vrh 372
+Filovci 478
+Podlipovica 476
+Bukovica 475
+Bukovo 179
 Manzan 475
-Podstran 46
+Lozane 105
+Podmolnik 475
+Radmirje 475
+Utik 473
+Prosenisko 473
+Sebeborci 473
+Sebenje 423
+Selovec 471
+Koroski Selovec 95
+Videm pri Ptuju 471
+Srednja Bistrica 471
+Breznica 470
+Hocko Pohorje 469
+Slivnisko Pohorje 173
+Spodnje Secovo 467
+Zgornje Secovo 99
+Podlipa 467
+Dobrisa Vas 466
+Brezno 466
+Markovci 462
+Cvetkovci 459
 Pertoca 459
-Blato 100
-Neblo 213
-Knej 45
-Lesane 192
-Klenik 178
-Jelsevnik 121
-Bac 458
-Bate 154
-Stepani 14
-Kapca 441
-Zikarce 342
-Lutverci 342
-Sujica 434
-Suha 144
-Runarsko 70
-Idrsko 325
-Zibrse 166
-Brege 252
-Sv. Vid 408
-Zvirce 389
-Visoce 89
-Imovica 125
-Gabrovica pri Crnem Kalu 95
-Nemci 26
-Trpcane 140
-Lipje 403
-Lipsenj 135
-Malo Lipje 26
-Mali Ban 26
-Drama 95
-Somat 196
-Brje 384
-Brglez 16
-St. Jurij 381
-Turje 281
-Speharji 14
-Hajndl 116
-Andrejci 205
-Drage 29
-Brankovo 23
-Ucakovci 116
-Dankovci 143
-Kuzma 375
-Ravne na Blokah 72
-Vojna Vas 123
-Trebca Vas 78
-Bitnja Vas 39
-Crnova 374
-Bukovzlak 354
-Topolc 339
-Poce 88
-Centa 12
-Cemsenik 230
-Mahovnik 336
-Brstnik 84
-Morsko 207
-Smohor 22
-Dolga Brda 335
-Gabrovo 26
-Sanabor 89
-Zdusa 95
-Tomaj 335
-Malkovec 152
-Mala Ligojna 152
-Zagolic 125
-Povir 330
-Vintarji 16
-Turjak 189
-Tlake 311
-Sv. Primoz nad Muto 308
-Hudeje 307
-Sedem 136
-Bukosek 306
-Radoslavci 297
-Hlavce Njive 69
-Hum 296
-Male Lasce 281
-St. Janz pri Radljah 274
-Strmec pri Sv. Florijanu 149
-Turnse 267
-Colnisce 256
-Scit 20
-Zorenci 36
-Jirsovci 254
-Jakovce 23
-Cezlak 38
-Trebce 251
-Cebine 22
-Malna 241
-Mali Gaber 81
-Vic 241
-Trbonje 235
-Kocna 218
-Mackovci 213
-Mihalovci 136
-Svecane 211
-Buncani 185
-Dunaj 39
-Iljasevci 211
-Cvislerji 207
-Slavsina 169
-Medvedje Brdo 205
-Brdarci 38
-Orehek 199
-Flekusek 92
-Dragovsek 73
-Ribjek 33
-Ribce 194
-Repce 96
-Podpeca 195
-Grobelce 194
-Bratislavci 190
+Petkovec 458
+Lokovec 281
+Gmajna 457
+Nova Cerkev 457
+Janzeva Gora 454
+Zgornji Janzevski Vrh 26
+Lepa Njiva 454
+Vurberk 452
+Kremberk 257
+Kremen 223
+Hrusevo 452
+Hrusevje 248
+Lancovo 452
+Velika Piresica 452
+Gorenja Pirosica 134
+Gornji Slaveci 451
+Jereslavec 155
+Oceslavci 159
+Loznica pri Zalcu 450
+Loznica 196
+Vrbno 446
+Vrbica 164
+Vrbicje 70
+Bic 90
+Robic 33
+Drobinsko 41
+Glinsko 41
+Cankova 446
+Sora 446
+Morava 132
+Dobrava 237
+Psata 445
+Sutna 444
 Slatna 79
-Kazlje 185
-Mala Racna 184
-Gomila pri Kogu 152
-Slomi 95
-Obloke 26
-Lobcek 140
-Pomjan 178
-Lucine 177
-Petrina 7
-Jeperjek 34
-Cepno 49
-Merece 62
-Jersice 17
-Rifengozd 161
-Pangrc Grm 66
-Hajnsko 156
-Hudajuzna 101
-Kajzar 156
-Rozanec 65
-Luza 65
-Skorisnjak 65
-Zgornja Lusa 101
-Pondor 155
-Centur 148
-Gozd-Reka 144
-Forme 144
-Tuncovec 142
-Gostinca 81
-Fost 81
-Rodmosci 54
-Sv. Barbara 139
-Krivi Vrh 136
-Modric 136
+Precna 444
+Hrastovec 443
+Hrastovec pod Bocem 103
+Lahovce 443
+Mahovci 110
+Orehovci 70
+Orehovski Vrh 132
+Orehovec 226
+Orehova Vas 427
+Orehovica 226
+Ribnica na Pohorju 443
+Kot na Pohorju 159
+Kapca 441
+Selo 441
+Sele 257
+Zalog pri Cerkljah 440
+Zalog pri Skocjanu 51
+Stranje pri Skocjanu 50
+Prigorica 438
+Levec 437
+Retje 436
+Bostetje 7
+Vescica 436
+Dobravlje 435
+Dobravica 143
+Podsmreka 435
+Smrecje 258
+Spodnje Dobrenje 435
+Spodnje Dule 67
+Dule 46
+Podulaka 28
+Cirkulane 434
+Dolane 159
+Most na Soci 434
+Trnovo ob Soci 138
+Trnovlje pri Socki 151
+Kozjak 433
+Kozjak pri Cersaku 158
+Sakusak 209
+Polensak 171
+Gradensak 33
+Krnica 433
+Stranska Vas 432
+Bodonci 431
+Hlaponci 272
+Laporje 398
+Hrasce 429
+Poljane nad Skofjo Loko 429
+Zalosce 428
+Zalog 137
+Zaloke 59
+Loke 290
+Drnovo 428
+Zgornja Selnica 428
+Crnice 426
+Pernice 137
+Rosnja 426
+Salovci 426
+Dolnji Slaveci 425
+Dolnji Lakos 273
+Plesivec 424
+Plesivica 186
+Zavrse 422
+Zavrse pri Grobelnem 140
+Grobelce 194
+Belca 170
+Baselj 422
+Hrase 422
+Vukovski Dol 421
+Jurovski Dol 385
+Trnovski Vrh 155
+Vukovski Vrh 185
+Sesce pri Preboldu 421
+Turski Vrh 419
+Jurski Vrh 151
+Zgornja Korena 419
+Zgornja Recica 419
+Gornji Petrovci 419
+Petrova Vas 102
+Lukovica pri Domzalah 419
+Slap 419
+Slape 155
+Knape 78
+Knej 45
+Kneza 206
+Boraceva 418
+Brunsvik 418
+Cirkovce 418
+Zelimlje 416
+Dramlje 405
+Cadram 265
+Skalce 414
+Kal 340
+Vas 414
+Vasca 78
+Murski Crnci 414
+Dane pri Sezani 413
+Ruperce 411
+Rakovnik pri Sentrupertu 120
+Vavta Vas 410
+Laze 410
+Gradac 410
+Nova Vas pri Markovcih 410
+Trzec 410
+Sv. Vid 408
+Sv. Ema 195
+Bukovec 408
+Lukovec 186
+Spodnji Kamenscak 408
+Tupalice 408
+Gmajnica 407
+Gajnice 42
+Velika Hubajnica 25
+Velika Vas 60
+Velika Sela 21
+Loka pri Zusmu 407
+Medno 406
+Gradno 51
+Radna Vas 36
+Rudna Vas 21
+Podkoren 405
+Strmca 404
+Strmec 128
+Podstrmec 22
+Strmec pri Ormozu 60
+Tisina 404
+Lipje 403
+Malo Lipje 26
+Zapuze 403
+Iska Vas 402
+Goriska Vas 52
+Zaloze 401
+Loze 218
+Klanc 401
+Blanca 246
+Obrezje 401
+Spodnje Pobrezje 75
+Brezje pri Dobrovi 399
+Gladomes 397
+Presladol 166
+Nadole 140
+Dol 85
+Tenetise 397
+Hotavlje 396
+Hotovlja 254
+Vatovlje 20
+Moravci v Slov. Goricah 396
+Zepovci 396
+Podnanos 395
+Velesovo 395
+Gresovscak 117
+Mali Moravscak 12
+Sentjanz 394
+Dolic 392
+Opatje Selo 392
+Zetale 392
+Kale 120
+Ratez 391
+Zavratec 129
+Jareninski Dol 391
+Slatinski Dol 196
+Slatina 218
+Mosnje 391
+Mose 235
+Kristan Vrh 390
+Krizan Vrh 77
+Zerjav 389
+Zvirce 389
+Grce 89
+Jevnica 389
+Podlehnik 388
+Podvrh 388
+Socka 388
+Vranji Vrh 387
+Vratji Vrh 78
+Posavec 387
+Savina 206
+Zavrh 387
+Podvin 386
+Podvinje 109
+Rosalnice 386
+Brje 384
+Gabrje pri Sticni 179
+Dobrava pri Sticni 59
+Poljane pri Sticni 32
+Dragonja 383
+Dragovanja Vas 113
+Dragonja Vas 187
+Braslovce 383
+Govce 14
+Gobovce 52
+Dobovo 21
+Skorno pri Sostanju 383
+St. Jurij 381
+Sentjurij na Dolenjskem 98
+Kozana 381
+Rozance 9
+Ptujska Gora 381
+Loska Gora 9
+Volcji Potok 381
+Gorenje 379
+Sv. Peter 379
+Bircna Vas 379
+Predmeja 379
+Podmelec 86
+Planina pri Sevnici 378
+Zaplanina 90
+Kapla 270
+Sentjost nad Horjulom 378
+Sentrupert 377
+Sentlambert 90
+Tlake 311
+Novake 203
+Gorenji Novaki 226
+Ustje 377
+Ratje 33
+Vratja Vas 90
+Matjasevci 166
+Sevce 77
+Kuzma 375
+Kuzeljevec 39
+Trstenik 375
+Slatenik 45
+Rakovlje 374
+Vesenik 373
+Mosenik 77
+Senik 90
+Prekorje 373
+Hrib-Loski Potok 373
+Zgosa 372
+Drazgose 332
+Strazgonjca 193
+Strazica 187
+Strazisce 19
+Rzisce 59
+Zgornji Tuhinj 372
+Dobrovlje 371
+Sv. Florijan 371
+Bukovska Vas 371
+Bukovski Vrh 23
+Zirovski Vrh 238
+Negovski Vrh 24
+Negova 347
+Tesanovci 371
+Predanovci 183
+Panovci 40
+Zenkovci 371
+Rankovci 251
+Jankova 106
+Log 370
+Vinska Gora 368
+Graska Gora 112
+Trska Gora 184
+Gabrska Gora 76
+Gabrsko 359
+Gabrnik 274
+Trnovska Vas 367
+Brezje pri Trzicu 366
+Zgornja Loznica 366
+Spodnja Kapla 365
+Kaplanovo 26
+Spodnji Jakobski Dol 365
+Skorba 364
+Vrba 203
+Zavrstnik 364
+Arto 363
+Vrtoce 57
+Meniska Vas 363
+Dobriska Vas 69
+Kupsinci 362
+Vintarovci 362
+Vace 361
+Cegelnica 360
+Veceslavci 360
+Selce 359
+Pocehova 358
+Dolnja Pocehova 338
+Dolnja Paka 39
+Kumen 357
+Potoce 357
+Zapotok 295
+Grajena 357
+Jelovec 357
+Matke 356
+Udmat 42
+Matenja Vas 353
+Griblje 356
+Mala Polana 356
+Zgornji Porcic 356
+Zgornji Boc 261
+Zgornji Razbor 129
+Razborca 111
+Razbor pri Cemseniku 58
+Bukovzlak 354
+Krasnja 354
+Kraska Vas 32
+Biska Vas 119
+Kriska Vas 266
+Podnart 354
+Sodna Vas 67
+Grajska Vas 353
+Loska Vas 76
+Zaga 353
+Gorenja Zaga 9
+Gorenja Zetina 60
+Dolenja Zetina 35
+Sv. Lovrenc 352
+Slovrenc 109
+Mali Vrh pri Smarju 351
+Mota 351
+Zagorje 351
+Vukovje 350
+Gric 349
+Podgric 53
+Podgora 336
+Podgora pri Lozu 114
+Gorenja Podgora 21
+Stanjel 349
+Kostanjek 116
+Kostanjevec 326
+Druzinska Vas 348
+Cepovan 348
+Ceplez 65
+Plese 48
+Male Lese 43
+Zales 5
+Gomilsko 348
+Gomilci 65
+Stara Nova Vas 348
+Bohinjska Cesnjica 347
+Spodnji Zerjavci 347
+Zerjavka 63
+Cerovec pod Bocem 346
+Vrbnje 346
+Lom pod Storzicem 346
+Storje 325
+Pisece 345
+Zatolmin 344
+Repnje 344
+Dolga Poljana 343
+Vrh pri Poljanah 3
+Visoko pri Poljanah 28
+Mestinje 343
+Spodnje Mestinje 46
+Cezsoca 343
+Olsevek 343
+Sv. Primoz na Pohorju 343
+Lutverci 342
+Ziberci 176
+Zikarce 342
+Gorce 138
+Zacret 341
+Formin 341
+Lormanje 170
+Canje 108
+Topolc 339
+Topol 59
+Hum pri Ormozu 338
+Kresniske Poljane 338
+Kresniski Vrh 206
+Rodine 338
+Babno Polje 337
+Mahovnik 336
+Lahovo 7
+Sahovec 61
+Dolga Brda 335
+Brda 304
+Krajna Brda 83
+Dolnja Kosana 335
+Tomaj 335
+Tomaska Vas 135
+Jagnjenica 334
+Sajenice 35
+Letenice 115
+Krstenica 43
+Gerlinci 334
+Smolnik 334
+Smoleva 56
+Vikrce 332
+Brce 28
+Gabrc 19
+Gabrce 51
+Soteska 332
+Soteska pri Moravcah 98
+Ciglence 332
+Dolenci 204
+Polenci 210
+Dovze 332
+Muljava 332
+Vrhulje 28
+Zabnica 332
+Zgornji Jakobski Dol 332
+Dolz 331
+Povir 330
+Virstanj 204
+Bostanj 312
+Stan 98
+Velike Zablje 330
+Zalna 330
+Creta 329
+Bis 329
+Podhom 329
+Vitomarci 329
+Krapje 328
+Veliko Lipje 45
+Veliko Tinje 148
+Tribuce 328
+Bucecovci 265
+Vrhe 327
+Crni Potok 326
+Breg pri Borovnici 326
+Luze 326
+Rakovnik 326
+Rakovica 91
+Zbelovska Gora 325
+Gradisca 325
+Podturn pri Dol. Toplicah 325
+Gorenje Vrhpolje 324
+Dolenje Vrhpolje 139
+Rocinj 324
+Ocinje 57
+Veliki Vrh pri Smarju 324
+Globoko 323
+Globoce 77
+Globoka 194
+Globoko pri Smarju 81
+Bobovo pri Smarju 108
+Dol pri Smarju 77
+Sikole 323
+Kolenca Vas 48
+Bevce 322
+Zagorci 322
+Catez ob Savi 319
+Sestrze 319
+Erzelj 70
+Mozelj 197
+Spodnja Vizinga 319
+Spodnja Nova Vas 215
+Vosek 317
+Vosce 56
+Otosce 21
+Vidonci 317
+Zgornja Bela 317
+Martinjak 316
+Martinje 119
+Artice 312
+Zgornje Vrtice 71
+Varpolje 315
+Laznica 315
+Jursinci 314
+Podbocje 314
+Brest 311
+Josipdol 311
+Podlog v Savinjski Dolini 311
+Raka 311
+Paka 259
+Rodik 311
+Sebrelje 311
+Troblje 311
+Podsabotin 310
+Podstran 46
+Brdce 310
+Medvedce 119
+Selo pri Zagorju 309
+Podkraj pri Zagorju 47
+Male Zablje 309
+Lokrovec 309
+Podraga 309
+Stara Cerkev 309
+Stara Cesta 293
+Sv. Primoz nad Muto 308
+Sv. Jernej nad Muto 125
+Dolgovaske Gorice 307
+Podova 307
+Bodovlje 192
+Frankolovo 307
+Hudeje 307
+Hudinja 212
+Budinci 110
+Budihni 45
+Salamenci 307
+Zamenci 72
+Kameno 136
+Bukosek 306
+Otlica 306
+Skarucna 306
+Hruskarje 43
+Spodnje Preloge 306
+Loke pri Mozirju 305
+Metava 305
+Segovci 305
+Srednja Bela 305
+Trimlini 305
+Rim 28
+Primozi 12
+Velika Nedelja 305
+Decno Selo 304
+Janskovo Selo 160
+Ribnisko Selo 292
+Lutrsko Selo 181
+Lutrje 203
+Arnovo Selo 302
+Staro Selo 142
+Krizni Vrh 302
+Krizna Gora 101
+Davca 301
+Spodnji Gasteraj 301
+Klanec 300
+Celestrina 300
+Crnci 299
+Krnci 59
+Satahovci 299
+Sovjak 299
+Jakovce 23
+Tomiselj 299
+Zavodnje 299
+Safarsko 298
+Gornje Cerovo 298
+Studeno 298
+Studenec 172
+Zabice 298
+Bicje 82
+Paricjak 232
+Imeno 297
+Cimerno 33
+Imenje 122
+Dolenje Kamenje 81
+Gorenje Kamenje 92
+Radoslavci 297
+Doslovce 124
+Selo pri Zirovnici 296
+Ravne pri Zireh 28
+Ravne pri Zdolah 198
+Zdole 287
+Retnje 296
+Hum 296
+Gajevci 295
+Mala Vas pri Grosupljem 295
+Vrbovo 295
+Vrbovec 102
+Kaplja Vas 294
+Travnik 294
+Ravni Dol 25
+Dedni Dol 128
+Rozni Dol 57
+Rozno 224
+Ostrozno Brdo 94
+Ostroznik 35
+Jesenovo 293
+Modrej 293
+Krajna 293
+Sentilj pod Turjakom 293
+Stara Gora pri Sentilju 98
+Malahorna 292
+Selo pri Ihanu 292
+Ihova 292
+Koblarji 292
+Petelinje 292
+Petelinjek 217
+Vrh nad Zelimljami 290
+Krkavce 290
+Boreci 289
+Boreca 82
+Meljski Hrib 289
+Planina pod Golico 289
+Rafolce 289
+Vucja Gomila 289
+Dolenji Lazi 288
+Dolenji Potok 1
+Potok 251
+Senicno 287
+Breg pri Ribnici na Dol. 287
+Zapuze pri Ribnici 19
+Pecke 287
+Teharje 287
+Trate 287
+Arnace 286
+Dolenja Trebusa 286
+Logarovci 286
+Radegunda 286
+Sodinci 286
+Stomaz 285
+Sveti Tomaz 284
+Veliki Obrez 284
+Zidani Most 284
+Obrezje pri Zidanem Mostu 128
+Dolga Gora 283
+Velike Malence 283
+Velike Lese 122
+Cepinci 283
+Dobovec pri Rogatcu 283
+Mlaka 282
+Hotunje 282
+Podloze 282
+Podlom 42
+Dolenji Leskovec 282
+Male Lasce 281
+Turje 281
+Medlog 281
+Nuskova 279
+Babinci 278
+Bele Vode 278
+Domanjsevci 278
+Ajsevica 267
+Laze v Tuhinju 278
+Mihalovec 278
+Mihalovci 136
+Ilovci 102
+Hlebce 277
+Trebez 277
+Smihel 277
+Mihele 28
+Smihel pri Zuzemberku 116
+Log pri Zuzemberku 20
+Zimarice 277
+Marincev Gric 28
+Zadlog 276
+Kojsko 276
+Vrhovlje pri Kojskem 113
+Vrhovlje pri Kozbani 18
+Lokovina 275
+Cagona 275
+Harije 275
+Ojstriska Vas 274
+Placar 274
+Placerovci 168
+Smartno ob Dreti 274
+Smartno v Tuhinju 218
+Gradisce v Tuhinju 60
+Cesnjice v Tuhinju 107
+Dolenja Nemska Vas 273
+Tratna pri Grobelnem 273
+Spodnje Negonje 273
+Spodnje Konjisce 39
+Hardek 273
+Zitence 273
+Janzevski Vrh 273
+Janzev Vrh 262
+Lemerje 273
+Moscanci 273
+Motovilci 273
+Zbelovo 273
+Podplesivica 272
+Bistrica ob Sotli 272
+Nova Vas ob Sotli 59
+Kocevska Reka 272
+Pecovnik 272
+Lusecka Vas 271
+Veliko Sirje 271
+Stari Log 270
+Zvodno 270
+Vodole 203
+Dolena 180
+Dolenje 103
+Ambrus 270
+Bohova 270
+Radohova Vas 180
+Brengova 270
+Cogetinci 270
+Prsetinci 181
+Zahenberc 269
+Zajelse 268
+Zbigovci 268
+Vinski Vrh 267
+Podgradje 267
+Podgraceno 30
+Laze pri Borovnici 267
+Rasica 267
+Dravinjski Vrh 266
+Majski Vrh 116
+Pirsenbreg 266
+Velika Vas pri Krskem 266
+Dolenja Vas pri Krskem 230
+Dolenja Vas pri Temenici 15
+Zapoge 266
+Zapodje 19
+Zapudje 71
+Pudob 228
+Studor 29
+Studor v Bohinju 117
+Krasci 265
+Lomanose 265
+Komanija 82
+Skomarje 185
+Parje 110
+Vinarje 245
+Spodnje Stranje 265
+Predstruge 264
+Kokra 264
+Novokracine 222
+Ozbalt 264
+Kocice 263
+Babici 263
+Lozice 262
+Rozicno 134
+Jasen 262
+Iljasevci 211
+Kozarisce 262
+Veliki Podlog 262
+Veliko Mrasevo 262
+Olesce 261
+Zgornji Zerjavci 261
+Mlinse 260
+Log pri Mlinsah 42
+Prelska 260
+Mali Kamen 260
+Sava 260
+Savica 68
+Zupecja Vas 259
+Pecje 108
+Vecje Brdo 69
+Marija Reka 259
+Spodnja Kanomlja 258
+Gorenja Kanomlja 137
+Rakitnica 258
+Marija Gradec 256
+Gradec 50
+Gradenje 42
+Banjsice 256
+Gibina 256
+Jazbina 51
+Miklavz pri Ormozu 256
+Smiklavz 143
+Slatina v Rozni Dolini 255
+Brezovci 255
+Brezovo 69
+Gornje Brezovo 57
+Vrhloga 255
+Cikava 254
+Jirsovci 254
+Rogasovci 254
+Podgraje 254
+Zavrh nad Dobrno 254
+Kozji Vrh nad Dravogradom 98
+Spodnji Hotic 253
+Spodnji Log 235
+Zali Log 253
+Mlace 252
+Malo Mlacevo 199
+Podgora pri Dolskem 252
+Razkrizje 252
+Rumanja Vas 252
+Zgornji Hotic 252
+Bresnica 251
+Dragatus 251
+Cresnjevec pri Dragatusu 5
+Spodnja Gorica 251
+Hudi Kot 251
+Hudi Vrh 62
+Hudi Graben 49
+Ivanjkovci 251
+Nevlje 251
+Trebce 251
+Makole 250
+Stranske Makole 127
+Jelovec pri Makolah 203
+Venise 250
+Vrhovo 250
+Sv. Anton na Pohorju 249
+Planina na Pohorju 195
+Javorniski Rovt 249
+Javor 174
+Matena 249
+Plave 249
+Place 234
+Plac 135
+Puce 249
+Voduce 166
+Buce 157
+Zgornja Vizinga 249
+Zgornja Draga 132
+Draga 174
+Poljsica pri Gorjah 248
+Stari Grad 248
+Spodnji Stari Grad 248
+Borejci 248
+Brezula 248
+Breza 102
+Dobrina 248
+Domajinci 248
+Laze pri Dolskem 247
+Sentjanz nad Dravcami 247
+Ravenska Vas 246
+Skrjancevo 246
+Skrjance pri Novem Mestu 47
+Dolenja Vas pri Polhovem Gradcu 246
+Zece 246
+Nemska Vas 246
+Gorenja Nemska Vas 114
+Okoslavci 246
+Branoslavci 168
+Bodislavci 147
+Prekopa 246
+Brekovice 60
+Olimje 245
+Nemcavci 245
+Rocica 245
+Zagorica 245
+Trnava 244
+Rozicki Vrh 244
+Noricki Vrh 160
+Crnivec 244
+Zavrh pri Crnivcu 25
+Radmozanci 244
+Orehovo 243
+Kapelski Vrh 243
+Kanalski Vrh 57
+Ivanci 243
+Ledina 243
+Grdina 128
+Raduha 243
+Mali Slatnik 242
+Sentvid pri Lukovici 242
+Sedlasek 242
+Pecovje 242
+Ranca 242
+Tanca Gora 207
+Stara Gora 165
+Stara Sela 52
+Trnjava 242
+Coljava 56
+Dovsko 242
+Lovsko Brdo 27
+Brezovo Brdo 31
+Krivo Brdo 7
+Spodnje Jablane 242
+Krka 242
+Jurka Vas 169
+Gumnisce 242
+Mala Kostrevnica 242
+Spodnja Kostrivnica 111
+Velika Kostrevnica 202
+Ravnica 242
+Restanj 242
+Slap ob Idrijci 242
+Velika Racna 242
+Bracna Vas 48
+Cresnjice pri Cerkljah 241
+Malna 241
+Malni 5
+Dolnja Prekopa 241
+Dolnja Bitnja 81
+Dol pri Ljubljani 241
+Dol pri Pristavi 56
+Velika Pristava 57
+Klinja Vas 241
+Vic 241
+Vinica 241
+Vinica pri Smarjeti 94
+Vrbljene 241
+Dresinja Vas 240
+Vodruz 240
+Senesci 240
+Lipce 240
+Stopce 231
+Klopce 168
+Lopar 111
+Lopatnik 35
+Slatnik 118
+Cigonca 240
+Lahomno 240
+Hom 83
+Lahomsek 109
+Martinj Vrh 240
+Rudno 240
+Plesivo 239
+Gabrje pri Dobovi 239
+Jama 239
+Janezovski Vrh 239
+Janezovci 105
+Mali Log 239
+Svetelka 238
+Dragucova 238
+Drage 29
+Dragosi 15
+Pleterje 238
+Topole 237
+Srednja Vas pri Kamniku 237
+Suha pri Predosljah 237
+Stogovci 236
+Cezanjevci 236
+Kraljevci 157
+Goriski Vrh 236
+Spodnji Porcic 236
+Strihovec 236
+Male Braslovce 235
+Male Loce 36
+Gornji Lenart 235
+Sveti Lenart 36
+Sveti Duh 20
+Adergas 235
+Strehovci 235
+Paski Kozjak 234
+Koritno 234
+Medana 234
+Dane 112
+Stara Oselica 234
+Zdenska Vas 234
+Ratanska Vas 83
+Prvenci 233
+Senicica 233
+Stolovnik 233
+Jedlovnik 100
+Drstelja 233
+Kastelec 70
+Drbetinci 233
+Visnja Vas 233
+Visnje 178
+Vrh pri Visnji Gori 126
+Pristava pri Visnji Gori 30
+Ter 232
+Cerklje ob Krki 232
+Hrastje pri Cerkljah 134
+Kog 232
+Stajngrova 232
+Staje 126
+Potoska Vas 231
+Kopivnik 231
+Lanisce 231
+Polje pri Vodicah 231
+Gorenje Blato 230
+Pozenik 230
+Zenje 38
+Cemsenik 230
+Pliskovica 230
+Skopo 230
+Laska Vas pri Storah 229
+Paska Vas 225
+Brezova 229
+Besnica 229
+Pesnica 153
+Mali Lipoglav 229
+Nova Vas nad Dragonjo 229
+Sembije 229
+Trebija 194
+Semnik 229
+Temnica 153
+Stara Vas-Bizeljsko 229
+Stara Vas 108
+Gorenja Stara Vas 92
+Mala Stara Vas 99
+Zagorica pri Velikem Gabru 229
+Brezen 228
+Gaj nad Mariborom 228
+Gradisce pri Lukovici 228
+Brdo pri Lukovici 9
+Hodos 228
+Iska 228
+Ivanje Selo 228
+Kutezevo 228
+Jezevec 15
+Zlebic 228
+Cerov Log 227
+Rance 227
+Mance 148
+Boharina 227
+Harje 131
+Dolnje Lezece 227
+Drganja Sela 227
+Gabrijele 227
+Iga Vas 227
+Sodisinci 227
+Veliki Kamen 227
+Vojscica 227
+Ojstrica 99
+Strit 81
+Bistrica 121
+Vrhje 227
+Vrhpolje pri Moravcah 227
+Zamostec 227
+Gostece 85
+Remsnik 226
+Stanovsko 226
+Kustanovci 181
+Krajncica 225
+Konjiska Vas 225
+Ptujska Cesta 225
+Hudo 225
+Malo Hudo 166
+Pavlova Vas 225
+Breg pri Litiji 225
+Gradisce pri Vipavi 225
+Norsinci pri Ljutomeru 225
+Raduse 225
+Starosince 225
+Stavesinci 80
+Trgovisce 225
+Golisce 217
+Bukovlje 224
+Drasici 224
+Kaniza 224
+Markovec 224
+Skovec 81
+Podkum 224
+Ritoznoj 223
+Kamnje 223
+Slamnjak 174
+Cusperk 222
+Kunsperk 117
+Zupeca Vas 222
+Sevlje 221
+Jeronim 221
+Cerovo 28
+Narin 221
+Rovtarske Zibrse 220
+Loncarjev Dol 220
+Vincarje 141
+Velike Cesnjice 220
+Krizevska Vas 220
+Ledinek 220
+Tekacevo 220
+Nasovce 219
+Trnovce 83
+Ostenk 218
+Otovci 218
+Ovsise 218
+Podvolovljek 218
+Zgornja Pristava 218
+Spodnja Pristava 36
+Grlice 217
+Grlinci 146
+Loke v Tuhinju 217
+Cirkuse v Tuhinju 73
+Radovci 217
+Cadovlje 97
+Spodnji Razbor 217
+Razbor 170
+Zavrh pod Smarno Goro 217
+Pavlovci 216
+Mala Breza 216
+Mali Breg 58
+Stari Breg 5
+Kukava 216
+Kukec 66
+Cikecka Vas 84
+Koprivnik v Bohinju 216
+Ravne v Bohinju 43
+Mostec 216
+Dol pod Gojko 215
+Sentjanz nad Storami 215
+Mrtvice 215
+Smiklavz pri Skofji Vasi 215
+Solcava 214
+Golce 36
+Paradiz 213
+Zelezno 213
+Zaklanec 213
+Zakl 212
+Zakriz 178
+Poklek nad Blanco 213
+Poklek pri Podsredi 102
+Osredek pri Podsredi 70
+Osredek pri Dobrovi 73
+Osredek pri Krmelju 130
+Bisce 213
+Selisce 30
+Selo pri Bledu 213
+Mackovci 213
+Fuckovci 45
+Moravce pri Gabrovki 213
+Neblo 213
+Blodnik 30
+Zelodnik 45
+Orle 213
+Pece 213
+Stoperce 213
+Veliki Brebrovnik 212
+Mali Brebrovnik 175
+Brebovnica 126
+Dolnja Tezka Voda 212
+Spodnji Velovlek 212
+Svecane 211
+Polene 211
+Pokose 211
+Kokosnje 110
+Okoska Gora 181
+Bojsno 211
+Vrsno 131
+Gorenji Vrsnik 123
+Loke pri Zagorju 211
+Zupelevec 211
+Mekotnjak 210
+Korenjak 116
+Podgorje pri Pisecah 210
+Dolenje Skopice 210
+Jareninski Vrh 210
+Radenski Vrh 150
+Velike Bloke 210
+Jelence 209
+Dobeno 209
+Dorfarje 209
+Lokarje 109
+Jurjevica 209
+Mihovce 209
+Mihovica 149
+Hohovica 25
+Pince 209
+Vojsko 209
+Kruplivnik 208
+Brode 208
+Vareja 208
+Velika Varnica 208
+Zdinja Vas 207
+Dragocajna 207
+Strajna 106
+Strojna 111
+Trojane 107
+Bojanci 84
+Belsko 207
+Selska Gora 21
+Crni Kal 207
+Cvislerji 207
+Stalcerji 183
+Dolenje pri Jelsanah 207
+Grabonos 207
+Graben 22
+Grabe pri Ljutomeru 118
+Groblje pri Prekopi 207
+Radoblje 111
+Podolnica 207
+Podob 21
+Podolseva 60
+Polsece 9
+Skakovci 207
+Skorno 207
+Crmljensak 206
+Ogljensak 192
+Dol pri Vogljah 102
+Grcarevec 206
+Rucmanci 206
+Trata 206
+Gradez 205
+Medvedje Brdo 205
+Tibolci 205
+Andrejci 205
+Genterovci 205
+Libelice 205
+Libelj 12
+Lesje 204
+Sveti Jurij ob Scavnici 204
+Sveto 204
+Log nad Skofjo Loko 203
+Racica 202
+Bokraci 69
+Gracic 65
+Zerovnica 202
+Primoz pri Sentjurju 202
+Osevljek 201
+Gradisce na Kozjaku 201
+Hrovaca 201
+Raca 28
+Marno 201
+Dolenji Novaki 201
+Gabrovcec 201
+Gabrovnik 198
+Podlipoglav 201
+Veliki Lipoglav 46
+Radehova 201
+Petrusnja Vas 200
+Fokovci 200
+Kovcice 57
+Hosnica 200
+Kosnica 111
+Palcje 200
+Banovci 199
+Okonina 199
+Konj 81
+Konjsko 87
+Svinjsko 58
+Orehek 199
+Smartno 199
+Sentvid pri Grobelnem 198
+Drtija 198
+Razdrto 190
+Golavabuka 198
+Ukanc 44
+Jance 19
+Spodnje Grusovje 197
+Zgornje Grusovlje 194
+Dobrava pri Skocjanu 197
+Mala Slevica 197
+Oslusevci 197
+Dolenje Ponikve 196
+Somat 196
+Lesnica 196
+Belovo 196
+Breginj 196
+Jereka 196
+Krasinec 196
+Krasce 109
+Mlajtinci 196
+Vipavski Kriz 196
+Podpeca 195
+Pregarje 195
+Pregara 153
+Kregarjevo 130
+Dole pri Krascah 194
+Drasca Vas 92
+Koroska Vas 194
+Ribce 194
+Hrib nad Ribcami 33
+Sela 194
+Mala Sela 33
+Stopnik 194
+Lipnik 33
+Zagon 194
+Bisecki Vrh 193
+Hrenovice 193
+Ponovice 190
+Licenca 193
+Ivenca 187
+Mala Mislinja 193
+Velika Bukovica 193
+Brezovec 192
+Brezovec pri Polju 74
+Lesane 192
+Sentanel 192
+Stranice 192
+Silova 191
+Mala Ilova Gora 76
+Velika Ilova Gora 68
+Nova Vas pri Lescah 191
+Vrenska Gorca 191
+Roginska Gorca 129
+Trska Gorca 42
+Kotredez 191
+Osredek 76
+Lopersice 191
+Podsreda 191
+Bratislavci 190
+Poznanovci 190
+Smihel pod Nanosom 190
+Markovo 189
+Zagradec pri Grosupljem 189
+Zagradec 113
+Kobdilj 189
+Zagojici 189
+Hramse 189
+Praprotna Polica 189
+Praprose 28
+Turjak 189
+Cetez pri Turjaku 28
+Bereca Vas 188
+Mrseca Vas 35
+Prihova 188
+Dobrova pri Prihovi 55
+Dob pri Sentvidu 188
+Levpa 188
+Hlevise 66
+Levic 115
+Prevalje pod Krimom 187
+Kokarje 187
+Nasova 187
+Rove 187
+Farovec 44
+Salinci 187
+Nizka 186
+Koracice 186
+Hrastulje 186
+Hrastek 25
+Setnik 186
+Doblice 186
+Doblicka Gora 71
+Javorje 186
+Javorje pri Gabrovki 36
+Vodice pri Gabrovki 42
+Zibika 186
+Pribisje 20
+Policki Vrh 185
+Racki Vrh 82
+Locki Vrh 176
+Drvanja 185
 Brvace 131
-Suzid 129
-Jelse 125
-Glogov Brod 124
-Kamna Gora 122
-Lucova 120
-Mirke 111
-Gomila 86
-Ilovka 66
-Predel 105
-Pince-Marof 104
-Zupa 104
-Psajnovica 72
-Kanjuce 104
-Fuzine 104
-Zgornji Kamenscak 104
-Jelsa 101
-Lacja Vas 101
-Tribej 101
-Gumberk 87
-Stara Bucka 95
-Mocle 95
-Cepki 95
-Tihaboj 95
-Zvab 89
-Crmlja 94
-Srednja Vas-Poljane 93
+Brvi 45
+Smast 185
+Gracisce 185
+Racice 172
+Rogacice 45
+Tepe 185
+Buncani 185
+Florjan pri Gornjem Gradu 185
+Kazlje 185
+Markisavci 185
+Spitalic 185
+Srpenica 185
+Vinji Vrh 184
+Sinji Vrh 75
+Mala Racna 184
+Lacna Gora 174
+Bodrez 183
+Dreznik 40
+Sneznik 21
+Metni Vrh 183
+Metnaj 115
+Statenberg 183
+Kukenberk 40
+Rozenberk 22
+Statenberk 47
+Lehen na Pohorju 183
+Radovlja 182
+Zurkov Dol 182
+Vrhov Dol 106
+Gorjane 182
+Babna Gora 182
+Babni Vrt 60
+Vedrijan 182
+Kocarija 65
+Tevce 182
+Dobric 182
+Dobrije 86
+Kobjeglava 182
+Zadobje 60
+Podhosta 182
+Policka Vas 182
+Stanecka Vas 94
+Bolecka Vas 54
+Prosecka Vas 128
+Recenjak 182
+Sratovci 182
+Ratkovci 57
+Zitkovci 128
+Stanjevci 182
+Puzevci 181
+Donacka Gora 181
+Korovci 181
+Jurovci 174
+Rozengrunt 181
+Zabukovje nad Sevnico 181
+Bukovje 164
+Zgornje Prebukovje 171
+Podbukovje 153
+Ojstro 180
+Sedraz 180
+Srednja Vas pri Polh. Grad. 179
+Pristava pri Polh. Gradcu 119
+Spodnje Praprece 179
+Dvorska Vas 179
+Kubed 179
+Plitvicki Vrh 179
+Stanosina 178
+Buc 178
+Sveti Jernej 178
+Mostecno 178
+Pomjan 178
+Prosenjakovci 178
+Stahovica 178
+Trdkova 178
+Bodkovci 124
+Grcarice 177
+Lucine 177
+Vine 64
+Zavinek 64
+Runec 177
+Brunk 11
+Temenica 177
+Videm pri Temenici 15
+Volavlje 177
+Grenc 176
+Kadrenci 74
+Slivice 176
+Slivna 134
+Ciginj 176
+Gubno 176
+Smatevz 175
+Binkelj 175
+Zgornji Obrez 175
+Rigonce 175
+Gederovci 175
+Kopriva 175
+Spodnje Vrtice 175
+Sulinci 175
+Smolinci 138
+Smoldno 30
+Zigrski Vrh 174
+Gojace 174
+Andrenci 174
+Sv. Andrej 157
+Armesko 174
+Nadlesk 174
+Osp 174
+Visevek 174
+Spodnja Loznica 173
+Boben 173
+Srgasi 173
+Fiksinci 173
+Saksid 108
+Susak 92
+Lipoglav 173
+Nomenj 173
+Ostrog 172
+Srednje 172
+Srednje Brdo 103
+Gorenje Brdo 82
+Brdo 100
+Gonjace 172
+Segonje 30
+Pretrez 172
+Prezid 102
+Zazid 70
+Primoz pri Ljubnem 172
+Primoz 30
+Marija Dobje 171
+Lastnic 171
+Stegne 171
+Bogneca Vas 80
+Kosise 171
+Gorenje Skopice 171
+Libna 171
+Libanja 80
+Potov Vrh 171
+Kocno ob Loznici 170
+Pekel 170
+Otoce 170
+Otok 69
+Borst 170
+Ivanjsevski Vrh 170
+Konjski Vrh 133
+Kalce-Naklo 170
+Padna 170
+Srednja Kanomlja 170
+Hrenova 169
+Brezovi Dol 169
+Laze pri Dramljah 169
+Slavsina 169
+Bavsica 8
+Beznovci 169
+Goricica pod Krimom 169
+Javnik 169
+Lesicno 169
+Pristava pri Lesicnem 40
+Locica pri Vranskem 169
+Blocice 114
+Zazar 169
+Zgornja Kapla 169
+Cerovica 168
+Vinska Gorica 168
+Sele pri Polskavi 168
+Zagaj pod Bocem 168
+Grabrovec 168
+Triban 168
+Mrzlava Vas 168
+Mrzli Log 25
+Mrzlo Polje 68
+Mele 168
+Motnik 168
+Zgornja Lipnica 168
+Lipni Dol 36
+Ladja 167
+Reka 167
+Cinzat 167
+Dol-Suha 167
+Miklavz pri Taboru 167
+Klavze 80
+Vrhole pri Laporju 167
+Dole pri Litiji 111
+Zgornja Sorica 167
+Raceva 166
+Senturska Gora 166
+Sovodenj 166
+Svecina 166
+Zibrse 166
+Oresje nad Sevnico 165
+Nunska Graba 165
+Tomacevica 165
+Zabljek 165
+Zabjek 22
+Debro 165
+Debenec 47
+Grebenje 9
+Brise pri Polhovem Gradcu 165
+Malo Trebeljevo 165
+Roje pri Trebelnem 47
+Brezje pri Trebelnem 35
+Brezovica pri Trebelnem 21
+Cerovec pri Trebelnem 66
+Orlek 165
+Ravne pri Cerknem 165
+Cadramska Vas 164
+Sklendrovec 164
+Cerovec 146
+Krivica 164
+Velike Rodne 164
+Male Rodne 122
+Murscak 164
+Vogricevci 164
+Mrcna Sela 164
+Adrijanci 164
+Brezni Vrh 164
+Strukovci 164
+Gorca 163
+Lazise 163
+Brecljevo 163
+Gorenje Karteljevo 150
+Dolenje Karteljevo 116
+Dolenja Stara Vas 163
+Dolnja Stara Vas 119
+Velika Stara Vas 137
+Kacji Dol 163
+Goveji Dol 20
+Vejice 20
+Veliki Vrh pri Litiji 163
+Straznji Vrh 163
+Lipa pri Frankolovem 163
+Sobetinci 163
+Kursinci 162
+Spodnje Blato 162
+Blato 100
+Predmost 162
+Frajhajm 162
+Loka pri Framu 162
+Mala Bukovica 162
+Tolsti Vrh pri Mislinji 162
+Zbure 162
+Zelen Breg 162
+Sadinja Vas pri Dvoru 161
+Ljubgojna 161
+Stanetinci 161
+Precetinci 161
+Kamence 161
+Kamensko 21
+Rifengozd 161
+Zagozdac 21
+Zagozd 56
+Slogonsko 161
+Drazen Vrh-Del 161
+Rakitnik 161
+Mali Rakitovec 35
+Rifnik 161
+Bukovje pri Slivnici 160
+Vodice pri Slivnici 26
+Caca Vas 160
+Libeliska Gora 160
+Litmerk 160
+Berkovci 146
+Berkovski Prelogi 33
+Preloge 146
+Sela pri Smarju 160
+Podgorica pri Smarju 89
+Topol pri Medvodah 160
+Vintarjevec 160
+Potarje 85
+Loska Gora pri Zrecah 159
+Vizore 159
+Gore 148
+Zabrdje 159
+Podjelovo Brdo 134
+Zagorica nad Kamnikom 159
+Javornik 159
+Pletovarje 159
+Ples 72
+Videz 159
+Rodez 45
+Senbric 158
+Pecine 158
+Rotman 158
+Artmanja Vas 26
+Gorjusa 158
+Cesenik 158
+Cerina 158
+Dolnje Brezovo 158
+Lobnica 158
+Smihel nad Mozirjem 158
+Predenca 157
+Studenca 69
+Podstudenec 108
+Za Kalvarijo 157
+Lokavci 157
+Dolje 157
+Sela na Krasu 157
+Veliki Otok 157
+Zgornji Leskovec 157
+Radomerscak 156
+Hajnsko 156
+Strensko 54
+Doropolje 156
+Topolje 58
+Topovlje 111
+Kresnica 156
+Kajzar 156
+Brinje 156
+Blatno 156
+Landol 156
+Rajndol 49
+Andol 17
+Motvarjevci 156
+Prem 156
+Kremenica 58
+Kremenik 21
+Tremerje 64
+Strahomer 156
+Zgornje Hlapje 156
+Spodnje Hlapje 106
+Oresje 155
+Pondor 155
+Skalske Cirkovce 155
+Kalse 131
+Selsek 82
+Jelsevec 39
+Klokocovnik 155
+Jursce 155
+Plesivica pri Zalni 155
+Dobrova pri Dravogradu 155
+Gorenje Kamence 155
+Kebelj 155
+Reber 103
+Kriska Reber 30
+Livek 155
+Bate 154
+Drensko Rebro 154
+Gornja Lokvica 154
+Smokvica 38
+Hrastovlje 154
+Hrastov Dol 98
+Predgrize 154
+Laze pri Predgradu 15
+Predgrad 111
+Nadgrad 56
+Vrh 153
+Gradiske Laze 153
+Zgornje Laze 130
+Spodnje Krase 153
+Tovsto 153
+Podklanc 153
+Blatnik pri Crnomlju 153
+Trobni Dol 153
+Gobnik 108
+Podlonk 153
+Soca 153
+Vrhnika pri Lozu 153
+Nova Gora nad Slov. Bistrico 152
+Trnovec pri Slovenski Bistrici 76
+Malkovec 152
+Gomila pri Kogu 152
+Fuzina 152
+Gruskovec 152
+Mala Ligojna 152
+Trnovci 152
+Trnovec 152
+Anovec 83
+Stavesinski Vrh 151
+Pavlovski Vrh 151
+Dolnje Lozine 151
+Godeninci 151
+Kal-Koritnica 151
+Koritnica 148
+Koritnice 151
+Prezganje 151
+Zloganje 138
+Veliki Slatnik 151
+Veliki Locnik 123
+Zebnik 151
+Piresica 150
+Klecet 150
+Stenica 150
+Vuzmetinci 150
+Osevek 150
+Sevec 44
+Gorjuse 150
+Koprivna 150
+Ladra 150
+Studencice 150
+Praprece 149
+Zgornje Praprece 51
+Gornje Praprece 29
+Glogovica 149
+Bezgovica 25
+Cesnjevek 149
+Jastrebci 149
+Visnjevik 149
+Vinicka Vas 148
+Sentpavel na Dolenjskem 148
+Sobenja Vas 148
+Turiska Vas 148
+Turiska Vas na Pohorju 74
+Rjavica 148
+Hrastje ob Bistrici 148
+Sentjungert 148
+Centur 148
+Veliki Cerovec 148
+Perovec 45
+Zilje 148
+Mizni Dol 147
+Glinek 147
+Kladje nad Blanco 147
+Mladje 20
+Nezbise 147
+Ribcev Laz 147
+Slavski Laz 20
+Dolenje Mokro Polje 147
+Famlje 147
+Fojana 147
+Zavrh pri Trojanah 51
+Lenart pri Gornjem Gradu 147
+Pungert 147
+Gersici 50
+Marsici 21
+Spodnja Lusa 147
+Spodnje Prebukovje 147
+Spodnje Gruskovje 50
+Spodnji Ivanjci 147
+Bukovscica 146
+Gazice 146
+Grmovlje 146
+Otalez 146
+Rucetna Vas 146
+Baredi 145
+Radana Vas 145
+Smalcja Vas 145
+Sajevec 145
+Spodnje Brezovo 145
+Lipovec 145
+Razgor 145
+Studenice 145
+Trnovec pri Dramljah 145
+Medribnik 144
+Svibnik 110
+Gozd-Reka 144
+Podgozd 100
+Suha 144
+Dolenji Suhadol 136
+Forme 144
+Botricnica 144
+Jelicni Vrh 121
+Prepuz 144
+Sepulje 99
+Potok pri Dornberku 144
+Juvanje 144
+Prerad 144
+Neradnovci 138
+Gornji Crnci 144
+Gradisce pri Materiji 144
+Hrenca 144
+Podlanisce 144
+Presika 144
+Sturmovci 143
+Zgornji Kozji Vrh 143
+Jelovo 143
+Dilce 143
+Vihre 143
+Dankovci 143
+Drezniske Ravne 143
+Kolovrat 143
+Vratno 63
+Pako 143
+Buseca Vas 142
+Strmica 142
+Stefan pri Trebnjem 142
+Tepanjski Vrh 142
+Tuncovec 142
+Desnjak 142
+Skorisnjak 65
+Koprivnica 142
+Borjana 142
+Dravce 142
+Rjavce 37
+Rjavci 94
+Podveza 142
+Primostek 142
+Velike Grahovse 142
+Zgornje Tinsko 142
+Zgornje Gorce 65
+Zgornje Gradisce 141
+Hrast pri Vinici 141
+Velike Lipljene 141
+Zagrad 140
+Lemberg pri Novi Cerkvi 140
+Repisce 140
+Idrijske Krnice 140
+Lobcek 140
+Slaptinci 140
+Delnice 140
+Gornje Lozine 140
+Levanjci 140
+Gornji Ivanjci 75
+Ivanji Grad 85
+Volcji Grad 90
+Trpcane 140
+Zgornji Gabernik 140
+Praprece pri Strazi 139
+Robanov Kot 139
+Rob 84
+Zagaj 139
+Curile 139
+Bobovek 139
+Jesovec pri Kozjem 139
+Klanec pri Kozini 115
+Sveti Stefan 139
+Svetinje 56
+Hrusevica 139
+Lopaca 139
+Klece pri Dolu 139
+Padeski Vrh 139
+Padez 58
+Sromlje 139
+Dragomlja Vas 106
+Sv. Barbara 139
 Sv. Bostjan 94
+Sv. Vrh 106
+Zalog pri Skofljici 138
+Dole pri Skofljici 45
+Odrga 138
+Grahovo ob Baci 138
+Sprinc 137
+Pribinci 59
+Dobro Polje 137
+Golice 137
+Migolica 67
+Log pod Mangartom 137
+Grabe 136
+Babna Brda 136
+Krivi Vrh 136
+Grahovse 136
+Bovse 110
+Senovica 136
+Na Logu 136
+Modric 136
+Drozanje 136
+Planica 136
+Sedem 136
+Gorenja Vas pri Leskovcu 136
+Barizoni 136
+Zagajski Vrh 136
+Crmosnjice 136
+Gorenja Dobrava 136
+Podroje 135
+Verpete 135
+Grm 135
+Polzanska Gorca 135
+Rozni Vrh 135
+Baca pri Modreju 135
+Modrejce 112
+Cerkvenjak 135
+Dole pri Polici 135
+Dolge Njive 135
+Dolnje Cerovo 135
+Gora pri Pecah 135
+Ivanovci 135
+Kozminci 135
+Kozmani 112
+Lipsenj 135
+Spodnja Selnica 135
+Spodnja Senarska 125
+Zgornje Verjane 135
+Spodnje Verjane 26
+Spodnje Partinje 134
+Vrh nad Laskim 134
+Pijovci 134
+Kot pri Prevaljah 134
+Dolenje Susice 134
+Gornja Kosana 134
+Klenovik 133
+Hermanci 133
+Sela pri Kamniku 133
+Popovci 132
+Cresnjice 132
+Drenovec pri Bukovju 132
+Brezovica pri Mirni 132
+Kokorici 132
+Radvenci 132
+Vetrnik 132
+Vodranci 132
+Zgornji Drazen Vrh 131
+Marinca Vas 131
+Cundrovec 131
+Cekovnik 131
+Kovacevci 131
+Velika Dobrava 131
+Puscava 130
+Mamolj 130
+Zgornje Negonje 130
+Dragotinci 130
+Drobtinci 130
+Dvor pri Polhovem Gradcu 130
+Petrovo Brdo 130
+Zgornje Roje 130
+Roje 90
+Krnice 129
+Barislovci 129
+Lacaves 129
+Kupcinji Vrh 129
+Bolehnecici 129
+Bozakovo 129
+Zakojca 47
+Zakal 58
+Panece 129
+Pluznje 129
+Suzid 129
+Tublje pri Hrpeljah 129
+Radez 128
+Cesca Vas 128
+Nebova 128
+Seniski Breg 128
+Cisti Breg 25
+Cetore 128
+Gorenje pri Divaci 128
+Pocakovo 128
+Poljana 128
+Strmec nad Dobrno 127
+Sentlovrenc 127
+Tomazja Vas 127
+Belo 127
+Dolenji Maharovec 127
+Novi Lazi 127
+Podgorje ob Sevnicni 127
+Praprotno 127
+Preloge pri Smarju 127
+Ceplje 126
+Pestike 126
+Pescenik 74
+Pesceni Vrh 110
+Cerovec Stanka Vraza 126
+Vopovlje 126
+Curnovec 126
+Lemberg pri Smarju 126
+Sela pri Sumberku 126
+Srebotje 126
+Zgornji Gasteraj 126
+Zlabor 126
+Rovisce pri Studencu 125
+Spodnji Tustanj 125
+Imovica 125
+Otemna 125
+Hotemez 85
+Zagolic 125
+Malovse 125
+Jelse 125
+Merce 125
+Zarecica 125
+Ugovec 124
+Vrh pri Sentjerneju 124
+Podcerkev 124
+Glogov Brod 124
+Pilstanj 124
+Plodrsnica 124
+Oskorsnica 70
+Selscek 124
+Selski Vrh 90
+Spodnja Backova 123
+Zegar 123
+Stanovno 123
+Lavrovec 123
+Lig 123
+Stolnik 123
+Hercegovscak 123
+Vojna Vas 123
+Blagovica 123
+Crneca Vas 123
+Globel 123
+Grusena 123
+Grusovlje 72
+Grusova 78
+Koble 123
+Preloka 123
+Zaloka 45
+Zalovice 102
+Jelovice 70
+Sovice 110
+Trenta 123
+Serovo 122
+Lase 122
+Prnek 122
+Sovinek 80
+Velicane 122
+Dobletina 122
+Cerej 122
+Drazevnik 122
+Hlevnik 33
+Grgarske Ravne 122
+Kunova 122
+Lahov Graben 122
+Lastomerci 122
+Strekljevec 122
+Terbegovci 122
+Trata pri Velesovem 122
+Trlicno 121
+Osredek pri Zrecah 121
+Gorenje pri Zrecah 110
+Znojile 121
+Brise 121
+Borovak pri Podkumu 121
+Turno 121
+Sedina 121
+Straza na Gori 121
+Sardinje 121
+Doblezice 121
+Bruhanja Vas 121
+Jelsevnik 121
+Prapetno Brdo 121
+Skofija 121
+Skoflje 121
+Tolsti Vrh 121
+Belski Vrh 103
+Froleh 120
+Gabrovica pri Komnu 120
+Klanec pri Komnu 39
+Krivcevo 120
+Popetre 120
+Petrinje 39
+Velika Lasna 120
+Mala Lasna 30
+Cerovec pri Smarju 119
+Murski Vrh 119
+Bozje 119
+Buckovci 119
+Dolenje Kronovo 119
+Gorenje Susice 119
+Gornja Prekopa 119
+Kambresko 119
+Breska Vas 28
+Slepsek 119
+Smrje 119
+Spodnja Pohanca 119
+Spodnje Grusovlje 119
+Zgornje Grusovje 116
+Hrusovje 20
+Draga pri Sentrupertu 118
+Draga pri Sinjem Vrhu 15
+Vrsna Vas 118
+Bodrisna Vas 118
+Virlog 118
+Limbarska Gora 118
+Dvorce 118
+Razgorce 15
+Adlesici 118
+Podlesje 58
+Kot pri Ribnici 118
+Podblica 118
+Podpreska 118
+Podpec pod Skalo 21
+Podpec pri Sentvidu 60
+Pristova 118
+Spodnje Vodale 118
+Zgornje Vodale 35
+Susje 118
+Susica 106
+Susa 47
+Sv. Lenart 118
+Vnajnarje 118
+Vrsnik 118
+Brsnik 5
+Brstnik 84
+Brstovec 40
+Zgornja Senarska 118
+Markecica 117
+Slamna Vas 117
+Kortine 117
+Bac pri Materiji 117
+Jazne 117
+Lazna 12
+Lazec 116
+Kot 117
+Novi Kot 51
+Slivje 117
+Brezje pri Locah 116
+Spodnja Rocica 116
+Prelesje 116
+Zagaj pri Ponikvi 116
+Dolenje Gradisce pri Sentj. 116
+Stare Slemene 116
+Spodnje Slemene 15
+Hajndl 116
+Ucakovci 116
+Dobje pri Planini 116
+Znojile pri Krki 116
+Jablovec 115
+Kolovec 66
+Dobindol 115
+Postaja 115
+Sotensko pri Smarju 115
+Sv. Trojica 115
+Strojici 15
+Trojno 52
+Secje Selo 115
+Racje Selo 91
+Nadanje Selo 111
+Mala Cikava 115
+Mala Dobrava 35
+Spodnja Dobrava 47
+Movraz 115
+Kamovci 111
+Osojnik 115
+Sojek 111
+Goljek 64
+Lupinica 114
+Lukini 60
+Lukacevci 57
+Sibenik 114
+Benica 84
+Jesenica 84
+Gorenje Jesenice 111
+Jesen 5
+Rihtarovci 114
+Butoraj 114
+Dolnje Vreme 114
+Zaplana 114
+Prapetno 113
+Mala Vas pri Ormozu 113
+Suhi Vrh 113
+Podkraj pri Mezici 113
+Konca Vas 113
+Apno 113
+Krajna Vas 113
+Bucka 113
+Kacice-Pared 113
+Potoki 113
+Spicnik 113
+Zgornji Lehen na Pohorju 112
+Hrastje pri Grosupljem 112
+Platinovec 112
+Vrhek 112
+Male Vrhe 26
+Kamna Gorca 112
+Draksl 112
+Srebrnice 112
+Svrzaki 112
+Sv. Duh na Ostrem Vrhu 112
+Cirknica 112
+Nemski Rovt 112
+Spodnji Leskovec 112
+Gorenji Leskovec 76
+Zgornje Pobrezje 112
+Koroska Vas na Pohorju 111
+Mirke 111
+Neverke 111
+Bela Cerkev 106
+Bela 87
+Jelce 111
+Tupelce 57
+Dupeljne 58
+Jarmovec 111
+Cesnjica pri Kropi 111
+Segova Vas 111
+Zgornje Gruskovje 111
+Podplat 111
+Spodnja Branica 111
+Brezje pri Veliki Dolini 111
+Glinje 111
+Malo Mrasevo 111
+Murski Petrovci 111
+Ostrozno pri Ponikvi-Del 111
+Sinkov Turn 111
+Vinkov Vrh 43
+Spodnji Otok 111
+Zgornji Otok 64
+Cuznja Vas 110
+Podulce 110
+Racja Vas 110
+Anze 110
+Mali Podlog 110
+Novi Svet 110
+Volca 110
+Pohorje 109
+Vidrga 109
+Porece 109
+Sentvid pri Planini 109
+Pepelno 109
+Avber 109
+Gabrovka pri Zagradcu 109
+Lome 109
+Otavice 109
+Otavnik 25
+Lajse 109
+Voglarji 109
+Vranovici 109
+Zenavlje 109
+Hvaletinci 108
+Mrzla Planina 108
+Pocenik 108
+Gabrk 108
+Breg ob Kokri 108
+Breg ob Bistrici 69
+Brje pri Komnu 108
+Jurna Vas 108
+Pecice 108
+Rogoznica 108
+Martinja Vas 107
+Artiza Vas 66
+Pecica 107
+Huje 107
+Buje 47
+Povzane 107
+Razori 107
+Zorenci 36
+Psenicna Polica 107
+Dekmanca 107
+Dol pri Hrastovljah 107
+Tominje 107
+Gomila 86
+Gorenja Gomila 86
+Varda 107
+Mala Brda 52
+Vrata 107
+Zelse 107
+Zgornja Jablanica 106
+Zgornja Javorsica 87
+Zgornja Jevnica 65
+Veliki Boc 106
+Veliki Trn 47
+Bezovje nad Zrecami 106
+Vodule 106
+Radna 106
+Njivice 106
+Prihodi 106
+Starihov Vrh 21
+Catez 106
+Cateska Gora 21
+Gorenji Globodol 106
+Srednji Globodol 57
+Koreno nad Horjulom 106
+Ocizla 106
+Plitvica 106
+Artvize 47
+Savinsko 106
+Veliko Brdo 106
+Velika Brda 43
+Ceglo 105
+Zlatece 105
+Ogorevc 105
+Reva 16
+Prevale 14
+Zapreval 28
+Vale 14
+Predel 105
+Strmec na Predelu 16
+Zenik 105
+Lokanja Vas 105
+Vodriz 105
+Sentjost 105
+Rincetova Graba 105
+Golek 105
+Drskovce 105
+Globocice pri Kostanjevici 105
+Gorenje Ponikve 105
+Leskovica 105
+Trotkova 105
+Pince-Marof 104
+Ravnik 104
+Stavca Vas 104
+Logarska Dolina 104
+Strelci 104
+Zupa 104
+Kanjuce 104
+Grinjan 104
+Zgornja Slivnica 104
+Bojanja Vas 104
+Fuzine 104
+Selisci 104
+Svino 104
+Vranje 104
+Zejno 104
+Psajnovica 72
+Zgornja Pohanca 104
+Zgornji Kamenscak 104
+Hrast pri Jugorju 103
+Sela pri Jugorju 45
+Hrasenski Vrh 103
+Mocilno 103
+Verace 103
+Brezje pri Dovskem 103
+Lahovna 103
+Gorenja Trebusa 103
+Vajgen 103
+Velika Stanga 103
+Polze 102
+Podgaj 102
+Veliki Podljuben 102
+Barka 102
+Male Lipljene 102
+Nova Susica 102
+Veliki Lipovec 102
+Sela pri Raki 101
+Sela pri Ratezu 54
+Jelsa 101
+Krtince 101
+Rtice 22
+Kocno pri Polskavi 101
+Lacja Vas 101
+Decja Vas 94
+Decja Vas pri Zagradcu 66
+Tribej 101
+Cirnik 101
+Mali Cirnik pri Sentjanzu 87
+Dezno pri Podlehniku 101
+Hudajuzna 101
+Pluzna 54
+Luza 65
+Jeruzalem 41
+Spodnja Orlica 101
+Sentviska Gora 101
+Zagorica pri Dolskem 101
+Zgornja Lusa 101
+Skarnice 100
+Savna Pec 100
+Budganja Vas 100
+Gornje Vreme 100
+Polsnik 100
+Stiska Vas 100
+Varos 100
+Dolenja Vas pri Articah 99
+Golobinjek 99
+Koprivnik 99
+Podgorje pod Cerinom 99
+Sentovec 99
+Mrtovec 73
+Otovec 54
+Budna Vas 99
+Radelca 99
+Rovt pod Menino 99
+Laski Rovt 41
+Rovt 54
+Plavski Rovt 87
+Jama pri Dvoru 99
+Brezova Reber pri Dvoru 41
+Bukov Vrh 99
+Cesnjice pri Trebelnem 99
+Gorenje Jezero 99
+Grlava 99
+Zihlava 77
+Hlavce Njive 69
+Spodnja Bela 99
+Trebelno 99
+Zamesko 99
+Creskova 98
+Deskova Vas 24
+Okrog 98
+Razgor pri Zabljeku 98
+Herinja Vas 98
+Blatni Vrh 98
+Grintovec 98
+Zalog pod Sv. Trojico 98
+Srednji Vrh 98
+Cresnjevec pri Semicu 98
+Daljni Vrh 98
+Rodni Vrh 44
+Dedni Vrh pri Vojniku 19
+Gradisce pri Vojniku 51
+Mala Varnica 98
+Praproce 98
+Praproce v Tuhinju 24
+Spodnje Koseze 98
+Babna Reka 97
+Vinice 97
+Ruta 97
+Kusernik 97
+Flekusek 92
+Smarata 97
+Mihovo 97
+Pusto Polje 97
+Strtenica 97
+Strtenik 54
+Dobrnic 97
+Lipe 97
+Poljsica pri Podnartu 97
+Preska nad Kostrevnico 97
+Stari Trg ob Kolpi 97
+Straze 97
+Zgornji Velovlek 97
+Loke pri Planini 96
+Dobe 96
+Dobec 65
+Becaje 33
+Dobrljevo 96
+Rapljevo 69
+Naraplje 90
+Ilovca 96
+Repce 96
+Cagosce 96
+Zepina 96
+Zirje 96
+Spodnje Jezersko 96
+Spodnje Jelenje 33
+Spodnje Danje 54
+Tesova 96
+Stara Bucka 95
+Cmereska Gorca 95
+Zgornje Konjisce 95
+Volcja Jama 95
+Sveta Planina 95
+Mocle 95
+Drama 95
+Planina pod Sumikom 95
+Polje pri Trziscu 95
+Hudo Brezje 95
+Cepki 95
+Zdusa 95
+Trebence 95
+Gabrovica pri Crnem Kalu 95
+Grzeca Vas 95
+Ledeca Vas 85
+Deseca Vas 76
+Hlevni Vrh 95
+Lucarjev Kal 95
+Marindol 95
+Slomi 95
+Tihaboj 95
+Veliki Orehek 95
+Veliko Trebeljevo 95
+Sela pri Sentjerneju 94
+Pristava pri Sentjerneju 57
+Brezje pri Sentjerneju 48
+Dolsce 94
+Crmlja 94
+Obrat 94
+Godemarci 94
+Lanise 94
+Jeranovo 94
+Dobravsce 94
+Globocice 94
+Globocdol 35
+Snezatno 94
+Gornji Suhor pri Metliki 94
+Dolenji Suhor pri Vinici 48
+Dobrava ob Krki 94
+Lindek 94
+Landek 58
+Rihpovec 94
+Radovici 93
+Zgornje Loke 93
+Gornje Laze 27
+Grabce 93
+Fabci 17
+Hranjigovci 93
+Srebrnik 93
+Bezenskovo Bukovje 93
+Cadovlje pri Trzicu 93
+Hosta 93
+Srednja Vas-Poljane 93
+Volcje 93
 Prilipe 93
-Filipcje Brdo 31
-Prilozje 31
+Dilici 8
+Podklanec 93
+Stara Lipa 93
+Knezja Lipa 17
+Brod 93
+Spodnja Sorica 93
+Nimno 92
+Gorenje Laknice 92
+Kozarsce 92
+Kozarno 41
+Vrhovlje 92
+Podtabor 92
+Dolenjci 92
+Doklece 92
+Zavino 92
+Zavine 80
+Globoko ob Dravinji 92
+Gornje Pijavsko 92
+Lasigovci 92
+Mala Dolina 92
+Stefanja Gora 92
+Trdobojci 92
+Vitan 92
+Pristavica pri Vel. Gabru 91
+Dobravica pri Vel. Gabru 21
+Zalog pri Sempetru 91
+Zalog pri Kresnicah 36
+Sentjur na Polju 91
+Srakovlje 91
+Ambroz pod Krvavcem 91
+Krvavi Potok 86
+Krvava Pec 21
+Zali Breg 91
+Srzevica 91
+Goljevica 36
+Bezuljak 91
+Gornja Tezka Voda 91
+Zajcji Vrh pri Stopicah 91
+Brezovica pri Stopicah 29
+Polzanska Vas 90
+Ciringa 90
+Mala Stanga 33
+Krasno 90
+Krasna 80
+Nadbisec 90
+Biserjane 77
 Presecno 90
+Srednje Grcevje 90
+Vrhpec 90
+Zaborst pri Sentvidu 90
+Zgornje Koseze 90
+Zgornja Orlica 89
+Visoce 89
+Kanalski Lom 89
+Smarcna 89
+Dobje 89
+Cudno Selo 89
+Pristava pri Leskovcu 89
+Brezje pri Senusah 89
+Crnotice 89
+Labinje 89
+Pesje 89
+Rajnkovec 89
+Sanabor 89
+Zvab 89
+Recica 88
 Stirpnik 88
-Velika Planina 3
-Mlaka pri Kocevski Reki 16
-Livske Ravne 16
-Kot pri Rakitnici 3
-Kotel 3
-Kacji Potok 3
+Lipnica 53
+Log pri Vrhovem 88
+Log pri Polhovem Gradcu 14
+Zadraga 88
 Krajno Brdo 88
-Rajsele 4
-Zajelsje 53
-Sela pri Ajdovcu 7
+Poce 88
+Bucerca 88
+Dobrava pri Konjicah 88
+Krplivnik 88
+Obrh pri Dragatusu 88
+Visejec 88
+Visevca 3
+Ardro pri Raki 87
+Dolenja Vas pri Raki 65
+Dolenja Vas pri Polici 87
+Zlogona Gora 87
+Medvedjek 87
+Gorenje Medvedje Selo 54
+Gorenja Vas pri Mirni 87
+Vrh pri Pahi 87
+Vrh pri Povrsju 43
+Gumberk 87
+Volaka 87
+Ulaka 43
+Sentpavel pri Domzalah 87
+Drazica 87
 Negastrn 87
+Osilnica 87
 Smrecno 87
+Podsmrecje 48
+Veliko Ubeljsko 87
+Zgornje Dobrenje 87
+Gorenje Dole 43
+Hrastje pri Mirni Peci 86
+Selo pri Mirni 66
+Gradisce-K. O. Grad. In Polj. 86
+Cresnova 86
+Rdeci Kal 86
+Straska Gorca 86
+Okroglice 86
+Pance 86
+Raztez 86
+Jurkloster 86
+Presa 86
+Gorenje Gradisce 86
+Ledine 86
+Onkraj Meze 86
+Peskovci 86
+Veliko Crnelo 86
+Veliko Polje 66
+Skrljevo 85
+Kocevske Poljane 85
+Razdelj 85
+Lukovek 85
+Sela pri Volcah 85
 Dolgi Vrh 85
+Dolencice 85
+Podskrajnik 85
+Krvavcji Vrh 85
+Bukovje v Babni Gori 85
+Dezno pri Makolah 85
+Ludranski Vrh 85
+Cunkovci 85
+Predole 85
+Sentpavel 85
+Vrhtrebnje 85
+Trebnja Gorica 76
+Srednji Lipovec 84
+Mali Lipovec 64
+Veliki Okic 84
+Krizeca Vas 84
+Gorenjski Vrh 84
+Trebanjski Vrh 60
+Brezje ob Slomu 84
+Polje ob Sotli 58
+Golobinjek ob Sotli 48
+Leskovec v Podborstu 84
+Zalose 84
+Huda Jama 84
+Gric pri Doblicah 84
+Zagorica pri Dobrnicu 64
+Stranje pri Dobrnicu 21
+Kokolajnscak 84
+Kristanci 84
+Malo Tinje 84
+Vrh pri Ljubnu 84
+Zabukovje 84
+Zabukovje pri Raki 58
+Gorenje Zabukovje 43
+Dolenje Zabukovje 22
+Brdce nad Dobrno 83
+Mevkuz 83
+Pustike 83
+Prapretno 83
+Pesniski Dvor 83
+Cerkljanska Dobrava 83
+Brunska Gora 83
+Dolenja Vas pri Mirni Peci 83
+Gradisce pri Litiji 83
+Predjama 83
+Sladka Gora 83
+Veliki Osolnik 83
+Gorenji Podborst 82
+Cesnjice pri Zagradcu 82
+Jurisna Vas 82
+Belcji Vrh 82
+Jarcji Vrh 39
+Slancji Vrh 45
+Bitnje 82
+Bitnja Vas 39
+Gorenje Lakovnice 82
+Rodine pri Trebnjem 82
+Srednja Vas-Gorice 82
+Cresnjevec ob Bistrici 81
+Planinska Vas 81
+Volckova Vas 81
 Cakova 81
+Jakovica 77
+Zgornja Nova Vas 81
+Fost 81
+Gostinca 81
+Mali Vrh pri Prezganju 81
 Brezje pri Lipoglavu 81
 Anhovo 81
+Dobje pri Lesicnem 81
 Rajec 81
 Sedlo 81
+Predloka 69
+Presna Loka 73
+Ravno 80
+Drecji Vrh 80
+Zgornje Selce 80
+Vonarje 80
+Ohonica 80
+Bistra 80
+Dolnje Dobravice 80
+Lom 80
+Nemilje 80
+Spodnje Palovce 80
+Veliki Ban 80
+Strjanci 79
+Obrh 79
+Dolenje Radulje 79
+Dolenje Polje 67
+Konec 79
+Kerinov Grm 79
 Zadovinek 79
+Gora 79
+Pangrsica 79
+Prevole 79
+Doblar 79
+Dolenje Brdo 79
+Dolenje Lakovnice 79
+Srednje Laknice 32
+Grobisce 79
+Kopacnica 79
+Mali Otok 79
+Polje pri Bistrici 79
+Smednik 79
+Spodnja Javorsica 78
+Straza pri Oplotnici 78
+Vinski Vrh pri Smarju 78
+Preserje pri Lukovici 78
+Trebca Vas 78
+Limovce 78
 Osrecje 78
+Zgornje Mladetice 78
+Zamarkova 78
+Veliki Hrib 78
+Cerkvisce 78
+Primca Vas 78
+Jamnica 78
+Zgornji Tustanj 77
+Belavsek 77
+Dragovsek 73
+Kamni Potok 77
+Mala Pristava 77
+Pristavica 69
+Kloster 77
+Marijina Vas 77
+Govejk 77
+Dolenja Pirosica 77
+Kitni Vrh 77
+Koretno 77
+Pevno 77
 Sentgotard 77
+Srednji Gasteraj 77
+Strmec pri Leskovcu 77
+Telce 77
+Zavrc 77
+Smartinske Cirkovce 76
+Sela pri Dragatusu 76
+Vinje pri Moravcah 76
+Dolscaki 76
+Vodice pri Kalobju 76
+Godnje 76
+Bezovica 76
+Veliko Globoko 76
+Dol pri Trebnjem 76
+Cadraze 76
+Gradenc 76
+Gorenji Radenci 26
+Idrijska Bela 76
+Spodnje Gorce 76
+Tusev Dol 76
+Zgornja Breznica 76
+Breznik 26
+Mala Piresica 75
+Ledinica 75
+Strahovlje 75
+Zgornji Prhovec 75
+Zibiska Vas 75
+Sv. Ozbolt 75
+Grabsinci 75
+Sevno 75
+Koreno 75
+Valicna Vas 75
+Misace 75
+Gabrovlje 74
+Selo pri Vranskem 74
+Zvarulje 74
+Ljubstava 74
+Hrib pri Orehku 74
+Lomno 74
+Mlinsko 74
+Vrh pri Mlinsah 39
+Ajba 74
+Bojtina 74
+Podbela 74
+Podstenje 74
+Slope 74
+Veliki Nerajec 74
+Imenska Gorca 73
+Poljane pri Mirni Peci 73
+Vrhovo pri Mirni Peci 69
+Viselnica 73
+Kraberk 73
+Prezrenje 73
+Verdun 73
+Cuber 73
+Rupe 73
+Gradin 73
+Pozeg 73
+Psevo 73
+Zgornja Radovna 73
+Stangarske Poljane 72
+Raskovec 72
+Tomaz nad Vojnikom 72
+Gabrovec pri Kostrivnici 72
+Vrhpolje pri Sentvidu 72
+Sentjurje 72
+Sedlarjevo 72
+Idrijski Log 72
+Magozd 72
+Paradisce 72
+Ravne na Blokah 72
+Senadole 72
+Veliki Cirnik 72
+Preska pri Dobrnicu 71
+Loka pri Dobrni 36
+Hmeljcic 71
+Svetli Dol 71
+Papirnica 71
+Jerman Vrh 71
+Pirmane 9
+Pirce 15
+Skedenj 71
+Kosec 71
+Hoticna 71
+Murave 71
+Hobovse pri Stari Oselici 71
+Bobovo pri Ponikvi 71
+Knezja Vas 71
+Knezina 25
+Zgornja Sveca 70
+Zahomce 70
+Smaver 70
+Brezovica pri Metliki 70
+Bojanji Vrh 70
+Banuta 70
+Dobropolje 70
+Hinje 70
+Kalobje 70
+Runarsko 70
+Gradisce pri Trebnjem 69
+Korpule 69
+Kupetinci 69
+Strezetina 69
+Vanetina 54
+Podigrac 69
+Sela pri Otovcu 69
+Jelse pri Otoccu 54
 Dramlja 69
-Gomilci 65
+Gabrovec pri Dramljah 33
+Brezje pri Bojsnem 69
+Prikrnica 69
+Bloska Polica 69
+Zaloska Gorica 43
+Golac 69
+Prelasko 69
+Strelac 43
+Strejaci 57
+Podgorje pri Letusu 68
+Suhadol 68
+Skrovnik 68
+Nasirec 68
+Tolminski Lom 68
+Zaplana-Del 67
+Roje pri Catezu 67
+Dolenja Vas pri Catezu 59
+Liberga 67
+Palovice 67
+Gradnik 67
+Gradnje 28
+Laska Vas 67
+Gricek pri Zeljnah 67
+Razpotje 67
+Osredke 67
+Oklukova Gora 67
+Galusak 67
+Hrvaski Brod 67
+Lipica 67
+Log Cezsoski 67
+Podjelje 67
+Udje 59
+Kladje 59
+Preloze 67
+Pri Cerkvi-Struge 67
+Zgornja Rocica 67
+Gorenje Radulje 66
+Mali Hrib 66
+Leskovica pri Smartnem 66
+Samotorica 66
+Vesca 66
+Urh 66
+Majcni 66
+Pangrc Grm 66
+Ilovka 66
+Podlog 66
+Drevenik 66
+Dren 22
+Drenje 56
+Gorenji Maharovec 66
+Grabonoski Vrh 66
+Kovski Vrh 35
+Hrib pri Kamniku 66
+Krcevina 66
+Loncarovci 66
+Materija 66
+Socerga 66
+Brezovska Gora 65
+Studenec pri Krtini 65
+Rozanec 65
+Obcice 65
+Obcine 33
+Setarova 65
+Goreljce 65
+Dolga Njiva pri Sentlovren. 65
+Vrhovo pri Sentlovrencu 33
+Slavinje 65
+Dolnji Ajdovec 64
+Dobrovlje pri Mozirju 64
+Jugorje 64
+Borje 40
+Suhor pri Dol. Toplicah 64
+Polsina 64
+Trbinc 64
+Roce 64
+Blagus 64
+Vidovica 64
+Velike Gorelce 64
+Velike Vrhe 47
+Velike Vodenice 47
+Studenec na Blokah 64
+Gorenji Suhadol 64
+Goropeke 64
+Okrog pri Motniku 64
+Tatinec 64
+Tatre 47
+Topolovci 64
+Dombrava 63
+Drenik 63
+Spodnji Kocjan 63
+Skrblje 63
+Srednja Vas-Loski Potok 63
+Dolgo Brdo 63
+Planina pri Raki 63
+Cehovini 63
+Brezje pri Podplatu 63
+Cerkljanski Vrh 63
+Mali Osolnik 63
+Mali Jelnik 50
+Selnik 21
+Ravni 63
+Verdun pri Ursnih Selih 63
+Cerovec pri Cresnjevcu 62
+Vrhovci 62
+Spodnje Selce 62
+Nova Gora 62
+Goriska Gora 11
+Strug 62
+Cetez pri Strugah 61
+Jablaniske Laze 62
+Ravne pri Mlinsah 62
+Kamenik 62
+Tajhte 62
+Rajhenav 2
+Grusce 62
+Drusce 61
+Krusce 6
+Pusce 52
+Birna Vas 62
+Sv. Gregor 62
+Gregovce 58
+Kozji Vrh 62
+Kozjane 13
+Sela pri Zajcjem Vrhu 62
+Breg pri Sinjem Vrhu 2
+Brezje pri Vinjem Vrhu 17
+Povrsje 62
+Podhruska 62
+Grivce 62
+Bratonecice 62
+Kalise 62
+Gorenje Kalisce 5
+Bedenj 62
+Dane pri Divaci 62
+Glem 62
+Pogled 58
+Jesovec pri Smarju 62
+Jesovec 17
+Kozljek 62
+Kozljevec 27
+Masore 62
+Merece 62
+Navrski Vrh 62
+Gorski Vrh 13
+Sejanci 62
+Spodnje Tinsko 62
+Golek pri Vinici 61
+Meje 61
+Vareje 34
 Suho 61
-Hojce 17
+Mackovec pri Suhorju 8
+Suhorje 61
+Prilesje 61
+Macji Dol 61
+Kovacji Grad 13
+Dolnje Praprece 61
+Praprece pri Sentjerneju 61
+Strzisce 61
+Krzisce 53
+Srednik 61
+Pijavice 61
+Pijana Gora 13
+Dedna Gora 6
 Barbana 61
-Reparje 11
-Goreljek 7
+Bane 1
+Kladje pri Krmelju 61
+Brezovica pri Gradinu 61
+Brezovica pri Predgradu 48
+Blate 61
+Doblatina 48
+Blecji Vrh 61
+Talcji Vrh 27
+Zajcji Vrh 17
+Komendska Dobrava 61
+Mali Dol 61
 Mali Koren 34
-Korosce 2
-Plosovo 7
-Kapljisce 34
-Tisenpolj 2
-Topolovec 53
-Babna Polica 13
-Paha 54
-Kuzelj 53
-Dobovlje 34
-Bogo 8
-Rogati Hrib 2
-Hrusevka 49
-Zgornje Vetrno 53
-Sv. Tomaz 53
-Torka 2
-Lukanja 7
-Okljuka 13
-Ritmerk 53
-Korenitka 34
-Debeni 31
-Stravberk 31
-V Zideh 53
-Log v Bohinju 17
-Podmilj 53
-Podgric 53
-Radgonica 7
-Hribi 53
-Rigelj pri Ortneku 7
-Grgelj 2
-Hudi Graben 49
-Koludrje 49
-Mocvirje 49
-Ledinske Krnice 53
-Truske 53
+Mali Konec 31
+Ojstri Vrh 61
+Podlog pod Bohorjem 61
+Rakovec 61
+Ravne pri Smartnem 61
+Belsak 60
+Goriska Vas pri Skocjanu 60
+Jurjevski Dol 60
+Stranska Vas pri Semicu 60
+Sveti Andrej 60
+Brodnice 60
+Oslica 60
+Dolenje Jesenice 60
+Kancevci 60
+Sobrace 60
+Trebese 60
+Kal pri Krmelju 59
+Vesela Gora 59
+Fara 59
+Krivoglavice 59
+Mikote 59
+Koti 19
+Logje 59
+Rozice 59
+Smuka 59
+Stjak 59
+Malence 58
+Dornice 58
+Lekmarje 58
+Dolenje Podpoljane 58
+Poznica 58
+Poznikovo 21
+Klenovo 58
+Nozed 58
+Zasavci 58
+Zasap 56
+Telcice 57
+Iglenik pri Veliki Loki 57
+Podkocna 57
+Vinharje 57
+Vrhovska Vas 57
+Matavun 57
+Dolenje Laknice 56
+Podgorica pri Pecah 56
+Kocjan 56
+Jercin 56
+Serjuce 56
+Novelo 56
+Vrh Sv. Treh Kraljev 56
+Vidanovci 56
+Brstovnica 56
+Goli Vrh 56
+Jerinov Gric 56
+Trckov Gric 43
+Vitna Vas 56
+Dolenje Selce 56
+Potok pri Muljavi 56
+Balkovci 55
+Opalkovo 27
+Riharjevec 55
+Zabjek v Podbocju 55
+Brezje v Podbocju 49
+Planina v Podbocju 31
+Zalisec 55
+Sec 6
+Zasadi 55
+Gajsevci 55
+Ivanjsevci 37
+Sv. Trije Kralji v Slov. Gor. 55
+Zabrekve 55
+Zabava 55
+Veliki Videm 55
+Omota 55
+Pecelj 55
+Male Pece 13
+Slivno 55
+Podslivnica 31
+Sidol 55
+Vidosici 27
+Radosi 8
+Medvedica 55
 Medija 53
-Robidisce 11
-Podloz 53
+Naredi 11
+Gorenja Vas pri Polici 55
+Mihelja Vas 55
+Gorica pri Raztezu 55
+Zagorica pri Catezu 34
+Planinski Vrh 55
+Brezje pri Lekmarju 55
+Cabrace 55
+Desinec 55
+Dolnje Retje 55
+Logarsce 55
+Logarji 31
+Vrh nad Krasnjo 55
+Laze nad Krko 34
+Laze pri Kostelu 13
+Zapuze pri Kostelu 6
+Lipovec pri Kostelu 2
+Selo pri Kostelu 2
+Selce nad Blanco 54
+Dolgo Brdo pri Mlinsah 54
+Srobotnik pri Vel. Lascah 54
+Klada 54
+Hrusevec 54
+Vrbovce 54
+Pavla Vas 54
+Pristavlja Vas 48
+Paha 54
+Cilpah 43
+Selo pri Pancah 54
+Selo pri Zagorici 33
+Potok pri Vacah 54
+Povceno 54
+Slinovce 41
+Prilesje pri Plavah 54
+Radanja Vas 54
+Rodmosci 54
+Azenski Vrh 54
+Malenski Vrh 48
+Gornji Kot 54
+Kramarovci 54
+Lipovsica 54
+Mali Locnik 54
+Mozjanca 54
+Paroz 54
+Praprot 54
+Praprotnica 43
+Kuzelj 53
+Zlogona Vas 53
+Pogonik 8
+Zgornje Vetrno 53
+Trno 52
+Bukov Vrh nad Visokim 53
+Polajna 53
+Spodnje Vetrno 53
+Sv. Tomaz 53
+Breznica pod Lubnikom 53
+Ritmerk 53
+Dragovica 53
+Grm pri Podzemlju 53
+V Zideh 53
+Podmilj 53
+Hribi 53
+Hribarjevo 23
+Rudnik pri Radomljah 53
+Skrjance 53
+Ledinske Krnice 53
+Strmec pri Polensaku 53
+Strmec pri Destrniku 40
+Snezece 53
+Snovik 53
+Rovte v Selski Dolini 53
 Rozenpelj 53
+Tisenpolj 2
+Spodnja Sveca 53
+Topolovec 53
+Truske 53
+Zajelsje 53
+Jelsevica 4
+Malo Globoko 52
+Sencak 52
+Lozina 52
+Vavpca Vas pri Dobrnicu 52
+Zadrze 52
+Planinca 52
+Trscina 52
+Brezovec pri Rogatcu 52
+Celine 52
+Stranska Vas ob Visnjici 52
+Starod 52
+Podobeno 52
+Gorenje Selce 52
+Hrastnik pri Trojanah 52
+Janski Vrh 52
+Kilovce 52
+Silovec 50
+Kvasica 52
+Preserje pri Komnu 52
+Sela pri Hinjah 52
+Vrh pri Hinjah 40
+Hrib pri Hinjah 22
+Vremski Britof 52
+Nemska Gora 23
+Gorenjci pri Adlesicih 51
+Zunici 51
+Beli Gric 51
+Kovaski Vrh 51
 Gozdec 51
+Praproce pri Temenici 51
+Potiskavec 51
+Velika Lahinja 51
+Dolenja Vas pri Crnomlju 51
+Boldraz 51
+Sidraz 44
+Borovec pri Kocevski Reki 51
+Kobilscak 51
+Mali Korinj 51
+Malo Ubeljsko 51
+Sredisce 51
+Stara Susica 51
+Spodnja Jablanica 50
+Ornuska Vas 50
+Breznica pri Zireh 50
+Volcje Njive 50
+Dalnje Njive 21
+Spodnji Prekar 50
+Trnov Hrib 50
+Zece pri Bucah 50
+Laze pri Vacah 36
+Gruca 50
+Dolenji Globodol 50
+Dolenji Vrh 29
+Gornja Bitnja 50
+Gornje Orle 50
+Dolnje Orle 25
+Polom 50
+Vernek 50
+Moverna Vas 29
+Vrabce 50
+Zadlaz-Zabce 36
+Zelebej 49
+Zeleznica 27
+Zelezne Dveri 49
+Sirje 49
+Sirci 48
+Krzeti 49
+Podpec ob Dravinji 49
+Korplje 49
+Replje 37
+Koludrje 49
+Krupa 49
+Cepno 49
+Gabrje pod Limbarsko Goro 49
+Gabrje pri Ilovi Gori 11
+Gabrje pri Soteski 31
+Melise 49
+Podlisec 27
+Vodisko 49
+Gabrno 49
+Stebljevek 49
+Velike Kompolje 49
+Hrusevka 49
+Jazbine 49
+Mali Orehek 49
+Mocvirje 49
+Pokojnica 49
+Sela pri Visnji Gori 49
+Mala Loka pri Visnji Gori 34
+Spodnji Vrsnik 49
+Stehanja Vas 49
+Mali Podljuben 48
+Praproce pri Grosupljem 48
+Lipovec pri Skofji Vasi 48
+Kuzarjev Kal 48
+Crneska Gora 48
+Rozic Vrh 48
+Perudina 48
+Rudnica 27
+Postena Vas 48
+Zavrhek 48
+Zavrate 27
+Ravnje 48
+Crnolica 48
+Ogulin 48
+Maline 22
+Gorenje Mokro Polje 48
+Hrastenice 48
+Male Brusnice 48
+Sentozbolt 48
+Paka-Del 47
+Brezovec-Del 9
+Spodnje Mladetice 47
+Gorenje Brezovo 47
+Orkljevec 47
+Skemljevec 21
+Hudenje 47
+Zalog pod Ursulo 47
+Kocki Vrh 47
+Petelinjek pri Locah 47
+Ostrozno pri Locah 15
+Kolacno 47
+Planjsko 47
+Zlatenek 47
+Prusnja Vas 47
+Cretez pri Krskem 47
+Ukanje 47
+Zagorica pri Rovah 47
+Bizeljska Vas 47
+Zavrsje 47
+Cadrg 46
+Beli Potok pri Frankolovem 46
+Razbore-Del 46
+Male Dole pri Stehanji Vasi 46
+Golobinjek pri Planini 46
+Polhovica 46
+Kalisovec 46
+Kozlovici 46
+Divci 46
+Sad 46
+Podgorica pri Podtaboru 46
+Lom nad Volco 46
+Sodevci 46
+Brdice pri Neblem 46
+Brdice pri Kozbani 19
+Zgornji Prekar 46
+Celevec 46
+Crngrob 46
+Gorenje Kamenje pri Dobrnicu 46
+Gorenji Log 46
+Gornje Lezece 46
+Labor 46
+Male Grahovse 46
 Mali Nerajec 46
 Mavrlen 46
+Metulje 46
+Tuljaki 10
+Roznik 46
+Sveti Vid 46
+Gric pri Klevevzu 45
 Kukmaka 45
 Kuk 30
+Pluska 45
+Gorenji Vrh pri Dobrnicu 45
+Zavodice 45
+Kal pri Dolah 45
+Topolovo 45
+Kodreti 45
+Stranje pri Velikem Gabru 45
+Apnenik pri Velikem Trnu 30
+Vrcice 45
+Suhor 44
+Repus 44
+Cretvez 44
 Kolk 44
+Strletje 44
+Lesniski Vrh 44
+Katarija 44
+Zabja Vas 44
+Mala Hubajnica 44
+Nove Lozine 44
+Pordasinci 44
+Apnenik pri Bostanju 43
+Apnenik 33
+Zabreznik 43
+Dolenji Podborst pri Treb. 43
+Stajngrob 43
+Brezje pod Nanosom 43
+Mali Trn 43
+Lisjaki 43
+Velka 43
+Kremenca 43
+Butari 43
+Onek 43
+Renke 43
 Rut 43
-Udmat 42
+Stope 43
+Bruna Vas 42
+Rovisce 42
+Karlovica 42
+Karlce 9
+Preclava 42
+Senozete 42
+Gornji Ajdovec 42
+Zgornja Backova 42
+Ponkvica 42
+Praprotno Brdo 42
+Radkovec 41
+Breg pri Temenici 41
+Komarnica 41
+Studeno na Blokah 41
+Studena Gora 33
+Unise 41
+Stajerska Vas 41
+Ravnace 41
+Sitez 41
+Osredek pri Trski Gori 41
+Kamni Vrh pri Ambrusu 41
+Mislice 41
+Kosovelje 41
+Kutinci 41
+Temljine 41
+Velika Goba 41
+Koglo 40
+Most 40
+Dobrava pri Kostanjevici 40
+Businec 40
+Cenkova 40
+Jelenk 29
+Jelenja Vas 23
+Straza pri Novi Cerkvi 40
+Podhojni Hrib 40
+Beli Potok pri Lembergu 40
+Jazbin Vrh 40
+Novi Grad 40
+Novi Vrh 22
+Brezje pri Raki 40
+Tolcane 40
+Volcanski Ruti 15
+Plesko 40
+Zakobiljek 40
+Jankovici 40
+Banja Loka 40
+Borje pri Mlinsah 40
+Brezova Reber 40
+Cetena Ravan 40
+Gornje Dobravice 40
+Jamnik 40
+Libusnje 40
+Mihovec 40
+Radlek 40
+Sajevce 40
+Mevce 29
+Skamevec 9
+Zgornje Palovce 40
+Zlato Polje 40
+Brezovica v Podbocju 39
+Janhova 39
+Gombisce 39
+Belsinja Vas 39
+Podpulfrca 39
+Penoje 39
+Dunaj 39
+Sela pri Sobracah 39
+Kozbana 39
+Malo Crnelo 39
+Nizevec 39
+Gorenji Lazi 38
+Pristava ob Krki 38
+Jagodnik 38
+Zafara 38
+Kracali 38
+Stare Zage 38
+Dragomilo 38
+Razguri 38
+Zihovo Selo 38
+Bitice 38
+Kuretno 38
+Velike Loce 38
+Zagrad pri Otoccu 38
+Cepulje 38
+Javorovica 38
+Brdarci 38
+Cezlak 38
+Zlan 12
+Gorenje Mrasevo 38
+Dolnje Mrasevo 29
+Gorenje Otave 38
+Gracnica 38
+Kamenica 38
+Pokojisce 38
+Malo Lesce 37
+Straza pri Krskem 37
+Cemse 37
+Mala Gora 37
+Zelce 37
+Hujbar 37
+Ucak 37
+Obrse 37
+Povlje 37
+Stanovisce 37
+Pecnik 37
+Belica 37
+Brestje 37
+Tlaka 37
+Rubije 37
+Gornji Kriz 37
+Vrh pri Krizu 35
+Mlake 37
+Klake 31
+Rake 1
+Ravne nad Sentrupertom 37
+Torovo 36
+Selo pri Robu 36
+Selo pri Radohovi Vasi 36
+Hrustovo 36
 Petane 36
-Pecki 9
-Polsece 9
+Avsa 36
+Vranja Pec 36
+Mlaka nad Luso 36
+Selo nad Polhovim Gradcem 36
+Gornji Suhor pri Vinici 36
+Male Vodenice 36
+Orlaka 36
+Mali Videm 35
+Jerovska Vas 35
+Boricevo 35
+Godicevo 5
+Robidni Breg 35
+Selo nad Laskim 35
+Jastrebnik 35
+Lepena 35
+Tisovec 35
+Troscine 35
+Vukovci 34
+Paunovici 34
+Sinovica 13
+Klanec pri Gabrovki 34
+Dol pri Smarjeti 34
 Lovnik 34
-Sumnik 31
+Pikovnik 11
 Jordankal 34
+Dolenji Podborst 34
+Gorenji Podborst pri V. Loki 17
+Rakova Steza 34
+Korenitka 34
+Zakraj 34
+Skrajnek 8
+Sentjakob 34
+Jeperjek 34
+Peracica 34
+Kapljisce 34
+Dol pri Stopercah 34
+Podbukovje pri Vacah 34
+Lescevje 34
+Dobovlje 34
+Gabrovnica 34
+Brje pri Koprivi 34
+Hrib pri Koprivniku 1
+Hrib pri Fari 6
+Gorice pri Famljah 34
+Jugorje pri Metliki 34
+Krsinji Vrh 34
+Dolnji Vrh 31
+Spodnje Roje 34
+Tublje pri Komnu 34
+Utovlje 34
+Podsmreka pri Visnji Gori 33
+Ribjek 33
+Nemska Vas na Blokah 33
+Krusni Vrh 33
+Voglajna 33
+Podpec nad Marofom 33
+Spodnji Jernej 33
+Hudi Konec 33
+Pretrz 33
+Skofce 33
+Zablje 33
+Podjelse 33
+Gradiscak 33
+Lepence 33
+Gabrje pod Spilkom 33
+Zadlaz-Cadrg 33
+Dvori 33
+Gradisce-K. O. St. Lovrenc 33
+Ratecevo Brdo 33
+Zadnja Vas 32
+Opale 32
+Velika Raven 32
+Tomazini 32
+Drobocnik 32
+Zvabovo 32
+Lohaca 32
+Rajnovsce 32
+Iglenik 32
+Krizate 32
+Jelenska Reber 32
+Cirkuse 32
+Dol pri Laskem 32
+Ortnice 32
+Potok v Crni 32
+Pirsevo 32
+Velike Rebrce 32
+Krnice pri Novakih 32
+Damelj 32
+Glina 32
+Gorenje Kronovo 32
+Mackovec 32
+Skadanscina 32
+Zajcje Polje 32
 Purga 31
-Breznik 26
-Juncje 26
-Mrzli Log 25
-Bela Pec 23
-Vrhovo pri Zuzemberku 23
-Fabci 17
-Boginja Vas 16
-Bogensperk 3
-Izvir 16
-Ortnek 16
-Srednje Pijavsko 16
-Strmec na Predelu 16
-Podstene pri Kostelu 3
-Skufce 11
-Dalce 7
+Gornja Paka 31
+Poljane pri Zuzemberku 31
+Poljane pri Stjaku 6
+Gradisce pri Stjaku 2
+Gradisce pri Raki 1
+Skrlovica 31
+Borovec pri Karlovici 8
+Mrzla Luza 31
+Hinjce 31
+Hojce 17
+Bukovica pri Litiji 31
+Svetinja 31
+Benecija 31
 Benete 11
+Sveti Florijan nad Skofjo Loko 31
+Drumlazno 31
+Nozno 31
+Gradiski Dol 31
+Gradisica 27
+Stravberk 31
+Sela pri Stravberku 5
+Prilozje 31
+Podplanina 31
+Sitarovci 31
+Sumnik 31
+Njivica 31
+Koromaci-Boskini 31
+Kocarji 31
+Crni Vrh v Tuhinju 31
+Velike Dole pri Temenici 31
+Male Dole pri Temenici 27
+Soze 31
+Zgornje Duplice 31
+Debeni 31
+Filipcje Brdo 31
+Nemska Loka 31
+Zgornji Kocjan 30
+Selce pri Moravcah 30
+Male Rebrce 30
+Avgustine 30
+Mihelca 30
+Sv. Petra Hrib 30
+Pozirno 30
+Sotensko pod Kalobjem 30
+Dolnje Impolje 30
+Ledinsko Razpotje 30
+Primskovo 30
+Debece 30
+Krn 30
+Misji Dol 30
+Smecice 30
+Spodnje Duplice 29
+Lisec 29
+Mali Cerovec 29
+Petrinci 29
+Primstal 29
+Rakovnik pri Bircni Vasi 29
+Jevscek 29
+Vir pri Nevljah 29
+Bosljiva Loka 29
+Grmada 29
+Knezja Njiva 29
+Mrse 29
+Grivac 28
+Srednji Radenci 28
+Vrh pri Trebelnem 28
+Jezce 28
+Bavdek 28
+Mackovec pri Skocjanu 28
+Lunovec 28
+Zglavnica 28
+Kobile 28
+Ivandol 28
+Ivanjse 14
+Sovinja Pec 28
+Bela Pec 23
+Breg pri Golem Brdu 28
+Macki 28
+Dolenji Podsumberk 28
+Gradicek 28
+Kljucevica 28
+Nova Sela 28
+Trava 28
+Travna Gora 12
+Veliki Rakitovec 28
+Razbore-K. O. Jezni Vrh 27
+Koblek 27
+Migolska Gora 27
+Hrase pri Preddvoru 27
+Javorje pri Blagovici 27
+Brslenovica 27
+Preveg 27
+Ardro pod Velikim Trnom 27
+Fijeroga 27
+Laze pri Domzalah 27
+Crni Potok pri Dragi 27
+Dolenje Otave 27
+Siroka Set 27
+Urslja Gora 27
+Sloka Gora 8
+Brezec pri Divaci 26
+Lokve pri Dobrnicu 26
+Brezovica pri Zlatem Polju 26
+Poljane pri Primskovem 26
+Celovnik 26
+Juncje 26
+Steske 26
+Spodnji Petelinjek 26
+Magolnik 26
+Boltija 26
+Cresnjice nad Pijavskim 26
+Mala Lahinja 26
+Slavce 26
+Gornji Ig 26
+Janezevo Brdo 26
+Jezerca 26
+Mala Strmica 26
+Mali Ban 26
+Maline pri Strekljevcu 26
+Nemci 26
+Obloke 26
+Rogatec nad Zelimljami 26
+Veliki Jelnik 25
+Podgora pri Zlatem Polju 25
+Osojnica 25
+Sodji Vrh 25
+Crni Potok pri Vel. Lascah 25
+Melanjski Vrh 25
+Papezi 25
+Krasnji Vrh 25
+Brlog 25
+Lavtarski Vrh 25
+Dolanci 25
+Zagora 25
+Smrecje v Crni 25
+Kristandol 25
+Zagrajec 25
+Jagrsce 25
+Mala Goba 25
+Vrh pri Fari 25
+Vrh pri Dolskem 21
+Sela pri Zburah 24
+Sejenice 24
+Krkovo nad Faro 24
+Lovranovo 24
+Jersanovo 24
+Spital 24
+Purkace 24
+Drca 24
+Nestoplja Vas 24
+Perati 24
+Tucna 24
+Huda Polica 24
+Jarcje Brdo 24
+Lesnjake 24
+Bocaji 24
+Cajnarje 24
+Dolnji Kriz 24
+Meja 24
+Podgrad pri Vremah 24
+Veliki Rigelj 24
+Vrh pri Sobracah 24
+Gorenje Podpoljane 23
+Visnji Grm 23
+Mali Kum 23
+Jakicevo 23
+Vrtace 23
+Zavrtace 23
+Meglenik 23
+Konusko 23
+Prezigal 23
+Briga 15
+Zrnova 23
+Osolnik 23
+Rozar 23
+Pozarje 14
+Grintovec pri Osilnici 23
+Trtnik 23
+Vrhovo pri Zuzemberku 23
+Gornje Impolje 22
+Prazniki 22
+Podsmreka pri Velikih Lascah 22
+Cebine 22
+Daber 22
+Moskrin 22
+Crnec 22
+Lozec 22
+Zirovse 22
+Borovak pri Polsniku 22
+Plazovje 22
+Zubejevo 22
+Boga Vas 22
+Sipek 22
+Dolenje Grcevje 22
+Gornje Retje 22
+Hudi Log 22
+Smohor 22
+Strukljeva Vas 22
+Zabavlje 22
+Tehovec 21
+Cresnjevec pri Ostrcu 21
+Hiteno 21
+Kozmerice 21
+Cucja Mlaka 21
+Tratna ob Voglajni 21
+Brezje pri Slov. Bistrici 21
+Laze pri Gobniku 21
+Izgorje 21
+Gorenji Podsumberk 21
+Rudnik pri Moravcah 20
+Krmacina 20
+Premagovce 20
+Breg pri Zagradcu 20
+Scit 20
+Korpe 20
+Prezenjske Njive 20
+Trobelno 20
+Baca pri Podbrdu 20
+Liplje 20
+Podzaga 20
+Rakulik 20
+Vimolj pri Predgradu 19
+Milici 19
+Berinjak 19
+Padovo pri Osilnici 19
+Socerb 19
+Kamno Brdo 19
+Hude Ravne 19
+Srednje Arto 19
+Blatnik pri Crmosnjicah 19
+Gorenji Mokronog 18
+Pugled pri Mokronogu 16
+Pugled pri Karlovici 4
+Krkovo pri Karlovici 14
+Mala Sevnica 18
+Laseno 18
+Mulhe 18
+Jezni Vrh 18
+Uzmani 18
+Dednik 18
+Vadice 18
+Gornja Stara Vas 18
+Zgornje Slemene 18
+Sveta Gora 18
+Klance 18
+Paljevo 18
+Trnovica 18
+Zalci 18
+Podplece 18
+Mahneti 18
+Creta pri Kokarjah 18
+Koboli 18
+Jarse 18
+Laze pri Gorenjem Jezeru 18
+Pusti Javor 18
+Robidnica 18
+Tosko Celo 18
+Novo Celje 10
+Gorenja Vas pri Mokronogu 17
+Zgornji Petelinjek 17
+Perniki 17
+Zagric 17
+Lazina 17
+Brinovscica 17
+Dobrava pod Rako 17
+Ostrovica 17
+Tavzlje 17
+Jersice 17
+Log v Bohinju 17
+Zupeno 17
+Grant 17
+Nova Oselica 17
+Abitanti 16
+Galantici 14
+Mala Goricica 12
+Podkogelj 16
+Osredek pri Hubajnici 16
+Sela pri Vrcicah 16
+Vintarji 16
+Centa 12
+Silentabor 9
+Krnce 16
+Boginja Vas 16
+Sirmanski Hrib 16
+Krzisce pri Catezu 16
+Brglez 16
+Pugled 14
+Zabrez 16
+Livske Ravne 16
+Gorenje Nekovo 16
+Pristava nad Sticno 16
+Slamniki 16
+Perisce 16
+Dolenje Kamenje pri Dobrnicu 16
+Gornji Vrh 16
+Izvir 16
+Mlaka pri Kocevski Reki 16
+Srednje Pijavsko 16
+Oskrt 15
+Krtinovica 9
+Kaptol 15
+Mramorovo pri Pajkovem 15
+Bockovo 15
+Povodje 15
+Mohorje 15
+Golusnik 15
+Vranke 15
+Cipnje 15
+Rejcov Gric 15
+Javorjev Dol 15
+Gornje Ravne 15
+Radovna 15
+Stara Gora pri Vel.Gabru 14
+Jaksici 14
+Skrabce 14
+Muhabran 14
+Dolgi Laz 14
+Ruhna Vas 14
+Spitalic pri Slov. Konjicah 14
+Zadniki 14
+Bezgarji 14
+Vovse 14
+Stepani 14
+Bratnice 14
+Orehek pri Materiji 14
+Unicno 14
+Speharji 14
+Mocile 14
+Milava 14
+Dolenja Ravan 14
+Luzarji 14
+Zadolje 14
+Dole pod Sv. Trojico 13
+Podstrm 13
+Podstenice 4
+Podstenjsek 12
+Janezi 13
+Podporezen 13
+Prhajevo 13
+Kneske Ravne 13
+Tolminske Ravne 11
+Grcarske Ravne 13
+Kregolisce 13
+Trebnji Vrh 13
+Travni Dol 13
+Okljuka 13
+Kocno 13
+Paka pri Predgradu 13
+Poljane pri Podgradu 6
+Pavlica 13
+Slugovo 13
+Babna Polica 13
+Dolnja Briga 13
+Gornja Briga 7
+Gorenja Ravan 13
+Sovra 13
+Zala 13
+Zastava 13
+Cedem 12
+Zerjavin 12
+Brezovica pri Medvodah 12
+Prvine 12
+Pisari 12
+Kralji 12
+Bakrc 12
+Kostel 12
+Kanji Dol 12
+Lepi Vrh 12
+Trebizani 12
+Senadolice 11
+Skufce 11
+Sleme 11
+Srnjak 11
+Arcelca 11
 Zlati Rep 11
+Pusti Hrib 11
+Rogati Hrib 2
+Dobrovscak 11
+Bozic Vrh 11
+Poljane nad Blagovico 11
+Berinjek 11
+Ljubez v Lazih 11
+Trebelno pri Palovcah 11
+Jelovica 11
+Betanja 11
+Reparje 11
+Bec 11
+Sibelji 11
+Osredek nad Sticno 11
+Dolenje Poljane 11
+Robidisce 11
+Sapnik 11
+Slapnik 1
+Stankovo 11
+Porezen 10
+Kot pri Damlju 10
+Kot pri Veliki Slevici 10
+Pristava pod Rako 10
+Grc Vrh 10
+Gotenc 10
+Scurki 10
+Adamovo 10
+Loje 10
+Hrib pri Cerovcu 10
+Zukovo 10
+Perovo 10
+Zurge 10
+Strmo Rebro 10
+Nova Vas pri Jelsanah 10
+Sekirisce 10
+Veckoti 10
+Brezje pri Kumpolju 10
+Brezje pri Roznem Dolu 10
+Gorenje Grcevje 10
+Grudnica 10
+Todraz 10
+Jablaniski Potok 9
+Krizmani 9
+Pecki 9
+Gric pri Trebnjem 9
+Bukovec pri Poljanah 9
+Gorenje Jelenje 9
+Sela nad Podmelcem 9
+Seki 9
+Rakov Skocjan 9
+Klemencevo 9
 Ajbelj 9
 Beka 9
+Zgornji Cacic 9
+Vrtaca 8
+Vrt 1
+Andrejcje 8
+Nanos 8
+Nose 8
+Bogo 8
+Znojile pri Studencu 8
+Levstiki 8
+Skofi 8
+Rudolfovo 8
+Dolenja Podgora 8
+Zgonce 8
+Petrina 7
+Sela pri Ajdovcu 7
+Poden 7
+Kramplje 7
+Plosovo 7
 Stanise 7
-Finkovo 4
-Cohovo 4
+Rigelj pri Ortneku 7
+Gaspinovo 7
+Sveta Ana pri Lozu 7
+Dalce 7
+Spodnja Bilpa 7
+Obolno 7
+Pristavo 7
+Goreljek 7
+Lukanja 7
+Radgonica 7
+Ravna 6
+Zagomila 6
+Hribljane 6
 Zahrib 4
+Vrhovje 6
+Brezovk 6
+Makose 6
+Novi Pot 6
+Padovo pri Fari 5
+Mavrc 5
+Storovo 5
+Valterski Vrh 5
+Frluga 5
+Dedni Vrh 5
+Selce pri Speharjih 5
+Sveta Trojica 5
+Zabrdo 5
+Malinisce 4
+Betonovo 4
+Stajer 4
+Rajsele 4
+Mramorovo pri Luzarjih 4
+Kladnart 4
+Finkovo 4
+Stari Grad v Podbocju 4
+Cohovo 4
+Gradisko 4
+Nadrozica 4
+Staro Brezje 4
 Karli 3
+Bogensperk 3
+Kotel 3
 Druzina 3
 Husica 3
+Kot pri Rakitnici 3
+Sokolici 3
+Velika Planina 3
 Koscake 3
 Belvedur 3
+Kacji Potok 3
+Podstene pri Kostelu 3
 Vimolj 2
+Jesenov Vrt 2
+Grgelj 2
+Delac 2
+Torka 2
+Polzelo 2
+Kot ob Kolpi 2
+Srobotnik ob Kolpi 1
+Korosce 2
+Gotenica 2
+Srednji Potok 1
+Gorenji Potok 1
+Rogla 1
+Hrib pri Roznem Dolu 1
+Brezec pri Podgorju 1
+Decina 1
+Komarna Vas 1
+Spodnji Cacic 1

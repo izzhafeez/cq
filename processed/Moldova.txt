@@ -1,83 +1,83 @@
 
 
 Chisinau 635994
-Hincesti 16900
-Stauceni 5700
-Anenii Noi 8250
-Chitcani 9000
-Causeni 21690
-Ialoveni 14915
-Ustia 3295
-Maiac 1500
 Singera 7200
-Straseni 19225
-Telenesti 6633
-Floresti 16759
-Glodeni 10146
-Ocnita 9325
-Biruinta 4700
-Rezina 9806
-Criuleni 6932
-Butuceni 239
-Bucovat 1600
-Vadul lui Voda 5300
-Varnita 4000
-Dubasari 23254
-Cricova 7400
-Hryhoriopol 9456
-
-Orhei 24918
-Cocieri 4151
-Ciorescu 6870
 
 Tiraspol 157000
-Crasnoe 4200
-Pervomaisc 7300
-Basarabeasca 10809
 Tiraspolul Nou 2200
+Crasnoe 4200
 
 Balti 125000
-Soldanesti 6160
-
-Soroca 27423
-Riscani 12893
-Briceni 14132
-Bilicenii Vechi 15479
-Nisporeni 11718
-
-Ungheni 34422
-Singerei 14600
-Ghindesti 2100
-Drochia 16080
-Mindresti 9280
-Marculesti 2400
 Falesti 14377
-Calarasi 14066
-Vatra 3800
+Marculesti 2400
 
 Bender 110175
 
 Ribnita 55455
 
 Cahul 34492
-Visniovca 1800
-Cimislia 12464
-Iargara 5600
-Comrat 22911
-Taraclia 13512
-Bugeac 1800
-Ceadir-Lunga 22700
-Stefan Voda 7700
-Edinet 22872
-Slobozia 15356
 Vulcanesti 14352
-Dancu 10000
-Cantemir 3829
-Leova 14301
-Tvardita 5800
-Camenca 11072
-Dnestrovsc 10426
-Donduseni 9435
-Otaci 8400
-Giurgiulesti 3074
+
+Ungheni 34422
+Nisporeni 11718
+
+Soroca 27423
+Ocnita 9325
+
+Orhei 24918
+Dubasari 23254
 Saharna 2365
+Comrat 22911
+Vatra 3800
+Bucovat 1600
+Cricova 7400
+Edinet 22872
+Telenesti 6633
+Ceadir-Lunga 22700
+Causeni 21690
+Straseni 19225
+Hincesti 16900
+Floresti 16759
+Mindresti 9280
+Ghindesti 2100
+Drochia 16080
+Bilicenii Vechi 15479
+Slobozia 15356
+Ialoveni 14915
+Singerei 14600
+Leova 14301
+Briceni 14132
+Calarasi 14066
+Taraclia 13512
+Cimislia 12464
+Riscani 12893
+Camenca 11072
+Basarabeasca 10809
+Dnestrovsc 10426
+Glodeni 10146
+Dancu 10000
+Rezina 9806
+Hryhoriopol 9456
+Donduseni 9435
+Chitcani 9000
+Otaci 8400
+Anenii Noi 8250
+Stefan Voda 7700
+Vadul lui Voda 5300
+Pervomaisc 7300
+Maiac 1500
+Criuleni 6932
+Ciorescu 6870
+Soldanesti 6160
+Tvardita 5800
+Varnita 4000
+Stauceni 5700
+Butuceni 239
+Iargara 5600
+Biruinta 4700
+Cocieri 4151
+Cantemir 3829
+Ustia 3295
+Giurgiulesti 3074
+Visniovca 1800
+Bugeac 1800

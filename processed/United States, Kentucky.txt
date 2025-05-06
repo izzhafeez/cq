@@ -1,0 +1,614 @@
+
+
+Louisville 633045
+Louisa 2679
+
+Lexington 322570
+
+Covington 40961
+
+Bowling Green 72294
+
+Owensboro 60183
+
+Georgetown 37086
+Morgantown 2505
+Uniontown 929
+
+Jeffersontown 28474
+
+Richmond 34585
+Monticello 5753
+
+Florence 31946
+
+Lawrenceburg 11728
+
+Elizabethtown 31394
+
+Middletown 9706
+
+Middlesboro 9405
+North Middletown 610
+
+Hopkinsville 31180
+Jenkins 1902
+
+Nicholasville 31093
+Fordsville 446
+
+Independence 28676
+Crittenden 4023
+
+Frankfort 28602
+Eubank 313
+
+Henderson 27981
+
+Paducah 27137
+Audubon Park 1433
+Watterson Park 1004
+South Park View 0
+South Shore 1066
+South Williamson 562
+South Wallins 838
+
+Radcliff 23042
+
+Ashland 21625
+Highland Heights 6662
+Fort Wright 5851
+Fort Knox 7742
+
+Fort Thomas 17438
+
+Fort Mitchell 8702
+
+Erlanger 19611
+
+La Grange 10067
+La Center 872
+Centertown 416
+Breckinridge Center 1282
+
+Madisonville 19542
+
+Winchester 19134
+
+Mount Washington 18090
+Mount Sterling 7558
+Mount Olivet 347
+
+St. Matthews 17534
+
+Burlington 17318
+
+Murray 17307
+
+Shelbyville 17282
+
+Shepherdsville 14201
+
+Danville 17234
+Annville 1102
+
+Shively 15636
+
+Berea 15539
+
+Elsmere 9159
+
+Somerset 11924
+Horse Cave 2212
+
+Glasgow 15014
+Douglass Hills 5456
+Villa Hills 7310
+
+Newport 14150
+
+Bardstown 13567
+
+Fort Campbell North 12825
+
+Campbellsville 11426
+Belleview 308
+Bellevue 5548
+
+Lyndon 11008
+London 7572
+
+Versailles 10347
+Salyersville 1591
+Taylorsville 1256
+Taylor Mill 6873
+
+Alexandria 10341
+
+Franklin 10176
+
+Paris 10171
+
+Mayfield 10017
+
+Francisville 9952
+
+Oakbrook 9268
+Oakland 198
+
+Harrodsburg 9064
+
+Maysville 8873
+
+Hillview 8622
+Russellville 7164
+
+Edgewood 8435
+
+Oak Grove 7931
+
+Corbin 7856
+Corinth 226
+Concord 19
+Corydon 737
+Pikeville 7754
+Pineville 1678
+Booneville 168
+Union 7416
+Marion 2916
+Flatwoods 7325
+Flat Lick 850
+Salt Lick 247
+Morehead 7151
+Livermore 1230
+Vine Grove 6559
+Leitchfield 6404
+Warfield 264
+Cynthiana 6333
+Lebanon 6274
+Princeton 6270
+Cold Spring 6216
+Hebron 6195
+Hebron Estates 1014
+Meadowview Estates 178
+Crestwood 6183
+Wilmore 5999
+Falmouth 2216
+Central City 5819
+Buckner 5785
+Dayton 5666
+Walton 5460
+Williamsburg 5326
+Hazard 5263
+Hazel 390
+Hazel Green 173
+Columbia 4845
+Cumberland 1947
+Hendron 4774
+Benton 4756
+Hurstbourne 4683
+Massac 4635
+Prospect 4592
+Reidland 4526
+Greenville 4492
+Hodgenville 3235
+Kenvir 204
+Ironville 782
+Hustonville 387
+Masonville 2129
+Westwood (Boyd County) 4387
+Fairview (Kenton County) 144
+Fairview 258
+Adairville 837
+Ludlow 4385
+Hollow Creek 799
+Farley 4374
+Crescent Springs 4319
+Paintsville 4312
+Knottsville 183
+Scottsville 4299
+Lancaster 3899
+Foster 44
+Manchester 1512
+Williamstown 3894
+Jamestown 1867
+Carrollton 3890
+Carrsville 48
+Grayson 3834
+Gratz 67
+Russell 3744
+Moseleyville 470
+Prestonsburg 3681
+Prestonville 171
+Southgate 3648
+Stanford 3640
+Munfordville 1686
+Blandville 73
+Beaver Dam 3531
+Morganfield 3256
+Stanton 3251
+Crestview Hills 3246
+Barbourville 3222
+Melbourne 458
+West Liberty 3215
+Wilder 3176
+Park Hills 3162
+Rineyville 3039
+Hardyville 155
+Claryville 2992
+Perryville 782
+Berry 250
+Simpsonville 2990
+Flemingsburg 2953
+Brandenburg 2894
+Sanders 197
+Providence 2892
+Indian Hills 2860
+Worthington Hills 1563
+Graymoor-Devondale 2853
+Strathmoor Manor 351
+Springfield 2846
+Lakeside Park 2841
+Drakesboro 481
+Russell Springs 2715
+Dawson Springs 2452
+Eminence 2705
+Fleming-Neon 548
+Pioneer Village 2671
+Brownsboro Village 308
+Brownsville 875
+Hartford 2668
+Cadiz 2540
+Elizaville 190
+Allensville 175
+Calvert City 2514
+Park City 614
+Anchorage 2500
+Lynch 658
+Brooks 2469
+Mount Vernon 2453
+Pleasant View 326
+Glenview 596
+Glencoe 350
+Windy Hills 2427
+Hardinsburg 2385
+Eddyville 2375
+Hickman 2365
+Irvine 2360
+Fulton 2357
+Cave City 2356
+Raceland 2343
+Lovelaceville 124
+Kevil 595
+Hiseville 246
+Tompkinsville 2309
+Doe Valley 2270
+Junction City 2268
+Elkhorn City 1035
+Jackson 2237
+Thruston 2234
+Greensburg 2179
+Greenup 1095
+Beattyville 2176
+Dry Ridge 2102
+Carlisle 2093
+Arlington 264
+Elkton 2056
+Onton 138
+Liberty 2028
+Elk Creek 1986
+Wallins Creek 212
+Sorgho 1972
+Hurstbourne Acres 1957
+Ledbetter 1836
+Catlettsburg 1780
+Willisburg 300
+Harlan 1776
+Whitesburg 1773
+Whitesville 580
+Lewisport 1767
+Westport 253
+Rockport 262
+Warsaw 1761
+Kuttawa 629
+Cawood 630
+Bellewood 340
+Norwood 379
+Albany 1760
+Bancroft 503
+Crofton 653
+Lebanon Junction 1746
+Plantation 826
+Sturgis 1735
+North Corbin 1727
+Midway 1718
+Wayland 389
+Ryland Heights 922
+Lakeview Heights 277
+Jeffersonville 1708
+Jeff 293
+Owenton 1682
+Edmonton 1671
+Beechmont 776
+Coal Run Village 1669
+Parkway Village 623
+Owingsville 1593
+Auburn 1589
+Pewee Valley 1588
+Mockingbird Valley 175
+Water Valley 235
+Olive Hill 1580
+Sebree 1574
+Bremen 172
+Sacramento 429
+Verona 1545
+Dover 221
+Orchard Grass Hills 1536
+Worthington 1501
+St. Regis Park 1438
+Vanceburg 1428
+Burgin 979
+Burkesville 1388
+Pine Knot 1380
+West Buechel 1370
+Stearns 1365
+Guthrie 1330
+Coldstream 1295
+Beechwood Village 1280
+Strathmoor Village 684
+Earlington 1257
+Irvington 1231
+Plano 1223
+Clinton 1222
+Barbourmeade 1216
+Heritage Creek 1209
+Clay City 1193
+Whitley City 968
+Silver Grove 1154
+Smiths Grove 752
+Cloverport 1119
+Brodhead 1117
+Wheatcroft 105
+Cleaton 168
+Augusta 1096
+Muldraugh 1040
+Clay 1031
+Clarkson 933
+Hawesville 1023
+West Louisville 40
+Camargo 1020
+Gamaliel 391
+Philpot 991
+Poplar Hills 380
+Northfield 991
+Wurtland 983
+Moorland 433
+Nortonville 977
+Bloomfield 961
+West Point 952
+West Van Lear 768
+Woodlawn Park 947
+Woodland Hills 736
+Lynnview 945
+Rolling Hills 934
+Dixon 933
+Hardin 580
+Bellefonte 920
+Bellemeade 909
+Van Lear 893
+Goshen 892
+Ferguson 886
+Westwood (Jefferson County) 571
+New Castle 884
+Langdon Place 870
+Pembroke 865
+Cannonsburg 862
+Evarts 859
+McRoberts 741
+Fincastle 848
+Campbellsburg 836
+White Plains 829
+East Bernstadt 809
+McKee 803
+Blackey 109
+New Haven 798
+Blue Ridge Manor 791
+Powderly 788
+Stamping Ground 780
+Pleasureville 779
+Phelps 760
+Hanson 758
+Lewisburg 748
+Millersburg 747
+Crab Orchard 744
+Garrison 731
+McCarr 158
+South Carrollton 141
+Meadow Vale 730
+Kenton Vale 105
+Mortons Gap 728
+Calhoun 725
+Fountain Run 216
+Bromley 724
+Loretto 723
+Salem 722
+Dwale 239
+Rolling Fields 720
+Auxier 715
+Bardwell 714
+Green Spring 711
+Plum Springs 497
+Upton 704
+Hindman 701
+Burnside 694
+Spring Valley 675
+Seneca Gardens 674
+Wickliffe 670
+McDowell 661
+Lowes 92
+Science Hill 657
+Brooksville 654
+Barlow 653
+Betsy Layne 651
+Crayne 161
+Butler 646
+Sandy Hook 641
+Brownsboro Farm 640
+Loyall 638
+Symsonia 622
+Fredonia 372
+Frenchburg 601
+Milton 590
+Millstone 92
+Pleasant Ridge 578
+Cecilia 575
+Wingo 573
+Ewing 228
+Buffalo 571
+River Bluff 436
+Riverwood 492
+Ravenna 568
+Waverly 311
+Sonora 565
+Murray Hill 565
+Wellington 564
+Summersville 551
+Inez 546
+Rosine 110
+Magnolia 535
+Caneyville 529
+Bedford 526
+Hollyvilla 518
+Martin 513
+Sparta 236
+Benham 512
+Cunningham 272
+Wheelwright 509
+Petersburg 500
+Houston Acres 492
+Mayking 475
+Pippa Passes 468
+Artemus 453
+Crestview 452
+Robards 449
+Briarwood 445
+Chaplin 440
+Fox Chase 436
+Forest Hills 438
+Yelvington 437
+Norbourne Estates 437
+Island 429
+Emlyn 417
+Richlawn 415
+Woodlawn 212
+Salvisa 410
+Diablock 409
+Rockholds 330
+Maceo 404
+Fancy Farm 403
+Kingsley 397
+Livingston 166
+Glenview Hills 377
+Old Brownsboro Place 376
+McHenry 369
+Big Clifty 367
+Sharpsburg 365
+Ghent 363
+Poole 354
+Payne Gap 347
+Grand Rivers 345
+Ages 345
+Combs 339
+Gilbertsville 332
+Vicco 327
+Trenton 326
+Pathfork 326
+Hunters Hollow 324
+Dunmor 322
+Sycamore 166
+Campton 316
+Sadieville 320
+Stanley 309
+Creekside 305
+Manor Creek 240
+Goose Creek 303
+Woodburn 303
+Hyden 303
+Cerulean 303
+Druid Hills 299
+Utica 298
+Freeburn 296
+Summer Shade 294
+Spring Mill 294
+Beech Grove 282
+Wildwood 281
+Sedalia 279
+Virgie 274
+Spottsville 274
+St. Charles 273
+Bradfordsville 270
+Bonnieville 269
+High Bridge 268
+Cambridge 162
+Belfry 263
+Pryorsburg 262
+Dexter 257
+Rabbit Hash 254
+Boston 253
+Mays Lick 252
+Broeck Pointe 245
+Ten Broeck 99
+Farmers 243
+Farmington 234
+Smithland 240
+Oneida 238
+Marrowbone 147
+Hickory 235
+Hickory Hill 119
+Maytown 227
+Anthoston 225
+Coldiron 222
+Crossgate 221
+Burna 219
+Mentor 218
+Nebo 211
+Ezel 209
+Mackville 207
+Glenview Manor 206
+McKinney 201
+Slaughters 190
+Thornhill 185
+Maryhill Estates 185
+Arjay 183
+Allen 182
+Worthville 181
+LaFayette 177
+Bandana 177
+Coxton 176
+Ekron 175
+Manitou 173
+Germantown 146
+Raywick 155
+Hills and Dales 146
+Panther 144
+Columbus 140
+New Hope 139
+St. Mary 138
+Lincolnshire 137
+Smithfield 124
+Cayce 119
+Dycusburg 26
+Fairfield 118
+Meadowbrook Farm 117
+Gracey 117
+Rochester 114
+Monterey 112
+St. Joseph 110
+Keene 99
+Curdsville 94
+Buckhorn 89
+California 83
+Tolu 81
+Woodbury 80
+Blaine 66
+Sardis 60

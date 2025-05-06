@@ -1,0 +1,881 @@
+
+
+Melbourne 4196198
+
+Geelong 157104
+
+Ballarat 93759
+
+Ararat 8297
+
+Lara 16355
+
+Bendigo 92379
+
+Melton 54456
+
+Pakenham 46421
+Trentham 1180
+
+Shepparton 46199
+Shepparton East 1138
+Wandin East 431
+Kialla East 137
+Kialla West 431
+Kinglake West 1166
+Kinglake 1536
+
+Frankston 36097
+
+Mildura 35598
+
+Tatura 4448
+Tatong 287
+
+Wodonga 35130
+Tongala 1926
+Mangalore 182
+
+Sunbury 34425
+
+Warrnambool 30709
+Dimboola 1730
+
+Dandenong 29906
+Wandong 1340
+
+Traralgon 25485
+Yarragon 1650
+Yarram 2135
+
+Mount Eliza 17888
+Mount Egerton 582
+
+Wangaratta 17377
+Tallangatta 1082
+Tangambalanga 542
+Nangana 44
+
+Warragul 15757
+
+Horsham 14543
+Swan Marsh 121
+
+Bacchus Marsh 6394
+Macclesfield 851
+Garfield 1786
+Heyfield 1993
+Nutfield 152
+
+Ocean Grove 14165
+
+Echuca 14043
+
+Morwell 13771
+
+Sale 13673
+
+Healesville 7461
+Lyonville 175
+
+Torquay 13258
+Torrita 32
+
+Drouin 12349
+Kangaroo Ground 1095
+Tallarook 736
+
+Benalla 10330
+
+Hamilton 9974
+Bolton 12
+
+Swan Hill 9864
+
+Portland 9712
+Portsea 510
+
+Wollert 9060
+Toolleen 182
+Toolamba 769
+Goorambat 297
+
+Colac 9048
+Lake Bolac 330
+
+Gisborne 8999
+Carisbrook 1115
+
+Moe 8778
+
+Wallan 8504
+Ballan 2985
+Balliang 290
+
+Rye 8416
+
+Kilmore 7958
+Elmore 776
+
+Mooroopna 7942
+Tallygaroopna 579
+Mooroopna North 123
+Yabba North 101
+
+Yarrawonga 7930
+Tawonga 574
+
+Maryborough 7921
+
+Bairnsdale 7580
+
+Clifton Springs 7519
+Hepburn Springs 329
+
+Kyabram 7331
+Cobram East 242
+
+Cobram 6014
+
+Kyneton 6951
+
+Kialla 6817
+
+Newborough 6763
+
+Castlemaine 6757
+Clematis 350
+
+Seymour 6327
+Yallourn 144
+
+Lakes Entrance 6071
+
+Woodend 5806
+Raywood 318
+
+Emerald 5778
+
+Stawell 5736
+Powelltown 217
+Tragowel 104
+
+Leongatha 5654
+St Leonards 2480
+
+Whittlesea 5611
+Little River 1322
+
+Inverloch 5437
+Inverleigh 1474
+
+Irymple 5325
+
+Bannockburn 5283
+Rockbank 1536
+
+Maffra 5280
+
+Red Cliffs 5060
+
+Wonthaggi 4965
+
+Cowes 4839
+Wesburn 1019
+
+Mansfield 4787
+
+Churchill 4783
+
+Numurkah 4477
+Porepunkah 941
+Puckapunyal 1078
+Muckatah 213
+
+Cockatoo 4256
+
+Korumburra 4469
+
+Romsey 4412
+
+Broadford 4319
+Euroa 3275
+
+Drysdale 4275
+Scarsdale 744
+Teesdale 1721
+Smythesdale 1032
+
+Trafalgar 3912
+Falls Creek 293
+
+Riddells Creek 3753
+Campbells Creek 1786
+
+Kerang 3893
+
+Barwon Heads 3875
+Panton Hill 1062
+Red Hill 924
+Red Hill South 603
+Neerim South 1305
+Woorinen South 356
+
+Beechworth 3859
+Rushworth 1335
+
+Pearcedale 3821
+
+Buninyong 3714
+
+Jan Juc 3683
+Portarlington 3619
+Wallington 1364
+Paynesville 3480
+Marysville 394
+Hurstbridge 3450
+Camperdown 3369
+Gordon 1151
+Port Fairy 3340
+Port Campbell 478
+Tyabb 3338
+Myrtleford 3193
+Creswick 3170
+Mickleham 3142
+Muckleford 405
+Rochester 3113
+Miners Rest 3095
+Robinvale 3088
+Orrvale 438
+Woori Yallock 2913
+Yarra Glen 2869
+Beaconsfield Upper 2861
+Heathcote 2793
+Heathcote Junction 839
+Yarra Junction 2549
+Merbein 2713
+Merbein South 405
+Alexandra 2695
+Katandra West 476
+Point Lonsdale 2684
+Boisdale 275
+Stratford 2617
+Strathmerton 941
+Strathbogie 304
+Daylesford 2548
+Batesford 952
+Anglesea 2545
+Bunyip 2468
+Lancefield 2455
+Cohuna 2428
+Bright 2406
+Merrigum 679
+Launching Place 2394
+Rutherglen 2378
+Bruthen 814
+Gembrook 2350
+Warracknabeal 2340
+Beveridge 2330
+Newbridge 192
+Terang 2288
+Balnarring 2270
+Balnarring Beach 418
+Mirboo North 2197
+St Arnaud 2193
+Maude 223
+Koroit 2055
+Macedon 2040
+Maldon 1513
+Donald 1498
+Orbost 2014
+Peterborough 247
+Underbool 215
+Yundool 44
+Mundoona 119
+Warburton 2012
+East Warburton 864
+Longwarry 2004
+Winchelsea 1954
+Nagambie 1886
+Nathalia 1880
+Nhill 1872
+Foster 1842
+Cobden 1839
+Cobrico 80
+Yackandandah 1811
+Clunes 1728
+Heywood 1726
+Cape Woolamai 1676
+Cape Bridgewater 150
+Cottles Bridge 601
+Casterton 1668
+Castella 268
+Somers 1667
+Anderson 28
+Wy Yung 1657
+Metung 1449
+Rosedale 1654
+Millgrove 1653
+Willow Grove 590
+Chiltern 1605
+Apollo Bay 1598
+Baynton 107
+Warrenbayne 145
+Yea 1587
+Lang Lang 1585
+Tooradin 1568
+Badger Creek 1563
+Axe Creek 352
+Nichols Point 1551
+Devon Meadows 1548
+Beaufort 1539
+Nyora 1527
+Allansford 1521
+Fyansford 196
+Marong 1416
+Mortlake 1372
+Corryong 1348
+Corop 129
+Corinella 791
+Corindhap 132
+Mount Macedon 1335
+Queenscliff 1315
+Chewton 1313
+Patchewollock 133
+Watchem 114
+Leitchville 558
+Haven 1304
+Ovens 219
+Ensay 109
+Wensleydale 107
+Apsley 277
+San Remo 1254
+Blind Bight 1251
+Flinders 905
+Mount Dandenong 1251
+Silvan 1246
+St Andrews 1226
+Newstead 754
+Eden Park 1204
+Hopetoun Park 798
+Timboon 1202
+Haddon 1194
+Avoca 1193
+Ouyen 1191
+Indented Head 1133
+Lorne 1114
+Wurruk 1112
+Wahgunyah 1098
+Kergunyah 215
+Eagle Point 1094
+Briagolong 1081
+Moliagul 88
+Mallacoota 1063
+Sassafras 1061
+Charlton 1050
+Avenel 1048
+Shepparton North 1033
+Coleraine 1029
+Lethbridge 1014
+Rossbridge 32
+Nar Nar Goon 1012
+Nar Nar Goon North 727
+Katunga 996
+Tungamah 408
+Koondrook 991
+Kooloonong 39
+Goornong 654
+Toongabbie 989
+Lake Boga 985
+Lake Rowan 66
+Glenrowan 963
+Chum Creek 983
+Steels Creek 225
+Eildon 974
+Boolarra 973
+Gruyere 946
+Tyers 824
+Edenhope 946
+Venus Bay 944
+Harcourt 943
+Yinnar 907
+Johanna 63
+Barnawartha 904
+Bunbartha 276
+Gunbower 551
+Flowerdale 689
+Dunolly 893
+Cape Paterson 891
+St Andrews Beach 889
+Violet Town 874
+Boort 873
+Murtoa 865
+Inglewood 855
+Longwood 240
+Avonsleigh 852
+Grantville 831
+Granya 99
+Malmsbury 831
+Stanhope 828
+Birregurra 828
+Birchip 702
+Fish Creek 827
+Mount Beauty 824
+Cardross 821
+Lockington 808
+Eddington 96
+Kaniva 803
+Axedale 802
+Aireys Inlet 802
+Seville East 797
+Coronet Bay 791
+Meredith 788
+Connewarre 788
+Moriac 782
+Meeniyan 771
+Yanakie 251
+Anakie 690
+Darnum 751
+Hopetoun 739
+Newlands Arm 728
+Yinnar South 691
+Rainbow 683
+Elaine 228
+Toora 681
+Wedderburn 680
+Dunkeld 678
+Bulla 675
+Warrandyte South 671
+Nyah West 663
+Pyalong 660
+Cannons Creek 647
+Poowong 643
+Sea Lake 640
+Loch 638
+Matlock 4
+Wycheproof 635
+Oxley 631
+Stanley 364
+Congupna 628
+Penshurst 622
+Shoreham 608
+Greendale 602
+Milawa 587
+Skipton 586
+Dalyston 583
+Linton 580
+Maryknoll 577
+Don Valley 576
+Korong Vale 168
+Bushfield 571
+Bonnie Doon 570
+Simpson 569
+Glenthompson 232
+Glenloth 6
+Rhyll 568
+Girgarre 561
+Pyramid Hill 558
+Elphinstone 555
+Merrijig 549
+Kerrie 81
+Berringa 167
+Yering 115
+Yarroweyah 548
+Sedgwick 546
+Enfield 538
+Warneet 536
+Rupanyup 536
+Tylden 535
+Golden Gully 211
+Yellingbo 534
+Willaura 530
+Nullawil 93
+Nyah 530
+Minyip 524
+Natimuk 514
+Werrimull 112
+Brim 171
+Mannerim 88
+Bannerton 40
+Arthurs Creek 496
+Buxton 492
+Merton 190
+Cabarita 488
+Carina 22
+Ardmona 487
+Jeparit 477
+Lal Lal 476
+Thorpdale 471
+Bethanga 471
+Bayles 461
+Wandiligong 453
+Shelbourne 452
+Marlo 451
+Newhaven 449
+Taradale 448
+Faraday 158
+Tolmie 447
+Dhurringile 445
+Moyhu 445
+Talbot 442
+Lalbert 151
+Bringalbert 12
+Undera 442
+Learmonth 438
+Barmah 282
+Lake Marmal 21
+Halls Gap 430
+Beulah 429
+Molyullah 131
+Coongulla 183
+Bundalong 428
+Allendale 166
+Waggarandall 40
+Newry 427
+Merricks North 426
+Woolsthorpe 422
+Lismore 420
+Main Ridge 416
+Derrinallum 415
+Glenburn 415
+Omeo 406
+Homebush 36
+Myrniong 404
+Darraweit Guim 402
+Tarrawingee 370
+Katamatite 401
+Great Western 400
+Kilcunda 396
+Lancaster 393
+Waaia 390
+Glenlyon 389
+Newmerella 389
+Narrawong 387
+Eldorado 385
+Daisy Hill 385
+Whorouly 376
+Cardinia 376
+Wimbledon Heights 373
+Gherang 370
+Dederang 167
+Bellbridge 370
+Beeac 370
+Smiths Gully 369
+Cowwarr 368
+Kirkstall 366
+Koorlong 366
+Woodside 364
+Woods Point 37
+Fish Point 15
+Bass 359
+Cassilis 29
+Tarwin Lower 358
+Labertouche 356
+Christmas Hills 355
+Tuerong 354
+Acheron 171
+Branxholme 351
+Foxhow 19
+Gowanford 3
+Moyston 348
+Springhurst 348
+Toolangi 344
+Nilma 342
+Harrietville 338
+Baddaginnie 338
+Addington 71
+Darlington 107
+Wunghnu 334
+Nurcoung 40
+Dixons Creek 334
+Noorat 333
+Guildford 333
+Welshpool 331
+Port Welshpool 209
+Port Albert 293
+Colignan 329
+Dookie 328
+Taggerty 328
+Johnsonville 327
+Carlsruhe 327
+Bridgewater On Loddon 326
+Seaspray 322
+Seaton 157
+Pheasant Creek 322
+Dartmoor 322
+Gormandale 321
+Clarkefield 320
+Allans Flat 318
+Tooborac 310
+Manangatang 309
+Yendon 307
+Humevale 307
+Colbinabbin 304
+Jamieson 301
+Nelson 190
+Rawson 296
+Trawool 108
+Blackwood 295
+Woodstock 150
+Balmoral 294
+Alma 201
+Almurta 48
+Stony Creek 281
+Murrayville 280
+Torrumbarry 279
+Tinamba 277
+Cocamba 4
+Glenmaggie 277
+Waubra 275
+Buffalo 272
+Ruffy 112
+Purnim 270
+Bungaree 269
+Yambuk 267
+Sherbrooke 265
+Alberton 262
+Alberton West 81
+Cudgewa 261
+Piangil 259
+Cowangie 36
+Scotsburn 258
+Ceres 254
+Forrest 230
+Beech Forest 82
+Merino 253
+Quambatook 249
+Amphitheatre 248
+Lemnos 246
+Dunnstown 244
+Garvoc 243
+Cora Lynn 243
+Mount Buller 243
+Pine Lodge 241
+Redesdale 240
+Dooen 240
+Lauriston 236
+Buchan 236
+Lexton 231
+Cheshunt 231
+Smeaton 231
+Dinner Plain 230
+Fryerstown 228
+Wangoom 226
+Smiths Beach 226
+Sebastian 217
+Rokewood 217
+Arcadia 217
+Majorca 211
+Whitfield 215
+Yapeen 213
+Tyrendarra 212
+Maindample 212
+Lamplough 61
+Blampied 212
+Silverleaves 211
+Tresco 209
+Picola 207
+Yalca 206
+Dingee 206
+Bealiba 206
+Killarney 205
+Everton 203
+Murrabit 201
+Woomelang 201
+Harrow 200
+Neerim 200
+Warrion 198
+Devenish 197
+Bolinda 197
+Ninda 14
+Cann River 194
+Nowa Nowa 194
+Serpentine 192
+Erica 191
+Wallace 187
+Metcalfe 185
+Caldermeade 183
+Adelaide Lead 81
+Pimpinio 184
+Berriwillock 184
+Elmhurst 183
+Dewhurst 164
+Rokeby 180
+Strathewen 178
+Strath Creek 164
+Laanecoorie 177
+Walwa 177
+Trawalla 141
+Kingston 177
+Harston 174
+Cressy 175
+Ultima 174
+Mount Burnett 173
+Mitta Mitta 171
+Woorndoo 169
+Donnybrook 169
+Yarck 168
+Wilby 166
+Dalmore 163
+Walpeup 158
+Noojee 157
+Gheringhap 155
+Valencia Creek 152
+Benambra 149
+Balliang East 147
+Bearii 145
+Tatura East 143
+Hexham 143
+Tol Tol 142
+Murchison East 135
+Port Franklin 134
+Jack River 134
+Tarnagulla 133
+Sutton Grange 132
+St James 132
+Boundary Bend 132
+Bendoc 115
+Alvie 132
+Barwon Downs 131
+Tatyoon 130
+Bells Beach 130
+Newlyn 128
+Iraak 128
+Allestree 128
+Thoona 127
+Jumbunna 127
+Cape Clear 125
+Digby 124
+Marnoo 122
+Athlone 122
+Netherby 120
+Dean 120
+Serviceton 120
+Walkerville 84
+Kalkee 52
+Mitiamo 117
+Mittyack 14
+Tittybong 3
+Brucknell 116
+Marungi 111
+Wemen 111
+Sawmill Settlement 88
+Maroona 110
+Winton 108
+Murrindindi 107
+Kotupna 105
+Kalkallo 105
+Kalpienung 28
+Dartmouth 104
+Buangor 103
+Carrajung 102
+Culgoa 101
+Dargo 99
+Staughton Vale 98
+Navarre 98
+Natte Yallock 94
+Lascelles 93
+Moorabool 90
+Moolort 32
+Crowlands 89
+Armstrong 88
+Barfold 88
+Yielima 87
+Wood Wood 85
+Kaarimba 85
+Yaapeet 84
+Ancona 84
+Maffra West Upper 82
+Limestone 82
+Brimpaen 79
+Stuart Mill 79
+Pier Milan 8
+Tarrawarra 78
+Speed 78
+Lavers Hill 78
+Tremont 77
+Durham Ox 74
+Monomeith 72
+Molesworth 72
+Carwarp 70
+Cullulleraine 69
+Meringur 67
+Fumina South 67
+Panitya 65
+Amherst 65
+Antwerp 63
+Wye River 63
+Kiata 62
+Bathumi 62
+Benayeo 61
+Henty 60
+Tintaldra 60
+Youanmite 59
+Cosgrove South 58
+Timor 58
+Upotipotpon 57
+Tempy 57
+Agnes 57
+Genoa 55
+Steiglitz 53
+Gymbowen 52
+Codrington 52
+Watsons Creek 51
+Bung Bong 51
+Buckrabanyule 51
+Bushy Park 50
+Kewell 48
+Waitchie 48
+Arnold 47
+Koo Wee Rup North 44
+Boweya North 43
+Barkly 43
+Barkstead 42
+Drumanure 41
+Kennett River 41
+Nandaly 39
+Tabor 39
+Rythdale 38
+Major Plains 37
+Kunat 36
+Eastern View 35
+Areegra 35
+Chinkapook 32
+Coonooer Bridge 31
+Hattah 28
+Goschen 27
+Lower Moira 25
+Cathkin 25
+Annuello 25
+Telford 24
+Reedy Dam 24
+Nyarrin 24
+Fentons Creek 24
+Dumosa 24
+Burramine South 24
+Joel Joel 22
+Koetong 20
+Archies Creek 22
+Anglers Rest 21
+Tutye 20
+Meatian 20
+Walhalla 20
+Dunneworthy 19
+Tambo Crossing 17
+Kulwin 15
+Tanjil Bren 14
+Mywee 14
+Boinka 13
+Crymelon 11
+Licola 11
+Thalia 10
+Pira 10
+Linga 10
+Gaffneys Creek 10
+Willenabrina 9
+Morton Plains 9
+Esmond 9
+Dooboobetic 9
+Bael Bael 8
+Boigbeat 8
+Chillingollah 5

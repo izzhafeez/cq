@@ -1,0 +1,529 @@
+
+
+Portland 68408
+
+Poland 5906
+
+Lewiston 37121
+Stonington 1056
+
+Bangor 31753
+
+Lebanon 6469
+
+South Portland 26498
+South Paris 2183
+
+Paris 5179
+Damariscotta 1193
+
+Auburn 24061
+
+Turner 5817
+
+Biddeford 22552
+
+Sanford 21982
+
+Westbrook 20400
+
+Saco 20381
+Acton 2671
+
+Augusta 18899
+
+Windham 18434
+
+Brunswick 17033
+Berwick 2277
+
+South Berwick 7467
+
+Waterville 15828
+
+York 13723
+York Harbor 3132
+Bar Harbor 2260
+
+Wells 11314
+Lowell 368
+
+Orono 10185
+
+Lisbon 9711
+Lisbon Falls 4182
+
+Brewer 9672
+
+Cape Elizabeth 9535
+Bethel 2504
+
+Old Orchard Beach 8960
+Charleston 1551
+
+Presque Isle 8797
+Chebeague Island 396
+Swans Island 355
+Cousins Island 528
+
+Bath 8766
+
+Ellsworth 8399
+
+Buxton 8376
+Easton 1320
+
+Waterboro 7936
+
+Gorham 7469
+
+Old Town 7431
+Georgetown 1058
+Pownal 1566
+
+Caribou 7396
+
+Scarborough 5846
+
+Belfast 6938
+Belgrade 3250
+
+Rockland 6936
+Oakland 2536
+
+Eliot 6717
+South Eliot 3719
+
+Topsham 6623
+
+Hermon 6461
+Harmony 825
+
+Skowhegan 6404
+Lake Arrowhead 3192
+
+Yarmouth 6125
+Monmouth 4066
+
+Gardiner 5961
+
+Kennebunk 5776
+
+New Gloucester 5676
+
+Winslow 5318
+
+North Windham 5274
+North Haven 417
+Northport 1550
+Northfield 178
+Marshfield 528
+Parsonsfield 1791
+Otisfield 1853
+Otis 673
+
+Sabattus 5044
+Carrabassett Valley 673
+Wiscasset 1232
+Castine 1014
+Castle Hill 373
+
+Harpswell 5031
+
+Kittery 4973
+Warren 4865
+Hollis 4745
+Chisholm 1343
+Houlton 4743
+Glenburn 4648
+Edinburg 134
+Fryeburg 1444
+Newburgh 1595
+Phippsburg 2155
+Sidney 4645
+Jay 4620
+South Sanford 4536
+Raymond 4536
+Plymouth 1325
+Lyman 4525
+Chapman 491
+Manchester 2456
+Vassalboro 4520
+Vanceboro 102
+Hampden 4516
+Holden 3277
+Stockholm 250
+China 4408
+Greene 4376
+Freeport 1700
+Porter 1600
+Rumford 4298
+Arundel 4264
+Peru 1488
+Durham 4173
+Farmington 4168
+Limington 3892
+Orrington 3812
+Millinocket 4104
+North Yarmouth 4072
+Falmouth 1988
+Falmouth Foreside 1554
+Camden 3850
+West Gardiner 3671
+Weston 245
+Westfield 455
+Weld 376
+Rockport 3644
+Litchfield 3586
+Springvale 3292
+Limerick 3188
+Bowdoin 3136
+Kittery Point 1009
+Calais 3079
+Blaine 250
+Lamoine 1720
+Alfred 3073
+Woolwich 3068
+Richmond 1810
+Cape Neddick 3037
+Beddington 60
+Boothbay 3003
+Levant 2940
+Canton 1125
+Trenton 1584
+Shapleigh 2921
+Corinth 2900
+Pittston 2875
+Carmel 2867
+Bristol 2834
+Bucksport 2832
+Pittsfield 2822
+Madawaska 2797
+Chelsea 2778
+Searsport 999
+Machiasport 962
+Dover-Foxcroft 2776
+Minot 2766
+Cumberland Center 2739
+Benton 2715
+Norway 2696
+Lincoln 2667
+Winthrop 2666
+Windsor 2632
+Fairfield 2616
+Readfield 2597
+Newfield 1648
+Enfield 1435
+Brownfield 1631
+Brownville 1139
+Cornville 1317
+St. George 2594
+Hallowell 2570
+Jefferson 2551
+Amherst 248
+Madison 2533
+Addison 1148
+Hancock 2466
+Harrison 2447
+Fort Kent 2413
+Whitefield 2408
+Whiting 482
+Union 2383
+Lincolnville 2312
+Leeds 2262
+Mechanic Falls 2257
+Little Falls 863
+Mexico 2234
+Exeter 963
+Chester 549
+Chesterville 1328
+Orland 2221
+Corinna 2221
+Milford 2211
+Guilford 740
+Medford 230
+Bradford 1184
+Eddington 2194
+Wellington 229
+Deer Isle 2194
+Canaan 2193
+New Canada 310
+Mount Desert 2146
+Mount Vernon 1721
+Dayton 2129
+Livermore 2127
+Livermore Falls 1540
+Island Falls 758
+Steep Falls 1223
+Bridgton 2118
+Milbridge 1375
+Dexter 2093
+Dunstan 2083
+Wilton 2071
+Alton 829
+St. Albans 2045
+St. Francis 438
+Albion 2006
+Farmingdale 2000
+Palermo 1570
+Buckfield 1983
+Oakfield 661
+Palmyra 1924
+Sebago 1911
+West Bath 1910
+Southwest Harbor 740
+Northeast Harbor 370
+Thomaston 1836
+Veazie 1814
+Lovell 1104
+Hanover 286
+Andover 752
+Van Buren 1809
+Nobleboro 1791
+West Paris 1766
+Milo 1751
+East Millinocket 1560
+Randolph 1743
+Rangeley 1222
+Dresden 1725
+Sweden 406
+Caswell 293
+North Berwick 1721
+Gouldsboro 1703
+Hope 1698
+Newport 1690
+Fort Fairfield 1666
+Dedham 1648
+Surry 1632
+Roxbury 361
+Hiram 1609
+Wales 1608
+Waltham 332
+Waldo 795
+Washington 1592
+Cushing 1502
+Ogunquit 1577
+Waterford 1570
+Franklin 1567
+Tremont 1544
+Bremen 823
+Embden 902
+Pembroke 788
+Brooklin 827
+Stockton Springs 1533
+Springfield 293
+Bradley 1532
+Baldwin 1520
+South Thomaston 1511
+Cornish 1508
+Osborn 65
+Islesboro 583
+Owls Head 1504
+Howland 947
+New Sharon 1458
+New Vineyard 721
+Machias 1457
+Greenbush 1444
+Hudson 1416
+Monson 609
+Anson 680
+Appleton 1411
+Searsmont 1400
+Dixmont 1211
+Montville 1020
+Clinton 1386
+Clifton 840
+Swanville 1377
+Winterport 1355
+Woodstock 1352
+Woodland 853
+Norridgewock 1351
+Cambridge 443
+Kenduskeag 1346
+East Machias 1326
+Dixfield 1323
+Baileyville 1318
+Whitneyville 202
+Stacyville 380
+Sangerville 1306
+Waldoboro 1300
+Oxford 1294
+Hodgdon 1290
+Eastport 1288
+Vinalhaven 1279
+Kennebunkport 1264
+West Kennebunk 1191
+Jonesport 1245
+Frankfort 1231
+Etna 1226
+Hebron 1223
+Sullivan 1219
+South Windham 1215
+Hartford 1203
+Hartland 756
+New Portland 765
+Sedgwick 1202
+Denmark 1197
+Parkman 747
+Edgecomb 1188
+Medway 1187
+Stetson 1186
+Fayette 1160
+Rome 1148
+Friendship 1142
+Orient 156
+Penobscot 1136
+Wayne 1129
+Steuben 1129
+South Bristol 1127
+Strong 1122
+Cherryfield 1107
+Burnham 1096
+Frenchville 1052
+Garland 1026
+Troy 1018
+Greenville 1010
+Brooks 1010
+Littleton 997
+Mapleton 623
+Sumner 994
+Solon 978
+Belmont 976
+Morrill 971
+Blue Hill 963
+Phillips 898
+Harrington 962
+Kingfield 960
+Athens 952
+St. Agatha 730
+Linneus 947
+Winn 399
+Washburn 937
+Brooksville 935
+Eastbrook 424
+Liberty 934
+Monroe 931
+Smithfield 925
+Lee 916
+Gray 887
+Lagrange 635
+Detroit 885
+Patten 881
+Charlotte 337
+Limestone 874
+Stoneham 261
+Boothbay Harbor 872
+Mars Hill 818
+Sherman 815
+Hersey 73
+Knox 811
+Perry 802
+Industry 788
+Jackman 782
+Jackson 610
+Thorndike 774
+Greenwood 774
+Princeton 745
+Monticello 737
+Kezar Falls 736
+Bowdoinham 734
+Westport Island 719
+Bingham 716
+Hamlin 166
+Perham 371
+Freedom 711
+Alna 710
+Mercer 709
+Somerville 600
+Prospect 698
+Sebec 665
+Newcastle 660
+Abbot 650
+Eustis 641
+Ashland 639
+Southport 622
+Mattawamkeag 596
+Starks 593
+Danforth 587
+Casco 582
+Jonesboro 579
+Vienna 578
+Brunswick Station 578
+New Sweden 577
+New Limerick 574
+Eagle Lake 553
+Portage Lake 359
+Robbinston 539
+Bridgewater 532
+Temple 527
+Ripley 484
+Wesley 122
+Shirley 251
+Alexander 525
+Cutler 524
+Wallagrass 519
+Carthage 509
+Verona Island 507
+Frye Island 32
+Brownville Junction 506
+Standish 480
+Arrowsic 477
+Columbia Falls 476
+Moscow 475
+Mariaville 472
+North Anson 459
+Avon 450
+Unity 448
+Beals 443
+Smyrna 439
+Columbia 435
+Ludlow 434
+Naples 415
+Newry 411
+Stow 393
+Winter Harbor 385
+Burlington 373
+Grand Isle 366
+Cranberry Isles 160
+Passadumkeag 356
+Lubec 334
+Atkinson 306
+Dennysville 300
+Roque Bluffs 296
+Sorrento 279
+Amity 253
+Crystal 248
+Allagash 237
+Long Island 234
+Wade 229
+Dyer Brook 215
+Merrill 208
+Masardis 204
+Woodville 201
+Gilead 195
+Moose River 188
+Mount Chase 187
+Topsfield 179
+Cooper 168
+Meddybemps 139
+Bowerbank 136
+Willimantic 134
+Beaver Cove 133
+Littlejohn Island 116
+Lakeville 104
+Byron 103
+Haynesville 97
+Crawford 93
+Aurora 93
+Isle au Haut 92
+Hammond 91
+Maxfield 89
+Caratunk 81
+Westmanland 79
+Deblois 74
+Talmadge 70
+Upton 69
+Waite 66
+Bancroft 65
+Great Pond 61
+Frenchboro 29
