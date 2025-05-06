@@ -1,373 +1,373 @@
 
 
 Copenhagen 632340
+Bogense 3410
 
-Arhus 237551
+Koge 33885
+
+Roskilde 44285
+Vekso 1921
+Soro 7167
+Sortso Strand 10
+Gedser 832
+Seden 3350
+Fredensborg 8249
+Skaevinge 2555
+Skaerbaek 3174
+Holsted 3096
+Olstykke 5348
+Lokken 8828
+Logten 5048
+Stenlose 19998
+Skibby 2661
+Tollose 3457
+Vaerlose 13024
+Glostrup 20673
+Alestrup 2787
+Lystrup 9107
+Skovby 2489
+Marslet 2698
+Soften 2030
+Ebeltoft 7501
+Allingabro 1842
+Mariager 2433
+Hadsten 7020
+Grasten 4022
+Assens 6053
+Sonder Bjert 1815
+Brejning 2220
+
+Horsens 58646
+Malling 3339
+Bellinge 4129
+Munkebo 5225
+Tommerup Stationsby 2401
+Starup 2091
+Karup 2176
+Klarup 3352
+Nibe 4376
+Hojby 4406
+Hojslev 224
+Sunds 3525
+
+Norresundby 22083
+Bronderslev 11671
+Frejlev 2286
+Arden 2516
 
 Odense 145931
 Hedensted 10048
+Egtved 2151
+Bogeskov 315
+
+Kolding 55363
+Norre Aby 2678
+Borkop 3561
+Nordborg 7406
+Glamsbjerg 3099
+Solbjerg 2964
+Vestbjerg 2251
+Tranbjerg 7307
+Strandby 2518
+
+Randers 55780
+Sonderso 2850
+Tonder 7841
+Broager 3376
+Brorup 4233
+Horuphav 2514
+Havdrup 3828
+Stroby Egede 2700
+Blovstrod 2137
+Kongens Lyngby 10600
+Hong 3789
+Ronde 2213
+Stavtrup 3519
+Hinnerup 7055
+Kolt 5061
+Trige 2475
+Horning 6085
+Hornslet 4906
+Framlev 3067
+Beder 4214
+Hjortshoj 2515
+Hirtshals 6653
+Vodskov 4406
+Pandrup 2942
+Vamdrup 4685
+Harndrup 652
+Otterup 4522
+Guderup 2424
+AEroskobing 951
+Arslev 3228
+Vissenbjerg 3055
+Bullerup 2982
+Kjellerup 4514
+Langa 2710
+Langeskov 3713
+Slangerup 6829
+
+Slagelse 31896
+Skagen 9747
+Skaelskor 6455
+Neder Vindinge 1900
+Rejnstrup 92
+Ulstrup 1963
+Hobro 11064
+
+Holstebro 32072
+Ringkobing 9315
+Hammerum 3025
+Farum 18376
+Farso 3271
+Tars 1856
+Aars 7771
+Hadsund 5066
+Sundby 2843
+Frederikssund 14564
+Malov 8513
+Birkerod 18901
+Smorumnedre 9507
+Jyllinge 9981
+Vindinge 2045
+Ringe 4849
+Stige 2182
+Christianshavn 10140
+Stavnsholt 5658
+
+Ballerup 40000
+
+Horsholm 36670
+Hanstholm 2418
+Anholt 160
+Holeby 1844
+Rudkobing 4666
+Harby 2400
+Harlev 2423
+
+Charlottenlund 40000
+Tarnby 10000
+Tarm 4080
+Gjellerup 3731
+Virklund 3113
+Kalundborg 15939
+Padborg 4684
+Vojens 8019
+Logumkloster 3056
+Haderslev 20825
+Middelfart 13596
+
+Vejle 51177
+Svejbaek 3743
+
+Holbaek 24544
+Dianalund 3605
+Lunderskov 2687
+Snoghoj 2371
+Arup 2592
+Strib 4339
+Maribo 5349
+Praesto 3695
+Store Heddinge 3679
+Tune 5168
+Nexo 3841
+Vallensbaek 13500
+Solrod 2000
+Rodby 2379
+Orslev 1801
+Rodvig 1783
+
+Greve 47671
+Viby 4505
+Vindeby 2144
+Lind 3777
+Skjern 7145
+Vester-Skerninge 1315
+Vester Hassing 2298
+Skorping 2722
+Hals 2388
+Kirke Hvalso 4086
+Lojt Kirkeby 1975
+Augustenborg 3132
+Nyborg 15826
+Forlev 2058
+Fensmark 4203
+Marstal 2265
+Troelseby 27
+Saeby 8435
+Havneby 275
+
+Frederikshavn 24103
+Frederiksvaerk 12176
+Gilleleje 5799
+Lillerod 15359
+Stenlille 1905
+
+Hillerod 30853
+Ganlose 2843
+Gundsomagle 2149
+Svogerslev 4355
+Vipperod 2345
+Borup 3120
+Haslev 10588
+Osted 2122
+Flong 11108
+Ishoj 19453
+
+Frederiksberg 95029
+
+Taastrup 30977
+Gistrup 3622
+Dronninglund 3084
+Ronnede 2395
+Ejby 2692
+Ringsted 20188
+
+Naestved 40660
+Graested 3310
+Hundested 8615
+Lynge 4284
+
+Arhus 237551
+Hurup 2769
+Tjaereborg 2146
+Toftlund 3438
+Assentoft 2432
+Ryomgard 1952
+Spentrup 2155
+Hammel 6138
+Bramming 6726
+Brande 6357
+Skanderborg 13543
+Braedstrup 3130
+Isenvad 645
+Liseleje 2906
+Lejre 2036
+Bjaeverskov 2618
 
 Aalborg 122219
 
 Viborg 34831
+Bording Kirkeby 2104
+Avlum 2875
+Vadum 1978
+Niva 8035
+Skive 20815
+Bjerringbro 7390
 
-Frederiksberg 95029
-Frederiksvaerk 12176
-Frederikssund 14564
-
-Esbjerg 72205
-
-Horsens 58646
-
-Randers 55780
-
-Kolding 55363
-Rodding 2769
-
-Vejle 51177
-Svejbaek 3743
-Kibaek 2656
-
-Hvidovre 49380
-
-Rodovre 30000
-Trorod 8576
-Blovstrod 2137
-Malov 8513
-
-Greve 47671
-Bjaeverskov 2618
-
-Herning 44763
-Horning 6085
-Hornslet 4906
-Hornsyld 1619
-
-Roskilde 44285
-
-Silkeborg 41674
-
-Naestved 40660
-Asnaes 2441
-Graested 3310
-Hundested 8615
-Osted 2122
-Ringsted 20188
-
-Charlottenlund 40000
-Harlev 2423
-
-Ballerup 40000
+Hjorring 24634
+Torring 2370
+Ry 4909
+Sabro 1977
+Stilling 3655
+Jelling 3059
 
 Fredericia 36946
-
-Horsholm 36670
+Juelsminde 3667
+Odder 11009
+Rodding 2769
+Christiansfeld 2709
+Vejen 8525
+Sindal 2898
 
 Helsingor 35048
 Dragor 11045
-
-Koge 33885
-Svogerslev 4355
-
-Holstebro 32072
-Hobro 11064
-Sabro 1977
-Allingabro 1842
-Malling 3339
-Jelling 3059
-Stilling 3655
-
-Slagelse 31896
-Troelseby 27
-
-Taastrup 30977
-
-Hillerod 30853
-Stenlille 1905
-Stenlose 19998
-Tollose 3457
-Vaerlose 13024
-Ganlose 2843
-
-Albertslund 30000
+Olgod 3891
+Gorlev 2269
+Asnaes 2441
+Jaegerspris 3805
+Nykobing Sjaelland 5596
+Helsinge 7354
+Humlebaek 8965
+Kibaek 2656
+Grindsted 9414
+Varde 12735
+Storvorde 2796
+Logstor 4469
+Kas 1990
+Hjallerup 3320
+Svenstrup 4550
 
 Svendborg 27553
-Kalundborg 15939
+Neder Holluf 5612
+Kerteminde 5748
+Tommerup 2072
+Abybro 4849
+Faaborg 7239
+Aabenraa 16344
+Grenaa 14317
+Brenderup 1366
+Jyderup 3984
+Vinderup 2991
+
+Herning 44763
+Auning 2509
+Svinninge 2376
+Svebolle 2186
+Korsor 15029
+Ullerslev 2962
+Cortex Park 500
+
+Esbjerg 72205
+Gram 2548
+Rodekro 5452
+Dybbol 2303
+Oksbol 2845
+Videbaek 4052
+Ikast 14692
+Vildbjerg 3773
+Ulfborg 1994
+Harboore 1745
 
 Sonderborg 27033
-Sonderso 2850
-Sonder Bjert 1815
+Tinglev 2829
+Krusa 1694
 
-Hjorring 24634
-Hjortshoj 2515
-
-Holbaek 24544
-
-Frederikshavn 24103
-
-Norresundby 22083
-Haderslev 20825
-Arslev 3228
-Ullerslev 2962
-Skive 20815
-Give 4240
-Glostrup 20673
-Ishoj 19453
-Birkerod 18901
-Lillerod 15359
-Gilleleje 5799
-Liseleje 2906
-Lejre 2036
-Farum 18376
-Nykobing Falster 16807
-Aabenraa 16344
-Faaborg 7239
-Nyborg 15826
-Nordborg 7406
-Padborg 4684
-Korsor 15029
-Soro 7167
-Sortso Strand 10
-Ikast 14692
-Grenaa 14317
-Nakskov 14081
-Sakskobing 4928
-AEroskobing 951
-Rudkobing 4666
-Ronne 13890
-Ronnede 2395
-Middelfart 13596
-Odder 11009
-Beder 4214
-Skanderborg 13543
-Vallensbaek 13500
-Thisted 13020
-Varde 12735
-Vordingborg 12014
-Bronderslev 11671
-Ronde 2213
-Espergaerde 11358
-Struer 11317
-Ulstrup 1963
-Gistrup 3622
-Lystrup 9107
-Alestrup 2787
-Flong 11108
-Kongens Lyngby 10600
-Lynge 4284
-Haslev 10588
-Orslev 1801
-Christianshavn 10140
-Stavnsholt 5658
-Tarnby 10000
-Jyllinge 9981
-Skagen 9747
-Smorumnedre 9507
-Borup 3120
-Grindsted 9414
-Nykobing Mors 9326
-Ringkobing 9315
-Humlebaek 8965
-Hellebaek 5243
-Lokken 8828
-Logten 5048
-Vejen 8525
-Vojens 8019
-Assens 6053
-Vissenbjerg 3055
-Saeby 8435
-Fredensborg 8249
-Niva 8035
-Ribe 7983
-Strib 4339
-Tonder 7841
-Aars 7771
-Tars 1856
-Ebeltoft 7501
-Assentoft 2432
-Bjerringbro 7390
-Torring 2370
-Helsinge 7354
-Lemvig 7330
-Tranbjerg 7307
-Skjern 7145
-Kjellerup 4514
-Gjellerup 3731
-Hinnerup 7055
-Hadsten 7020
-Hadsund 5066
-Slangerup 6829
-Bramming 6726
-Brande 6357
-Hirtshals 6653
-Hals 2388
-Skaelskor 6455
+Hvidovre 49380
 Stovring 6239
-Billund 6160
-Virklund 3113
-Hammel 6138
-Hammerum 3025
-Kerteminde 5748
-Juelsminde 3667
-Neder Holluf 5612
-Nykobing Sjaelland 5596
-Rodekro 5452
-Maribo 5349
-Olstykke 5348
-Munkebo 5225
-Tune 5168
-Kolt 5061
-Ry 4909
-Ryomgard 1952
-Arden 2516
+
+Silkeborg 41674
 Galten 4895
-Soften 2030
-Ringe 4849
-Abybro 4849
-Vamdrup 4685
-Harndrup 652
-Arup 2592
-Starup 2091
-Svenstrup 4550
-Otterup 4522
-Guderup 2424
-Brenderup 1366
-Viby 4505
-Skibby 2661
-Logstor 4469
-Storvorde 2796
-Vodskov 4406
-Skovby 2489
-Bogeskov 315
-Langeskov 3713
-Hojby 4406
-Hojslev 224
-Nibe 4376
-Brorup 4233
-Fensmark 4203
-Bellinge 4129
-Kirke Hvalso 4086
-Tarm 4080
-Videbaek 4052
-Grasten 4022
-Gram 2548
-Jyderup 3984
-Olgod 3891
+
+Rodovre 30000
+Trorod 8576
+Espergaerde 11358
+Nodebo 1875
+Hellebaek 5243
+Hornbaek 3223
+
+Albertslund 30000
+Billund 6160
+Give 4240
+Nykobing Falster 16807
 Stege 3881
-Stroby Egede 2700
-Nexo 3841
-Havdrup 3828
-Jaegerspris 3805
-Hong 3789
-Lind 3777
-Vildbjerg 3773
-Solbjerg 2964
 Faxe 3747
 Faxe Ladeplads 2837
-Praesto 3695
-Store Heddinge 3679
-Vindinge 2045
-Svinninge 2376
-Dianalund 3605
-Borkop 3561
-Sunds 3525
-Stavtrup 3519
-Snejbjerg 3513
-Fjerritslev 3441
-Toftlund 3438
-Bogense 3410
-Broager 3376
-Klarup 3352
-Karup 2176
-Thuro By 3350
-Rodby 2379
-Rodbyhavn 2145
-Seden 3350
-Hjallerup 3320
-Hvide Sande 3291
-Farso 3271
-Hornbaek 3223
-Skaerbaek 3174
-Augustenborg 3132
-Braedstrup 3130
-Glamsbjerg 3099
-Holsted 3096
-Dronninglund 3084
-Framlev 3067
-Logumkloster 3056
-Vinderup 2991
-Bullerup 2982
-Pandrup 2942
-Taulov 2898
-Sindal 2898
-Avlum 2875
-Oksbol 2845
-Sundby 2843
-Tinglev 2829
-Hurup 2769
-Skorping 2722
-Langa 2710
-Brovst 2710
-Christiansfeld 2709
-Stige 2182
-Marslet 2698
-Ejby 2692
-Lunderskov 2687
-Norre Aby 2678
-Thyboron 2587
-Skaevinge 2555
-Strandby 2518
-Horuphav 2514
-Nordby 2512
-Auning 2509
-Trige 2475
-Mariager 2433
-Hanstholm 2418
-Stoholm 2202
-Tommerup Stationsby 2401
-Tommerup 2072
-Harby 2400
-Horve 2382
-Snoghoj 2371
-Vipperod 2345
-Dybbol 2303
-Stubbekobing 2301
-Stubberup 108
-Vester Hassing 2298
-Vestbjerg 2251
-Frejlev 2286
-Vra 2273
-Gorlev 2269
-Forlev 2058
-Marstal 2265
+Vordingborg 12014
+Sakskobing 4928
 Nyrad 2224
-Brejning 2220
-Akirkeby 2195
-Svebolle 2186
-Spentrup 2155
-Egtved 2151
-Gundsomagle 2149
-Tjaereborg 2146
-Vindeby 2144
+Vra 2273
+Nakskov 14081
 Norre Alslev 2128
-Bording Kirkeby 2104
-Solrod 2000
-Ulfborg 1994
-Kas 1990
+Stubberup 108
+Rodbyhavn 2145
+Stubbekobing 2301
+Ronne 13890
+Akirkeby 2195
+Thisted 13020
+Stoholm 2202
+Nykobing Mors 9326
+Lemvig 7330
+Snejbjerg 3513
+Struer 11317
+Thyboron 2587
+Ribe 7983
+Nordby 2512
+Fjerritslev 3441
+Thuro By 3350
+Hvide Sande 3291
+Taulov 2898
+Brovst 2710
+Horve 2382
 Fuglebjerg 1985
-Vadum 1978
-Lojt Kirkeby 1975
-Vekso 1921
-Neder Vindinge 1900
-Nodebo 1875
-Holeby 1844
-Rodvig 1783
-Harboore 1745
-Krusa 1694
-Vester-Skerninge 1315
-Gedser 832
-Isenvad 645
-Cortex Park 500
-Havneby 275
-Anholt 160
-Rejnstrup 92
+Hornsyld 1619

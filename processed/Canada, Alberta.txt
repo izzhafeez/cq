@@ -1,245 +1,245 @@
 
 
 Calgary 1239220
+Didsbury 5268
+Delburne 892
+Edgerton 384
+Beaverlodge 2465
+Sedgewick 811
+Tofield 2081
+Wetaskiwin 12655
+
+Fort Saskatchewan 24149
+Mundare 852
 
 Edmonton 932546
+Nanton 2130
+Coalhurst 2668
+Carstairs 4077
+Cardston 3585
+Carbon 454
+Gibbons 3159
+Wembley 1516
+Cowley 209
+Berwyn 538
+Bruderheim 1308
+Lamont 1774
+Killam 989
+Eckville 1125
+Bonnyville 5417
+Boyle 845
+St. Paul 5827
+Vulcan 1917
+
+Chestermere 19887
+
+Lloydminster 31410
+Vegreville 5708
+Vermilion 4084
+Millet 1945
+Mannville 828
+Empress 135
+Claresholm 3780
+Black Diamond 2700
+Lomond 166
+Alliance 154
+Clyde 430
+Youngstown 154
+Rocky Mountain House 6635
+Clive 715
+Innisfail 7847
+Fairview 2998
+
+Airdrie 61581
+
+Grande Prairie 63166
+Granum 406
+High River 13584
+Irricana 1216
+
+Canmore 13992
+Foremost 541
+Alix 734
+Coaldale 8215
+Blackfalds 9328
+Trochu 1058
+Stettler 5952
+Bentley 1078
+Big Valley 346
+Coronation 940
+Champion 317
+Holden 350
+Linden 828
+Hill Spring 162
+Paradise Valley 179
+Turner Valley 2559
+Crossfield 2983
+Rosalind 188
+Caroline 512
+Irma 521
+Milk River 827
+Spirit River 995
+Spring Lake 699
+Heisler 160
+Bow Island 1983
+Rainbow Lake 795
+Valleyview 1863
+Edson 8414
+Calmar 2228
+Marwayne 564
+Carmangay 242
+McLennan 701
+Kananaskis 221
+Waskatenau 186
+Redwater 2053
+
+Beaumont 17396
+
+Camrose 18742
+Devon 6578
+Bon Accord 1529
+Rockyford 316
+Hines Creek 346
+Hinton 9882
+Barrhead 4579
+Barnwell 947
+Donnelly 342
+Glendon 493
+Hughenden 243
+Stavely 541
+Slave Lake 6651
+Alberta Beach 1018
+Drayton Valley 7235
+
+St. Albert 65589
+Taber 8428
+Edberg 151
+Ryley 483
+Ferintosh 202
+Morrin 240
+Cereal 111
+Amisk 204
+Milo 91
+Redcliff 5600
 
 Red Deer 100418
+Lougheed 256
+Cremona 444
+Donalda 219
+Whitecourt 10204
+Kitscoty 925
+Fort Chipewyan 852
+Fort Macleod 2967
+Crowsnest Pass 5589
+Bassano 1206
+Athabasca 2965
+Wabamun 682
+Warner 373
+Warburg 766
+Ponoka 7229
+
+Brooks 14451
+Breton 574
+Bawlf 422
+Grimshaw 2718
+Fox Creek 1971
+Pincher Creek 3642
+Stirling 978
+Viking 1083
+Willingdon 319
+Dewberry 186
+Hussar 190
+Little Buffalo 452
+Falher 1047
+Arrowwood 207
+Glenwood 316
+Veteran 207
+Rosemary 396
+Thorsby 985
+Mayerthorpe 1320
+Penhold 3277
+Sundre 2729
+Munson 192
+Consort 729
+Hardisty 554
+Standard 353
+Hay Lakes 495
+
+Cold Lake 14961
+Andrew 425
+Daysland 824
+Castor 929
+
+Stony Plain 17189
+Legal 1345
+Smoky Lake 964
+Morinville 9848
+
+Leduc 29993
+Duchess 1085
+Barons 341
+Myrnam 339
+Coutts 245
+Picture Butte 1810
+Vauxhall 1222
+
+Medicine Hat 63260
+Magrath 2374
+Strathmore 13756
+Drumheller 7982
+Elnora 298
+Onoway 1029
+Raymond 3708
+Hanna 2559
+Manning 1183
+Sexsmith 2620
+Grande Cache 3571
+High Prairie 2564
+High Level 3159
+Girouxville 219
+Peace River 6842
 
 Lethbridge 92729
 
 Fort McMurray 66573
-
-Fort Saskatchewan 24149
-Fort Chipewyan 852
-
-St. Albert 65589
-St. Paul 5827
-
-Medicine Hat 63260
+Two Hills 1352
 Three Hills 3212
-
-Grande Prairie 63166
-High Prairie 2564
-High Level 3159
-
-Airdrie 61581
+Swan Hills 1301
+Chauvin 335
+Nobleford 1278
+Chipman 274
 
 Spruce Grove 34066
-
-Lloydminster 31410
-Stettler 5952
-
-Chestermere 19887
-
-Leduc 29993
+Provost 1998
+Forestburg 875
+Wainwright 6270
+Elk Point 1452
+Vilna 290
 
 Okotoks 28881
-Ponoka 7229
 
 Cochrane 25853
-Granum 406
-Magrath 2374
-Strathmore 13756
-
-Canmore 13992
-
-Camrose 18742
-
-Beaumont 17396
-Alberta Beach 1018
-
-Stony Plain 17189
-
-Cold Lake 14961
-Slave Lake 6651
 
 Sylvan Lake 14816
 Bittern Lake 220
-
-Brooks 14451
-High River 13584
+Czar 202
 Lacombe 13057
 Rimbey 2567
-Wetaskiwin 12655
-Whitecourt 10204
-Hinton 9882
-Morinville 9848
-Blackfalds 9328
 Olds 9184
-Penhold 3277
-Taber 8428
-Edson 8414
-Coaldale 8215
-Coalhurst 2668
-Carstairs 4077
-Drumheller 7982
+Acme 653
 Banff 7851
-Bassano 1206
-Innisfail 7847
-Drayton Valley 7235
-Peace River 6842
-Rocky Mountain House 6635
-Devon 6578
-Vegreville 5708
-Wainwright 6270
-Redcliff 5600
-Crowsnest Pass 5589
-Bonnyville 5417
-Didsbury 5268
-Warburg 766
-Forestburg 875
 Westlock 5101
 Jasper 4590
-Mayerthorpe 1320
-Barrhead 4579
-Vermilion 4084
-Millet 1945
-Claresholm 3780
-Raymond 3708
-Black Diamond 2700
-Pincher Creek 3642
-Cardston 3585
-Castor 929
-Grande Cache 3571
-Gibbons 3159
-Fairview 2998
-Valleyview 1863
-Crossfield 2983
-Fort Macleod 2967
-Athabasca 2965
-Sundre 2729
-Munson 192
-Grimshaw 2718
-Sexsmith 2620
-Smoky Lake 964
-Turner Valley 2559
-Hanna 2559
-Beaverlodge 2465
-Calmar 2228
-Nanton 2130
-Kananaskis 221
-Irricana 1216
-Tofield 2081
-Redwater 2053
-Provost 1998
-Bow Island 1983
-Fox Creek 1971
-Vulcan 1917
-Picture Butte 1810
-Lamont 1774
-Bon Accord 1529
-Wembley 1516
-Elk Point 1452
-Ferintosh 202
-Two Hills 1352
-Legal 1345
-Bruderheim 1308
-Swan Hills 1301
-Hill Spring 162
-Willingdon 319
-Donnelly 342
-Nobleford 1278
-Rockyford 316
 Bowden 1240
-Hughenden 243
-Lougheed 256
-Vauxhall 1222
-Manning 1183
-Eckville 1125
-Duchess 1085
-Empress 135
-Viking 1083
-Stirling 978
-Bentley 1078
-Trochu 1058
-Falher 1047
-Onoway 1029
-Oyen 1001
-Spirit River 995
-Killam 989
-Thorsby 985
-Barnwell 947
-Warner 373
-Coronation 940
-Cremona 444
-Foremost 541
-Kitscoty 925
-Delburne 892
-Delia 216
-Alliance 154
-Cereal 111
-Mundare 852
-Boyle 845
-Ryley 483
-Bashaw 830
-Mannville 828
-Linden 828
-Rosalind 188
-Caroline 512
-Barons 341
-Consort 729
-Milk River 827
-Hythe 827
-Daysland 824
 Beiseker 819
-Heisler 160
-Sedgewick 811
-Rainbow Lake 795
-Alix 734
-Clive 715
-McLennan 701
-Spring Lake 699
-Wabamun 682
-Acme 653
-Rycroft 612
-Breton 574
-Marwayne 564
-Hardisty 554
-Paradise Valley 179
-Big Valley 346
-Stavely 541
-Standard 353
-Berwyn 538
-Irma 521
-Hay Lakes 495
-Glendon 493
-Donalda 219
-Carbon 454
-Little Buffalo 452
-Clyde 430
-Andrew 425
-Bawlf 422
-Cowley 209
-Rosemary 396
-Edgerton 384
-Nampa 364
-Myrnam 339
-Holden 350
-Hines Creek 346
-Chauvin 335
-Champion 317
-Glenwood 316
-Arrowwood 207
-Longview 307
-Elnora 298
-Vilna 290
-Chipman 274
-Coutts 245
-Carmangay 242
-Morrin 240
-Girouxville 219
-Veteran 207
-Botha 204
-Amisk 204
-Milo 91
-Czar 202
-Innisfree 193
-Hussar 190
-Waskatenau 186
-Dewberry 186
-Lomond 166
-Youngstown 154
-Edberg 151
 Halkirk 112
+Oyen 1001
+Bashaw 830
+Hythe 827
+Botha 204
 Gadsby 40
+Innisfree 193
+Rycroft 612
+Delia 216
+Nampa 364
+Longview 307

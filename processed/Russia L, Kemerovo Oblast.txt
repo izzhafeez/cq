@@ -1,39 +1,39 @@
 
 
 Novokuznetsk 547904
-
-Kemerovo 532981
-
-Prokop'evsk 210130
-Kiselevsk 98365
-
-Mezhdurechensk 101678
 Leninsk-Kuznetskiy 101666
-Belovo 76764
 Plotnikovo 5190
-Anzhero-Sudzhensk 76646
 Berezovskiy 47279
-Osinniki 46001
-Myski 43038
-Mariinsk 40526
-Topki 28641
-Tayga 25331
-Tashtagol 23134
+Sheregesh 10173
 Kaltan 21892
-Promyshlennaya 18045
+Tashtagol 23134
 Yashkino 14719
 Yaya 11688
-Bachatskiy 14402
-Gramoteino 12996
-Inskoy 12590
-Krasnobrodskiy 11919
-Krapivinskiy 7450
-Tyazhinskiy 11120
-Sheregesh 10173
-Tisul' 9049
+Promyshlennaya 18045
 Salair 8262
+Inskoy 12590
+Mariinsk 40526
 Izhmorskiy 5615
 Zelenogorskiy 5175
-Mundybash 5097
-Verkh-Chebula 5060
+Belovo 76764
+Krasnobrodskiy 11919
+Gramoteino 12996
+Bachatskiy 14402
+
+Kemerovo 532981
+Topki 28641
+
+Prokop'evsk 210130
 Tayzhina 5011
+Mundybash 5097
+Myski 43038
+Osinniki 46001
+
+Mezhdurechensk 101678
+Anzhero-Sudzhensk 76646
+Tayga 25331
+Kiselevsk 98365
+Tyazhinskiy 11120
+Verkh-Chebula 5060
+Tisul' 9049
+Krapivinskiy 7450

@@ -1,5979 +1,5979 @@
 
 
 Athens 664046
-Kalathenes 160
-
-Thessaloniki 354290
-Alonia 653
-Pollonia 272
-
-Patra 168034
-
-Filiatra 6970
-
-Piraeus 163688
-
-Larisa 144651
-
-Peristeri 139981
-Peristeria 206
-
-Heraklion 137154
-Faraklo 5
-
-Irakleio 49642
-Irakleideis 68
-
-Kallithea 100641
-Argithea 1024
-Amfithea 594
-
-Amfissa 6854
-
-Amfilochia 4022
-Amfipoli 147
-Nea Amfipoli 38
-
-Acharnes 99346
-
-Kalamaria 91617
-
-Nikaia 89380
-Zakaiika 134
-
-Glyfada 87305
-
-Volos 86048
-
-Molos 1974
-
-Ilion 84793
-Ilia 233
-Vilia 1269
-Stilia 147
-
-Ilioupoli 78153
-
-Ermoupolis 11351
-Christoupoli 518
-
-Keratsini 77077
-Asini 1055
-
-Messini 6773
-Lesini 771
-
-Khalandrion 74192
-Malandrenion 498
-
-Mandra 11327
-
-Nea Smyrni 73076
-Nea Skioni 828
-
-Nea Kios 2778
-
-Marousi 72333
-Maroudi 141
-
-Mantoudi 1794
-
-Agios Dimitrios 71294
-Ayios Dimitrios 71
-Agios Dimitrios Kropias 1011
-
-Zografos 71026
-
-Aigaleo 69946
-
-Aigio 20422
-
-Nea Ionia 67134
-
-Ioannina 65574
-
-Palaio Faliro 64021
-
-Korydallos 63445
-
-Trikala 61653
-Trikastro 39
-Kastro 42
-
-Vyronas 61308
-
-Agia Paraskevi 59704
-Agia Paraskevi Lamieon 922
-Ayia Paraskevi 212
-
-Galatsi 59345
-Galati 43
-
-Chalkida 59125
-
-Nea Chalkidona 9822
-
-Petroupolis 58979
-
-Argyroupoli 34097
-Argyros 45
-
-Serres 58287
-Eresos 1042
-
-Rodos 56128
-
-Kalamata 54100
-Kalamakion 890
-
-Kavala 54027
-Kavallouri 318
-
-Chania 53910
-Chania Kampion 10
-
-Katerini 53293
-
-Alexandroupoli 52979
-Alexandradhes 35
-
-Lamia 52006
-Kalamion 76
-Moni Kalamiou 33
-
-Xanthi 48221
-Exanthia 170
-Anthi 584
-
-Anthili 1693
-Melanthio 123
-
-Kifisia 47332
-Loukisia 1161
-Arakoukia 77
-
-Agrinio 46899
-Agrilia 345
-
-Agria 5519
-
-Chaidari 45642
-Sidari 386
-
-Komotini 45631
-Keramoti 1438
-Keramidi 338
-Keramion 584
-
-Sykies 44955
-Agrosykia 429
-
-Drama 44823
-Dramesi 138
-Paramero 57
+Aigosthena 80
+Stenimachos 806
+Kosmadaioi 80
+Skiadaiika 21
+Triada 267
+Paliokaria Keraseas 23
+Paliokamariza 216
+Amari 161
+Manatades 27
+Ktistades 413
 
 Veroia 44464
-Kato Poroia 424
-Kato Potamia 137
-Potamia 1383
-Dipotamia 456
+Vergi 699
+
+Paralia Vergas 1966
+Skaloma 7
+Kalomodia 294
+Chlomos 357
+Chochla 200
+Achladies 23
+Vaptistis 330
+Minos 23
+Prinos 1211
+
+Amygdaleonas 2724
+Mileon 2
+Ano Pitsa 12
+Avramilia 46
+Papparousion 12
+Pappagiannis 581
+
+Florina 17686
+Aloros 417
+Diaporos 2
+Agios Georgios Mandras 69
+Agios Konstantinos Vilion 2
+Konstantinato 332
+
+Ayios Konstandinos 6534
+Konstantia 570
+Taktikoupoli 250
+Milia 558
+
+Examilia 1810
+Dervenakia 67
+
+Nea Kios 2778
+Pinakatai 211
+Agrilitsa 149
+Agrilia Kratigou 87
+Asfendiou 135
+Agios Georgios Ierapetras 24
+Agios Georgios Skinia 12
+Agios Georgios Thorikou 141
+Glossa 987
+Kalos 73
+Asomata 431
+Theodorakeio 583
+Lykeio 1081
+Lyrkeia 319
+Isthmia 1134
+Anavryto 85
+Dhritsaiika 205
+Spartylas 517
+
+Zefyri 9454
+Mesounta 195
+Marpounta 59
+Palamidas 1
+
+Lamia 52006
+Agrapidhia 162
+Mylos 102
+Argyromylos 76
+
+Megalochori 1564
+Mylochori 79
+Chori 20
+Iliochori 31
+Elaiochorion 81
+
+Nea Lampsakos 2196
+Nea Lykogianni 633
+Giannioti 120
+Vlachogianni 855
+Plakoti 268
+Bresiakon 64
+Voulpi 268
+Vouni 37
+Psaraiika 7
+Skouraiika 92
+Kourtelaiika 33
+Kourtaki 296
+
+Iasmos 2586
+Neos Oikismos 363
+Neo Oitylo 70
+Ganadio 32
+Tragana 864
+Agia Pelagia 480
+Panagia 716
+Koita 96
+Agia Fotia Ierapetras 25
+Petraia 939
+
+Ierapetra 12355
+Petralona 348
+Petrilo 50
+Trilofia 221
+Ammochori 1250
+Moschochori 464
+Moschomantsa 17
+Romanos 403
+Omali 55
+Kastaneri 180
+Kastanies 1214
+Vatonies 69
+Vanaton 1045
+Sperchogeia 1004
+Saranti 20
+Goumero 1072
+Paramero 57
+Peponia 432
+Tsagkarada 525
+Lagkadi 176
+Piges 770
+Prosfyges 572
+Prosilio 101
+Tsamantas 141
+Talanta 137
+Agrapidees 120
+Zervo 172
+Palaio Zervochori 413
+
+Palaiochora 2372
+Paliochori 25
+Maristra 34
+Kassandra Pallas 25
+Chalandra 12
+Sosandra 1178
+Argyri 82
+Argyrotopos 331
+Argyromouri 20
+Yerakarion 9
+Yerania 10
+Ano Yerakarion 176
+Giarakari 10
+Karniaris 12
+Mavroudi 423
+Sikea 492
+Kalolivadon 12
+Livadion 605
+Pera Rachidi 48
+Stravi Rachi 19
+Vrachia 638
+Palaiokaria 132
+Pyrra 150
+Polyrrinia 31
+Perri 23
+Perani 226
+Stamna 921
+Vrastama 700
+Skarpari 20
+Karia 199
+Rozena 517
+
+Krestena 1864
+Steni Vala 104
+Valari 30
+Simos Ioannidis 221
+Agios Ioannis Spaton 284
+Ano Viranepiskopi 94
+Kokartza 70
+Dendra 6
+Koukkoulia 244
+Skoulikaria 381
+
+Aria 2080
+Venio Daskaleiou 56
+
+Skala 2817
+Kastelia 7
+Dhogri 136
+Griva 770
+Axos 1336
+Ramia 203
+Keramion 584
+Keramoton 38
+Keramitsa 328
+Pente Ekklisies 171
+Viki 108
+
+Nikiti 2711
+
+Liti 3226
+Chrysopetra 113
+Kominianika 25
+Agia Zoni 128
+Kato Koryfi 62
+Koryfoudi 23
+Kryfovo 55
+Koufovouno 883
+Farmaki 232
+Frosyni 183
+Imera 208
+Angelona 458
+Evangelismos 722
+Angelochorion 991
+Pagkalochorion 177
+Kefalochori 792
+
+Angelochori 1526
+Asprangeloi 165
+Karavangelis 371
+Karyoti 321
+Dryopi 239
+Koumoi 172
+Koumaradaioi 123
+Loumas 52
+Dialegmeno 10
+Katamachi 52
+Achinos 507
+Lithino 72
+Kouloura 1156
+Kouli 65
+Skoulikado 653
+Koukoulioi 166
+Kastania 534
+Tapes 81
+Roupes 37
+Skoupa 46
+Kounoupitsa 75
+Kato Pitsa 657
+Limini 317
+Vasileonoikon 377
+Vasiliki 1388
+Exo Nymfio 71
+Dendrochori 568
+Xirochori 827
+Mikrochori 90
+Mavrochori 1287
+Sivros 379
+Tsivaras 174
+Piryella 418
+
+Mantoudi 1794
+Agios Georgios Lichados 868
+Agios Georgios Armenadon 60
+Soulaiika 196
+Tsounaiika 36
+Lakka 430
+Sotiras 108
+Poungakia 126
+Tsardhaki 8
+
+Karditsa 32789
+Troizina 673
+Seriziana 66
+Droseri 24
+Kedros 40
+Ano Sagkri 210
+Palaiochori 1489
+Paliochoria 18
+Karagiannika 32
+Lianianika 11
+Aloizianika 34
+Stratonion 1057
+Kastrakion 419
+Kamarakion 5
+Polypotamo 314
+Theisoa 89
+Kato Vatheia 86
+Paralia Vatheos 602
+Vatheia 6
+
+Vathy 1888
+Vathia 18
+Lithia 311
+Nikithianos 63
+Nikites 12
+Nikiana 724
+Astypalaia 1129
+Alypa 41
+Araioi 15
+Bagaioi 21
+Baousioi 7
+Moschofyto 45
+Stathianika 7
+Stathas 151
+Athanion 204
+Chimara 25
+Anarachi 1147
+Rachona 691
+Rachouli 183
+Vrachos 178
+Agios Vasileios 1328
+
+Vasilika 4519
+Ano Vasilikos 280
+Vasiliai 984
+Tsilia 18
+Vasiliko 228
+Agios Nektarios Vilion 40
+Kalapodi 444
+Kavallaris 33
+
+Larisa 144651
+Votsi 473
+Spilia 324
+Dafnospilia 412
+Metochi Kapetanaki 86
+Kokkino Metochi 77
+Kokkinochoma 1472
+Moustheni 647
+Koustesa 11
+Stekoula 21
+Mekourio 58
+Mouria 714
+Paliouria 392
+Pagouria 843
+
+Ligourion 2482
+Agios Georgios Pagon 68
+Dichalia 67
+Lichada 181
+Michalitsi 320
+
+Kitsi 4788
+
+Vrilissia 30741
+Agrilia 345
+
+Agrinio 46899
+Agra 955
+Kampos Marathokampou 471
+Vasilika Agiou Ioannou 278
+Vingla 54
+Singrellos 50
+Kapparelli 299
+
+Pappados 1534
+
+Samos 1885
+Kournela 2
+Pournara 8
+Mpournias 127
+Timfristos 434
+Empourios 16
+Pinakokhorion 214
+Spanokhorion 161
+Neokhorion 197
+Palaiokastro 721
+Kalokastro 242
+Monodhendrion 721
+Palaiomylos 92
+Palaiomanina 855
+Gerakari 268
+Gerakonas 234
+Neo Gerakari 50
+
+Anatoli 9798
+Voutansaioi 39
+Kouroutas 433
+Kourounes 45
+Koutsouro 88
+Manoutso 95
+
+Koutsopodi 1857
+Koutsouras 775
+
+Patitirion 1628
+Akrotiri 155
+Tirins 452
+Likhnon 142
+Akropotamos 675
+Moschopotamos 823
+
+Palaio Faliro 64021
+Palaiomonastiro 1182
+
+Palairos 2589
+Akti 87
+Chysi Akti 82
+Kalafati 278
+
+Galatini 2085
+Chaironeia 1382
+
+Chaidari 45642
+Charia 63
+Charopo 1042
+Agiofyllo 621
+Triantafyllia 702
+
+Fyli 2937
+Trifyllia 175
+
+Eksochi 2975
+Tsoukalio 63
+Loukata 75
+Koukaiika 45
+Kontakaiika 527
+Laiika 716
+Galanaiika 25
+Kazanaiika 42
+Khelidhoreo 32
+Podhokhori 608
+Palaiokhori 287
+Skalokhori 534
+Palaiokhorion 190
+Mesokhorion 80
+Mikrokhorion 578
+Axiochori 303
+
+Axioupoli 2897
+Kaloudiana 331
+Koryschades 44
+Amades 136
+Poulades 465
+Vitalades 442
+Peroulades 673
+Agios Prokopios 378
+Agios Georgios Kassiopis 1
+Agia Aikaterini Koutsopodiou 49
+Kato Selles 1
+Sellion 110
+Myrthios Selliou 74
+Myrtia 919
+Spartias 37
+Tarti 27
+Ano Kalesia 526
+Ano Kampos 26
+Kampos Kallergianon 122
+Myrteza 164
+Trapeza 12
+Pezoula 127
+Paliochora 21
+
+Chora 3454
+Ayios Vasilios Neochoriou 15
+Ayios Yeoryios Nileias 142
+Ayios Ilias 125
+Ano Pavliana 442
+Mesavlia 29
+Kritsari 75
+Kastritsa 557
+Trikastro 39
+Kastrisianika 64
+Sitomena 209
 Nea Potamia 64
 
 Mesopotamia 2099
+Agios Kyprianos 17
+Aroniadhika 77
+Perdhika 680
+Ladhikou 299
+Moni Taxiarchon Serifou 1
+Archontochori 1194
+Moni Chrysoskalitissis 66
+Chrysorachi 132
+Chrysopigi 205
+Lakka Kalogirou 517
+Kontarolakka 37
 
-Alimos 41720
-Dimosia 28
+Lakki 1956
+Marathokampos 1069
+Xirokampos 879
+Mylopotamos 18
+Potamoi 405
+Potamia 1383
+Psiana 17
+Fousiana 80
+Mitrousi 1479
 
-Polichni 39765
+Strymoniko 1619
+Bestia 83
+Glinos 522
+Marinos 6
+Samarina 839
+Kato Boularioi 18
+Kato Chorio 946
 
-Kozani 36481
+Gournes 1628
+Fourni 221
+Tournikion 3
+Kioni 300
+Gavrakia 216
+Gavriani 147
+
+Atalanti 4978
+Raina 129
+Pachaina 32
+Kourkoulaiika 49
+Skalosia 1
+Gialos 873
+Papathanatika 94
+Ypati 496
+
+Vrontou 2196
+Elatochori 681
+Mikri Gotista 73
+Mikroni 4
+Ano Kotsanopoulo 256
+Ano Korakiana 946
+Anidhron 157
+Nea Anatoli 1002
+Nea Amfipoli 38
+Yiannitsou 363
+Alepochori 38
+
+Kalochori 4162
+Megalo Potami 25
+
+Megalopoli 5283
+Anopoli 242
+
+Rodopoli 2078
 
 Agioi Anargyroi 34168
-Agioi Anargyroi Kapandritiou 276
-Panariti 349
-Margariti 857
 
-Gargalianoi 6282
-Kalianoi 174
+Dionysos 5651
 
-Ano Liosia 33565
+Chryso 1571
+Plaisio 192
+Kaisiariana 99
+Kristoni 988
+Christoulaki 19
+Karatoula 1004
+Maroulas 486
+Poseidi 70
+Kleidonia 11
+Kleio 356
+Parparia 135
+Logkari 24
+Lagka 41
+Agkathia 1459
+Maragkas 73
+Paralia Milatou 157
+Paralia Rachon 541
+Myrsini 1213
+Lompokas 20
+Lalas 1168
+Koutalas 215
+Matala 67
+Ayia Vlakherna 58
+Eleftherna 189
+Loutra Eleftheron 1
+Giourouki 31
+Chionochori 1
+Limnochori 522
+Orthovouni 217
+Mavrovouni 1067
+Pratovouni 57
+Korakovouni 710
+Myrofyllo 249
+Triantafylli 8
+Katafyto 97
+Mesogeion 109
+Malakasa 514
 
-Drosia 7186
+Kilkis 22914
 
-Dhrosia 5020
+Nikisiani 2236
+Mazion 90
+Nea Fyli 170
+Nea Poli 76
 
-Karditsa 32789
-Sardinia 1064
+Nea Pella 1595
 
-Pedini 2871
-Ano Pedina 144
-Kato Pedina 41
-Pedi 120
+Gefyra 3451
+Mesa Chora 25
+Mesaria 1233
+Batza 49
+Tzapada 45
+Karatzas 287
+Nerantza 636
+Neratzia 1
+Atzimpraga 52
+Stathmos Mpralou 84
+Stathmos Lefkotheas 295
+Lefkotopos 311
+Mesotopos 773
+Anthotopos 302
+Avlotopos 306
+Loutrotopos 85
+Milotopos 40
+Ammotopos 618
+Nea Sampsounta 613
+Nea Silata 788
+Elata 248
+Ayios Leon 393
+Eleonas 655
 
-Rethymno 32468
-Thymonia 10
-Thymariona 29
+Leondarion 5929
 
-Cholargos 30840
+Stamata 2906
+Linoperamata 216
 
-Argos 22209
+Drama 44823
 
-Pyrgos 22399
+Mandra 11327
+Valamandri 162
+Mandrakia 2
+Metochi Metamorfoseos 69
+Metamorfosi Troizinos 75
+Moni Metamorfoseos Sotiros 136
+Petaliana 7
+Metallion 38
 
-Vrilissia 30741
-Melissi 1024
+Arnaia 2300
+Gourna 282
+Goura 231
+Psari 355
+Ano Vlokhos 67
+Ano Vathia 372
 
-Melissia 22741
-
-Aspropyrgos 30251
-
-Korinthos 30176
-
-Amarynthos 3647
-
-Ptolemaida 30045
-
-Gerakas 29939
-Geraki 1323
-
-Metamorfosi 29891
-
-Voula 28364
+Kostakioi 2078
 
 Kamateron 28361
 Kamari 885
-Kamarai 1200
+Kamares 331
+Ampares 34
 
-Mytilene 28322
+Kalampaka 8138
+Kalamia 1018
+Moni Zoodochou Pigis Kalevreias 28
+Moni Agiou Panteleimonos 15
+Moni Agiou Mina 29
+Moni Agiou Ioannou Prodromou 144
+Schinopi 2
+Kokkinopilos 221
+Kokkinias 6
+Kokkinopilia 62
+Kokkinion 580
+Agios Stefanos Episkepseos 205
+Stefanion 10
+Orfanio 656
+Morfi 348
 
-Mytikas 1808
+Amfikleia 3012
+Amfithea 594
+Ayios 801
+Ayios Kosmas 83
+Keratidia 28
+Krya 434
+Dryalos 37
+Yeorgandaiika 75
+Zarkadaiika 22
+Kotrafion 4
+Vafios 137
+Elafi 335
+Dafia 992
+Lafina 80
+Kafiona 25
+Skafidaras 92
+Mokhos 1132
+Ano Perivoli 19
+Eriva 26
+Rivio 208
+Perivolion 127
+Mikro Perivolaki 343
+Louzio 25
+Galazio 23
+Galani 69
+Valanidia 30
+Galaniana 15
+Stegno 19
+Ayia Trias Gounari 24
+Argilia 19
+Lia 163
+Dhaskalion 123
+Lionas 80
+Ornias 1
+Kornata 101
+Mavros Kolympos 99
 
-Giannitsa 27817
+Tavros 14972
 
-Neapoli 27084
+Penteli 4851
 
-Nea Apollonia 1953
-Neapolis 1442
+Ilioupoli 78153
+Alona 211
 
-Corfu 27003
+Dhafni 22913
+Dafnoti 85
+Profitis Ilias Dafnotis 25
+Moni Profitou Iliou 2
+Moni Agiou Ierotheou 52
+Moni Agiou Nikolaou 13
+Agios Nikolaos Kranidiou 8
+Aghios Nikolaos Paliouriou 6
+Paliourion 128
+Mystras 62
+Melanthio 123
+Peranthi 416
+Anthidona 129
+Aidoni 61
+Aidhonia 200
+Orthoniai 222
+Palaiostani 612
+Elafonisos 745
+Khersonisos 938
+Larisos 168
 
-Tripoli 26561
+Ierissos 3266
+Plana 210
+Plagia 939
+Plagiochori 14
+Megalon Livadhion 31
+
+Livadi 2655
+Livadhion 77
+
+Livadero 1663
+Petalou 218
+Metalla 130
+Nea Plagia 1127
+Kato Metochi 197
+Fratzeskiana Metochia 250
+Piperies 558
+
+Peristeri 139981
+
+Pallini 14808
+Linia 218
+
+Elliniko 17259
+Yelliniatika 426
+Ellinas 15
+Ellinokastro 364
+Avrokastro 47
+Limenas Lithiou 1
+Kourounochori 105
+Prinochori 1
+Spilaia 31
+Elaia 141
+Divounion 46
+Kato Sounion 127
+
+Katouna 2234
+Gravouna 737
+Vounon 17
+Kounoupi 87
+Vrouchas 135
+Katachas 660
+Rapsomaniki 227
+Isomata 49
+Vamvakoussa 243
+Vatoussa 574
+Okhthia 506
+Ayios Andreas 574
+Malandrenion 498
+
+Zevgolateio 4363
+Palaiozevgaron 1
+Galaron 278
+
+Galatas 3166
+Agalas 323
+Laganas 729
+Pelopi 1073
+Kalotaritissa 20
+
+Karyotissa 1965
+
+Eirinoupoli 2635
+Magoulitsa 792
+Souli 434
+Soulopoulo 25
+
+Markopoulo 9513
+
+Psychiko 9529
+Vlakhikos 27
+Mesta 337
+Vasiliana 21
+Miliana 119
+Zogri 70
+
+Agria 5519
+
+Neochorion 2827
+Neo Chorio 556
+Armeni 727
+Termenades 23
+Mades 74
+Chelidoni Dafnoulas 6
+Moni Dadiou 3
+Moni Myrtidion 1
+Dion 1413
+
+Leonidio 3020
+Paralia Tholarion 51
+Paralia Asinis 34
+Paralia Almyrou 21
+Paralia Amadon 4
+
+Paralia Avlidhos 3115
+Kokkinovrakhos 195
+Pefkias 233
+Lefkakia 934
+Stavropotamos 173
+Flamouli 560
+
+Kalamos 1824
+
+Lykovrysi 9650
+Myrovrysi 211
+Kryovrysi 80
+
+Krya Vrysi 6839
+Megali Vrysi 492
+Megali Khora 1408
+Megali Rachi 2
+Megali Vrisi 989
+Chrysomilia 846
+Chrysodouli 27
+Chrysokastro 307
+
+Kavala 54027
+
+Kavasila 1623
+Neo Argyri 253
+
+Argyropouli 1782
+Skotina 953
+Thanasia 81
+Anakasia 1012
+Melivoia 805
+Chalkiopoulo 16
+Anafonitria 248
+Trianta 25
+Pramanta 1137
+Frama 26
+Ayios Georgios Kalyvion 266
+
+Agios Georgis 4958
+Agios Georgios Koitas 18
+Kato Seta 32
+Lambirion 103
+Chioniades 42
+Chionato 118
+Agios Donatos 262
+Agios Georgios Argyradon 503
+Skripero 500
+Akri 230
+Pyxaria 12
+Ntara 45
+Petarades 36
+Gavrades 65
+Psarades 83
+Chouliarades 140
+Rachoula 472
+Soula 93
+Tropaiouchos 323
+
+Kopanos 2202
+Karanos 81
+Kartsinianos 13
+Diporo 139
+Chiliodendro 610
+Dhendro 144
+Agia Eirini 75
+Agia Aikaterini 57
+
+Arachova 2657
+Kiparission 184
+Sision 1003
+Paradhision 100
+Akhladhion 384
+Tithorea 630
+
+Rodhitsa 3509
+Prodhromos 45
+Mikron Khorion 20
+Mikron Dasos 400
+Mikrokampos 731
+Kechrokampos 359
+Ksirokampos 56
+Arakoukia 77
+Koukouli 39
+Anilio 587
+Vouvopotamos 524
+Karvasaras 28
 
 Agia Varvara 26550
+Varvasaina 1280
+Bokhali 876
+Trochalia 51
+Loutrochori 483
+Arkochori 312
+Krion Neron 99
+Krya Nera 16
+Karya 589
+Meseleroi 135
+Selli 53
+Diasella 44
+Leontito 126
+Pontioi 308
+Archontiko 213
+Charchaliana 23
+
+Archangelos 5398
+Kamara 643
+Kamarina 444
+Moukovina 33
+Velesiotes 228
+Vourliotes 376
+Ayios Nikolaos Monemvasias 142
+Agios Nikolaos Mpoura 195
+Agios Nikolaos Vogatsikou 6
+Ayios Nikolaos Niras 9
+Mikro Soulopoulo 20
+Koronopoulo 216
+Korona 44
+Toroni 213
+Oros 54
+Kefalovryso 959
+
+Oichalia 3271
+Vlichadia 7
+Dadia 784
+Zarkadia 598
+Amygdaloi 9
+Eptamyloi 712
+
+Lefkonas 2388
+Lefkogeia 283
+Lefkothea 76
+Dorothea 564
+Gkrimpovo 82
+Kato Sagkri 27
+Kato Stavros 31
+Stavromeno 130
+
+Stavraki 1563
+Stavrochori 398
+Panayitsa 266
+Stathis 398
+Agathi 32
+Marathia 260
+Makhairadhon 941
+Lapas 1377
+Pendalofon 889
+Polilofon 20
+
+Lofos 1772
+Trovato 132
+Provarma 112
+Charma 301
+
+Agios Loukas 1665
+Volakas 1225
+Trochalakas 6
+Petrochori 1052
+Agia Thekli 36
+Agioi Theodori 123
+Kato Elounda 86
+Dasochori 834
+Thrakiko 95
+Poulithra 598
+Poullitsa 696
+Loutra Oraias Elenis 1145
+Loutra Ipatis 403
+Loutra Gialtron 38
+Skala Loutron 259
+Loutra 1116
+Kato Loutro 394
+Lazaina 67
+Azali 2
+Mazarakia 558
+
+Kali 1773
+Kalianaiika 59
+Tsiliyiannaiika 15
+
+Gra Liyia 1528
+Pelekita 140
+Karyotiko 74
+Despotiko 148
+Xylagani 1445
+Agios Nikolaos Kokkalas 2
+Ayios Nikolaos Methanon 8
+Ayios Nikolaos Trichonidos 136
+Skaloula 67
+Kendarkhos 58
+Kotsiana 67
+Amisiana 927
+Vatsiana 31
+
+Galatsi 59345
+
+Galatista 2537
+Platistomon 251
+Lykostomo 403
+Vlatos 99
+Platanistos 48
+Petrades 10
+Sinarades 854
+Pades 31
+Latomeio 1
+Stomio 649
+Aetomilitsa 432
+Germa 15
+Dhermation 21
+Armata 30
+Marmaras 14
+Arma 1078
+
+Aspropyrgos 30251
+Psathopyrgos 663
+Psathi 19
+
+Vathi 2385
+Metalleia 373
+Pialeia 910
+Nikokleia 737
+Kleido 24
+Eidomeni 154
+Vatsounia 615
+Patsos 271
+Matsoukion 224
+Melissourgeio 63
+Melissopetra 31
+Aetopetra 124
+Khalkeio 439
+
+Chalkidona 3144
+Chalkeio 950
+Nikola 144
+Kokolaiika 102
+Sakkoulaiika 16
+Anastasopoulaiika 2
+Yiannoulaiika 131
+
+Panormos 2069
+Orma 641
+Alfeiousa 1067
+Palaios Mylotopos 819
+Kampos Palaiopoleos 11
+Agiokampos 94
+Prinylas 70
+Psathylas 72
+Agnitsini 119
+Moni Antinitsis 4
+Chinitsa 71
+Kato Dhiminio 1201
+Dhimaina 435
+Vrinaina 308
+Linistaina 110
+Laista 60
+Skotoussa 1415
+Kastanoussa 592
+Ano Ayios Vlasios 55
+
+Ios 2024
+Stelida 157
+Kapsaniana 11
+
+Thrapsanon 1499
+Kato Kallithea 157
+Kato Kanalia 62
+Kato Kalliniki 85
+Bafion 58
+Vafiochori 603
+Elaiochoria 344
+
+Kardia 3394
+Perdika 1476
+Gardiki 663
+Vardiana 14
 
 Vari 15855
+Agios Konstantinos 659
+
+Gerakas 29939
+Gerania 379
+Latziana 17
+Chatzistamoulides 1
+Frantzis 551
+Kaminos 162
+Mina 86
+Pitsiota 101
+Tritsi 24
+Koumaritsion 43
+Nikolitsion 48
+Pteri 10
+Ptelea 276
+Telendos 94
+Mendouryianika 127
+Mendenitsa 213
+Zilefti 596
+Moskhokaria 215
+Karpi 369
+Agioi Apostoloi 140
+Apostolos Pavlos 8
+
+Ayioi Apostoloi 1904
+
+Ayios Nikolaos 3426
+Longa 983
+
+Schimatari 4035
+Laliotis 372
+Argokoiliotissa 26
+Artissa 51
+Gouriotissa 395
+Koupa 47
+
+Polykastro 7064
+Melinta 23
+Selina 97
+Gerovrysi 109
+Monovrysi 566
+Asprovrysi 41
+Aspros 774
+Asprokhoma 617
+Asproneri 30
+Asprochorti 11
+Makrata 49
+Makra Ammos 23
+Makrades 244
+Malakonta 1097
+Loukisia 1161
+
+Yimnon 2008
+Kronia 52
+Kampos 372
+Mavrokampos 6
+Mesokampos 110
+Ammokampos 19
+Azalas 29
+Azapiko 5
+Gazatika 143
+Kavrochori 503
+
+Moires 6379
+Schoinia 6
+Myrthianos Plakias 182
+Planos 742
+Megaplatanos 418
+Platanion 103
+Platanochori 127
+Ganochora 562
+Vounochori 106
+Vlasi 168
+Ano Theodoraki 53
+Kentriko 228
+
+Trikala 61653
+
+Tsikalaria 1545
+Pythagoreio 1272
+Theodoreio 104
+Anogeio 69
+Kondaraina 168
+Vainarion 33
+Solinari 20
+Sfinari 125
+Kato Pavliana 121
+Platonas 353
+Platani 466
+Gypsochori 428
+Kerasochori 274
+Mesochora 459
+Chrysochorafa 1023
+Chrysorrachi 143
+Spartorachi 30
+Diskouria 26
+Mouri 40
+Thouria 1302
+Amouri 278
+Avlakiai 37
+Vamvakiai 56
+Vamos 569
+Ardosi 39
+Vardas 25
+Kardamos 12
+
+Varda 3307
+Kardamas 1138
+Kardaras 20
+Vardali 285
+Anifion 745
+Lafionas 154
+Afionitika 3
+Kritika 453
+Selianitika 902
+
+Amfissa 6854
+
+Kissamos 4236
+Melissa 373
+Akritochori 390
+Patiopoulo 156
+
+Sidirokastro 5177
+Neokastro 949
+Elafos 621
+Kafou 24
+Sirikari 19
+Magarika 26
 Ari 208
+Mariou 303
+Palamarion 15
+Dhamarionas 333
+Timios Stavros 49
+Gavros 366
+Faneromeni 559
+Estavromenos 39
+Laliza 49
+Rizario 821
+Sykamia 26
+Plokamiana 15
+Avramianika 3
+Anavra 1145
+Kouklesi 54
+Koukkouli 51
+Varkoulia 21
+Sana 293
+Vissani 424
+Kariotai 532
+Papa Aloni 9
+Saloniki 75
+Katalonia 484
+Koloniati 77
+Trialonia 31
+Salanti 1
+Mantili 105
 
-Aria 2080
+Anthili 1693
+Exanthia 170
+Alexandra 143
+Megarchi 503
+Mega Gardiki 125
+Gardhikion 231
+Mikro Gardiki 22
+Kato Gardenitsa 8
+Gardelades 371
+Agioi Deka 370
 
-Kaisariani 26370
-Kaisario 497
-Vrisa 617
-Vrina 860
-Vrinaina 308
-Raina 129
+Agioi Theodoroi 4643
+Eirini 96
+Kineta 1446
+Psaras 152
+Psarrou 20
+Cheimarros 740
+Iraklia 469
+Galanado 455
+Velonado 88
+Velousi 22
+Roussakiana 4
+Aleimmatades 120
+Varypatades 352
+Afionas 294
+Othonoi 761
+Chrysiida 898
+Agios Ilias 232
+Agras 854
+Agriani 295
+Kariani 591
 
-Nea Filadelfeia 25734
+Aiani 2119
+Gianitsanika 26
 
-Moskhaton 25441
+Konitsa 2942
+
+Tsaritsani 2514
+Zastano 13
+Kastanochori 122
+Palaiokomi 1274
+Dhiminio 457
+Pera Melana 295
+Krinitsa 443
+Amigdhalea 14
+Koromilea 232
+Alea 103
+Omales 21
+
+Malia 4343
+Gialia 7
+Skalia 41
+Keria 15
+Pteria 109
+Fteri 512
+Aposkepos 139
+Molyvdoskepastos 43
+Molyvadia 127
+Moles Kalyves 125
+Ramos 80
+Paramonas 36
+Milokokia 20
+Chamilo 117
+Karavidhia 30
+Avia 281
+Kallipoli 556
+Kallimasia 958
+Karadimas 195
+Gavradia 73
+Gavrina 51
+Gavrisioi 109
+
+Lavrio 7078
+Mavrilon 146
+Mavrata 109
+Mavrika 565
+Mavri Myti 3
+
+Mytilinioi 1982
+Ftilia 20
+Filia 861
+Vilia 1269
+
+Zagora 2385
+Goritsa 289
+Vitsa 102
+Militsa 371
+Zitsa 613
+
+Peta 1952
+Kato Petalion 109
+Petaleia 121
+Skaleta 350
+Ano Daskaleio 139
+
+Vyronas 61308
+Katsaronas 33
+Psarou 164
+
+Saronida 2932
+Peronides 5
+Aroniada 1
+Aronas 342
+Roumania 16
+Vitoumas 191
+Epano Loumas 16
+Neraida 248
+
+Aridaia 6561
+Gridia 18
+Kounos 32
+Ramni 103
+Krimni 257
+Pikrolimni 114
+Limnionas 29
+Xirolimni 11
+Stavroskiadi 34
+Grammatikou 802
+Ano Gardenitsa 34
+Metagkitsi 802
+Stavrokhorion 34
 Moskhokhorion 822
-Skhinokhorion 305
-Limnokhorion 1213
+Vovousa 115
 
-Perama 25389
-Linoperamata 216
-Perampela 5
+Karditsomagoula 2200
+Isoma 207
+Donousa 141
 
-Ampelakia 4710
+Anthousa 2132
 
-Salamina 25370
+Ano Liosia 33565
+Ano Lekhonia 1214
+Ano Loutro 48
+Palaia Loutra 25
+Loutro 841
+Palaio Loutro 13
+Palaio Lithoto 16
+Meliadi 248
 
-Elefsina 24910
+Melissia 22741
+Melissotopos 172
+Melissokomeio 284
+Mesokomi 110
+Belokomiti 146
+Ambelos 213
+Kambos 633
+Nisi 1473
+
+Karpenisi 6888
+
+Karpathos 2243
+Moni Panachrantou 19
+Amarantos 330
+Aratos 1152
+Avato 1357
+Manitokhori 20
+Zorgianni 9
+Georgianoi 365
+Throfari 73
+Neo Thronion 58
+Paralia Agiasmatos 20
+Paralia Achinou 12
+Paralia Astridos 79
+Komma 493
+
+Kato Tithorea 2753
+Ydromilos 90
+Miloi 378
+Trilofo 818
+Dhilofon 67
+
+Trilofos 7227
+
+Efkarpia 3480
+
+Lefkada 8673
+Lefkes 58
+Lefkadia 914
+Mikros Valtos 235
+Sparta 20
+Spartounta 36
+Spartera 100
+Karterides 29
+Teria 6
+Chochlia 30
+
+Chloi 3079
+Achlada 271
+Ereikoussa 496
+
+Petroussa 1985
+
+Limni 2072
+Alamannos 170
+Kalamakia 59
+Kalami 29
+Moni Kalamiou 33
+Moni Kandilas 3
+Monii Karakala 29
+Moni 216
+Pisaski 12
+Sasalos 28
+Salonikiou 31
+Kalonioi 24
+Kaloneri 277
+Krionerion 868
 
 Malesina 3833
 
 Dilesi 1976
 
+Agios Stefanos 9892
+Stefaniada 23
+Agios Stefanos Sinion 87
+Stefani 567
+Longitsi 90
+Longos 659
+Longies 148
+Longades 859
+Agioi Pantes 339
+Agioi Anargyroi Kapandritiou 276
+
 Plaka Dilesi 2696
 
-Chios 23953
+Kryoneri 5040
+Kryopigi 737
+Petropigi 522
+Petri 280
+Margarita 228
+Ypapanti 40
+Kato Dhamasta 158
+Kato Doloi 141
+Ano Doukanaiika 22
+Karamanaiika 48
+Kipouries 10
+Sfendourion 52
+Litharia 10
+Meropi 52
+Apomero 142
+Pompia 953
+Kampi 928
+Kampanis 1170
+Exo Chora 128
+Mikro Chorio 17
+Kalo Chorio 353
+Piso Pigadhion 13
+Pigadaki 6
+Kalopigadho 474
+Vlacherna 374
+Ofrinion 758
+Akrini 1113
+Krinida 573
+Zoodochos 504
+Mikro Souli 385
+Mikro Nisi 38
+Mikropolis 1094
+Keramidi 338
+Mezapos 31
+Atrapos 150
+Notos 93
+Vatos 345
+Roda 561
 
-Ios 2024
+Rodos 56128
+Dodoni 55
+Kydoni 112
+Polydoro 63
+Polynero 18
+Polypetro 425
+Vasaiika 10
+Sataiika 107
+Katsaraiika 182
+Ano Melas 30
+Melates 190
+Sisamia 329
+Myrsinochori 190
+Vlachata 520
+Paralimnio 525
+Modhion 311
+Rakhidhion 172
+Kotsiridhion 22
 
-Pylaia 23494
-Elaia 141
+Galaxidhion 3030
+Khidhira 472
+Ira 369
+Ivira 615
+Ano Kalivia 174
+Ano Kamila 682
+Kroustas 476
+Rousso 623
+Oinoussa 517
+Ydroussa 369
+Roussis 2
 
-Megara 23456
-Megarchis 912
+Marousi 72333
+Koniskos 195
+Episkopos 103
+Drakos 11
+Danakos 68
+Kanakari 49
+Ano Vyroneia 1
+Ano Valsamonero 77
+Samonida 70
+Sami 1347
+Gionides 49
+Esperides 69
+Petalides 29
+Ammoudi 212
+Stanos 1132
+Katavolos 19
+Kavos 685
+Paravola 1118
+Karave 21
+Karavotsaki 8
+Tsakoi 961
+Notia 309
+Palatiano 42
+Palaioplatanos 33
+Palaiopolis 14
+Moni Strofadon 1
+Mastron 406
+Kastri 690
+Kastraki 1172
 
-Kilkis 22914
-
-Chalkidona 3144
-
-Dhafni 22913
-
-Rododafni 2564
-
-Thivai 22026
-Vathia 18
-
-Vathi 2385
-
-Athikia 1834
-
-Arta 21895
-Chortata 100
-Vatatades 18
-
-Livadeia 21492
-
-Artemida 21488
-Artemon 800
-
-Pefki 21352
-Pefkali 204
-Lefka 28
-Lefkonia 128
-
-Naousa 19887
-
-Kos 19244
-Lykos 19
-Alyki 17
-
-Koropi 19164
-
-Edessa 18669
-Chariessa 926
-Piperies 558
-Dories 36
-Maries 158
-
-Florina 17686
-Floriada 132
-
-Nea Erythraia 17379
-Anthrakia 174
+Agnantero 1859
+Gorgogyri 571
+Kalomoira 508
+Solomos 743
+Omolio 838
+Lagolio 54
+Lagia 55
+Vounoplagia 1404
+Vounoreia 16
+Oreini 742
+Ano Lapsista 386
+Kato Ampelia 219
+Skoutesiadha 60
+Adhami 302
+Ano Dhamasta 145
+Ayios Ioannis Evxinoupoleos 12
+Agios Ioannis Limnon 4
+Nisos Ioanninon 219
+Agios Georgios Dolianon 60
+Agios Georgios Monolithiou 122
+Agios Georgios Virou 89
+Agios Georgios Gialtron 24
 
 Preveza 17283
-Greveniti 193
 
-Grevena 10563
-Kato Vervena 220
-Kato Verga 94
-Ano Verga 28
+Filippiada 4619
+Kommeno 743
+Zemeno 240
+Grammeno 176
+Ammos 479
+Spiliotakis 39
+Aspiotades 59
+Vatatades 18
+Chortata 100
 
-Elliniko 17259
-
-Pallini 14808
-
-Amaliada 16763
-
-Panorama 16551
-
-Sparti 16239
-
-Orestiada 16221
-Oreskeia 57
-Oreini 742
-Oreino 101
-Kleino 332
-
-Irakleia 3786
-Iraklia 469
-
-Peraia 16067
-Neraida 248
+Chortiatis 3466
+Chortero 628
+Xilokeratidhion 156
+Peratis 39
+Peristera 1137
+Megalo Peristeri 310
+Nisteri 4
+Mikro Peristeri 2
+Peristerona 394
+Agios Ioannis Peristeron 27
+Kato Agios Ioannis 678
 
 Agios Ioannis Rentis 16050
-Ayios Ioannis 983
 
-Nea Makri 15554
+Kifisia 47332
+Plaisia 234
+Apolpaina 819
+Skarfeia 378
+Milos 819
+Milopotamos 49
+Mesopotamo 503
 
-Oraiokastro 15006
-Kalokastro 242
-Kastron 817
+Limin Khersonisou 2968
+Agios Georgios Methystis 117
+Piskopiano 286
 
-Tavros 14972
-
-Paiania 14595
-
-Nafplio 14582
-
-Kalyvia Thorikou 14424
-Kalyvitis 5
-
-Thermi 14373
-
-Pikermi 2009
-Kato Vermio 463
-
-Drapetsona 13968
-
-Spetses 4001
-
-Papagou 13699
-
-Magoula 4735
-Magoulades 365
-
-Alexandreia 13665
-Mandres 475
-
-Nafpaktos 13415
-Akti 87
-Fylakti 278
-
-Kastoria 13387
-Mastoratika 56
-
-Mesolongi 12785
-
-Gazi 12606
-Razia 55
-
-Ierapetra 12355
-
-Kalymnos 12324
-Katalyma 11
-Katalonia 484
-Trialonia 31
-Alona 211
-
-Rafina 12168
-Kokkina Chorafia 5
+Schisma Eloundas 1730
 
 Kokkini Chani 1755
-Kokkini 53
-Kokkinias 6
 
-Nea Alikarnassos 11886
-Nea Anatoli 1002
+Chania 53910
+Chani Terovou 40
+Stavrodromi Teriachiou 11
+Prodromos 994
+Moni Timiou Prodromou Serron 41
+Aerodromio 111
+Romia 183
+Dromitsa 181
+Stavrodromi 581
+Elaiofiton 172
+Elaiochori 1195
+Zygos 1485
+Amorgos 397
+Moni Genniseos Theotokou Vellas 11
+Koimisis tis Theotokou 4
+Moni Genniseos Theotokou Zourvas 7
+Moni Yperagias Theotokou Myrtidion 22
+Desimi 1
+Mesia 226
+Dramesioi 125
+Drakaioi 89
+Vivari 314
+Livadari 66
+Polydendro 231
+Monodendro 83
+Psomotopi 156
+Kalamoto 871
+Keramoti 1438
+Kalyvia Elafotopou 2
+Kalyvitis 5
+Kalyvos 66
 
-Loutraki 11564
+Kalyvia Thorikou 14424
 
-Zakynthos 11541
-Pithos 26
-Marathos 111
-Marathias 331
+Agia Paraskevi 59704
+Agia Paraskevi Rethymnis 246
+Paraskevi 205
+Agia Paraskevi Lamieon 922
+Ayia Paraskevi Parakampylion 38
+Agia Paraskevi Karitsis 6
+Vragkaniotika 182
+Khaniotis 893
 
-Ialysos 11473
+Vlachiotis 2404
+Metalleion Tsoukkas 7
+Kapodistrias 136
+Istro 665
+Tristrato 116
+Stratoniki 561
 
-Agios Nikolaos 11421
-Ayios Nikolaos Methanon 8
+Kolchikon 2010
+Polla Nera 163
+Kollaiika 21
+Anemorrachi 314
+Perdikorrachi 185
+Kapsorrachi 287
+Stikas 44
+Mertikaiika 215
+Mertidion 21
+Palaiochorion 314
+Megali Petra 78
+Katsimatika 19
+Makratika 168
+Makrikapa 878
+Gkrika 262
+Limnokhorion 1213
+Kapnokhorion 61
+Kapnofyto 181
+Myrtofyto 424
+Ampelofyto 263
+Frilingianika 78
+Ellinika 114
+Levka 152
+Erfoi 141
+Korfovouni 159
 
-Tyrnavos 10796
-Eratyra 1383
+Dhrafi 3055
+Kalochorafitis 92
+Velochori 225
+Velos 77
+Velouchi 66
+Ntamouchari 33
+Methana 892
+Ayioi Theodhoroi Methanon 45
+Neoi Poroi 631
+Oreoi 1293
 
-Farsala 10380
+Pefka 2288
+Megala Pefka 89
+Pefkos 18
+Pefkovrysi 1
+Stathmos Angelokastrou 105
+Stathmos Amfikleias 2
+Stathmos Vevis 41
+Agia Marina Sifnou 70
+Agia Fotia Siteias 267
+Ververouda 130
 
-Diavata 10216
+Souda 6729
+Ammoudares 121
+Kokkina 202
+Marmatsouka 3
+Megali Kapsi 215
+Mesaia Kapsi 53
+Rapsaioi 64
+Kapsaliana 1
+Rapsani 909
+Kapsali 76
+Raxa 673
 
-Neo Psychiko 10137
-Neo Sykamino 272
+Xanthi 48221
+Tsikkalia 20
+Kaloutsikos 32
+Atsiki 886
+Viaradhika 23
+Dhikastron 283
+Farsa 222
+Farangi 137
+Faraklo 5
+Klonion 144
 
-Polygyros 10000
-Polydroso 408
+Kalloni 1776
+Kalligonion 197
+Trigonon 29
+Grigoris 97
+Metaxada 109
+Metalliko 386
+Mega Khorion 219
+Katokhorion 137
+Kato Alepokhorion 220
+Ano Esokhoria 29
+Vachos 75
+Koryfoula 79
+Platys Gyalos 29
+Platia 6
+Platania 391
+Plataria 1044
+Foteino 449
+Peteinos 1014
+Kleino 332
 
-Agios Stefanos 9892
+Terpni 2169
+Vrysoules 31
+Vryses 740
+Kalovrysi 10
+Kefalovryson 44
+Kefalari 677
+Antigoneia 109
+Ligonari 7
+Ligopsa 130
+Veligosti 61
+Perivolakion 841
+Pervolakia 63
+Plakias 143
+Plakoto 50
+Platanotopos 584
+Platanias 157
+Platania Oropou 138
 
-Argostolion 9820
+Platanos 1764
+Koskinas 20
+Roska 84
+Vradeto 21
+Avra 579
 
-Panaitolion 2935
+Mouzaki 2127
+Vouzion 128
+Kouzounos 4
+Rodhonia 256
+Ano Achladies 25
+Achladokampos 497
+Kalamitsion 211
+Klenia 777
+Kleidi 1412
+Kleitos 1382
+Perikleia 341
+Perikopi 4
 
-Anatoli 9798
+Episkopi 1990
+Akova 167
+Kalovatos 589
+Paliampela 996
+Mourgkani 111
+Melissourgoi 593
+Lippa 39
+Pappas 64
+Pappadates 1313
+Moni Genniseos Theotokou 87
+Evangelismos tis Theotokou 114
+Moni Koimiseos Theotokou Kleiston 9
+Kleisto 158
 
-Kiato 9812
+Irakleia 3786
+Limani Karra 95
+Doliani 55
+Kavallos 180
+Nea Kavala 140
+Kera 36
+Kerasona 369
+Kato Kerasovon 431
+Nea Kerasia 713
+Kouvelles 44
 
-Limin Mesoyaias 9686
+Velestino 3044
+Velina 136
 
-Lykovrysi 9650
-Myrovrysi 211
+Velo 3096
+Elos 956
+Moni Agiou Georgiou 7
+Spithari 136
+Monospita 897
+Spilion 710
+Spileia 36
+Dispilio 976
+Kylindras 22
+Mandraki 682
+Gefyroudi 717
+Pontoirakleia 692
+Vlychadia 68
+Livadia 623
+Gonia 331
+Alonia 653
+Kouvouklia 222
+Sarti 1156
+Andartikon 84
+Palaiozoglopi 21
+Neraidha 84
+Poullakidha 605
+Diasellaki 11
 
-Psychiko 9529
+Pella 2476
 
-Markopoulo 9513
+Karellas 1579
 
-Markopoulo Oropou 2549
-Kampos Oropou 255
-Agios Athanasios Oropou 99
-Thanasia 81
-Thanasaiika 73
+Metamorfosi 29891
+Skarmagkas 1255
+
+Khalandrion 74192
+
+Alimos 41720
+
+Acharnes 99346
+
+Keratsini 77077
+Pitsinianika 79
+Pitsidia 666
+Zaimi 526
+Nazaioi 80
+Gomati 509
+Platistoma 54
+Raptopoulo 528
+Petroporo 629
+Petra 1299
+Theopetra 664
+
+Deskati 3856
+Koronisia 165
+Pisia 80
+
+Makrisia 1902
+Makrinitsa 694
+Aetorrachi 49
+Nea Nikomideia 813
+
+Livadeia 21492
+Livaditsa 79
+Livadaki 28
+
+Ioannina 65574
+Ayios Ioannis Riganas 327
+Ayia Trias Makrinous 44
+Makri 307
+
+Nea Makri 15554
+Makrinou 131
+Kanava 86
+Kanalia 1015
+Mavro 202
+Sarandapikho 3
+Vlikhon 440
+Kato Ayios Vlasios 24
+Skepari 343
+Ano Amygdaloi 25
+Paloi 167
+Ampeloi 458
+Ampelaki 111
+
+Ampelona 5961
+Fry 357
+Afraton 26
+Nea Bafra 716
+Nea Moni 2
+Nea Makrisi 152
+Kato Makrinou 580
+Krinos 31
+Krinias 16
+Skinias 48
+Kokkinia 208
+Tripotamos 458
+Dipotamia 456
+Kato Potamia 137
+Akropotamia 637
+Katafygio 256
+Polystafylo 237
+Potos 815
+Kato Kambia 142
+
+Kalampaki 3514
+Palaio Kalamaki 24
+
+Kalamata 54100
+
+Palamas 5719
+Stalis 1182
+Kostalexis 397
+Lykostani 11
+Zervou 34
+Servota 642
+Zervochori 221
+Zervaiika 16
+Zervochia 61
+Zerviana 66
+Kolchiki 231
+Ayia Marina 355
+Agia Marina Delvinakiou 79
+Agia Marina Grammatikou 217
+Marina 1091
+Patrida 1330
+Astrochori 49
+Karfas 393
+Paralia Agias Foteinis 49
+Foteinos 79
+Erateino 649
+Foteini 186
+Pityous 257
+Roussa 325
+Gonoussa 157
+Schoinoussa 211
+Chotoussa 63
+Olymbos 400
+Polymylos 695
+Rizomylos 1482
+Neromyloi 78
+Tourkomylonas 16
+Nikopoli 315
+Nikolitsi 397
+Gyrismata 11
+Sychalasmata 12
+Chalara 13
+Dhalamanara 877
+Kalamaki 106
+Rachidi 1
+Ano Rachi 127
+Agios Georgios Koxaris 21
+Pantanassa 293
+Fountana 125
+Sidirounta 38
+Merikounta 13
+
+Elassona 7060
+Assa 19
+
+Assos 1916
+Asos 82
+Asopia 1375
+Chrisopigi 6
+Christos 64
+Sapounakaiika 209
+Mouzakaiika 207
+Kyriakaiika 14
+Loumpa 1
+Troumpettas 20
+Petrounion 18
+
+Petroupolis 58979
+Mpatsi 235
+Latsida 247
+Syggouneika 24
+Papadeika 23
+Paralia Drotas 11
+Paralia Sykias 77
+Steiri 1056
+
+Elateia 2372
+Elataria 50
+Portaria 1429
+Pori 43
+Kato Sinoikia Trikalon 254
+Fraxo 115
+Antipaxos 61
+Liparo 550
+Analipsi Lippas 8
+Filippoi 894
+
+Filiro 4362
+Mandres 475
+
+Assiros 2409
+Kaminia 716
+Kouremadi 96
+Vathyrema 72
+
+Kremasti 4700
+Mastichari 303
+Aristi 128
+
+Istiaia 4339
+
+Stylida 4892
+Ida 639
+Anydro 490
+Xifiani 767
+Perivleptos 466
+
+Perivolia 3320
+Perivolion- PREVALE 500
+Charvalo 18
+Stilia 147
+Katsikia 297
+
+Pelasgia 1497
+Palaia Yiannitsou 174
+Gianniou 60
+Emponas 1061
+Pispilounta 60
+Spilaio 7
+Palaioselli 45
+Selles 25
+Polidhendrion 128
+Monodendri 129
+Synoro 23
+Synoikismos Prosfygon 116
+Oikodomikos Synetairismos Ypallilon DEI 81
+Ayios Kirikos 733
+Ayios Vasilios 1264
+Ayios Vlassis 38
+Arkhanion 363
+
+Nea Michaniona 7908
+Kitros 1412
+Kotomista 16
+Altomira 47
+Valtoudi 27
+Valti 16
+Valtsaiika 82
+
+Promachoi 1740
+Makrolivadhon 202
+Mavrolongos 3
+Polythea 215
+Nea Marathea 24
+
+Nea Manolada 2219
+Limontaiika 20
+Langadhia 1363
+Pigadhisanoi 157
+Pigaditsa 185
+Kryo Pigadi 17
+Sfakopigadi 58
+Asfaka 269
+Plaka 749
+Malakasi 513
+Ano Malaki 77
+Porto Kagio 19
+Fortosi 38
+
+Porto Cheli 1817
+Porta 92
+Portitsa 161
+
+Violi Charaki 2785
+Kioliana 22
+Koliaki 168
+Agios Georgios Glykoriizou 53
+Agios Georgios Minas 4
+Kato Mousiotitsa 256
+Kato Malaki 61
+Kato Meropi 84
+Kato Mitrousi 472
+
+Mitropoli 1572
+Flampouro 837
+
+Louros 2033
+Koulouri 250
+Skouloufia 123
+Maroulou 41
+Maroudi 141
+Lakoudia 8
+Kontoudiana 7
+Psakoudia 299
+Koryfes 38
+Tryfos 708
+Myriokefala 268
+
+Myrina 5406
+Tsapournia 230
+
+Mournies 5318
+Plaitis 94
+Kelanitis 67
+Aiginitissa 91
+
+Ritini 1711
+Panaritis 563
+Fanarion 127
+Kamarion 46
+Vidhion 12
+Levidion 1025
+Levkon 116
+Plevrona 276
+Evropouloi 344
+Tsagkaropoulo 189
+Dimitropoulon 187
+Mitropisi 165
+
+Zografos 71026
+Pilogranitsa 34
+Kalogriana 760
+Dhouka Vrisi 76
+Vrisa 617
+Aghia Markella 7
+Sakellariko 54
+Sella 101
+Bogdanatika 141
+Riliatika 32
+
+Filiatra 6970
+
+Gastouni 8114
+Katastarion 1378
+Kastani 67
+Kastanoula 106
+Kastanea 787
+Prisilimes 60
+
+Limenaria 2471
+Vathikoilon 194
+Kournorrachi 12
+Rachi 574
+Vracha 98
+Vrachokipos 325
+Kipoi 358
+Kodra 19
+Pefkodasos 577
+Nea Komi 63
+Nea Karya 1426
+Nea Kamarina 33
+Kariotika Kamariou 18
+Kamaria 29
+Kamarai 1200
+Diava 828
+Savalia 1339
+Stavloi 253
+Agios Pavlos 491
+Sarlata 380
+Rodokipos 61
+Lachanokipoi 105
+Vlachatano 26
+Vlachopoulo 1446
+Mavropoulo 50
+Exokhi 30
+Exo Didyma 40
+Exochi 142
+Metochi 571
+Aetochori 25
+Profitis Ilias Valanidias 34
+Limani Vathikoilou 25
+Koila 1493
+Koiliomenos 391
+Kaimenos 32
+Limeniskos 40
+Limeri 239
+Skopia 563
+Viranepiskopi 122
+Tholos 776
+Kimolos 837
+Erimos 5
+Dhrimonari 11
+Rimpari 80
+Dyo Prinoi 1
+Kyprinos 1095
+Mikros Prinos 30
+Prina 90
+Prinedes 41
+
+Krinides 3365
+Tzithra 7
+Anthrakia 174
+Chantakia 33
+Galataki 438
+
+Neoi Epivates 5077
+Matesion 109
+Manolates 131
+Keramates 411
+Ormos Marathokampou 194
+Koutsopapoulo 12
+Koutsounari 566
+Koukounara 41
+Lekouna 3
+Palaiokklisi 885
+Iera Moni Ayias Triados 135
+Arakhnaion 643
+Pakhia Rakhi 25
+Kladhorrakhi 93
+Akhladhea 52
+Kopsokhiladhes 110
+Asprokambos 211
+Asprokklisia 628
+Asprokhorion 151
+Dories 36
+Lidoriki 840
+Brikion 8
+Niki 273
+Vatochori 23
+Pournari 603
+Revmatia 126
+Mati 180
+Ayios Yeoryios Troizinos 228
+Ayios Petros 22
+Petroto 842
+Kakopetros 50
+
+Agios Petros 1505
+Fournoi 301
+Pournia 35
+Neai Kydoniai 485
+Paidonia 8
+Patero 44
+Karteros 810
+Gergeri 1444
+Germas 560
+Pelei 9
+Panteleimon 451
+Agios Panteleimon Makry Gialou 118
+Strongyli Agiou Panteleimona 64
+Agioi Dimitrios kai Panteleimon 189
+Akhinos 726
+Akhillio 628
+Agios Achilleios 21
+Agios Arsenios 717
+Lithiasmenos 11
+
+Pontismeno 1666
+Ano Kalesmenon 4
+Ano Kalliniki 275
+Ellinikon 378
+
+Sevastiana 1561
+Levaia 919
+Levkas 394
+Malevros 68
+Nevropoli 100
+Voulgareli 590
+Leventis 24
+Antissa 908
+Neon Roinon 471
+Xinoneri 597
+Sakka 97
+Lakkos 40
+Lakkomata 97
+Kakolakkos 26
+Kalos Lakkos 2
+Xirolakkos 18
+Dilakko 19
+Lakkopetra 758
+Thiriopetra 334
+Kastelopetra 12
+Sandali 152
+Sani 18
+Sangas 125
+Benitses 843
 
 Igoumenitsa 9496
 
 Vonitsa 4703
-Anitsaion 28
+Iliovouni 111
+Rizovouni 808
+Loutra Platistomou 7
+Platoma 25
 
-Konitsa 2942
-Tsakoni 288
-Psaka 220
+Platy 2228
+Oinousses 792
+Agios Ioannis Amaliados 431
+Ryakia 583
 
-Nea Artaki 9489
-Nea Agnanti 79
+Aiginio 4275
+Nea Trapezounta 504
+Kosmados 16
+Kosmothea 131
+Domnista 287
+Stratinista 62
+Vounistra 63
 
-Zefyri 9454
-Tyria 56
+Eleousa 3484
+Maliasteka 170
+Drymonas 28
+Rymi 6
+Drymades 48
+Kouramades 255
 
-Kyriaki 2227
-
-Nea Moudhania 9342
-Aniadha 57
-Skoutesiadha 60
-
-Skoutari 2154
-Skoulikaria 381
-Karia 199
-Kariani 591
-Agriani 295
-
-Spata 9198
-Neapoli Spaton 584
-Agia Kyriakii Spaton 886
-
-Chrysoupolis 8885
-Ouranoupolis 1047
-
-Sitia 8707
-Agia Fotia Siteias 267
-Agia Marina Sifnou 70
-Iera Moni Agias Marinas 1
-
-Agia Marina 3765
-Agia Marina Grammatikou 217
-Agia Marina Mikrolimanou 476
-Panorama Mikrolimanou 172
-Panorama Epivadrou 45
+Nea Erythraia 17379
+Lakithra 341
+Kethra 27
+Samothraki 719
+Samonas 37
+Monastiri 17
+Fragkades 77
+Fragkoulias 14
+Verniko 31
+Palaia Taverna 25
 
 Palaia Epidavros 1618
 
 Palaia Fokaia 2713
+Kallitechnoupoli 923
 
-Lefkada 8673
+Ermoupolis 11351
+Agia Kiriaki 31
 
-Didymoteicho 8336
+Agios Kirykos 1908
+Agios Markos 257
+Kolones 153
+Kanakades 204
+Diastavrosi Palaiokastrou 206
+
+Stavros 2489
+
+Kamena Vourla 2761
+Dhio Vouna 79
+Trifillianika 42
+Trifylli 543
+Korogonianika 3
+Logothetianika 153
+Ayios Nikolaos Arkitsas 26
+Agios Nikolaos Korisou 22
+Yerontas 4
+Topoliana 229
+Asprogeia 209
+Trizonia 64
+Vaviloi 209
+Vavdos 380
+Kato Lavdani 27
+Kato Lipochori 1074
+Kato Asprochori 31
+Kato Assos 693
+
+Nea Alikarnassos 11886
+
+Zoniana 1703
+Neromylos 61
+Neos Gorgomylos 282
+Syvota 973
+Katavothra 291
+
+Skoutari 2154
+Koutsi 155
+Koutselio 1118
+Miliotades 186
+Kato Neochoropoulo 776
+Floka 39
+Kalokairinai 15
+Mikinai 354
+Sarakinatika 31
+Aronatika 10
+Kontogiannatika 62
+
+Kontokali 1660
+Pelekito 126
+Melenikitsi 621
+Nikia 48
+Foiniki 138
+Loutra Sidhirokastrou 1
+
+Loutra Aidhipsou 2560
+Choumeriakos 174
+Agia Roumeli 125
+Agia Triada Melingon 50
+Sagiada 803
+
+Amaliada 16763
+Limni Keriou 253
+Akrolimni 1398
+Pedino 819
+Nikomidino 561
+Komilion 40
+Vourvourou 100
+Vournikas 154
+Vourvouria 11
+Gouria 862
+
+Thermo 1957
+Therino 39
+
+Thermi 14373
+Thermopilai 295
+Ermones 32
+Thermopiyi 154
+Liyia 320
+Pandanassa 531
+Mandalo 1204
+Sfendali 110
+Skandalo 222
+Palaio Eleftherochori 686
+Palatitsia 927
+Tsiapalaiika 11
+Bolaiika 66
+Tsoukalaiika 393
+Stavromenos Rethymnis 678
+
+Mithymna 1558
+Voreino 766
+Dilinata 719
+Ano Polysito 36
+Sitochori 531
+Agios Mamas 841
+Agios Kosmas 46
+Kria Vrisi 12
+Chilia Vrysi 42
+Mpoulamatsia 1
+Patsianos 100
+
+Tsiflikopoulo 1571
+Vasilopoulo 636
+Neos Kserias 468
+Neos Oropos 1375
+Pachykalamos 619
+Ano Parakalamos 39
+
+Metsovo 2503
+Petsalia 125
+Galia 852
+
+Paralia 6336
+Paralia Tyrou 831
+Telisio 71
+Zeli 673
+Fteli 15
+Fternon 181
+Ftelia 1006
+Melia 48
+Melissi 1024
+
+Glyfada 87305
+Merada 81
+Nera 6
+Valtonera 232
+Xirovalto 72
+Valtotopi 846
+Vrachasi 311
+Vrachleri 19
+Tsichleika 60
+Achlia 133
+Ano Achlada 102
+Thalero 162
+Katharon 18
+Psatha 15
+Lefki Peristera 17
+Moni Megalis Panagias 7
+Kyra Panagia 130
+Kato Kamila 1127
+Milatos 178
+Kamilari 379
+Toichio 685
+Ampliani 13
+Plikati 70
+Plisioi 356
+Ekklisiochori 371
+Monokklisia 311
+Ekklisochori 33
+Vrysochori 90
+
+Sochos 2748
+
+Melissochori 2002
+
+Sindos 8228
+Lapithos 25
+Oxilithos 1061
+Lithotopos 692
+Metaxochori 68
+Mesochori 358
+
+Chrysochori 1818
+Chrysi 281
+Kyra Chrysikou 563
+Vrysi 73
+Asimion 1259
+Karmion 21
+Marmarion 1013
+Kato Marmara 705
+Marmaron 174
+
+Neos Marmaras 3158
+Imerolia 125
+Imeros Pefkos 211
+
+Nea Chalkidona 9822
+Chalkero 194
+Voudia 12
+Arkoudi 1305
+Nea Selefkeia 1213
+Kelefa 39
+Eleftheria 147
+
+Eleftheroupolis 4360
+Kormista 555
+Mavrolofos 658
+Anastasia 258
+
+Peristasi 2454
+Kokkinos Pyrgos 426
+Ellinopyrgos 371
+Pyrgoi 91
+Mesopyrgos 170
+Neos Pyrgos 932
+Pyrgotos 163
+Pevkofiton 123
+Krithia 1374
+Kato Pines 62
+Kato Pedina 41
+Kato Poros 53
+Kato Panagia 680
+Panagitsa 43
+Kaltezes 62
+Esovalta 988
+Valtino 780
+Kalo Nero 78
+Pasion 1298
+Palampas 61
+
+Neo Rysi 3012
+Xirovrysi 171
+Nostimo 108
+Laimos 185
+Aimilianos 97
+Koromilia 370
+Ilia 233
+Dodonoupoli 129
+
+Amarynthos 3647
+Perinthos 22
+Anthochori 469
+
+Neochori 2102
+Neochori Sintikis 499
+Sirna 60
+Vamvakofyto 1061
+Pefkofyto 199
+
+Pefki 21352
+Ano Lefki 17
+Moni Metamorfoseos Sotiros Flamouriou 7
+Agios Sotir 488
+
+Avlonas 5744
+Avli 504
+Nea Pavliani 131
+Kato Raptopoulo 287
+Artopoula 123
+Granitsopoula 43
+Samiopoula 4
+Kipoula 17
+Atsipopoulo 1392
+Chanopoulo 313
+Merkadha 356
+Varka 42
+Arkadades 90
+Korakades 30
+Loustra 26
+Stratos 979
+Lyngos 76
+Kokkinolongos 35
+Neochoraki 485
+Neokhorakion 118
+Skiadades 88
+Martini 17
+Spartia 187
+Fterolakka 52
+Fterini 7
+Ksifias 136
+Lapato 7
+
+Papagou 13699
+
+Magoula 4735
+
+Erythres 2862
+Kynosoura 152
+Knosos 10
+
+Tinos 4573
+Agkidia 299
+Apidia 496
+Liapi 63
+
+Katsikas 3885
+Vogatsiko 543
+Kontsika 175
+Tsiknaiika 29
+Katsiyiannaiika 38
+Soultogiannaiika 36
+Stamatoyiannaiika 74
+Roupsia 54
+Goupa 14
+Skoupaiika 12
+Koumaiika 323
+Koumarionas 112
+
+Chalki 1837
+Neon Monastirion 1159
+Kedra 201
+
+Thrakomakedones 6200
+Komara 921
+
+Plomari 2996
+Mavratzaioi 249
+Tzara 105
+Lazarata 526
+Kato Mazaraki 1005
+Lazaratika 47
+Lazaridhes 9
+Mazaraki 196
+
+Litochoro 6709
+Pontochori 62
+Lygaria 580
+
+Patra 168034
+
+Spata 9198
+Agios Dimitrios Kropias 1011
+Agia Kyriakii Spaton 886
+Kyriakosellia 32
+Agia Kyriaki 427
+
+Agia 2827
+
+Kato Lekhonia 1751
+Kato Lampiri 21
+Kampion 59
+Kserokampi 279
+Ksirokamara 37
+Aipos 7
+
+Tripoli 26561
+Topolia 122
+Areopoli 888
+Kynigos 17
+
+Zakynthos 11541
+
+Lixouri 3752
+Paliouri 820
+Kouris 18
+
+Sykourio 2318
+Polyplatanos 892
+Yeroplatanos 337
+Koufopoulo 21
+Koutouloufari 357
+Kouloumion 17
+Koulouraiika 9
+Stournaraiika 537
+Mastoraiika 14
+Charouda 31
+Choudaliana 16
+Ammoudara 493
+Ammouliani 529
+Ammoudari 164
+Foustani 454
+Nestani 486
+Nestorio 865
+Ayia Eleni Troizinos 159
+Ayia Trias 1151
+Agia Triada Megaron 252
+Aghia Triadha 141
+Agia Triada Markopoulou 218
+
+Agia Marina 3765
+Iera Moni Agias Marinas 1
+Moni Agias Anastasias Farmakolytrias 4
+Moni Agias Evpraxias 1
+
+Agiasos 2320
+Agiasmata 6
+Kalisperianika 30
+Pissidos 221
+Rossi 79
+Manassis 26
+Manesis 534
+Desi 45
+Mesiano 301
+Felesiana 2
+Maliakouki 69
+Koukaki 83
+Laloukas 540
+Loukaition 196
+
+Velventos 3378
+Ydraia 496
+Kato Milia 1286
+Ano Tarsos 16
+Cherso 814
+Acherousia 234
+Lerousko 29
+Elefthero 75
+Petrovouni 79
+Mesovouni 186
+Kapesovo 51
+Skapeti 94
+
+Drapetsona 13968
+Velanidia 257
+Kouvela 65
+Kouvaras 1426
+Varvara 538
+Varia 126
+Ano Alepokhorion 8
+Ardanovo 44
+Ardassa 934
+Mardati 191
+Nenita 903
+Greveniti 193
+Veniza 52
+Dherveni 828
+Agios Martinos 110
+Agios Minas 28
+Agios Georgios Vrosinas 4
+Vrouviana 256
+Kouvelia 19
+Velika 291
+
+Meliki 3033
+Chaliki 38
+Yliki 33
+Alika 82
+Pallikari 3
+Kalliroi 151
+Palirroia 36
+Lira 104
+Iraion 130
+Elaionas 338
+Doukanaiika 31
+Doukades 627
+
+Argostolion 9820
+
+Pyrgos 22399
+Pyrgi 88
+Avliotes 830
+Palia Avli 1
+Palia Ampelia 167
+Makrykampos 137
+Makrylia 122
+Kryoneri Makrychoriou 13
+
+Makrochori 4965
+Kerameia 378
+Andritsaina 795
+Anitsaion 28
+
+Giannitsa 27817
+
+Evropos 1734
+Prongion 3
+Renginion 577
+Rentina 828
+Frengaina 58
+Gaios 487
+Kougaiika 31
+Anavatos 1
+
+Diavata 10216
+Vasilikos 285
+Vasilina 24
+Vasilesi 66
+Ververato 231
+Verinon 178
+Kiveri 911
+Mikro Papigkon 56
+
+Mikro Monastiri 1518
+Neo Mikro Chorio 134
+Mikro Metochi 149
+Tyros 211
+
+Almyros 7955
+
+Skyros 1732
+
+Afidnes 1908
+Tsafi 9
+Kampia 50
+Doumpia 451
+Koudoumalos 4
+Chiliomoudou 37
+Ilios 17
+Iliokali 524
+Kato Paliokarya 148
+Mega Pisto 967
+Megali Gotista 166
+
+Makrychori 1835
+Spathovouni 357
+Xirovouni 2
+Agia Paraskevi Melias 12
+Mavroplagia 45
+Dipotamo 20
+Parapotamos 1126
+
+Xiropotamos 2670
+Tarsina 374
+Kato Myrsini 136
+Neo Myriofyto 41
+Karyofyto 28
+Myriofyto 677
+Dryofyto 324
+Dryonas 35
+Alkyona 10
+Filotion 1477
+Filaki 86
+Dilakkos 7
+Pentolakkos 118
+Rapentosa 106
+Kalantos 10
+Vlachava 333
+Vlachides 23
+Vlachatika 31
+Zogkaiika 1
+Bakaiika 25
+Ano Fanari 128
+Panariti 349
+Ano Thorikon 215
+Komnineio 77
+Kokkonion 1056
+Kokkinon 744
+Arginonta 17
+Kontaiika 350
+Sevastaiika 1
+Fioretzides 31
+Tzikidhes 55
+Pitsinadhes 21
+Tsoukaladhes 514
+Gorianadhes 146
+Grigoria 173
+Egrigoros 27
+
+Poros 3651
+
+Piraeus 163688
+
+Fira 2376
+Sotira 250
+
+Tsotili 1695
+Kampos Kranidiou 41
+Adelianos Kampos 680
+Kampos Koilados 56
+Grigos 77
+Meligos 36
+Ligoneri 4
+Aligoi 21
+Pligonion 230
+Dimaristika 12
+Yimari 23
+Katalyma 11
+Kolympia 439
+
+Xylokastro 5500
+Iliokastron 550
+Pentaplatano 1015
+Palaia Lykogianni 202
+Pyrsogianni 119
+Pyrgia 15
+Alyki 17
+
+Sykies 44955
+Myki 1130
+Platanoussa 371
+Drosero 523
+Drosaton 146
+
+Cholargos 30840
+Argolikon 609
+
+Vasilikon 6571
+Stathmos Afidnon 293
+
+Nea Filadelfeia 25734
+
+Anoixi 6510
+Argithea 1024
+
+Terpsithea 1992
+Sparmos 166
+
+Sparti 16239
+Andhronaiika 7
+Triandaiika 1484
+Aspropirgos 153
+Asprochoma 83
+Nofalias 28
+Faleliana 27
+
+Koufalia 8305
+Louchi 3
+Ochia 56
+
+Amfilochia 4022
+Angelokastro 1220
+Psilokastro 29
+Kastron 817
+
+Astros 2222
+Kastrosykia 190
+Sykiada 562
+Syka 216
+Sykounta 281
+
+Aravissos 1513
+Narkissos 365
+Arkitsa 840
+Apovathra 45
+
+Livanates 2559
+Dhrimaia 255
+Nea Dhimaina 85
+
+Kardamaina 1926
+Syri 54
+Thyrio 753
+Vathys 492
+Pilida 12
+Koylidas 243
+Limni Vouliagmenis 62
+Royitika 1288
+Pacheia Ammos 574
+Pachi 542
+Rodonas 93
+Rodotopi 1140
+Psathotopi 194
+Psathadika 17
+Stathaiika 240
+Vlakhaiika 16
+Vlakhidhes 5
+Tsouka 379
+Bouka 564
+Loukadika 14
+Polyfyto 31
+Anthofyto 272
+
+Nea Mesimvria 2349
+
+Athyra 1722
+Kaloutas 23
+Loutsa 388
+Megalon Khorion 12
+Megalochari 82
+Molocha 222
+Xylochori 41
+Ampelochori 200
+Ampelia 350
+Ampeleia 339
+Dafnata 34
+Dafnofyto 35
+Dafnochori 43
+Kranochori 245
+Lefki 379
+Lefkonia 128
+Lefkopetra 700
+Paleo Erasmio 291
+Smixi 491
+Xirakia 29
+Sirako 270
+Krania 720
+Sykamino 910
+Agios Georgios Sykousis 579
+
+Proastio 1766
+Sevasti 842
+Skepasti 8
+Plakes 11
+Plakados 238
+Korakada 231
+Palaiochori Botsari 132
+Palaiochori Sirakou 66
+Palaiochoraki 21
+Karydochori 84
+Achladochori 596
+Pirgos 469
+Gorgopi 872
+Fanos 151
+Evrostina 36
+Kosmira 577
+Gdochia 63
+Archia 3
+Archontiki 244
+Megarchis 912
+Parnis 20
+Perni 897
+Megali Kerasia 283
+Megali Avli 160
+
+Megali Panagia 2592
+Palaiomylia 34
+Ouranoupolis 1047
+Porti 210
+Portes 209
+Balion 450
+
+Nea Moudhania 9342
+Faros 1171
+Fotada 499
+Vatopedio 191
+Ano Pedina 144
+Kapediana 25
+Goulediana 73
+Pigadhakia 431
+Fidhakia 27
+
+Ithaki 1843
+
+Manolada 1650
+Siolades 26
+Rafalades 8
+
+Galatades 2459
+Damiano 409
+Domianoi 161
+Nomi 473
+
+Ano Komi 1547
+Larimna 883
+Limnos 7
+Limnotopos 58
+Kalolimnos 2
+Limnia 35
+Lekani 485
+
+Lekhaio 2643
+Eklekto 2
+Pelekas 405
+
+Ekali 5889
+Felekas 99
+Filyra 500
+Lyridiana 16
+Skidia 2
+Agios Gordios 54
+Vothynoi 245
+Moni Taksiarchon 54
+
+Kalymnos 12324
+Palailimnos 53
+Yimno 306
+Koutsochero 327
+Rakhai 593
+Dovla 39
+Avlakion 471
+Kionia 33
+Chioniasa 223
+Manoliasa 184
+Monolithi 183
+Monolofo 446
+
+Lagkadas 7215
+Lagkadia 183
+Mavreli 496
+Mavroneri 535
+Mavromiti 5
+Tavronitis 888
+Stavri 31
+Gavria 379
+Krepeni 210
+Dhrepano 2
+Epano Vatheia 151
+Platanos Vatheos 23
+Geroplatanos 128
+Neos Platanos 672
+
+Farsala 10380
+Zarkos 1407
+Agios Georgios Dematiou 38
+Stirfaka 326
+Monastiraki 1299
+Nea Kerasounta 925
+Nea Kerdylia 538
+Lithochori 295
+Rizochori 443
+Ano Mousiotitsa 14
+Frousiouna 70
+Argyrochori 32
+
+Argyroupoli 34097
+
+Selinia 2509
+Kriselia 124
+Selinari 5
+Skinaria 63
+Soulinari 397
+Solina 38
+Marathea 763
+Marathoussa 364
+Ganema 21
+Kremasto 9
+Mastoratika 56
+Kastos 80
+Kastanas 596
+
+Sylivainiotika 1595
+Piryiotika 335
+Sarandapikhiotika 187
+Pikoulatika 142
+
+Voula 28364
+Analipsi 584
+
+Marathonas 7170
+Marathovouni 82
+
+Goumenissa 3609
+
+Genissea 1935
+Genesi 411
+Sesi 174
+
+Spetses 4001
+Ayionori 319
+
+Nemea 3853
+Chaidemeni 93
+Demati 43
+Domatia 457
+Somatas 161
+Rizomata 1157
+Veliai 458
+Veliniatika 15
+Voudotopos 17
+Xirotopos 138
+Xiropotamo 66
+
+Potamos 3840
+Astrakari 126
+Kynopiastes 1054
+Nopigeia 63
+Anogeiata 73
+Anogeia Rethymnis 131
+Kokkinogeia 83
+Kato Karea 28
+Kato Kalesia 729
+Kato Karitsa 6
+Katsouni 30
+Matsouki 455
+Palouki 143
+Mengoulas 6
+Arillas Magouladon 354
+Filla 1459
+Diavatos 1294
+Nea Mesagkala 72
+ArchaIes Kleones 633
+Archaia Nemea 392
+Vintzi Daskaleiou 149
+Velentziko 73
+Venterikos 28
+
+Kato Achaia 5752
+Bosi 28
+Ayios Kharalambos 60
+Ayios Khristoforos 192
+Ayios Adhrianos 1080
+Methoni 1165
+Chrysi Ammoudia 77
+Psili Ammos 49
+Psili Rachi 12
+Iliorrachi 112
+Korfiotissa 75
+Lagkiotissa 18
+Profitis Ilias Sklivanis 32
+Agios Georgios Sklivanis 40
+Dhafnias 237
+Akraifnia 1195
+
+Makrakomi 2245
+Komia 16
+Iliokomi 342
+Faskomilia 338
+Glykomilia 230
+Glykorrizo 325
+
+Rodolivos 2072
+Perivoli 1378
+Perivolakia 21
+Tempi 84
+Artemon 800
+Mesi Potamia 59
+Mesa Potamoi 24
+Aspros Potamos 35
+Dipotamos 251
+Sofiana 80
+Lofiskos 29
+
+Kos 19244
+
+Krokos 3004
+Fitokos 132
+Chortokopi 398
+Spartokhorion 453
+Kaisario 497
+Velissarios 717
+Kamariotissa 1022
+Mavrommati 1426
+Grammatiko 1432
+Perasma 435
+
+Peraia 16067
+
+Nea Malgara 2476
+Moria 1176
+Chersotopi 23
+Ano Apostoloi 267
+Ano Doloi 82
+Ano Drapanias 17
+Ano Kornias 10
+Kato Korakiana 967
+Kato Karya 35
+Kariotika Karyas 575
+Agios Georgios Karyas 14
+Agia Paraskevi Vilion 1
+Ayia Paraskevi 212
+Nea Mousiotitsa 287
+Kokkinopylia 190
+
+Pyli 2430
+Kotyli 16
+Stylari 300
+Paradeisos 216
+Kleisoura 311
+
+Asprovalta 2838
+Palaiokerasea 291
+
+Neos Skopos 1934
+Zalouchos 1
+Zalogko 67
+Kalogeriko 491
+Kalogiroi 217
+Kalogriani 259
+Trapezaki 76
+Aneza 1111
+Petrilia 80
+Agrilias 46
+Agrilos 131
+
+Chios 23953
+Myrthios 203
+Nea Myrtos 21
+Kyrtoni 445
+Kyrianna 348
+Giannades 565
+Roumanades 32
+Georganades 424
+Kipseli 532
+Stimies 9
+Maries 158
+Marmari 195
+Neo Sykamino 272
+Mega Ydri 52
+Mega Revma 5
+Klisorrevmata 288
+Mountanistika 17
+Roumounti 49
+Pountes 123
+Mountros 91
+Fyska 152
+Skado 83
+Melinado 45
+Meliana 303
+Paralio Astros 827
+Sozopoli 537
+Polion 80
+
+Politika 1498
+
+Markopoulo Oropou 2549
+
+Aghios Panteleimon 1591
+
+Nea Ionia 67134
+Prionia 146
+
+Dioni 2111
+Dionysiou 499
+Afytos 1273
+Palaifyto 1475
+Lilikas 3
+Alikanas 441
+Kanaki 14
+Konakia 52
+
+Kopanaki 1500
+Peritheia 3
+
+Spercheiada 2691
+Antheia 914
+Sofiadha 235
+Filiadhon 432
+Sarakinadhon 619
+Kalipadhon 709
+Kremithas 35
+Pithari 1302
+Lithakia 1307
+Langadhakia 357
+Aniadha 57
+Ayia Eleni 476
+Koleni 53
+Loleika 21
+Kato Lapsista 364
+Kato Lippa 23
+Kato Loumas 10
+Koumaria 381
+Avdella 130
+Kellaria 92
+Krikellos 1312
+Kellakia 59
+Avlakia 18
+Pavlia 55
+Tzardavila Mokrizas 46
+Agios Antonios 101
+Agios Georgios Armenon 87
+Dhiamandaiika 239
+Mandasia 338
+Pagondas 518
+Lagonisi 22
+Gonimo 455
+Pogoniani 425
+Nea Gonia 438
+Pagoni 2
+Pagoi 304
+Pagis 129
+Pagkia 18
+Pagkrati 274
+Kratero 84
+
+Katerini 53293
+
+Pikermi 2009
+Agia Ermioni 478
+Ryto 110
+Kalarrytes 130
+Arriana 1158
+Myrrini 236
+Chrysavgi 475
+Vrysaki 700
+Vrysella 289
+Sellia 316
+Kelli 683
+Antigonos 424
+Avanti 16
+Dafnoula 315
+Dafni 340
+Dytiko 476
+
+Neo Souli 2399
+Neo Sirakio 10
+Neo Kalamaki 27
+Neos Palamas 189
+Neos Pontos 257
+Neos Prodromos 222
+Ayios Prodhromos 408
+Kallidhromon 168
+Dhrimon 257
+Laodikinon 186
+Thavmako 257
+Chavgas 5
+Rodavgi 257
+
+Rododafni 2564
+Dafnonas 385
+Mikrospilia 170
+Mikri Milia 52
+Mikri Vigla 93
+Pikris 55
+Krini 845
+Krines 780
+Makrino 36
+Stylianos 44
+Nea Kotyli 34
+Galazia Nera 25
+
+Gazi 12606
+Gazoros 1315
+Tyrgia 477
+Eratyra 1383
+Peratia 234
+
+Perama 25389
+Perampela 5
+Ampelos 252
+Mavrommata 73
+
+Kozani 36481
+Zapani 126
+Kapari 37
+Kapi 544
+Kanapitsa 10
+Pitsion 89
+Longitsion 48
+
+Mesolongi 12785
+Ayia Varvara 146
+Agia Varvara Dematiou 26
+Ayia Varvara Saryiadhas 48
+Kalivia Varvaras 11
+Kalyvia Varikou 16
+Moni Kalyvianis 143
+Moni Koronis 8
+Moni Kapsa 2
+Boukaris 54
+Aris 1036
+Mesarista 244
+Lista 223
+
+Siatista 5612
+Kato Pteria 24
+Vlychos 19
+Dotia 24
+Proti 1176
+Aspro 851
+
+Neos Mylotopos 2835
+Prines 851
+Kirkizates 466
+Rizana 86
+Tzanata 193
+Goulas 83
+Sekoulas 161
+Tsekouri 27
+Askos 1406
+Draviskos 1488
+Paralia Porovitsis 122
+Paralia Pelasgias 40
+Paralia Portarias 63
+
+Kardamitsia 3172
+Bastounion 63
+Khouni 78
+Sistrouni 303
+Kastroungaina 7
+Tagarochori 194
+Kakalioraiika 9
+Fragkou 20
+Afra 839
+Afrodisia 19
+Diodia 116
+
+Agios Dimitrios 71294
+Ayios Dimitrios Achilleiou 27
+Agios Dimitrios Perivleptou 144
+Agios Dimitrios Rodias 53
+Rountzeri Lemprou 61
+Kourounia 48
+Tsourouniana 14
+Moutsouna 84
+Parthenonas 21
+Therianon 133
+Eleftheri 337
+Eleftherochori 588
+Khelidhon 54
+Apostoloi 405
+Vamvakes 91
+Zarakes 936
+Lakkes 14
+Mesolakkia 16
+Ozias 183
+Kipoi Mazias 46
+Ampelokipoi 668
+Ampelonas 162
+Ampeliko 388
+Mesampelia 31
+Margharhites 1
+
+Itea 4782
+Mikrolimano Kerateas 116
+Mikromani 997
+Neromanna 118
+
+Falanna 3987
+Kefala 21
+Kefalovrison 53
+Mega Kefalovryso 770
+Kefali 38
+
+Kymi 2979
+
+Kyriaki 2227
+Tyria 56
+
+Tyrnavos 10796
+Kavos Korfou 14
+Pendakorfon 210
+Korfalaki 361
+
+Kanalaki 2446
+Selakano 29
+Selo 62
+Niseli 791
+Paralimni 918
+Pyrgos Dirou 246
+Palaiopyrgos 1035
+Piryoi Thermis 451
+Piryion 53
+Yirion 34
+Aiyira 1462
+
+Periyiali 1616
+
+Sofikon 1679
+Adhelfiko 254
+Mavrikiano 142
+Kassiopi 812
+Gastouri 679
+Nenitouria 37
+Saitoures 105
+
+Palaio Tsifliki 2195
+Folia 567
+Folegandros 667
+Andromachi 833
+Pandroson 110
+Giosonas 20
+
+Agios Athanasios 4648
+Agios Thalelaios 106
+Agios Athanasios Oropou 99
+Aerino 500
+Mavrolimni 18
+Ormos Aiyialis 147
+Ormos Agiou Isidorou 23
+Ormos Panagias 30
+Kali Panagia 9
+Moni Panagias Varnava 32
+Agios Ioannis Varnava 81
+Agios Ioannis Epano Vatheias 73
+Ayios Ioannis 983
+Ksyrovrisi 878
+Ano Syros 1138
+Siderona 31
+Nisida 2
+Agios Isidoros 89
+
+Vrakhati 3338
+Vlasaiika 128
+Plakoutsaiika 87
+Kaminarata 239
+Nea Sinopi 563
+Nea Sermyli 38
+Nea Skioni 828
+Nea Stira 1031
+Varybobi 1377
+Variko 638
+Thorikon 227
+Kalonyktis 222
+Aktio 180
+Etos Steko 87
+Aetos 759
+Pardalitsa 66
+Ardani 610
+Seltsana 17
+Tsangari 201
+Mouzakaioi 287
+Mouzouras 1462
+Zouridi 66
+Zouzouli 44
+Ezousa 5
+
+Naousa 19887
+Gousades 218
+Mouschiades 84
+Stagiades 135
+Patagi 200
+
+Komotini 45631
+Iraklion 914
+
+Nea Iraklitsa 1560
+Yeraklion 24
+Kato Yerakarion 347
+Asproyerakata 98
+
+Fyteies 1516
+
+Kainouryion 2790
+Kokla 153
+Kokkala 238
+Kokkini 53
+Dafni Examilion 61
+
+Ilion 84793
+
+Drosia 7186
+
+Rafina 12168
+Kontra Vilara 146
+Ayia Varvara Paravolas 46
+Kitriai 101
+Dimitritsi 989
+Kalamitsi 39
+Kalamion 76
+Kalamakion 890
+
+Kalamaria 91617
+Amarianos 92
+Samari 117
+Malathyros 89
+
+Vathylakkos 2218
+Lakkoma 1171
+
+Simantra 2421
+Taxiarchis 903
+Taksiarches 116
+
+Irakleio 49642
+Nea Irakleia 832
+Irakleideis 68
+Spanaiika 85
+Inachos 622
+Rachoni 446
+Perachora 1141
+Kato Asitai 1264
+Kato Aigani 105
+
+Aigaleo 69946
+Valeontades 1
+
+Vrontados 5323
+Ano Vrontou 199
+Ano Pontolivado 120
+Ano Livadhion 284
+Sfakaki 792
+Agios Akakios 291
+
+Agios Georgios 2045
+Sikyon 1185
+Aikyrgiannis 36
+Antikyra 1448
+Ayia Aikaterini 159
+Skala Katerinis 107
+Skala Marion 379
+Skalanion 1012
+Skala Rachoniou 283
+Skala Kallirachis 566
+Kallirroi 273
+Kalliteros 627
+Ano Kallithea 85
+Kallithiro 1098
+Pisodherion 7
+Peristerion 129
+Asterion 88
+Karterion 96
+Kastanofyto 25
+Kastanonas 30
+Polyneri 221
+Polykeraso 15
+Kerasia 299
+Kerasea 81
+Kerasovo 206
+Ambelia 126
+Boutselianika 8
+Elia 884
+Epano Sisi 115
+
+Ano Arhanes 3913
+Epano Pines 35
+Drepano 541
+Epano Epidhavros 116
+
+Epanomi 8121
+
+Nea Triglia 3071
+Glistra 56
+Vadistra 54
+Palaistra 289
+Distrato 278
+Kares Apokorronou 37
+Kares Kissamou 58
+Kares Askyfou 168
+Kare 81
+Karefiliana 55
+
+Filiates 2129
+Agios Fokas 16
+Perigialion 315
+Pigi 1158
+Ligia 930
+Marathos 111
+Marathias 331
+Zireia 4
+
+Kassandreia 2775
+Pserimos 80
+Dhrimonas 86
+Nidhrion 971
+
+Kompoti 2150
+Komi 139
+Kali Komi 125
+
+Paramythia 2568
+Mikrovivos 4
+Rovies 1206
+Milies 168
+Nies 15
+Mouries 555
+Flamouria 661
+Flampourari 70
+Flamouriana 100
+Flampoura 181
+Tampouria 140
+Flampouresi 191
+Ormos Korthiou 903
+Agio Gala 38
+Galati 43
+Ano Vardhates 254
+Epano Elounda 115
+Pterounda 136
+Kakorrevma 67
+Dyo Revmata 23
+Platanorevma 1112
+Revma 24
+Agio Pnevma 1353
+Kato Revmatia 87
+Mantrotopos 172
+Skorpiona 239
+Diakopion 21
+Prokopi 1108
+Ano Chortokopi 22
+Amygdalolakkos 1
+Amygdalokefali 18
+
+Kefalos 2528
+Porto Koufo 110
+Porto Ennia 243
+Agios Fanourios 62
+Agios Stefanos Fregkainis 12
+Agios Stefanos Avlioton 176
+Ayios Stefanos 312
+Proskinas 99
+Sarakina 460
+Psara 454
+Psaka 220
+Psarion 51
+Rethi 194
+Retsiana 65
+Chairethiana 70
+Arethousa 905
+
+Rethymno 32468
+
+Thymiana 1566
+
+Symi 2354
+Ano Symvoli 23
+Ano Simi 32
+Ano Scholari 178
+Pano Galari 37
+Kato Garouna 579
+
+Kato Gouves 2153
+Kato Gatzea 360
+Kato Graikiko 165
+Patoulia 545
+Karaoulia 17
+Saoulatika 38
+Elati 886
+Frikes 23
+Kestrini 344
+Kastrion 437
+Monachiti 255
+Kedro 89
+
+Andros 1556
+
+Adendro 2312
+Kala Dendra 1131
+Kato Elati 219
+Plati 2
+Skala Mistegnon 123
+Skaleza Mitrantoni 99
+Alli Meria 1188
+Kastri Megalou Peristeriou 30
+Peristeria 206
+
+Kaisariani 26370
+Travasarianika 65
+Koronos 526
+Mavronoros 85
+Ethniko 58
+Nikolis 40
+Molista 23
+Chamolia 185
+
+Molos 1974
+Smertos 201
+Agiasmenos 20
+Xechasmeni 795
+Prasinada 317
+Achelinada 175
+Glinado 585
+Lagopodhon 483
+Dragopsa 52
+Dragotina 249
+Skalitina 23
+Meliti 1432
+Armatoliko 275
+Anatoliki 44
+Pondi 126
+Agnandi 218
+Lourandianika 8
+Kandila 1245
+
+Mindiloglion 2120
+Dilofos 148
+Lofoi 355
+Voutiron 67
+Nea Tiroloi 669
+Rogdia 60
+Rodia 797
+Trimodi 17
+Koutsodimos 78
+Dimosia 28
+Dimokori 27
+
+Korinos 4191
+
+Korinthos 30176
+Pithos 26
+Schistolithos 26
+Arolithi 9
+Monolithos 181
+Fraxos 14
+
+Naxos 7070
+Berpathiana 42
+Kourthiana 23
+Mourteron 48
+Vrontero 188
+Pallinostountes 112
+Pounta 17
+Iera Moni Agathonos 7
+Iera Moni Agiou Georgiou Feneou 5
+Agios Georgios Feron 681
+Mesi Sinoikia Trikalon 73
+Mesi 484
+Vrontismeni 172
+Voulismeni 337
+Vouliasta 117
+Vouliagmeno 70
+Voulista 34
 Didyma 1047
-Exo Didyma 40
-Exochi 142
+Thymariona 29
+Thymeli 9
+Ayios Yeoryios Domokou 353
+Ayios Georgios Palaiokarias 92
+Agios Georgios Promyriou 70
+Agios Georgios Polydendriou 39
+Akti Neon Kerdylion 49
+Fylakti 278
+Kyani Akti 213
+Katarraktis 408
+Zografia 27
+Agrafoi 180
+Vistonas 87
+Nistora 10
+
+Kastoria 13387
+Kastro 42
+Tetrakomo 103
+Platia Ammos 42
+Aspri Ammos 48
+Zoodochos Pigi 174
+Ladochori 297
+Neraidochori 279
+Livadochori 420
+Mikrolivado 77
+Mikrolimni 46
+
+Chrysoupolis 8885
+Christoupoli 518
+Stoupa 600
+Stournara 17
+Fournados 20
+Pournarion 280
+Fourna 734
+Aryirokhorion 201
+Kalianoi 174
+Oinoi 475
+Charkia 62
+Charama 9
+Charadra 49
+Charavgi 175
+Charaso 50
+Charamida 35
+Balaiika 58
+Klironomaiika 20
+Stenoma 139
+Nomia 36
+Komianata 30
+Apidiias Lakkos 64
+Exo Lakkonia 144
+Schisma Mesa Lakkonion 76
+Vithisma 17
+Korithi 48
+Koritiani 59
+
+Sitia 8707
+
+Arkalochori 3537
+
+Zaros 2205
+Agios Charalampos Mandras 6
+Agia Galini 1369
+Armenades 94
+Ormenio 750
+Armenokhorion 986
+Ano Kleines 179
+Veneto 67
+Feneos 87
+Sfendami 1209
+Kato Tragana 248
+Ano Trikala 100
+Patrika 120
+Trikomo 361
+Trikeri 1182
+Kavousi 559
+Zachariana 91
+Acharavi 1013
+Mathraki 329
+
+Corfu 27003
+Argyrades 660
+Liapades 879
+Sfakera 227
+Keri 469
+Keramos 34
 
 Nea Peramos 8333
 
 Nea Penteli 7198
 Nea Politeia 622
+Anissaras 191
+Prassa 13
+Prasies 133
+Stathmos Mourion 1040
+Arkesini 106
 
-Politika 1498
+Messini 6773
+Mersini 22
+Lesini 771
+Flesias 73
+Chotasia 49
+Prasia 83
+Liopraso 184
+Karavomilos 634
+Karavas 129
+Varnavas 1326
+Lavara 1447
+Chavari 1225
+Kythira 281
+Anthiro 270
+Mazia 143
+Zevgaraki Skouteras 30
+Zevgostasi 6
+Karavostasi 80
+Kalyves Polygyrou 1333
+Kalyviani 136
+Kalyvia Pezoulas 223
 
-Koufalia 8305
-
-Sindos 8228
-
-Kolindros 3590
-
-Adendro 2312
-
-Kalampaka 8138
-
-Epanomi 8121
-Epano Loumas 16
-
-Gastouni 8114
-Chouni 124
-
-Almyros 7955
-
-Nea Michaniona 7908
-Athanion 204
-
-Giannouli 7885
-Giannousaiika 102
-
-Keratea 7493
-Mikrolimano Kerateas 116
-
-Argos Orestiko 7473
-
-Chalastra 7360
-Kastrakion 419
-
-Filothei 7302
-Peritheia 3
-Vasilika Peritheias 20
-
-Nea Kallikrateia 7238
-Plateia 27
-
-Trilofos 7227
-
-Lagkadas 7215
-Lagkadi 176
-Agrelopo Lagkadas 96
-Lagkadikia 729
-Pyrgadikia 320
-
-Marathonas 7170
-Marathopolis 877
-
-Lavrio 7078
-Kalavros 22
-
-Naxos 7070
-Toxo 255
-
-Polykastro 7064
-
-Elassona 7060
-
-Krania Elassonas 2936
-Krania 720
-Kranea 676
-Skra 187
-
-Karpenisi 6888
-
-Aegina 6867
-
-Krya Vrysi 6839
-
-Souda 6729
-Ammoudara 493
-Ammoudi 212
-
-Litochoro 6709
-Elatochori 681
-Elaiochorion 81
-
-Neon Karlovasion 6708
-Akti Neon Kerdylion 49
-
-Vasilikon 6571
-
-Aridaia 6561
-Patrida 1330
-Ida 639
-
-Ayios Konstandinos 6534
-
-Anoixi 6510
-
-Asvestochori 6404
-Vatochori 23
-Valtochori 285
-
-Moires 6379
-Potamoi 405
-Mesopotamo 503
-
-Paralia 6336
-Paralia Sykias 77
-Paralia Agiasmatos 20
-Paralia Astridos 79
-
-Paralia Avlidhos 3115
-Megali Avli 160
-
-Anavyssos 6202
-
-Assos 1916
-Kato Assos 693
-Kato Asitai 1264
-
-Thrakomakedones 6200
-
-Faliraki 6000
-Xirakia 29
-Mandrakia 2
-
-Ampelona 5961
-Ampelos 252
-Kompelos 87
-
-Leondarion 5929
-
-Leonidio 3020
-Eleonas 655
-Pteleos 1140
-Kato Ptelea 57
-
-Orchomenos 5919
-Agiasmenos 20
-
-Nea Anchialos 5908
-
-Zacharo 5894
-
-Ekali 5889
-Felekas 99
-
-Ovria 5838
-
-Psachna 5828
-Arakhnaion 643
-
-Kato Achaia 5752
-Kato Arachovitika 597
-
-Arachova 2657
-Arachovitika 305
-
-Avlonas 5744
-
-Palamas 5719
-Neos Palamas 189
-Neos Platanos 672
-
-Dionysos 5651
-
-Dioni 2111
-Livadion 605
-
-Siatista 5612
-
-Afantou 5562
-Kalantos 10
-Skalanion 1012
-Elani 31
-Velanidia 257
-
-Kranidi 4006
-
-Xylokastro 5500
-
-Myrina 5406
-Ano Almyri 35
+Megala Kalyvia 1849
+Ano Kalyvia Syrnas 2
+Kalyvia 1130
+Kalyvia Kleidonias 125
+Agios Matthaios 1088
+Nymfes 642
 
 Feres 5403
-Feriza 34
-Riza 487
-Rizana 86
 
-Archangelos 5398
-
-Plagiari 5392
-
-Vrontados 5323
-Mantamados 1120
-
-Stamata 2906
-
-Mournies 5318
-Nies 15
-
-Paros 5289
-
-Tympaki 5285
-Kolympari 1032
-
-Megalopoli 5283
-
-Skiathos 5187
-
-Aliveri 5184
-Kiveri 911
-
-Sidirokastro 5177
-Loutra Sidhirokastrou 1
-
-Karystos 5091
-
-Neoi Epivates 5077
-Nea Epidavros 896
-
-Kryoneri 5040
-Krionerion 868
-
-Rio 4664
-Rizario 821
-
-Kyparissia 5033
-Kyparissos 268
-
-Atalanti 4978
-Saranti 20
-
-Makrochori 4965
-Xirochori 827
-
-Agios Georgis 4958
-Agios Georgios Gialtron 24
-Agios Georgios Minas 4
-Agios Minas 28
-
-Nigrita 4947
-
-Stylida 4892
-Koylidas 243
-
-Aianteio 4860
-
-Elateia 2372
-
-Penteli 4851
-
-Kitsi 4788
-Arkitsa 840
-Vitsa 102
-
-Karitsa 2225
-Kritsa 1296
-Makrinitsa 694
-Akrini 1113
-
-Itea 4782
-
-Daratsos 4732
-
-Kremasti 4700
-Kremmydi 5
-Rosogkremos 2
-
-Agios Athanasios 4648
-
-Agioi Theodoroi 4643
-Ayioi Theodhoroi 318
-
-Ayioi Apostoloi 1904
-Ayios 801
-
-Filippiada 4619
-Lippa 39
-
-Tinos 4573
-
-Skydra 4562
-Kydonia 222
-
-Vagia 4535
-
-Vasilika 4519
-Vasilikos 285
-
-Sapes 4506
-Kapesovo 51
-Empesos 598
-
-Nerokouros 4388
-
-Zevgolateio 4363
-
-Filiro 4362
-Filla 1459
-Villa Ritz 300
-Skala Rachoniou 283
-Rachoni 446
-Vrachos 178
-Rachona 691
-Promachonas 140
-Prochoma 1422
-
-Eleftheroupolis 4360
-Loutra Eleftheron 1
-Eleftheres 1303
-
-Malia 4343
-
-Istiaia 4339
-
-Aitoliko 4323
-
-Gytheio 4279
-Pythagoreio 1272
-
-Aliartos 4275
-Smertos 201
-
-Aiginio 4275
-Aigani 694
-
-Kissamos 4236
-
-Korinos 4191
-Galarinos 334
-
-Vouliagmeni 4180
-
-Eretria 4166
-
-Kalochori 4162
-Kefalochori 792
-
-Soufli 4149
-
-Nea Magnisia 4144
-Nea Makrisi 152
-Makrino 36
-
-Kanali 4086
-
-Kanalaki 2446
-
-Schimatari 4035
-Schinias 264
-Chinitsa 71
-
-Prosotsani 4021
-
-Falanna 3987
-Giannades 565
-
-Ano Arhanes 3913
-
-Katsikas 3885
-Kontsika 175
-Tsiknaiika 29
-Kalianaiika 59
-Kazanaiika 42
-Karamanaiika 48
-
-Deskati 3856
-Skalia 41
-
-Nemea 3853
-Temeni 1125
-
-Potamos 3840
-
-Mykonos 3783
-
-Kymina 3775
-Minos 23
-
-Lixouri 3752
-Gouria 862
-
-Lechaina 3714
-
-Amyntaio 3671
-
-Poros 3651
-
-Andravida 3626
-
-Goumenissa 3609
-Gouriotissa 395
-
-Agia Triada 3580
-Triada 267
-
-Arkalochori 3537
-Pagkalochorion 177
-
-Kalampaki 3514
-
-Rodhitsa 3509
-
-Tsaritsani 2514
-
-Eleousa 3484
-
-Efkarpia 3480
-
-Pefka 2288
-
-Chortiatis 3466
-Porti 210
-Portes 209
-Artesiano 1412
-Mesiano 301
-Mesino 227
-Mesi 484
-
-Chora 3454
-Perachora 1141
-
-Gefyra 3451
-Valyra 991
-Filyria 246
-
-Ayios Nikolaos 3426
-
-Kimmeria 3424
-
-Kardia 3394
-
-Servia 3390
-Zerviana 66
-Derviziana 252
-Seriziana 66
-Latziana 17
-Dermiziana 22
-
-Velventos 3378
-Velos 77
-Velousi 22
-Velonado 88
-
-Oia 3376
-
-Leptokarya 3366
-Ano Paliokarya 73
-Palaiokaria 132
-
-Krinides 3365
-Krinitsa 443
-
-Kapandriti 3359
-
-Vrakhati 3338
-Kokkinovrakhos 195
-
-Perivolia 3320
-Ano Perivoli 19
-
-Varda 3307
-
-Oichalia 3271
-
-Ierissos 3266
-Volissos 223
-
-Melissochori 2002
-
-Thasos 3234
-
-Liti 3226
-
-Kardamitsia 3172
-Kalamitsi 39
-
-Galatas 3166
-
-Neos Marmaras 3158
-
-Alepou 3149
+Serres 58287
+Perlengianika 1
+Marlesi 13
+Males 302
+Chamalevri 111
+Kakoplevri 271
 Plepi 18
-Lepadi 21
-Pappadia 21
-Pappagiannis 581
-Pappas 64
 
-Velo 3096
-
-Chloi 3079
-Chochlia 30
-
-Nea Triglia 3071
-Nea Trapezounta 504
-
-Vartholomio 3068
-Solomos 743
-Chlomos 357
-Chlomatiana 347
-
-Maniakoi 3055
-Kostaniani 93
-Kastani 67
-Kastanonas 30
-
-Dhrafi 3055
-Dhrakas 84
-Dhragoyion 84
-
-Velestino 3044
-Veligosti 61
-Aigosthena 80
-Moustheni 647
-Kroustas 476
-Koustesa 11
-Stekoula 21
-
-Meliki 3033
-Meliana 303
-
-Galaxidhion 3030
-
-Molaoi 3018
-
-Neo Rysi 3012
-Kryovrysi 80
-Monovrysi 566
-
-Amfikleia 3012
-
-Krokos 3004
-Fitokos 132
-Chortokopi 398
-Skopia 563
-
-Plomari 2996
-Marmari 195
-Marmarion 1013
-Marmaron 174
-Marmaro 875
-
-Ormylia 2979
-Palaiomylia 34
-Palaiokomi 1274
-Palaiokastro 721
-
-Kymi 2979
-
-Eksochi 2975
-Drosochori 782
-
-Limin Khersonisou 2968
-
-Fyli 2937
-Fylakopi 3
-
-Lefkimmi 2935
-
-Saronida 2932
-Peronides 5
-Esperides 69
-Gionides 49
-
-Oinofyta 2927
-
-Axioupoli 2897
-Axiochori 303
-
-Skopelos 2886
-
-Erythres 2862
-Anavryto 85
-
-Kalavryta 1629
-
-Asprovalta 2838
-Provatas 1099
-
-Neos Mylotopos 2835
-Neos Gorgomylos 282
-Gorgopi 872
-
-Katochi 2829
-
-Agia 2827
-
-Neochorion 2827
-
-Skala 2817
-Skaloma 7
-
-Krouson 2811
-
-Kainouryion 2790
-
-Violi Charaki 2785
-Ano Charamida 41
-Ano Chortokopi 22
-Ano Chorio 5
-
-Kassandreia 2775
-Pandanassa 531
-Pantanassa 293
-
-Kamena Vourla 2761
-
-Kato Tithorea 2753
-Ano Thorikon 215
-
-Sochos 2748
-Dasochori 834
-
-Amygdaleonas 2724
-Mileon 2
-
-Nea Palatia 2723
-Nea Pavliani 131
-Pavliani 367
-
-Choristi 2719
-Chori 20
-Iliochori 31
-Paliochora 21
-Palaiochori 1489
-Elaiochori 1195
-Agiochori 276
-Plagiochori 14
-
-Nikiti 2711
-
-Zipari 2706
-
-Spercheiada 2691
-
-Nea Vyssa 2673
-
-Xiropotamos 2670
-Akropotamos 675
-
-Polichnitos 2667
-
-Livadi 2655
-Livadhion 77
-Livadari 66
-
-Lagyna 2649
-Neo Gynaikokastro 578
-
-Lekhaio 2643
-
-Eirinoupoli 2635
-
-Megali Panagia 2592
-
-Palairos 2589
-Palaiomonastiro 1182
-Monastiraki 1299
-
-Iasmos 2586
-Agiasma 843
-Agios Kosmas 46
-
-Anatoliko 2583
-
-Vrachnaiika 2571
-Vracha 98
-Rachi 574
-
-Astakos 2569
-
-Paramythia 2568
-
-Loutra Aidhipsou 2560
-Aidipsos 1249
-
-Livanates 2559
-
-Nea Vrasna 2556
-
-Anogeia 2545
-
-Galatista 2537
-Platistomon 251
-
-Nea Zichni 2530
-
-Kefalos 2528
-
-Selinia 2509
-Selianitika 902
-Gianitsanika 26
-
-Ermioni 2505
-
-Metsovo 2503
-
-Stavros 2489
-
-Georgioupolis 2483
-
-Ligourion 2482
-
-Nea Malgara 2476
-
-Pella 2476
-
-Nea Pella 1595
-
-Limenaria 2471
-Klimendi 352
-Limenion 11
-
-Galatades 2459
-
-Peristasi 2454
-Peristera 1137
-
-Pyli 2430
-
-Simantra 2421
-Pramanta 1137
-Tsamantas 141
-Amaranta 256
-Amarantos 330
-
-Traganon 2414
-Tragakion 622
-
-Assiros 2409
-
-Vlachiotis 2404
-
-Neo Souli 2399
-Mikro Souli 385
-
-Lefkonas 2388
-Lefkotopos 311
-
-Zagora 2385
-
-Parga 2379
-
-Fira 2376
-Iraio 849
-
-Delphi 2373
-Voulpi 268
-Voulgaro 201
-Voulgareli 590
-
-Palaiochora 2372
-
-Symi 2354
-Rymi 6
-
-Nea Mesimvria 2349
-Mesimeri 1491
-Imerolia 125
-
-Pylos 2345
-Stylos 319
-
-Agiasos 2320
-
-Sykourio 2318
-Kouris 18
-
-Arnaia 2300
-Falasarna 21
-Kefala 21
-Kefali 38
-Kefalarion 251
-
-Evxinoupolis 2281
-
-Antimacheia 2251
-
-Makrakomi 2245
-Akrata 1393
-Pagkrati 274
-
-Karpathos 2243
-Berpathiana 42
-
-Nikisiani 2236
-Lianianika 11
-
-Katouna 2234
-
-Platy 2228
-Platani 466
-
-Astros 2222
-
-Nea Manolada 2219
-Manolas 160
-Manoliasa 184
-
-Vathylakkos 2218
-Vathys 492
-Vathypedo 86
-Vathykampos 92
-
-Zaros 2205
-
-Kopanos 2202
-
-Karditsomagoula 2200
-Goulas 83
-
-Vrontou 2196
-Vrontero 188
-
-Agnantero 1859
-Agnandi 218
-
-Nea Lampsakos 2196
-Nea Lykogianni 633
-Palaia Lykogianni 202
-Palaia Loutra 25
-
-Palaio Tsifliki 2195
-Tsiapalaiika 11
-
-Elounda 2193
-
-Schisma Eloundas 1730
-
-Terpni 2169
-
-Echinos 2162
-Achinos 507
-
-Nea Karvali 2160
-Varvara 538
-Kalivia Varvaras 11
-
-Kato Gouves 2153
-Kouverta 81
-Kouvela 65
-
-Kompoti 2150
-
-Kato Soulion 2142
-
-Anthousa 2132
-
-Filiates 2129
-
-Mouzaki 2127
-Chamouzas 33
-
-Alistrati 2127
-
-Kypseli 2124
-
-Mindiloglion 2120
-Kandila 1245
-
-Aiani 2119
-
-Gonnoi 2113
-
-Pentalofos 2107
-Pentalofo 203
-
-Neochori 2102
-Neochoropoulo 1326
-Kato Neochoropoulo 776
-
-Khalkoutsion 2094
-Khalkeio 439
-
-Lepenou 2090
-Lepiana 162
-Pialeia 910
-Ampeleia 339
-Ampelaki 111
-Paliampela 996
-
-Kontariotissa 2088
-
-Galatini 2085
-
-Rodopoli 2078
-Rodotopi 1140
-
-Kostakioi 2078
-Kosta 71
-
-Rodolivos 2072
-
-Fotolivos 1844
-
-Limni 2072
-Limnos 7
-Limnonaki 14
-Limnochori 522
-Prinochori 1
-Kastanochori 122
-Platanochori 127
-
-Panormos 2069
-Ormos Korfou 5
-Kavos Korfou 14
+Epitalio 1953
+Gymnotopos 561
+Lousakies 127
+Ai Thanasis 21
+Moni Kakis Thalassis 166
+Kaki Thalassa 127
+
+Chalastra 7360
+Palaio Agioneri 886
+Omorfokklisia 23
+Metamorfosis 22
+Morfovouni 485
+Choreftiana 7
+
+Orestiada 16221
+Oreskeia 57
+Oreino 101
+Emporeios 56
+Voreion 57
+Poreia 512
+Vareia 1133
+Gardenos 82
+Pyrgion 755
+Pyrgochori 140
+Kalopyrgos 2
+Marmara 598
+Managros 9
+Sitagroi 1105
+Agrosykia 429
+Mesagros 631
 
 Svoronos 2066
 
-Drymos 2060
-
-Strymoniko 1619
-Strymonochori 401
-Chionochori 1
-Aidonochori 287
-
-Selero 2059
-
-Agios Georgios 2045
-Agios Georgios Thorikou 141
-Agios Georgios Virou 89
-Agios Georgios Pagon 68
-
-Louros 2033
-
-Tychero 2029
-Vlacherna 374
-Vlachata 520
-
-Kavallari 2025
-Palaia Kavala 108
-Nea Kavala 140
-Kavallos 180
-Kavallaris 33
-
-Kolchikon 2010
-Vlakhikos 27
-Pakhia Rakhi 25
-
-Makrygialos 2009
-
-Yimnon 2008
-
-Nea Efesos 2006
-
-Terpsithea 1992
-Terpnas 94
-Fteri 512
-Teria 6
-Keria 15
-
-Episkopi 1990
-
-Petroussa 1985
-Roussis 2
-
-Mytilinioi 1982
-Mythoi 350
-
-Stefanovikeio 1970
-
-Paralia Vergas 1966
-
-Karyotissa 1965
-Karyoti 321
-
-Thermo 1957
-
-Lakki 1956
-Lakkes 14
-Plakes 11
-Zarakes 936
-
-Kato Scholari 1954
-Kato Sounion 127
-Vatsounia 615
-Matsouki 455
-
-Epitalio 1953
-Metallion 38
-Metalla 130
-Metalliko 386
-
-Peta 1952
-Petra 1299
-Theopetra 664
-
-Emporeio 1946
-
-Nea Fokaia 1944
-Skala Fourkas 536
-
-Arkhaia Korinthos 1939
-
-Genissea 1935
-Genesi 411
-Desi 45
-Pades 31
-Psarades 83
-
-Neos Skopos 1934
-Skopos 114
-
-Neo Petritsi 1932
-Nea Petra 277
-Faia Petra 92
-Petri 280
-
-Pefkochori 1931
-
-Kardamaina 1926
-Kardamyla 710
-Kardamas 1138
-Adamas 1347
-Damalas 32
-
-Martinon 1916
-Agios Martinos 110
-Agios Markos 257
-
-Afidnes 1908
-Stathmos Afidnon 293
-
-Agios Kirykos 1908
-
-Sykia 1903
-Kastrosykia 190
-
-Makrisia 1902
-
-Ydra 1900
-Akti Ydras 7
-
-Gaitanion 1899
-
-Platykampos 1889
-
-Vathy 1888
-
-Samos 1885
-
-Kalamos 1824
-
-Krestena 1864
-
-Koutsopodi 1857
-
-Megala Kalyvia 1849
-
-Ithaki 1843
-Lithakia 1307
-
-Chalki 1837
-Chalkiopoulo 16
-Soulopoulo 25
-Pavlopoulon 23
-
-Makrychori 1835
-Kryoneri Makrychoriou 13
-
-Kastelli 1828
-
-Chrysochori 1818
-Chrysomilia 846
-Chrysokastro 307
-
-Chryso 1571
-
-Porto Cheli 1817
-
-Examilia 1810
-Kato Examilia 816
-
-Argyropouli 1782
-Argyromylos 76
-
-Kalloni 1776
-Apollon 129
-Katapola 134
-Apollona 982
-
-Kali 1773
-Alika 82
-Pallikari 3
-Gallikos 969
-Galia 852
-Galini 273
-Ellinika 114
-
-Filotas 1772
-Amalota 56
-
-Lofos 1772
-Gilofos 150
-Dhilofon 67
-
-Proastio 1766
-Asvestion 74
-
-Platanos 1764
-Platania 391
-
-Kato Glykovrysi 1753
-
-Kato Lekhonia 1751
-
-Promachoi 1740
-Romanos 403
-Fanos 151
-Ano Fanari 128
-
-Evropos 1734
-Evrostina 36
-Malevros 68
-
-Skyros 1732
-Kyrtoni 445
-
-Athyra 1722
-
-Thesprotiko 1718
-Kato Despotiko 187
-Zotiko 139
-Potistika 93
-Mountanistika 17
-
-Lianovergi 1712
-Vergina 1242
-
-Ritini 1711
-
-Zoniana 1703
+Koroni 1620
+
+Koropi 19164
+Neos Voutzas 1116
+Voutsaras 105
+Soutso 31
+Koutsoufliani 66
+
+Aitoliko 4323
+Valanidoussa 212
+Korfos 287
+Ormos Korfou 5
+Dikorfo 33
+Agios Georgios Gramvousis 104
+Kakokamotes 53
+Skamnelli 95
+Giromeri 180
+Agia Faneromeni 66
+Agia Foteini 302
+Skoteini 347
+Foteina 464
+Skoteinon 62
+Kariai 123
+Psiloma 163
+Omalo 161
+Skamnos 55
+Ayios Georgios Methanon 46
+Gkolfari 101
+Arfara 1285
+Kallifoni 1208
+
+Kallithea 100641
+Kallithea-Moustafadhes 700
+Kallithea Loutrakiou 48
+
+Loutraki 11564
+Stylos 319
+
+Pylos 2345
+Myloi 610
+Khartsianika 17
+Kharadhiatika 142
+Pigadhia 52
+Pigadia 115
+Pigadoulia 145
+Mpitsikolaka 12
+Kastellos 108
+Gallos 922
+Chalikounas 81
+Fara 6
+
+Anogeia 2545
+Kokkinogeio 357
+Sivas 426
+Siviri 251
+Iria 453
 
 Khiliomodhi 1699
+Tragakion 622
+Pyrgaki 48
+Pyrgadikia 320
+Ayios Dhimitrios 531
+Agios Dimitrios Neochoriou 8
+Leichoura 32
+Kalochori-Panteichi 922
+Kouverta 81
+Kouvalata 56
+Neos Kouvaras 566
+Mavrosouvala 60
+Galouvas 13
+Souvlos 10
+Klouvas 953
+Englouvi 106
+Vinglatouri 52
+Kaparellion 1478
+Kyras Vrysi 1128
+Moulki 1316
 
-Tsotili 1695
+Athikia 1834
+Neo Iraio 488
+Kato Almyri 703
+Neo Agridi 160
+Neo Keramidi 359
+Palaio Keramidi 793
+Palaioskamia 36
+Strovles 44
+Psathochori 328
+Tigkaki 171
+Kagkatika 38
+Lagkada 760
+Agrelopo Lagkadas 96
+Lagkadikia 729
+Arkadiko 241
+Markati 185
+Vrana 1082
 
-Nea Santa 1693
+Paiania 14595
+Efedron Anagennisi 701
+Schinias 264
 
-Pyrgetos 1681
+Filothei 7302
+Filoteia 543
+Sarakinoi 351
+Sarkini 63
+Myrkinos 199
+Ligkiades 92
+Cheimadio 386
+Dimario 262
+Afrathias 35
+Fratsia 148
+Afration 1405
+Pentation 262
+Ntaou Penteli 144
+Pentavryso 599
+Pentalofo 203
+Dilofo 61
+Trilofon 98
+Gilofos 150
+Potistika 93
+Roustika 150
+Palaiomochousti 38
 
-Sofikon 1679
+Ormylia 2979
+Kardamyli 300
+Titani 216
+Mitata 73
+Sitaria 718
+Megkla 85
+Klavsion 117
+Tsiklaria 38
+Tholaria 138
 
-Pontismeno 1666
-Pontikates 60
-Melates 190
-Melanes 414
-Melanios 7
-Pera Melana 295
+Kato Scholari 1954
+Palaiokatouno 238
+Kato Palaiokklisi 65
+Kato Palaiokastro 15
+Monemvasia 19
 
-Agios Loukas 1665
-Bouka 564
+Argos Orestiko 7473
+Kampos Oropou 255
 
-Dhokimion 1664
+Aliveri 5184
+Verga 97
+Apergatika 88
+Ano Verga 28
 
-Livadero 1663
+Lianovergi 1712
+Kato Verga 94
+Vergina 1242
+Kallergiana 56
+Georgiani 611
+Magarikari 295
+Margariti 857
+Syrmeso 3
+Mesoropi 456
+Mesoura 48
+Soumesi 52
+Mesino 227
+Dramesi 138
+Siyeritsa 1
+Andritsa 33
 
-Kontokali 1660
-Iliokali 524
-
-Manolada 1650
-
-Rizia 1645
+Karitsa 2225
+Aigani 694
+Pigadi 291
+Tragilos 477
+Kouklioi 407
+Kotronas 292
+Manna 476
+Giannakochori 468
+Agiochori 276
 Rizari 1098
+Xilokeriza 849
+Semeriza 40
 
-Gournes 1628
-Gourna 282
-Pournara 8
+Grizano 1528
+Ayiai Paraskiai 864
+Ayia Paraskevi Tithoreas 180
+Ayia Paraskevi Pentakorfou 5
+Mapsos 174
+Krapsi 34
+Psion 9
+Ypsilo 19
+Kalypso 11
 
-Patitirion 1628
+Kypseli 2124
+Ypsos 769
+Ano Garouna 227
+Ano Gatzea 297
+Gatzia 47
+Nerantziai 232
+Chantziliakon 243
+Tzitzifia 2
+Kalentzi 334
+Gerakarou 1293
+Yerakas 62
+Riachovo 123
+Arachovitika 305
+Arachos 415
 
-Kavasila 1623
-Vasilina 24
-Vasiliki 1388
-
-Koroni 1620
-Toroni 213
-Kronia 52
-
-Periyiali 1616
-Aiyira 1462
-Ormos Aiyialis 147
-
-Kyria 1611
-
-Ambelokipoi 1606
-Belokomiti 146
-
-Nea Flogita 1604
+Anatoliko 2583
+Synoikismos Loutrotopou 317
+Glifa 612
+Paralia Neas Triglias 31
+Perdikovrysi 1
+Perdikaki 517
 
 Verdikoussa 1602
+Perdikari 84
+Kaimeni Khora 21
+Limenas 72
+Timenion 73
+Menidi 1110
+Limenion 11
+Limanion 2
+Klimaki 1
+Lisimakhia 335
+Gomfoi 1064
+Foinikas 113
+Moni Eikosifoinissis 24
+Koini 146
 
-Sylivainiotika 1595
-
-Aghios Panteleimon 1591
-
-Karellas 1579
-Kastella 1370
-
-Mavrothalassa 1572
-
-Mitropoli 1572
-Anopoli 242
-Topolia 122
-
-Tsiflikopoulo 1571
-
-Thymiana 1566
-Thymari 723
-
-Megalochori 1564
-
-Stavraki 1563
-Avra 579
-Anavra 1145
-
-Sevastiana 1561
-Levaia 919
-Sevasto 167
-Sevasti 842
-
-Nea Iraklitsa 1560
-
-Nea Poteidaia 1559
-
-Nea Potidhaia 1559
-
-Mithymna 1558
-Anogeia Rethymnis 131
-
-Arnissa 1556
-Vissani 424
-
-Andros 1556
-Alexandros 22
-
-Koryfi 1552
-Trikoryfo 273
-Kryfovo 55
-
-Ano Komi 1547
-Komi 139
-
-Tsikalaria 1545
+Maniakoi 3055
+Kostaniani 93
+Zografou 323
+Katafourko 92
+Skala Fourkas 536
+Pourko 8
+Kiourkati 48
+Markates 69
+Pontikates 60
+Katakali 219
+Kondylaiika 60
+Anayennisis 752
+Koilada 628
+Lagokoilion 48
 
 Lagos 1536
+Lagoudies 8
+Loudias 981
+Ammoudia 267
+Melidhoni 23
+Agios Charalampos 128
+Agios Christoforos 138
+Christoi 226
+Karpero 700
+Karpino 119
+Sourpi 1457
+Sourides 29
+Litesi 75
+Artesiano 1412
+Vristovo 16
+Vria 394
+Omvriaki 1210
+Kato Ptelea 57
 
-Pappados 1534
+Delphi 2373
+Paralia Fodele 66
+Adele 489
+Fodele 457
+Palaiodentros 20
+Kentri 1021
+Megadentro 185
+Kentroma 68
+Iliokentima 1405
+
+Antimacheia 2251
+Dhamatria 633
+Patriki 291
+Miriki 61
+Mirtos 441
+Romirion 605
+Faros Armenistis 109
+Moni Chrysostomou 5
+Lafki 59
+Neos Kafkasos 229
+
+Thasos 3234
+Aroania 46
+Empesos 598
+Dempla 85
+Emporio 1033
+
+Rio 4664
+Temeni 1125
+
+Vrachnaiika 2571
+
+Kalavryta 1629
+Skhinokhorion 305
+Kokkinokhori 278
+Ellinokhorion 335
+Sardinia 1064
+Lendini 7
+Konstandinoi 89
+Agios Konstantinos Oropou 386
+Agios Georgios Agiou Konstantinou 48
+Delvinaki 772
+Alonaki 35
+Kolona 28
+Apollona 982
+
+Neapoli 27084
+Katapola 134
+Apollonia 869
+
+Nea Apollonia 1953
+Neapolis 1442
+Pentapoli 995
+
+Pentalofos 2107
+Afyssos 272
+Volissos 223
+Kissoi 48
+Kiparisson 38
+
+Kyparissia 5033
+Synoikismos Chavariou 1466
+
+Ovria 5838
+Vrina 860
+Vasilika Peritheias 20
+
+Nafpaktos 13415
+Moni Osiou Meletiou 20
+Moni Agiou Georgiou Arma 3
+Moni Agiou Theodosiou tou Neou 13
+Moni Agiou Nikolaou Kaltezon 4
+
+Agios Nikolaos 11421
+Kalivomouris 29
+Profitis Ilias 1482
+Prosilia 102
+Ayioi Theodhoroi 318
+Agios Nektarios Porou 101
+
+Platykampos 1889
+Platypodi 5
+Stypsi 1020
+Psina 66
+Asini 1055
+
+Kranidi 4006
+Pefkali 204
+Kandia 241
+Nikandreio 9
+Agios Andreas 1033
+Agios Antonios Kallergianon 284
+Vothon 177
+Votani 50
+Nounesati 30
+Mesaio 427
+Elliniko Trikolonon 204
+Elliniko Salaminas 58
+Kamini 310
+
+Salamina 25370
+
+Nea Smyrni 73076
+Nea Almyri 24
+Ano Almyri 35
+Ano Agoriani 115
+Ano Agios Ioannis 535
+Vakoufi 16
+Doroufi Kranidiou 2
+Petrothalassa Kranidiou 365
+
+Mavrothalassa 1572
+Kalavros 22
+Ksyna 5
+Neo Gynaikokastro 578
+
+Oraiokastro 15006
+Villa Ritz 300
+Chrysovitsa 446
+Anchialos 852
+Pollonia 272
+Apollon 129
+Ayia Moni 1
+Panayia 725
+Ayia Anastasia 14
+Manasi 62
+Granas 24
+Graikas 73
+Ano Graikiko 187
+Graikochori 1263
+
+Pefkochori 1931
+Oropos 1111
+Skopos 114
+Chorepiskopoi 203
+Episkopiana 261
+Lepiana 162
+Lepadi 21
+
+Alepou 3149
+Alepochori Botsari 208
+Karpochori 1059
+Karpovoulos 29
+Karperi 837
+Potokaki 122
+Theotokos 373
+Moni Koimiseos Theotokou Faneromenis 27
+Tilisos 1026
+
+Kastelli 1828
+Xirokastellon 226
+Xirokambos 505
+Dokimia 29
+
+Kimmeria 3424
+Stavropodhion 20
+Stavropigion 327
+Mpaltouma 176
+Roumpado 17
+Koumpouriana 48
+Toumpia 1
+Toumpa 628
+Polikhni 156
+Vyroneia 762
+Faia Petra 92
+Vigla 386
+Kamaroto 469
+
+Neo Petritsi 1932
+Amnatos 156
+Elatos 407
+
+Fotolivos 1844
+Dhivri 192
+Domiros 154
+Paliros 9
+
+Faliraki 6000
+Trachilos 169
+Pyrgos Ithomis 290
+Kollyvas 484
+Kalyves 1429
+Moni Arkadiou 6
+Moni Aretiou 2
+Areti 80
+Repetista 100
+Zoodochos Pigi Platanoussis 28
+Zoodochos Pigi Agias Anastasias 16
+Agia Anastasia 118
+Agia Anna 823
+
+Mytikas 1808
+Vytina 906
+Kopani 350
+Monopari 30
+Monolia 73
+Armolia 442
+Kato Tritos 518
+Kato Christos 386
+Agios Christoforos Sklivanis 48
+Sklivani 65
+Sklithro 532
+Moni Agion Anargyron 9
+Argyros 45
+Anargyroi 452
+Theodhosia 229
+Argennos 209
+
+Pyrgetos 1681
+Agios Spyridon 1337
+Vasiloudi 681
+Vilandredo 73
+Kalandra 674
+Chalandritsa 949
+
+Kapandriti 3359
+
+Eretria 4166
+Petres 312
+Petriti 663
+Trygonas 300
+Chorygio 688
+Trygona 394
+
+Makrygialos 2009
+Mikros Gialos 40
+Mikros Machalas 11
+Machairoi 54
+Xyloparoiko 402
+Mesenikolas 451
+Drapanias 270
+Rapi 44
+Napi 263
+Papigkon 211
+
+Arkhaia Korinthos 1939
+Exarkhos 699
+Alexandros 22
+Alexandradhes 35
+Megas Alexandros 50
+Megas Kampos 63
+Megas Valtos 335
+Valtochori 285
+Zilevton 282
+Milea 33
+Milesion 425
+Mileai 640
+Sikeai 14
+Liasiki 40
+Ravenia 106
+Zenia 27
+Seniko 77
+Destenika 24
+Tristeno 71
+Astris 51
+Eleftheres 1303
+Lydia 808
+Melanios 7
+Melas 88
+Meligalas 1431
+Kamara Mytilinion 3
+
+Mytilene 28322
+Kokkari 1060
+Trikokkia 320
+Lazarina 531
+
+Polygyros 10000
+Serviana 210
+Arvi 671
+Karvounari 454
+Vouno 171
+Palaia Kavala 108
+
+Kavallari 2025
+Kavalleraina 19
+Kavallouri 318
+Peponides 7
+Stavrinides 42
+Anthochori Dodonis 79
+Aidonochori 287
+Melanes 414
+
+Nea Vrasna 2556
+Choumniko 190
+Chouni 124
+Malouni 83
+Amalota 56
+Damalas 32
+Damaskinia 19
+Markiniada 122
+Nea Petra 277
+Nea Pefki 100
+Nea Lefki 582
+Dhokana 19
+Kanakia 206
+Platanakia 444
+Domolessa 33
+
+Thessaloniki 354290
+
+Edessa 18669
+
+Arnissa 1556
+Apsalos 1121
+Nipsa 523
+Galipsos 414
+Kipia 325
+Kipos 6
+Kipoureio 302
+
+Emporeio 1946
+Kokkokilas 14
+Kokkotoi 180
+Goumaiika 133
+Koumarias 61
+Ano Drymonas 244
+Strymonochori 401
+Ammoudhia 992
+Tzermiadon 682
+Kato Vermio 463
+Arsenio 1389
+Yenion 86
+Kira Vyena 115
+Kirra 1348
+Mesorrachi 407
+Kali Vrysi 1163
+Stena 1
+Sterna 815
+
+Alexandroupoli 52979
+
+Selero 2059
+Langadhaiika 46
+Liangaiika 44
+Iliolousto 328
+Vroustion 19
+Kolokynthou 744
+Ano Metapa 17
+Megalo Metochi 46
+Megalo Chorio 168
+Xiro Chorio 221
+Ano Chorio 5
+Kato Chora 65
+Nekta 6
+Ydroilektrikos Stathmos Lourou 2
+Stathmos Angistas 177
+Nea Spartia 238
+Spartinaiika 5
+
+Martinon 1916
+Grimpovo 211
+Terovo 281
+Rovoliarion 303
+Volimai 406
+Oxya 212
+Loxada 325
+Adamas 1347
+Kardamatika 9
+Kardamyla 710
+Bozikas 249
+Mpozionelaiika 39
+Eptapitta 14
+Eptalofos 360
+Eptachori 295
+Dafnoudi 443
+Dhafnoula 127
+Agios Ioannis Serifou 21
+Serifos 364
+Katifori 122
+Priftiatika 36
+Psifta 32
+Raftanaioi 47
+Mononaftis 18
+Agios Syllas 101
+Agios Vlasios 398
+Grimpiana 118
+Grigoriana 32
+Grigoro 235
+Loukha 46
+Gerontas 468
+Peran Triovasalos 649
+Orovas 24
+Triovasalos 838
+Khoutalaiika 48
+Koutala 47
+Skoutaros 881
+Loutros 1296
+Stimanga 981
+Nostimon 41
+Kostitsi 43
+Elafochori 62
+Elafotopos 51
+Valanidorachi 411
+Tholopotami 647
+Potamida 224
+Vavkeri 63
+Vavouri 109
+Chorostasi 12
+Kosta 71
+Neo Kostarazi 751
+Borsas 186
+Ayia Aikaterini Arkitsas 31
+Agia Aikaterini Thermisias 15
+Thermisia 331
+Theriakisio 180
+Therma 426
+Ferma 532
+Feriza 34
+Riza 487
+Falasarna 21
+Garnades 45
+Velonades 388
+Velota 98
+
+Filotas 1772
+Nymfaio 132
+Iraio 849
+Moiraiika 93
+Panormitis 120
+Panorama Mikrolimanou 172
+Frangolimano 9
+Klima 235
+Poulimates 118
+Limani 4
+Archaio Limani 979
+Archaia Feneos 225
+Archaia Eleftherna 115
+Zakaiika 134
+Psachnia 43
+
+Nea Zichni 2530
+Kapotides 1
+Kato Despotiko 187
+Neo Dermati 30
+Mikro Dereio 296
+Arisvi 1068
+Metaxades 818
+Metaxas 50
+Myrodafni 139
+Perivlepto 266
+Leptokaryes 62
+Leptopoda 34
+
+Leptokarya 3366
+Ano Paliokarya 73
+Mesi Paliokarya 52
+Bafra 838
+Trypes 48
+Laspes 12
+Aspai 38
+
+Giannouli 7885
+Yiannouzi 447
+Giannousaiika 102
+Thanasaiika 73
+Dichomoiri 49
+Prochoma 1422
+Promachonas 140
+Goudhianika 36
+Pachianika 2
+Pachni 1110
+
+Polichnitos 2667
+Dolichi 496
+Dolo 60
+
+Volos 86048
+Vamvakou 1104
+Amaliapolis 879
+Anopolis 218
+Marathopolis 877
+Achladitsa 135
+
+Kiato 9812
+Dato 310
+Krenti 307
+Ano Kalentini 172
+Pera Kalentini 114
+Kato Kalentini 127
+Apolysoi 21
+Mesoi Apostoloi 113
+Ayioi Apostoloi Pteleou 22
+Pteleos 1140
+Ano Volos 539
+Ano Volimai 262
+Apelati 35
+
+Gaitanion 1899
+Chora Gaitson 42
+Panaitsa 19
+Dimitsana 739
+Koumitsa 40
+Klimendi 352
+Episkopiko 320
+Potamos Antikythiron 34
+Kryoneri Kythiron 4
+Ano Ydroussa 229
+Agios Vartholomaios 172
+
+Vartholomio 3068
+Partheni 657
+Kalathenes 160
+Kalafationes 457
+Fanes 868
+Fanosi 17
+Votonosi 220
+Makronas 18
+Pyrrichos 32
+Potamoula Trichonidos 206
+Potamoula Mesolongiou 22
+Nea Mesolakkia 325
+
+Nea Vyssa 2673
+
+Anavyssos 6202
+Agiassos 83
+Agiasma 843
+
+Nea Karvali 2160
+Saronida Troizinos 9
+Kinidaros 341
+Ikaros 558
+Karoti 663
+Drota 3
+Kotas 22
+Kotroni 366
+Alatron 17
+Kalesmenon 77
+Potami Karlovasiou 19
+Potami Mesokampou 40
+Ypsilometopon 104
+Poroi 53
+Kato Poroia 424
+Kato Poseidonia 397
+Aidonia 185
+Poseidonion 31
+Aidona 179
+Legrena 289
+Negrades 68
+Skala Neon Kydonion 55
+
+Neon Karlovasion 6708
+Digeliotika 442
+Dhrosiniotika 13
+Vrosina 69
+Anapaftiria 46
+Tria Monastiria 172
+Monastirakion 276
+Fiki 1098
+Fikhtion 761
+Perikhora 181
+Perithori 271
+Sitsaina 175
+Dionysos Kerateas 195
+Paralia Dionysiou 681
+Stemnitsa 191
+Granitsa 360
+Grammenitsa 1258
+Midea 356
+Glyki 449
+
+Sykia 1903
+Nikanoras 38
+
+Nikaia 89380
+
+Aianteio 4860
+Agios Panteleimon 238
+Palaios Panteleimonas 86
+Tithronio 101
+Bralos 114
+Stalos 868
+Chalvantzaiika 57
+Ano Karnezaiika 27
+Polyzaiika 10
+Karnezaiika 13
+Kato Athamanio 50
+Athamania 100
+Maniaki 484
+Agiopigi 420
+
+Aigio 20422
+Gavalou 1018
+Doroufi Koilados 28
+Koilas 1165
+Koiladio 91
+Parakoila 881
+Parakalamos 730
+Pantoukios 48
+
+Afantou 5562
+Agrafa 821
+Makra Logka 26
+Kamaroula 595
+
+Lepenou 2090
+Steno 198
+Aigeirouses 339
+Stageira 352
+Mageiras 55
+Eiriniko 63
+Karini 6
+Agna 363
+
+Nea Magnisia 4144
+Nea Agnanti 79
+Nea Agathoupoli 467
+
+Kymina 3775
+Minia 260
+
+Ambelokipoi 1606
+Platanos Ambelion 16
+Platanos Kalivion 145
+Limani Ammoulianis 12
+Kato Ravenia 108
+Kato Vervena 220
+Kato Vereniki 59
+Vereniki 23
+Smyrtia 43
+Myrties 325
+Moucha 90
+Chamouzas 33
+Mouzilon 21
+Bouzion 115
+Limnes 734
+Limnonaki 14
+Agnantia 601
+Tsopakas 31
+Asopos 1279
+Akti Ydras 7
+Agios Konstantinos Ydras 1
+Ayios Konstantinos 13
+Ayios Konstandinos Troizinos 60
+Eresos 1042
+Skala Eresou 349
+Skala Oropou 1430
+Skala Litochorou 42
+Moraitochori 30
+Moraitika 553
+Episkepsi 332
+Skepasto 166
+
+Krania Elassonas 2936
+Kranionas 5
+Kranea 676
+Akrai 55
+Akrata 1393
+Kato Rodini 133
+Nea Roda 1153
+Makrirrakhi 352
+Trakhia 143
+Kalyvia Fylaktis 54
+Gerani 821
+Geraki 1323
+Zogka 17
+Rogkia 263
+Agkistro 373
+Vragkiana 112
+Fragko 513
+Agios Vissarionas 913
+Rizoma 1410
+Paragogiko 71
+Georgiko 544
+Georganoi 69
+
+Georgioupolis 2483
+
+Daratsos 4732
+Daras 383
+Sidari 386
+
+Dhrosia 5020
+Dhrosopighi 65
+Ieropigi 294
+Adrianos 6
+Kalindria 109
+Kassandrino 223
+Kekhries 238
+Khranoi 278
+Dry 37
+Dryalia 18
+Ryaki 40
+Makryammos 2
+Temenia 399
+
+Zipari 2706
+Atsipapi 15
+Osios Arsenios 17
+Patsopoulos 15
+Anoigmata 37
+Pragmateftis 275
+Vrangiana 58
+Mataranga 1344
+Langadhi 41
+Krikellon 161
+Neo Krikello 487
+Dichouni 27
+Trichonion 165
+Lavka 362
+Sklavia 45
+Kattavia 307
+Katavasis 13
+Kakavas 66
+Pappadhatai 1077
 Kappas 296
-Papparousion 12
+Pappadiana 26
+Pappadia 21
+Dhrakas 84
+Dhraganon 65
+Dhragoyion 84
+Prasino 21
+Skamnia 84
+Damnoni 11
+Debelikeia / Develiki 34
+Kastri Evrimenon 40
+Imeri Elia 26
+Mesimeri 1491
+
+Pylaia 23494
+Terpyllos 483
+Terpnas 94
+Rizovrachos 63
+Mesovracho 6
+Zotiko 139
+
+Thesprotiko 1718
+Vouyiaton 306
+Ptelopoula 327
+Pavlopoulon 23
+Avlona 80
+Kamaretsaiika 22
+Aspalathrokampos 5
+Ano Zevgarakion 59
+Zevgolatio 450
+Bolati 767
+Kokolata 176
+Karteri 369
+Rodochori 623
+Garefeion 663
+
+Nea Efesos 2006
+Koukkos 316
+Ano Mera 1459
+Schoinas 419
+Skhoinos 61
+
+Plagiari 5392
+
+Polichni 39765
+Valyra 991
+Neochorouda 1430
+Koronouda 145
+Koronis 279
+Aperathos 722
+
+Skiathos 5187
+Skiadas 169
+Daskio 410
+Kamara Vatheos 258
+Fyteia 585
+Plateia 27
+Vyssinia 127
+Avyssalos 18
 
 Kavyli 1531
 
-Domokos 1531
+Sapes 4506
 
-Gra Liyia 1528
-
-Grizano 1528
-
-Angelochori 1526
-Angelona 458
-Angelochorion 991
-
-Mikro Monastiri 1518
-
-Fyteies 1516
-Elies 26
-
-Aravissos 1513
-Narkissos 365
-
-Agios Petros 1505
-
-Kopanaki 1500
-
-Thrapsanon 1499
-Kapsaniana 11
-Moni Kapsa 2
-Moni Koronis 8
-Koronis 279
-
-Pelasgia 1497
-Aktaio 1494
-Aktio 180
-Koila 1493
-Draviskos 1488
-Askos 1406
-Faskomilia 338
-Zygos 1485
-Triandaiika 1484
-Profitis Ilias 1482
-Moni Profitou Iliou 2
-Moni Agiou Ioannou Prodromou 144
-Vasilika Agiou Ioannou 278
-Rizomylos 1482
-Neromylos 61
-Mitrousi 1479
-Kato Mitrousi 472
-Kaparellion 1478
-Filotion 1477
-Perdika 1476
-Palaifyto 1475
-Myrtofyto 424
-Paralia Myrtofytou 9
-Neo Myriofyto 41
-Ampelofyto 263
-Nisi 1473
-Kokkinochoma 1472
-Synoikismos Chavariou 1466
-Mouzouras 1462
-Vlychada 1462
-Tolon 1460
-Kolona 28
-Agkathia 1459
-Ano Mera 1459
-Imera 208
-Limeri 239
-Sourpi 1457
-Antikyra 1448
-Kyras Vrysi 1128
-Lavara 1447
-Avato 1357
-Anavatos 1
-Kineta 1446
-Krines 780
-Vlachopoulo 1446
-Xylagani 1445
-Gergeri 1444
-Xilopolis 1442
-Thespies 1437
-Meliti 1432
-Grammatiko 1432
-Meligalas 1431
-Neochorouda 1430
-Koronouda 145
-Korona 44
-Skala Oropou 1430
-Kalyves 1429
-Moni Kalyvianis 143
-Portaria 1429
-Porta 92
-Portitsa 161
-Nea Karya 1426
-Kato Karya 35
-Kato Kamila 1127
-Kato Kanalia 62
-Kouvaras 1426
-Mavrommati 1426
-Skotoussa 1415
-Kastanoussa 592
-Kastanoula 106
-Kastanas 596
-Koimisi 1414
-Dion 1413
-Dionysiou 499
-Paralia Dionysiou 681
-Kitros 1412
-Loutros 1296
-Loutrochori 483
-Astrochori 49
-Kleidi 1412
-Kleitos 1382
-Rizoma 1410
-Rizomata 1157
-Rizo 1106
-Megali Khora 1408
-Zarkos 1407
-Afration 1405
-Iliokentima 1405
-Mantili 105
-Vounoplagia 1404
-Mavroplagia 45
-Nea Plagia 1127
-Lagia 55
-Akrolimni 1398
-Atsipopoulo 1392
-Patsopoulos 15
-Arsenio 1389
-Farsa 222
-Faros 1171
-Polydendri 1385
-Chaironeia 1382
-Katastarion 1378
-Kastrion 437
-Perivoli 1378
-Mikro Perivolaki 343
-Lapas 1377
-Pasion 1298
-Sision 1003
-Varybobi 1377
-Neos Oropos 1375
-Asopia 1375
-Krithia 1374
-Nikithianos 63
-Niki 273
-Agia Galini 1369
-Agia Pelagia 480
-Langadhia 1363
-Tsangari 201
-Mataranga 1344
-Agio Pnevma 1353
-Lardos 1348
-Kirra 1348
-Agia Kiriaki 31
-Sami 1347
-Savalia 1339
-Gavalou 1018
-Agios Spyridon 1337
-Axos 1336
-Kalyves Polygyrou 1333
-Moles Kalyves 125
-Krokees 1329
-Nees Vrysoules 76
-Agios Vasileios 1328
-Varnavas 1326
-Moulki 1316
-Gazoros 1315
-Magazia 68
-Pappadates 1313
-Pappadiana 26
-Krikellos 1312
-Trikeri 1182
-Arkoudi 1305
-Pithari 1302
-Spithari 136
-Spitakia 76
-Thouria 1302
-Diavatos 1294
-Gerakarou 1293
-Yerakas 62
-Ano Yerakarion 176
-Oreoi 1293
-Voreion 57
-Exaplatanos 1292
-Geroplatanos 128
-Palaioplatanos 33
-Ayios Thomas 1292
-Royitika 1288
-Stamatoyiannaiika 74
-Mavrochori 1287
-Stavrochori 398
-Kato Milia 1286
-Kato Malaki 61
-Arfara 1285
-Argalasti 1285
-Chalkiades 1284
-Varvasaina 1280
-Ayia Varvara 146
-Asopos 1279
-Kalos Agros 1275
-Managros 9
-Sitagroi 1105
-Afytos 1273
-Drepanon 1272
-Ayios Vasilios 1264
-Graikochori 1263
-Ano Graikiko 187
-Raiko 24
-Asimion 1259
-Desimi 1
-Sesi 174
-Grammenitsa 1258
-Grammeni 335
-Kommeno 743
-Skarmagkas 1255
-Arma 1078
-Pamfila 1251
-Filia 861
-Ammochori 1250
-Mesaria 1233
-Mesarista 244
-Volakas 1225
-Chavari 1225
-Angelokastro 1220
-Kastanies 1214
-Ano Lekhonia 1214
-Lekani 485
-Palekastro 1094
-Myrsini 1213
-Nea Selefkeia 1213
-Lefkes 58
-Prinos 1211
-Krinos 31
-Omvriaki 1210
-Sfendami 1209
-Damiano 409
-Ramia 203
-Archaia Olympia 1208
-Kolympia 439
-Kallifoni 1208
-Rovies 1206
-Mandalo 1204
-Skandalo 222
-Kato Dhiminio 1201
-Nea Dhimaina 85
-Viros 1201
-Akraifnia 1195
-Dhafnias 237
-Dafni 340
-Dafnonas 385
-Dafnofyto 35
-Kapnofyto 181
-Myriofyto 677
-Kastanofyto 25
-Anthofyto 272
-Archontochori 1194
-Pontochori 62
-Alli Meria 1188
-Chani Merkouri 13
-Nea Tirins 1186
-Eirini 96
-Steiri 1056
-Iria 453
-Tria Monastiria 172
-Sikyon 1185
-Palaiokipos 1184
-Vrachokipos 325
-Lachanokipoi 105
-Stalis 1182
-Sosandra 1178
-Neo Agioneri 1176
-Palaio Agioneri 886
-Proti 1176
-Aspro 851
-Asprokhorion 151
-Mikrokhorion 578
-Moria 1176
-Kastraki 1172
-Lakkoma 1171
-Kampanis 1170
-Kampi 928
-Tsampi 11
-Lalas 1168
-Koutalas 215
-Koilas 1165
-Kampos Koilados 56
-Kampos 372
-Xirokampos 879
-Methoni 1165
-Kali Vrysi 1163
-Megali Vrisi 989
-Neon Monastirion 1159
-Arriana 1158
-Pigi 1158
-Kryopigi 737
-Taxiarches 1157
-Archia 3
-Charchaliana 23
-Charia 63
-Charma 301
-Kouloura 1156
-Koulouri 250
-Sarti 1156
-Nea Roda 1153
-Aratos 1152
-Elatos 407
-Kato Elati 219
-Kato Elounda 86
-Ayia Trias 1151
-Agia Triada Megaron 252
-Anarachi 1147
-Pachi 542
-Vrachia 638
-Ochia 56
-Paralia Ofryniou 1146
-Paralimnio 525
-Xirolimni 11
-Loutra Oraias Elenis 1145
-Ano Syros 1138
-Ksyrovrisi 878
-Domvraina 1138
-Vrana 1082
-Isthmia 1134
-Gefyra Isthmou 358
-Megali Gefyra 264
-Vareia 1133
-Varella 106
-Kapparelli 299
-Mokhos 1132
-Stanos 1132
-Kala Dendra 1131
-Monodendro 83
-Monodhendrion 721
-Modhion 311
-Strapodhion 57
-Kalyvia 1130
-Myki 1130
-Astypalaia 1129
-Komnina 1126
-Parapotamos 1126
-Milopotamos 49
-Apsalos 1121
-Schinokapsala 87
-Kapsala 56
-Rapsaioi 64
-Araioi 15
-Drakaioi 89
-Koutselio 1118
-Paravola 1118
-Loutra 1116
-Neos Voutzas 1116
-Neos Pontos 257
-Lechovo 1115
-Xechoro 137
-Xechasmeni 795
-Platanorevma 1112
-Olynthos 1111
-Aneza 1111
-Ano Karnezaiika 27
-Ano Kamila 682
-Oropos 1111
-Pachni 1110
-Pachianika 2
-Stathianika 7
-Menidi 1110
-Eidomeni 154
-Kleidonia 11
-Aidoni 61
-Prokopi 1108
-Vamvakou 1104
-Vakoufi 16
-Vamvakoussa 243
-Valtero 1102
-Kaltezes 62
-Kallifytos 1098
-Fyta 7
-Fiki 1098
-Kallithiro 1098
-Lithia 311
-Malakonta 1097
-Kyprinos 1095
-Prina 90
-Mikropolis 1094
-Marina 1091
-Ayia Marina 355
-Agios Matthaios 1088
-Kato Agios Markos 867
-Kato Marmara 705
-Lianokladhion 1085
-Kokla 153
-Lykeio 1081
-Xino Nero 1081
-Ayios Adhrianos 1080
-Kyllini 1079
-Pappadhatai 1077
-Kato Lipochori 1074
-Kato Lippa 23
-Pelopi 1073
-Elos 956
-Goumero 1072
-Choumeriakos 174
-Ampeleies 1070
-Marathokampos 1069
-Mesokampos 110
-Kampos Marathokampou 471
-Arisvi 1068
-Mavrovouni 1067
-Marathovouni 82
-Alfeiousa 1067
-Garefeion 663
-Skarfeia 378
-Karfas 393
-Gomfoi 1064
-Kofoi 196
-Trilofo 818
-Vamvakofyto 1061
-Pefkofyto 199
-Emponas 1061
-Oxilithos 1061
-Lithotopos 692
-Xirotopos 138
-Kokkari 1060
-Kokkokilas 14
-Karpochori 1059
-Alepochori 38
-Alepochori Botsari 208
-Palaiochori Botsari 132
-Palaiochoraki 21
-Palaiochori Sirakou 66
-Palaiochorion 314
-Stratonion 1057
-Stratoniki 561
-Stratinista 62
-Kokkonion 1056
-Kynopiastes 1054
-Petrochori 1052
-Mikrochori 90
-Polykarpi 1049
-Karpi 369
-Souroti 1048
-Karyes 1048
-Leptokaryes 62
-Vanaton 1045
-Plataria 1044
-Platanion 103
-Platanistos 48
-Charopo 1042
-Charouda 31
-Fillyra 1041
-Stathmos Mourion 1040
-Peplos 1037
-Peponides 7
-Peponia 432
-Aris 1036
-Palaiopyrgos 1035
-Pyrgoi 91
-Emporio 1033
-Emporeios 56
-Poreia 512
-Agios Andreas 1033
-Nea Stira 1031
-Agia Sotira 215
-Ayia Sotira 302
-Agios Sotir 488
-Tilisos 1026
-Levidion 1025
-Ornos 1025
-Ano Kornias 10
-Ano Korakiana 946
-Nikiana 724
-Chrysochorafa 1023
-Chrysopetra 113
-Kamariotissa 1022
-Kamarion 46
-Kentri 1021
-Plintri 544
-Koumintri 298
-Stypsi 1020
-Psion 9
-Vokhaiko 1020
-Antirrio 1018
-Kalamia 1018
-Kalamitsion 211
-Pentaplatano 1015
-Kanalia 1015
-Peteinos 1014
-Pethelinos 474
-Glinos 522
-Acharavi 1013
-Charavgi 175
-Avgo 327
-Anakasia 1012
-Malakasi 513
-Valsamata 1008
-Ftelia 1006
-Kato Mazaraki 1005
-Kato Makrinou 580
-Ayia Trias Makrinous 44
-Karatoula 1004
-Kamaroula 595
-Sperchogeia 1004
-Ano Kastritsi 1003
-Theodoriana 999
-Korisos 998
-Agios Nikolaos Korisou 22
-Polikhronon 997
-Polion 80
-Mikromani 997
-Pentapoli 995
-Xirokambion 995
-Kato Kambia 142
-Prodromos 994
-Prodromi 143
-Stavrodromi Parakalamou 74
-Parakalamos 730
-Kalamoti 569
-Dafia 992
-Ammoudhia 992
-Karousades 991
-Peroulades 673
-Siolades 26
-Gardelades 371
-Poulades 465
-Dimitritsi 989
-Esovalta 988
-Chrisova 82
-Kristoni 988
-Glossa 987
-Ossa 651
-Prassa 13
-Prasinada 317
-Armenokhorion 986
-Armenoi 379
-Agios Georgios Armenon 87
-Agios Panteleimonas 984
-Vasiliai 984
-Longa 983
-Longos 659
-Skourta 982
-Loudias 981
-Kaloudiana 331
-Ammoudia 267
-Ammoudares 121
-Ammoudari 164
-Stimanga 981
-Kerkini 980
-Kera 36
-Kerasona 369
-Kerasovo 206
-Stratos 979
-Archaio Limani 979
-Archaia Nemea 392
-Dispilio 976
-Syvota 973
-Nidhrion 971
-Mega Pisto 967
-Megalo Peristeri 310
-Mikro Peristeri 2
-Kato Korakiana 967
-Kato Karea 28
-Ano Poroia 965
-Poroi 53
-Profitis 963
-Tsakoi 961
-Kefalovryso 959
-Kallimasia 958
-Agra 955
-Skotina 953
-Pompia 953
-Klouvas 953
-Neos Kouvaras 566
-Chalkeio 950
-Neokastro 949
-Iliokastron 550
-Chalandritsa 949
-Andritsaina 795
-Kato Chorio 946
-Mikro Chorio 17
-Vatheianos Kampos 946
-Adelianos Kampos 680
-Makhairadhon 941
-Sarakinadhon 619
-Sarakina 460
-Petraia 939
-Plagia 939
-Sarantaporo 938
-Khersonisos 938
-Elafonisos 745
-Anafonitria 248
-Elafos 621
-Veneraton 938
-Valtonera 232
-Valti 16
-Ardassa 934
-Assa 19
-Lefkakia 934
-Lefki 379
-Nea Lefki 582
-Neos Pyrgos 932
-Mesopyrgos 170
-Kalopyrgos 2
-Ligia 930
-Perigialion 315
-Palatitsia 927
-Amisiana 927
-Vatsiana 31
-Nea Kerasounta 925
-Nea Sampsounta 613
-Fountana 125
-Pantokrator 925
-Kallitechnoupoli 923
-Dodonoupoli 129
-Gallos 922
-Kalochori-Panteichi 922
-Panochori 8
-Komara 921
-Marmaras 14
-Stamna 921
-Vrastama 700
-Myrtia 919
-Neokaisareia 919
-Kaisiariana 99
-Plaisia 234
-Plataies 919
-Paralimni 918
-Kampochori 916
-Antheia 914
-Iraklion 914
-Lefkadia 914
-Agios Vissarionas 913
-Sykamino 910
-Kaminos 162
-Rapsani 909
-Sani 18
-Antissa 908
-Artissa 51
-Panagiouda 906
-Moni Panagias 2
-Moni Panagias Varnava 32
-Agia Paraskevi Varnava 244
-Paraskevi 205
-Vytina 906
-Skalitina 23
-Arethousa 905
-Areti 80
-Taxiarchis 903
-Nenita 903
-Ormos Korthiou 903
-Chrysiida 898
-Kyra Chrysikou 563
-Monospita 897
-Perni 897
-Filippoi 894
-Antifilippoi 869
-Khaniotis 893
-Pythio 892
-Polyplatanos 892
-Polyplatano 257
-Polypotamo 314
-Methana 892
-Neos Pirgos 890
-Aspropirgos 153
-Asprochoma 83
-Pendalofon 889
-Trilofon 98
-Areopoli 888
-Tavronitis 888
-Atsiki 886
-Elati 886
-Palaiokklisi 885
-Palaiokhori 287
-Elia 884
-Koufovouno 883
-Larimna 883
-Krimni 257
-Skoutaros 881
-Parakoila 881
-Amaliapolis 879
-Liapades 879
-Liapi 63
-Makrikapa 878
-Dhalamanara 877
-Bokhali 876
-Gialos 873
-Gialia 7
-Akrogiali 139
-Kalamoto 871
-Keramoton 38
-Ramos 80
-Keramos 34
-Fanari 871
-Fanarion 127
-Apollonia 869
-Agios Georgios Lichados 868
-Fanes 868
-Faneromeni 559
-Stalos 868
-Nestorio 865
-Nistora 10
-Ayiai Paraskiai 864
-Ayia Paraskevi Pentakorfou 5
-Agia Paraskevi Vilion 1
-Tragana 864
-Dhraganon 65
-Longades 859
-Palaiomanina 855
-Vlachogianni 855
-Sinarades 854
-Petrades 10
-Agras 854
-Agrafoi 180
-Agrafa 821
-Anchialos 852
-Prines 851
-Xilokeriza 849
-Valtotopi 846
-Valtoudi 27
-Krini 845
-Pagouria 843
-Mouria 714
-Mouries 555
-Benitses 843
-Petroto 842
-Agios Mamas 841
-Perivolakion 841
-Perivolion 127
-Loutro 841
-Lidoriki 840
-Agios Isidoros 89
-Samarina 839
-Kamaria 29
-Afra 839
-Bafra 838
-Afraton 26
-Omolio 838
-Triovasalos 838
-Orovas 24
-Trovato 132
-Gouvia 838
-Vrouviana 256
-Rovia 37
-Flampouro 837
-Flampoura 181
-Karperi 837
-Kimolos 837
-Tholos 776
-Tholopotami 647
-Sternes 836
-Platys Gialos 833
-Plati 2
-Andromachi 833
-Pandroson 110
-Folegandros 667
-Nea Irakleia 832
-Dialekto 831
-Paralia Tyrou 831
-Paralia Asinis 34
-Paralia Amadon 4
-Avliotes 830
-Agios Stefanos Avlioton 176
-Agios Stefanos Sinion 87
-Dherveni 828
-Veniza 52
-Diava 828
-Rentina 828
-Paralio Astros 827
-Agia Anna 823
-Ergatikes Katoikies Attikis 823
-Moschopotamos 823
-Agios Ioannis 821
-Gerani 821
-Gerakari 268
-Paliouri 820
-Paliourion 128
-Palaios Mylotopos 819
-Apolpaina 819
-Milos 819
-Milia 558
-Militsa 371
-Pedino 819
-Kapediana 25
-Metaxades 818
-Petarades 36
-Sterna 815
-Fternon 181
-Potos 815
-Potokaki 122
-Koukaki 83
-Cherso 814
-Acherousia 234
-Nea Nikomideia 813
-Kominianika 25
-Nikomidino 561
-Kassiopi 812
-Rossi 79
-Manassis 26
-Karteros 810
-Karterides 29
-Lydia 808
-Rizovouni 808
-Xirovouni 2
-Pratovouni 57
-Stenimachos 806
-Melivoia 805
-Meliadi 248
-Sagiada 803
-Stagiades 135
-Metagkitsi 802
-Grammatikou 802
-Rodia 797
-Trimodi 17
-Palaio Keramidi 793
-Magoulitsa 792
-Oinousses 792
-Rousso 623
-Ydroussa 369
-Sfakaki 792
-Niseli 791
-Sellia 316
-Selles 25
-Diasella 44
-Sella 101
-Selli 53
-Nea Silata 788
-Elata 248
-Kastanea 787
-Dadia 784
-Zarkadia 598
-Zevgarakion 781
-Zevgaraki Skouteras 30
-Skoutera 201
-Valtino 780
-Klenia 777
-Koutsouras 775
-Aspros 774
-Mesotopos 773
-Milotopos 40
-Vlachokerasia 773
-Vlachava 333
-Vlachatika 31
-Vlachides 23
-Rachidi 1
-Pera Rachidi 48
-Delvinaki 772
-Agia Marina Delvinakiou 79
-Griva 770
-Piges 770
-Nopigeia 63
-Petropigi 522
-Mega Kefalovryso 770
-Kefalari 677
-Kefalovrison 53
-Kefalovryson 44
-Ypsos 769
-Bolati 767
-Xifiani 767
-Anifion 745
-Kafiona 25
-Vafiochori 603
-Provatonas 766
-Voreino 766
-Voros 40
-Marathea 763
-Vyroneia 762
-Antigoneia 109
-Fikhtion 761
-Metokhion 761
-Spartokhorion 453
-Othonoi 761
-Kalogriana 760
-Kalogriani 259
-Pilogranitsa 34
-Lagkada 760
-Lagkadia 183
-Makry-Gialos 760
-Agios Panteleimon Makry Gialou 118
-Aetos 759
-Ofrinion 758
-Lakkopetra 758
-Lakkos 40
-Pyrgion 755
-Pyrgaki 48
-Thyrio 753
-Anayennisis 752
-Yenion 86
-Neo Kostarazi 751
-Nea Avorani 751
-Ormenio 750
-Plaka 749
-Kolokynthou 744
-Kolokithia 120
-Kokkinon 744
-Karaiskakis 742
-Laista 60
-Plaisio 192
-Planos 742
-Olympiada 741
-Olympoi 376
-Cheimarros 740
-Limani Karra 95
-Limani Ammoulianis 12
-Vryses 740
-Vrysoules 31
-Dimitsana 739
-Dimitrani 96
-Dikaia 737
-Loukadika 14
-Gravouna 737
-Nikokleia 737
-Fourna 734
-Limnes 734
-Ayios Kirikos 733
-Ayios Georgios Kalyvion 266
-Kompitsion 733
-Nikolitsion 48
-Mikrokampos 731
-Kato Kalesia 729
-Kato Kalentini 127
-Pera Kalentini 114
-Laganas 729
-Ano Zervochori 727
-Palaio Zervochori 413
-Armeni 727
-Akhinos 726
-Trakhia 143
-Lisimakhia 335
-Voroi 726
-Oros 54
-Panayia 725
-Ayia Eleni 476
-Melenikitsi 621
-Ayios Serafim 725
-Lindos 724
-Azoros 724
-Aperathos 722
-Evangelismos 722
-Moni Evangelistriias Serifou 2
-Moni Taxiarchon Serifou 1
-Moni Taksiarchon 54
-Samothraki 719
-Dilinata 719
-Sitaria 718
-Elataria 50
-Sellades 718
-Vrysella 289
-Gefyroudi 717
-Mavroudi 423
-Agios Arsenios 717
-Velissarios 717
-Anissaras 191
-Psaras 152
-Psarrou 20
-Psarou 164
-Nea Bafra 716
-Kaminia 716
-Limini 317
-Laiika 716
-Panagia 716
-Kyra Panagia 130
-Drosato 713
-Nea Kerasia 713
-Pontokerasia 83
-Prasia 83
-Prasies 133
-Eptamyloi 712
-Eptalofos 360
-Korakovouni 710
-Spilion 710
-Spilios 14
-Kalipadhon 709
-Tryfos 708
-Kato Almyri 703
-Triantafyllia 702
-Efedron Anagennisi 701
-Kedro 89
-Drota 3
-Lefkopetra 700
-Vrysaki 700
-Vrysochori 90
-Karpero 700
-Skarpari 20
-Kallithea-Moustafadhes 700
-Vergi 699
-Exarkhos 699
-Examilio 204
-Poullitsa 696
-Agrilitsa 149
-Polymylos 695
-Polystylo 420
-Pontoirakleia 692
-Kastri 690
-Kastritsa 557
-Chorygio 688
-Palaio Eleftherochori 686
-Toichio 685
-Chionato 118
-Chioniades 42
-Kavos 685
-Kelli 683
-Epiniana 683
-Mandraki 682
-Tzermiadon 682
-Vasiloudi 681
-Agios Georgios Feron 681
-Kato Panagia 680
-Ormos Panagias 30
-Perdhika 680
-Gastouri 679
-Nenitouria 37
-Kato Agios Ioannis 678
-Agios Ioannis Amaliados 431
-Ano Agios Ioannis 535
-Stavromenos Rethymnis 678
-Agia Paraskevi Rethymnis 246
-Kalandra 674
-Raxa 673
-Fraxo 115
-Frama 26
-Troizina 673
-Metamorfosi Troizinos 75
-Metamorfosis 22
-Zeli 673
-Arvi 671
-Mikra Mantineia 670
-Nea Tiroloi 669
-Tourlos 669
-Ampelokipoi 668
-Kipoi 358
-Kipoula 17
-Soula 93
-Vrysoula 172
-Pentavryso 599
-Gelanthi 667
-Pitsidia 666
-Istro 665
-Karoti 663
-Vevi 663
-Agia Paraskevi Melias 12
-Petriti 663
-Gardiki 663
-Vardiana 14
-Psathopyrgos 663
-Flamouria 661
-Katachas 660
-Argyrades 660
-Argyrochori 32
-Agios Konstantinos 659
-Agios Konstantinos Oropou 386
-Mavrolofos 658
-Partheni 657
-Kato Pitsa 657
-Kato Pines 62
-Kato Poros 53
-Orfanio 656
-Stefani 567
-Gennadi 655
-Oxyneia 654
-Polynero 18
-Polypetro 425
-Vivlos 654
-Skoulikado 653
-Koukkouli 51
-Erateino 649
-Peran Triovasalos 649
-Stomio 649
-Palaio Skyllitsi 647
-Palaioselli 45
-Kamara 643
-Servota 642
-Nymfes 642
-Orma 641
-Armata 30
-Armatoliko 275
-Mileai 640
-Koromilea 232
-Romia 183
-Argasi 639
-Verga 97
-Variko 638
-Likoporia 638
-Perikopi 4
-Akropotamia 637
-Theologos 636
-Nerantza 636
-Tzara 105
-Vasilopoulo 636
-Mikro Soulopoulo 20
-Koronopoulo 216
-Karavomilos 634
-Ydromilos 90
-Kambos 633
-Ambelos 213
-Ambelia 126
-Lia 163
-ArchaIes Kleones 633
-Dhamatria 633
-Dhamarionas 333
-Lionas 80
-Limnionas 29
-Neoi Poroi 631
-Mesagros 631
-Nea Mesagkala 72
-Tsagkaropoulo 189
-Tithorea 630
-Petroporo 629
-Chortero 628
-Karterion 96
-Toumpa 628
-Toumpia 1
-Akhillio 628
-Asprokklisia 628
-Monokklisia 311
-Ekklisies 122
-Koilada 628
-Koiladio 91
-Kalliteros 627
-Doukades 627
-Korakades 30
-Arkadades 90
-Kalpaki 625
-Livadia 623
-Rodochori 623
-Inachos 622
-Monachiti 255
-Agiofyllo 621
-Pachykalamos 619
-Ano Parakalamos 39
-Ammotopos 618
-Ammos 479
-Platia Ammos 42
-Platia 6
-Mexiatai 618
-Asprokhoma 617
-Asprokambos 211
-Ivira 615
-Viranepiskopi 122
-Rokka 613
-Sakka 97
-Zitsa 613
-Palaiostani 612
-Glifa 612
-Glinado 585
-Georgiani 611
-Zorgianni 9
-Chiliodendro 610
-Polydendro 231
-Ardani 610
-Myloi 610
-Mylochori 79
-Xylochori 41
-Argolikon 609
-Vainia 609
-Podhokhori 608
-Neokhorion 197
-Palaiokhorion 190
-Poullakidha 605
-Romirion 605
-Pournari 603
-Stournaraiika 537
-Paralia Vatheos 602
-Emmanouil Pappas 601
-Agnantia 601
-Stoupa 600
-Marmara 598
-Poulithra 598
-Tzithra 7
-Tzitzifia 2
-Xinoneri 597
-Zilefti 596
-Zilevton 282
-Achladochori 596
-Kala Nera 594
-Katakolo 594
-Galataki 438
-Melissourgoi 593
-Rakhai 593
-Kalovatos 589
-Karya 589
-Krya 434
-Dryalia 18
-Dryalos 37
-Platys Gyalos 29
-Prosimna 589
-Eleftherochori 588
-Elefthero 75
-Anilio 587
-Fyteia 585
-Filoteia 543
-Platanotopos 584
-Gymnotopos 561
-Analipsi 584
-Ryakia 583
-Theodorakeio 583
-Stavrodromi 581
-Lygaria 580
-Kokkinion 580
-Kokkinokhori 278
-Ellinokhorion 335
-Agios Georgios Sykousis 579
-Drakotrypa 579
-Ypati 496
-Kato Garouna 579
-Ano Garouna 227
-Pefkodasos 577
-Asos 82
-Kosmira 577
-Altomira 47
-Ira 369
-Sotira 250
-Renginion 577
-Prongion 3
-Stivos 576
-Ekkara 576
-Kokkala 238
-Mikron Vathi 576
-Kariotika Karyas 575
-Ayios Andreas 574
-Pacheia Ammos 574
-Vatoussa 574
-Krinida 573
-Prosfyges 572
-Katafygi 311
-Katafourko 92
-Katafyto 97
-Gorgogyri 571
-Metochi 571
-Konstantia 570
-Agnanta 569
-Trianta 25
-Roussospiti 569
-Prousos 125
-Vamos 569
-Dendrochori 568
-Folia 567
-Skala Kallirachis 566
-Koutsounari 566
-Soutso 31
-Manoutso 95
-Koutsi 155
-Sfikia 565
-Mavrika 565
-Mavrilon 146
-Dorothea 564
-Nea Sinopi 563
-Panaritis 563
-Panormitis 120
-Ganochora 562
-Linopotis 562
-Anopolis 218
-Sykiada 562
-Roda 561
-Germas 560
-Dhermation 21
-Germa 15
-Agios Germanos 182
-Flamouli 560
-Kavousi 559
-Vovousa 115
-Mazarakia 558
-Ikaros 558
-Kallipoli 556
-Kalliroi 151
-Kallirroi 273
-Neo Chorio 556
-Kormista 555
-Moraitika 553
-Frantzis 551
-Chantziliakon 243
-Liparo 550
-Dimitra 548
-Spolaita 548
-Spourgitis 50
-Mourgkani 111
-Amouri 278
-Flamouriana 100
-Patoulia 545
-Souli 434
-Kapi 544
-Georgiko 544
-Gialtra 544
-Vogatsiko 543
-Fourka 543
-Fournoi 301
-Trifylli 543
-Drepano 541
-Paralia Rachon 541
-Patmos 541
-Laloukas 540
-Trypiti 540
-Ano Volos 539
-Gouves 539
-Kompotades 539
-Nea Kerdylia 538
-Nea Fyli 170
-Sozopoli 537
-Mavroneri 535
-Mavro 202
-Kastania 534
-Manesis 534
+Echinos 2162
+Skhinos 22
 Mianes 4
-Skalokhori 534
-Katokhorion 137
-Sklithro 532
-Kariotai 532
-Skariotis 5
-Kariotika Kamariou 18
-Kipseli 532
-Ferma 532
-Sitochori 531
-Ayios Dhimitrios 531
-Lazarina 531
-Vamvakia 530
-Ammouliani 529
-Raptopoulo 528
-Kato Raptopoulo 287
-Kato Kotsanopoulo 146
-Ano Kotsanopoulo 256
-Chanopoulo 313
-Kontakaiika 527
-Kyriakaiika 14
-Ano Kalesia 526
-Koronos 526
-Lazarata 526
-Lazaratika 47
-Zaimi 526
-Tsagkarada 525
-Vouvopotamos 524
-Drosero 523
-Nipsa 523
-Psara 454
-Psari 355
-Kato Tritos 518
-Pagondas 518
-Pagoni 2
-Lagonisi 22
-Nea Zoi 518
-Oinoussa 517
-Perdikaki 517
-Rozena 517
-Zenia 27
-Lakka Kalogirou 517
-Kavvadades 517
-Spartylas 517
-Malakasa 514
-Tsoukaladhes 514
-Fragko 513
-Gomati 509
-Domatia 457
-Kalomoira 508
-Doirani 83
-Okhthia 506
-Marathia 260
-Afrathias 35
-Xirokambos 505
-Avli 504
-Zoodochos 504
-Kavrochori 503
-Megarchi 503
-Agios Georgios Argyradon 503
-Agios Georgios Armenadon 60
-Aerino 500
-Filyra 500
-Lyridiana 16
-Apidia 496
-Perivolion- PREVALE 500
-Skripero 500
-Antipernoi 202
-Fotada 499
-Foteina 464
-Agia Foteini 302
-Paralia Agias Foteinis 49
-Krokion 499
-Neochori Sintikis 499
-Achladokampos 497
-Achladitsa 135
-Dolichi 496
-Ydraia 496
-Klimatia 496
-Mavreli 496
-Agrelia 342
-Ereikoussa 496
-Kastellanoi 496
-Frinion 494
-Krinias 16
-Skinias 48
-Komma 493
-Megali Vrysi 492
-Megali Kapsi 215
-Katomerion 492
-Giromeri 180
-Kalogiroi 217
-Kalogeroi 138
-Sikea 492
-Liasiki 40
-Agios Pavlos 491
-Smixi 491
-Kalogeriko 491
-Anydro 490
-Adele 489
-Mades 74
-Manatades 27
-Roumanades 32
-Neo Iraio 488
-Neo Krikello 487
-Gaios 487
-Kougaiika 31
-Skouraiika 92
-Kourtelaiika 33
-Maroulas 486
-Troulaki 27
-Christoulaki 19
-Nestani 486
-Neochoraki 485
-Neochoria 105
-Morfovouni 485
-Neai Kydoniai 485
-Maniaki 484
-Kollyvas 484
-Terpyllos 483
-Lagopodhon 483
-Agia Ermioni 478
-Tragilos 477
-Tyrgia 477
-Dytiko 476
-Manna 476
-Kontogiannatika 62
-Soultogiannaiika 36
-Oinoi 475
-Chrysavgi 475
-Agios Onoufrios 475
-Kalopigadho 474
-Pigadi 291
-Pigadoulia 145
-Nomi 473
-Votsi 473
-Khidhira 472
-Rachoula 472
-Avlakion 471
-Neon Roinon 471
-Neon Livission 131
-Kamaroto 469
-Anthochori 469
-Xanthokhori 83
-Pirgos 469
-Keri 469
-Limni Keriou 253
-Gerontas 468
-Giannakochori 468
-Neos Kserias 468
-Nea Agathoupoli 467
-Kirkizates 466
-Perivleptos 466
-Moschochori 464
-Moschato 378
-Vegora 463
-Grigoria 173
-Koryfasi 459
-Mesochora 459
-Xinias 459
-Minia 260
-Tripotamos 458
-Veliai 458
-Ampeloi 458
-Dhiminio 457
-Kamini 310
-Fodele 457
-Palaiodentros 20
-Kalafationes 457
-Lakones 384
-Plakoto 50
-Mesoropi 456
-Mesochori 358
-Gonimo 455
-Galanado 455
-Galani 69
-Foustani 454
-Karvounari 454
-Vouno 171
-Vounochori 106
-Kritika 453
+Maneriana 13
+Panermos 8
+Koureleika 32
+Koutrela 8
+Sitaras 63
+Paramerita 22
 Akritas 149
-Kallirachi 452
-Tirins 452
-Anargyroi 452
-Mesenikolas 451
-Meseleroi 135
-Lerousko 29
-Piryoi Thermis 451
-Doumpia 451
-Panteleimon 451
-Palaios Panteleimonas 86
-Zevgolatio 450
-Balion 450
-Dhaskalion 123
-Glyki 449
-Kombothekrata 449
-Foteino 449
-Paralia Agiou Nikolaou 448
-Moni Agiou Nikolaou 13
-Moni Agiou Theodosiou tou Neou 13
-Strongyli 448
-Yiannouzi 447
-Louzio 25
-Kouzounos 4
-Kounos 32
-Vounon 17
-Monolofo 446
-Xirolofos 206
-Chrysovitsa 446
-Platanakia 444
-Kanakia 206
-Kalapodi 444
-Kamarina 444
-Nea Kamarina 33
-Dafnoudi 443
-Rizochori 443
-Armolia 442
-Chamolia 185
-Digeliotika 442
-Laliotis 372
-Vitalades 442
-Rafalades 8
-Ano Pavliana 442
-Mesavlia 29
-Doliana 441
-Miliana 119
-Mirtos 441
-Alikanas 441
-Vlikhon 440
-Nea Gonia 438
-Skafidhaki 438
-Fidhakia 27
-Perasma 435
-Agiasmata 6
-Dhimaina 435
-Timfristos 434
-Kouroutas 433
-Filiadhon 432
-Aetomilitsa 432
-Asomata 431
-Isomata 49
-Kato Kerasovon 431
-Kerasoula 81
-Pigadhakia 431
-Langadhakia 357
-Lakka 430
-Gypsochori 428
+Kritsa 1296
+
+Kolindros 3590
+
+Alexandreia 13665
 Kypselochori 301
-Selo 62
-Selina 97
-Mesaio 427
-Mesaia Kapsi 53
-Agia Kyriaki 427
-Therma 426
-Kokkinos Pyrgos 426
-Kokkina 202
-Sivas 426
-Yelliniatika 426
-Ellinikon 378
-Pellini 82
-Pogoniani 425
-Kalamafka 425
-Milesion 425
-Antigonos 424
-Georganades 424
-Georgianoi 365
-Kakovatos 421
-Kantanos 421
-Livadochori 420
-Mikrolivado 77
-Xirolivado 117
-Agiopigi 420
-Ieropigi 294
-Gorgopotamos 420
-Stavropotamos 173
-Xiropotamo 66
-Schoinas 419
-Choika 222
 Palaiovrakha 419
-Megaplatanos 418
-Piryella 418
-Aloros 417
-Peranthi 416
-Anthiro 270
-Arachos 415
-Galipsos 414
-Analipsis 408
-Ktistades 413
-Ktismata 246
-Leka 412
-Dafnospilia 412
-Keramates 411
-Valanidorachi 411
-Daskio 410
-Ropoto 410
-Ayios Prodhromos 408
-Agios Ioannis Prodromos 38
-Kato Apostoloi 408
-Mesoi Apostoloi 113
-Apolysoi 21
-Katarraktis 408
-Lisvorio 408
-Lista 223
-Voulista 34
-Voulismeni 337
-Mesorrachi 407
-Kournorrachi 12
-Kouklioi 407
-Mastron 406
-Volimai 406
-Limani 4
-Limani Ierissou 4
-Limani Vathikoilou 25
-Apostoloi 405
-Pelekas 405
-Pelekita 140
-Lykostomo 403
-Ligaria 403
-Loutra Ipatis 403
-Xyloparoiko 402
-Rigani 401
-Mikron Dasos 400
-Olymbos 400
-Temenia 399
-Zemeno 240
-Stathis 398
-Agios Vlasios 398
-Amorgos 397
-Kostalexis 397
-Lithi 397
-Lithines 322
-Nikolitsi 397
-Nikola 144
-Soulinari 397
-Selinari 5
-Kato Poseidonia 397
-Kato Kleines 394
-Ano Kleines 179
-Peristerona 394
-Vria 394
-Gavria 379
-Kato Loutro 394
-Palaio Loutro 13
-Levkas 394
-Levkon 116
-Pevkoi 85
-Trygona 394
-Ayios Leon 393
-Tsoukalaiika 393
-Paliouria 392
-Koiliomenos 391
-Koufonisi 391
-Porto Koufo 110
-Akritochori 390
-Ryzia 389
-Gatzia 47
-Chaidefto 388
-Choreftiana 7
-Ampeliko 388
-Loutsa 388
-Voutsaras 105
-Velonades 388
-Kato Christos 386
-Agios Christoforos 138
-Ayios Khristoforos 192
-Ayios Kharalambos 60
-Agios Charalampos 128
-Ano Lapsista 386
-Cheimadio 386
-Vigla 386
-Akhladhion 384
-Daras 383
-Koumaria 381
-Koumaradaioi 123
-Koumaritsion 43
-Vavdos 380
-Avdella 130
-Kellaria 92
-Sarlata 380
-Skala Marion 379
-Palamarion 15
-Gerania 379
-Kamilari 379
-Chamilo 117
-Sivros 379
-Tsouka 379
-Kerameia 378
-Miloi 378
-Paloi 167
-Kalos 73
-Agios Prokopios 378
-Agios Georgios Promyriou 70
-Vasileonoikon 377
-Skala Sotiros 376
-Vourliotes 376
-Vourvourou 100
-Giourouki 31
-Athamanio 374
-Tarsina 374
-Myrsinochori 190
-Agkistro 373
-Melissa 373
-Melissopetra 31
-Themelo 373
-Theotokos 373
-Metalleia 373
-Ano Vathia 372
-Ano Vardhates 254
-Xanthates 189
-Ekklisiochori 371
-Karavangelis 371
-Ellinopyrgos 371
-Platanoussa 371
-Koromilia 370
-Agioi Deka 370
-Agioi Pantes 339
-Karteri 369
-Gavros 366
-Kotroni 366
-Alatron 17
-Galaron 278
-Petrothalassa Kranidiou 365
-Marathoussa 364
-Ellinokastro 364
-Kato Lapsista 364
-Krapsi 34
-Serifos 364
-Pserimos 80
-Dhrimonas 86
-Simonas 60
-Arkhanion 363
-Yiannitsou 363
-Palaia Yiannitsou 174
-Agna 363
-Magnisia 169
-Neos Oikismos 363
-Lavka 362
-Trikomo 361
-Tetrakomo 103
-Korfalaki 361
-Korfos 287
-Granitsa 360
-Granitsopoula 43
-Artopoula 123
-Kato Gatzea 360
-Kato Gardenitsa 8
-Mendenitsa 213
-Kechrokampos 359
-Neo Keramidi 359
-Kato Kryfovo 358
-Koryfoula 79
-Kokkinogeio 357
-Kokkinia 208
-Fry 357
-Koutouloufari 357
-Spathovouni 357
-Kleio 356
-Kleido 24
-Kalyvia Kleidonias 125
-Merkadha 356
-Midea 356
-Plisioi 356
-Telisio 71
-Temploni 356
-Lofoi 355
-Mikinai 354
-Koskinas 20
-Arillas Magouladon 354
-Ayios Yeoryios Domokou 353
-Kalo Chorio 353
-Xiro Chorio 221
-Platonas 353
-Vistonas 87
-Stageira 352
-Makrirrakhi 352
-Makri 307
-Akri 230
-Varypatades 352
-Sarakinoi 351
-Kontaiika 350
-Ampelia 350
-Mesampelia 31
-Kopani 350
-Skaleta 350
-Ano Daskaleio 139
-Vintzi Daskaleiou 149
-Venio Daskaleiou 56
-Skala Eresou 349
-Petralona 348
-Kyrianna 348
-Morfi 348
-Kato Yerakarion 347
-Asproyerakata 98
-Asproneri 30
-Skoteini 347
-Vatos 345
-Elaiochoria 344
-Kestrini 344
-Evropouloi 344
-Nevropoli 100
-Pera Nevropoli 94
-Krya Nera 16
-Galazia Nera 25
-Mazia 143
-Skepari 343
-Episkepsi 332
-Agios Stefanos Episkepseos 205
-Stefanion 10
-Aronas 342
-Katsaronas 33
-Katharon 18
-Iliokomi 342
-Protopappas 342
-Perikleia 341
-Kinidaros 341
-Lakithra 341
-Melingoi 340
-Spathades 339
-Aigeirouses 339
-Elaionas 338
-Lafionas 154
-Mandasia 338
-Manasi 62
-Yeroplatanos 337
-Eleftheri 337
-Mesta 337
-Alestia 61
-Elafi 335
-Megas Valtos 335
-Valtos 24
-Piryiotika 335
-Sarandapikhiotika 187
-Thiriopetra 334
-Kalentzi 334
-Manastir Lokova 333
-Akova 167
-Konstantinato 332
-Agios Konstantinos Ydras 1
-Evzonoi 331
-Agia Zoni 128
-Argyrotopos 331
-Argyri 82
-Gonia 331
-Korogonianika 3
-Kamares 331
-Kampinares 23
-Thermisia 331
-Theriakisio 180
-Therianon 133
-Vaptistis 330
-Aristi 128
-Pistiana 43
-Marandokhorion 330
-Sisamia 329
-Mathraki 329
-Anthrakitis 70
-Iliolousto 328
-Keramitsa 328
-Psathochori 328
-Koutsochero 327
-Koutsomodi 100
-Ptelopoula 327
-Stavropigion 327
-Ayios Ioannis Riganas 327
-Stirfaka 326
-Kipia 325
-Pelargos 325
-Vasileiada 325
-Glykorrizo 325
-Glykomilia 230
-Komilion 40
-Loxada 325
-Myrties 325
-Roussa 325
-Nea Mesolakkia 325
-Dryofyto 324
-Karyofyto 28
-Spilia 324
-Tropaiouchos 323
-Zografou 323
-Kafou 24
-Agalas 323
-Koumaiika 323
-Pogonia 322
-Episkopiko 320
-Korda 320
-Mardati 191
-Vardas 25
-Vardali 285
-Liyia 320
-Thermopiyi 154
-Thermopilai 295
-Spilaio 7
-Spilaia 31
-Michalitsi 320
-Chaliki 38
-Trikokkia 320
-Ayionori 319
-Lyrkeia 319
-Synoikismos Loutrotopou 317
-Koukkos 316
-Koukoulioi 166
-Dafnoula 315
-Nikopoli 315
-Krystallopigi 314
-Anemorrachi 314
-Perdikorrachi 185
-Perdikari 84
-Vivari 314
-Arkochori 312
-Voskochori 258
-Megali Sterna 312
-Megali Kerasia 283
-Nea Tenedos 312
-Petres 312
-Ayios Stefanos 312
-Kleisoura 311
-Vrachasi 311
-Dato 310
-Kranoula 310
-Notia 309
-Peleta 309
-Evangelistria 308
-Pontioi 308
-Neo Bizani 307
-Ano Kerasovon 307
-Kattavia 307
-Sklavia 45
-Krenti 307
-Avlotopos 306
-Vouyiaton 306
-Yimno 306
-Sfelinos 304
-Velina 136
-Pagoi 304
-Aryiria 303
-Charokopi 303
-Mariou 303
-Mastichari 303
-Petsali 303
-Rovoliarion 303
-Sistrouni 303
-Margaraiiika 303
-Adhami 302
-Anthotopos 302
-Mantrotopos 172
-Loutrotopos 85
-Kipoureio 302
-Males 302
-Stylari 300
-Kardamyli 300
-Kardamos 12
-Kardaras 20
-Kioni 300
-Trygonas 300
-Kotronas 292
-Agkidia 299
-Skidia 2
-Kerasia 299
-Ladhikou 299
-Psakoudia 299
-Chromonastiri 298
-Akarpo 298
-Ano Gatzea 297
-Katsikia 297
-Ladochori 297
-Mikro Dereio 296
-Kourtaki 296
-Mariai 296
-Angista 295
-Eptachori 295
-Lithochori 295
-Longaki 295
-Alonaki 35
-Magarikari 295
-Stathmos Lefkotheas 295
-Kouspades 295
-Kalomodia 294
-Afionas 294
-Sana 293
-Patriki 291
-Agios Akakios 291
-Agios Antonios 101
-Katavothra 291
-Palaiokerasea 291
-Paleo Erasmio 291
-Velika 291
-Pyrgos Ithomis 290
-Palaistra 289
-Tristrato 116
-Goritsa 289
-Legrena 289
-Klisorrevmata 288
-Kato Revmatia 87
-Revma 24
-Mega Revma 5
-Kakorrevma 67
-Domnista 287
-Kapsorrachi 287
-Chrysorrachi 143
-Karatzas 287
-Mouzakaioi 287
-Nea Mousiotitsa 287
-Kato Mousiotitsa 256
-Piskopiano 286
-Episkopos 103
-Episkopiana 261
-Ano Viranepiskopi 94
-Melissokomeio 284
-Latomeio 1
-Lagoudi Zia 284
-Agios Antonios Kallergianon 284
-Agios Georgios Karyas 14
-Agios Georgios Kassiopis 1
-Ano Livadhion 284
-Agios Ioannis Spaton 284
-Dhikastron 283
-Lefkogeia 283
-Anogeiata 73
-Asprogeia 209
-Pontolivado 282
-Chrysi 281
-Avia 281
-Kythira 281
-Sykounta 281
-Spartounta 36
-Terovo 281
-Patero 44
-Agios Gerasimos 281
-Palaio Gynaikokastro 280
-Pournarion 280
-Ano Vasilikos 280
-Neraidochori 279
-Kserokampi 279
-Ksirokamara 37
-Ksirokampos 56
-Rousa Limni 279
-Pigianos Kampos 279
-Kampos Kallergianon 122
-Ano Kampos 26
-Distrato 278
-Maristra 34
-Vrasna 278
-Khranoi 278
-Kalafati 278
-Nisaki 278
-Kaloneri 277
-Monastirakion 276
-Ptelea 276
-Plevrona 276
-Ano Kalliniki 275
-Ano Kalentini 172
-Ano Kalesmenon 4
-Kalesmenon 77
-Omales 21
-Pragmateftis 275
-Kerasochori 274
-Leventochori 273
-Xylokeratea 273
-Afyssos 272
-Fyska 152
-Skado 83
-Kakoplevri 271
-Leondio 271
-Patsos 271
-Patsianos 100
-Perithori 271
-Perinthos 22
-Agros 271
-Achlada 271
-Achladia 187
-Drapanias 270
-Sirako 270
-Asfaka 269
-Asfendiou 135
-Sfendourion 52
-Telendos 94
-Myriokefala 268
-Plakoti 268
-Plakias 143
-Ano Apostoloi 267
-Agioi Apostoloi 140
-Panayitsa 266
-Perivlepto 266
-Napi 263
-Rogkia 263
-Pagkia 18
-Vragkiana 112
-Ano Volimai 262
-Agios Donatos 262
-Dimario 262
-Gkrika 262
-Pentation 262
-Tsepelovo 261
+Moschato 378
+
+Moskhaton 25441
+
+Vouliagmeni 4180
+Akrogiali 139
 Aegiali 261
-Drosopigi 260
-Skala Loutron 259
-Agios Ioannis Diakoftis 259
-Kamara Vatheos 258
-Anastasia 258
-Ayia Anastasia 14
-Dhrimon 257
-Erimos 5
-Laimos 185
-Thavmako 257
-Pityous 257
-Pitsion 89
-Rodavgi 257
-Avgi 159
-Zevgari 21
-Zevgostasi 6
-Katafygio 256
-Rodhonia 256
-Dhrimaia 255
-Vyzitsa 255
-Kouramades 255
-Kato Sinoikia Trikalon 254
-Sokraki 254
-Adhelfiko 254
-Akhladhea 52
-Thea 34
-Lefkothea 76
-Neo Argyri 253
-Stavloi 253
-Paleos Paos 253
-Symvoli 252
-Siviri 251
-Dipotamos 251
-Taktikoupoli 250
-Fratzeskiana Metochia 250
-Mavratzaioi 249
-Batza 49
-Bozikas 249
-Mpozionelaiika 39
-Dragotina 249
-Myrofyllo 249
-Triantafylli 8
-Kato Tragana 248
-Embaros 247
-Latsida 247
-Pyrgos Dirou 246
-Pyrgotos 163
-Pyrgochori 140
-Kranochori 245
-Vitoli 245
-Vothynoi 245
-Vothon 177
-Archontiki 244
-Ano Drymonas 244
-Ano Drapanias 17
-Koukkoulia 244
-Makrades 244
-Chora Sfakion 243
-Porto Ennia 243
-Arkadiko 241
-Markati 185
-Kandia 241
-Moni Kandilas 3
-Ayios Sostis 240
-Ayios Petros 22
-Stathaiika 240
-Palaiokastritsa 240
-Kato Palaiokastro 15
-Dhiamandaiika 239
-Dryopi 239
-Kaminarata 239
-Skorpiona 239
-Kampion 59
-Kampia 50
-Agios Panteleimon 238
-Kekhries 238
-Nea Spartia 238
-Palaiokatouno 238
-Plakados 238
-Kosmados 16
-Polystafylo 237
-Katafylli 51
-Levkokhori 236
-Levka 152
-Pevkofiton 123
-Myrrini 236
-Perri 23
-Spatharaioi 236
-Grigoro 235
-Klima 235
-Limanion 2
-Mikros Valtos 235
-Sofiadha 235
-Lampero 235
-Mpatsi 235
-Gerakonas 234
-Peratia 234
-Pefkias 233
-Farmaki 232
-Ano Souli 232
-Nerantziai 232
-Agios Ilias 232
-Agios Georgios Ierapetras 24
-Kolchiki 231
-Gardhikion 231
-Mikro Gardiki 22
-Goura 231
-Korakada 231
-Ververato 231
-Tsapournia 230
-Vournikas 154
-Pournia 35
-Pligonion 230
-Meligos 36
-Ano Ydroussa 229
-Roussakiana 4
-Neos Kafkasos 229
-Theodhosia 229
-Mosia 172
-Topoliana 229
-Kioliana 22
-Kentriko 228
-Tridentro 62
-Margarita 228
-Vasiliko 228
-Ayios Yeoryios Troizinos 228
-Ayios Konstandinos Troizinos 60
-Velesiotes 228
-Matesion 109
-Markates 69
-Rapsomaniki 227
-Meson Yerakarion 227
-Thorikon 227
-Sfakera 227
-Mesia 226
-Christoi 226
-Perani 226
-Xirokastellon 226
-Velochori 225
-Archaia Feneos 225
-Matsoukion 224
-Marmatsouka 3
-Oitilon 224
-Koita 96
-Potamida 224
-Valaneio 224
-Kassandrino 223
-Fiolitis 223
-Kalyvia Pezoulas 223
-Kalyvia Varikou 16
-Chioniasa 223
-Kouvouklia 222
-Neos Prodromos 222
-Ayia Trias Sourpis 222
-Kalonyktis 222
-Molocha 222
-Orthoniai 222
-Simos Ioannidis 221
-Agios Ioannis Limnon 4
-Kokkinopilos 221
-Trilofia 221
-Petrilo 50
-Fourni 221
-Pissidos 221
-Polyneri 221
-Polykeraso 15
-Zervochori 221
-Zervo 172
-Amygdalia 220
-Choudaliana 16
-Kato Alepokhorion 220
-Votonosi 220
-Votani 50
-Kato Ampelia 219
-Katakali 219
-Mega Khorion 219
-Nisos Ioanninon 219
-Vatera 219
-Petalou 218
-Gousades 218
-Agia Triada Markopoulou 218
-Agia Triada Melingon 50
-Linia 218
-Matoneri 217
-Orthovouni 217
-Paradeisos 216
-Gavrakia 216
-Melitaia 216
-Moni 216
-Syka 216
-Titani 216
-Paliokamariza 216
-Mertikaiika 215
-Bakaiika 25
-Mouzakaiika 207
-Moskhokaria 215
-Polythea 215
-Pinakokhorion 214
-Synterina 214
-Ksyna 5
-Synoro 23
-Archontiko 213
-Kyani Akti 213
-Agios Ioannis Karousadon 213
-Oxya 212
-Valanidoussa 212
-Grimpovo 211
-Papigkon 211
-Mikro Papigkon 56
-Pinakatai 211
-Sataiika 107
-Limontaiika 20
-Schoinoussa 211
-Tyros 211
-Imeros Pefkos 211
-Megala Pefka 89
-Plana 210
-Ano Sagkri 210
-Mikri Santa 122
-Pendakorfon 210
-Serviana 210
-Krepeni 210
-Argennos 209
-Sapounakaiika 209
-Sitomena 209
-Vaviloi 209
-Ippeio 208
-Rivio 208
-Kalivia 81
-Tsouknida 208
-Vouniatades 208
-Isoma 207
-Omalo 161
-Malouni 83
-Potamoula Trichonidos 206
-Diastavrosi Palaiokastrou 206
-Dhritsaiika 205
-Vlasaiika 128
-Chrysopigi 205
-Elliniko Trikolonon 204
-Valaora 204
-Kanakades 204
-Myrthios 203
-Smyrtia 43
-Chorepiskopoi 203
-Makrolivadhon 202
-Aryirokhorion 201
-Kedra 201
-Patagi 200
-Chochla 200
-Aidhonia 200
-Ampelochori 200
-Ano Vrontou 199
-Myrkinos 199
-Markiniada 122
-Mesonision 198
-Steno 198
-Steni Vala 104
-Fiskardo 198
-Kato Metochi 197
-Megalo Metochi 46
-Megalo Potami 25
-Kalligonion 197
-Zacharato 196
-Zachariana 91
-Loukaition 196
-Mazaraki 196
-Soulaiika 196
-Koniskos 195
-Driskos 18
-Mesounta 195
-Karadimas 195
-Agios Nikolaos Mpoura 195
-Dionysos Kerateas 195
-Chalkero 194
-Tagarochori 194
-Ormos Marathokampou 194
-Psathotopi 194
-Rethi 194
-Vathikoilon 194
-Kato Valsamonero 193
-Ano Valsamonero 77
-Samonida 70
-Samonas 37
-Monastiri 17
-Pachtouri 193
-Pesta 193
-Roupes 37
-Tzanata 193
-Lozana 26
-Dhivri 192
-Stavri 31
-Dipseliza 192
-Karoplesi 192
-Vatopedio 191
-Flampouresi 191
-Stemnitsa 191
-Megali Mantineia 191
-Vitoumas 191
-Roumania 16
-Choumniko 190
-Kiriakokhorion 190
-Kokkinopylia 190
-Sidirochori 189
-Alones 189
-Eleftherna 189
-Agioi Dimitrios kai Panteleimon 189
-Sgourades 189
-Gavrades 65
-Vargiades 188
-Mazi 187
-Dimitropoulon 187
-Spartia 187
-Spartinaiika 5
-Martini 17
-Foteini 186
-Laodikinon 186
-Borsas 186
-Mesovouni 186
-Miliotades 186
-Spiliotakis 39
-Aidonia 185
-Aidona 179
-Megadentro 185
-Kentron 17
-Pigaditsa 185
-Sfakopigadi 58
-Sfaka 93
-Vakari 22
-Agioi Douloi 185
-Kiparission 184
-Liopraso 184
-Lygia 184
-Frosyni 183
-Monolithi 183
-Lithino 72
-Ozias 183
-Rachouli 183
-Katsaraiika 182
-Chouliaraiika 66
-Myrthianos Plakias 182
-Vragkaniotika 182
-Maragkas 73
-Perikhora 181
-Dromitsa 181
-Lichada 181
-Monolithos 181
-Agios Georgios Monolithiou 122
-Agios Georgios Dolianon 60
-Kastaneri 180
-Ayia Paraskevi Tithoreas 180
-Kokkotoi 180
-Mati 180
-Demati 43
-Ayios Dhimitrios Monemvasias 179
-Monemvasia 19
-Vamvaka 32
-Raveni 179
-Karave 21
-Karavidhia 30
-Rachtades 179
-Ano Scholari 178
-Eggares 178
-Koxari 178
-Agios Georgios Koxaris 21
-Milatos 178
-Verinon 178
-Kiourktsoglou 177
-Stathmos Angistas 177
-Grammeno 176
-Kokolata 176
-Zefyria 176
-Mpaltouma 176
-Loumas 52
-Kato Loumas 10
-Ano Loutro 48
-Sitsaina 175
-Trifyllia 175
-Trifillianika 42
-Achelinada 175
-Ano Kalivia 174
-Tsivaras 174
-Zoodochos Pigi 174
-Mapsos 174
-Avlaki 173
-Agios Vartholomaios 172
-Melissotopos 172
-Atheras 172
-Vatheia 6
-Elaiofiton 172
-Koumoi 172
-Kouloumion 17
-Maroulou 41
-Rakhidhion 172
-Kotsiridhion 22
-Kotsiana 67
-Psiana 17
-Psina 66
-Vrontismeni 172
-Xirovrysi 171
-Gerovrysi 109
-Tigkaki 171
-Pente Ekklisies 171
-Ekklisochori 33
-Alamannos 170
-Mikrospilia 170
-Maliasteka 170
-Etos Steko 87
-Arvanitokhorion 169
-Spanokhorion 161
-Ieromnimi 169
-Iera Moni Faneromenis 2
-Nea Moni 2
-Ayia Moni 1
-Manteio 169
-Skiadas 169
-Aroniada 1
-Trachilos 169
-Stravi Rachi 19
-Milies 168
-Kallidhromon 168
-Kares Askyfou 168
-Koliaki 168
-Kondaraina 168
-Vainarion 33
-Skinaria 63
-Makratika 168
-Akrai 55
-Mesa Didyma 168
-Mesa Chora 25
-Exo Chora 128
-Vlasi 168
-Ano Ayios Vlasios 55
-Larisos 168
-Megalo Chorio 168
-Lazochori 167
-Lepetymnos 167
-Oiti 167
-Palia Ampelia 167
-Sparmos 166
-Megali Gotista 166
-Mikri Gotista 73
-Skepasto 166
-Zyfias 166
-Moni Kakis Thalassis 166
-Asprangeloi 165
-Kato Graikiko 165
-Koronisia 165
-Trichonion 165
-Pyrrichos 32
-Mitropisi 165
-Tsopela 164
-Myrteza 164
-Polla Nera 163
-Psiloma 163
-Ypsilometopon 104
-Agrapidhia 162
-Ampelonas 162
-Saryiadha 162
-Aghia Triadha 141
-Thalero 162
-Valamandri 162
-Amari 161
-Amarianos 92
-Marinos 6
-Domianoi 161
-Krikellon 161
-Sekoulas 161
-Somatas 161
-Amigdhalitsa 160
-Neo Agridi 160
-Ayia Eleni Troizinos 159
-Bampalio 159
-Korfovouni 159
-Ayia Aikaterini 159
-Agia Aikaterini 57
-Kato Dhamasta 158
-Ano Dhamasta 145
-Kleisto 158
-Paralia Milatou 157
-Anidhron 157
-Gonoussa 157
-Kato Kallithea 157
-Kallithea Loutrakiou 48
-Pigadhisanoi 157
-Pigadaki 6
-Platanias 157
-Stelida 157
-Psomotopi 156
-Amnatos 156
-Skamnos 55
-Skamnelli 95
-Patiopoulo 156
-Polikhni 156
-Xilokeratidhion 156
-Akrotiri 155
-Domiros 154
-Paliros 9
-Palirroia 36
-Logothetianika 153
-Kolones 153
-Sandali 152
-Kynosoura 152
-Epano Vatheia 151
-Flomochori 151
-Stathas 151
+Gialtra 544
+Valtero 1102
+Vamvakia 530
+Koimisi 1414
+Rigani 401
+Doganis 38
+Strigania 18
+Ligaria 403
+Peleta 309
 Stymfalia 151
-Stylianos 44
-Agalianos 33
-Aimilianos 97
-Atrapos 150
-Aposkepos 139
-Pyrra 150
-Roustika 150
-Vroustion 19
-Mikro Metochi 149
-Dilofos 148
-Despotiko 148
-Kapotides 1
-Fratsia 148
-Kato Paliokarya 148
-Longies 148
-Longitsi 90
-Gavriani 147
-Eleftheria 147
-Vasilatika 147
-Gorianadhes 146
-Ano Agoriani 115
-Koini 146
-Prionia 146
-Kontra Vilara 146
-Drosaton 146
-Loutsai 146
-Platanos Kalivion 145
-Agios Dimitrios Perivleptou 144
-Dhendro 144
-Exo Lakkonia 144
-Dilakko 19
-Klonion 144
-Kalonioi 24
-Saloniki 75
-Nikia 48
-Spiliazeza 144
-Tornos 144
-Ntaou Penteli 144
-Palouki 143
-Gazatika 143
-Riliatika 32
-Alexandra 143
-Apomero 142
-Ayios Nikolaos Monemvasias 142
-Ayios Nikolaos Niras 9
-Ayios Yeoryios Nileias 142
-Kharadhiatika 142
-Likhnon 142
-Pikoulatika 142
-Vlachopoulatika 111
-Mavrikiano 142
-Bogdanatika 141
-Rogdia 60
-Donousa 141
-Erfoi 141
-Dikorfo 33
-Kato Doloi 141
-Dolo 60
-Doliani 55
-Tampouria 140
-Chouliarades 140
-Diporo 139
-Myrodafni 139
-Dafnoti 85
-Stenoma 139
-Foiniki 138
-Kondos 138
-Kondylaiika 60
-Tholaria 138
-Platania Oropou 138
-Farangi 137
-Vrangiana 58
-Granas 24
-Kranionas 5
-Makrykampos 137
-Sgara 137
-Talanta 137
-Matala 67
-Vafios 137
-Bafion 58
-Kotrafion 4
-Dhourvationa 137
-Vourvouria 11
+
+Tympaki 5285
+Lepetymnos 167
+Meson Yerakarion 227
+Mesongi 104
+Agios Onoufrios 475
+Kopanes 99
+Iolkos 112
+Fiolitis 223
+Profitis 963
+Koufi 127
+Koufonisi 391
+Kapoi 23
+Olympoi 376
+Archaia Olympia 1208
+Kolympari 1032
+Olympies 13
+Thespies 1437
+Elies 26
+Ampeleies 1070
+Ktismata 246
+Aryiria 303
+Aryilokhori 67
+Esokhoria 41
+Kiriakokhorion 190
+Pethelinos 474
+Athamanio 374
+Emmanouil Pappas 601
+Protopappas 342
+Karea 16
+Nireas 6
+Moni Osiou Patapiou 41
 Agia Paraskefi Agias Marinis 137
 Moni Agias Marinis 31
-Moni Agias Evpraxias 1
-Kato Myrsini 136
-Amades 136
-Ano Aiyialos 136
-Ayios Nikolaos Trichonidos 136
-Kalyviani 136
-Pterounda 136
-Kato Pteria 24
-Ksifias 136
-Dhogri 136
-Kapodistrias 136
-Moni Metamorfoseos Sotiros 136
-Moni Metamorfoseos Sotiros Flamouriou 7
-Parparia 135
-Vrouchas 135
-Iera Moni Ayias Triados 135
-Neo Mikro Chorio 134
-Goumaiika 133
-Ormos Koumaiikon 43
-Kato Rodini 133
-Achlia 133
-Nymfaio 132
-Chrysorachi 132
-Pertouli 132
-Manolates 131
-Agrilos 131
-Goulemion 131
-Makrinou 131
-Yiannoulaiika 131
-Kourkoulaiika 49
-Pourko 8
-Kiourkati 48
-Kosmothea 131
-Rodakinia 131
-Kalarrytes 130
-Ligopsa 130
-Stavromeno 130
-Estavromenos 39
-Iraion 130
-Ververouda 130
-Karavas 129
-Monodendri 129
-Pagis 129
-Peristerion 129
-Anthidona 129
-Polidhendrion 128
-Vouzion 128
-Vyssinia 127
-Ano Potamia 127
-Ano Rachi 127
-Pezoula 127
-Dhafnoula 127
-Koufi 127
-Skouloufia 123
-Koufopoulo 21
-Lousakies 127
-Mendouryianika 127
-Molyvadia 127
-Vadistra 54
-Mpournias 127
-Kaki Thalassa 127
-Leontito 126
-Pondi 126
-Poungakia 126
-Revmatia 126
-Varia 126
-Pelekito 126
-Zapani 126
-Astrakari 126
-Giarakari 10
-Agia Roumeli 125
-Melia 48
-Ayios Ilias 125
-Profitis Ilias Valanidias 34
-Profitis Ilias Sklivanis 32
-Agios Christoforos Sklivanis 48
-Dramesioi 125
-Kali Komi 125
-Komia 16
-Mega Gardiki 125
-Petsalia 125
-Sangas 125
-Sfinari 125
-Kriselia 124
-Aetopetra 124
-Agioi Theodori 123
-Kato Theodoraki 97
-Ano Theodoraki 53
-Theodoreio 104
-Alsos 123
-Kariai 123
-Kitriai 101
-Odigitria 55
-Riachovo 123
-Pountes 123
-Marpounta 59
-Skala Mistegnon 123
-Makrylia 122
-Paralia Porovitsis 122
-Katifori 122
-Trehantiera 122
-Kato Pavliana 121
-Petaleia 121
-Patrika 120
-Giannioti 120
-Agrapidees 120
-Ano Pontolivado 120
-Aleimmatades 120
-Pyrsogianni 119
-Kostogiannides 32
-Elevtherokhorion 119
-Karpino 119
-Karvounadhes 119
-Dhio Vouna 79
-Agnitsini 119
-Pitsinianika 79
-Kartsinianos 13
-Khartsianika 17
-Kastrisianika 64
-Grimpiana 118
-Neokhorakion 118
-Kamarakion 5
-Neromanna 118
-Neromyloi 78
-Pentolakkos 118
-Xirolakkos 18
-Kakolakkos 26
-Agia Anastasia 118
-Poulimates 118
-Samari 117
-Klavsion 117
-Vouliasta 117
-Vouliagmeno 70
-Dialegmeno 10
-Agios Georgios Methystis 117
-Epano Epidhavros 116
-Radovizi 116
-Synoikismos Prosfygon 116
-Mikros Prinos 30
-Giannoudi 116
-Diodia 116
-Taksiarches 116
-Barbati 116
-Ano Ravenia 115
-Bouzion 115
-Epano Elounda 115
-Kira Vyena 115
-Pigadia 115
-Archaia Eleftherna 115
-Epano Sisi 115
-Pikrolimni 114
-Bralos 114
-Evangelismos tis Theotokou 114
-Kourenta 113
-Kouremadi 96
-Vessa 113
-Foinikas 113
-Moni Eikosifoinissis 24
-Moni Chrysoskalitissis 66
-Iliorrachi 112
-Provarma 112
-Varlaam 112
-Potami Karlovasiou 19
-Iolkos 112
-Pallinostountes 112
-Koumarionas 112
-Kydoni 112
-Iliovouni 111
-Chamalevri 111
-Agriomata 111
-Aerodromio 111
-Linistaina 110
-Mesokomi 110
-Ryto 110
-Sellion 110
-Sfendali 110
-Kopsokhiladhes 110
-Pteria 109
-Kalindria 109
-Andritsa 33
-Kedron 109
-Mesogeion 109
-Anogeio 69
-Gavrisioi 109
-Gavra 69
-Kato Petalion 109
-Mavrata 109
-Metaxada 109
-Metaxochori 68
-Vavouri 109
-Faros Armenistis 109
-Nostimo 108
-Kostitsi 43
-Sotiras 108
-Sotirianika 83
-Ayios Nikitas 108
-Kastellos 108
-Kastelopetra 12
-Kato Ravenia 108
-Ravenia 106
-Viki 108
-Yliki 33
-Anatoliki 44
-Skala Katerinis 107
-Arkesini 106
-Sarkini 63
-Charkia 62
-Englouvi 106
-Agios Thalelaios 106
-Rapentosa 106
-Kalamaki 106
-Kalami 29
-Koinyra 105
-Kato Aigani 105
-Saitoures 105
-Kourounochori 105
-Stathmos Angelokastrou 105
-Stathmos Amfikleias 2
-Agios Georgios Gramvousis 104
-Lira 104
-Mesongi 104
-Alea 103
-Lambirion 103
-Ano Kambia 4
-Ramni 103
-Kokolaiika 102
-Sakkoulaiika 16
-Prosilia 102
-Tsilia 18
-Ano Achlada 102
-Mylos 102
-Gkolfari 101
-Tithronio 101
-Pitsiota 101
-Prosilio 101
-Agios Nektarios Porou 101
-Agios Syllas 101
-Kornata 101
-Malta 100
-Nea Pefki 100
-Athamania 100
-Paradhision 100
-Repetista 100
-Skapeti 94
-Ano Trikala 100
-Spartera 100
-Spartias 37
-Krion Neron 99
-Proskinas 99
-Vlatos 99
-Skaleza Mitrantoni 99
-Mavros Kolympos 99
-Kopanes 99
-Kato Zalogko 98
-Makra Logka 26
-Logkari 24
-Petousi 98
-Velota 98
-Taksiarchis 98
-Palaiogratsano 97
-Grigoris 97
-Lakkomata 97
-Arillas 96
-Thrakiko 95
-Plaitis 94
-Agiokampos 94
-Ammokampos 19
-Papathanatika 94
-Lapato 7
-Kapari 37
-Armenades 94
-Termenades 23
-Kladhorrakhi 93
-Rodonas 93
-Notos 93
-Chaidemeni 93
-Moiraiika 93
-Forti 93
-Mikri Vigla 93
-Myrmigki 92
-Ligkiades 92
-Gramvousa 92
-Kalochorafitis 92
-Palaiomylos 92
-Skafidaras 92
-Ayios Georgios Palaiokarias 92
-Kampos Vourlioton 91
-Amygdali 91
-Mountros 91
-Tsafleika 91
-Tsichleika 60
-Aiginitissa 91
-Vamvakes 91
-Mazion 90
-Moucha 90
-Zalouchos 1
-Konstandinoi 89
-Malathyros 89
-Theisoa 89
-Roda Karousadon 89
-Melas 88
-Ano Melas 30
-Ano Malaki 77
-Koutsouro 88
-Moutsouna 84
-Katsouni 30
-Apergatika 88
-Asterion 88
-Skiadades 88
-Pyrgi 88
-Vlitikos Stathmos 88
-Tavari 88
-Feneos 87
-Pyrgos Kalou Choriou 87
-Plakoutsaiika 87
-Moni Genniseos Theotokou 87
-Koimisis tis Theotokou 4
-Kounoupi 87
-Kounoupitsa 75
-Agrilia Kratigou 87
-Filaki 86
-Kato Vatheia 86
-Mina 86
-Kanava 86
-Kounavades 48
-Metochi Kapetanaki 86
-Metochi Metamorfoseos 69
-Kato Kalliniki 85
-Ano Kallithea 85
-Dempla 85
-Ampliani 13
-Plikati 70
-Katsimatika 19
-Kardamatika 9
-Mavronoros 85
-Megkla 85
-Spanaiika 85
-Andartikon 84
-Karydochori 84
-Kato Meropi 84
-Kratero 84
-Skamnia 84
-Mouschiades 84
-Neraidha 84
-Roska 84
-Tempi 84
-Stathmos Mpralou 84
-Stathmos 38
-Bestia 83
-Itia 60
-Karydi 83
-Ayios Kosmas 83
-Kokkinogeia 83
-Agiassos 83
-Ano Bralos 82
-Ano Doloi 82
-Gkrimpovo 82
-Valtsaiika 82
-Megalochari 82
-Chysi Akti 82
-Akti Agapis 2
-Gardenos 82
-Ntardeza 39
-Kolchida 81
-Avlemonas 81
-Karanos 81
-Kare 81
-Karea 16
-Kerasea 81
-Merada 81
-Skatzokampos 81
-Tapes 81
-Oikodomikos Synetairismos Ypallilon DEI 81
-Agios Ioannis Varnava 81
-Agios Ioannis Epano Vatheias 73
-Chalikounas 81
-Kosmadaioi 80
-Skiadaiika 21
-Fousiana 80
-Karavostasi 80
-Kastos 80
-Nazaioi 80
-Lafina 80
-Mesokhorion 80
-Petrilia 80
-Pisia 80
-Sofiana 80
-Avlona 80
-Rimpari 80
-Livaditsa 79
-Livadaki 28
-Anthochori Dodonis 79
-Foteinos 79
-Petrovouni 79
-Petrounion 18
-Komninades 78
-Platamonas 78
-Koutsodimos 78
-Afroxylia 78
-Afrodisia 19
-Frilingianika 78
-Khouni 78
-Marnellides 78
-Megali Petra 78
-Kalo Nero 78
-Aroniadhika 77
-Fragkades 77
-Kokkino Metochi 77
-Koloniati 77
-Seniko 77
-Grigos 77
-Chrysi Ammoudia 77
-Komnineio 77
-Dhouka Vrisi 76
-Kapsali 76
-Lyngos 76
-Schisma Mesa Lakkonion 76
-Trapezaki 76
-Nea Poli 76
-Agia Eirini 75
-Korfiotissa 75
-Lagkiotissa 18
-Lagka 41
-Kritsari 75
-Litesi 75
-Vachos 75
-Yeorgandaiika 75
-Zarkadaiika 22
-Moni Vlachernon 75
-Loukata 75
-Bekianika 74
-Myrthios Selliou 74
-Valkano 74
-Karyotiko 74
-Flesias 73
-Vasilesi 66
-Goulediana 73
-Graikas 73
-Mavrommata 73
-Mitata 73
-Mesi Sinoikia Trikalon 73
-Throfari 73
-Velentziko 73
-Vilandredo 73
-Vrysi 73
-Monolia 73
-Gavradia 73
-Timenion 73
-Limenas 72
-Vathyrema 72
-Xilikoi 72
-Lilikas 3
-Xirovalto 72
-Kouramaditika 72
-Psathylas 72
-Paragogiko 71
-Exo Nymfio 71
-Tristeno 71
-Zogri 70
-Flampourari 70
-Flatsia 70
-Frousiouna 70
-Kousounari 19
-Kounali 21
-Koukounara 41
-Chairethiana 70
-Neo Oitylo 70
-Poseidi 70
-Prinylas 70
-Kokartza 70
-Fatsadhika 69
-Viaradhika 23
-Vrosina 69
-Georganoi 69
-Agios Georgios Mandras 69
-Maliakouki 69
-Vatonies 69
-Vourmpiani 68
-Vlychadia 68
-Arvanitakaiika 68
-Danakos 68
-Gravia 68
-Negrades 68
-Kentroma 68
-Ano Vlokhos 67
-Aryilokhori 67
-Kelanitis 67
-Lazaina 67
-Skaloula 67
-Veneto 67
-Voutiron 67
-Zalogko 67
-Dervenakia 67
-Dichalia 67
-Agia Faneromeni 66
-Bolaiika 66
-Kollaiika 21
-Litoselon 66
-Pardalitsa 66
-Zouridi 66
-Kakavas 66
-Velouchi 66
-Koutsoufliani 66
-Pourithi 66
-Kalyvos 66
-Paralia Fodele 66
-Agios Ioannis Pyrgiotissis 65
-Agios Ioannis Peristeron 27
-Ayios Ioannis Peristeriou 27
-Dhrosopighi 65
-Chrisopigi 6
-Kato Chora 65
-Kato Palaiokklisi 65
-Polylofo 65
-Dilofo 61
-Retsiana 65
-Kamaretsaiika 22
-Sklivani 65
-Travasarianika 65
-Kouli 65
-Triandafillia 64
-Christos 64
-Trizonia 64
-Bresiakon 64
-Apidiias Lakkos 64
-Strongyli Agiou Panteleimona 64
-Eiriniko 63
-Melissourgeio 63
-Nea Komi 63
-Gdochia 63
-Chotoussa 63
-Megas Kampos 63
-Megas Lakkos 44
-Pervolakia 63
-Polydoro 63
-Sitaras 63
-Vavkeri 63
-Vounistra 63
-Rizovrachos 63
-Paralia Portarias 63
-Tsoukalio 63
-Tzonima 63
-Bastounion 63
-Elafochori 62
-Kato Koryfi 62
-Mystras 62
-Foutia 62
-Kokkinopilia 62
-Skoteinon 62
-Agios Fanourios 62
-Limni Vouliagmenis 62
-Rodokipos 61
-Antipaxos 61
-Kapnokhorion 61
-Miriki 61
-Palampas 61
-Ampares 34
-Skhoinos 61
-Zervochia 61
-Koumarias 61
-Panorama Xylokerizis 61
-Dafni Examilion 61
-Rountzeri Lemprou 61
-Roumounti 49
-Ano Skafidoti 60
-Mavrosouvala 60
-Pispilounta 60
-Seta 60
-Sirna 60
-Vageniti 60
-Geni 33
-Gianniou 60
-Prisilimes 60
-Kellakia 59
-Avlakia 18
-Avlakiai 37
-Koritiani 59
-Pilalimata 59
-Mesi Potamia 59
-Kato Vereniki 59
-Ano Zevgarakion 59
-Kalamakia 59
-Aspiotades 59
-Lafki 59
-Ethniko 58
-Ayia Vlakherna 58
-Vlakhidhes 5
-Frengaina 58
-Kares Kissamou 58
-Kendarkhos 58
-Balaiika 58
-Neo Thronion 58
-Elliniko Salaminas 58
-Ellinas 15
-Mekourio 58
-Lekouna 3
-Limnotopos 58
-Evyiros 57
-Polemitas 57
-Chalvantzaiika 57
-Glistra 56
-Kallergiana 56
-Kato Skafidoti 56
-Dotia 24
-Kouvalata 56
-Galouvas 13
-Vamvakiai 56
-Staousa 56
-Kouknikades 56
-Omali 55
-Skala Neon Kydonion 55
-Dodoni 55
-Karefiliana 55
-Mageiras 55
-Pavlia 55
-Pikris 55
-Tzikidhes 55
-Myrisis 55
-Gyrismata 11
-Kalyvia Fylaktis 54
-Khelidhon 54
-Kouklesi 54
-Koukouli 39
-Sakellariko 54
-Lagolio 54
-Machairoi 54
-Platistoma 54
-Roupsia 54
-Syri 54
-Boukaris 54
-Agios Gordios 54
-Vingla 54
-Agios Georgios Glykoriizou 53
-Kakokamotes 53
-Palailimnos 53
-Piryion 53
-Fokia 53
-Dokimia 29
-Agios Dimitrios Rodias 53
-Agios Dimitrios Neochoriou 8
-Elies Daskaleiou 53
-Koleni 53
-Meropi 52
-Mikri Milia 52
-Agios Aimilianos 52
-Atzimpraga 52
-Dhelfinon 52
-Elafina 42
-Dragopsa 52
-Fterolakka 52
-Katamachi 52
-Konakia 52
-Mesi Paliokarya 52
-Pigadhia 52
-Soumesi 52
-Mega Ydri 52
-Moni Agiou Ierotheou 52
-Kyprianades 52
-Garnades 45
-Vinglatouri 52
-Astris 51
-Leipsydrio 51
-Elafotopos 51
-Kalyvia Elafotopou 2
-Gavrina 51
-Kokkinadhes 51
-Psarion 51
-Skaltsotianika 51
-Trochalia 51
-Argyraiika 51
-Psaraiika 7
-Paralia Tholarion 51
-Kato Spilaio 51
-Parochthi 50
-Kato Athamanio 50
-Kakopetros 50
-Charaso 50
-Charama 9
-Mavropoulo 50
-Metaxas 50
-Singrellos 50
-Neo Gerakari 50
-Megas Alexandros 50
-Charadra 49
-Psili Ammos 49
-Aetorrachi 49
-Dichomoiri 49
-Chotasia 49
-Kanakari 49
-Kanaki 14
-Timios Stavros 49
-Kato Stavros 31
-Laliza 49
-Agia Aikaterini Koutsopodiou 49
-Ayia Aikaterini Arkitsas 31
-Makrata 49
-Makra Ammos 23
-Makryammos 2
-Drymades 48
-Drymonas 28
-Dry 37
-Trypes 48
-Pantoukios 48
-Korithi 48
-Agios Georgios Agiou Konstantinou 48
-Agios Georgios Koitas 18
-Khoutalaiika 48
-Kissoi 48
-Koumpouriana 48
-Empourios 16
-Kourounia 48
-Lagokoilion 48
-Longitsion 48
-Mourteron 48
-Vothiki 48
-Mesoura 48
-Ayia Varvara Saryiadhas 48
-Aspri Ammos 48
-Pyrgos Vrachasiou 48
-Koupa 47
-Koutala 47
-Kaloutas 23
-Raftanaioi 47
-Anapaftiria 46
-Avrokastro 47
-Avramilia 46
-Mikrolimni 46
-Limnia 35
-Agrilias 46
-Aroania 46
-Langadhaiika 46
-Loukha 46
-Skoupa 46
-Skoupaiika 12
-Koukaiika 45
-Doukanaiika 31
-Divounion 46
-Kipoi Mazias 46
-Ayia Varvara Paravolas 46
-Ayios Georgios Methanon 46
-Tzardavila Mokrizas 46
-Ayioi Theodhoroi Methanon 45
-Ntara 45
-Kondolianika 45
-Kourounes 45
-Tsourouniana 14
-Moschofyto 45
-Parori 45
-Prodhromos 45
-Tzapada 45
-Kakoperato 45
-Apovathra 45
-Melinado 45
-Zouzouli 44
-Ardanovo 44
-Koryschades 44
-Kouvelles 44
-Liangaiika 44
-Rapi 44
-Lapithos 25
-Strovles 44
-Stikas 44
-Dafnochori 43
-Molyvdoskepastos 43
-Balas 43
-Delvinakopoulo 43
-Frangoskala 43
-Palaioskamia 36
-Lygeri 43
-Panagitsa 43
-Gerolimenas 43
-Limeniskos 40
-Pori 43
-Psachnia 43
-Asimochori 42
-Skala Litochorou 42
-Stavrinides 42
-Diakofti 42
-Diakopion 21
-Chora Gaitson 42
-Koutsomatados 42
-Petres Askyfou 42
-Varka 42
-Chilia Vrysi 42
-Palatiano 42
-Petropoulaki 41
-Esokhoria 41
-Ano Esokhoria 29
-Kampos Kranidiou 41
-Alypa 41
-Nostimon 41
-Stimies 9
-Vroutsis 41
-Prinedes 41
-Langadhi 41
-Moni Osiou Patapiou 41
-Moni Agiou Panteleimonos 15
-Ntrassa 41
-Moni Timiou Prodromou Serron 41
-Asprovrysi 41
-Stathmos Vevis 41
-Koumitsa 40
-Vlagkada 40
-Kedros 40
-Agios Georgios Sklivanis 40
-Elafopidima 40
-Ryaki 40
-Chani Terovou 40
-Stavrodromi Teriachiou 11
-Mouri 40
-Nikolis 40
-Nikoloudes 11
-Pirama 40
-Semeriza 40
-Kastri Evrimenon 40
-Ypapanti 40
-Paralia Pelasgias 40
-Potami Mesokampou 40
-Agios Nektarios Vilion 40
-Togani Lakizas 40
-Chalatses 40
-Mikros Gialos 40
-Voutansaioi 39
-Ano Fteri 39
-Ardosi 39
-Dovla 39
-Floka 39
-Psilokastro 29
-Kelefa 39
-Peratis 39
-Keratidia 28
-Therino 39
-Agios Georgios Polydendriou 39
-Peroulion 39
-Doganis 38
-Koryfes 38
-Nikanoras 38
-Anatolikon 38
-Ayia Paraskevi Parakampylion 38
-Agio Gala 38
-Fortosi 38
-Kagkatika 38
-Katsiyiannaiika 38
-Kiparisson 38
-Palaiomochousti 38
-Sidirounta 38
-Tsiklaria 38
-Loutra Gialtron 38
-Agios Georgios Dematiou 38
-Ayios Vlassis 38
-Nea Sermyli 38
-Mikro Nisi 38
-Aspai 38
-Saoulatika 38
-Solina 38
-Strinylas 38
-Kares Apokorronou 37
-Kherronisos 37
-Chiliomoudou 37
-Chinka 37
-Ayios Charalampos 37
-Psilovrakhos 37
-Ypsilo 19
+Moni Panagias 2
+Nisaki 278
+Tsakoni 288
+Lakones 384
+Alones 189
+Exaplatanos 1292
+Chrisova 82
+Korisos 998
+Likoporia 638
+Paralia Myrtofytou 9
+Lechovo 1115
+Vakari 22
+Vamvaka 32
 Sineniana 37
-Galaniana 15
-Livaniana 4
-Zavrocho 37
-Pano Galari 37
-Anoigmata 37
-Kontarolakka 37
-Pappagiannakides 37
-Vouni 37
-Aikyrgiannis 36
-Goudhianika 36
-Nomia 36
-Tsounaiika 36
-Ano Polysito 36
-Ano Pitsa 12
-Epano Pines 35
-Skroponeria 36
-Rachovitsa 36
-Spileia 36
-Agia Thekli 36
-Eklekto 2
-Priftiatika 36
-Paramonas 36
-Dryonas 35
-Kokkinolongos 35
-Marediana 35
-Apelati 35
-Charamida 35
-Aspros Potamos 35
-Kremithas 35
-Debelikeia / Develiki 34
-Stavroskiadi 34
-Zervou 34
-Aloizianika 34
-Ano Gardenitsa 34
-Asprorema 34
-Leptopoda 34
-Mavra Litharia 34
-Potamos Antikythiron 34
-Stavrokhorion 34
-Yirion 34
-Galini Neou Marmara 34
-Dafnata 34
-Nea Kotyli 34
-Azogyras 33
-Domolessa 33
-Kionia 33
-Milea 33
-Moukovina 33
-Vederoi 33
-Moni Gorgoepikoou 33
-Chantakia 33
-Ntamouchari 33
-Ganadio 32
-Karagiannika 32
-Ano Simi 32
-Neo Sirakio 10
-Kaimenos 32
-Kato Seta 32
-Khelidhoreo 32
-Kyriakosellia 32
-Koureleika 32
-Leichoura 32
-Grigoriana 32
-Pachaina 32
-Kaloutsikos 32
-Ermones 32
-Panermos 8
-Psifta 32
-Agathi 32
-Polyfyto 31
-Poseidonion 31
-Fioretzides 31
-Chatzistamoulides 1
-Megalon Livadhion 31
-Mezapos 31
-Polyrrinia 31
-Tsopakas 31
-Verniko 31
-Kato Asprochori 31
-Asprochorti 11
-Siderona 31
-Nisida 2
-Salonikiou 31
-Paralia Neas Triglias 31
-Sarakinatika 31
-Kastri Megalou Peristeriou 30
-Exokhi 30
-Exo Potamoi 15
-Mesa Potamoi 24
-Kalisperianika 30
-Monopari 30
-Nounesati 30
-Valanidia 30
-Valari 30
-Chalara 13
-Trochalakas 6
-Moraitochori 30
-Spartorachi 30
-Neo Dermati 30
-Komianata 30
-Trigonon 29
-Sourides 29
-Lofiskos 29
-Kalivomouris 29
-Azalas 29
-Azapiko 5
-Karpovoulos 29
-Petalides 29
-Moni Agiou Mina 29
-Iera Moni Agiou Georgiou Feneou 5
-Monii Karakala 29
-Selakano 29
-Zoodochos Pigi Platanoussis 28
-Zoodochos Pigi Agias Anastasias 16
-Moni Agias Anastasias Farmakolytrias 4
-Karvasaras 28
-Nofalias 28
-Sasalos 28
-Avyssalos 18
-Bosi 28
-Doroufi Koilados 28
-Diliso 28
-Venterikos 28
-Moni Zoodochou Pigis Kalevreias 28
-Kontogialos 28
-Armenochori 27
-Kato Zotiko 27
-Dichouni 27
-Dimokori 27
-Egrigoros 27
-Faleliana 27
-Kato Lavdani 27
-Kato Lampiri 21
-Kato Sagkri 27
-Chrysodouli 27
-Tsekouri 27
-Zografia 27
-Neo Kalamaki 27
-Kethra 27
-Moni Koimiseos Theotokou Faneromenis 27
-Moni Genniseos Theotokou Zourvas 7
-Paralia Elaiochoriou 27
-Ayios Dimitrios Achilleiou 27
-Tarti 27
-Megalos Prinos 26
-Schistolithos 26
-Agia Varvara Dematiou 26
-Ano Mavrolofos 26
-Dimolaki 26
-Gklezi 26
-Teriachi 26
-Vikos 26
-Vlachatano 26
-Argokoiliotissa 26
-Loustra 26
-Strongilaiika 26
-Ayios Nikolaos Arkitsas 26
-Imeri Elia 26
-Diskouria 26
-Sykamia 26
-Eriva 26
-Magarika 26
-Agia Fotia Ierapetras 25
-Chimara 25
-Platoma 25
-Vrises 25
-Profitis Ilias Dafnotis 25
-Nispitas 25
-Palaia Taverna 25
-Sykees 25
-Ano Achladies 25
-Kyrgianni 25
-Kassandra Pallas 25
-Galanaiika 25
-Ano Amygdaloi 25
-Paliochori 25
-Aetochori 25
-Iliofoto 24
-Ayia Trias Gounari 24
-Palaio Kalamaki 24
-Makrilongos 24
-Piperiana 24
-Yeraklion 24
-Syggouneika 24
-Kato Ayios Vlasios 24
-Nea Almyri 24
-Destenika 24
-Nea Marathea 24
-Tritsi 24
-Droseri 24
-Leventis 24
-Chersotopi 23
-Molista 23
-Omorfokklisia 23
-Ormos Agiou Isidorou 23
-Melinta 23
-Achladies 23
-Frikes 23
-Kourthiana 23
-Melidhoni 23
-Paliokaria Keraseas 23
-Stefaniada 23
-Vereniki 23
-Lygaridia 23
-Kapoi 23
-Dyo Revmata 23
-Dyo Prinoi 1
-Papadeika 23
-Koryfoudi 23
-Ano Symvoli 23
-Galazio 23
-Platanos Vatheos 23
-Khalidhiata 23
-Yimari 23
-Kotas 22
-Berko 22
-Dhitikon Papparousion 22
-Kanetta 22
-Chalikia Vatta 22
-Kylindras 22
-Potamoula Mesolongiou 22
-Skhinos 22
-Paramerita 22
-Mersini 22
-Ano Doukanaiika 22
-Ayioi Apostoloi Pteleou 22
-Moni Yperagias Theotokou Myrtidion 22
-Moni Genniseos Theotokou Vellas 11
-Agios Achilleios 21
-Parthenonas 21
-Prasino 21
-Aligoi 21
-Kaimeni Khora 21
-Kalyvia Pyrgiotissis 21
-Karmion 21
-Palaiozoglopi 21
-Kourfalonas 21
-Mertidion 21
-Mouzilon 21
-Perivolakia 21
-Pitsinadhes 21
-Vradeto 21
-Bagaioi 21
-Varkoulia 21
-Loleika 21
-Ai Thanasis 21
-Ganema 21
-Polyanemo 11
-Agios Ioannis Serifou 21
-Paralia Almyrou 21
-Nea Myrtos 21
-Vasiliana 21
-Giosonas 20
-Ano Boularioi 20
-Argyromouri 20
-Dipotamo 20
-Fournados 20
-Fragkou 20
-Fragkoulias 14
-Goni Askyfou 20
-Manitokhori 20
-Mikron Khorion 20
-Megalon Khorion 12
-Milokokia 20
-Polilofon 20
-Sparta 20
-Stavropodhion 20
-Tsikkalia 20
-Lompokas 20
-Klironomaiika 20
-Ftilia 20
-Solinari 20
-Troumpettas 20
-Moni Osiou Meletiou 20
-Moni Agiou Georgiou Arma 3
-Parnis 20
-Kalotaritissa 20
-Stegno 19
-Argilia 19
-Ayios Fokas 19
-Dhokana 19
-Kodra 19
-Kouvelia 19
-Lavdani 19
-Negades 19
-Porto Kagio 19
-Sirikari 19
-Tsiristra 13
-Vlychos 19
-Gavrilis 19
-Basdhounaiika 19
-Damaskinia 19
-Moni Agias Triados 19
-Panaitsa 19
-Asklipeiio Epidavrou 19
-Vrachleri 19
-Moni Panachrantou 19
-Psathi 19
-Psathadika 17
-Psatha 15
-Katavolos 19
-Kavalleraina 19
-Pefkos 18
-Gridia 18
-Amygdalokefali 18
-Dokos 18
-Kato Boularioi 18
-Makronas 18
-Paliochoria 18
-Strigania 18
-Mylopotamos 18
-Moni Savvathianon 18
-Mononaftis 18
-Schoinaria 18
-Mavrolimni 18
-Charvalo 18
-Margieli 18
-Gramos 18
-Ano Metapa 17
-Arginonta 17
-Agios Kyprianos 17
-Roumpado 17
-Seltsana 17
-Stournara 17
-Vithisma 17
-Pounta 17
-Moschomantsa 17
-Ilios 17
-Ano Lefki 17
-Voudotopos 17
-Osios Arsenios 17
-Lefki Peristera 17
-Zogka 17
-Karaoulia 17
-Kynigos 17
-Kryo Pigadi 17
-Fanosi 17
-Kotyli 16
-Palaio Lithoto 16
-Mesolakkia 16
-Ano Tarsos 16
-Kotomista 16
-Zervaiika 16
-Vlakhaiika 16
-Vounoreia 16
-Vristovo 16
-Mousga 16
-Platanos Ambelion 16
-Avanti 16
-Tourkomylonas 16
-Agios Fokas 16
-Livadotopos 15
-Kalokairinai 15
-Plokamiana 15
-Tsiliyiannaiika 15
-Ayios Vasilios Neochoriou 15
-Atsipapi 15
-Ayios Yeorgios Kleisorrevmaton 15
-Veliniatika 15
-Pyrgia 15
-Agia Aikaterini Thermisias 15
-Iera Moni Prousou 15
-Iera Moni Agathonos 7
-Fteli 15
-Kastelia 7
-Trachylia 15
-Amigdhalea 14
-Ano Mousiotitsa 14
-Avgonyma 14
-Fraxos 14
-Kainourgia Chora 14
-Mastoraiika 14
-Sikeai 14
-Eptapitta 14
-Palaiopolis 14
-Kampos Palaiopoleos 11
-Pyrgos Chiliadous 14
-Goupa 14
-Dhrosiniotika 13
-Karynia 13
-Karnezaiika 13
-Katavasis 13
-Kato Tarsos 13
-Marlesi 13
-Olympies 13
-Piso Pigadhion 13
-Ayios Konstantinos 13
-Drapanos 13
-Ayia Deftera 13
-Lakomata 13
-Evdos 13
-Zastano 13
-Maneriana 13
-Merikounta 13
-Nikites 12
-Pyxaria 12
-Trapeza 12
-Chalandra 12
-Agios Georgios Skinia 12
-Dimaristika 12
-Koutsopapoulo 12
-Kria Vrisi 12
-Pisaski 12
-Sychalasmata 12
-Vidhion 12
-Voudia 12
-Kalolivadon 12
-Psili Rachi 12
-Mpitsikolaka 12
-Laspes 12
-Paralia Achinou 12
-Nea Ypati 12
-Paralia Vatopediou 12
-Agios Stefanos Fregkainis 12
-Chorostasi 12
-Ayios Ioannis Evxinoupoleos 12
-Pilida 12
-Karniaris 12
-Bemponas 11
-Damnoni 11
-Diasellaki 11
-Dhrimonari 11
-Leontakis 11
-Valeontades 1
-Lykostani 11
-Mikros Machalas 11
-Kalypso 11
-Efkalyptos 10
-Lithiasmenos 11
-Paralia Drotas 11
-Drakos 11
-Kalovrysi 10
-Litharia 10
-Vasaiika 10
-Kipouries 10
-Aronatika 10
-Kanapitsa 10
-Knosos 10
-Pteri 10
-Yerania 10
-Polyzaiika 10
-Alkyona 10
-Souvlos 10
-Apostolos Pavlos 8
-Kotsyfiana 10
-Dysvato 9
-Koulouraiika 9
-Kampos Skouraiikon 7
-Amygdaloi 9
-Angeiadaki 9
-Arolithi 9
-Saronida Troizinos 9
-Kakalioraiika 9
-Lazaridhes 9
-Nikandreio 9
-Yerakarion 9
-Moni Agion Anargyron 9
-Frangolimano 9
-Thymeli 9
-Papa Aloni 9
-Pelei 9
-Moni Koimiseos Theotokou Kleiston 9
-Tsafi 9
-Kremasto 9
-Kali Panagia 9
-Ano Alepokhorion 8
-Boutselianika 8
-Brikion 8
-Tournikion 3
-Koutrela 8
-Koutroumbaiika 8
-Lagoudies 8
-Lourandianika 8
-Paidonia 8
-Tsardhaki 8
-Valmada 8
-Lakoudia 8
-Skepasti 8
-Analipsi Lippas 8
-Boulmou 8
-Paralia Fournon 8
-Agios Nikolaos Kranidiou 8
-Aghios Nikolaos Paliouriou 6
-Karavotsaki 8
-Ai Giannis 8
-Pisodherion 7
-Diefcha 7
-Baousioi 7
-Dilakkos 7
-Kalos Lakkos 2
-Finokalia 7
-Kares Karanou 7
-Kastroungaina 7
-Lendini 7
-Loutra Platistomou 7
-Mylokopeio 7
-Moni Agiou Georgiou 7
-Andhronaiika 7
-Metalleion Tsoukkas 7
-Moni Megalis Panagias 7
-Aghia Markella 7
-Aipos 7
-Fterini 7
-Ligonari 7
-Vlichadia 7
-Petaliana 7
-Kontoudiana 7
-Mavrokampos 6
-Mesovracho 6
-Adrianos 6
-Aerinos 6
-Kato Karitsa 6
-Kollivata 6
-Limogardhion 6
-Moni Arkadiou 6
-Dendra 6
-Agia Paraskevi Karitsis 6
-Chelidoni Dafnoulas 6
-Agios Nikolaos Vogatsikou 6
+Epiniana 683
+Polystylo 420
+Polylofo 65
 Karynta 6
-Nekta 6
-Schoinia 6
-Nireas 6
-Nera 6
-Neratzia 1
-Agios Charalampos Mandras 6
-Fara 6
-Karini 6
-Kipos 6
-Mengoulas 6
-Patelidas 5
-Ano Sfinari 5
-Kechrianika 5
-Mavromiti 5
-Palaia Monemvasia 5
-Stamataiika 5
-Moni Chrysostomou 5
+Olynthos 1111
+Polydroso 408
+Drosopigi 260
+Margaraiiika 303
+Chouliaraiika 66
+Xechoro 137
+
+Lechaina 3714
+Neos Pirgos 890
+
+Argos 22209
+Pelargos 325
+Kranoula 310
+Neo Bizani 307
+Antifilippoi 869
+Palaio Skyllitsi 647
+Kyllini 1079
+Pellini 82
+Oitilon 224
+Itia 60
+Oiti 167
+Nea Tenedos 312
+Nea Tirins 1186
+Agia Sotira 215
+Sotirianika 83
+Skaltsotianika 51
+Chaidefto 388
+Ayia Deftera 13
+Zyfias 166
+
+Koryfi 1552
+Koryfasi 459
+
+Gytheio 4279
+Pythio 892
+
+Servia 3390
+Kerasoula 81
+Manastir Lokova 333
+Kakovatos 421
+Kakoperato 45
+
+Nea Palatia 2723
+
+Nea Artaki 9489
+Nea Avorani 751
+Voros 40
+Azoros 724
+Azogyras 33
+Lazochori 167
+Panochori 8
+Lygaridia 23
+Lygeri 43
+Lygia 184
+Katafygi 311
+Katafylli 51
+Skala Sotiros 376
+Ayia Sotira 302
+
+Ampelakia 4710
+
+Megara 23456
+Gefyra Isthmou 358
+Zefyria 176
+
+Kyria 1611
+Kalos Agros 1275
+Vasileiada 325
+Ano Kerasovon 307
+
+Heraklion 137154
+Atheras 172
+Litoselon 66
+Sgara 137
+Pedi 120
+Marediana 35
+
+Pedini 2871
+Paralia Vatopediou 12
+Ayios Nikitas 108
+Mesa Didyma 168
+
+Didymoteicho 8336
+Fillyra 1041
+Triandafillia 64
+Gorgopotamos 420
+Sellades 718
+Pevkoi 85
+Levkokhori 236
+Tridentro 62
+Kentron 17
+Iliofoto 24
+Negades 19
+Pilalimata 59
+Klimatia 496
+Ano Souli 232
+Ippeio 208
+Mylokopeio 7
+
+Skopelos 2886
+Tsopela 164
+Argasi 639
+
+Gargalianoi 6282
+
+Parga 2379
+Thea 34
+Embaros 247
+
+Lefkimmi 2935
+Lefka 28
+Antirrio 1018
+Kontogialos 28
+Kostogiannides 32
+Rovia 37
+Rachovitsa 36
+Kato Arachovitika 597
+Diliso 28
+Gavrilis 19
+Gavra 69
+Togani Lakizas 40
+Drosato 713
+Megas Lakkos 44
+Evzonoi 331
+Tzonima 63
+Skatzokampos 81
+Sarantaporo 938
+Amaranta 256
+Vederoi 33
+Kalogeroi 138
+Gramvousa 92
+Gramos 18
+Grammeni 335
+Spourgitis 50
+Spolaita 548
+Polemitas 57
+Nispitas 25
+Roussospiti 569
+Ano Fteri 39
+Doirani 83
+Spathades 339
+Kouspades 295
+Karousades 991
+Viros 1201
+Evyiros 57
+Anthi 584
+Gelanthi 667
+Elani 31
+Varella 106
 Mastorakis 5
 Kato Aetopetra 5
-Aspalathrokampos 5
-Ezousa 5
-Pezoulas 2
-Chavgas 5
-Platypodi 5
+Kokkina Chorafia 5
 Apraos 5
-Samiopoula 4
-Kryoneri Kythiron 4
-Yerontas 4
+Paleos Paos 253
+Fylakopi 3
+Vainia 609
+Metokhion 761
+Tolon 1460
+Kato Apostoloi 408
+Kato Zotiko 27
+Nea Zoi 518
+Arillas 96
+
+Aegina 6867
+Barbati 116
+Balas 43
+Kampinares 23
+Tsampi 11
+Anatolikon 38
+Mavra Litharia 34
+Vlagkada 40
+Agios Ioannis Prodromos 38
+Agios Ioannis 821
+Strongilaiika 26
+Strongyli 448
+Vyzitsa 255
+Roda Karousadon 89
+Rodakinia 131
 Sarakiniko 4
-Moni Agiou Nikolaou Kaltezon 4
-Mikroni 4
-Agios Georgios Vrosinas 4
-Mikrovivos 4
-Moni Antinitsis 4
-Ligoneri 4
-Zireia 4
-Nisteri 4
-Avramis 4
-Melisses 4
-Koudoumalos 4
-Asvestario 3
-Louchi 3
-Mavrolongos 3
-Sarandapikho 3
-Tsikkalaria 3
-Moni Agiou Ioannou Theologou 3
-Syrmeso 3
-Avramianika 3
-Moni Dadiou 3
-Moni Timiou Stavrou 3
-Kamara Mytilinion 3
-Mavri Myti 3
-Afionitika 3
-Anastasopoulaiika 2
-Agios Nikolaos Kokkalas 2
-Azali 2
-Megali Rachi 2
-Kalolimnos 2
-Ydroilektrikos Stathmos Lourou 2
-Moni Aretiou 2
-Paidoupoli 2
-Ano Kalyvia Syrnas 2
-Rouga 2
+
+Panaitolion 2935
+Vitoli 245
+Komninades 78
+Kompotades 539
+
+Evxinoupolis 2281
+Strinylas 38
+Koinyra 105
+Kallirachi 452
+Neochoria 105
+Neochoropoulo 1326
+Avgo 327
+Avgi 159
+Zevgarakion 781
+Zevgari 21
+Agios Germanos 182
+Agios Gerasimos 281
+Neapoli Spaton 584
+Megali Gefyra 264
+Agioi Douloi 185
+
+Neo Psychiko 10137
+Neo Agioneri 1176
+Matoneri 217
+Veneraton 938
+Tsouknida 208
+Kouknikades 56
+Manolas 160
+Drepanon 1272
+Staousa 56
+Amigdhalitsa 160
+
+Nafplio 14582
+Plintri 544
+Koumintri 298
+
+Korydallos 63445
+Trikoryfo 273
+Gallikos 969
+Xylokeratea 273
+Panorama Xylokerizis 61
+Panorama Epivadrou 45
+Nea Epidavros 896
+Taxiarches 1157
+Taksiarchis 98
+Agnanta 569
+Kantanos 421
+
+Andravida 3626
+Gravia 68
+Odigitria 55
+Vourmpiani 68
+Kerkini 980
+Berko 22
+Chani Merkouri 13
+Moni Gorgoepikoou 33
+Zacharato 196
+
+Zacharo 5894
+Charokopi 303
+Ryzia 389
+Razia 55
+Mazi 187
+Magazia 68
+Pontokerasia 83
+Vlachokerasia 773
+Neon Livission 131
+Kalivia 81
+Kofoi 196
+Kolchida 81
+Avlemonas 81
+Simonas 60
+Platamonas 78
+Kousounari 19
+
+Krouson 2811
+Iera Moni Prousou 15
+Iera Moni Faneromenis 2
 Dhrymaria 2
-Dhrepano 2
-Diaporos 2
-Styladario 2
-Metokhi Agiou Pavlou 2
-Doroufi Kranidiou 2
-Agios Konstantinos Vilion 2
-Kournela 2
-Schinopi 2
+Mariai 296
+Dikaia 737
+Xino Nero 1081
+Kala Nera 594
+Pera Nevropoli 94
+Pachtouri 193
+Rachtades 179
+
+Nea Fokaia 1944
+Fokia 53
+Ayios Fokas 19
+Bampalio 159
+Lavdani 19
+
+Chalkida 59125
+Chalkiades 1284
+Rokka 613
+Mexiatai 618
+Melitaia 216
+Goni Askyfou 20
+Petres Askyfou 42
+Elevtherokhorion 119
+Flatsia 70
+Karvounadhes 119
+Anthrakitis 70
+Dokos 18
+
+Domokos 1531
+Peplos 1037
+Temploni 356
+Antipernoi 202
+Ornos 1025
+Tornos 144
+Psilovrakhos 37
+Achladia 187
+Agios Aimilianos 52
+Kalamafka 425
+Doliana 441
+Kondolianika 45
+Kondos 138
+Lindos 724
+Magnisia 169
+Skourta 982
+Ieromnimi 169
+Komnina 1126
+Vegora 463
+Ano Zervochori 727
+Megali Sterna 312
+Rizo 1106
+Sidirochori 189
+Ayios Thomas 1292
+Polykarpi 1049
+Lykos 19
+Pogonia 322
+Asklipeiio Epidavrou 19
+Lithines 322
+Lithi 397
+Kotsyfiana 10
+Spilios 14
+Paralia Fournon 8
+Khalidhiata 23
+Pyrgos Chiliadous 14
+Pyrgos Kalou Choriou 87
+Pyrgos Vrachasiou 48
+Chania Kampion 10
+Kounavades 48
+Kavvadades 517
+Moni Savvathianon 18
+
+Stefanovikeio 1970
+Katakolo 594
+
+Astakos 2569
+Pourithi 66
+Kyparissos 268
+
+Dhokimion 1664
+Krokion 499
+Analipsis 408
+
+Kanali 4086
+Kounali 21
+Kato Skafidoti 56
+
+Kato Soulion 2142
+Peroulion 39
+Pertouli 132
+Kompelos 87
+Vrysoula 172
+Nees Vrysoules 76
+
+Kato Glykovrysi 1753
+Pappagiannakides 37
+Trachylia 15
+Kato Spilaio 51
+Krokees 1329
+Sykees 25
+Prousos 125
+Kombothekrata 449
+Avramis 4
+Kyrgianni 25
+Melisses 4
+Vrises 25
+Limani Ierissou 4
+
+Ptolemaida 30045
+Floriada 132
+
+Agia Triada 3580
+Moni Agias Triados 19
+Makry-Gialos 760
+
+Elounda 2193
+Basdhounaiika 19
+
+Elefsina 24910
+Dimitrani 96
+Ayios Dimitrios 71
+Ayios Dhimitrios Monemvasias 179
+Palaia Monemvasia 5
+Armenoi 379
+Armenochori 27
+Ano Potamia 127
+Lisvorio 408
+Voroi 726
+Ano Poroia 965
+
+Oia 3376
+Boulmou 8
+Ano Boularioi 20
+Ano Bralos 82
+Ano Aiyialos 136
+Kolokithia 120
+Raveni 179
+Ano Ravenia 115
+Skoutera 201
+Vatera 219
+
+Keratea 7493
+
+Artemida 21488
+Loutsai 146
+Thymari 723
+Thymonia 10
+Ai Giannis 8
+Efkalyptos 10
+
+Thivai 22026
+Akarpo 298
+Vlychada 1462
+
+Tychero 2029
+
+Rizia 1645
+Derviziana 252
+Radovizi 116
+Kourfalonas 21
+Kapsala 56
+Schinokapsala 87
+Mosia 172
+Sfelinos 304
+Mesonision 198
+Kato Kleines 394
+Sfaka 93
+Chora Sfakion 243
+Kampochori 916
+Kydonia 222
+
+Skydra 4562
+Chariessa 926
+Vessa 113
+Gouves 539
+Gouvia 838
+Agros 271
+Kastellanoi 496
+Kastella 1370
+Toxo 255
+Koxari 178
+
+Asvestochori 6404
+Asvestion 74
+Alestia 61
+Pistiana 43
+
+Choristi 2719
+Kares Karanou 7
+Dysvato 9
+Kampos Skouraiikon 7
+Angeiadaki 9
+Finokalia 7
+Fyta 7
+
+Oinofyta 2927
+Kyprianades 52
+
+Aliartos 4275
+
+Arta 21895
+Vlachopoulatika 111
+Prosimna 589
+Pantokrator 925
+Sokraki 254
+Skra 187
+Skroponeria 36
+Lampero 235
+
+Panorama 16551
+Stivos 576
+Fanari 871
+Mikron Vathi 576
+Ekkara 576
+Ekklisies 122
+
+Nigrita 4947
+Mikri Santa 122
+
+Nea Santa 1693
+Kourenta 113
+
+Drymos 2060
+Examilio 204
+Kato Examilia 816
+Evangelistria 308
+Moni Evangelistriias Serifou 2
+Rosogkremos 2
+Kremmydi 5
+Karydi 83
+
+Karystos 5091
+Karyes 1048
+Karynia 13
+Paralia Ofryniou 1146
+Angista 295
+Karoplesi 192
+
+Alistrati 2127
+Xirokambion 995
+Ano Kambia 4
+Polyplatano 257
+Livaniana 4
+Avlaki 173
+Kanetta 22
+Dermiziana 22
+
+Ermioni 2505
+Trypiti 540
+Drakotrypa 579
+Tsepelovo 261
+
+Grevena 10563
+Agrelia 342
+
+Kontariotissa 2088
+Skariotis 5
+Parochthi 50
+Parori 45
+Asprorema 34
+Pirama 40
+Korda 320
+
+Ialysos 11473
+Arvanitokhorion 169
+Arvanitakaiika 68
+Xanthokhori 83
+Vathypedo 86
+Vathykampos 92
+Vatheianos Kampos 946
+Pigianos Kampos 279
+Ayios Yeorgios Kleisorrevmaton 15
+Argyraiika 51
+
+Molaoi 3018
+Valaora 204
+Valaneio 224
+Kompitsion 733
+Chlomatiana 347
+Palaiokastritsa 240
+Ano Kastritsi 1003
+Patmos 541
+Aktaio 1494
+
+Amyntaio 3671
+Synterina 214
+
+Limin Mesoyaias 9686
+Ergatikes Katoikies Attikis 823
+Agia Marina Mikrolimanou 476
+Mikra Mantineia 670
+Megali Mantineia 191
+
+Nea Kallikrateia 7238
+Kiourktsoglou 177
+Fourka 543
+
+Orchomenos 5919
+Aidipsos 1249
+Dipseliza 192
+
+Nea Anchialos 5908
+Stathmos 38
+Vlitikos Stathmos 88
+Kouramaditika 72
+Tavari 88
+Kato Agios Markos 867
+
+Psachna 5828
+Gennadi 655
 Makrygennisa 2
-Felesiana 2
-Stena 1
-Sevastaiika 1
-Kapsaliana 1
-Palaiozevgaron 1
-Perlengianika 1
-Siyeritsa 1
-Ornias 1
-Perdikovrysi 1
-Pefkovrysi 1
-Palamidas 1
-Klimaki 1
-Zogkaiika 1
-Moni Myrtidion 1
-Skalosia 1
-Ano Vyroneia 1
-Palia Avli 1
-Margharhites 1
-Limenas Lithiou 1
-Mpoulamatsia 1
-Salanti 1
-Moni Strofadon 1
-Loumpa 1
-Kato Selles 1
-Amygdalolakkos 1
+Geni 33
+Vageniti 60
+
+Vagia 4535
+
+Paros 5289
+
+Nerokouros 4388
+Souroti 1048
+Skafidhaki 438
+Ano Skafidoti 60
+Seta 60
+
+Soufli 4149
+Vevi 663
+Provatonas 766
+Provatas 1099
+Lagoudi Zia 284
+
+Prosotsani 4021
+Kato Kotsanopoulo 146
+Vasilatika 147
+
+Mykonos 3783
+Myrisis 55
+
+Katochi 2829
+Amfipoli 147
+Pamfila 1251
+Mythoi 350
+Choika 222
+Schoinaria 18
+Driskos 18
+Margieli 18
+Vargiades 188
+
+Gonnoi 2113
+Giannoudi 116
+Kalyvia Pyrgiotissis 21
+Agios Ioannis Pyrgiotissis 65
+Ayios Ioannis Peristeriou 27
+Troulaki 27
+Petropoulaki 41
+Valtos 24
+Kato Kryfovo 358
+Piperiana 24
+Makrilongos 24
+Raiko 24
+Vokhaiko 1020
+Goulemion 131
+Leka 412
+Palekastro 1094
+Karaiskakis 742
+Fiskardo 198
+Lardos 1348
+Manteio 169
+
+Lagyna 2649
+Palaio Gynaikokastro 280
+Chalatses 40
+Agalianos 33
+
+Traganon 2414
+Moni Vlachernon 75
+Trehantiera 122
+
+Khalkoutsion 2094
+Vroutsis 41
+
+Ydra 1900
+Vouniatades 208
+
+Nea Flogita 1604
+Galarinos 334
+Megalos Prinos 26
+Vothiki 48
+Dhelfinon 52
+Elafina 42
+Diakofti 42
+Agios Ioannis Diakoftis 259
+Domvraina 1138
+Platys Gialos 833
+Tourlos 669
+Kampos Vourlioton 91
+Kedron 109
+Nea Ypati 12
+Amygdali 91
+Amygdalia 220
+
+Nea Poteidaia 1559
+Kefalarion 251
+
+Nea Potidhaia 1559
+Xilopolis 1442
+Alsos 123
+Kato Valsamonero 193
+Valsamata 1008
+Petousi 98
+Frinion 494
+Kato Zalogko 98
+Polydendri 1385
+Agia Paraskevi Varnava 244
+Argalasti 1285
+Xinias 459
+Agriomata 111
+Lakomata 13
+Ossa 651
+Evdos 13
+Drapanos 13
+Palaiokipos 1184
+Ayios Sostis 240
+Ayios Serafim 725
+Kokkinadhes 51
+Theologos 636
+Theodoriana 999
+Kato Theodoraki 97
+Fatsadhika 69
+Palaiogratsano 97
+Mantamados 1120
+Marmaro 875
+Panagiouda 906
+Kallifytos 1098
+Diefcha 7
+Lianokladhion 1085
+Saryiadha 162
+Voulgaro 201
+Sgourades 189
+Pavliani 367
+Xanthates 189
+Polikhronon 997
+Agios Panteleimonas 984
+Plataies 919
+Neokaisareia 919
+Sternes 836
+Chromonastiri 298
+Dhourvationa 137
+Ano Charamida 41
+Ntrassa 41
+Dialekto 831
+Drosochori 782
+Malta 100
+Kalamoti 569
+Koutsomodi 100
+Koutsomatados 42
+Olympiada 741
+Polyanemo 11
+Bemponas 11
+Leontakis 11
+Nikoloudes 11
+Oxyneia 654
+Afroxylia 78
+Krystallopigi 314
+Marnellides 78
+Exo Potamoi 15
+Livadotopos 15
+Xirolivado 117
+Pontolivado 282
+Ayia Trias Sourpis 222
+Vivlos 654
+Dimitra 548
+Leondio 271
+Kalpaki 625
+Gklezi 26
+Vikos 26
+Lozana 26
+Dimolaki 26
+Ano Mavrolofos 26
+Xirolofos 206
+Valmada 8
+Koutroumbaiika 8
+Sfikia 565
+Voskochori 258
+Symvoli 252
+Xilikoi 72
+Sevasto 167
+Linopotis 562
+Ropoto 410
+Katomerion 492
+Galini 273
+Foutia 62
+Leventochori 273
+Marandokhorion 330
+Ormos Koumaiikon 43
+Delvinakopoulo 43
+Gerolimenas 43
+Paralia Agiou Nikolaou 448
+Themelo 373
+Myrmigki 92
+Magoulades 365
+Agios Ioannis Karousadon 213
+Melingoi 340
+Strapodhion 57
+Petsali 303
+Longaki 295
+Rousa Limni 279
+Spitakia 76
+Vrasna 278
+Chinka 37
+Varlaam 112
+Ayios Charalampos 37
+Kherronisos 37
+Filyria 246
+Tsikkalaria 3
+Asvestario 3
+Pesta 193
+Spatharaioi 236
+Eggares 178
+Flomochori 151
+Asimochori 42
+Spiliazeza 144
+Zavrocho 37
+Prodromi 143
+Stavrodromi Parakalamou 74
+Bekianika 74
+Valkano 74
+Forti 93
+Tsafleika 91
+Elies Daskaleiou 53
+Paralia Elaiochoriou 27
+Leipsydrio 51
+Frangoskala 43
+Elafopidima 40
+Ntardeza 39
+Galini Neou Marmara 34
+Mousga 16
+Teriachi 26
+Dhitikon Papparousion 22
+Chalikia Vatta 22
+Avgonyma 14
+Kainourgia Chora 14
+Kato Tarsos 13
+Kechrianika 5
+Tsiristra 13
+Stamataiika 5
+Limogardhion 6
+Ano Sfinari 5
+Aerinos 6
+Patelidas 5
+Kollivata 6
+Moni Agiou Ioannou Theologou 3
+Moni Timiou Stavrou 3
+Paidoupoli 2
+Metokhi Agiou Pavlou 2
+Styladario 2
+Akti Agapis 2
+Rouga 2
+Pezoulas 2

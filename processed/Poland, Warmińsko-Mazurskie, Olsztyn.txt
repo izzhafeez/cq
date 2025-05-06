@@ -1,35 +1,35 @@
 
 
 Olsztyn 174645
-Olsztynek 7725
-
-Elblag 124668
-
-Elk 59044
+Biskupiec 10657
+Szczytno 25254
+Orzysz 5905
+Mragowo 22323
+Morag 14586
+Dobre Miasto 10730
+Nowe Miasto Lubawskie 11166
 
 Ostroda 34060
 Ilawa 33321
-Lubawa 9951
-Nowe Miasto Lubawskie 11166
-Dobre Miasto 10730
+Susz 5748
+Pisz 19675
 Gizycko 30178
 Olecko 16557
-Ketrzyn 28466
-Orzysz 5905
-Szczytno 25254
-Bartoszyce 25022
-Mragowo 22323
-Dzialdowo 21619
-Nidzica 14544
-Pisz 19675
-Biskupiec 10657
-Braniewo 17778
-Barczewo 7349
-Lidzbark Warminski 16639
-Lidzbark 8275
-Morag 14586
 Goldap 13788
-Paslek 12396
-Wegorzewo 11749
+
+Elk 59044
+
+Elblag 124668
 Orneta 9243
-Susz 5748
+Lidzbark Warminski 16639
+Bartoszyce 25022
+Ketrzyn 28466
+Wegorzewo 11749
+Barczewo 7349
+Dzialdowo 21619
+Lubawa 9951
+Olsztynek 7725
+Nidzica 14544
+Lidzbark 8275
+Braniewo 17778
+Paslek 12396

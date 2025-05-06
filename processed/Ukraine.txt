@@ -1,2265 +1,2265 @@
 
 
 Kyiv 2950800
-
-Kharkiv 1451132
-Markivka 7087
-
-Odessa 1011494
-Nova Odesa 13547
-
-Nova Kakhovka 50672
-
-Kakhovka 36816
-Nakhodka 322
-Voskhod 4808
-Roskoshnoye 559
-Roshchino 928
-
-Dnipro 998103
-Dnipryany 4537
-
-Dniprorudne 20271
-Dniprovka 3873
-Dneprovka 2068
-
-Donetsk 929063
-
-Syevyerodonets'k 130000
-Trostyanets' 8151
-
-Kostyantynivka 91259
-
-Zaporizhia 796217
-Apostolove 15828
-
-Lviv 717803
-
-Kryvyi Rih 652380
-Kryve Ozero 8258
-
-Mykolayiv 510840
-Mykolayivka 3629
-
-Mariupol 481626
-
-Luhansk 452000
-Luhans'ke 2604
-
-Vovchans'k 19486
-Stanytsya Luhans'ka 12765
-
-Lysychans'k 111600
-Slobozhans'ke 15825
-Sloboda 2949
-Chervona Sloboda 9333
-
-Sevastopol 416263
-Topory 1109
-Topol'noye 181
-Shkol'noye 1964
-
-Khmelnytskyi 398346
-
-Khmilnyk 28136
-Chechelnyk 5100
-
-Makiyivka 376610
-Tomakivka 8006
-Kolomak 3712
-
-Vinnytsia 352115
-
-Simferopol 336460
-Novopolye 313
-Ravnopolye 924
-Slavnoye 914
-Divnoye 51
-Rovnoye 1399
-
-Kherson 320477
-Chernovo 843
-Chernyshevo 1866
-
-Poltava 317847
-
-Chernihiv 307684
-Cherniakhiv 10082
-Chernyakhivka 1002
-
-Cherkasy 297568
-
-Sumy 294456
-
-Izyum 53778
-
-Zhytomyr 282192
-Myronivka 12871
-Perehonivka 3354
-Antonivka 130
-Antoniny 2592
-Poninka 7642
-
-Horlivka 278550
-
-Karlivka 17226
-
-Rivne 255106
-Pershotravneve 2523
-Brovky Pershi 961
-
-Brovary 88506
-
-Kropyvnytskyi 249454
-
-Pereiaslav-Khmelnytskyi 36527
-
-Kamianske 248575
-
-Sloviansk 124800
-
-Chernivtsi 236250
-Lanivtsi 8357
-Vashkivtsi 5764
-Onyshkivtsi 257
-Klishkivtsi 6272
-
-Ternopil 235676
-
-Kostopil' 30500
-Popilnia 6109
-Kryzhopil' 9024
-Kryzhanivka 3076
-
-Kremenchuk 227494
-Sencha 2953
-Manchenky 1147
-Shevchenkove 7090
-
-Lutsk 213661
-
-Ivano-Frankivsk 204200
-Ivano-Frankove 6223
-
-Bila Tserkva 199163
-Bila Krynytsya 1029
-Sosnytsya 7825
-
-Kramators'k 173700
-Sivers'k 13900
-
-Melitopol 158000
-
-Kerch 148932
-
-Nikopol 130500
-
-Berdyansk 118284
-Vodyane 5685
-
-Zhovti Vody 51559
-Mezhova 7817
-
-Uzhgorod 117878
-
-Alchevs'k 116000
-
-Dokuchayevs'k 23900
-
-Pavlohrad 115932
-
-Myrnohrad 49646
-Myrne 241
-
-Myrhorod 41377
-Novomyrhorod 12728
-
-Yevpatoriya 106202
-
-Yenakiyeve 104101
-
-Oleksandriya 103000
-Velyka Oleksandrivka 7281
-Oleksandrivka 10687
-Oleksandriys'ke 5410
-
-Kamianets-Podilskyi 100000
-
-Mohyliv-Podilskyi 32500
-
-Podil's'k 40664
-Skala-Podil's'ka 4255
-Skalat 3886
-
-Konotop 91798
-
-Zolotonosha 27722
-
-Krasnyy Luch 90005
-Krasnyy Kut 2983
-Krasnokuts'k 8008
-
-Uman 87658
-Domanivka 6517
-
-Kaniv 25666
-
-Berdychiv 86250
-Vendychany 4182
-Tysmenychany 2944
-Medenychi 3219
-
-Shostka 85432
-Hostomel 12450
-
-Kadiyivka 84425
-Sofiyivka 8017
-
-Chervonohrad 83000
-
-Izmayil 82485
-Mayak 114
-
-Mukacheve 81633
-
-Bakhmut 80500
-
-Drohobych 79406
-Strabychovo 3255
-Horinchovo 2959
-Chop 8587
-
-Chortkiv 28855
-Bytkiv 4112
-Khorostkiv 7034
-
-Yalta 77003
-
-Nizhyn 75499
-Ruzhyn 4993
-
-Ladyzhyn 21393
-
-Novomoskovs'k 73100
-
-Shakhtars'k 71700
-Hirs'ke 11046
-Spas'ke 3017
-Rodyns'ke 11550
-Zoryns'k 7532
-
-Pervomays'k 70746
-
-Feodosiya 68562
-Radostnoye 95
-Zadornoye 59
-
-Pokrovsk 68263
-Novopokrovka 4841
-
-Chystyakove 68037
-Shchastya 13800
-
-Sverdlovs'k 68000
-Novoazovs'k 12200
-
-Kirovs'k 40000
-Kirove 3291
-
-Kalush 67698
-Kalyny 5627
-Kulynychi 2981
-Ulychne 3671
-Potelych 2500
-Halych 6256
-
-Smila 67530
-
-Kovel 66400
-
-Korosten' 65000
-Oster 6794
-Terny 3661
-
-Khartsyz'k 64000
-Eskhar 5349
-Olesko 1800
-
-Rubizhne 62993
-
-Snizhne 55587
-Unizh 156
-Nizhniye Otrozhki 118
-
-Pryluky 62823
-Buky 2230
-Trebukhiv 6207
-
-Hlukhiv 35387
-
-Obukhiv 31557
-Posukhivka 413
-Pukhivka 1996
-
-Druzhkivka 62315
-Toshkivka 4926
-
-Lozova 62311
-
-Kolomyia 61781
-
-Antratsyt 61600
-
-Stryi 61404
-Kostryzhivka 2768
-Ostroh 14251
-Porohy 3004
-Poroshkovo 3645
-Vyshkovo 7838
-
-Novovolyns'k 57800
-
-Novohrad-Volynskyi 55925
-
-Volodymyr-Volynskyi 38256
-Volovets 5177
-Voloka 2915
+Desna 6906
+Chesniki 852
+Zaklad 308
+Vladivka 236
+Bobrytsya 565
+Zagnitkiv 4000
+Blagodatnoye 90
 
 Energodar 55800
-
-Boryspil' 55000
-Borova 7315
-Nova Borova 5494
-Nova Huta 161
-
-Chornomors'k 54102
-Chornorudka 1005
-
-Roven'ky 53600
-
-Lubny 52600
-
-Bryanka 51921
-Serebryanka 1111
-
-Horishni Plavni 51740
-Slavne 12
-Slavyanka 110
-
-Fastiv 51143
-
-Starokostiantyniv 33897
-
-Marhanets' 50443
-Novodonets'ke 5895
-Bilyts'ke 9718
-
-Bilhorod-Dnistrovskyi 50201
-Horodnye 4901
-Ogorodnoye 140
-Vodnoye 875
-Dokhodnoye 155
-
-Okhtyrka 49818
-
-Sorokyne 49352
-Vysokyy 10988
-Vysoke 553
-
-Romny 48570
-
-Svitlovods'k 47946
-Tsvitkove 1265
-
-Shepetivka 46419
-Tetiiv 14388
-Mliiv 4158
-
-Bucha 42279
-Buchmany 792
-Chmyrivka 300
-
-Voznesensk 42248
-
-Varash 42000
-Varvarivka 1912
-Vary 2998
-Svarychiv 4845
-Starychi 3293
-Urych 305
-Novyi Yarychiv 2841
-
-Toretsk 41758
-
-Dzhankoy 41731
+Preobrazhenka 3550
+Horenka 5358
+Verenchanka 3560
+Kozhanka 2584
 
 Irpin 40789
 
-Vasylkiv 39700
+Fastiv 51143
+Shchastya 13800
+Klenovyy 2259
+Lozovyy Yar 930
+Nekrasovka 1044
+Yuzhnoye 318
+Katyuzhanka 4046
+Tsarychanka 7638
+Novyi Yarychiv 2841
+Lopatyn 3418
+Delyatyn 7980
+Uhryniv 3090
 
-Yuzhnoukrains'k 39430
-Ukrainka 13636
-Brailiv 4964
+Kalynivka 19315
+
+Malyn 27068
+Maly Mayak 2298
+Malokalynove 8
+
+Kirovs'k 40000
+Stanytsya Luhans'ka 12765
+
+Vovchans'k 19486
+Huty 1978
+Verkhnya Syrovatka 3669
+Verkhnesadovoye 2331
+Verkhniachka 4130
+Verkhovyna 5290
+Hvizd 3311
+Mezhvodnoye 2087
+Semidvor'e 102
+Semenivka 9320
+Semyonovka 280
+Krasnoflotskoye 1143
+Okhotskoye 1328
+Sovetskoye 670
+Polyana 178
+Zoriane 374
+Dianivka 858
+Torkanivka 1061
+Baranivka 12220
+
+Korosten' 65000
+Novoklyonovo 788
+Korolyovo 104
+Korop 5478
+
+Korostyshiv 25099
+Baryshivka 10762
+Nosivka 15164
+Tysiv 157
+Sutysky 6111
+Tsybulevka 1888
+Tanske 980
+Lysa Hora 4312
+
+Shpola 18689
+Polevoye 382
+
+Krolevets' 24115
+Kulykivka 5739
+Petrykivka 4896
+Petranka 2929
+Bili Oslavy 4351
+
+Boryslav 36704
+Bohuslav 16498
+Borova 7315
+Khotyanivka 982
+
+Kaniv 25666
+Hrebinka 11017
+Dolinka 879
+Sokolinoye 1251
+Orlinoye 2106
+Orlovskoye 1014
+Kirovskoye 7064
+Bogachovka 57
+Chortomlyk 1275
+Podgornoye 276
+Solnechnaya Dolina 1526
+Abrikosovka 1079
+Osoviny 235
+Kryva 2911
+Vorokhta 3853
+Dvorovoye 20
+Kvitneve 609
+Dorozhnoye 167
+Molodyozhnoye 7597
+Pechenizhyn 5126
+Zaytsevo 96
+Severnoye 266
+Mykolaiv 14251
+Rodatychi 1912
+Blahodatne 4652
+Nova Vodolaha 13112
+
+Zhovti Vody 51559
+Novyy Buh 15646
+Domanivka 6517
+Krasnosilka 4406
+Krasnosel'skoye 505
+Lesnoselye 480
+Novoselytsya 8088
+Novosel'skoye 2424
+Kol'tsovo 697
+Novovorontsovka 6847
+Ivanivka 5036
+Perekop 919
+Krekhiv 818
+Mostys'ka 11000
+Kostyrino 45
+Khyriv 4419
+Pustomyty 9434
+
+Khust 27999
+Pylypets 1104
+Korolevo 7844
+Kalyny 5627
+Pidvynohradiv 4206
+Poroshkovo 3645
+Rokosovo 4544
+Shirokoye 1491
+Mirovka 1335
+Kirove 3291
+
+Pavlohrad 115932
+
+Vynohradiv 27600
+Kolochava 4839
+Lazeshchyna 4008
+Shchyolkino 10593
+Zalishchyky 9749
+Bazaliya 2035
+Nova Huta 161
+Murovani Kurylivtsi 5994
+Klishkivtsi 6272
+Shishkino 528
+Kamenskoye 254
+Donskoye 1997
+Ukromnoye 4567
+Kamenolomnya 1804
+Novootradnoye 158
+Vinogradnoe 274
+Rassadnoye 4
+Rodnoye 702
+Mnogovodnoye 486
+Melkovodnoye 173
+Rodnikovoye 517
+Vodnoye 875
+Hvardiiske 12589
+Valentinovo 253
+Yelenovka 267
+Lenino 7871
+
+Reni 19719
+Stetseva 3076
+Oster 6794
+Steregushcheye 144
+Stavyshche 7634
+Ivankiv 10170
+Velyka Dymerka 9606
+Olyka 3074
+Velyka Pysarivka 5235
+Dykan'ka 8000
+Ogon'ki 96
+Chisten'koye 5126
+
+Roven'ky 53600
+
+Amvrosiyivka 21307
+Korniyivka 1137
+Sofiyivka 8017
+Ustynivka 4003
+Lutovynivka 2000
+Partyzans'ke 2591
+Rodyns'ke 11550
+Studenok 1440
+Horodenka 9430
+Horodnye 4901
+Pidhorodna 2481
+Pidhirtsi 1076
+Bendyuha 418
+Babenkovo 519
+Lazarevka 78
+Solnechnogorskoye 1150
+Nasypnoe 1581
+Bilohorivka 1142
+Beregovoye 2377
+Mezhdurech'e 519
+Rechnoye 337
+Dachnoye 2628
+Zarechnoye 2022
+Rechka 2075
+Chernorechye 354
+Tankovoye 1639
+Plotinnoye 663
+Plodovoye 1090
+Vilino 6960
+Kalinovka 2302
+Skalistoye 2997
+Istochnoye 723
+Perepyolkino 461
+Solyonoye Ozero 838
+Mar'ino 631
+Dzembronya 245
+Yarkoye 1807
+Vapnyarka 8443
+Lityn 6804
+Khotyn 10799
+Nyrkiv 1013
+Zakupne 1398
+Zarvanitsa 300
+Sinitsyno 1142
+Yagel'nitsa Stara 616
+Belokamennoye 416
+Zheltokamenka 428
+Shatry 97
+Nizovka 78
+Azov 94
+Petrovka 6714
+Krasnaya Dolina 59
+Yachmennoye 113
+Tyachiv 9422
+
+Berehove 25741
+Berezovka 1308
+Karasyovka 174
+
+Krasyliv 19815
+Krasnoye 1034
+Krasnodol'noye 321
+Larino 292
+Nezhinskoye 87
+Novokonstantinovka 111
+Novostepnoye 1523
+Stepanivka 1720
+Zorya 5243
+Velykoploske 3192
+
+Chornomors'k 54102
+Chornorudka 1005
+Chornoliztsi 2965
+Burshtyn 14729
+Ostroh 14251
+Peremyshlyany 7284
+Komyshnya 2539
+Hannivka 100
+Chutove 6274
+Myrne 241
+Chmyrivka 300
+Buchmany 792
+
+Shepetivka 46419
+Tetiiv 14388
+Bystriivka 584
+Zhilino 426
+Kam'yanka 297
+Teplovka 1755
+Novopavlovka 874
+Petropavlivka 8912
+Svyatogorsk 4900
+Ogorodnoye 140
+Horodnya 13601
+Yampil' 7200
+Yamnytsya 3223
+Vyzhnytsya 4834
+Palyanytsya 615
+Bogatyr' 164
+Rossoshchanka 129
+Tarashcha 12952
+Hlevakha 8835
+Borodianka 12069
+Prolisky 1852
+Oliva 379
+Ivanovka 2055
+Dubrovka 494
+Glubokiy Yar 592
+Bryanskoye 910
+Lenskoye 204
+Ogni 536
+Kruty 1330
+Vlastnoye 3
+Krasnodarka 422
+Vidnoye 740
+Otradnoye 826
+
+Bakhchysarai 27351
+Nova Orzhytsia 397
+Peredovoye 643
+Trudovoye 2173
+Litvinenkovo 1439
+Shevchenkovo 942
+Vostochnoye 592
+Molochnoye 2174
+Soldatskoye 73
+Tomashevka 172
+Novoselovskoye 3179
+Novoye Selo 815
+Veselovka 1390
+Orlovka 847
+Krylovka 171
+Staryye Yarylovichi 131
+Solnechnoye 1015
+Klyuchi 323
+Runnoye 375
+Semennoye 717
+Vishennoye 1753
+Vishnyovoye 747
+Zatishnoye 153
+Roskoshnoye 559
+Oposhnya 6003
+Vishnyakovka 308
+Yakovlevka 39
+Rusakovka 918
+Zarech'ye 779
+Vasilyevka 1331
+Sevastyanovka 508
+Listvennoye 549
+Dunayiv 683
+Mykolayivka 3629
+Stepove 1549
+Tarutyne 5988
+Slatyne 6544
+
+Kozyatyn 25645
+Holovyne 1891
+Ruzhyn 4993
+Zhemchuzhyna Kryma 265
+Kovrovo 54
+Ovrazhki 36
+Ray 726
+Mayak 114
+Shlyakh 541
+
+Okhtyrka 49818
+Mashivka 3999
+
+Lyubotyn 22545
+Otyniya 5205
+Rozhniv 5351
+Kostryzhivka 2768
+Kryzhopil' 9024
+Sobolivka 3605
+Dolinovka 680
+Malinovka 336
+Kamyshly 60
+Kamyshevka Vtoraya 3352
+Grushevka 2269
+Probuzhdeniye 6
+Stary Krym 9370
+Dyatlovka 6
+Pavlovka 590
+Sverdlovskoye 203
+Kotovskoye 499
+Kormovoye 1360
+Kumovo 910
+Nakhimovo 90
+Varva 8549
+Khorol 14117
+Dihtyari 1289
+Baturyn 2964
+Batiovo 3046
+Zahvizdya 3546
+Prudyanka 1924
+Prudnikovo 6
+Prudovoye 1009
+Uglovoye 3334
+Kizilovoye 680
+Novozhilovka 1679
+Novosyolovka 1425
+Tabachnoye 1597
+Timashovka 482
+Bol'shoye Sadovoye 397
+Sad 461
+Maloye Sadovoye 336
+Nagornoye 134
+Sanatornoye 232
+Dozornoye 189
+Lozovoye 1889
+Pereval'noye 3426
+Balki 730
+Cheremisovka 207
+
+Kreminna 23538
+Zimino 1000
+Mindal'noye 143
+Yantarnoye 2368
+Ul'yanovka 219
+Novoulyanovka 343
+L'vovo 5
+Novovasilyevka 631
+Novopolye 313
+Krivopol'ye 1000
+Markova 2896
+Komarovka 660
+Klepinino 1966
+Klevan 1458
+Lanivtsi 8357
+Suslivtsi 692
+Nizhniye Oreshniki 581
+Uhniv 1021
+Krasne 6250
+Krasnogorka 827
+Priozyornoye 3005
+Prostornoye 635
+Novaya Derevnya 384
+Azovskoye 3656
+Ostrovskoye 1123
+Krymskaya Roza 1755
+Belaya Skala 632
+Zhemchuzhina 971
+Klinovka 116
+Sadovoye 2874
+Novy Mir 557
+Orekhovka 318
+Dmitrovo 265
+Vladislavovka 3324
+Slavnoye 914
+Novoul'yanovka 239
+Khodzha-Sala 53
+Nakhodka 322
+Priyatnoye Svidanye 426
+Novyy Svit 9488
+Svetlodarsk 12273
+
+Svitlovods'k 47946
+Zavodskoye 211
+Baherove 4315
+Rovenka 369
+Noven'koye 563
+Yakovenkovo 107
+Makovka 237
+Prirechnoye 391
+Pribrezhnoye 671
+Krasnaya Polyana 1048
+Polyanka 1693
+Novi Bilokorovychi 3251
+Mala Bilozerka 5717
+Mala Vyska 12644
+Pantayivka 2918
+Sokolivka 100
+Pokotylivka 9962
+Kyrylivka 1422
+Motovylivka 3499
+Voronkov 4000
+Vorontsovka 239
+Voronki 91
+Hayvoron 15526
+Zhavoronki 49
+Yavoriv 13008
+Dvorichna 4322
+Utkivka 1272
+Bykivka 1911
+Brovky Pershi 961
+Marshintsy 5141
+Voloshino 152
+Magazinka 1168
+Nizinnoye 293
+Sennoye 289
+Privol'noye 467
+Stal'noye 1125
+Yermakovo 909
+Hrafs'ke 373
+Bilyts'ke 9718
+Horbachevo-Mykhaylivka 797
+Simeiz 2604
+
+Druzhkivka 62315
+Mezhova 7817
+Mezhgornoye 48
+Mezhevoye 120
+Grushevoye 96
+Klyuchevoye 255
+Vladimirovka 1261
+Mirnovka 1259
+Kommunary 598
+Pridorozhnoye 555
+Sofiyevka 10
+Maryevka 591
+Krasnyi Mak 1663
+Krasnyy Kut 2983
+Krasnovka 608
+Agrarnoye 3754
+Spokoynoye 37
+Senokosnoye 1058
+Velikosel'ye 346
+
+Kovel 66400
+Bukovets' 480
+Buky 2230
+Velykyy Burluk 4821
+Velyka Bilozerka 3511
+
+Orikhiv 17287
+Aviatorske 2403
+Slavske 6436
+Beryslav 14880
+
+Slavuta 33080
+Mlyniv 8228
+Boromlya 4070
+
+Romny 48570
+Romanovo 88
+Fersmanovo 155
+Kondratyevo 803
+Vol'noye 1982
+Popovka 292
+Topoli 609
+Chistopolye 1706
+
+Sevastopol 416263
+Topory 1109
+Pozharskoye 1426
+Novyi Mir 421
+Ana-Yurt 243
+Seredyna-Buda 7161
+Sudak 16597
+Zorya Truda 252
+
+Voznesensk 42248
+Bereznehuvate 7506
+Sholokhove 3097
+Tymoshivka 2975
+
+Polohy 21380
+Mar'yinka 9900
+Stizhkivs'ke 4480
+Liutizh 2282
+Kopachev 477
+Karapyshi 2960
+Mankivka 8596
+
+Ivano-Frankivsk 204200
+Velykyy Klyuchiv 3290
+Sniatyn 10089
+
+Piatykhatky 20459
+Kuprino 200
+Michurinovka 166
+Krinichnoye 898
+Balanovo 131
+Barabanovo 97
+Shalashi 78
+Natashino 979
+Sokoly 168
+
+Sokal' 21451
+Voloka 2915
+
+Kamianets-Podilskyi 100000
+
+Podil's'k 40664
+Ukrayinka 221
+Obodivka 3378
+Borodino 1758
+Chelyadinovo 785
+Yemelyanovka 1374
+Sovetskiy 10410
+Dvurech'ye 446
+Perechyn 7000
+Oleshnyk 4696
+Krasnolesye 1061
+Nizhnyaya Kutuzovka 976
+Nizhnaya Golubinka 273
+Mnogorechye 63
+Kuibyshevo 2520
+Duliby 3533
+Rudky 4912
+
+Lviv 717803
+Vitino 627
+Lushino 214
+Grishino 1755
+Dobrushino 1213
+Dobryanka 3250
+Novi Petrivtsi 7747
+Kozelets' 8305
+Ozerovka 8
+Bilozerka 9348
+Ozerna 3451
+Chernozemnoye 801
+Chernomorskoye 11039
+Chernopolye 1251
+Yasnopolyanskoye 723
+Solyanoye 92
+Zoryanoye 351
+Kropotkino 882
+Mysovoe 429
+Maksimovka 174
+Simonenko 126
+Akimovka 1312
+Makiv 5602
+Hrymayliv 2051
+Pidhaytsi 3158
+Zaliztsi 2612
+Khorostkiv 7034
+Bytkiv 4112
+Sheshory 1984
+Chernyatyn 3046
+Terny 3661
+Ichnya 12417
+Yasnoye 90
+Yasnohorodka 739
+Radomyshl 15252
+Komysh-Zorya 2321
+Mykhaylivka 13216
+Novi Oleshky 177
+Lesnoye 610
+Chervone 2880
+
+Chervonopartyzans'k 17526
+Partizanskoye 2079
+Iza 5237
+Zaliznychne 3343
+Zarichne 6671
+Lokachi 4056
+Shats'k 5708
+Novodonets'ke 5895
+Pasichna 4530
+Pasechnoye 50
+Bobrovytsya 11544
+Novobobrovskoye 247
+Keramik 469
+Mramornoye 158
+Veresayevo 1708
+Chapayeve 2800
+Chaplynka 10224
+Yastrebtsy 240
+Strepetovo 491
+Yastrebovka 153
+Katsiveli 529
+Solonytsivka 12378
+
+Balakliya 31156
+Prykolotne 2499
+Staryy Merchyk 1709
+Starychi 3293
+
+Sambir 35197
+Kirsanovka 299
+Kukuruznoye 66
+Kurgannoye 651
+Lekarstvennoye 1241
+Malovidnoye 914
+Ovidiopol 11818
+Berezivka 9128
+Tayirove 1849
+Hornostayivka 6762
+Stayki 2203
+
+Vyshhorod 22080
+Trypillia 3000
+
+Dobropillya 35977
+Vuhlehirs'k 9926
+Hlyns'k 1698
+Kotsyubyns'ke 13934
+Luhans'ke 2604
+Voronove 735
+
+Horlivka 278550
+Ralivka 3926
+Obroshyne 4186
+
+Netishyn 33063
+Rakoshyno 3145
+Roskoshnyy 3140
+Roshchino 928
+Bolotnoye 238
+Novofyodorovka 165
+Stepanovka 42
+Dem'yanovka 116
+Krest'yanovka 1450
+Lobanovo 1402
+Russkoye 173
+Ozerki 321
+Rubinovka 360
+Lyubimovka 284
+Klimovo 638
+Blizhnegorodskoye 584
+
+Snizhne 55587
+Molodizhne 1541
+Lykhivka 2382
+Chernyakhivka 1002
+Chernovo 843
+Poltavka 1937
+Zarya 175
+Kotel'nikovo 1373
+Sinapnoye 293
+Yasinya 7708
+Yasnopillya 333
+Lymanske 8600
+Kodyma 9276
+Vodyane 5685
+Velyka Oleksandrivka 7281
+
+Dolyns'ka 34267
+Miusyns'k 6000
+Buran 1023
+Novozburyevka 407
+Turka 7395
+Turgenevo 561
+Ognevoye 161
+Luchevoye 44
+Uchebnoye 101
 
 Dubno 37690
 Bubnysche 445
-Staische 246
-
-Yasynuvata 37600
-
-Boryslav 36704
-Slavske 6436
-
-Chuhuyiv 36519
-Kushuhum 7475
-Ishun' 2913
-Grishino 1755
-Voloshino 152
-Koloski 1116
-
-Dobropillya 35977
-Pryvillya 8669
-Krasnopillya 8603
-
-Bilopillya 17824
-
-Zhmerynka 35960
-
-Avdiyivka 35826
-
-Sambir 35197
-Staryy Sambir 5603
-Staryy Dobrotvir 6436
-Tvirzha 645
-Svirzh 795
-Orzhiv 4125
-
-Tokmak 34926
-Mala Tokmachka 2912
-Chkalovo 1098
-
-Boyarka 34631
-Vapnyarka 8443
-Lypnyazhka 4272
-Knyazhichi 5207
-Ichnya 12417
-Oposhnya 6003
-Moshny 4629
-Roskoshnyy 3140
-
-Dolyns'ka 34267
-
-Vyshneve 33183
-Stavyshche 7634
-Horodyshche 15063
-
-Vyshhorod 22080
-Horodnya 13601
-Horodnytsya 5238
-
-Slavuta 33080
-
-Netishyn 33063
-Obroshyne 4186
-Rakoshyno 3145
-Morshyn 6241
-Borshchiv 10959
-
-Kupjansk 32449
-Kuprino 200
-
-Synel'nykove 31900
-Kuteynykove 2076
-Voykovo 4284
-
-Balakliya 31156
-
-Krasnoperekops'k 30700
-Perekop 919
-
-Debal'tseve 30200
-
-Pervomays'kyy 30000
-Kripens'kyy 7487
-
-Alushta 29586
-Kashtany 862
-Bashtanovka 212
+Dubrova 431
+Dubove 8902
+Manyava 3333
+Lavanda 206
 Kashtanovoye 1028
-Tankovoye 1639
-Parkovoye 403
+Rastushcheye 356
+Monastyryshche 9111
+Horodyshche 15063
+Svynarka 439
+Kryve Ozero 8258
+Vorobiove 275
 
-Pereval's'k 29220
+Bilhorod-Dnistrovskyi 50201
+Rodniki 71
+Mel'niki 285
+Zavetnoye 1628
+Markovo 428
+Matrosovka 97
+Shubino 890
+Zolotoye Pole 2543
+Kamennyye Potoki 3516
 
-Starobil's'k 22000
-Starobesheve 6917
-Khorosheve 4432
-Khorol 14117
+Poltava 317847
+Svalyava 16507
+Kamianytsia 1886
+Dovhe 6541
+Verchnia Rozhanka 1134
+Lypcha 3640
+Serednye Vodyane 5465
+Lysychovo 3068
+Bushtyno 8236
+Rykhtychi 3115
+Murovane 4251
+Shchurove 264
+Vozrozhdeniye 610
+Vorozhba 7915
+Storozhnytsya 2623
+Storozhevone 202
+Zheleznodorozhnoye 970
+Samokhvalovo 545
+Kunashevka 563
+Chernyshevo 1866
+Svatovo 142
+Svarychiv 4845
+Bystrytsya 1016
+Rozhniativ 3983
+Nizhniye Otrozhki 118
+Unizh 156
+Primorskiy 12560
+Prymors'k 13900
 
-Novoyavorivs'k 28807
-Yavoriv 13008
-Zboriv 7159
+Heniches'k 21663
+Vypasnoye 245
+Spas 2976
+Trekhprudnoye 925
+Nizhneye Zaprudnoye 161
+Rudne 6016
+Rozdil 2892
+Rozivka 4197
+
+Zaporizhia 796217
+Vesele 10683
+Kayiry 3364
+Chornobayivka 8954
+Askaniya-Nova 3309
+Voinka 4089
+Novodolinka 13
+Mar'yanovka 2494
+Kar'yernoye 994
+Gornoye 147
+Zadornoye 59
+Fyodorovka 15
 Khodoriv 10172
+Komarno 3845
+Pnikut 1101
+Urych 305
+Demnya 1602
+Demechi 399
+Volovets 5177
+Velykyi Bereznyi 7078
+Kushnytsya 4508
+Bobovo 2216
+Chop 8587
 
-Horodok 17086
-Horodenka 9430
+Chortkiv 28855
+Obertyn 3264
+Partyzany 3738
+Vasil'kovoye 281
+Parkovoye 403
+Voykovo 4284
+Slivyanka 61
+Ostanino 1327
+Konstantinovka 1354
+Stakhanovka 857
+Iskra 143
+Khmelevo 230
+Krymskoye 1822
+Rogovo 230
+Lugovoye 906
+Luganskoye 1129
+Ol'shanskoye 4500
+Komsomol'skoye 4447
+General'skoye 312
+Teploe 20
+Akropolis 465
+Zuya 6230
 
-Tsyurupyns'k 28800
+Zuhres 19121
+Kripens'kyy 7487
+Shakhtne 975
+Mayorove 247
+Rozsypne 4911
+Rozovy 227
+Topol'noye 181
+Razdol'noye 7326
+Makarovka 28
+Utkino 32
+Yurkino 69
+Chaykino 1051
+Zorkino 1099
+Oktyabr' 923
+Yablonovka 617
+Leonovka 312
+Andrusovo 886
+Aleksandrovka 1301
+Lozno-Oleksandrivka 1149
+Sofiivka 3481
+Tymchenky 881
+Shevchenkove 7090
+Kulevcha 3882
+Kulykiv 3963
+Ulyanovka 428
+Tarasovka 112
+Klavdiyevo-Tarasove 4685
 
-Saki 28322
+Balaklava 18649
+Talalayivka 5054
+Novomykolayivka 5568
 
-Znomenka 28318
+Lozova 62311
+Kaydaki 1619
+Ochakiv 16300
+Rybakivka 1640
+Zubakino 144
+Dubki 2256
+Poshtove 3086
+Usatove 7732
+Kuchurhan 3183
 
-Lyman 28200
+Bucha 42279
 
-Khust 27999
-Husiatyn 7122
-Lopatyn 3418
-Sniatyn 10089
-Rohatyn 8287
-Delyatyn 7980
-Chernyatyn 3046
+Obukhiv 31557
+Posukhivka 413
+Mykhivka 416
+Derazhnya 10058
+Otvazhnoye 486
+Smezhnoye 56
+Ravnopolye 924
+Furmanovka 958
+Kachanovka 50
+Buchach 12082
+Skalat 3886
+Kalanchak 10673
+Malokakhovka 2862
+
+Skadovs'k 19404
+
+Sverdlovs'k 68000
+Tr'okhizbenka 2054
+Krasnokamenka 1150
+Znamenka 474
+Novonikol'skoye 355
+Solovyovka 66
+Topolyovka 222
+Zelenogor'e 231
+Perevalovka 776
+Chkalovo 1098
+Kamyshnoye 345
+Mysovoye 47
+Davydovo 7
+
+Selydove 24269
+Veselynove 6997
+Velyka Mykhaylivka 5777
+Kuznetsovo-Mykhaylivka 969
+
+Yenakiyeve 104101
+Velikiye Borki 3141
+Khashchevoye 852
+Bakhchevka 46
+
+Bakhmut 80500
+
+Alchevs'k 116000
+Tulchyn 16136
+Pohrebyshche 10354
+Hrebeniv 600
 
 Lebedyn 27695
 Hnidyn 5400
 Zarudyntsi 926
-Yarmolyntsi 8583
+Shypyntsi 2937
+Lisovi Sorochyntsi 4050
+Risovoye 528
+Listovoye 301
+Luchistoye 1180
+Vetvistoye 62
+Zelyonaya Niva 584
+Klyonovka 927
+Mironovka 245
+Antonovka 29
+Demyanovka 382
+Novosel'tsy 269
+Krasny Partizan 677
+Novozuyevka 501
+Matveyevka 277
+Dokhodnoye 155
 
-Dolyna 20696
-Mynay 2973
-Verkhovyna 5290
+Horodok 17086
+Letychiv 10669
+Korotych 4889
+Kyrykivka 3202
+Chuykivka 894
+Korneyevka 79
+Gornostayevka 2132
+Semisotka 1583
+Borisovka 10
+Zboriv 7159
+Fedorivka 90
 
-Vynohradiv 27600
-Pidvynohradiv 4206
+Brovary 88506
+Uvarovo 855
+Varvarivka 1912
 
-Bakhchysarai 27351
+Varash 42000
+Kobleve 2800
+Kobyzhcha 4332
 
-Sarny 27097
-Komarno 3845
+Chernihiv 307684
+Velyki Sorochyntsi 4050
+Sencha 2953
+Pivdenne 8053
+Korennoye 350
+Zhelyabovka 2669
+Tsvetushcheye 280
+Predushchel'noye 549
+Bogatoye Ushchelye 104
+Nyzhnye Selyshche 3044
+Karpaty 235
+Rohatyn 8287
 
-Malyn 27068
-Kalynove 3042
-Veselynove 6997
+Stryi 61404
+Vetryanka 104
+Serebryanka 1111
 
-Truskavets' 26600
-Podobovets' 407
-Bobovo 2216
-
-Berehove 25741
-Berehomet 8227
-Velyki Berehy 2766
-Velykyi Bereznyi 7078
-Berezovo 2885
-Berezhani 16962
-
-Molodohvardiys'k 25654
-
-Ilovays'k 17621
-Milove 5418
-
-Kozyatyn 25645
-
-Popasna 25442
-Krasnopavlivka 7495
-Petropavlivka 8912
-Petrove 8252
-
-Korostyshiv 25099
-Tyshkivka 3368
-Hryshkivtsi 4427
-
-Slavutych 25000
-
-Yuzhne 25000
-Katyuzhanka 4046
-Kozhanka 2584
-
-Haisyn 24687
+Izyum 53778
+Uzyn 12726
+Nyzy 2819
+Valky 10099
+Karpova Balka 54
+Nova Borova 5494
+Nova Praha 7513
+Verblyany 2000
+Boyany 4260
+Sokyryany 9192
+Shyryayeve 7018
+Arbuzynka 7140
+Novhorodka 6405
+Apostolove 15828
+Hostomel 12450
+Bila Krynytsya 1029
+Horodnytsya 5238
+Privetnoye 2592
 Haiove 201
 Pochaiv 8075
-
-Armyansk 24442
-Demyanovka 382
-Ulyanovka 428
-Solyanoye 92
-Yemelyanovka 1374
-Dem'yanovka 116
-Mar'yanovka 2494
-Krest'yanovka 1450
-Ul'yanovka 219
-
-Selydove 24269
-Vesele 10683
-Voznesenka 4917
+Volochayevka 279
+Nikolayevka 2817
+Znamenskoye 150
 Kamenka 171
-Krasnoznamenka 1201
-Krasnovka 608
-Krasnosyolovka 55
-Krasnoye 1034
+Zolotoye 140
+Kotovka 95
+Morskoye 2394
+Morshyn 6241
+Shchyrets 5733
+Shklo 5164
+Kvasy 1200
 
-Krolevets' 24115
+Cherkasy 297568
+Rzhyshchiv 7993
+Moshny 4629
+Yelyzavethradka 1673
+Bolhrad 15274
+Hradyz'k 7400
 
-Volnovakha 23731
-Komyshuvakha 5231
-Komysh-Zorya 2321
+Myrnohrad 49646
+
+Chervonohrad 83000
+Radyvyliv 9928
 
 Zdolbuniv 23697
-Univ 468
 Yabluniv 1798
 Yablochnoye 201
-Yablonovka 617
-Yablunytsya 1986
-Kushnytsya 4508
-Vyzhnytsya 4834
-Novytsya 3564
-Godovytsya 877
-Zdovbytsya 4858
-Voronovytsya 6389
+Protochnoye 151
+Pesochnoye 156
+Tsvetochnoye 2681
+Tsvetkovo 209
+Rakovets 207
+Zelenogorskoye 1877
+Lechebnoye 567
+Chechelnyk 5100
+Novodnistrovs'k 10770
 
-Merefa 23679
+Novomoskovs'k 73100
 
-Kreminna 23538
-
-Bakhmach 23379
-
-Brody 23239
-
-Yahotyn 22779
-Khotiv 4569
-Khotyanivka 982
-
-Hadyach 22667
+Novoyavorivs'k 28807
+Dzvinogrud 1200
 
 Zolochiv 22608
-Kolochava 4839
-Irshava 9161
-Manyava 3333
-Svalyava 16507
-
-Lyubotyn 22545
-
-Polonne 22348
-Tynne 4123
-Khotyn 10799
-Otyniya 5205
-
-Kiliya 21754
-Vilino 6960
-Dolinovka 680
-Malinovka 336
-
-Heniches'k 21663
-Botanicheskoye 1661
-Zemlyanichnoye 660
-Mel'nichnoye 746
-Pchel'niki 528
-Mel'niki 285
-Rodniki 71
-
-Sokal' 21451
-
-Krasnohrad 21426
-
-Polohy 21380
-
-Amvrosiyivka 21307
-Novooleksiyivka 9852
-
-Kremenets 21000
-
-Kurakhovo 20700
-Bilokurakyne 7712
-Melekyne 1356
-Simeykyne 2493
-Bezimenne 2638
-
-Piatykhatky 20459
-Velyka Lepetykha 9511
-Velyka Bilozerka 3511
-Bilozerka 9348
-
-Nadvirna 20154
-Ozerna 3451
-
-Stebnyk 20087
-
-Putyvl' 20000
-Huty 1978
-Chutove 6274
-Lutovynivka 2000
-Malynivka 7502
-Malokalynove 8
-
-Krasyliv 19815
-Krasna 3096
-Krasne 6250
-
-Kivsharivka 19738
-
-Reni 19719
-
-Vatutine 19407
-Tutovoye 275
-
-Skadovs'k 19404
-
-Derhachi 19322
-
-Kalynivka 19315
-
-Balta 19220
-Poltavskoye 413
-
-Zvenihorodka 19161
-Yasnohorodka 739
-Yasnoye 90
-
-Zuhres 19121
-Hrebeniv 600
-
-Korsun-Shevchenkivskyi 19000
+Mizoch 3553
+Mizhhirya 10000
+Hirs'ke 11046
 
 Lutuhyne 18830
 
-Svatove 18770
+Chystyakove 68037
+Uspenka 9400
 
-Shpola 18689
+Debal'tseve 30200
+Tsybli 3512
+Artsyz 15761
+Martynovka 585
+Krymka 1510
+Adzhamka 3859
+Medzhybizh 1731
+Zybiny 1220
+Lomonosovo 575
+Karolino-Buhaz 2241
+Dolinnoye 1551
+Tselinnoye 900
+Vershinnoye 158
+Mashino 239
+Mashyno 25
+Ishun' 2913
+Vishnevoye 249
 
-Balaklava 18649
-Balanovo 131
+Vyshneve 33183
+Vasyshcheve 5862
+Krasnopavlivka 7495
 
-Novoukrayinka 18633
-Ukrayinka 221
+Karlivka 17226
+Khorosheve 4432
+Foros 1844
+Broska 3586
+Koloski 1116
+Kolomenskoye 197
+Porfir'yevka 71
+Dmitrovka 947
+Vetrovka 27
+Yelizavetovo 726
+Medvedevo 1707
+Mendeleyevo 205
+Holendry 307
+Lobachiv 896
+Turbiv 6740
+Kopayhorod 1437
+Kopashnovo 3010
+Rakhiv 14674
+Krasna 3096
+Krasnaya Zorya 349
+Krasnaya Sloboda 138
+Novy Svet 1248
+Novyy Starodub 4777
+Zadovha 200
+Vinogradovo 881
+Radostnoye 95
+Vynohradove 4422
+Sovkhoznoye 1330
+Almaznoye 423
+Novosel'tsevo 433
+Serovo 113
+Kirovo 807
+Vladimirovo 75
+Salgirka 1
+Leninskoye 1725
+Grigor'yevka 288
+Lesnovka 2476
+Shafrannoye 244
+Naumovka 96
+Gromovka 179
+Kholmovka 2234
+Lokhovka 419
+
+Nova Kakhovka 50672
+
+Kurakhovo 20700
+Kuybysheve 7832
+
+Pokrovsk 68263
+
+Ilovays'k 17621
+Danilovka 454
+Panfilovka 135
+Zhuravli 1475
+Traktovoye 372
+Viktorovka 736
+Fruktovoye 744
+Portovoye 67
+Frontovoye 1006
+Tutovoye 275
+
+Balta 19220
+Klembivka 3692
+Okny 5461
+Vylok 3292
+Kovyl'noye 783
+Batal'noye 1275
+Shkol'noye 1964
+Zhuravlyovka 1368
+Pavlysh 4693
+Olyshivka 2317
+Lyubashivka 9426
+Babanka 2460
+Zlynka 4981
+Mliiv 4158
+Orzhytsya 3898
+Kamianka 14547
+
+Kremenchuk 227494
+Kremnevka 624
+Olenevka 1441
+Okunevka 522
+Dokuchayevo 277
+Nevskoye 251
+Lineynoye 384
+Pchelinoye 12
+Kozachi Laheri 3587
+
+Armyansk 24442
+Novoaleksandrovka 225
+Oleksandriys'ke 5410
+Novomyrhorod 12728
+
+Zhytomyr 282192
+
+Novohrad-Volynskyi 55925
+
+Berdychiv 86250
+Kehychivka 6404
+
+Kharkiv 1451132
+
+Kivsharivka 19738
+Markivka 7087
+
+Sorokyne 49352
+Chornukhyne 7782
+Soledar 12662
+
+Yasynuvata 37600
+Uvarovka 1136
+Kostochkovka 892
+Mostovoye 267
+Stolbovoye 1082
+Krasnoyarskoye 626
+Shtormovoye 1124
+Okhotnikovo 1550
+Nadezhdino 88
+Radens'k 3972
+
+Mykolayiv 510840
+Brylivka 4305
+Zaliznyy Port 1528
+Novoivanovka 876
+Limannoye 172
+Novoozyornoye 4998
+Glinka 646
+Vorobyovo 1085
+Holoby 4203
+Kolodenka 3052
+Poninka 7642
+Ilyinka 1140
+Vishnyovka 995
+Novokrymskoye 1081
+Muromskoye 755
+Drahovo 4262
+Chetfalva 755
+Reshetylivka 9336
+
+Krasnohrad 21426
+Vynohradivka 3110
+
+Odessa 1011494
+Massandra 7280
+Ponizovka 213
+Aromat 330
+Ozyornoye 153
+Upornoye 346
+Alekseyevka 913
+Vytachiv 816
+Geroyskoye 1740
+Malen'koye 1546
+Prolyotnoye 175
+Zelyonoye 941
+Zelyonyi Yar 129
+Novi Yarylovychi 667
+Chopovychi 2183
+Narkevychi 1631
+Skala-Podil's'ka 4255
+
+Pereval's'k 29220
+Orativ 3170
+Sarata 5035
+Fontanka 6027
+Plakhtiyivka 5038
+Kremidivka 2533
+
+Kremenets 21000
+Kivertsi 16509
+Pidkamin' 2128
+Zin'kiv 10393
+Chornukhy 3075
+Nedryhayliv 6031
+Surs'ko-Mykhaylivka 2552
+Mikhaylovka 3325
+Kol'chugino 3992
+Trudolyubovo 339
+Beloglinka 1989
+Zalesye 1063
+Oles'k 856
+Rokitno 266
+Povorotnoye 249
+Voron 178
+Voronovytsya 6389
+Dubrovytsya 9285
+Dubrovskoye 672
+Annovka 294
+Braga 175
+Verkhnekurgannoye 634
+Mel'nichnoye 746
+Pchel'niki 528
+Yastrebki 254
+Bystrets 362
+Lopukhiv 3199
 
 Bohodukhiv 17818
+Trebukhiv 6207
+Zaozyornoye 4332
+Dalekoye 782
+Zalesnoye 285
+Zalivnoye 72
+
+Rivne 255106
+Pershotravneve 2523
+Ozerne 5646
+Zernovoye 1023
+Sernovodskoye 314
+Dneprovka 2068
+Prolom 177
+Novooleksiyivka 9852
+
+Kadiyivka 84425
+Millerovo 3116
+
+Bilopillya 17824
+
+Ternopil 235676
+Potelych 2500
+
+Dolyna 20696
+
+Novovolyns'k 57800
+Tsetulya 309
+Belz 2386
+Sudova Vyshnya 6420
+Murafa 2739
+Zhuravka 2900
+Uralo-Kavkaz 3033
+Zhuravlevka 145
+Nemyriv 11633
+Myronivka 12871
+Udachnoye 896
+Ovoshchnoye 751
+Nadezhda 466
+Kolodeznoye 997
+Timiryazevo 219
+Varyazh 888
+Varvarovka 595
+Mazanka 2564
+
+Bryanka 51921
+Stoyanka 405
+Chornyanka 3363
+Nyzhni Sirohozy 5797
+Nyzhnya Duvanka 2353
+Barvinkove 12344
+Zmiyiv 16095
+Kolomak 3712
+Tomakivka 8006
+Novobohdanivka 3506
+Slavne 12
+
+Marhanets' 50443
+
+Donetsk 929063
+Kuznetskoye 391
+Bratskoye 1005
+Flotskoye 172
+Chervonoye 2007
+Chervona Sloboda 9333
+Svoboda 240
+Proletarka 166
+
+Boyarka 34631
+Volodarka 7355
+Andrushivka 9522
+Oleksandrivka 10687
+
+Zvenihorodka 19161
+Nove-Misto 3619
+
+Skvyra 17452
+Zhovkva 12973
+
+Bila Tserkva 199163
+Mala Tokmachka 2912
+Kosmach 6204
+Kosiv 7992
+Luzhany 4520
+Kryzhanivka 3076
+Derhanivka 799
+
+Khmilnyk 28136
+Yarmolyntsi 8583
+Belaya 3728
+Belinskoye 368
+Ovrazhnoye 102
+Il'inka 816
+Zvezdnoye 219
+Izvestkovoye 274
+Dobroye 2976
+Dobrolyubovka 263
+Krinichki 478
+Michurinskoye 723
+Dmitriyevka 555
+Dmytrivka 4536
+Petrivs'ke 3275
+
+Kostyantynivka 91259
+
+Lysychans'k 111600
+
+Toretsk 41758
+Mospyne 11300
+Nelipyno 3403
+Nevyts'ke 1032
+
+Syevyerodonets'k 130000
+Yerofeyevo 129
+Ryleyevka 137
+Andreyevka 1498
+Repino 150
+Repyshche 17
+Solnechnoselye 139
+Prokhladnoye 621
+Spasovka 56
+Nekrasovo 1026
+Karpovka 867
+Rysakovo 701
+Makovskoye 250
+Levitanovka 187
+Ayvazovskoye 176
+Trud-Kutok 276
+Trudolyubovka 585
+Ternuvate 1510
+Ternovka 1843
+Siren' 128
+Verkhorechye 1126
+Sukhorechye 58
+Pidlissia 242
+Pidbuzh 2739
+
+Yuzhne 25000
+Raduzhnoye 2
+Snezhnoye 83
+Suvorovskoye 3200
+Mirny 4209
+
+Sarny 27097
+Udarnoye 290
+Goncharnoye 591
+Inkerman 10204
+
+Uman 87658
+Illintsi 10770
+Chernychky 145
+Richky 1319
+Bayrachky 1065
+
+Khartsyz'k 64000
+Pakharevka 1161
+Eskhar 5349
+Voskhod 4808
+Slavyanka 110
+Izumrudnoye 1905
+Zaprudnoye 788
+Liubar 2351
+Kubanskoye 136
+Glazovka 1018
+Sizovka 1814
+Zemlyanichnoye 660
+Armeyskoye 175
+Pervomayskoye 8470
+Botanicheskoye 1661
+Pshenichnoye 868
+Razlivy 556
+Razdolye 949
+
+Saki 28322
+
+Makiyivka 376610
+Matviyivka 3716
+
+Avdiyivka 35826
+Vradiyivka 9578
+Kochergino 439
+Peschana 3094
+Novi Strilyscha 938
+Peschanoye 820
+Dal'neye 498
+Krayneye 875
+Krasna Zor'ka 2777
+Arkadyevka 512
+Vysokogornoye 127
+Kashtany 862
+Fontany 2681
+Sumskoye 243
+Ryumshino 136
+Pologi 137
+
+Polonne 22348
+Tynne 4123
+
+Brody 23239
+Bibrka 3832
+Pomoriany 1449
+Navaria 1493
+Svirzh 795
+Svityaz' 1845
+Mityayevo 2085
+Frunze 3051
+Novi Sanzhary 8020
+Ptashkino 23
+Smushkino 17
+Novy Yar 65
+Pidrichchya 663
+Nadrichne 793
+Zbarazh 12736
+Yahil'nytsya 1314
+Fedorovka 416
+Syedove 2667
+Novofedorivka 5620
+Kukushkino 1006
+Opushki 86
+
+Zolotonosha 27722
+Zolotyy Potik 2343
+Mikulintsy 3457
+Halych 6256
+
+Nadvirna 20154
+Broshniv-Osada 5548
+Tukhlia 1826
+Splai 30
+Bereznyky 3055
+Strabychovo 3255
+Drabiv 7011
+
+Korsun-Shevchenkivskyi 19000
+Timoshenko 589
+Timofeyevka 414
+Gorlinka 62
+Orlyanka 521
+
+Nizhyn 75499
+Shchors 11857
+Sloboda 2949
+
+Pryluky 62823
+
+Hlukhiv 35387
+Baklanovo 79
+
+Yahotyn 22779
+Khotiv 4569
+Okhotnich'e 17
+Rybach'e 1414
+Horbachi 753
+
+Stebnyk 20087
+Skelivka 1062
+Sukhovolya 3612
+Tvirzha 645
+Staryy Dobrotvir 6436
+Nebyliv 3282
+Pohreby 2087
+Romashkino 1427
+Zhashkiv 15264
+Hryshkivtsi 4427
+Onokivtsi 2187
+
+Chernivtsi 236250
+Tovste 3382
+Banyliv 3748
+Melioratyvne 4351
+Kuty 4160
+Nyzhni Petrivtsi 2887
+Staische 246
+Schastlivoye 348
+Chasiv Yar 14360
+Vyshchetarasivka 3651
+Rozhyshche 13280
+Liuboml 10000
+Berestechko 1830
+Berezovo 2885
+Berezyne 3658
+Berezanka 4090
+Bashtanka 12657
+Heroiske 639
+Piskivka 6889
+Chabany 7650
+Zavalivka 193
+Huta Lohanivs'ka 192
+Artemivs'k 7616
+Met'olkine 511
+Sinekamenka 340
+Krasnoznamenka 1201
+Kashtanovka 332
+
+Alushta 29586
+Bashtanovka 212
+Mirnoye 9284
+Petropavlovka 91
+Petrove 8252
+Petrikov 3033
+Bilshivtsi 2500
+Kadubivtsi 3161
+Stari Kuty 5068
+Yurkivka 2887
+Koryukivka 14215
+
+Putyvl' 20000
+Trostyanets' 8151
+Budy 6742
+Zaruddya 419
+Peny 390
+Medenychi 3219
+Kulynychi 2981
+Ulychne 3671
+Auly 4167
+Lozuvatka 6412
+Velyka Lepetykha 9511
+Velyka Bahachka 5707
+Chornobay 8053
+Kapitanivka 2945
+Vnukovo 439
+Myhiya 1500
+Molodiya 3691
+Kholodovka 696
+Pobedino 233
+Koktebel 2807
+Uzlovoye 54
+Zhivopisnoye 97
+Pishcha 1162
+Hoshcha 5084
+Volodymyrets' 8537
+Smyga 2800
+Bogatoye 973
+Bogatovka 902
+Filatovka 516
+Kalinino 1640
+
+Krasnoperekops'k 30700
+Krasnokuts'k 8008
+Krasnopillya 8603
+Vysokopillya 4542
+Vysoke 553
+Shyroke 10920
+Dniprovka 3873
+Solone 7304
+Solotvyn 3803
+Solonka 3391
+Solontsovoye 201
+Zastavna 8536
+Yizhivtsi 3240
+Zabolotiv 4029
+Shabo 6886
+Shyshaky 5671
+
+Horishni Plavni 51740
+Stebliv 3859
+Tsvitkove 1265
+
+Novoukrayinka 18633
+
+Znomenka 28318
+Kazanka 8010
+Pomichna 10539
+Krinichnaya 4530
+Zoryns'k 7532
+
+Luhansk 452000
+
+Popasna 25442
+
+Kramators'k 173700
+Toshkivka 4926
+Onyshkivtsi 257
+Tyshkivka 3368
+Tysmenytsya 9426
+Lypnyazhka 4272
+Khrystynivka 14056
+Hrybivka 450
+Golubivka 822
+Verbivka 3377
+Novopokrovka 4841
+
+Kupjansk 32449
+Vysokyy 10988
+Vysokoye 151
+Krasnogvardeyskoye 11134
+Krasnogorskoye 211
+
+Feodosiya 68562
+Dibrova 187
+Shakhtino 463
+Zhuravki 2666
+Nanikovo 438
+Vyaznikovo 49
+Rodnikovo 3492
+Kamyshinka 127
+Obryv 80
+Aykavan 692
+Aeroflotskiy 1768
+Novyi Sad 386
+Skvortsovo 2517
+Gresovskiy 9835
+Strogonovka 3337
+Pirogovka 324
+Solnechniy 1718
+Talne 16388
+Pobugskoye 5716
+Pobednoye 3108
+Serednye 3505
+Podobovets' 407
+Nove Davydkovo 3853
+Vylkove 8916
+
+Rozdil'na 17615
+Serhiyivka 5045
+Kurisove 4535
+Kurskoye 1204
+Pionerskoye 5534
+Amurskoye 2687
+Divnoye 51
+Kulikovka 421
+Perovo 3890
+Bitumnoye 242
+Tunnel'noye 85
+Novofedorovka 5651
+Uyutnoye 4745
+Voyutychi 2099
+Panyutyne 7038
+
+Merefa 23679
+Sakhnovshchyna 8188
+Savyntsi 5326
+Kopychyntsi 6774
+P'yatypill'ya 3158
+Ilyichevo 938
+Dublyany 8154
+Silets' 3641
+Shpyl'chyna 533
+Chynadiyovo 6564
+Mynay 2973
+Naydenovka 1310
+Ordenonosnoye 84
+Skole 6491
+Synevyr 4623
+
+Synel'nykove 31900
+Chervonohryhorivka 6444
+Chervonyy Oskil 3217
+Shcherbynivka 3868
+
+Shakhtars'k 71700
+
+Antratsyt 61600
+Novytsya 3564
+Lokhvytsya 11950
+Buryn' 11400
+Ladan 6719
+
+Ladyzhyn 21393
+
+Hadyach 22667
+Nova Mayachka 7238
+Bekhtery 2909
+Snihurivka 14873
+Chulakivka 2938
+Ulaniv 3038
+Dovbysh 4559
+Stara Syniava 5771
+Nova Ushytsya 4548
+Borshchiv 10959
+Chernelytsya 1809
+Radcha 2927
+Tatariv 1508
+Pysarivka 82
+Zakharivka 5007
+
+Pervomays'k 70746
+Kompaniyivka 4934
+Nova Odesa 13547
+
+Tsyurupyns'k 28800
+Lyubymivka 5786
+Hola Prystan' 16102
+Shelkovichnoye 1357
+Kirpichnoye 295
+Opytnoye 64
+Izyumovka 1128
+Blizhneye 2779
+
+Rubizhne 62993
+Bile 6775
+Bilyayivka 13762
+Zatyshshya 3900
+
+Yuzhnoukrains'k 39430
+Druzhnoye 169
+Druzhba 5220
+Sedniv 1222
+Zgurovka 6369
+Gurzuf 8933
+Orzhiv 4125
+Vorzel' 8500
+Borzna 11363
+
+Shostka 85432
+Lypova Dolyna 5199
+Pyryatyn 16089
+
+Myrhorod 41377
+Kobelyaky 11692
+
+Oleksandriya 103000
+
+Kryvyi Rih 652380
+Subottsi 3095
+Hlobyne 12544
+
+Drohobych 79406
+Rohachi 350
+
+Derhachi 19322
+Kacha 4282
+Sakharnaya Golovka 4146
+Polyushko 1951
+Turgenevka 1359
+Tenistoye 1211
+Osipenko 476
+Osypenko 4477
+Yakymivka 12353
+Nauchny 723
+
+Dzhankoy 41731
+Chaykovskoye 110
+Mirolyubovka 771
+Novoalekseyevka 630
+Pyatikhatka 2375
+Tikhonovka 201
+
+Kakhovka 36816
+Suvorovo 1357
+Pravda 1474
+Gaspra 10310
+Ispas 4278
+Lanchyn 7718
+Manchenky 1147
+
+Pervomays'kyy 30000
+Mayskoye 2016
+Prisivashnoye 269
+Vashkivtsi 5764
+Verkhniy Yasenov 1205
+Pniv 4443
+Univ 468
+Rozvadiv 3098
+Bryukhovychi 5590
+Biryukove 4250
+Slov`yanoserbsk 8065
+
+Starobil's'k 22000
+Starobesheve 6917
+Bezimenne 2638
+Nyzhnya Krynka 14253
+
+Krasnyy Luch 90005
+Krivtsovo 8
+Stari Petrivtsi 400
+Temriuk 1876
+Artemovka 216
+Partenit 6193
+Partizany 1487
+Velikoye 438
+Furmanovo 97
+Shturmovoye 1535
+Ayvovoye 482
+Chapayevo 249
+Chapayevka 3502
+Balky 5717
+Novovasylivka 2724
+Vil'ne 5432
+
+Dnipro 998103
+
+Nikopol 130500
+Krynychky 4557
+Krukenychi 994
+Tysmenychany 2944
+Yablunytsya 1986
+Sosnytsya 7825
+Neresnytsya 3617
+Yaremche 7558
+Lazi 3660
+Lazurnoye 148
+Sary-Bash 835
+Vary 2998
+
+Uzhgorod 117878
+Mezhgorye 327
+Krasnoarmeyskoye 765
+Snegiryovka 317
+Burevestnik 311
+Subbotnik 361
+Gromovo 321
+Aprelevka 281
+Mityurino 10
+Arbuzovo 165
+Tatarbunary 10396
+Arbuzovka 95
+Morozovka 44
+Kozova 9019
+Terebovlya 13153
+Dobrivlyany 136
+Dobromyl' 4537
+Dudchany 2102
+
+Dniprorudne 20271
+Chudniv 6314
+
+Chuhuyiv 36519
+Chudey 5058
+
+Kolomyia 61781
+Komyshany 6978
+Komyshuvakha 5231
+
+Melitopol 158000
+Kushuhum 7475
+Manhush 8153
+Novoarkhanhel's'k 7624
+Kalynove 3042
+Malynivka 7502
+Mahdalynivka 6567
+
+Kamianske 248575
+
+Sloviansk 124800
+Slobozhans'ke 15825
+Ridny Kraj 33
+Kotel'va 12660
+Peresichna 6894
+Mezenivka 1273
+Rezervne 119
+Kolkhoznoye 5
+Shaumyan 17
+Vulkanovka 129
+Golubinka 1433
+Goluboy Zaliv 615
+
+Yalta 77003
+Staryy Saltiv 3776
+Staryy Krym 5977
+Staryy Sambir 5603
+Rozgirche 566
+Kurortnoye 431
+Aromatnoye 1772
+Krasnosyolovka 55
+Lebedinka 64
+Kizilovka 76
+Putilovka 312
+Milove 5418
+
+Svatove 18770
+Krasnotorka 3061
+Blyznyuky 4824
+Zachepylivka 4217
+Starokozache 5108
+
+Starokostiantyniv 33897
+Dunaivtsi 15836
+Serebriya 2906
+
+Yevpatoriya 106202
+Orekhovo 3049
+Melekhovo 74
+Bolekhiv 10590
+Bohorodchany 7328
+Verkhnyaya Belka 1508
+Skelka 23
+
+Sumy 294456
+
+Konotop 91798
+Berezna 5172
+Berezhani 16962
+Staroye Selo 2119
+Ivano-Frankove 6223
+Rava-Rus'ka 8328
+
+Truskavets' 26600
+Ruska Poliana 7780
+Muskatnoye 1333
+Ratne 9081
+Tarakaniv 1634
+Velyki Mezhyrichi 2192
+Velyki Kopani 5464
+Tavricheskoye 912
+Poltavskoye 413
+Yerky 4159
+Slobidka-Balinska 413
+Slobidka 2530
+Maslovo 2222
 
 Izyaslav 17758
 
-Rozdil'na 17615
-Razdol'noye 7326
-Krasnodol'noye 321
-Krasnodarka 422
+Kostopil' 30500
+Popilnia 6109
+Kodra 1685
+Cherniakhiv 10082
+Narodychi 2521
+Vendychany 4182
+Zhvanets 1529
+Ropcha 3189
+Khymchyn 3124
+Davydivka 2981
+Hlyboka 8942
+Smotrych 1254
+Husiatyn 7122
+Plodorodnoye 300
 
-Chervonopartyzans'k 17526
-Partyzany 3738
-Krasny Partizan 677
+Mariupol 481626
+Kriukivschina 3509
+Khutorok 193
+Tutovka 132
 
-Skvyra 17452
+Vatutine 19407
+Perehonivka 3354
+Lysianka 7954
 
-Orikhiv 17287
-Lykhivka 2382
+Smila 67530
+Pryyutivka 3238
+Viytivka 4245
+Tsibulev 3751
+Bratslav 5819
 
-Pidhorodne 17103
-Bar 16641
-Zbarazh 12736
-Baranivka 12220
-Tarakaniv 1634
-Sudak 16597
-Udarnoye 290
-Agrarnoye 3754
-Nagornoye 134
-Mezhgornoye 48
-Smezhnoye 56
-Kivertsi 16509
-Obertyn 3264
-Bohuslav 16498
-Hulyaypole 16442
-Auly 4167
-Bilohirsk 16428
-Ovruch 16398
-Talne 16388
-Ochakiv 16300
-Rybakivka 1640
-Novorybatskoye 105
-Soldatskoye 73
+Mohyliv-Podilskyi 32500
+Porohy 3004
+Synevyrska Poliana 1355
+Verkhnie Synevydne 3555
+Verkhniye Oreshniki 212
+Verkhniy Rohachyk 6557
+Terpinnya 4656
+
+Vinnytsia 352115
 Vinnitskoye 1048
 Khmel'nitskoye 661
-Tulchyn 16136
-Hola Prystan' 16102
-Stanislav 4726
-Zmiyiv 16095
-Pyryatyn 16089
-Dunaivtsi 15836
-Yizhivtsi 3240
-Bilshivtsi 2500
-Kadubivtsi 3161
-Artsyz 15761
-Novyy Buh 15646
-Novyy Starodub 4777
-Hayvoron 15526
-Voronkov 4000
-Bolhrad 15274
-Vynohradove 4422
-Zhashkiv 15264
-Radomyshl 15252
-Nosivka 15164
-Vasylivka 15012
-Brylivka 4305
-Beryslav 14880
-Snihurivka 14873
-Michurinskoye 723
-Leninskoye 1725
-Belinskoye 368
-Donskoye 1997
-Kamenskoye 254
-Kolomenskoye 197
-Burshtyn 14729
-Bushtyno 8236
-Rykhtychi 3115
-Rodatychi 1912
-Blahodatne 4652
-Ratne 9081
-Rokytne 11726
-Rokitno 266
-Rokosovo 4544
-Koson' 2338
-Rakhiv 14674
-Mykhivka 416
-Kamianka 14547
-Lysianka 7954
-Borodianka 12069
-Novhorod-Sivers'kyy 14400
-Chasiv Yar 14360
-Vyshchetarasivka 3651
-Nyzhnya Krynka 14253
-Nyzhnya Duvanka 2353
-Mykolaiv 14251
-Splai 30
-Ispas 4278
-Kopashnovo 3010
-Koryukivka 14215
-Bykivka 1911
-Mankivka 8596
-Ivankiv 10170
-Khrystynivka 14056
-Ustynivka 4003
-Kotsyubyns'ke 13934
-Prymors'k 13900
-Primorskiy 12560
-Nizhnegorskiy 8741
-Blizhnegorodskoye 584
-Sernovodskoye 314
-Bilyayivka 13762
-Hornostayivka 6762
-Chornobayivka 8954
-Chornyanka 3363
-Rozhyshche 13280
-Kaharlyk 13245
-Nova Praha 7513
-Mykhaylivka 13216
-Surs'ko-Mykhaylivka 2552
-Horbachevo-Mykhaylivka 797
-Kuznetsovo-Mykhaylivka 969
-Terebovlya 13153
-Serebriya 2906
-Nova Vodolaha 13112
-Lypova Dolyna 5199
-Zhovkva 12973
-Kvasy 1200
-Tarashcha 12952
-Mena 12766
-Semenivka 9320
-Mezenivka 1273
-Uzyn 12726
-Arbuzynka 7140
-Tatarbunary 10396
-Sarata 5035
-Soledar 12662
-Solone 7304
-Solonytsivka 12378
-Kotel'va 12660
-Bashtanka 12657
-Fontanka 6027
-Mala Vyska 12644
-Hvardiiske 12589
-Varvarovka 595
-Hlobyne 12544
-Kobyzhcha 4332
-Yakymivka 12353
-Lyubymivka 5786
-Mirolyubovka 771
-Trudolyubovka 585
-Barvinkove 12344
-Svetlodarsk 12273
-Buchach 12082
-Lokhvytsya 11950
-Bobrovytsya 11544
-Bobrytsya 565
-Dobryanka 3250
-Shchors 11857
-Ovidiopol 11818
-Kobelyaky 11692
-Shlyakh 541
-Nemyriv 11633
-Makariv 11594
-Pysarivka 82
-Chyhyryn 11515
-Shyroke 10920
-Buryn' 11400
-Baturyn 2964
-Borzna 11363
-Vorzel' 8500
-Orzhytsya 3898
-Rzhyshchiv 7993
-Mospyne 11300
-Tymoshivka 2975
-Krasnogvardeyskoye 11134
-Kamin-Kashyrskyi 11042
-Pidkamin' 2128
-Chernomorskoye 11039
-Hrebinka 11017
-Pohrebyshche 10354
-Mostys'ka 11000
-Illintsi 10770
-Marshintsy 5141
-Mikulintsy 3457
-Kulykiv 3963
-Novodnistrovs'k 10770
-Baryshivka 10762
-Olyshivka 2317
-Kalanchak 10673
-Letychiv 10669
-Shchyolkino 10593
-Perepyolkino 461
-Bolekhiv 10590
-Krekhiv 818
-Sartana 10543
-Pomichna 10539
-Sovetskiy 10410
-Rakovets 207
-Bukovets' 480
-Zin'kiv 10393
-Dykan'ka 8000
-Gaspra 10310
-Spasovka 56
-Spas 2976
-Oktyabr'skoye 10244
-Oktyabr' 923
-Abrikosovo 778
-Lomonosovo 575
-Gromovo 321
-Chaplynka 10224
-Inkerman 10204
-Furmanovka 958
-Ivanovka 2055
-Valky 10099
-Balky 5717
-Derazhnya 10058
-Liuboml 10000
-Liubar 2351
-Liutizh 2282
-Mizhhirya 10000
-Mizoch 3553
-Pokotylivka 9962
-Sokolivka 100
-Radyvyliv 9928
-Banyliv 3748
-Vuhlehirs'k 9926
-Mar'yinka 9900
-Gresovskiy 9835
-Zymohiria 9807
-Zalishchyky 9749
-Shchyrets 5733
-Bystrets 362
-Bystrytsya 1016
-Novopskov 9739
-Velyka Dymerka 9606
-Velyka Bahachka 5707
-Velyka Pysarivka 5235
-Vradiyivka 9578
-Andrushivka 9522
-Novyy Svit 9488
-Klenovyy 2259
-Pustomyty 9434
-Lyubashivka 9426
-Dashiv 4233
-Tysmenytsya 9426
-Tyachiv 9422
-Uspenka 9400
-Osypenko 4477
-Stary Krym 9370
-Staryye Yarylovichi 131
-Reshetylivka 9336
-Bezlyudivka 9294
-Dubrovytsya 9285
-Dubrova 431
-Dubove 8902
-Mirnoye 9284
-Kodyma 9276
-Sokyryany 9192
-Shyryayeve 7018
-Berezivka 9128
-Berezovka 1308
-Monastyryshche 9111
-Kozova 9019
-Hlyboka 8942
-Peremyshlyany 7284
-Gurzuf 8933
-Zuya 6230
-Novozuyevka 501
-Novozhilovka 1679
-Putilovka 312
-Danilovka 454
-Kizilovka 76
-Kizilovoye 680
-Nizinnoye 293
-Dolinnoye 1551
-Solotvyno 8931
-Solonka 3391
-Vylkove 8916
-Yakovenkovo 107
-Hlevakha 8835
-Bilovods'k 8626
-Lymanske 8600
-Tanske 980
-Varva 8549
-Volodymyrets' 8537
-Korets 8446
-Zastavna 8536
-Teplodar 8502
-Teplovka 1755
-Pervomayskoye 8470
-Chervonoye 2007
-Rava-Rus'ka 8328
-Kozelets' 8305
-Mlyniv 8228
-Uhryniv 3090
-Sakhnovshchyna 8188
-Dublyany 8154
-Manhush 8153
-Novoselytsya 8088
-Chernelytsya 1809
-Neresnytsya 3617
-Yamnytsya 3223
-Slov`yanoserbsk 8065
-Verblyany 2000
-Verbivka 3377
-Shcherbynivka 3868
-Chornobay 8053
-Pivdenne 8053
-Novi Sanzhary 8020
-Lisovi Sorochyntsi 4050
-Velyki Sorochyntsi 4050
-Kazanka 8010
-Berezanka 4090
-Berezyne 3658
-Kosiv 7992
-Tysiv 157
-Vorozhba 7915
-Druzhba 5220
-Lenino 7871
-Ostanino 1327
-Kostyrino 45
-Larino 292
-Mityurino 10
-Michurinovka 166
-Alupka 7849
-Korolevo 7844
-Skole 6491
-Kuybysheve 7832
-Chornukhyne 7782
-Ruska Poliana 7780
-Bilky 7778
-Novi Petrivtsi 7747
-Usatove 7732
-Svatovo 142
-Filatovka 516
-Panfilovka 135
-Lanchyn 7718
-Perechyn 7000
-Rechka 2075
-Ripky 7708
-Yasinya 7708
-Chabany 7650
-Babanka 2460
-Tsarychanka 7638
-Novoarkhanhel's'k 7624
-Artemivs'k 7616
-Petrivs'ke 3275
-Stizhkivs'ke 4480
-Molodyozhnoye 7597
-Dorozhnoye 167
-Zheleznodorozhnoye 970
-Yaremche 7558
-Khymchyn 3124
-Bereznehuvate 7506
-Ternuvate 1510
-Hradyz'k 7400
-Turka 7395
-Volodarka 7355
-Bohorodchany 7328
-Radcha 2927
-Massandra 7280
-Rassadnoye 4
-Vinogradnoye 1494
-Otradnoye 826
-Novootradnoye 158
-Novoozyornoye 4998
-Dozornoye 189
-Upornoye 346
-Nova Mayachka 7238
-Mala Danylivka 7211
-Yampil' 7200
-Seredyna-Buda 7161
-Budy 6742
-Prudyanka 1924
-Kirovskoye 7064
-Kirovo 807
-Vladimirovo 75
-Mironovka 245
-Antonovka 29
-Novokonstantinovka 111
-Panyutyne 7038
-Slatyne 6544
-Drabiv 7011
-Kodra 1685
-Savran 7000
-Komyshany 6978
-Desna 6906
-Sharhorod 6895
-Peresichna 6894
-Krinichnaya 4530
-Dvorichna 4322
-Pasichna 4530
-Piskivka 6889
-Shabo 6886
-Novovorontsovka 6847
-Lityn 6804
-Bile 6775
-Kopychyntsi 6774
-Shypyntsi 2937
-Turbiv 6740
-Ladan 6719
-Vladivka 236
-Petrovka 6714
-Petrovo 446
-Zarichne 6671
-Zarichchya 3832
-Richky 1319
-Teplyk 6604
-Stepove 1549
-Stepanivka 1720
-Sofiyivska Borschagivka 6571
-Korniyivka 1137
-Kompaniyivka 4934
-Pantayivka 2918
-Mahdalynivka 6567
-Novobohdanivka 3506
-Svoboda 240
-Chynadiyovo 6564
-Shpyl'chyna 533
-Lazeshchyna 4008
-Lazi 3660
-Verkhniy Rohachyk 6557
-Dovhe 6541
-Chervonohryhorivka 6444
-Sudova Vyshnya 6420
-Lozuvatka 6412
-Novhorodka 6405
-Kehychivka 6404
-Mashivka 3999
-Zgurovka 6369
-Mirovka 1335
-Chudniv 6314
-Rozkishne 6205
-Kosmach 6204
-Partenit 6193
-Tenistoye 1211
-Luchistoye 1180
-Skalistoye 2997
-Sutysky 6111
-Nedryhayliv 6031
-Rudne 6016
-Miusyns'k 6000
-Murovani Kurylivtsi 5994
-Tarutyne 5988
-Parutyne 1996
-Kruty 1330
-Krukenychi 994
-Staryy Krym 5977
-Mayaky 5937
-Vasyshcheve 5862
-Bratslav 5819
-Nyzhni Sirohozy 5797
-Velyka Mykhaylivka 5777
-Stara Syniava 5771
-Yagel'nitsa Stara 616
-Zarvanitsa 300
-Hubynykha 5745
-Kulykivka 5739
-Kyrykivka 3202
-Chuykivka 894
-Petrykivka 4896
-Mala Bilozerka 5717
-Ozerki 321
-Pobugskoye 5716
-Shats'k 5708
-Nevyts'ke 1032
-Synevyr 4623
-Verkhnie Synevydne 3555
-Shyshaky 5671
-Dymer 5653
-Novofedorovka 5651
-Ozerne 5646
-Novofedorivka 5620
-Makiv 5602
-Bryukhovychi 5590
-Narkevychi 1631
-Novomykolayivka 5568
-Broshniv-Osada 5548
-Pionerskoye 5534
-Morskoye 2394
-Kurskoye 1204
-Korop 5478
-Korotych 4889
-Stara Vyzhivka 5466
-Serednye Vodyane 5465
-Serednye 3505
-Velyki Kopani 5464
-Okny 5461
-Koreiz 5455
-Vil'ne 5432
-Teple 5398
-Horenka 5358
-Rozhniv 5351
-Rozhniativ 3983
-Verchnia Rozhanka 1134
-Verenchanka 3560
-Savyntsi 5326
-Zorya 5243
-Zoryanoye 351
-Bryanskoye 910
-Brusyliv 5242
-Iza 5237
-Zaliztsi 2612
-Chornoliztsi 2965
-Berezna 5172
-Shklo 5164
-Chisten'koye 5126
-Noven'koye 563
-Malen'koye 1546
-Pechenizhyn 5126
-Starokozache 5108
-Kozachi Laheri 3587
-Hoshcha 5084
-Pishcha 1162
-Stari Kuty 5068
-Tatariv 1508
-Chudey 5058
-Talalayivka 5054
-Serhiyivka 5045
-Plakhtiyivka 5038
-Ivanivka 5036
-Zavallya 5010
-Zavalivka 193
-Zakharivka 5007
-Zlynka 4981
-Yarkoye Pole 4914
-Polevoye 382
-Khmelevo 230
-Rudky 4912
-Rozsypne 4911
-Svyatogorsk 4900
-Aviatorske 2403
-Blyznyuky 4824
-Velykyy Burluk 4821
-Uyutnoye 4745
-Povorotnoye 249
-Dvorovoye 20
-Voron 178
-Voronki 91
-Vorontsovka 239
-Oleshnyk 4696
-Pavlysh 4693
-Klavdiyevo-Tarasove 4685
-Terpinnya 4656
-Ukromnoye 4567
-Aromatnoye 1772
-Muskatnoye 1333
-Bolotnoye 238
-Zolotoye 140
-Luhyny 4561
-Dovbysh 4559
-Krynychky 4557
-Nova Ushytsya 4548
-Vysokopillya 4542
-Yasnopillya 333
-Dobromyl' 4537
-Dobrushino 1213
-Lushino 214
-Dmytrivka 4536
-Kurisove 4535
-Luzhany 4520
-Ol'shanskoye 4500
-Lenskoye 204
-Komsomol'skoye 4447
-General'skoye 312
-Pniv 4443
-Pnikut 1101
-Boykivske 4423
-Khyriv 4419
-Krasnosilka 4406
-Krasnosel'skoye 505
-Krasnoyarskoye 626
-Bili Oslavy 4351
-Melioratyvne 4351
-Zaozyornoye 4332
-Baherove 4315
-Serovo 113
-Lysa Hora 4312
+
+Khmelnytskyi 398346
+
+Kropyvnytskyi 249454
 Onufriyivka 4298
-Kacha 4282
-Drahovo 4262
-Boyany 4260
-Murovane 4251
-Muromskoye 755
-Biryukove 4250
-Viytivka 4245
-Zachepylivka 4217
-Mirny 4209
-Holoby 4203
-Holovyne 1891
-Rozivka 4197
-Kuty 4160
-Yerky 4159
-Sakharnaya Golovka 4146
-Krasnaya Polyana 1048
-Polyana 178
-Verkhniachka 4130
-Zaiachkivka 221
-Voinka 4089
-Dolinka 879
-Glinka 646
-Beloglinka 1989
-Boromlya 4070
-Lokachi 4056
-Zabolotiv 4029
-Zolotyy Potik 2343
-Zagnitkiv 4000
-Kol'chugino 3992
-Kol'tsovo 697
-Novi Troyany 3992
-Radens'k 3972
-Ralivka 3926
-Zatyshshya 3900
-Zatoka 1391
-Perovo 3890
-Kulevcha 3882
-Tsybulevka 1888
-Zhuravlevka 145
-Adzhamka 3859
-Stebliv 3859
-Nove Davydkovo 3853
-Davydivka 2981
-Vorokhta 3853
-Bibrka 3832
-Solotvyn 3803
-Cherniyiv 3801
-Staryy Saltiv 3776
-Staryy Merchyk 1709
-Tsibulev 3751
-Belaya 3728
-Verkhnyaya Belka 1508
-Matviyivka 3716
-Klembivka 3692
-Golubivka 822
-Molodiya 3691
-Verkhnya Syrovatka 3669
-Azovskoye 3656
-Ostrovskoye 1123
-Dubrovskoye 672
-Koloniya Zastav'ye 3642
-Silets' 3641
-Lypcha 3640
-Ropcha 3189
-Pavlivka 3635
-Nove-Misto 3619
-Sukhovolya 3612
-Sobolivka 3605
-Obodivka 3378
-Borodino 1758
-Broska 3586
-Preobrazhenka 3550
-Myhove 3546
-Kopayhorod 1437
-Zahvizdya 3546
-Hvizd 3311
-Zhvanets 1529
-Sribne 3534
-Duliby 3533
-Nebyliv 3282
-Kamennyye Potoki 3516
-Tsybli 3512
-Kriukivschina 3509
-Peschana 3094
-Chapayevka 3502
-Gornostayevka 2132
-Prostornoye 635
-Motovylivka 3499
-Rodnikovo 3492
-Okhotnikovo 1550
-Kochetok 3481
-Sofiivka 3481
-Shchebetovka 3442
-Pereval'noye 3426
-Mindal'noye 143
-Vol'noye 1982
-Privol'noye 467
-Stal'noye 1125
-Stari Bohorodchany 3426
-Nelipyno 3403
-Skelivka 1062
-Kalcheva 3388
-Bakhchevka 46
-Shcherbakovo 614
-Tovste 3382
-Pryshyb 3365
-Kayiry 3364
-Kamyshevka Vtoraya 3352
-Tomashevka 172
-Kunashevka 563
-Urozhaynoye 3350
-Pozharskoye 1426
-Amurskoye 2687
-Zaliznychne 3343
-Zaliznyy Port 1528
-Zalivnoye 72
-Strogonovka 3337
-Pirogovka 324
-Uglovoye 3334
-Lozovoye 1889
-Rozovy 227
-Morozovka 44
-Mikhaylovka 3325
-Vladislavovka 3324
-Askaniya-Nova 3309
-Novoestoniya 1027
-Mysovoe 429
-Vysokoye 151
-Sokolinoye 1251
-Vylok 3292
-Velykyy Klyuchiv 3290
-Sadzhavka 3278
-Novi Bilokorovychi 3251
-Novi Yarylovychi 667
-Chopovychi 2183
-Pryyutivka 3238
-Romodan 3225
-Chervonyy Oskil 3217
-Suvorovskoye 3200
-Lopukhiv 3199
-Velykoploske 3192
-Kuchurhan 3183
-Derhanivka 799
-Novoselovskoye 3179
-Orlovskoye 1014
-Kotovskoye 499
-Chaykovskoye 110
-Malokaterynivka 3174
-Malokakhovka 2862
-Sholokhove 3097
-Orativ 3170
-Pidhaytsi 3158
-Pidhirtsi 1076
-P'yatypill'ya 3158
-Bohdan 3155
-Kholmy 3146
-Velikiye Borki 3141
-Lazurne 3127
-Millerovo 3116
-Ozerovka 8
-Vynohradivka 3110
-Pobednoye 3108
-Vidnoye 740
-Rozvadiv 3098
-Rozdil 2892
-Subottsi 3095
-Poshtove 3086
-Stetseva 3076
-Chornukhy 3075
-Olyka 3074
-Lysychovo 3068
-Krasnotorka 3061
-Bereznyky 3055
-Kolodenka 3052
-Frunze 3051
-Runnoye 375
-Orekhovo 3049
-Chekhovo 124
-Batiovo 3046
-Nyzhnye Selyshche 3044
-Staroye Selo 2119
-Lukiv 3043
-Ulaniv 3038
-Petrikov 3033
-Petranka 2929
-Uralo-Kavkaz 3033
-Shalyhyne 3031
-Priozyornoye 3005
-Trypillia 3000
-Dobroye 2976
-Karapyshi 2960
-Denyshi 1164
-Rakiv Lis 2958
-Kapitanivka 2945
-Semypolky 2939
-Chulakivka 2938
-Kryva 2911
-Bekhtery 2909
-Urzuf 2904
-Zhuravka 2900
-Markova 2896
-Nyzhni Petrivtsi 2887
-Yurkivka 2887
-Nyrkiv 1013
-Chervone 2880
-Sadovoye 2874
-Trudovoye 2173
-Prudovoye 1009
-Nyzy 2819
-Nikolayevka 2817
-Koktebel 2807
-Smyga 2800
-Chapayeve 2800
-Kobleve 2800
-Klevan 1458
-Blizhneye 2779
-Novoandreyevka 2778
-Andrusovo 886
-Krasna Zor'ka 2777
-Krasnaya Dolina 59
-Pidbuzh 2739
-Murafa 2739
-Novovasylivka 2724
-Novovasilyevka 631
-Vasil'kovoye 281
-Vasilyevka 1331
-Fontany 2681
-Tsvetochnoye 2681
-Vostochnoye 592
-Ovoshchnoye 751
-Dachnoye 2628
-Zarechnoye 2022
-Rechnoye 337
-Solnechnoye 1015
-Solnechnoselye 139
-Lesnoselye 480
-Zalesnoye 285
-Lesnoye 610
-Krasnolesye 1061
-Zalesye 1063
-Zhelyabovka 2669
-Zheltokamenka 428
-Znamenka 474
-Syedove 2667
-Zhuravki 2666
-Vvedenka 2628
-Rovenka 369
-Storozhnytsya 2623
-Kornyn 2605
-Korneyevka 79
-Simeiz 2604
-Privetnoye 2592
-Partyzans'ke 2591
-Ordzhonikidze 2572
-Mazanka 2564
-Kazanki 358
-Lyubech 2550
-Zolotoye Pole 2543
-Komyshnya 2539
-Kremidivka 2533
-Semidvor'e 102
-Slobidka 2530
-Slobidka-Balinska 413
-Narodychi 2521
-Kuibyshevo 2520
-Grushevoye 96
-Klyuchevoye 255
-Klyuchi 323
-Klyonovka 927
-Skvortsovo 2517
-Prykolotne 2499
-Pidhorodna 2481
-Lesnovka 2476
-Novosel'skoye 2424
-Belz 2386
-Beregovoye 2377
-Lugovoye 906
-Mnogovodnoye 486
-Pyatikhatka 2375
-Yantarnoye 2368
-Izobil'noye 2333
-Verkhnesadovoye 2331
-Verkhnekurgannoye 634
-Nizhnekurgannoye 74
-Annovka 294
-Kurgannoye 651
-Limannoye 172
-Shafrannoye 244
-Kalinovka 2302
-Klinovka 116
-Klimovo 638
-Lyubimovka 284
-Dobrolyubovka 263
-Maly Mayak 2298
-Grushevka 2269
-Rusakovka 918
-Makovka 237
-Makovskoye 250
-Nikita 2257
-Skhidnytsya 2257
-Palyanytsya 615
-Dubki 2256
-Dubrovka 494
-Karolino-Buhaz 2241
-Kholmovka 2234
-Maslovo 2222
-Mashyno 25
-Romashkino 1427
-Zavet-Leninskiy 2222
-Zavetnoye 1628
-Stayki 2203
-Velyki Mezhyrichi 2192
-Onokivtsi 2187
-Molochnoye 2174
-Orlinoye 2106
-Orlovka 847
-Dudchany 2102
-Voyutychi 2099
-Mezhvodnoye 2087
-Pohreby 2087
-Muzhiyevo 2086
-Mityayevo 2085
-Veresayevo 1708
-Partizanskoye 2079
-Tr'okhizbenka 2054
-Hrymayliv 2051
-Bazaliya 2035
-Mayskoye 2016
-Armeyskoye 175
-Geroyskoye 1740
-Sheshory 1984
-Lumshory 84
-Klepinino 1966
-Kalinino 1640
-Polyushko 1951
-Nova Pryluka 1947
-Poltavka 1937
-Izumrudnoye 1905
-Kamianytsia 1886
-Zelenogorskoye 1877
-Solnechnogorskoye 1150
-Krasnogorskoye 211
-Krasnogorka 827
-Prudy 1876
-Prudnikovo 6
-Temriuk 1876
-Ilychyovo 1858
-Prolisky 1852
-Tayirove 1849
-Svityaz' 1845
-Foros 1844
-Ternovka 1843
-Berestechko 1830
-Tukhlia 1826
-Krymskoye 1822
-Krymskaya Roza 1755
-Novokrymskoye 1081
-Krymka 1510
-Sizovka 1814
-Azov 94
-Yarkoye 1807
-Kamenolomnya 1804
-Yesman' 1800
-Aeroflotskiy 1768
-Serpneve 1768
-Kvitneve 609
-Vishennoye 1753
-Semennoye 717
-Sennoye 289
-Korennoye 350
-Yachmennoye 113
-Medzhybizh 1731
-Solnechniy 1718
-Medvedevo 1707
-Mendeleyevo 205
-Chistopolye 1706
-Chernopolye 1251
-Hlyns'k 1698
-Polyanka 1693
-Stoyanka 405
-Orlyanka 521
-Nuyno 1681
-Yelyzavethradka 1673
-Krasnyi Mak 1663
-Novyi Mir 421
-Novyi Sad 386
-Kaydaki 1619
-Svetloye 1608
-Dyatlovka 6
-Pavlovka 590
-L'govskoye 1605
-Demnya 1602
-Demechi 399
-Tabachnoye 1597
-Semisotka 1583
-Cheremisovka 207
-Denisovka 972
-Naydenovka 1310
-Nasypnoe 1581
-Molodizhne 1541
-Shturmovoye 1535
-Solnechnaya Dolina 1526
-Novostepnoye 1523
-Stepnoye 1461
-Sinapnoye 293
-Myhiya 1500
-Andreyevka 1498
-Navaria 1493
-Shirokoye 1491
-Spokoynoye 37
-Partizany 1487
-Zhuravli 1475
-Zhuravlyovka 1368
-Pravda 1474
-Makariv Yar 1470
-Pomoriany 1449
-Olenevka 1441
-Studenok 1440
-Litvinenkovo 1439
-Simonenko 126
-Golubinka 1433
-Goluboy Zaliv 615
-Nizhnaya Golubinka 273
-Nizhnyaya Kutuzovka 976
-Verkhnyaya Kutuzovka 751
-Arbuzovka 95
-Nizovka 78
-Novosyolovka 1425
-Kyrylivka 1422
-Rybach'e 1414
-Mezhdurech'e 519
-Dvurech'ye 446
-Zarech'ye 779
-Lobanovo 1402
-Zakupne 1398
-Zaklad 308
-Veselovka 1390
-Kotel'nikovo 1373
-Kormovoye 1360
-Shtormovoye 1124
-Mostovoye 267
-Portovoye 67
-Turgenevka 1359
-Suvorovo 1357
-Shelkovichnoye 1357
-Melkovodnoye 173
-Synevyrska Poliana 1355
-Konstantinovka 1354
-Valentinovo 253
-Vitino 627
 Hupalivka 1347
-Sovkhoznoye 1330
-Okhotskoye 1328
-Krasnoflotskoye 1143
-Yahil'nytsya 1314
-Malorechenskoye 1313
-Znamenskoye 150
-Akimovka 1312
-Aleksandrovka 1301
-Novoaleksandrovka 225
-Novoalekseyevka 630
-Alekseyevka 913
-Dihtyari 1289
-Batal'noye 1275
-Chortomlyk 1275
-Utkivka 1272
-Medvedevka 1270
-Vladimirovka 1261
-Mirnovka 1259
-Smotrych 1254
-Novy Svet 1248
-Novy Yar 65
-Glubokiy Yar 592
+Pavlivka 3635
+Denyshi 1164
+Kornyn 2605
+Sofiyivska Borschagivka 6571
+
+Boryspil' 55000
+Kaharlyk 13245
+Knyazhichi 5207
+
+Vasylkiv 39700
+Vasylivka 15012
+Brusyliv 5242
+Makariv 11594
+Makariv Yar 1470
+Bilovods'k 8626
+Teple 5398
+Stepnoye 1461
+Otkrytoye 191
+Susanino 800
+Kommunarnoye 16
+Novorybatskoye 105
+Ruch'i 1047
+Ovruch 16398
+
+Slavutych 25000
+Mena 12766
+Lyubech 2550
+Semypolky 2939
+Hulyaypole 16442
+Urzuf 2904
+Kuteynykove 2076
+Hubynykha 5745
+Hubkiv 788
+Luhyny 4561
+Korets 8446
+Koreiz 5455
+Skhidnytsya 2257
+Izobil'noye 2333
+Nikita 2257
+Alupka 7849
+Krepkoye 311
 Pochetnoye 1247
-Lekarstvennoye 1241
-Listvennoye 549
-Lenina 1228
+Kochetok 3481
+Zatoka 1391
+Avrora 275
+Savran 7000
+Lavrovoye 270
+Malorechenskoye 1313
+Golovanovka 510
+Vesyoloye 203
+Svetloye 1608
+Luzhki 228
 Mitrofanovka 1226
-Dmitriyevka 555
-Dmitrovka 947
-Dmitrovo 265
-Sedniv 1222
-Zybiny 1220
-Shubino 890
-Rubinovka 360
-Verkhniy Yasenov 1205
-Dzvinogrud 1200
-Slavyanskoye 1194
-Yasnopolyanskoye 723
-Salhany 1186
-Novonikolayevka 1171
-Novonikol'skoye 355
-Magazinka 1168
-Braga 175
-Pakharevka 1161
-Stakhanovka 857
-Krasnokamenka 1150
-Lozno-Oleksandrivka 1149
-Sinitsyno 1142
-Bilohorivka 1142
-Ilyinka 1140
-Il'inka 816
-Mar'ino 631
-Uvarovka 1136
-Komarovka 660
-Makarovka 28
-Luganskoye 1129
-Izyumovka 1128
-Gromovka 179
-Naumovka 96
-Kumovo 910
-Verkhorechye 1126
-Sukhorechye 58
-Pylypets 1104
-Zorkino 1099
+Kopani 71
+Kuntsevo 365
 Pushkino 1098
-Shishkino 528
-Plodovoye 1090
-Vorobyovo 1085
-Stolbovoye 1082
-Listovoye 301
-Abrikosovka 1079
-Matrosovka 97
-Shatry 97
+Nizhnegorskiy 8741
+Petrovo 446
+Stefanovka 384
+
+Simferopol 336460
+Serpneve 1768
+Urozhaynoye 3350
+
+Kherson 320477
+Sivers'k 13900
+Malokaterynivka 3174
+Novoyekaterinovka 207
+Bilohirsk 16428
+Zymohiria 9807
+
+Molodohvardiys'k 25654
+Lenina 1228
+Zavet-Leninskiy 2222
+
+Lutsk 213661
+Nuyno 1681
+
+Volodymyr-Volynskyi 38256
+Kamin-Kashyrskyi 11042
+Hayivka 202
+Lukiv 3043
+Nova Pryluka 1947
+Sharhorod 6895
+Dashiv 4233
+Zaiachkivka 221
+
+Haisyn 24687
+Teplyk 6604
+Teplodar 8502
+Salhany 1186
+Pokrovka 453
+Mayaky 5937
+
+Kerch 148932
+Ilychyovo 1858
+Libknekhtovka 248
+Naberezhnoye 137
+Kurpaty 136
+Bondarenkovo 600
+Fontan 209
+Yehorove 49
+Stantsionnoye 136
+Oboronnoye 107
+Tylovoye 573
+Pryamoye 107
+Dnipryany 4537
+Dymer 5653
+
+Zhmerynka 35960
+Antonivka 130
+Antoniny 2592
+Novoestoniya 1027
+Koloniya Zastav'ye 3642
+Zdovbytsya 4858
+Godovytsya 877
+Zarichchya 3832
+
+Berdyansk 118284
+Slavyanskoye 1194
+Vodopoynoye 462
+Chekhovo 124
+
+Izmayil 82485
+Kalcheva 3388
+
+Kiliya 21754
+Brailiv 4964
+Ukrainka 13636
+
+Pereiaslav-Khmelnytskyi 36527
+Verkhnezamorskoye 86
+
+Lubny 52600
+Novogrigoryevka 1002
+L'govskoye 1605
+
+Mukacheve 81633
+Lumshory 84
+Koson' 2338
+Abrikosovo 778
+
+Kalush 67698
+Cherniyiv 3801
+Sadzhavka 3278
+
+Tokmak 34926
+Voznesenka 4917
+Pryshyb 3365
+
+Lyman 28200
+Pryvillya 8669
+Zavallya 5010
+
+Dokuchayevs'k 23900
+Pikuzy 507
+
+Volnovakha 23731
+Melekyne 1356
+Bilokurakyne 7712
+Bilky 7778
+Vyshkovo 7838
+Velyki Berehy 2766
+Berehomet 8227
+Myhove 3546
+
+Bakhmach 23379
+Shalyhyne 3031
+Chyhyryn 11515
+
+Pidhorodne 17103
+Spas'ke 3017
+Bar 16641
+Novhorod-Sivers'kyy 14400
+Ripky 7708
+Kiparisnoye 434
+Oreanda 835
+Vinogradnoye 1494
 Livadia 1074
 Niva 591
-Oliva 379
-Bayrachky 1065
-Torkanivka 1061
-Senokosnoye 1058
-Chaykino 1051
-Ruch'i 1047
-Nekrasovka 1044
-Nekrasovo 1026
-Tarasovka 112
-Levadki 1036
-Buran 1023
-Zernovoye 1023
-Uhniv 1021
-Glazovka 1018
-Kukushkino 1006
-Frontovoye 1006
-Bratskoye 1005
-Novogrigoryevka 1002
-Krivopol'ye 1000
-Zimino 1000
-Kolodeznoye 997
-Vishnyovka 995
-Solovyovka 66
-Topolyovka 222
-Kar'yernoye 994
-Grigor'yevka 288
-Natashino 979
-Shakhtne 975
-Bogatoye 973
-Bogachovka 57
-Bogatovka 902
-Zhemchuzhina 971
-Zhemchuzhyna Kryma 265
-Razdolye 949
-Shevchenkovo 942
-Timoshenko 589
-Timofeyevka 414
-Matveyevka 277
-Zelyonoye 941
-Solyonoye Ozero 838
-Novi Strilyscha 938
-Ilyichevo 938
-Khashchevoye 852
-Lozovyy Yar 930
-Trekhprudnoye 925
-Malovidnoye 914
-Rodnoye 702
-Rodnikovoye 517
-Tavricheskoye 912
-Yermakovo 909
-Rysakovo 701
-Tselinnoye 900
-Krinichnoye 898
-Krinichki 478
-Lobachiv 896
-Udachnoye 896
-Kostochkovka 892
-Varyazh 888
-Kropotkino 882
-Otkrytoye 191
-Tymchenky 881
-Vinogradovo 881
-Novoivanovka 876
-Krayneye 875
-Ray 726
-Novopavlovka 874
-Pshenichnoye 868
-Karpovka 867
-Karasyovka 174
-Dianivka 858
-Oles'k 856
-Uvarovo 855
-Chesniki 852
-Oreanda 835
-Lavanda 206
-Aykavan 692
-Chayka 35
-Sary-Bash 835
-Tokarevo 831
-Lazarevka 78
-Peschanoye 820
-Schastlivoye 348
-Vytachiv 816
-Novoye Selo 815
-Kondratyevo 803
-Chernozemnoye 801
-Susanino 800
-Nadrichne 793
-Hubkiv 788
-Novoklyonovo 788
-Zaprudnoye 788
-Nizhneye Zaprudnoye 161
-Chelyadinovo 785
-Kovyl'noye 783
-Bogdanivka 782
-Dalekoye 782
-Drofino 779
-Perevalovka 776
-Krasnoarmeyskoye 765
-Chetfalva 755
-Horbachi 753
-Vishnyovoye 747
-Zatishnoye 153
-Vishnevoye 249
-Fruktovoye 744
-Viktorovka 736
-Voronove 735
-Balki 730
-Yelizavetovo 726
-Istochnoye 723
-Protochnoye 151
-Nauchny 723
-Novaya Zhizn' 722
-Novaya Derevnya 384
-Marfovka 713
-Markovo 428
-Kholodovka 696
-Lokhovka 419
-Orekhovka 318
-Melekhovo 74
-Suslivtsi 692
-Dunayiv 683
-Pribrezhnoye 671
-Sovetskoye 670
-Plotinnoye 663
-Pidrichchya 663
-Peredovoye 643
-Heroiske 639
-Belaya Skala 632
-Krasnaya Sloboda 138
-Kremnevka 624
-Prokhladnoye 621
-Vozrozhdeniye 610
-Probuzhdeniye 6
-Topoli 609
-Bondarenkovo 600
-Babenkovo 519
-Kommunary 598
-Kommunarnoye 16
-Goncharnoye 591
-Gornoye 147
-Vysokogornoye 127
-Maryevka 591
-Arkadyevka 512
-Martynovka 585
-Bystriivka 584
-Zelyonaya Niva 584
-Nizhniye Oreshniki 581
-Verkhniye Oreshniki 212
-Tylovoye 573
-Lechebnoye 567
-Khlebnoye 278
-Uchebnoye 101
-Vyshnivchyk 567
-Rozgirche 566
-Turgenevo 561
-Novy Mir 557
-Razlivy 556
-Pridorozhnoye 555
-Prirechnoye 391
-Predushchel'noye 549
-Bogatoye Ushchelye 104
-Bogatyr' 164
-Samokhvalovo 545
-Ogni 536
-Rogovo 230
-Katsiveli 529
-Vereshitsa 528
-Risovoye 528
-Okunevka 522
-Met'olkine 511
-Golovanovka 510
-Sevastyanovka 508
-Pikuzy 507
-Dal'neye 498
-Strepetovo 491
-Otvazhnoye 486
-Druzhnoye 169
-Raduzhnoye 2
-Ovrazhnoye 102
-Ovrazhki 36
-Ayvovoye 482
-L'vovo 5
-Timashovka 482
-Mashino 239
-Kopachev 477
-Osipenko 476
-Keramik 469
-Nadezhda 466
-Akropolis 465
-Shakhtino 463
-Vodopoynoye 462
-Sad 461
-Pokrovka 453
-Hrybivka 450
-Svynarka 439
-Kochergino 439
-Vnukovo 439
-Nanikovo 438
-Velikoye 438
-Kiparisnoye 434
-Novosel'tsevo 433
-Novosel'tsy 269
-Velikosel'ye 346
-Kurortnoye 431
-Zhilino 426
-Priyatnoye Svidanye 426
-Almaznoye 423
-Kukuruznoye 66
-Kuznetskoye 391
-Kulikovka 421
-Zaruddya 419
-Bendyuha 418
-Fedorovka 416
-Belokamennoye 416
-Novozburyevka 407
-Stari Petrivtsi 400
-Bol'shoye Sadovoye 397
-Maloye Sadovoye 336
-Nova Orzhytsia 397
-Peny 390
-Opolznevoye 390
-Lineynoye 384
-Stefanovka 384
-Stepanovka 42
-Predmostnoye 378
-Vlastnoye 3
-Zoriane 374
-Hrafs'ke 373
-Traktovoye 372
-Kuntsevo 365
-Subbotnik 361
-Burevestnik 311
-Rastushcheye 356
-Steregushcheye 144
-Chernorechye 354
-Mnogorechye 63
-Rohachi 350
-Krasnaya Zorya 349
-Kamyshnoye 345
-Mysovoye 47
-Novoulyanovka 343
-Novoul'yanovka 239
-Sinekamenka 340
-Trudolyubovo 339
-Kashtanovka 332
-Aromat 330
-Mezhgorye 327
-Mezhevoye 120
-Yuzhnoye 318
-Snegiryovka 317
-Salgirka 1
-Leonovka 312
-Krepkoye 311
-Tsetulya 309
-Vishnyakovka 308
-Holendry 307
-Plodorodnoye 300
-Kirsanovka 299
-Kam'yanka 297
-Kharitonovka 296
-Kirpichnoye 295
-Popovka 292
-Aprelevka 281
-Tsvetushcheye 280
-Semyonovka 280
-Volochayevka 279
-Dokuchayevo 277
-Podgornoye 276
-Trud-Kutok 276
-Tutovka 132
-Kotovka 95
-Vorobiove 275
-Avrora 275
-Vinogradnoe 274
-Utes 274
-Izvestkovoye 274
-Lavrovoye 270
-Prisivashnoye 269
-Yelenovka 267
-Severnoye 266
-Shchurove 264
-Yastrebki 254
-Zorya Truda 252
-Nevskoye 251
-Chapayevo 249
-Libknekhtovka 248
-Mayorove 247
-Yehorove 49
-Novobobrovskoye 247
-Vypasnoye 245
-Dzembronya 245
-Ana-Yurt 243
-Sumskoye 243
-Bitumnoye 242
-Pidlissia 242
-Yastrebtsy 240
-Karpaty 235
-Osoviny 235
-Pobedino 233
-Lebedinka 64
-Sanatornoye 232
-Zelenogor'e 231
-Luzhki 228
-Zvezdnoye 219
-Timiryazevo 219
-Artemovka 216
+Novoazovs'k 12200
 Novoapostolivka 215
-Ponizovka 213
-Zavodskoye 211
-Fontan 209
-Tsvetkovo 209
-Novoyekaterinovka 207
-Sverdlovskoye 203
-Vesyoloye 203
-Hayivka 202
-Chebotarka 202
-Storozhevone 202
-Tikhonovka 201
-Solontsovoye 201
-Zadovha 200
-Khutorok 193
-Huta Lohanivs'ka 192
-Levitanovka 187
-Dibrova 187
-Kudrino 185
-Novi Oleshky 177
-Prolom 177
-Proletarka 166
-Ayvazovskoye 176
-Prolyotnoye 175
-Zarya 175
-Maksimovka 174
-Russkoye 173
-Flotskoye 172
-Krylovka 171
-Sokoly 168
-Novofyodorovka 165
-Fyodorovka 15
-Arbuzovo 165
-Ognevoye 161
-Vershinnoye 158
-Mramornoye 158
-Pesochnoye 156
-Fersmanovo 155
-Ozyornoye 153
-Yastrebovka 153
-Repino 150
-Repyshche 17
-Lazurnoye 148
-Chernychky 145
-Zubakino 144
-Iskra 143
-Naberezhnoye 137
-Pologi 137
-Ryleyevka 137
-Stantsionnoye 136
-Ryumshino 136
-Dobrivlyany 136
-Kubanskoye 136
-Kurpaty 136
-Rossoshchanka 129
-Vulkanovka 129
-Yerofeyevo 129
-Zelyonyi Yar 129
-Siren' 128
-Kamyshinka 127
-Kamyshly 60
-Rezervne 119
-Oboronnoye 107
-Pryamoye 107
-Korolyovo 104
-Vetryanka 104
-Hannivka 100
-Zhivopisnoye 97
-Barabanovo 97
-Furmanovo 97
-Zaytsevo 96
-Ogon'ki 96
-Petropavlovka 91
-Fedorivka 90
-Blagodatnoye 90
-Nakhimovo 90
-Nadezhdino 88
-Romanovo 88
-Nezhinskoye 87
+Sartana 10543
+Boykivske 4423
+Rokytne 11726
+Oktyabr'skoye 10244
+Rovnoye 1399
+Shcherbakovo 614
+Novopskov 9739
+Rozkishne 6205
+Simeykyne 2493
+Bezlyudivka 9294
+Mala Danylivka 7211
+Irshava 9161
+Horinchovo 2959
+Solotvyno 8931
+Bohdan 3155
+Bogdanivka 782
 Grachana greblya 86
-Kachanovka 50
-Verkhnezamorskoye 86
-Opushki 86
-Tunnel'noye 85
-Ordenonosnoye 84
-Snezhnoye 83
-Obryv 80
-Baklanovo 79
-Shalashi 78
-Kopani 71
-Porfir'yevka 71
-Sofiyevka 10
-Yurkino 69
-Opytnoye 64
-Vetvistoye 62
-Gorlinka 62
-Novodolinka 13
-Slivyanka 61
-Uzlovoye 54
-Karpova Balka 54
-Kovrovo 54
-Khodzha-Sala 53
-Pasechnoye 50
-Vyaznikovo 49
-Zhavoronki 49
-Luchevoye 44
-Yakovlevka 39
-Ridny Kraj 33
-Utkino 32
-Vetrovka 27
-Skelka 23
-Ptashkino 23
-Teploe 20
-Okhotnich'e 17
-Shaumyan 17
-Smushkino 17
+Sribne 3534
+Romodan 3225
+Stara Vyzhivka 5466
+Rakiv Lis 2958
+Chebotarka 202
+Yarkoye Pole 4914
+Tokarevo 831
 Tasunovo 14
-Pchelinoye 12
-Borisovka 10
-Krivtsovo 8
-Davydovo 7
-Kolkhoznoye 5
+Prudy 1876
+Khlebnoye 278
+Opolznevoye 390
+Vereshitsa 528
+Drofino 779
+Stanislav 4726
+Lazurne 3127
+Novi Troyany 3992
+Kazanki 358
+Levadki 1036
+Shchebetovka 3442
+Ordzhonikidze 2572
+Stari Bohorodchany 3426
+Verkhnyaya Kutuzovka 751
+Denisovka 972
+Kholmy 3146
+Olesko 1800
+Yesman' 1800
+Novoandreyevka 2778
+Kharitonovka 296
+Vvedenka 2628
+Medvedevka 1270
+Novaya Zhizn' 722
+Muzhiyevo 2086
+Parutyne 1996
+Pukhivka 1996
+Novonikolayevka 1171
+Marfovka 713
+Vyshnivchyk 567
+Nizhnekurgannoye 74
+Predmostnoye 378
+Utes 274
+Chayka 35
+Kudrino 185

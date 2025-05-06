@@ -1,23 +1,23 @@
 
 
 Shimonoseki 255051
-
-Yamaguchi 193966
+Kaminoseki 2342
+Yanai 30799
+Shunan 137540
+Hofu 113979
 
 Ube 162570
-Shunan 137540
-Yanai 30799
-Iwakuni 129125
-Waki 6034
-Hofu 113979
-San'yo-Onoda 60326
-Kudamatsu 55887
-Hikari 49798
-Kaminoseki 2342
+
+Yamaguchi 193966
 Hagi 44626
 Nagato 32519
-Mine 23247
-Suo-Oshima 14798
-Tabuse 14483
-Hirao 11914
 Abu 3055
+Tabuse 14483
+Hikari 49798
+Hirao 11914
+Suo-Oshima 14798
+Iwakuni 129125
+Waki 6034
+San'yo-Onoda 60326
+Mine 23247
+Kudamatsu 55887

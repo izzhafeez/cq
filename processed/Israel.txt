@@ -1,479 +1,479 @@
 
 
 Jerusalem 801000
-Na'ale 1035
-Na'an 1671
-
-Tel Aviv 432892
-Tel Mond 8725
-Kefar Monash 958
-Kefar Yona 21611
-Kefar HaRo'e 1439
-
-Haifa 267300
-Kfar Yasif 9587
-
-Ashdod 224656
-
-Lod 66589
-
-Hod HaSharon 43185
-Ramat HaSharon 36137
-
-Rishon LeZiyyon 220492
-
-Petah Tiqwa 200000
-Et Tira 20786
-Tirat Yehuda 1189
-Or Yehuda 30802
-Yehud 25600
-Yehud-Monosson 29312
-
-Beersheba 186600
-
-Bet Shemesh 67100
-
-Netanya 171676
-Matan 3600
-
-Ramat Gan 128095
-
-Holon 165787
-Nof Ayalon 5000
-
-Bnei Brak 154400
-Giv'at Brenner 2703
-Giv'ati 1022
-Giv'at Ye'arim 1461
-Qiryat Ye'arim 5565
-
-Rehovot 132671
-
-Bat Yam 128979
-Newe Yamin 1189
-Newe Yaraq 1321
-
-Ashkelon 105995
-
-Modi'in Makkabbim Re'ut 88749
+Mevo horon 1771
+Giv'on HaHadasha 1097
 
 Modiin Ilit 64179
-Nili 846
-
-Herzliya 83600
-Herut 1309
-
-Kfar Saba 80773
-Kefar Habad 4771
-Kefar Bilu 1261
-
-Ra'anana 80000
-
-Hadera 75854
-Bene Deror 1221
-
-Nazareth 64800
-Zarzir 7942
-
-Ramla 63860
-Ram On 976
-
-Kiryat Ono 39986
-Kiryat Netafim 690
-
-Nahariyya 51200
-
-Qiryat Ata 48966
-Qiryat Tiv'on 18121
-
-Qiryat Yam 39273
-
-Givatayim 48000
-Shefayim 1276
-Be'erotayim 1154
-
-El'ad 47866
-
-Kiryat Gat 47450
-
-Acre 45603
-Moreshet 1455
-Nesher 21245
-
-Eilat 45588
-Mesillat Ziyyon 1248
-Mevasseret Ziyyon 24409
-'Aseret 998
-Mazkeret Batya 8034
-
-Afula 44930
-Yafa 18905
-
-Karmi'el 44382
-
-Shefar'am 41558
-
-Nazerat 'Illit 41169
-Yoqne'am 'Illit 23311
-I'billin 13128
-
-Umm el Fahm 41030
-El Fureidis 9999
-Bir el Maksur 7106
-Deir el Asad 12348
-Deir Hanna 8417
-Hannaton 963
-Kafr Kanna 17606
-Kafr Misr 2400
-Kafr Manda 15014
-Kafr Kamma 2990
-Kammana 1495
-Rummana 1191
-Rumat Heib 1588
-
-Tiberias 39790
-Poria Illit 1117
-Zippori 616
-
-Qiryat Mozqin 39404
+Hazor HaGelilit 9165
+Allon HaGalil 1115
+Nir Gallim 1373
+Be'er Toviyya 1214
+Be'er Ganim 1295
+'Arugot 1164
+Mishmarot 979
+Bene 'Atarot 975
 
 Rosh Ha'Ayin 39215
 Sha'ar Efrayim 1893
 Bet Yizhaq Sha'ar Hefer 2079
-Tel Yizhaq 1017
-Bet Yizhaq 1674
-
-Ness Ziona 38700
-
-Qiryat Bialik 36551
-Dimona 33558
-Et Taiyiba 32978
-Yavne 31774
-Gan Yavne 22453
-Qevuzat Yavne 976
-Baqa el Gharbiya 29393
-Safed 27816
-Gedera 26217
-Be'er Ya'aqov 26122
-Tamra 25917
-Rama 7650
-Hamam 1473
-Daliyat al Karmel 25000
-Tirat Karmel 18993
-Geva' Karmel 1196
-Gevat 935
-'Ar'ara 24904
-Migdal Ha'Emeq 24800
-Mishmar Ha'Emeq 1255
-Sakhnin 24596
-Netivot 24564
-Ofaqim 24311
-Laqiyya 13394
-Arad 23700
-Qiryat Mal'akhi 23124
-Zikhron Ya'aqov 23075
-'En Ya'aqov 1106
-Sde Ya'aqov 1108
-Kadima Zoran 22490
-Mazor 1334
-HaZore'im 1035
-Azor 16201
-Qiryat Shemona 22035
-Hura 21558
-maalot Tarshiha 21400
-Kuseifa 21079
-Nehusha 1371
-Nehora 1175
-Shoresh 1249
-Yashresh 1010
-Shoham 20740
-Sederot 20228
-Tel Sheva' 20204
-Rahat 19586
-Tifrah 2163
-Maghar 18915
-Yif'at 18905
-Giv'at Ela 1973
-Giv'at Avni 1976
-Kafr Qari' 18675
-Giv'at Shmuel 18500
-Ariel 17668
-Bet 'Arif 1156
-Bet El'azari 6042
-'Ar'ara BaNegev 17640
-Judeida Makr 17530
-Kafr Qasim 17303
-Kafr Bara 3594
-Yirka 17003
+Ein Sarid 1603
+Yanuv 933
+Yuvallim 1105
 Kefar Sirkin 1495
-Qalansuwa 16898
-Bet She'an 16800
-Ganei Tikva 16053
-Binyamina-Giv'at Ada 15627
-Er Reina 15621
-Bu'eina 7900
-'Ein Mahil 13130
-Nein 1588
-Majd el Kurum 15292
-Tal El 1174
-Even Yehuda 15221
-Maale Iron 14833
-Jisr ez Zarqa 14692
-'Isfiya 12354
-Jatt 11798
-Iksal 11398
-Sallama 1800
-Majdal Shams 11044
-'Aramsha 1662
-Qiryat 'Eqron 10999
-Rekhasim 10682
-Zekharya 1108
-Segev Shalom 10362
+Kefar Habad 4771
+Kefar Bilu 1261
+'Aseret 998
+Shetulim 2054
+Ge'ullim 954
+Bet Hilqiyya 1221
+Poriyya 1202
+Dabburiya 8305
+Sulam 2426
+Yesud HaMa'ala 1719
+
+Hod HaSharon 43185
+Kefar HaRo'e 1439
+Nordiyya 2264
+Tel Mond 8725
+El Mazra'a 3900
+
+Qiryat Yam 39273
+Zerufa 1106
+I'billin 13128
+Ben Zakkay 1115
+'En Dor 1026
+'En Boqeq 1400
+Lehavim 6000
+Sha'alvim 1899
+
+Lod 66589
+
+Rishon LeZiyyon 220492
+Na'an 1671
+Sha'av 6941
 Nahf 10105
-Beit Jann 10002
-Beit Horon 1115
-Basma 9779
-Basmat Tab'un 6300
-Bu'ayna-Nujaydat 9645
-Kabul 9497
+Nahal Teqoa' 3882
+Eshta'ol 1252
+
+Modi'in Makkabbim Re'ut 88749
+Shoresh 1249
+Nehora 1175
+Sederot 20228
+
+Hadera 75854
+Bene Deror 1221
+Qalansuwa 16898
+Kokhav Ya'ir 8773
+Sde Warburg 1486
+Sde Nehemya 1216
+Buqei'a 5200
+Bareqet 2035
+Bar Yuhay 1062
+Ramat Yishay 5431
+Ramat Yohanan 982
+Bir el Maksur 7106
+Kaukab Abu el Hija 2800
 Kabri 1051
 Ka'abiyya 5408
-Hazor HaGelilit 9165
-Kokhav Ya'ir 8773
-Kisra-Sume'a 8649
-Me'ona 963
-Yeroham 8631
-Meitar 8438
-Mevo Betar 857
-Mevo horon 1771
-Dabburiya 8305
-Poriyya 1202
-Bi'na 8299
-'Ilut 8192
-Bnei Ayish 7920
-'Omer 7586
-Merkaz Shapira 2210
+Qiryat Tiv'on 18121
+Et Tira 20786
+
+Kfar Saba 80773
+Kfar NaOranim 2509
+Kefar Netter 1222
+Shefayim 1276
+Newe Yamin 1189
+
+Bat Yam 128979
+Yehud 25600
+Azor 16201
+Be'er Ya'aqov 26122
+Be'eri 1037
+Berekhya 1273
+
+Ashdod 224656
+Yashresh 1010
+Nesher 21245
+Herut 1309
+Tirat Yehuda 1189
+Tirat Karmel 18993
+Zekharya 1108
+Kokhav HaShahar 2122
+Kokhav Michael Sobell 1053
+Tel Sheva' 20204
+Kuseifa 21079
+Kefar Rosh HaNiqra 1143
+Kefar Yona 21611
+Nizzane 'Oz 1120
+Ahuzzat Baraq 2256
+Taiyiba 1843
+Ashdot Ya'aqov Ihud 981
+Bet She'an 16800
+Shibli 4800
+Yafa 18905
+Afiqim 1494
+Nofit 2672
+Manshiyet Zabda 1325
+Harduf 1106
+Maghar 18915
 Harish 7569
-Jaljulya 7505
-Ge'alya 990
+Nes Harim 1380
+Li On 1095
+El'azar 2510
+Har Adar 3300
+Binyamina-Giv'at Ada 15627
+Giv'at Ela 1973
+Giv'at Shmuel 18500
+Giv'at Ye'arim 1461
+Giv'at Avni 1976
+Rummana 1191
+Shimshit 2547
+Tushiyya 977
+
+Ashkelon 105995
+Kefar Monash 958
 Elyakhin 2728
-Katzrin 7132
-'Azriqam 1455
+Sdot Yam 1055
+Kafr Qari' 18675
+Atlit 4500
+Meisir 1970
+Herev Le'et 945
+Ge'alya 990
+Mefallesim 1006
+Sallama 1800
+Kisra-Sume'a 8649
+Fassuta 2985
+Mazzuva 1171
+Bustan HaGalil 1305
+Ma'agan Mikha'el 1992
 Bet Dagan 7099
 Bet Rabban 979
 Bet 'Ezra 1137
 Ahi'ezer 1872
-Sha'av 6941
-Zemer 6940
-Mishmeret 1082
-Mishmar HaNegev 933
-Segev 1120
-Tuba Zangariya 6667
-Rihaniya 1184
-'Ein Quniya 2063
-Yanuh-Jat 6614
-Yanuah Jat 6614
+Gimzo 1206
+
+Givatayim 48000
+Mazor 1334
+Kadima Zoran 22490
+Megadim 1329
+Dimona 33558
+Qiryat Shemona 22035
+
+Qiryat Mozqin 39404
+Judeida Makr 17530
+'Ein Mahil 13130
+Bu'eina 7900
+'Ein Naquba 3424
+
+Bet Shemesh 67100
+Ramat HaKovesh 1730
+
+Ramat Gan 128095
+
+Herzliya 83600
+Daliyat al Karmel 25000
+
+Karmi'el 44382
+Shelomi 5608
 Julis 6375
 Sajur 3547
-Pardesiyya 6254
-Nordiyya 2264
-Tsur Itshak 6044
-Lehavim 6000
-Revivim 1081
-Devira 999
-Shibli-Umm al-Ghanam 5995
-Shibli 4800
-Bet HaShitta 1264
-Shimshit 2547
-Tel 'Adashim 1480
-'Adi 1920
-Megadim 1329
-Bir Hadaj 5735
-Zur Hadassa 4700
-Giv'on HaHadasha 1097
-Kokhav HaShahar 2122
-Abu Ghaush 5707
-AlSayid Tribe 5663
-Bet Zayit 1678
-Kefar Weradim 5608
-Shelomi 5608
-Ramat Yishay 5431
-Ramat Yohanan 982
-Bat Hefer 5342
-Hurfeish 5308
-Jish 2684
-Buqei'a 5200
-'Eilabun 4400
-Mitzpe Ramon 4769
-Caesarea 4500
-Ein Sarid 1603
-Ein Vered 1512
-Atlit 4500
-Yad Binyamin 4175
-Umm Batin 4093
-Muqeibila 4030
-El Mazra'a 3900
-Nahal Teqoa' 3882
-Savyon 3434
-'Ein Naquba 3424
-Har Adar 3300
-Fassuta 2985
-Yavne'el 2900
-Tel Qatsir 2878
-Kaukab Abu el Hija 2800
-Talmon 2797
-Gan Ner 2704
-Nofit 2672
-Hashmonaim 2610
-Bet Hashmonay 2190
-El Ghajar 2607
-'Uzeir 2591
-El'azar 2510
-Kfar NaOranim 2509
-Lapid 2497
-Qidron 1619
-Bizzaron 1267
-Nizzan 2343
-Rosh Pinna 2492
-Mizpe Yeriho 2453
-Sulam 2426
-Zur Moshe 2400
-Kefar Tavor 2323
-Esh Sheikh Dannun 2305
-Na'ura 2277
-Ahuzzat Baraq 2256
-Nehalim 2061
-Ma'galim 2059
-Nir Gallim 1373
-Be'er Ganim 1295
-Be'eri 1037
-Shetulim 2054
-Bareqet 2035
-Ibtin 2020
-Kefar Vitqin 2013
-Ma'agan Mikha'el 1992
-Mikhmoret 1370
-Meisir 1970
-Migdal 1941
-Sha'alvim 1899
-Taiyiba 1843
-Khirbat Abu Tulul 1822
-Timrat 1789
-Kefar Shemaryahu 1774
-Kefar Shemu'el 933
-Karme Yosef 1730
-Ramat HaKovesh 1730
-Yesud HaMa'ala 1719
-Gesher HaZiw 1644
-Newe Ziw 962
-Shave Ziyyon 1141
-Sandala 1609
-Kfar Hess 1577
-Sde 'Uziyyahu 1549
-Afiqim 1494
-Reshafim 1040
-Sde Warburg 1486
-Sde Hemed 1017
-Hemed 1257
-Metulla 1466
-Rishpon 1445
-'En Boqeq 1400
-'En Gedi 603
-Yoqneam 1398
-Bet Qama 1396
-Bene Re'em 1387
-Kammon 1384
-Nes Harim 1380
-Ahisamakh 1374
-Ma'or 1366
-Tal Shahar 1366
-Kefar Menahem 1365
-Mazliah 1350
-Manshiyet Zabda 1325
-Bustan HaGalil 1305
-Allon HaGalil 1115
-Allone Abba 991
+Yanuh-Jat 6614
 Gilon 1029
-Berekhya 1273
-Zofit 1271
-Revava 1262
-Eshta'ol 1252
-'En HaMifraz 1238
-Kefar Netter 1222
-Bet Hilqiyya 1221
-Mabbu'im 1217
-Sde Nehemya 1216
-Be'er Toviyya 1214
-Gimzo 1206
-Drijat 1199
-Elishama' 1199
-Dolev 1195
-Rinnatya 1195
-'En Ayyala 1177
-Yinnon 1176
-Mazzuva 1171
-Yuvallim 1105
-'Arugot 1164
-Ramot Menashe 1144
-Giv'ot Bar 1143
-Kefar Rosh HaNiqra 1143
-Kefar Warburg 1142
-Giv'at Hayyim Ihud 1137
-Ayyelet HaShahar 1134
-Nirit 1132
-Hosen 1130
-'Amminadav 1126
-Nizzane 'Oz 1120
-'Olesh 1119
-Mefallesim 1006
-Ben Zakkay 1115
-'En Dor 1026
-Harduf 1106
-Zerufa 1106
-Sitriyya 1101
-Midreshet Ben-Gurion 1100
-Hulda 1096
-Li On 1095
-Tirabin al-Sana 1089
+Kfar Yasif 9587
+Deir el Asad 12348
+Kammana 1495
+
+Ra'anana 80000
 Yarhiv 1086
-Regba 1085
-Zetan 1081
-Ramat HaShofet 1067
-Bar Yuhay 1062
-Sdot Yam 1055
-Bahan 1054
-Bet Yehoshua' 1054
-Kokhav Michael Sobell 1053
+Tsur Itshak 6044
+Zur Hadassa 4700
+Gannot Hadar 960
+Yinnon 1176
+Rosh Pinna 2492
+Hurfeish 5308
+Kammon 1384
+Bu'ayna-Nujaydat 9645
+Zippori 616
+Even Sappir 730
+Lapid 2497
+Karme Yosef 1730
+Yad Binyamin 4175
+'Amminadav 1126
+Mesillat Ziyyon 1248
+
+Eilat 45588
+AlSayid Tribe 5663
+Tifrah 2163
+Segev Shalom 10362
+Bir Hadaj 5735
+Hura 21558
+Bet Qama 1396
+Umm Batin 4093
+Giv'ati 1022
 Mash'en 1052
-Raqqefet 1049
+'En Ya'aqov 1106
+Hannaton 963
+Kafr Kanna 17606
+Kafr Misr 2400
+Er Reina 15621
+Bene Re'em 1387
+Kefar Warburg 1142
+Qevuzat Yavne 976
+Bet El'azari 6042
+
+Nazareth 64800
+Nein 1588
+Bnei Ayish 7920
+Ganei Tikva 16053
+
+Tel Aviv 432892
+Revivim 1081
+Giv'ot Bar 1143
+Meitar 8438
+Khirbat Abu Tulul 1822
+Tirabin al-Sana 1089
+Shibli-Umm al-Ghanam 5995
+Yif'at 18905
+
+Afula 44930
+Zur Moshe 2400
+Moreshet 1455
+Beit Horon 1115
+Ramat HaSharon 36137
+Rama 7650
+Majd el Kurum 15292
+
+Umm el Fahm 41030
+El Fureidis 9999
+'Ar'ara 24904
+Arad 23700
+Kafr Bara 3594
+Kafr Kamma 2990
+Iksal 11398
+Kefar Tavor 2323
+Tel 'Adashim 1480
+
+El'ad 47866
+Hemed 1257
 Menahemya 1032
+Ramot Menashe 1144
+'Isfiya 12354
+'Ein Quniya 2063
+Nov 931
+Tzova 653
+Revava 1262
+Geva' Karmel 1196
+Rekhasim 10682
+
+Shefar'am 41558
+Kefar Shemaryahu 1774
+Even Yehuda 15221
+
+Netanya 171676
+Kiryat Netafim 690
+Nili 846
+Ahisamakh 1374
+Hamam 1473
+Shoham 20740
+
+Kiryat Ono 39986
+
+Qiryat Ata 48966
+Allone Abba 991
+
+Holon 165787
+Nof Ayalon 5000
+Mazliah 1350
+Hulda 1096
+Kabul 9497
+'Eilabun 4400
+Rumat Heib 1588
+Ramat HaShofet 1067
+Zikhron Ya'aqov 23075
+Tal Shahar 1366
+Ayyelet HaShahar 1134
+Bet Hashmonay 2190
+
+Rehovot 132671
+Lahavot Haviva 992
 Mizpe Aviv 1024
+Mitzpe Ramon 4769
 Mizpe Netofa 1002
+Migdal 1941
+Majdal Shams 11044
+Beit Jann 10002
+Bi'na 8299
+Hanni'el 933
 Bet Gamli'el 1019
+Sitriyya 1101
+Yavne 31774
+Mazkeret Batya 8034
+
+Ness Ziona 38700
+Newe Ziw 962
+Tal El 1174
+
+Acre 45603
+Tamra 25917
+
+Ramla 63860
+'Aramsha 1662
+Yirka 17003
+Hosen 1130
+Segev 1120
+'Ar'ara BaNegev 17640
+Zetan 1081
+Mevo Betar 857
+Qiryat Ye'arim 5565
+Bet Zayit 1678
+Bet HaShitta 1264
+Muqeibila 4030
+Migdal Ha'Emeq 24800
+Mishmar Ha'Emeq 1255
+Mishmeret 1082
+Tel Yizhaq 1017
+Bet Yizhaq 1674
+Kefar Vitqin 2013
+Pardesiyya 6254
+
+Nahariyya 51200
+maalot Tarshiha 21400
+Esh Sheikh Dannun 2305
+Kefar Weradim 5608
+Yanuah Jat 6614
+Jatt 11798
+Kefar Shemu'el 933
+Kefar Menahem 1365
+Emunim 979
+Sde 'Uziyyahu 1549
+Sde Hemed 1017
+Sde Ya'aqov 1108
+Ibtin 2020
+
+Tiberias 39790
+Deir Hanna 8417
+Raqqefet 1049
+Newe Yaraq 1321
+Nehalim 2061
+Kafr Qasim 17303
+Zofit 1271
+Nirit 1132
+Rihaniya 1184
+Mizpe Yeriho 2453
+Neve Ilan 959
+Shave Ziyyon 1141
+Mevasseret Ziyyon 24409
+Rinnatya 1195
+Abu Ghaush 5707
+Nehusha 1371
+Talme Yehi'el 985
+Merkaz Shapira 2210
+Zemer 6940
+Mishmar HaNegev 933
+Bat Hefer 5342
+Et Taiyiba 32978
+Basmat Tab'un 6300
+Timrat 1789
+
+Nazerat 'Illit 41169
+Poria Illit 1117
+Tel Qatsir 2878
+Yavne'el 2900
+Na'ura 2277
+Na'ale 1035
+Bet 'Arif 1156
+Or Yehuda 30802
+
+Petah Tiqwa 200000
+Yehud-Monosson 29312
+
+Bnei Brak 154400
+Giv'at Brenner 2703
+Gedera 26217
+'En Gedi 603
+'En Ayyala 1177
+Basma 9779
+Jisr ez Zarqa 14692
+Mikhmoret 1370
+Giv'at Hayyim Me'uhad 1006
+'Olesh 1119
+Dolev 1195
+Hashmonaim 2610
+Talmon 2797
+HaZore'im 1035
+
+Haifa 267300
+'Adi 1920
+Zarzir 7942
+Bizzaron 1267
+Qiryat Mal'akhi 23124
+Ram On 976
+Qidron 1619
+Midreshet Ben-Gurion 1100
+Ofaqim 24311
+Devira 999
+Beror Hayil 986
+Giv'at Hayyim Ihud 1137
+Negba 952
+Regba 1085
+'En HaMifraz 1238
+
+Qiryat Bialik 36551
+
+Beersheba 186600
+Ma'galim 2059
+'Omer 7586
+Drijat 1199
+Laqiyya 13394
+Elishama' 1199
+
+Kiryat Gat 47450
+Ge'a 970
+Nizzan 2343
+Tuba Zangariya 6667
+Jish 2684
+Rishpon 1445
+Kfar Hess 1577
+Ein Vered 1512
+Baqa el Gharbiya 29393
+Be'erotayim 1154
+Be'er Ora 965
+Yeroham 8631
+Safed 27816
+Sakhnin 24596
+'Uzeir 2591
+'Azriqam 1455
+Katzrin 7132
 Bet Guvrin 1016
 Zelafon 1016
-Giv'at Hayyim Me'uhad 1006
-Lahavot Haviva 992
+Netivot 24564
+Rahat 19586
+Bahan 1054
+Ma'or 1366
 Gan Yoshiyya 990
-Beror Hayil 986
-Talme Yehi'el 985
-Ashdot Ya'aqov Ihud 981
-Emunim 979
-Mishmarot 979
-Bene 'Atarot 975
-Tushiyya 977
-Ge'a 970
-Be'er Ora 965
-Dafna 965
-Gannot Hadar 960
-Neve Ilan 959
-Ge'ullim 954
-Negba 952
-Herev Le'et 945
+Gan Ner 2704
+Gan Yavne 22453
+Yoqne'am 'Illit 23311
 Nir 'Ezyon 939
-Hanni'el 933
-Yanuv 933
-Nov 931
-Even Sappir 730
+Qiryat 'Eqron 10999
+Ariel 17668
+Jaljulya 7505
+Matan 3600
+Kafr Manda 15014
+Me'ona 963
+Maale Iron 14833
+Gevat 935
+'Ilut 8192
+Caesarea 4500
+Savyon 3434
+El Ghajar 2607
 Marom Golan 700
-Tzova 653
+Metulla 1466
+Gesher HaZiw 1644
+Sandala 1609
+Reshafim 1040
+Yoqneam 1398
+Mabbu'im 1217
+Bet Yehoshua' 1054
+Dafna 965

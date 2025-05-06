@@ -1,103 +1,103 @@
 
 
 Rio de Janeiro 6747815
-
-Sao Goncalo 1091737
-
-Duque de Caxias 924624
-Queimados 151335
-
-Nova Iguacu 823302
-
-Niteroi 515317
-Teresopolis 184240
-Nilopolis 162693
-
-Petropolis 306678
-
-Belford Roxo 513118
+Trajano de Moraes 10640
+Cardoso Moreira 12821
+Sao Francisco de Itabapoana 42210
+Itaperuna 103800
+Cambuci 15514
 
 Campos dos Goytacazes 511168
+Conceicao de Macabu 23398
+Sao Fidelis 38710
 
 Sao Joao de Meriti 472906
 
-Volta Redonda 273988
-Angra dos Reis 207044
+Sao Goncalo 1091737
+
+Belford Roxo 513118
+Seropedica 83092
+
+Petropolis 306678
+Nilopolis 162693
+Teresopolis 184240
+Paraiba do Sul 44518
+Paraty 43680
+Quatis 14435
 Barra do Pirai 100764
 Barra Mansa 184833
-Macae 261501
-Cachoeiras de Macacu 59303
-Mage 246433
-Itaborai 242543
+Santa Maria Madalena 10392
+Marica 164504
+Guapimirim 61388
+
+Niteroi 515317
+Rio Bonito 60573
 Cabo Frio 230378
 Nova Friburgo 191158
-Mesquita 176569
-Marica 164504
-Rio das Ostras 155193
-Duas Barras 11528
-Itaguai 134819
-Araruama 134293
-Resende 132312
-Mendes 18648
-Sao Pedro da Aldeia 106049
-Sao Sebastiao do Alto 9387
-Japeri 105548
-Itaperuna 103800
-Aperibe 11901
-Saquarema 90583
-Seropedica 83092
-Tres Rios 82142
-Rio das Flores 9344
-Valenca 76869
-Guapimirim 61388
-Tangua 34610
-Rio Bonito 60573
-Paracambi 52683
-Mangaratiba 45220
-Paraty 43680
-Casimiro de Abreu 45041
-Paraiba do Sul 44518
-Santo Antonio de Padua 42594
-Sao Francisco de Itabapoana 42210
-Bom Jesus do Itabapoana 37203
-Bom Jardim 27616
 Silva Jardim 21774
-Sao Fidelis 38710
-Vassouras 37083
-Sao Joao da Barra 36423
-Sao Jose de Uba 7206
-Armacao dos Buzios 34477
-Conceicao de Macabu 23398
-Itatiaia 32064
-Quatis 14435
-Arraial do Cabo 30593
-Pirai 29545
-Pinheiral 25364
-Engenheiro Paulo de Frontin 14071
-Iguaba Grande 28837
-Paty do Alferes 27858
-Miracema 27154
-Miguel Pereira 25581
-Quissama 25126
-Itaocara 23222
-Carapebus 16586
-Cordeiro 22041
-Sao Jose do Vale do Rio Preto 21916
-Cantagalo 20168
-Santa Maria Madalena 10392
-Porto Real 19974
-Carmo 19030
-Porciuncula 18960
-Rio Claro 18605
-Sapucaia 18249
-Sumidouro 15667
-Cambuci 15514
-Natividade 15311
 Italva 15299
-Cardoso Moreira 12821
-Trajano de Moraes 10640
-Areal 12669
-Varre-Sai 11106
-Comendador Levy Gasparian 8576
 Laje do Muriae 7326
+Aperibe 11901
 Macuco 5623
+Macae 261501
+Sao Sebastiao do Alto 9387
+Bom Jardim 27616
+Bom Jesus do Itabapoana 37203
+Porciuncula 18960
+Santo Antonio de Padua 42594
+Sao Jose de Uba 7206
+Itaocara 23222
+Carmo 19030
+Sao Jose do Vale do Rio Preto 21916
+Comendador Levy Gasparian 8576
+Mendes 18648
+Queimados 151335
+Armacao dos Buzios 34477
+Araruama 134293
+Casimiro de Abreu 45041
+Sao Pedro da Aldeia 106049
+Saquarema 90583
+Miracema 27154
+Pirai 29545
+Rio Claro 18605
+Itaguai 134819
+Engenheiro Paulo de Frontin 14071
+Pinheiral 25364
+Porto Real 19974
+Areal 12669
+Paty do Alferes 27858
+Japeri 105548
+Vassouras 37083
+Sumidouro 15667
+Cantagalo 20168
+Duas Barras 11528
+Sapucaia 18249
+Arraial do Cabo 30593
+Itaborai 242543
+Cachoeiras de Macacu 59303
+Mage 246433
+Tangua 34610
+Mangaratiba 45220
+Paracambi 52683
+Miguel Pereira 25581
+
+Nova Iguacu 823302
+Iguaba Grande 28837
+
+Duque de Caxias 924624
+Mesquita 176569
+Quissama 25126
+Sao Joao da Barra 36423
+Carapebus 16586
+Rio das Ostras 155193
+Rio das Flores 9344
+Tres Rios 82142
+
+Volta Redonda 273988
+Angra dos Reis 207044
+Itatiaia 32064
+Resende 132312
+Valenca 76869
+Cordeiro 22041
+Natividade 15311
+Varre-Sai 11106

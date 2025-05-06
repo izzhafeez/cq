@@ -3,41 +3,41 @@
 Bishkek 900000
 
 Osh 200000
-
-Jalal-Abad 75700
-
-Karakol 70171
+Tossor 900
+Tyup 13437
+Cholpon-Ata 18595
+Kochkor-Ata 14814
+Kara Suu 17800
+Nookat 14371
 
 Tokmok 63047
+Sosnovka 5885
 Toktogul 19336
-Kara-Balta 62796
-Naryn 52300
-Uzgen 40360
-Balykchy 40000
+
+Jalal-Abad 75700
 Talas 35172
-Kyzyl-Kyya 32000
-Bazar-Korgon 27704
-Iradan 26200
+Kara-Balta 62796
+
+Karakol 70171
 Karavan 1100
-Tash-Kumyr 23594
-Kant 20181
-Cholpon-Ata 18595
-Kara Suu 17800
-Isfana 16952
+Iradan 26200
+Kyzyl-Eshme 1100
 Kyzyl-Suu 16927
-At-Bashi 15226
-Suluktu 15019
-Kochkor-Ata 14814
-Nookat 14371
-Kerben 14141
-Tyup 13437
+Kyzyl-Kyya 32000
+Naryn 52300
+Isfana 16952
 Aydarken 11857
 Batken 10155
-Ak-Suu 10823
-Kaindy 10616
-Kemin 10295
-Sosnovka 5885
+Suluktu 15019
+Uzgen 40360
+Bazar-Korgon 27704
 Daroot-Korgon 4700
+Balykchy 40000
 Kadzhi-Say 4000
-Kyzyl-Eshme 1100
-Tossor 900
+Ak-Suu 10823
+Tash-Kumyr 23594
+At-Bashi 15226
+Kemin 10295
+Kaindy 10616
+Kant 20181
+Kerben 14141

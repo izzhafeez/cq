@@ -1,38 +1,38 @@
 
 
 Bydgoszcz 363926
-Pakosc 5870
-
-Torun 204954
-
-Wloclawek 116783
-Inowroclaw 76087
-
-Grudziadz 98726
-Brodnica 28416
-Swiecie 26650
-Chelmno 20934
-Chelmza 15250
 Naklo nad Notecia 19542
-Rypin 16902
+Koronowo 11332
+Nowe 6295
+Chelmza 15250
 Solec Kujawski 15596
 Aleksandrow Kujawski 12614
-Lipno 15080
-Znin 14381
-Wabrzezno 14242
-Tuchola 14022
-Golub-Dobrzyn 12959
-Mogilno 12547
-Strzelno 5885
-Koronowo 11332
-Ciechocinek 10921
-Szubin 9532
-Sepolno Krajenskie 9336
+Inowroclaw 76087
+
+Wloclawek 116783
 Kruszwica 9330
-Janikowo 9186
-Gniewkowo 7428
-Barcin 7911
-Biale Blota 6323
-Nowe 6295
-Wiecbork 6012
+Pakosc 5870
+Strzelno 5885
+Wabrzezno 14242
+Chelmno 20934
+
+Grudziadz 98726
 Radziejow 5944
+Gniewkowo 7428
+Janikowo 9186
+Barcin 7911
+Ciechocinek 10921
+Golub-Dobrzyn 12959
+Lipno 15080
+Rypin 16902
+Znin 14381
+Mogilno 12547
+
+Torun 204954
+Brodnica 28416
+Swiecie 26650
+Wiecbork 6012
+Biale Blota 6323
+Szubin 9532
+Tuchola 14022
+Sepolno Krajenskie 9336

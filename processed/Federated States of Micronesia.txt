@@ -1,45 +1,45 @@
 
 
 Weno 13856
-
-Palikir 6647
-
-Nett 6639
+Uman 2254
+Romanum 865
+Tol 4579
+Tomil 1231
+Ulithi 847
 
 Kitti 6470
 
-Kolonia 6074
+Palikir 6647
 Madolenihmw 5767
-Tol 4579
-Dublon 3517
-Fefen 3471
-U 3192
-Colonia 3126
-Uman 2254
-Romanum 865
-Tafunsak 2173
-Lelu 2160
-Malem 1300
-Nema 676
-Udot 1680
-Tomil 1231
-Pollap 1168
-Polowat 745
-Houk 1116
-Onoun 633
 Woleai 1039
-Utwe 983
-Moch 932
-Gagil 863
-Lekinoch 848
-Ulithi 847
-Nomwin 763
+Tamatam 493
+Satawal 501
 Satowan 692
+Dublon 3517
+Moch 932
+Udot 1680
+Fefen 3471
 Fanapanges 672
 Fananu 580
-Ettal 672
+Nomwin 763
+Lekinoch 848
+Nema 676
+Malem 1300
+U 3192
+
+Kolonia 6074
+Colonia 3126
 Maap 621
-Ifalik 578
+Pollap 1168
+Onoun 633
+Houk 1116
+Polowat 745
+
+Nett 6639
+Ettal 672
+Tafunsak 2173
+Utwe 983
+Lelu 2160
+Gagil 863
 Fanif 509
-Satawal 501
-Tamatam 493
+Ifalik 578

@@ -1,88 +1,88 @@
 
 
 Katowice 310764
-Ornontowice 5733
-
-Czestochowa 236796
-Swietochlowice 53150
-Myslowice 75446
-
-Sosnowiec 216420
-Siemianowice Slaskie 70170
-Miasteczko Slaskie 7524
-Piekary Slaskie 57917
-
-Gliwice 187474
+Wilkowice 6761
+Wojkowice 9233
+Radzionkow 17203
 
 Zabrze 181128
-Orzesze 19539
+Zebrzydowice 5368
+Zory 62094
+Chorzow 111692
+Pszow 14418
+Pszczyna 26066
+Pisarzowice 5190
+Marklowice 5365
+Pawlowice 9771
+Goczalkowice-Zdroj 6566
+Kozy 12271
+Zywiec 32449
+
+Sosnowiec 216420
+Swietochlowice 53150
+Czeladz 33745
 
 Bytom 176902
+Ornontowice 5733
 
-Bielsko-Biala 174534
-Bierun 19876
-
-Ruda Slaska 142510
+Gliwice 187474
+Orzesze 19539
 
 Rybnik 140924
 Mikolow 39505
-Tychy 129378
-Chorzow 111692
-Dabrowa Gornicza 125905
-Jaworzno 94732
-Jastrzebie-Zdroj 92465
-Ustron 15956
-Zory 62094
-Tarnowskie Gory 60847
-Laziska Gorne 22279
-Bedzin 59068
-Ledziny 16426
-Raciborz 56289
-Kuznia Raciborska 5587
-Zawiercie 52091
-Siewierz 5514
-Wodzislaw Slaski 49346
-Knurow 39595
-Cieszyn 36248
-Pszczyna 26066
-Czechowice-Dziedzice 35445
-Czeladz 33745
-Radzionkow 17203
-Myszkow 32817
-Zywiec 32449
-Czaniec 5680
-Czerwionka-Leszczyny 28626
+Myslowice 75446
+Bierun 19876
+
+Bielsko-Biala 174534
+Imielin 8322
 Lubliniec 24394
-Rydultowy 22070
-Pyskowice 18770
-Wojkowice 9233
-Radlin 18105
-Skoczow 14892
-Pszow 14418
-Klobuck 13250
-Kozy 12271
-Wisla 11335
-Blachownia 9941
-Pawlowice 9771
-Marklowice 5365
+
+Czestochowa 236796
 Poreba 8861
 Koniecpol 6345
-Kalety 8676
-Wola 8657
-Imielin 8322
+Klobuck 13250
+Siewierz 5514
 Swierklany 7652
-Lazy 7215
-Slawkow 7088
-Lodygowice 6989
-Jaworze 6786
-Wilkowice 6761
-Bojszowy 6584
-Goczalkowice-Zdroj 6566
-Brenna 6148
-Chelm Slaski 6023
-Szczyrk 5801
+Rydultowy 22070
+Kuznia Raciborska 5587
+Blachownia 9941
 Radziechowy 5454
-Zebrzydowice 5368
-Pisarzowice 5190
-Jasienica 5088
 Istebna 5076
+Jaworze 6786
+Ustron 15956
+Knurow 39595
+Dabrowa Gornicza 125905
+Laziska Gorne 22279
+Lazy 7215
+Bedzin 59068
+Czechowice-Dziedzice 35445
+Wola 8657
+Wodzislaw Slaski 49346
+Chelm Slaski 6023
+Piekary Slaskie 57917
+Miasteczko Slaskie 7524
+Siemianowice Slaskie 70170
+
+Ruda Slaska 142510
+Tychy 129378
+Kalety 8676
+Ledziny 16426
+Jaworzno 94732
+Slawkow 7088
+Wisla 11335
+Jasienica 5088
+Szczyrk 5801
+Czerwionka-Leszczyny 28626
+Radlin 18105
+Jastrzebie-Zdroj 92465
+Tarnowskie Gory 60847
+Pyskowice 18770
+Raciborz 56289
+Zawiercie 52091
+Cieszyn 36248
+Brenna 6148
+Lodygowice 6989
+Czaniec 5680
+Myszkow 32817
+Skoczow 14892
+Bojszowy 6584

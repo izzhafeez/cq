@@ -1,138 +1,138 @@
 
 
 Ho Chi Minh City 8993082
-
-Hanoi 8053663
-
-Hai Phong 2028514
-Hai Duong 58030
-
-Can Tho 1235171
-My Tho 122310
-Vi Thanh 24477
-Quan Duc Thanh 70000
-Quan Duc Thinh 132000
-
-Bien Hoa 1226700
-
-Da Nang 1134310
-Da Lat 197000
-
-Thu Duc 1013795
-
-Thu Dau Mot 457130
+Vinh Chau 164680
+Lai Chau 42973
+Tuyen Quang 36430
+Long Xuyen 158153
+Vinh Long 103314
+Cao Lanh 63770
 Chau Doc 70239
 
-Hue 652572
-Phu Ly 158212
-Phu Ninh 4000
-Bac Ninh 259924
+Thu Dau Mot 457130
+Long Khanh 245040
+An Khe 81600
+Phu Khuong 47966
+Hong Ngu 100610
+Cai Lay 143050
 
-Thuan An 618984
+Can Tho 1235171
+Ap Tan Ngai 8887
+Quan Duc Thinh 132000
+Duc Trong 161232
+Buon Ma Thuot 146975
+Song Cau 94066
+Mong Cai 72960
+Cung Kiem 80000
+Vinh Yen 17876
+Chi Linh 220421
+Son Tay 40636
+Con Son 1500
+Lang Son 55981
+Cao Bang 41112
+Lao Cai 36502
+Dien Bien Phu 40282
+
+Bien Hoa 1226700
+Buon Ho 127920
+Dinh Van 16036
+
+Nha Trang 283441
+Gia Nghia 61413
+La Gi 160652
+Can Gio 55137
+Trang Bom 23560
+Soc Trang 114453
+Sa Dec 203588
+Ha Dong 50877
+Hung Yen 40273
+Tam Diep 62866
+Tam Ky 59000
+An Nhon 175709
+Quang Ngai 32992
+Ayun Pa 53720
+Sa Pa 10554
+Yen Bai 96540
+Yen Vinh 107082
+Dong Hoi 31040
+Sam Son 109208
+Do Luong 10102
+Muong Lay 11162
+Duong Dong 15000
+Dong Dang 8922
+Phu Ninh 4000
+Tay Ninh 36456
+Bac Ninh 259924
+Song Cong 146120
+Go Cong 99657
+Tra Vinh 57408
 Tan An 64801
 
 Di An 403760
+Hoi An 32757
+Pleiku 114225
 
-Vinh 339114
-Vinh Yen 17876
-
-Nha Trang 283441
-Long Khanh 245040
-Rach Gia 228356
-Chi Linh 220421
-Qui Nhon 210338
-An Nhon 175709
-Vung Tau 209683
-Sa Dec 203588
-Nam Dinh 193499
-Tam Diep 62866
-Phu Quoc 179486
-Phu Khuong 47966
-Vinh Chau 164680
-Duc Trong 161232
-Phan Thiet 160652
-La Gi 160652
-Can Gio 55137
-Can Giuoc 152200
-Long Xuyen 158153
-Cam Pha 155800
-Phuc Yen 155575
-Hung Yen 40273
-Bao Loc 151915
+Hai Phong 2028514
 Duc Pho 150927
-Ha Long 148066
-Buon Ma Thuot 146975
-Buon Ho 127920
-Cam Ranh 146771
-Phan Rang-Thap Cham 91520
-Song Cong 146120
-Cai Lay 143050
+Qui Nhon 210338
+Kon Tum 47409
+Thi Tran Tan Thanh 23109
+Phan Thiet 160652
+Da Lat 197000
+Son La 19054
+Cat Cat 1000
+Cat Ba 30000
+Bac Giang 53728
+Rach Gia 228356
+Ha Tien 40000
+Quan Duc Thanh 70000
+Vi Thanh 24477
+Bac Lieu 107911
+Bac Kan 17701
+Phuc Yen 155575
 Thai Nguyen 133877
 Thai Binh 53071
 Hoa Binh 105260
-Ninh Binh 36864
-Binh Minh 4257
 Moc Chau 114460
-Soc Trang 114453
-Trang Bom 23560
-Pleiku 114225
-Thanh Hoa 112473
-Ca Mau 111894
-Sam Son 109208
-Bim Son 53754
-Bac Lieu 107911
-Yen Vinh 107082
-Vinh Long 103314
-Hong Ngu 100610
-Go Cong 99657
-Yen Bai 96540
-Dien Bien Phu 40282
-Song Cau 94066
-Viet Tri 93475
-An Khe 81600
-Cung Kiem 80000
-Cu Chi 75000
-Mong Cai 72960
-Tuy Hoa 69596
+
+Hanoi 8053663
+Hai Duong 58030
 Thanh Pho Uong Bi 63829
-Cao Lanh 63770
-Gia Nghia 61413
-Nga Bay 61209
-Ben Tre 59442
-Thi Tran Tan Thanh 23109
-Tam Ky 59000
-Tra Vinh 57408
-Lang Son 55981
-Cua Lo 55668
-Bac Giang 53728
-Ayun Pa 53720
-Ha Dong 50877
-Kon Tum 47409
-Lai Chau 42973
-Cao Bang 41112
-Lao Cai 36502
-Lao Chai 2324
-Son Tay 40636
-Son La 19054
-Ha Tien 40000
-Tay Ninh 36456
-Tuyen Quang 36430
-Quang Ngai 32992
-Hoi An 32757
-Ha Giang 32690
-Dong Hoi 31040
-Dong Ha 17662
-Cat Ba 30000
-Ha Tinh 27728
-Dong Xoai 23978
-Bac Kan 17701
-Dinh Van 16036
-Duong Dong 15000
+Thanh Hoa 112473
+Tuy Hoa 69596
+Cam Ranh 146771
+Cam Pha 155800
+Ha Long 148066
 Binh Long 15000
-Muong Lay 11162
-Sa Pa 10554
-Do Luong 10102
-Dong Dang 8922
-Ap Tan Ngai 8887
-Con Son 1500
-Cat Cat 1000
+Phu Quoc 179486
+Phu Ly 158212
+Bim Son 53754
+Nam Dinh 193499
+Binh Minh 4257
+Ninh Binh 36864
+
+Da Nang 1134310
+Dong Ha 17662
+Cua Lo 55668
+Ha Tinh 27728
+
+Vinh 339114
+
+Thu Duc 1013795
+Cu Chi 75000
+Can Giuoc 152200
+My Tho 122310
+Ben Tre 59442
+
+Hue 652572
+
+Thuan An 618984
+Vung Tau 209683
+Bao Loc 151915
+Dong Xoai 23978
+Ca Mau 111894
+Nga Bay 61209
+Viet Tri 93475
+Phan Rang-Thap Cham 91520
+Ha Giang 32690
+Lao Chai 2324

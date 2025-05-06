@@ -2,59 +2,59 @@
 
 Rostov-na-Donu 1089261
 
-Taganrog 257681
-Kagal'nitskaya 6831
-
-Shakhty 239987
-Kamensk-Shakhtinskiy 95296
+Novocherkassk 168746
 Novoshakhtinsk 111075
+Gukovo 67278
+Millerovo 36499
+Donetsk 50098
 
 Volgodonsk 170841
-Konstantinovsk 17926
-Romanovskaya 8248
-Oblivskaya 9908
+Proletarsk 20267
+Semikarakorsk 23884
+Tarasovskiy 9017
+Koksovyy 7624
+Aksay 41969
+Sal'sk 61316
+Mechetinskaya 7194
+Veshenskaya 9261
+Ol'ginskaya 5613
+Glubokiy 9880
+Belaya Kalitva 43651
+Kamensk-Shakhtinskiy 95296
 
-Novocherkassk 168746
+Shakhty 239987
+Rodionovo-Nesvetayskaya 6379
 
 Bataysk 111843
-Rodionovo-Nesvetayskaya 6379
-Novobataysk 5340
-Azov 82937
-Gukovo 67278
-Sal'sk 61316
-Aksay 41969
-Donetsk 50098
-Ust'-Donetskiy 11817
-Belaya Kalitva 43651
-Krasnyy Sulin 40866
-Millerovo 36499
-Chertkovo 10814
-Morozovsk 27642
-Zernograd 26842
-Semikarakorsk 23884
-Sinegorskiy 5750
-Gornyatskiy 8056
-Zverevo 22411
-Proletarsk 20267
-Orlovskiy 20002
-Zimovniki 18070
-Tsimlyansk 15028
-Egorlykskaya 17660
 Chaltyr' 15334
 Kuleshovka 13692
-Kamenolomni 11247
-Tselina 10649
-Gigant 10249
-Glubokiy 9880
+Novobataysk 5340
+Azov 82937
+Morozovsk 27642
+Orlovskiy 20002
 Sholokhovskiy 8306
-Veshenskaya 9261
-Veselyy 9175
-Tarasovskiy 9017
-Staraya Stanitsa 8508
-Koksovyy 7624
-Mechetinskaya 7194
-Kashary 6529
-Kuybyshevo 6145
+Sinegorskiy 5750
+Egorlykskaya 17660
 Kirovskaya 5760
-Ol'ginskaya 5613
+Oblivskaya 9908
+Romanovskaya 8248
+Ust'-Donetskiy 11817
+Kamenolomni 11247
+Zverevo 22411
+Chertkovo 10814
+Kashary 6529
+Gornyatskiy 8056
 Zhirnov 5609
+Zernograd 26842
+
+Taganrog 257681
+Kuybyshevo 6145
+Krasnyy Sulin 40866
+Tselina 10649
+Veselyy 9175
+Zimovniki 18070
+Tsimlyansk 15028
+Konstantinovsk 17926
+Staraya Stanitsa 8508
+Kagal'nitskaya 6831
+Gigant 10249
