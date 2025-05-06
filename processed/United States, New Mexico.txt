@@ -5,52 +5,46 @@ Albuquerque 564559
 Los Ranchos de Albuquerque 5874
 
 Rio Rancho 104046
-Rio Rancho Estates 1801
-Hernandez 756
 
-Bernalillo 8977
+Corrales 8493
+Jarales 2042
+Logan 970
+East Pecos 660
+Pecos 1392
 
-Placitas (Sandoval County) 5041
-La Cueva (Sandoval County) 176
-La Cueva (Santa Fe County) 473
-Santa Fe Foothills 1074
-Santa Rosa 2850
-Mesita 793
-Mesilla 1797
-
-Artesia 12875
-
-Portales 12137
-
-Clovis 38567
-
-Lovington 11668
-Loving 1390
-Rodey 337
-Rodeo 108
+Los Chaves 4997
+White Sands 926
+White Signal 191
+Sunshine 487
+Encinal 207
+Villanueva 207
+Las Maravillas 1604
+San Ysidro (Sandoval County) 166
+Torreon (Sandoval County) 281
+Cubero 281
+Timberon 345
+Lumberton 70
+Barton 1282
+Laguna 1282
+Canjilon 228
+Young Place 200
+Twin Forks 228
+Edith Endave 200
+La Hacienda 710
+Gila Hot Springs 35
+Hot Springs Landing 120
+Windmill 54
+Valencia (Santa Fe County) 115
 Stanley 108
 Estancia 1242
 Chupadero 349
 San Antonito (Socorro County) 81
 Arroyo Hondo (Santa Fe County) 331
-Nogal 105
-Logan 970
-East Pecos 660
-Pecos 1392
-Penasco 474
-Naschitti 272
-Cuyamungue Grant 184
-Sacramento 53
-Monument 213
-Tajique 106
-Questa 1742
-La Union 997
-San Antonio 113
-Homer C Jones 113
-San Jon 195
-El Duende 573
-Llano del Medio 76
-El Morro Valley 30
+Arroyo Hondo (Taos County) 428
+Lamy 210
+Watrous 99
+Trout Valley 7
+Lake Valley 73
 
 North Valley 11149
 
@@ -58,442 +52,229 @@ South Valley 38338
 Kirtland AFB 3838
 Kirtland 585
 South River 2011
-Red River 542
-Edith Endave 200
-Rio en Medio 157
-Kingston 50
-
-Raton 6041
-Clayton 2643
-Playas 25
-Bayard 2116
-
-Silver City 9704
-Whites City 14
-
-White Rock 5852
-White Sands 926
-White Signal 191
-Sunshine 487
-
-Shiprock 7718
-Redrock 3
-Cedro 416
-Alcalde 310
-Mescalero 1480
-Pueblo Pintado 318
-Pueblo 88
-Berino 1651
-Ribera 314
+Hillsboro 140
+Loco Hills 68
+Picacho Hills 1864
+Holloman AFB 3810
+Arroyo Seco 1979
+Cimarron 792
+Tres Arroyos 2123
 La Madera (Rio Arriba County) 140
 Valencia (Valencia County) 2052
 Las Nutrias 119
-La Tierra 312
-Tierra Amarilla 297
-Ojo Amarillo 696
-Navajo Dam 253
-Canada de los Alamos 421
-
-Los Alamos 13179
-La Mesilla 1844
-
-Espanola 10526
-Canon 317
-Canones 85
-Sombrillo 347
-Mimbres 390
-Glen Acres 204
-Williams Acres 491
-Williamsburg 462
-Sunlit Hills 736
-Indian Hills 947
-Sandia Heights 3273
-Zia Pueblo 760
-San Felipe Pueblo 2542
-Santo Domingo Pueblo 2311
-Chamberino 736
-Nambe 1907
-Mountainair 884
-Thunder Mountain 1171
-Vanderwagen 48
-Seboyeta 164
-Glorieta 511
-Flora Vista 2048
-Nara Visa 51
-La Villita 999
-
-Santa Teresa 5044
-Santa Ana Pueblo 673
-Arrey 296
-Cochiti Lake 438
-Acomita Lake 339
-North Acomita Village 357
-Jaconita 289
-Jacona 400
-Corona 129
-Dona Ana 874
-Pena Blanca 624
-Blanco 491
-Rincon 273
-Continental Divide 187
-Becenti 294
-Bent 150
-Faywood 33
-Glenwood 113
-Magdalena 806
-Sena 155
-Luna 194
-Puerto de Luna 155
-
-Los Lunas 17242
-
-El Cerro Mission 4566
-El Cerro 2946
-Las Palomas 196
-Las Maravillas 1604
-San Ysidro (Sandoval County) 166
-Torreon (Sandoval County) 281
-Cubero 281
-Cuba 628
-Cordova 380
-
-Alamogordo 30898
-Capitan 1391
-Capulin 61
-Ojo Caliente 135
-Ventura 535
-Pastura 17
-Angustura 1407
-San Jose (Rio Arriba County) 670
-Tesuque 1094
-Tesuque Pueblo 301
-San Ildefonso Pueblo 624
-Rock Springs 807
-Jemez Springs 198
-Jemez Pueblo 1963
-Elephant Butte 1447
-Butterfield Park 794
-Garfield 131
-Stoneridge 21
-Winston 47
-San Cristobal 206
-Santa Cruz 416
-Santa Clara 1637
-Santa Clara Pueblo 930
-Tyrone 712
-Madrone 621
-Madrid 247
-San Pedro 205
-San Jose (San Miguel County) 67
-San Miguel 975
-Hagerman 975
-Springer 931
-Ohkay Owingeh 1464
-Chili 541
-Chimayo 3077
-Cimarron 792
-Arroyo Seco 1979
-Las Campanas 1460
-
-Las Cruces 111385
-
-Truth or Consequences 6052
-Hatch 1539
-
-Chaparral 16551
-
-Corrales 8493
-Jarales 2042
-Pajarito Mesa 260
-La Mesa 649
-Chamita 1005
-Lemitar 346
-Salem 797
-Rosedale 377
-Pinedale 485
-Mora 547
-Livingston Wheeler 691
-Keeler Farm 1146
-
-Bosque Farms 4020
-Mosquero 98
-Alma 47
-Malaga 112
-Alamillo 124
-Alamo 1150
-Monterey Park 1272
-Ute Park 63
-Hyde Park 285
-Sandia Park 265
-Beclabito 265
-Iyanbito 1193
-Nakaibito 355
-Atoka 1153
-Waterflow 1554
-Bluewater 174
-Tano Road 1573
-Broadview 339
-Mountain View (Luna County) 134
-Quemado 163
-Vado 2930
-Vadito 258
-Radium Springs 1498
-Hot Springs Landing 120
-Gila Hot Springs 35
-La Hacienda 710
-La Cienega 3885
 
 Las Vegas 13166
 
 Santa Fe 87505
 
 Eldorado at Santa Fe 6005
-Dora 117
-Des Moines 117
-Wagon Mound 266
-Aragon 76
+La Cienega 3885
+La Cueva (Sandoval County) 176
+La Cueva (Santa Fe County) 473
+Santa Fe Foothills 1074
+Santa Clara Pueblo 930
+Tyrone 712
+Madrone 621
+Tesuque 1094
+Tesuque Pueblo 301
+San Ildefonso Pueblo 624
+Pueblo 88
+Zia Pueblo 760
+San Felipe Pueblo 2542
+Santo Domingo Pueblo 2311
+Sandia Heights 3273
+Indian Hills 947
+Sunlit Hills 736
+Fort Wingate 328
+Fort Sumner 889
+Livingston Wheeler 691
+Keeler Farm 1146
+Thunder Mountain 1171
+Vanderwagen 48
+Seboyeta 164
+Rodey 337
+Loving 1390
+
+Lovington 11668
+
+Clovis 38567
+
+Portales 12137
+
+Tucumcari 5278
+Haystack 233
+Crystal 302
+Organ 242
+North Hurley 242
+Hurley 1256
+Ruidoso Downs 2620
+
+Ruidoso 7679
+Fairacres 720
+Cedar Crest 933
+Cedar Hill 1130
+Pleasanton 97
+Los Ojos 97
+San Pedro 205
+San Jose (San Miguel County) 67
+San Miguel 975
+North San Ysidro 125
+El Valle de Arroyo Seco 1431
+El Rancho 1120
+Tecolotito 204
+Glen Acres 204
+Williams Acres 491
+Blanco 491
+San Jon 195
+El Duende 573
+Roy 193
+Jemez Springs 198
+Lobo Canyon 146
+Deer Canyon 74
+Cruzville 74
+Grenville 22
+Rivers 22
+Red River 542
+Rio Chiquito 200
+
+Rio Communities 4926
+
+Belen 7360
+
+Los Lunas 17242
+Los Luceros 891
+Ventura 535
+Ojo Caliente 135
+Ojo Sarco 277
+Ojo Encino 222
+Tijeras 465
+Cordova 380
+
+Alamogordo 30898
+Capitan 1391
+
+Roswell 48422
+Maxwell 224
+Willard 201
+Anzac Village 67
+Seton Village 72
+Lake Sumner 72
+Canova 102
+Canon 317
+Canones 85
+Sombrillo 347
+Pueblo Pintado 318
+Mescalero 1480
+Tecolote 234
+Little Walnut Village 1386
+Luna 194
+Puerto de Luna 155
+Sena 155
+Ensenada 107
+Canada de los Alamos 421
+
+Los Alamos 13179
+
+White Rock 5852
+White Cliffs 371
+Cliff 284
+
+Shiprock 7718
+Redrock 3
+Cedro 416
+Alcalde 310
+Santa Cruz 416
+Santa Clara 1637
+Las Palomas 196
+El Cerro 2946
+
+El Cerro Mission 4566
+Los Cerrillos 258
+Vadito 258
+Newcomb 494
+Cotton City 266
+Anton Chico 161
+Oasis 161
+Catalpa Canyon 161
+Talpa 960
+Pajarito Mesa 260
+La Mesa 649
+Chamita 1005
+Lemitar 346
+Acomita Lake 339
+Cochiti Lake 438
+Cochiti 479
+Arenas Valley 1291
+Taos Ski Valley 77
+Pueblitos 540
+Pueblito 91
+Navajo 1942
+Navajo Dam 253
+Conchas Dam 194
+Truchas 467
+Eunice 3056
+Nambe 1907
+Chamberino 736
+Berino 1651
+Homestead 74
+Jamestown 317
+Pie Town 166
+Old Town 27
+Red Rock Ranch 35
+Orogrande 35
+Rancho Grande 96
+Rio Rancho Estates 1801
+Hernandez 756
+
+Bernalillo 8977
+San Antonito (Bernalillo County) 989
 Paraje 705
 
 Paradise Hills 4329
-Loco Hills 68
-Picacho Hills 1864
-Holloman AFB 3810
-Cannon AFB 1978
-Isleta Village Proper 802
-Manzano 26
-La Bajada 26
-La Boca 38
-Escudilla Bonita 92
-Grenville 22
-Rivers 22
-Hanover 144
-Canova 102
-Mount Taylor 436
-Seton Village 72
-Lake Sumner 72
-Fort Sumner 889
-Cedar Crest 933
-Fairacres 720
+Mayhill 96
+Pinehill 586
+Velarde 514
+Torreon (Torrance County) 167
+Mesquite 984
+San Cristobal 206
+Playas 25
+Apache Creek 64
+Mosquero 98
+Winston 47
+Alma 47
+Cuartelez 455
+Napi Headquarters 758
+Melrose 622
+Rosedale 377
+Pinedale 485
+Mora 547
+Algodones 720
+Homer C Jones 113
+Hope 113
+Glenwood 113
+Faywood 33
 
-Lee Acres 4170
-Polvadera 178
+Edgewood 6174
+
+Placitas (Sandoval County) 5041
 La Madera (Sandoval County) 729
-Barton 1282
-Laguna 1282
-Paguate 474
-Agua Fria 2913
-Punta de Agua 68
-Causey 68
-House 56
-Pueblo of Sandia Village 421
-Mountain View (Cibola County) 56
-Peak Place 578
-Young Place 200
-Youngsville 44
-Duran 44
-High Rolls 862
-Highland Meadows 568
-
-Meadow Lake 4573
-Fence Lake 17
-Twin Lakes 1004
-Twin Forks 228
-Canjilon 228
-Turley 218
-Hurley 1256
+Regina 73
+Milan 2456
+Questa 1742
+La Union 997
+Tatum 706
+Prewitt 842
+Adelino 735
 Church Rock 1542
 Black Rock 1190
 Black Hat 12
 Moquino 31
-Pinon 24
-Gallina 299
-Galisteo 253
-Bluewater Acres 253
-Crestview 279
-Casa Colorada 279
-Casas Adobes 279
-Fruitland 771
-Upper Fruitland 1623
-Veguita 219
-University Park 3007
-Pecan Park 113
-Hope 113
-Luis Lopez 66
-San Luis 32
-San Lorenzo 148
-Chilili 126
-South Acomita Village 130
-Virden 126
-Velarde 514
-Pinehill 586
-Pinehaven 172
-Buckhorn 172
-Thoreau 2367
-Vaughn 286
-Tortugas 579
-Organ 242
-North Hurley 242
-La Huerta 1448
-La Puebla 1123
-Taos Pueblo 1196
-El Rancho 1120
-El Valle de Arroyo Seco 1431
-Roy 193
-Tres Arroyos 2123
-Pueblito 91
-Navajo 1942
-Nenahnezad 576
-Nadine 477
-Sagar 192
-Eagle Nest 315
-Abiquiu 181
-Rio Chiquito 200
-Mesquite 984
-Torreon (Torrance County) 167
-Arroyo Hondo (Taos County) 428
-Lamy 210
-Watrous 99
-Bluewater Village 464
-Texico 956
-Carrizozo 972
 Brazos 31
-Los Ojos 97
-Los Cerrillos 258
-Los Luceros 891
-Lumberton 70
-Timberon 345
-Soham 147
-Chama 917
-Chamisal 255
-Chamizal 51
-Encino 51
-Encinal 207
-Villanueva 207
-Manuelito 68
-Carnuel 1019
-Canoncito 1003
-Datil 50
-Costilla 177
-Grady 86
-Candy Kitchen 107
-Ensenada 107
-Floyd 86
-Picuris Pueblo 83
-Anton Chico 161
-Chical 124
-San Fidel 124
-Angel Fire 1192
-El Rito 749
-Pinos Altos 225
-Cuyamungue 534
-Bibo 121
-Hillsboro 140
-Cedar Grove 549
-Cedar Hill 1130
-Pleasanton 97
-San Antonito (Bernalillo County) 989
-Reserve 293
-Spencerville 1138
-Talpa 960
-Catalpa Canyon 161
-Oasis 161
-Pojoaque 2071
-Jal 2202
-La Jara 177
-La Joya 80
-Trout Valley 7
-Lake Valley 73
-Valle Vista 928
-Totah Vista 288
-Paa-Ko 818
-Midway 818
-Middle Frisco 51
-Lower Frisco 60
-Rowe 304
-Crownpoint 2900
+City of the Sun 33
+Whites City 14
 
-Grants 9163
-Rancho Grande 96
-Orogrande 35
-Old Town 27
-Golden 19
-Golden Acres 144
-Mogollon 11
-Sedillo 670
-Caballo 77
-Arenas Valley 1291
-Taos Ski Valley 77
-
-Taos 6474
-Ranchos de Taos 2707
-Conchas Dam 194
-Truchas 467
-Eunice 3056
-
-Zuni Pueblo 6176
-
-Gallup 21899
-San Rafael 1164
-
-Belen 7360
-
-Rio Communities 4926
-Rio Lucio 303
-La Luz 1578
-La Plata 2105
-Escondida 45
-Elida 166
-Adelino 735
-North Light Plant 556
-Happy Valley 617
-Lyden 250
-Tecolotito 204
-Tecolote 234
-Little Walnut Village 1386
-Newcomb 494
-Newkirk 8
-Lybrook 19
-Cobre 17
-
-Hobbs 40508
-
-North Hobbs 6529
-North San Ysidro 125
-San Ysidro (Dona Ana County) 2133
-Placitas (Dona Ana County) 488
-Cloudcroft 750
-Gamerco 1343
-Ojo Sarco 277
-Ojo Encino 222
-Tijeras 465
-Peralta 3342
-Crystal 302
-Haystack 233
-Hachita 52
-Cochiti 479
-Pueblitos 540
-Conejo 440
-McCartys Village 360
-Anzac Village 67
-Willard 201
-Maxwell 224
-Weed 67
-Medanales 224
-Gila 285
-Milan 2456
-Windmill 54
-Valencia (Santa Fe County) 115
-Tse Bonito 380
-Nageezi 277
-Apache Creek 64
-Cuartelez 455
-Napi Headquarters 758
-Melrose 622
-
-Roswell 48422
-Ponderosa Pine 1092
-Ponderosa 379
-Morningside 302
+Silver City 9704
+Bayard 2116
 
 Deming 14758
 
@@ -501,82 +282,301 @@ Farmington 46624
 West Hammond 2724
 
 Bloomfield 7421
+Garfield 131
+Stoneridge 21
+Kingston 50
+Datil 50
+Rio en Medio 157
+Llano del Medio 76
+El Morro Valley 30
+Weed 67
+Medanales 224
+Gila 285
+Hyde Park 285
+Ute Park 63
+Grady 86
+Floyd 86
+Picuris Pueblo 83
+Taos Pueblo 1196
+Hagerman 975
+Mimbres 390
+Lyden 250
+Agua Fria 2913
+Paguate 474
+Penasco 474
+Naschitti 272
+Cuyamungue Grant 184
+Sacramento 53
+Monument 213
+Tajique 106
+Borrego Pass 117
+Dora 117
+Des Moines 117
+Nogal 105
+Rincon 273
+Continental Divide 187
+Wagon Mound 266
+Aragon 76
+Ribera 314
+Coyote 110
+Manzano Springs 154
+Sheep Springs 262
+Rock Springs 807
+Pena Blanca 624
+Corona 129
+Dona Ana 874
+Placitas (Dona Ana County) 488
+San Jose (Rio Arriba County) 670
+Angustura 1407
+Pastura 17
+Cobre 17
+Fence Lake 17
+Twin Lakes 1004
+Carnuel 1019
+Manuelito 68
+Causey 68
+Punta de Agua 68
+Bent 150
+Luis Lopez 66
+San Luis 32
+San Lorenzo 148
+Chilili 126
+Chili 541
+Ohkay Owingeh 1464
+Springer 931
+Radium Springs 1498
+Magdalena 806
+Sanostee 322
+Tierra Amarilla 297
+Ojo Amarillo 696
+Crestview 279
+Bluewater Acres 253
+Bluewater 174
+Tano Road 1573
+Broadview 339
+Mountain View (Luna County) 134
+Mountain View (Cibola County) 56
+House 56
+Pueblo of Sandia Village 421
+Sandia Park 265
+Sandia Knolls 1252
+Santa Ana Pueblo 673
+Arrey 296
+Turley 218
+Sagar 192
+Eagle Nest 315
+Abiquiu 181
+Duran 44
+High Rolls 862
+Youngsville 44
+Spencerville 1138
 
-Aztec 6201
-Cliff 284
-White Cliffs 371
-Seama 478
-Ramah 461
-Brimhall Nizhoni 286
-Animas 180
-Cruzville 74
-Deer Canyon 74
-Lobo Canyon 146
+Meadow Lake 4573
+Highland Meadows 568
+
+Sunland Park 16702
 
 Anthony 8693
 
-Sunland Park 16702
+Chaparral 16551
+Mesilla 1797
+
+Las Cruces 111385
+Las Campanas 1460
+Monterey Park 1272
+University Park 3007
+Veguita 219
+Glorieta 511
+Flora Vista 2048
+Nara Visa 51
+Chamizal 51
+Chamisal 255
+Chama 917
+Atoka 1153
+Nakaibito 355
+
+Lee Acres 4170
+Boles Acres 1788
+Becenti 294
+
+Hobbs 40508
+
+North Hobbs 6529
+Upper Fruitland 1623
+Fruitland 771
+Galisteo 253
+Peak Place 578
+La Plata 2105
+La Puebla 1123
+South Acomita Village 130
+North Acomita Village 357
+Jaconita 289
+Jacona 400
+Nadine 477
+Columbus 1442
+La Villita 999
+
+Santa Teresa 5044
+Lordsburg 2335
+Williamsburg 462
 Sundance 760
+Salem 797
 Moriarty 1946
-Fort Wingate 328
-San Mateo 139
+McCartys Village 360
+Conejo 440
+Caballo 77
+Paa-Ko 818
+Midway 818
+Totah Vista 288
+Valle Vista 928
+Gamerco 1343
+Cloudcroft 750
+Iyanbito 1193
+Beclabito 265
+Malaga 112
+La Joya 80
+La Jara 177
+Costilla 177
+La Mesilla 1844
+
+Espanola 10526
+Ranchos de Taos 2707
+
+Taos 6474
+
+Raton 6041
+Clayton 2643
+Pinos Altos 225
+Cuyamungue 534
+Bibo 121
+San Antonio 113
+San Acacia 38
+Quemado 163
+La Boca 38
+Escudilla Bonita 92
+Tse Bonito 380
+Cuba 628
+Nageezi 277
+Rodeo 108
+Lake Roberts 53
+Lake Roberts Heights 22
+Lake Arthur 378
+Timberlake 121
+Pecan Park 113
 San Pablo 858
 Sausal 858
 Skyline-Ganipa 1614
-
-Ruidoso 7679
-Ruidoso Downs 2620
-Jamestown 317
-Pie Town 166
-City of the Sun 33
-Cotton City 266
-Borrego Pass 117
-Regina 73
+Mesita 793
+Santa Rosa 2850
+Dulce 2788
+Madrid 247
+Pulpotio Bareas 153
+Hachita 52
+Pinehaven 172
+Buckhorn 172
+Mogollon 11
+Encantado 93
 
 Carlsbad 32238
 
-Tucumcari 5278
-Tatum 706
-Tularosa 2553
-Dulce 2788
-Pulpotio Bareas 153
-Homestead 74
-Tome 1718
-Folsom 51
-Lindrith 32
+Artesia 12875
 
 Socorro 8707
-McIntosh 1395
 
-Edgewood 6174
-Algodones 720
-Abeytas 45
+Truth or Consequences 6052
+Hatch 1539
 Tohatchi 785
 Dexter 1074
+Vado 2930
+Canoncito 1003
+
+Gallup 21899
+
+Zuni Pueblo 6176
+San Rafael 1164
+
+Grants 9163
+Crownpoint 2900
 Center Point 2435
+Tome 1718
+Casas Adobes 279
+Casa Colorada 279
+Gallina 299
+Pinon 24
+Nenahnezad 576
+La Luz 1578
+Rio Lucio 303
+
+Aztec 6201
 
 Crouch Mesa 5257
-Mayhill 96
+Alamillo 124
+Alamo 1150
+Rowe 304
+Chimayo 3077
 
-Los Chaves 4997
-Lordsburg 2335
-Sandia Knolls 1252
+Bosque Farms 4020
+Lybrook 19
+Newkirk 8
+Golden 19
+Golden Acres 144
+Hanover 144
 Cundiyo 144
-Lake Roberts Heights 22
-Lake Roberts 53
-Lake Arthur 378
-Timberlake 121
-Boles Acres 1788
-San Acacia 38
-Purty Rock 163
-Red Rock Ranch 35
 Dixon 938
-Columbus 1442
-Prewitt 842
+Peralta 3342
+Waterflow 1554
+Bluewater Village 464
+Texico 956
+Carrizozo 972
+Cedar Grove 549
+La Tierra 312
+Lindrith 32
+Folsom 51
+Encino 51
+Middle Frisco 51
+Lower Frisco 60
+Seama 478
+Ponderosa 379
+Ponderosa Pine 1092
+McIntosh 1395
+Tularosa 2553
+Sedillo 670
+San Mateo 139
+San Fidel 124
+San Ysidro (Dona Ana County) 2133
+Thoreau 2367
+Jal 2202
+Pojoaque 2071
+Ramah 461
+Brimhall Nizhoni 286
+Vaughn 286
+Angel Fire 1192
+El Rito 749
+Tortugas 579
+La Huerta 1448
+Elida 166
+Morningside 302
+Mountainair 884
+Mount Taylor 436
+Cannon AFB 1978
+Isleta Village Proper 802
+Manzano 26
+La Bajada 26
+Jemez Pueblo 1963
+Elephant Butte 1447
+Butterfield Park 794
+Purty Rock 163
+Polvadera 178
 Yah-ta-hey 757
-Sanostee 322
-Manzano Springs 154
-Sheep Springs 262
-Coyote 110
-Encantado 93
+Happy Valley 617
+North Light Plant 556
+Reserve 293
+Animas 180
+Soham 147
+Capulin 61
+Candy Kitchen 107
+Virden 126
+Chical 124
+Escondida 45
+Abeytas 45
 McGaffey 0

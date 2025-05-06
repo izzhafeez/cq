@@ -3,89 +3,219 @@
 Philadelphia 1603797
 New Philadelphia 1054
 South Philipsburg 387
-North Philipsburg 617
-Broad Top City 367
-Ford City 2859
-Homer City 1730
-Tower City 1419
-Orwin 304
-Orwigsburg 3000
-Palo Alto 970
-Marshallton 500
-Milton 6609
-Montandon 873
-Montgomery 1568
-Montoursville 4750
-Kenmar 4241
-Glenmoore 872
-
-Dunmore 14042
-Throop 4065
-Trooper 5481
-Cooperstown 399
-Forestville 399
-Friesville 195
-Friedens 1504
-East Vandergrift 602
-East Berlin 1542
-Berlin 2003
-Somerset 6048
-Kersey 797
-Meyersdale 2070
-
-Lansdale 18773
+Pymatuning South 392
+Silverdale 805
+Fairdale 2064
+Fairchance 1890
+Leith-Hatfield 2672
+Hatfield 3496
 
 Hatfield Township 18640
-Hatfield 3496
-Westfield 1112
-Glenfield 212
-Leith-Hatfield 2672
-Smithton 351
-Smith Corner 38
-Flora Dale 38
-Dale 1008
-Middleport 362
-Middleburg 1325
-South Uniontown 1325
-Union Dale 220
-Tharptown (Uniontown) 487
 
-Uniontown 9984
+Upper Gwynedd Township 17072
+
+Upper Dublin Township 26665
+
+Upper Moreland Township 26116
+
+Lower Moreland Township 13917
+Oreland 6210
+Glenside 7737
+Maple Glen 6647
+Pine Glen 188
+Glenburn 1148
+Burnside 188
+Pennside 5190
+Mount Penn 3240
+Mount Pocono 3089
+Russell 1292
+Lawrenceville 691
+Lawrence 1236
+McMurray 4736
+
+Murrysville 21006
+Marysville 2652
+West Hills 1228
+Bally 1228
+Blue Ball 1084
+Gouglersville 585
+Wheatland 585
+Atlantic 113
+Wallaceton 297
+Graceton 211
+Little Meadows 245
+Beaver Meadows 897
+
+Hazleton 29963
+West Hazleton 5163
+Pardeesville 574
+Larksville 4225
+Clarks Summit 5107
+Dickson City 6038
+Forest City 1780
+Simpson 1336
+Thompson 254
+Thompsonville 3704
+Hiller 1258
+Waller 45
+Wall 519
+Cashtown 453
+Reightown 378
+Pughtown 849
+Unionville (Butler County) 849
+Georgetown (Lancaster County) 1058
+Midway (Adams County) 1059
+Oakland (Susquehanna County) 563
+Susquehanna Township 968
+Susquehanna Trails 2179
+Milford Square 1137
+Fredericksburg (Crawford County) 728
+Bridgewater 745
+Blanchard 597
+Lake Winola 597
+Briar Creek 597
+Bear Creek Village 291
+Cross Creek 121
+Stevens 611
+Seven Springs 26
+Fountain Springs 256
+Fountain Hill 4832
+Summerhill 479
+Summerville 504
+Biglerville 1225
+Grazierville 670
+Snow Shoe 670
+Kimberton 568
+Gilberton 579
+Gilbertsville 5508
+Boyertown 4264
+Royersford 4940
+Spring City 3494
+Spring Mount 2338
+Woxhall 1297
+Toughkenamon 1297
+Altamont 624
+Matamoras 2362
+Titusville 5262
+Haysville 81
+Jamestown 582
+Hughestown 1329
+Geistown 2363
+
+Lewistown 8579
+Highland Park 1317
+Oakland (Cambria County) 1481
+Franklin (Cambria County) 278
+Brownstown (Cambria County) 696
+Brownstown (Lancaster County) 3081
+Jefferson (Greene County) 253
+Everson 771
+Elverson 1330
+Knox 1093
+Knoxville 680
+Buffington 298
+Winterstown 608
+Frankstown 96
+Leamersville 96
+Farmersville 1051
+Carrolltown 1051
+Carroll Valley 3940
+Mont Alto 1580
+Devon 1580
+Lorain 589
+Lorane 4290
+Reiffton 4274
+St. Lawrence 1892
+Lawrence Park 3820
+Lawrence Park Township 3820
+
+South Park Township 13416
+
+South Fayette Township 18358
+Stowe Township 6426
+Reserve Township 3255
+
+Shaler Township 28132
+
+O'Hara Township 9284
+Wilkins Township 6350
+
+Wilkinsburg 14349
+Edgewood (Allegheny County) 3145
+Liberty (Allegheny County) 2355
+Glassport 4475
+
+McKeesport 17727
+East McKeesport 2076
+Fellsburg 1153
+Schellsburg 330
+New Galilee 330
+New Hope 2612
+New Britain 2836
+Brittany Farms-The Highlands 4175
+Chalfont 4253
+Chalfant 748
+Halfway House 3273
+East Bethlehem Township 2311
+
+Bethlehem Township 25868
+
+Bethlehem 75781
+New Bethlehem 978
+Bowers 355
+Tower City 1419
+Homer City 1730
+Ford City 2859
+Lenape Heights 1144
+Lawson Heights 2090
+
+Latrobe 8060
+Robesonia 2035
+Robeson Extension 217
+Laurelton 217
+Laureldale 4277
+Avondale 1274
+Vintondale 412
+Clintondale 110
+Coal Center 110
+Centerport 314
+Paxtonville 314
+Brandonville 180
+Gordonville 523
+Gordon 761
+Butler Township 4906
+
+Coal Township 10139
+Marshallton 500
+Milton 6609
+West Milton 799
+Mount Union 2308
 East Uniontown 2271
 Masontown 3276
 Watsontown 2237
 Linntown 1695
-Clinton 905
-Oberlin 670
-Bernville 905
-Fernville 481
-Tuscarora 375
-Titusville 5262
-Apollo 1615
-Grapeville 499
-Granville 424
-Midway (Washington County) 924
-Centerville (Washington County) 3256
 
-Washington 13176
-East Washington 1853
-Fort Washington 5910
+Uniontown 9984
+Mill Village 388
+Kirkwood 388
+Oakwood 2215
+Ellwood City 7642
+Bellwood 1827
+Heilwood 318
+Millerton 318
 
-Abington Township 58502
+Fullerton 16588
+Hellertown 6132
 
-Aston Township 16791
-
-Village Green-Green Ridge 8000
-Green Tree 4941
-
-Dormont 8244
-Baldwin Township 1985
-
-Baldwin 21510
-
-Brentwood 10082
-Atwood 112
-Westwood 1692
+Quakertown 9359
+Souderton 7191
+Telford 4928
+Milford 1103
+New Milford 812
+Guilford 2923
+New Oxford 1868
+Oxford 5736
+West Grove 2770
 
 West Chester 18671
 Chester Heights 2897
@@ -94,158 +224,158 @@ Chester 32605
 
 Upper Chichester Township 16898
 Lower Chichester Township 3425
-Linwood 3949
 
-Woodlyn 9685
-Ridley Park 7186
+Aston Township 16791
+
+Abington Township 58502
+Jenkintown 4719
+Mifflintown 840
+Tharptown (Uniontown) 487
+Union Dale 220
+South Uniontown 1325
+Allenport (Washington County) 484
+Allenport (Huntington County) 572
+Ackermanville 572
+Loganville 1426
+Saxonburg 1426
+Madisonburg 209
+Ronco 209
+Glen Osborne 590
+Glen Rock 2121
+Glen Hope 127
+Chalkhill 127
+Rockhill 379
+Bear Rocks 1005
+Picture Rocks 643
+New Jerusalem 598
+Duncansville 1255
+Bowmansville 2989
+Newmanstown 2834
+Myerstown 3094
+Reamstown 3367
+Adamstown 1938
+Swartzville 2273
+Swarthmore 6543
+
+Folsom 8287
 
 Ridley Township 31053
+Ridley Park 7186
+Prospect Park 6427
+Parkside 2321
+Creekside 288
+Delano 288
+Swedeland 1495
+Woodland Heights 1180
+Gratz 743
+Kratzerville 394
+Siglerville 98
+Bigler 356
+Beavertown 40
+Shavertown 1968
+Kylertown 336
+Sankertown 630
+Elderton 334
+Hamorton 179
+Morton 2778
+Trevorton 1759
+Silkworth 784
+Emsworth 2525
+Ellsworth 945
+Stoneboro 945
+Eddystone 2459
+Earlston 1049
+Fallston 259
+Hallstead 1174
+Tioga 606
+Liberty (Tioga County) 234
+West Liberty 335
+Shelocta 102
+Great Bend 627
+Hawk Run 474
+Buck Run 180
+Buckhorn 332
+Jacksonville 620
+Dicksonville 413
+Gallitzin 1536
+Bainbridge 1536
+Ambridge 6972
+Cambridge Springs 2590
+Three Springs 448
+Sheppton 448
+Topton 2041
+Kutztown 4162
+Mertztown 600
+Frystown 355
+Youngstown 252
+Youngsville 1726
+North Warren 1855
 
-Darby Township 9219
+Warren 9404
+Sugar Grove 564
+Sugarcreek 4775
 
-Darby 10715
-
-Upper Darby Township 85681
-
-Drexel Hill 29181
-Sharon Hill 6014
-
-Sharon 13147
-Sharpsville 4255
-Sharpsburg 3187
-East Sharpsburg 85
-West Middletown 109
-West Middlesex 818
-Dalton 1284
-Penn Lake Park 360
-Penn 435
-Pennville 2430
-
-Penn Township 17487
-
-York Township 29719
-
-York 44800
-North York 2200
-
-East York 9555
-Valley View (York County) 2926
-Valley Green 3412
-East Greenville 3166
-Greenville 5540
-Falmouth 397
-Coalmont 90
-Nealmont 53
-Wilmore 206
-Moores Mill 57
-Green Hills 20
-South Greensburg 2135
-Port Allegany 2135
-Mont Alto 1580
-East Altoona 351
-
-Altoona 43963
-Loop 1590
-Blooming Valley 344
-McVeytown 344
-
-Lewistown 8579
-Stormstown 2468
-
-Park Forest Village 8831
-Toftrees 3513
-Reese 39
-Geeseytown 107
-Westland 107
-Portland 494
-Lake Arthur Estates 494
-Penn Estates 4546
-Arlington Heights 6331
-Palmer Heights 3734
-Palmerton 5593
-
-Fullerton 16588
-Hellertown 6132
-
-Allentown 125845
-Cementon 1657
-Benton 823
-Emlenton 614
-Cochranton 1118
-Cochranville 631
-Runville 299
-Townville 326
-Berrysburg 326
-Milesburg 1093
-Knox 1093
+Northwest Harborcreek 8772
+North East 4106
+North Bend 323
 North Belle Vernon 1873
 Belle Vernon 1024
 New Columbia 1024
-
-Columbia 10207
-Gibraltar 721
-Washington Boro 721
-Ringtown 721
-
-Downingtown 7892
-Thorndale 3669
-
-Caln Township 14432
-Caln 1494
-
-Lancaster 58039
-East Petersburg 4573
-Lampeter 1737
-Evans City 1737
-Karns City 175
-Arnold City 462
-Arnold 4772
-Old Orchard 2406
-Orchard Hills 1949
-Perryopolis 1705
-Salisbury 706
-McAlisterville 920
-Feasterville 3066
-Polk 634
-New Tripoli 840
-Bradenville 487
-Gordonville 523
-Gordon 761
-Butler Township 4906
-
-Coal Township 10139
-
-Bristol Township 54291
-
-Bristol 9861
-
-Croydon 10014
-Troy 1249
-Royer 75
-Royersford 4940
-Boyertown 4264
-Colebrookdale Township 5112
-Springdale Township 1540
-Springdale 3400
-
-Plum 27144
-Tarentum 4352
+New Columbus 222
+Jonestown (Columbia County) 115
+Riverside (Cambria County) 319
+Ranshaw 455
+Ravine 622
+Corsica 319
+Worthington 594
 
 New Kensington 12170
-New Washington 50
-New Stanton 2339
-Snydertown (Centre County) 539
-Vinco 1487
+Tarentum 4352
+Clarence 604
+Pleasant Gap 2945
+Pleasant Hill 2926
+Pleasureville 2635
+Treasure Lake 5460
+DuBois 7510
+Duboistown 1200
+Dunnstown 1464
+
+Johnstown 18411
+Westmont 4982
+Belmont 2771
+Delmont 2596
+Oakmont 6758
+Fox Chapel 5343
+Fox Chase 1600
+Elim 3364
+Riverview Park 3364
+Lincoln Park 1736
 Lincoln 932
+Park Crest 591
 Colver 904
-Elverson 1330
-Benson 187
-Crenshaw 423
-Penns Creek 694
-Russellton 1330
-Russell 1292
-Lawrenceville 691
-Beaver Springs 691
+Alverda 279
+Malvern 3419
+Paoli 6002
+White Mills 585
+Stony Creek Mills 1048
+Stonycreek Township 2087
+Leet Township 1624
+Scott Township 483
+Wilburton Number One 223
+Timber Hills 390
+Smoketown 390
+Hometown 1414
+Hydetown 529
+Hyde 1303
+Williamstown 1303
+Deemston 754
+Ulysses 599
+New Lebanon 183
+
+Lebanon 26814
+Lebanon South 2383
+West Lebanon Township 833
+Dry Tavern 655
 Beaver 4438
 
 Beaver Falls 9005
@@ -253,21 +383,53 @@ Patterson Heights 639
 Ben Avon Heights 400
 Ben Avon 1918
 Avalon 4762
-Millvale 3376
-Reserve Township 3255
+Salona 541
+Modena 541
 
-Shaler Township 28132
-Stowe Township 6426
-McKees Rocks 5920
-McKee 262
+Lock Haven 8108
+York Haven 686
+Gouldsboro 750
+Goldsboro 932
+Lanesboro 508
 
-McKeesport 17727
-Glassport 4475
-Liberty (Allegheny County) 2355
-Edgewood (Allegheny County) 3145
+Hatboro 8238
+Richboro 6443
+Plainfield 443
+Winfield 905
+Smithfield 831
+Mayfield 1763
+West Mayfield 1195
+Newtown (Schuylkill County) 244
+Coaldale (Schuylkill County) 2426
+Schuylkill Haven 5236
 
-Wilkinsburg 14349
-Wilkins Township 6350
+Pottsville 13346
+Minersville 4370
+Shoemakersville 1360
+Hamburg 4270
+West Hamburg 1926
+West Falls 337
+Pine Grove 2049
+New Eagle 2049
+New Bedford 857
+Bedford 2865
+Greenock 1989
+
+Greensburg 14976
+
+Jeannette 8780
+Hostetter 732
+Fort Fetter 175
+Karns City 175
+Evans City 1737
+
+Willow Street 9149
+
+Willow Grove 13730
+Spring Mills 365
+Churchtown 417
+Churchill 3157
+Forest Hills 6429
 
 Penn Hills Township 41059
 
@@ -276,119 +438,208 @@ North Versailles Township 10074
 North Huntingdon Township 31880
 North Irwin 823
 Irwin 3902
+Benton 823
+Emlenton 614
+Cochranton 1118
+Cochranville 631
+Runville 299
+Danville 4239
+Granville 424
+Ironville 60
+Lincolnville 86
+Wattsburg 353
 
-Berwick 10327
-East Berwick 2042
-Mocanaqua 515
-Tamaqua 6916
-Nesquehoning 3336
-Susquehanna Township 968
-Duboistown 1200
-Dunnstown 1464
-Bowmanstown 889
-McClure 889
-McConnellsburg 1151
-Wellersburg 214
-Millersburg 2545
-Liverpool 960
+Pittsburgh 302971
+East Pittsburgh 1927
+North Braddock 4320
+Braddock 1721
+Braddock Hills 1730
+
+Indiana 14044
+Renningers 594
+Klingerstown 101
+Canan Station 101
+Merion Station 5741
+
+Lower Merion Township 63633
+Narberth 4492
+Elberta 271
+Kreamer 742
+Wyalusing 613
+Towamensing Trails 2317
+Stockertown 919
+Yeagertown 1002
+Saegertown 871
+Fisherville 15
+Houserville 1978
+Ross Township 5475
+
+McCandless Township 29698
+
+Glenshaw 8945
+Crenshaw 423
+Cokeburg 629
+Freeburg 557
+East Freedom 552
+Freedom 1496
+New Freedom 4877
+Shrewsbury 3848
+Dillsburg 2635
+Emigsville 3563
+Breinigsville 7495
+Ancient Oaks 6995
+White Oak 7630
+
+Whitehall 15064
+
+Munhall 10774
+Hallam 2775
+Dallas 2694
+Tidioute 626
+Rothsville 2960
+Chesterbrook 5610
+Nanty-Glo 2511
+
+Nanticoke 10628
+Newport Township 4433
+
+Plains Township 9808
+Plains 4293
+Forty Fort 4239
+
+Old Forge 8497
+Georgetown (Luzerne County) 1723
+Wilkes-Barre Township 3213
+
+Wilkes-Barre 44328
+
+Kingston 13349
+Pittston 7591
+West Pittston 4652
+Old Orchard 2406
+Arnold City 462
+Arnold 4772
+Verona 2492
+Arona 255
+
+Sharon 13147
+Sharpsville 4255
+Sharpsburg 3187
+East Sharpsburg 85
+West Middletown 109
+West Middlesex 818
+Dalton 1284
+Royalton 1138
+Steelton 6263
+Felton 501
+New Alexandria 501
+Alexandria 384
+West Alexander 565
+Weedville 565
+
+Meadville 13050
+Plumsteadville 2553
+Susquehanna Depot 1365
+Nottingham 1260
+Birmingham 89
+Benson 187
+Mount Eagle 89
+Eagle 498
+Bald Eagle 242
+Carmichaels 432
+St. Michael 410
+St. Clairsville 76
+St. Clair 48
+
+Upper St. Clair 19229
+Clairton 6181
+
+Upper St. Clair Township 21160
+
+Collier Township 8935
+
+Carnegie 8134
+
+Carnot-Moon 13151
+Leetsdale 1162
+Oakdale 1475
+Dale 1008
+Middleport 362
+Smethport 1436
+Export 894
+Westfield 1112
+Glenfield 212
+Venango 212
+Pleasantville (Venango County) 846
+Pleasantville (Bedford County) 191
+Coaldale (Bedford County) 126
+Georgetown (Beaver County) 208
+Prospect 1123
+East Prospect 934
+Milesburg 1093
+Marklesburg 200
+Waynesburg 4006
+West Waynesburg 401
+
+Waynesboro 10951
+Wayne 7160
+St. Davids 3604
+Davidsville 1145
+Reedsville 579
+Tylersville 225
+Wellsville 301
+Connellsville 7031
+South Connellsville 1917
+Dunbar 1013
 Oliver 2538
 Mount Oliver 3394
 Commodore 284
-Southview 284
-Worthville 80
-Ashville 213
-New Schaefferstown 213
-Taylorstown 213
-Hunterstown 506
-Chicora 916
-Coral 288
-Orangeville 479
-Allensville 479
-Brownsville 2185
-West Brownsville 977
-Weston 332
-West Easton 1237
-Oklahoma (Westmoreland County) 788
-Newburg (Cumberland County) 364
-Aaronsburg (Centre County) 593
-Unionville (Centre County) 267
-Jacksonville (Centre County) 84
-Eagleville (Centre County) 285
-Mill Creek 285
-Falls Creek 1036
-Cross Creek 121
-Geneva 121
-Stevens 611
-Eldred 765
-Dumb Hundred 84
-Sheakleyville 151
-Greens Landing 898
-Rices Landing 425
-Coalport 425
-Port Trevorton 734
-Port Vue 3680
-Windber 3941
-Lewisberry 382
-Byrnedale 382
-Manorville 382
-Manor 3585
-Bolivar 435
-Cross Keys 435
-Cross Roads 523
-Soudersburg 523
-Souderton 7191
-
-Quakertown 9359
-Stockertown 919
-Yeagertown 1002
-Meadowood 2729
-Meadowlands 839
-Wyano 433
-Wyalusing 613
-Towamensing Trails 2317
-Kreamer 742
-Leamersville 96
-
-Millersville 7903
-Sellersville 4567
-
-Perkasie 9120
-Coopersburg 2447
-Pennsburg 3889
-Woxhall 1297
-Toughkenamon 1297
-Altamont 624
-Nittany 624
-West Kittanning 1192
-Kittanning 3921
-West Pittsburg 734
-East Pittsburgh 1927
-
-Pittsburgh 302971
-Wattsburg 353
-Dunlo 353
-Dunlevy 371
-Cumbola 371
-New Cumberland 7507
-Northumberland 3911
-
-Sunbury 9719
-Mifflinburg 3485
-Lewisburg 5158
-Elysburg 2152
-Claysburg 1291
-New Freeport 77
-Freeport 1736
-Leesport 1954
-Dover 1954
-
-Hanover 16429
-Hanover Township 2416
-Newville 1376
+Lamar 561
+Sutersville 561
+Portersville 231
+Cassville 135
+Douglassville 518
 Linesville 962
 Cranesville 570
-Sandy Lake 649
-Sandy 1362
+Claysville 733
+Le Raysville 292
+Pillow 292
+Yellow Springs 159
+York Springs 683
+Chest Springs 140
+Frankfort Springs 116
+Rouzerville 903
+Dauberville 762
+Iola 154
+West Nanticoke 562
+Rupert 154
+Clappertown 98
+Orviston 64
+Manorville 382
+Byrnedale 382
+Slatedale 458
+Hilldale 1120
+Elkland 1827
+Oakland (Lawrence County) 1437
+Eldred 765
+Dumb Hundred 84
+Foundryville 260
+Dryville 364
+Parryville 416
+Aaronsburg (Centre County) 593
+Newburg (Cumberland County) 364
+Madison 364
+Callery 364
+Callensburg 150
+Ebensburg 3404
+Martinsburg 1876
+Loop 1590
+Hollidaysburg 5641
+Claysburg 1291
+New Freeport 77
+Edie 77
+Oneida 263
+Potters Mills 263
 Guys Mills 128
 Millsboro 580
 Wellsboro 3469
@@ -398,59 +649,14 @@ Harrison City 174
 James City 207
 Jonestown (Lebanon County) 1638
 Fredericksburg (Lebanon County) 172
-Fredericksburg (Crawford County) 728
-Bridgewater 745
-Bainbridge 1536
-Ambridge 6972
-Cambridge Springs 2590
-Three Springs 448
-Chest Springs 140
-Fountain Springs 256
-Fountain Hill 4832
-Summerhill 479
-Summerville 504
-Hookstown 129
-Seven Valleys 480
-Enon Valley 301
-Carson Valley 134
-Sweden Valley 197
-Reservoir 197
-Irvona 549
-Boston 549
-New Boston 231
-New Berlin 801
-New Berlinville 1382
-Gilbertsville 5508
-Gilberton 579
-Eagle 498
-Bald Eagle 242
-Carmichaels 432
-St. Michael 410
-St. Clairsville 76
-Blain 229
-Plains 4293
-
-Plains Township 9808
-Laflin 1451
-Mifflin 530
-Mifflintown 840
-Mifflinville 1233
-Williamsburg 1233
-Williamstown 1303
-Deemston 754
-Rheems 2253
-
-Hershey 13858
-Rutherford 5765
-East Rutherford 156
-Vowinckel 130
-Canan Station 101
-Merion Station 5741
-
-Lower Merion Township 63633
+Brooks Mill 94
+Moores Mill 57
+Green Hills 20
+South Greensburg 2135
+Port Allegany 2135
+Lower Allen 7465
 
 Lower Allen Township 20099
-Lower Allen 7465
 
 Upper Allen Township 23183
 
@@ -463,493 +669,565 @@ Elizabethville 1357
 Elizabeth 1398
 
 Bethel Park 33577
+Bethel 460
+West Elizabeth 403
+Ganister 11
+Webster 237
+S.N.P.J. 18
+Shellytown 41
+Jerseytown 175
+Geeseytown 107
+Westland 107
+Portland 494
+Lake Arthur Estates 494
+Penn Estates 4546
+Arlington Heights 6331
+Palmer Heights 3734
+Palmerton 5593
+Slatington 4283
 
-South Park Township 13416
+Washington 13176
+East Washington 1853
+Centerville (Washington County) 3256
+Morrisville (Greene County) 1209
 
-South Fayette Township 18358
-Fayette City 502
-Casselman 104
+Morrisville (Bucks County) 9809
+Newtown (Bucks County) 2268
+Newtown Grant 5855
+Village Shires 3946
+Cheltenham Village 1993
+
+Cheltenham Township 37452
+Elkins Park 6901
+Colony Park 1269
+Prospect Park (Cameron County) 270
+Shickshinny 632
+Hickory 664
+Martins Creek 664
+Penns Creek 694
+Pennsbury Village 677
+Pennsburg 3889
+East Greenville 3166
+Greenville 5540
+Falmouth 397
+Plymouth 5763
+
+Plymouth Township 18256
+Plymouth Meeting 7452
+Blue Bell 6506
+Ambler 6807
+Ramblewood 769
+Englewood 561
 Homewood 104
 Homewood at Martinsburg 345
-Martinsburg 1876
-Ebensburg 3404
-Rebersburg 488
-Rochester 3472
-Rote 488
-Nottingham 1260
-Birmingham 89
-Conyngham 1825
-Wickerham Manor-Fisher 1825
-Fisherville 15
-Houserville 1978
-Siglerville 98
-Kratzerville 394
-Gratz 743
-Gallitzin 1536
-Little Britain 406
-New Britain 2836
-Chalfont 4253
-Telford 4928
-Milford 1103
-New Milford 812
-West Hills 1228
-Forest Hills 6429
-Churchill 3157
-Church Hill 1711
-Chester Hill 821
-Philipsburg 2789
+Virginville 334
+Mainville 134
+Oswayo 134
+Hazen 163
+Marion Heights 560
+Foot of Ten 560
+
+King of Prussia 24695
+Bridgeport 5015
+
+Norristown 35748
+
+West Norriton Township 16201
+Trooper 5481
+Eagleville (Montgomery County) 4647
+Montgomery 1568
+Montoursville 4750
+
+Millersville 7903
+Sellersville 4567
+
+Perkasie 9120
+Dublin 2177
+Timblin 147
+Barkeyville 188
+Laceyville 361
+Grampian 361
+Ingram 3391
+McKees Rocks 5920
+McKee 262
+Saltillo 309
+Harmonsburg 309
+Harmony 942
+Harmony Township 508
+Woodbury 286
+Blandburg 348
+Blandon 7289
+Fleetwood 4049
+Atwood 112
+Westwood 1692
+Hayti 2890
+
+Coatesville 13350
+South Coatesville 1601
+Cressona 1601
+East Rochester 565
+East Bangor 1124
+Dunlevy 371
+Dunlo 353
+Hebron 939
+Colebrookdale Township 5112
+Upper Pottsgrove Township 5870
+
+Lower Pottsgrove Township 12217
+Pottsgrove 3471
+
+Pottstown 23433
+South Pottstown 2150
+West Pottsgrove Township 3798
+Stowe 3595
+Jermyn 2150
+Kenilworth 2148
+Dilworthtown 1150
+
+Elizabethtown 11639
+Maytown 4098
+Ringtown 721
+Washington Boro 721
+Washingtonville 202
+New Washington 50
+Tylersburg 157
+Cedar Crest 157
+Crescent Township 2488
+Neville Township 1108
+Annville Township 4759
+Annville 4759
+Pennville 2430
+
+Parkville 8263
+Brookville 3995
+Reynoldsville 2549
+Reynolds Heights 1974
+Cornwells Heights 1251
+Jacksonwald 3246
+Seven Fields 2919
+Fairfield 526
 Clearfield 5962
-Newburg (Clearfield County) 353
-Lumber City (Clearfield County) 76
-Klahr 76
-Markleysburg 246
-Puzzletown 88
-Adamsville 88
-Adamstown 1938
-Reamstown 3367
-Denver 3792
-Reinholds 1786
-Kenhorst 3001
-
-Horsham 15193
-
-Upper Moreland Township 26116
-
-Lower Moreland Township 13917
-Oreland 6210
-Freeland 3833
-Loganville 1426
-Ackermanville 572
-Inkerman 1720
-Petersburg 419
-Vanderbilt 419
-Vandergrift 5075
-Hallstead 1174
-Homestead 2884
-Southmont 2045
-Swarthmore 6543
-Morton 2778
-
-Folsom 8287
-Folcroft 6792
-Clifton Heights 6863
-Aldan 4244
-
-Collingdale 8908
-Collinsburg 1048
-Rainsburg 141
-Woodcock 141
-Rockwood 843
-Brockway 2276
-Boalsburg 4577
-Dillsburg 2635
-Pleasureville 2635
-Pleasant Hill 2926
-
-Pleasant Hills 8504
-
-Jefferson Hills 12424
-Jefferson (York County) 658
-Wayne Heights 2606
-Wayne 7160
-Berwyn 3775
-Penn Wynne 6493
-Colwyn 2474
-Wyncote 3081
-Brownstown (Lancaster County) 3081
-Brownstown (Cambria County) 696
-Franklin (Cambria County) 278
-Oakland (Cambria County) 1481
-Pine Grove Mills 1481
-Pine Grove 2049
-New Eagle 2049
-West Falls 337
-West Hamburg 1926
-Hamburg 4270
-Shoemakersville 1360
-Wernersville 2776
-Minersville 4370
-
-Pottsville 13346
-Charlottsville 48
-St. Clair 48
-Fairhope 1146
-Hopeland 641
-Burnside 188
-Glenburn 1148
-Pine Glen 188
-Maple Glen 6647
-Glenside 7737
-Pennside 5190
-Mount Penn 3240
-Mount Pocono 3089
-Holiday Pocono 583
-Lewis Run 583
-Robinson 583
-Hegins 798
-
-Carnegie 8134
-
-Carnot-Moon 13151
-Leetsdale 1162
-Oakdale 1475
-Stockdale 421
-Long Branch 421
-Branchdale 328
+Curwensville 2567
+McEwensville 293
+Rogersville 215
+Sylvania 215
+Sylvan Hills 720
+Morgan Hill 1034
+Curtisville 1097
+Harrisville 819
+Marion 851
+Frisco 914
+Wilmerding 1781
+Wilmore 206
+New Wilmington 2092
+Shillington 5475
+Darlington 249
+Burlington 144
+Sheakleyville 151
+Greens Landing 898
+Rices Landing 425
+Coalport 425
+Ellport 1082
+Allport 230
+Laporte 314
+Newport 1485
 Shartlesville 404
-Bentleyville 2352
-Bendersville 736
-Beech Creek 736
+Branchdale 328
+Long Branch 421
+Baileyville 217
+Finleyville 376
+Fernville 481
+Bernville 905
+Mifflinville 1233
+Williamsburg 1233
+Big Bass Lake 1337
+Deer Lake (Schuylkill County) 670
+Valley View (Schuylkill County) 1595
+Unionville (Centre County) 267
+Jacksonville (Centre County) 84
+Eagleville (Centre County) 285
+Mill Creek 285
 Saw Creek 4118
 Pine Ridge 2464
 Pocono Pines 2007
 
 Pocono Township 10884
 Aleppo Township 429
-Rowes Run 517
-Weissport East 1661
-Weissport 413
-Catawissa 1536
 
-Swissvale 8624
-Mount Wolf 1368
-Wolfdale 3055
-Saxonburg 1426
-Faxon 1445
-Hawk Run 474
-Buck Run 180
-Brandonville 180
-Paxtonville 314
+Penn Township 17487
+
+York Township 29719
+Spry 5237
+Dallastown 4195
+Red Lion 6512
+Lionville 6582
+Exton 5622
+Saxton 726
 Paxtonia 5450
 Paxtang 1648
 
 Progress 11168
 Bressler 1512
-Steelton 6263
-Royalton 1138
-Port Royal 807
-Ski Gap 71
-Glasgow 71
-Douglassville 518
-Cassville 135
-Portersville 231
-Mill Run 231
-Laurel Run 558
-Laurelton 217
-Shelltown 56
-Shellytown 41
-Jerseytown 175
-Millerstown 22
+Cresson 1525
+Portage 2459
+
+Hermitage 16230
+Herminie 718
+Farmington 735
+Gardners 137
+North Philipsburg 617
+North Charleroi 1303
+Charleroi 4234
+Monessen 6876
+Bessemer 1076
+Yorklyn 1811
+Yorkana 239
+
+York 44800
+North York 2200
+
+East York 9555
+Valley View (York County) 2926
+Valley Green 3412
 Valley-Hi 6
 Prompton 237
 Hampton 1432
 Kempton 159
-Yellow Springs 159
-York Springs 683
-Rohrsburg 150
-Callensburg 150
+Rew 159
+Hannasville 159
+Loyalhanna 3409
+Derry 2639
+Cherryville 1618
+Dorneyville 4850
+Wescosville 6039
+Trexlertown 2382
 
-Greensburg 14976
+Lower Macungie Township 32426
+Macungie 3257
+Oak Hills 2382
+Flying Hills 2230
+Grill 1469
+Kenhorst 3001
 
-Jeannette 8780
-Hostetter 732
-Fort Fetter 175
-Forty Fort 4239
+Horsham 15193
+Shamokin 6942
+Shamokin Dam 1652
 
-Old Forge 8497
-Moosic 5959
-Moscow 2039
-
-Scranton 76328
-Taylor 6294
-Saylorsburg 1025
-Wind Gap 2820
-Eastlawn Gardens 3435
-
-Easton 28127
-
-Wilson 8259
-Nicholson 696
-Everson 771
-Jefferson (Greene County) 253
-New Ringgold 253
-Goldsboro 932
-Lanesboro 508
-
-Hatboro 8238
-Fairfield 526
-Seven Fields 2919
-Greenfields 1238
-Whitfield 4911
-Springmont 792
-Sinking Spring 4286
-Spring Ridge 1050
-Harleigh 1050
-Charleroi 4234
-North Charleroi 1303
-Hyde 1303
-Hydetown 529
-Slovan 529
-Oval 366
-Casanova 123
-
-Villanova 8213
-Rosemont 3507
-Bryn Mawr 5879
-
-Broomall 11718
-Brookville 3995
-Reynoldsville 2549
-Reynolds Heights 1974
-
-Hermitage 16230
-Lake Heritage 2158
-Lake City 2935
-
-Grove City 7871
-Ellwood City 7642
-Oakwood 2215
-
-New Castle 21926
-New Brighton 5729
-Albrightsville 138
-Wrightsville 2261
-Marietta 2623
-Maytown 4098
-Dayton 549
-Hayti 2890
-
-Coatesville 13350
-South Coatesville 1601
-Cressona 1601
-Cresson 1525
-Portage 2459
-Beaverdale 959
-Eddystone 2459
-Mundys Corner 1532
-Sickles Corner 114
-Corsica 319
-Utica 184
-Dudley 184
-Yardley 2605
-North Apollo 1252
-Spinnerstown 1697
-Jennerstown 678
-Stonerstown 369
-Orrstown 214
-Slickville 339
-Black Lick 1268
-Red Hill 82
-Sand Hill 2440
-
-Lebanon 26814
-Lebanon South 2383
-Muncy 2440
-
-Munhall 10774
-
-Whitehall 15064
-
-Whitehall Township 29173
-
-South Whitehall Township 21080
-South Waverly 1070
-Stiles 1070
-Stillwater 199
-Yarnell 83
-Lavelle 708
-Avella 782
-Brave 142
-New Beaver 1372
-New Baltimore 142
-Saltillo 309
-Saltsburg 780
-Rockhill 379
-Bear Rocks 1005
-Picture Rocks 643
-Le Raysville 292
-Pillow 292
-Longfellow 183
-Orrtanna 183
-Marianna 399
-Marianne 1063
-Aristes 256
-Railroad 256
-Milroy 1550
-Burnham 1991
-Highland Park 1317
-Ashland 2471
-Ashley 2596
-Alburtis 2596
-Curtisville 1097
-Morgan Hill 1034
-Sylvan Hills 720
-Sylvania 215
-Vandling 730
-
-McCandless Township 29698
-Ross Township 5475
-Penn State Erie (Behrend) 1486
-New Wilmington 2092
-Shillington 5475
-Burlington 144
-Darlington 249
-Virginville 334
-Mainville 134
-Oswayo 134
-Boswell 1224
-Newell 513
-Hopewell 189
-Hopewell Township 5271
-Stewartstown 2129
-Dallastown 4195
-Dallas 2694
-Foxburg 181
-Fox Run 3282
-Fox Chapel 5343
-Fox Chase 1600
-Elim 3364
-Lima 2745
-Bakerstown 2745
-Media 5901
-
-Nether Providence Township 14525
-
-Marple Township 24214
-Neville Township 1108
-Annville Township 4759
-Annville 4759
-Danville 4239
-Swoyersville 5021
-Larksville 4225
-Clarksville 203
-Ehrenfeld 203
-Rehrersburg 322
-Oreminea 62
-Reinerton 456
-Millerton 318
-Heilwood 318
-Millwood 483
-Scott Township 483
-Leet Township 1624
-
-Fairless Hills 9041
-Fairdale 2064
-Fairchance 1890
-Blanchard 597
-Lake Winola 597
-Enola 6103
-Leola 7465
-Osceola Mills 1045
-Crescent Township 2488
-Eldorado 712
-Donora 4569
-Monongahela 4159
-Wopsononock 56
-Thompsontown 631
-Thompson 254
-Kennerdell 176
-Idaville 176
-Davidsville 1145
-St. Davids 3604
-
-Radnor Township 33228
-
-West Norriton Township 16201
-
-Norristown 35748
-Bridgeport 5015
-Bridgeville 4804
-
-Upper St. Clair Township 21160
-
-Upper St. Clair 19229
-Clairton 6181
-Eau Claire 307
-Claysville 733
-Haysville 81
-Jamestown 582
-West Homestead 1872
+Sunbury 9719
+Mifflinburg 3485
+Lewisburg 5158
+Elysburg 2152
+Berrysburg 326
+Townville 326
 Kerrtown 258
-Sankertown 630
-Kylertown 336
-Langeloth 659
-McKnightstown 659
-Reightown 378
-Pughtown 849
-South Heights 384
-Hasson Heights 1229
-Chevy Chase Heights 1229
-Sewickley Heights 857
-Sewickley Hills 689
-Courtdale 689
-Scottdale 4430
-Mount Pleasant 4245
-Mount Pleasant Mills 453
-West Decatur 453
-East Deer Township 1490
-Mexico 398
+Meshoppen 326
+Koppel 712
+Sheatown 766
+Osceola Mills 1045
+Catawissa 1536
+
+Swissvale 8624
+Mount Wolf 1368
+
+Mount Joy 8325
+Mountville 3017
+Gibraltar 721
+
+Columbia 10207
+Columbus 678
+Jennerstown 678
+Spinnerstown 1697
+North Apollo 1252
+Apollo 1615
+Lake City 2935
+Lake Heritage 2158
+Hummels Wharf 1334
+Hummelstown 4544
+McDonald 2060
+Donaldson 377
+Springboro 377
+Springdale 3400
+
+Plum 27144
+Plumville 255
 Wiconsico 844
 West Conshohocken 1493
 
 Conshohocken 9261
+Brackenridge 3240
+Spring Ridge 1050
+Springmont 792
+Sinking Spring 4286
+Roaring Spring 2384
+Boiling Springs 3449
+Mount Holly Springs 1995
 
-Plymouth Township 18256
-Plymouth Meeting 7452
-Plymouth 5763
-Edwardsville 4929
-Pardeesville 574
-
-Hazleton 29963
-West Hazleton 5163
-Beaver Meadows 897
-Little Meadows 245
-Graceton 211
-Wallaceton 297
-Wall 519
-Waller 45
-Hiller 1258
-Thompsonville 3704
+Carlisle 20118
+Carlisle Barracks 938
+Marlin 299
+Berlin 2003
+Somerset 6048
+Kersey 797
+Jersey Shore 4166
+Dushore 451
+Conneaut Lakeshore 2307
+Penn Farms 2307
+Rosslyn Farms 441
+Coplay 3348
+Lykens 1873
+Jackson Center 194
+Rehrersburg 322
+Petersburg 419
+Vanderbilt 419
+Vandergrift 5075
+East Vandergrift 602
+East Berlin 1542
+Broad Top City 367
 
 Oil City 9613
 Central City 998
 Centralia 5
 Marion Center 405
-Marion 851
-Harrisville 819
+Tuscarora 375
+Hooversville 628
+Whitaker 1179
+Bakerstown 2745
+Millerstown 22
+Millersburg 2545
+Liverpool 960
+Duncannon 1478
 
-Harrisburg 50099
-West Fairview 1138
-Enlow 1138
+East Pennsboro Township 20910
+Enola 6103
+Glenolden 7223
+Folcroft 6792
+Pinecroft 300
+Stoystown 300
+McSherrystown 3077
 
-Lower Swatara Township 9531
-
-Middletown (Dauphin County) 9533
-Middletown (Northampton County) 7529
-
-Northampton 10395
-Hokendauqua 3340
-Catasauqua 6518
-North Catasauqua 2971
-Duquesne 5254
-Howard 687
-Seward 411
-Dewart 1385
-Yatesville 638
-Bellwood 1827
-Elkland 1827
-Hilldale 1120
-Slatedale 458
-Quentin 755
-Connoquenessing 668
-Penn State Berks 668
+Hanover 16429
+Hanover Township 2416
+Newville 1376
+Leeper 136
+Atkinson Mills 152
+Millwood 483
+Chapman 223
+Masthope 681
+Hopewell 189
+Cross Roads 523
+Cross Keys 435
+Penn 435
 Penndel 2515
 Clark 576
-Larke 40
-Parker 695
-Roulette 695
-Sproul 191
-Spry 5237
+Clarksville 203
+Ehrenfeld 203
+Penn State Erie (Behrend) 1486
+Penn State Berks 668
+State Line 2804
+
+State College 40501
+Toftrees 3513
+Reese 39
+Wilcox 354
+Casselman 104
+Fayette City 502
+Deer Lake (Fayette County) 482
+New Salem (Fayette County) 499
+New Salem 822
+East Salem 169
+McKeansburg 169
+McKean 476
+Conneaut Lake 624
+Nittany 624
+West Kittanning 1192
+Penbrook 3274
+Avis 1473
+Clarks Green 1524
+Level Green 3898
+Trafford 3317
+Effort 1965
+Brodheadsville 1700
+Sierra View 4907
+Sun Valley 2414
+Enon Valley 301
+Carson Valley 134
+Sweden Valley 197
+Seven Valleys 480
+Alsace Manor 480
+Hickory Hills 624
+Sewickley Hills 689
+Sewickley 3907
+Sewickley Heights 857
+Hasson Heights 1229
+Chevy Chase Heights 1229
+Hawley 1229
+Charlottsville 48
+Wrightsville 2261
+Albrightsville 138
+Henrietta 138
+Marietta 2623
+Marienville 3362
+Ridgway 4039
+Johnsonburg 2404
+
+St. Marys 12738
+Pen Mar 947
+Bryn Mawr 5879
+Rosemont 3507
+Lemont 2276
+Lemont Furnace 715
+Nicholson 696
+
+Wilson 8259
+
+Easton 28127
+West Easton 1237
+Oklahoma (Westmoreland County) 788
+Hyde Park (Westmoreland County) 509
+Heidlersburg 509
+Schnecksville 3261
+Trucksville 2174
+Forksville 111
+Mohrsville 469
+Smith Corner 38
+Mundys Corner 1532
+Sickles Corner 114
+Jeddo 108
+Chewton 395
+West Newton 2665
+
+West Mifflin 19589
+Mifflin 530
+Richfield 530
+Wyano 433
+Meadowlands 839
+Meadowood 2729
+Bentleyville 2352
+Wesleyville 3222
+
+Erie 94831
+Juniata Terrace 564
+Juniata Gap 533
+Ski Gap 71
+Wind Gap 2820
+Pen Argyl 3510
+Saylorsburg 1025
+Taylorstown 213
+New Schaefferstown 213
+Hunterstown 506
+Chicora 916
+Coral 288
+Coraopolis 5559
+Perryopolis 1705
+Morrisdale 684
+Mount Morris 645
+Mount Gretna 193
+Mount Gretna Heights 297
+South Heights 384
+Shenandoah Heights 1222
+Worthville 80
+Ashville 213
+Churchville 5348
+Trevose 3842
+Port Trevorton 734
+Port Vue 3680
+Port Royal 807
+Glasgow 71
+Sidman 444
+Hyndman 863
+Oklahoma (Clearfield County) 759
+Newburg (Clearfield County) 353
+Lumber City (Clearfield County) 76
+Klahr 76
+Edenborn 229
+Edenburg 708
+Lavelle 708
+Avella 782
+Rutledge 782
+Rockledge 2638
+West Wyoming 2638
+Wyoming 3102
+
+Wyomissing 11114
+West Wyomissing 3630
+West Reading 4553
+
+Reading 95112
+Eddington 1996
+
+Croydon 10014
+
+Bristol Township 54291
+
+Bristol 9861
+
+Levittown 52699
+Tullytown 2282
+McVeytown 344
+Belleville 1947
+
+Bellevue 8311
+Bellefonte 6105
+Kulpmont 2758
+Callimont 56
+Shelltown 56
+Campbelltown 5922
+Glen Campbell 256
+Railroad 256
+Milroy 1550
+Church Hill 1711
+Chester Hill 821
+Philipsburg 2789
+Boalsburg 4577
+Brockway 2276
+Rockwood 843
+Southwest Greensburg 2219
+Schaefferstown 978
+Stonerstown 369
+Orrstown 214
+Wellersburg 214
+Slickville 339
+Black Lick 1268
+Wallenpaupack Lake Estates 1226
+Pocono Mountain Lake Estates 875
+Pocono Ranch Lands 1151
+McConnellsburg 1151
+McConnellstown 125
+Lake Wynonah 2858
+Bairdford 855
+Lucerne Mines 892
+Langhorne Manor 1496
+Montrose Manor 717
+Montrose 1290
+Glendon 373
+Clarendon 410
+Arendtsville 867
+Gettysburg 7106
+Bonneauville 1758
+Littlestown 4782
+
+Doylestown 8300
+Noblestown 797
+Cheswick 1672
+Bobtown 701
+Mapletown 1208
+Hulmeville 982
+Mercer 1982
+Mercersburg 1507
+Rimersburg 942
+Jerome 942
+Rome 384
+Tresckow 849
+Roseto 1581
+Halifax 796
+Newell 513
+West Lawn 1762
+West Leechburg 1269
+Leechburg 2149
+Feasterville 3066
+Polk 634
+Wakefield 634
+Spring Grove 2372
 
 Spring Garden Township 13683
 Springfield Township 6026
@@ -958,653 +1236,610 @@ Coburn 210
 Twilight 216
 Lightstreet 1098
 Almedia 1040
+Media 5901
 
-Bloomsburg 12711
-Blossburg 1533
-Evansburg 2410
-McKeansburg 169
-McKean 476
-Conneaut Lake 624
-Conneaut Lakeshore 2307
-Penn Farms 2307
-Harmony 942
-Harmony Township 508
-Woodbury 286
-Blandburg 348
-Summit Hill 3120
-Summit Station 193
-Star Junction 518
-Martinsburg Junction 35
-Nemacolin 826
-Tipton 826
-Patton 1728
-Patterson Township 3129
-Hopwood 2062
-Gouldsboro 750
-York Haven 686
+Nether Providence Township 14525
 
-Lock Haven 8108
-White Haven 1166
-Spartansburg 281
-West York 5094
-Clymer 1321
-Plymptonville 972
-Clintonville 439
-Lyons 439
-Yoe 1055
-Roscoe 720
-Frisco 914
-Paris 667
-Crafton 6099
+Marple Township 24214
+
+Radnor Township 33228
+
+Villanova 8213
+Casanova 123
+New Berlin 801
+New Boston 231
+Fostoria 36
+Friendsville 101
+Edwardsville 4929
+Pringle 893
+Linglestown 6539
+
+Colonial Park 16243
+Lawnton 4967
+Rutherford 5765
+East Rutherford 156
+Vowinckel 130
+Roots 101
+Bear Lake 148
+Volant 126
+Eagles Mere 148
+Strodes Mills 698
+Mill Run 231
+Laurel Run 558
+Laurel Mountain 146
+Hartstown 146
+Stewartstown 2129
+Hopewell Township 5271
+
+Whitehall Township 29173
+
+South Whitehall Township 21080
+South Waverly 1070
+Stiles 1070
+Stillwater 199
+Waterford 1476
+Chadds Ford 1476
+Versailles 1476
+South Versailles Township 310
 Refton 310
-Reiffton 4274
-St. Lawrence 1892
-Lawrence 1236
-McMurray 4736
-Muse 2525
-Rouseville 457
-Rouzerville 903
-Dauberville 762
-Iola 154
-Alfarata 154
-Chalfant 748
-Halfway House 3273
-Spring House 3978
-Spring Hill 748
-Springboro 377
-Roaring Spring 2384
-Georgetown (Lancaster County) 1058
-Unionville (Butler County) 849
-Fairview (Butler County) 180
-Fairview (Erie County) 2850
-Penryn 980
-Henrietta 138
-Loretto 1196
-New Florence 671
-Clarence 604
-Pleasant Gap 2945
-Zion 2197
-Lionville 6582
-Ironville 60
-Lincolnville 86
-Lincoln Park 1736
-Riverview Park 3364
+Crafton 6099
+Paris 667
 New Paris 192
 Scalp Level 744
 Calumet 1145
-Belmont 2771
-Westmont 4982
-Delmont 2596
+Beaverdale 959
+Rennerdale 1103
+Kennerdell 176
+Idaville 176
+Reinerton 456
+Middleburg 1325
+Frizzleburg 442
+Platea 442
+Mechanicsville 461
 
-Murrysville 21006
-Marysville 2652
-Bally 1228
-Blue Ball 1084
-Blue Bell 6506
-Ambler 6807
-Ramblewood 769
-Englewood 561
-Sutersville 561
-Lamar 561
-Hallam 2775
-Winfield 905
-Smithfield 831
-Mayfield 1763
-West Mayfield 1195
-Newtown (Schuylkill County) 244
-Coaldale (Schuylkill County) 2426
-Schuylkill Haven 5236
-Deer Lake (Schuylkill County) 670
-Snow Shoe 670
-Grazierville 670
-Biglerville 1225
-Bigler 356
-Beavertown 40
-Shavertown 1968
-Hughestown 1329
-Geistown 2363
-Lakemont 1773
-Lemont 2276
-Tremont 1676
-Avon 1676
-Avonia 1217
-Allenport (Huntington County) 572
-Allenport (Washington County) 484
-Yorklyn 1811
-Yorkana 239
-Kane 3630
-Lorane 4290
-Lorain 589
-West Waynesburg 401
-Waynesburg 4006
+Mechanicsburg 9311
+New Kingstown 709
+Schlusser 6806
+Russellton 1330
+Witmer 550
+West Homestead 1872
+Homestead 2884
+Southmont 2045
+Southview 284
+South Renovo 411
+Seward 411
+Dewart 1385
+Yatesville 638
+Friesville 195
+Forestville 399
+Marianna 399
+Lattimer 567
+Hunker 310
+Inkerman 1720
+Kapp Heights 877
+Wayne Heights 2606
+Jefferson (York County) 658
 
-Canonsburg 9744
-Emsworth 2525
-Ellsworth 945
-Stoneboro 945
-Flemington 1271
-Farmington 735
-Gardners 137
-Garden View 2478
+Jefferson Hills 12424
 
-Williamsport 27754
-South Williamsport 6261
-South Fork 954
-Espy 1620
-Dalmatia 475
-Palmdale 1308
-Girardville 1308
-Girard 2993
-Albion 1528
-Union City 2927
-Dickson City 6038
-Forest City 1780
-Simpson 1336
+Pleasant Hills 8504
 
-Carbondale 8828
-Honesdale 4458
-The Hideout 2634
-Jessup 4520
-Archbald 7297
-Richboro 6443
-Riceville 58
-Maitland 323
-North Bend 323
-North Braddock 4320
-Braddock 1721
-Braddock Hills 1730
+Brentwood 10082
 
-Indiana 14044
-Indian Lake 390
-Smoketown 390
-Smock 549
-Tunkhannock 1767
-Moshannon 213
-Shanksville 199
-Schwenksville 1296
-Frankstown 96
-Winterstown 608
-Buffington 298
-New Buffalo 124
-Rimersburg 942
-Mercersburg 1507
-Dawson 352
-Lawson Heights 2090
+Baldwin 21510
+Baldwin Township 1985
 
-Latrobe 8060
-Atlas 732
-Atlasburg 351
-Strasburg 3117
-Stroudsburg 5927
+Mount Lebanon Township 34075
 
-East Stroudsburg 9669
-East Side 247
-East Salem 169
-New Salem 822
-New Salem (Fayette County) 499
-Deer Lake (Fayette County) 482
+Dormont 8244
+Green Tree 4941
 Green Lane 490
 Austin 482
 Hastings 1213
 Huntingdon 6827
-Tyrone 5480
-Tyrone Forge 27
-Franklin Forge 14
-Fawn Lake Forest 725
-West Lawn 1762
-Lawnton 4967
-Blawnox 1454
-Grampian 361
-Ingram 3391
-Gray 42
-West Sunbury 182
-Jerome 942
-Rome 384
-Pomeroy 1085
-Atglen 1313
-Glendon 373
-Montrose 1290
-Moose Run 171
-Skelp 171
-Elco 267
-Wilcox 354
-Orviston 64
-Clappertown 98
-Trappe 4002
-Collegeville 5043
-
-State College 40501
-State Line 2804
-Pocono Mountain Lake Estates 875
-Pocono Ranch Lands 1151
-Pocono Woodland Lakes 3249
-Birchwood Lakes 1460
-Gold Key Lake 1979
+Blooming Valley 344
+Rose Valley 1017
+Sturgeon 1611
+Burgettstown 1425
+Conashaugh Lakes 1425
 Emerald Lakes 2895
 Sunrise Lake 1396
 Harveys Lake 2788
-Frackville 3860
-Jacksonville 620
-Dicksonville 413
-Hendersonville 274
-Tylersville 225
-Wellsville 301
-Connellsville 7031
-South Connellsville 1917
-Dunbar 1013
-Sunbrook 325
-Roots 101
-Boothwyn 4968
-Northwood 269
-North Wales 3426
-North Warren 1855
-
-Warren 9404
-Farrell 4258
-Farwell 244
-Columbus 678
-New Columbus 222
-Jonestown (Columbia County) 115
-Riverside (Cambria County) 319
-Ranshaw 455
-
-Glenshaw 8945
+Beurys Lake 132
+Eagle Creek 132
+Turtle Creek 5114
+New Castle Northwest 1397
+South New Castle 647
+Big Run 647
+Big Beaver 1852
+New Beaver 1372
+New Baltimore 142
+Adamsburg 142
+Linds Crossing 142
+Holters Crossing 111
+Curryville 111
+Jamison City 111
+Orbisonia 449
+Gibsonia 2785
 
 Allison Park 21864
 Allison 503
-Madison 364
-Madisonburg 209
-Ronco 209
-Liberty (Tioga County) 234
-Tioga 606
-Mountainhome 1202
+Addison 166
+Baumstown 346
+Sugar Notch 1001
+Bulger 379
+Saltsburg 780
+West Pittsburg 734
+Grapeville 499
+Roseville 178
+Rouseville 457
+Riceville 58
+Maitland 323
+Scotland 1353
+Fayetteville 3208
+Richlandtown 1353
+Richland 1496
+Ashland 2471
+Harwick 850
 
-Mountain Top 11489
+Berwick 10327
+East Berwick 2042
+Mocanaqua 515
+Tamaqua 6916
+Nesquehoning 3336
+Jim Thorpe 4507
+Hawthorn 477
+Thorndale 3669
 
-Nanticoke 10628
-West Nanticoke 562
-Atlantic 113
-Mount Gretna Heights 297
-Mount Gretna 193
-Mount Morris 645
-Laurel Mountain 146
-Hartstown 146
-Lenhartsville 180
-Enhaut 1022
+Caln Township 14432
 
-Cheltenham Township 37452
-Cheltenham Village 1993
-Village Shires 3946
-Churchville 5348
-Trevose 3842
-Trevorton 1759
-Silkworth 784
-Morrisdale 684
-Bloomfield 1219
-Pen Mar 947
-Hughesville 2154
-Sturgeon 1611
-Cove Forge 73
-New Galilee 330
+Downingtown 7892
+Jugtown 46
+Olyphant 5383
+Egypt 2588
+Gray 42
+West Sunbury 182
+West View 6685
+Point View 14
+Point Marion 1156
+Franklin Forge 14
+Tyrone Forge 27
+Tyrone 5480
+Greenwood 3114
+Allenwood 334
+Linwood 3949
+
+Woodlyn 9685
+Pocono Woodland Lakes 3249
+Birchwood Lakes 1460
+Gold Key Lake 1979
+Sandy Lake 649
+Sandy 1362
+New Centerville 128
+Centerville (Crawford County) 178
+Salunga 2963
+Northwood 269
+North Wales 3426
+Landisville 2196
+Landisburg 221
+
+Harrisburg 50099
+West Fairview 1138
+Enlow 1138
+Wormleysburg 3043
+Lemoyne 4659
+Leola 7465
+New Cumberland 7507
+Northumberland 3911
+Edgewood (Northumberland County) 2286
+Snydertown (Northumberland County) 325
+Sunbrook 325
+Cairnbrook 505
+Van Voorhis 138
+Landingville 138
+Fivepointville 1090
+Troutville 230
+Conneautville 739
+Eagleview 2193
+Defiance 196
+Heckscherville 196
+Oley 1244
+Newton Hamilton 196
+Clifton Heights 6863
+Sharon Hill 6014
+
+Drexel Hill 29181
+
+Upper Darby Township 85681
+
+Darby 10715
+
+Darby Township 9219
+
+Collingdale 8908
+Aldan 4244
+
+Lansdowne 11107
+East Lansdowne 2714
+
+Yeadon 12054
+Colwyn 2474
+Penn Wynne 6493
+
+Ardmore 13566
+Needmore 153
+Elrama 285
+Ursina 247
+East Side 247
+
+East Stroudsburg 9669
+Stroudsburg 5927
+Sadsburyville 1001
+Quarryville 2843
+Lampeter 1737
+East Petersburg 4573
+Manheim 5046
+Manheim Township 3462
+Tinicum Township 3983
+Mount Carbon 91
+Port Carbon 1806
+Mount Carmel 5725
+Mount Cobb 1763
+East Brady 818
+East Butler 764
+East Earl 1113
+Bradford Woods 1183
+Bradford 7849
+Parker 695
+Roulette 695
+Sproul 191
+Soudersburg 523
+Coudersport 2381
+
+Williamsport 27754
+South Williamsport 6261
+Garden View 2478
+Amity Gardens 3715
+Eastlawn Gardens 3435
+Nazareth 6053
+Bath 2808
+Middletown (Northampton County) 7529
+
+Northampton 10395
+Cementon 1657
+
+Allentown 125845
+Allensville 479
+Grassflat 479
+Potlicker Flats 174
+Brickerville 1277
+Lenkerville 504
+Hookstown 129
+Continental Courts 705
+New Market 705
+New Morgan 54
+Morgantown 1614
+Mount Jewett 858
+Fairview (Erie County) 2850
+Penryn 980
+Little Britain 406
+New Brighton 5729
+Lehighton 5248
+Smithton 351
+East Altoona 351
+
+Altoona 43963
+Palo Alto 970
+Orwigsburg 3000
+Orwin 304
+Avon 1676
+Avonia 1217
+Avonmore 900
+Millheim 831
+South Temple 1560
+Temple 2073
+
+Muhlenberg Township 21915
+Muhlenberg Park 1544
+Nuremberg 415
+Heidelberg 1288
+Puzzletown 88
+Adamsville 88
+Markleysburg 246
+Shirleysburg 141
+Woodcock 141
+Norwood 5943
 Lilly 879
 Robinson Township 1707
-Tylersburg 157
-Cedar Crest 157
-Briar Creek 597
-Bear Creek Village 291
-Mill Village 388
-Pennsbury Village 677
-Pleasant View 677
-Bruin 423
-Muir 429
-Vicksburg 127
-Smicksburg 56
-Blue Knob 56
-Callimont 56
-Callery 364
-Julian 146
+Robinson 583
+Lewis Run 583
+Rowes Run 517
+Weissport East 1661
+Weissport 413
+Leesport 1954
+Freeport 1736
+Kane 3630
+Whitfield 4911
+Greenfields 1238
+Harleigh 1050
+
+Harleysville 9899
+
+Kulpsville 8159
+
+Lansdale 18773
+
+Montgomeryville 12998
+Factoryville 1165
+Chase 928
+Patterson Township 3129
+Hopwood 2062
+Rebersburg 488
+
+Chambersburg 21903
+Greencastle 4251
+
+New Castle 21926
+
+Castle Shannon 8249
+Moshannon 213
+Shanksville 199
+Schwenksville 1296
+Daisytown 298
+Espy 1620
+Dalmatia 475
+Port Matilda 578
+Wopsononock 56
+Thompsontown 631
+Wyncote 3081
+Slippery Rock 3081
+Templeton 253
+New Ringgold 253
+Riegelsville 847
+Bechtelsville 884
+Waverly 643
+Noxen 643
+Mount Aetna 489
+South Bethlehem 489
+South Fork 954
+McClure 889
+Emporium 1923
+Millbourne 1212
+Woodbourne 3710
+Woodside 2443
+Riverside 2040
+Montandon 873
+Tremont 1676
+Lakemont 1773
+Blakely 6657
+Loretto 1196
+New Florence 671
+Quentin 755
+Connoquenessing 668
+Lansford 4141
+Kittanning 3921
+Yoe 1055
+
+Fairless Hills 9041
+Orchard Hills 1949
+Red Hill 82
+Centre Hall 1268
+Snydertown (Centre County) 539
+Vinco 1487
+New Stanton 2339
+Canton 1735
+
+Scranton 76328
+Taylor 6294
+Moosic 5959
+Moose Run 171
+Skelp 171
+Monument 171
+Locustdale 171
+Scottdale 4430
+Mount Pleasant 4245
+Mount Pleasant Mills 453
+West Decatur 453
+East Deer Township 1490
+McAlisterville 920
+Salisbury 706
+
+Salisbury Township 13621
+Hokendauqua 3340
+Catasauqua 6518
+North Catasauqua 2971
+Howard 687
+Duquesne 5254
+Cove Forge 73
+Glenmoore 872
+Wyndmoor 5853
+Corry 6210
+Fort Washington 5910
+
+Roslyn 9525
+Bryn Athyn 1272
+Warminster Heights 4010
+Ivyland 955
+Wylandville 512
+Goodville 388
+Hendersonville 274
+Numidia 274
+Meridian 3760
+Homeacre-Lyndora 6721
+Eldorado 712
+Flourtown 4786
+Frackville 3860
+Bell Acres 1505
+Weston 332
+Westover 361
+McGovern 3621
+Dover 1954
+Honey Brook 1892
+Foster Brook 1127
+Stonybrook 3281
+
+Brookhaven 8300
+White Haven 1166
+Spartansburg 281
+West York 5094
+Clymer 1321
+Stouchsburg 526
+Mammoth 526
+Trumbauersville 904
+Bendersville 736
+Beech Creek 736
+Beech Mountain Lakes 2157
+Schubert 251
+New Albany 251
+Alba 133
+Strausstown 409
+Herndon 347
+Ferndale 1547
+Fairview-Ferndale 2075
+Fairview (Butler County) 180
+
+Butler 13502
+Shanor-Northvue 5133
+Manor 3585
+Bolivar 435
+Olivia 66
+Canoe Creek 66
+Eagle Lake 12
+Indian Mountain Lake 4733
+Larke 40
+Houston 1172
+Starrucca 169
+Starbrick 462
+Upland 3068
+Freeland 3833
+Hopeland 641
+Kiskimere 135
 Petrolia 179
 Cetronia 2421
 Aspers 486
 Confluence 722
 Rauchtown 722
-Bechtelsville 884
-Waverly 643
-Noxen 643
-Troxelville 260
-Belleville 1947
-
-Bellevue 8311
-Bellefonte 6105
-Kulpmont 2758
-
-Kulpsville 8159
-
-Harleysville 9899
-Waymart 1297
-Mars 1458
-Gibsonia 2785
-Robesonia 2035
-Robeson Extension 217
-Exton 5622
-Saxton 726
-Hamorton 179
-Shamokin 6942
-Shamokin Dam 1652
-Selinsgrove 5713
-Pottsgrove 3471
-
-Lower Pottsgrove Township 12217
-Upper Pottsgrove Township 5870
-
-Pottstown 23433
-South Pottstown 2150
-West Pottsgrove Township 3798
-Stowe 3595
-Jermyn 2150
-Herminie 718
-Ligonier 1513
-Derry 2639
-Loyalhanna 3409
-Hannasville 159
-Rew 159
-Shrewsbury 3848
-New Freedom 4877
-Freedom 1496
-Langhorne Manor 1496
-Montrose Manor 717
-Weatherly 2541
-Mather 387
-Pymatuning South 392
-Pymatuning North 301
-New Castle Northwest 1397
-South New Castle 647
-Big Run 647
-Big Beaver 1852
-
-Phoenixville 18602
-Kenilworth 2148
-Dilworthtown 1150
-Worthington 594
-Renningers 594
-Klingerstown 101
-Friendsville 101
-Marienville 3362
-Ridgway 4039
-Johnsonburg 2404
-
-Johnstown 18411
-Mohnton 2927
-Edinboro 4964
-
-Northwest Harborcreek 8772
-Sugarcreek 4775
-Sugar Grove 564
-Juniata Terrace 564
-Juniata Gap 533
-Gap 2186
-Shade Gap 78
-Brooks Mill 94
-Penbrook 3274
-Avis 1473
-Avoca 2507
-Avondale 1274
-Laureldale 4277
-Millville 976
-Tyler Run 1910
+Grindstone 489
+Windsor 1358
+Windber 3941
+Wind Ridge 204
+Elgin 204
+Indian Lake 390
+Fort Indiantown Gap 68
+North Vandergrift 374
+Rohrsburg 150
+Ohiopyle 37
+Ohioville 3349
+Mingoville 527
 Warrior Run 527
-Arona 255
-Verona 2492
-Donaldson 377
-McDonald 2060
-Hummelstown 4544
-Hummels Wharf 1334
-Womelsdorf 2892
-Newmanstown 2834
-Bowmansville 2989
-Swartzville 2273
-Mertztown 600
-Kutztown 4162
-Topton 2041
-Breinigsville 7495
-Ancient Oaks 6995
-Oak Hills 2382
-Trexlertown 2382
-
-Lower Macungie Township 32426
-Macungie 3257
-Salunga 2963
-Youngstown 252
-Frystown 355
-Stoystown 300
-McSherrystown 3077
-
-Parkville 8263
-Manheim Township 3462
-Manheim 5046
-
-Lititz 9381
-Elizabeth Township 3985
-Brickerville 1277
-Lenkerville 504
-Hunker 310
-South Versailles Township 310
-Versailles 1476
-Chadds Ford 1476
-Bradford 7849
-Bradford Woods 1183
-East Earl 1113
-Mount Jewett 858
-Morgantown 1614
-New Morgan 54
-Nixon 1393
-Dravosburg 1612
-Newry 230
-Troutville 230
-Conneautville 739
-Great Bend 627
-Eagleview 2193
-Defiance 196
-Christiana 1112
-Export 894
-Allport 230
-Laporte 314
-Centerport 314
-Coal Center 110
-Clintondale 110
-Vintondale 412
-Sadsburyville 1001
-Dryville 364
-Parryville 416
-Quarryville 2843
-Cherryville 1618
-Laurys Station 1170
-Slatington 4283
-Walnutport 2067
-Walnuttown 459
-Hebron 939
-Ronks 391
-Akron 4152
-
-Ephrata 13794
-Clay 1869
-Coplay 3348
-Rosslyn Farms 441
-
-Roslyn 9525
-Bryn Athyn 1272
-Hyndman 863
-Oklahoma (Clearfield County) 759
-Greensboro 264
-Driftwood 38
-Hazen 163
-Marion Heights 560
-Foot of Ten 560
-
-King of Prussia 24695
-Spring City 3494
-Spring Mount 2338
-Spring Mills 365
-Churchtown 417
-Adamsburg 142
-Fellsburg 1153
-East McKeesport 2076
-Trucksville 2174
-Forksville 111
-Curryville 111
-Jamison City 111
-Grier City 296
-Fallston 259
-Sandy Ridge 296
-Marklesburg 200
-Morea 200
-
-Ardmore 13566
-Needmore 153
-Elrama 285
-Ramey 436
-Oley 1244
-Newton Hamilton 196
-Heckscherville 196
-Schnecksville 3261
-Heidlersburg 509
-Nuangola 666
-Bangor 5187
-East Bangor 1124
-East Rochester 565
-Weedville 565
-
-Meadville 13050
-Plumsteadville 2553
-Susquehanna Depot 1365
-Susquehanna Trails 2179
-Milford Square 1137
-New Bedford 857
-Bedford 2865
-Greenock 1989
-Norwood 5943
-Conashaugh Lakes 1425
-East Conemaugh 1082
-Ellport 1082
-Dry Tavern 655
-West Lebanon Township 833
-
-Mount Lebanon Township 34075
-
-Castle Shannon 8249
-Greencastle 4251
-
-Waynesboro 10951
-Devon 1580
-Fayetteville 3208
-Guilford 2923
-New Oxford 1868
-Oxford 5736
-West Grove 2770
-Kennett Square 5936
-
-Kennedy Township 8701
-
-Collier Township 8935
-Rochester Township 2711
-Monaca 5625
-Lemont Furnace 715
-Alverda 279
-Silverdale 805
-Rennerdale 1103
-Mahaffey 329
-Mahanoy City 3499
-Edgewood (Northumberland County) 2286
-Snydertown (Northumberland County) 325
-Georgetown (Beaver County) 208
-Coaldale (Bedford County) 126
-Pleasantville (Bedford County) 191
-Pleasantville (Venango County) 846
-Venango 212
-Shenandoah 4243
-Blandon 7289
-Fleetwood 4049
-Temple 2073
-Templeton 253
-South Temple 1560
-Big Bass Lake 1337
-Beurys Lake 132
-Eagle Creek 132
-Turtle Creek 5114
-Fawn Grove 476
-Spring Grove 2372
-Wakefield 634
-Sheffield 1011
-Felton 501
-Seltzer 318
-Delta 707
-Delano 288
-Swedeland 1495
-Hometown 1414
-Woodland Heights 1180
-Koppel 712
-Meshoppen 326
-Shippenville 442
-Platea 442
-Potlicker Flats 174
-Grassflat 479
-Matamoras 2362
-Tatamy 1203
-Alexandria 384
-West Alexander 565
-New Alexandria 501
-New Albany 251
-Alba 133
-Strausstown 409
+Tyler Run 1910
+Wickerham Manor-Fisher 1825
+West Brownsville 977
+Brownsville 2185
+California 5362
+Baidland 1509
+Monongahela 4159
+Donora 4569
 
 Rostraver Township 11393
-West Newton 2665
-Chewton 395
-Jeddo 108
-Eddington 1996
+Atlasburg 351
+Atlas 732
+Ligonier 1513
+Sligo 681
+Friedens 1504
+Friedensburg 1041
+Shippensburg 5478
+Shippenville 442
+Bradenville 487
+New Tripoli 840
+Kistler 291
+Oreminea 62
+Flemington 1271
+McAdoo 2471
+Mill Hall 1479
+Houtzdale 764
+Springdale Township 1540
+Strasburg 3117
+Fairhope 1146
+Union Deposit 418
+Union City 2927
 
-Levittown 52699
-Tullytown 2282
-Woodbourne 3710
-Woodside 2443
-Newtown (Bucks County) 2268
-Newtown Grant 5855
-Grantley 4524
-
-Shiloh 11524
+Grove City 7871
+Lake Latonka 951
+Lake Meade 2539
+Dupont 2539
 
 Weigelstown 15136
-Riegelsville 847
-Beallsville 393
-Sheppton 448
-Fort Loudon 895
-Coudersport 2381
 
-St. Marys 12738
-Treasure Lake 5460
-DuBois 7510
+Shiloh 11524
+Grantley 4524
+Manchester 2800
+Rochester 3472
+Rote 488
+Zelienople 3912
+Galeton 990
+Mapleton 418
+Mansfield 2839
+Bowmanstown 889
+Shiremanstown 1634
+Freemansburg 2875
+Evansburg 2410
+Rainsburg 141
+Collinsburg 1048
+Chinchilla 1959
+Mahanoy City 3499
+Marianne 1063
+Belfast 1279
+Wampum 559
+Clintonville 439
+Lyons 439
+Glen Lyon 1877
+Rankin 1896
+Franklin 6077
+Franklintown 518
+Star Junction 518
+Summit Station 193
+Mattawana 193
+Wanamie 580
+Joffre 485
+McKinley 3128
+Beaver Springs 691
+Pocono Springs 1051
+Fawn Lake Forest 725
 
-Audubon 8688
-Eagleville (Montgomery County) 4647
+Park Forest Village 8831
+Pine Grove Mills 1481
+Stormstown 2468
+Zion 2197
+Burnham 1991
+Auburn 660
+Shenandoah 4243
 
-Montgomeryville 12998
-Brittany Farms-The Highlands 4175
-Warminster Heights 4010
-Ivyland 955
-Wylandville 512
-Goodville 388
-Mingoville 527
-Ohioville 3349
-Ohiopyle 37
-
-Doylestown 8300
-
-Brookhaven 8300
-Dublin 2177
-
-Upper Dublin Township 26665
-
-Upper Gwynedd Township 17072
+Bloomsburg 12711
+Bloomfield 1219
+Hegins 798
+Hughesville 2154
+Sykesville 1115
+Peru 26
+Kelayres 497
+McElhattan 1224
+Strattanville 537
+Valencia 537
+Millvale 3376
+Millville 976
+Troxelville 260
+Pikes Creek 260
+Falls Creek 1036
+Foxburg 181
+Christiana 1112
+Aristes 256
+Hyde Park (Berks County) 2806
+Penn Lake Park 360
+Revloc 531
+Orangeville 479
+Bridgeville 4804
+Collegeville 5043
+Trappe 4002
 Skippack 4129
 
 Aliquippa 9238
@@ -1612,548 +1847,313 @@ Baden 3904
 Conway 2168
 
 Fernway 12414
+Fox Run 3282
+Mars 1458
+
+Economy 9098
+Monaca 5625
 Luzerne 2711
-Georgetown (Luzerne County) 1723
-Wilkes-Barre Township 3213
+Rochester Township 2711
+Industry 1838
+Midland 2433
+Imperial 2722
 
-Wilkes-Barre 44328
+Kennedy Township 8701
 
-Kingston 13349
-Pringle 893
-Linglestown 6539
-
-Colonial Park 16243
-Colony Park 1269
-Prospect Park (Cameron County) 270
-Shickshinny 632
-Hickory 664
-Hickory Hills 624
-Timber Hills 390
-Kimberton 568
-Revloc 531
-Shelocta 102
-Eyers Grove 102
-
-Willow Grove 13730
+Cumru Township 15619
+Vanport Township 1295
 Ernest 417
-Lucerne Mines 892
-Bairdford 855
-Lake Wynonah 2858
-Vail 125
-McConnellstown 125
-Table Rock 133
-Glen Rock 2121
-Mapleton 418
-Union Deposit 418
-Mansfield 2839
-Lansford 4141
-Stonycreek Township 2087
-Stony Creek Mills 1048
-White Mills 585
-White Oak 7630
-Whitaker 1179
-Chalkhill 127
-Mill Hall 1479
-Harwick 850
-McAdoo 2471
-
-Yeadon 12054
-East Lansdowne 2714
-
-Lansdowne 11107
-Shiremanstown 1634
-East Bethlehem Township 2311
-
-Bethlehem Township 25868
-
-Bethlehem 75781
-Nazareth 6053
-Garrett 415
-Hop Bottom 311
-Cotton Town 22
-West Elizabeth 403
-Ganister 11
-Webster 237
-S.N.P.J. 18
-Glen Osborne 590
-Glen Hope 127
-New Hope 2612
-New Holland 5743
-Intercourse 1494
-Paradise 1305
-Addison 166
-Baumstown 346
-Trumbauersville 904
-Park Crest 591
-Parkesburg 3862
+Tionesta 428
+Conestoga 1163
+Holiday Pocono 583
 Langhorne 1643
-Thornburg 466
-Hawthorn 477
-Clarion 3931
-Franklin 6077
-Franklintown 518
+Parkesburg 3862
+Mexico 398
 
 Franklin Park 15479
-Schellsburg 330
-Martins Creek 664
-Seneca 1011
-Schoeneck 1009
-Fivepointville 1090
-Cairnbrook 505
-Van Voorhis 138
-Landingville 138
-Landisville 2196
-Landisburg 221
+Wolfdale 3055
+Palmdale 1308
+Girardville 1308
+Girard 2993
+Albion 1528
+Edinboro 4964
+Mohnton 2927
+Clinton 905
 Port Clinton 278
-Ford Cliff 361
-Laceyville 361
-Baileyville 217
-Wesleyville 3222
-Lawrence Park 3820
-Lawrence Park Township 3820
+Weatherly 2541
+Mather 387
+Athens 3267
+Sayre 5461
+Towanda 2798
+Swoyersville 5021
+Wernersville 2776
+Reinholds 1786
+Denver 3792
 
-Erie 94831
-North East 4106
-Youngsville 1726
-Emigsville 3563
-Manchester 2800
-Stonybrook 3281
-Windsor 1358
-Grindstone 489
-South Bethlehem 489
-New Bethlehem 978
-Bowers 355
-Schaefferstown 978
-Southwest Greensburg 2219
+Ephrata 13794
+Alfarata 154
+Slabtown 145
+Wagner 110
+Blain 229
+Blairsville 3214
+Alburtis 2596
+Wilburton Number Two 54
+Nixon 1393
+Dravosburg 1612
+Vicksburg 127
+Smicksburg 56
+Blue Knob 56
 Blue Ridge Summit 887
 Lime Ridge 823
-Wind Ridge 204
-Elgin 204
-Bulger 379
-Rogersville 215
-Sewickley 3907
-Freeburg 557
-East Freedom 552
-Fredonia 436
-Donegal 102
-Galeton 990
-Hartleton 251
-Roseto 1581
-Halifax 796
-California 5362
-Monessen 6876
-Bessemer 1076
-Shippingport 160
-Shippensburg 5478
-Richlandtown 1353
-Arendtsville 867
-Gettysburg 7106
-Bonneauville 1758
-Littlestown 4782
-Noblestown 797
-Bobtown 701
-Slabtown 145
-Rupert 154
-Peru 26
-Seven Springs 26
-Kelayres 497
-Sayre 5461
-Athens 3267
-Towanda 2798
-Wanamie 580
-Mattawana 193
-Lattimer 567
-Kiskimere 135
-Kistler 291
+Sandy Ridge 296
+Grier City 296
+Lumber City (Mifflin County) 252
 
-Butler 13502
-East Butler 764
-East Brady 818
-Mount Cobb 1763
-Mount Carbon 91
-Port Carbon 1806
-Mount Carmel 5725
-Farmersville 1051
-Carrolltown 1051
-Carlisle Barracks 938
+Middletown (Dauphin County) 9533
 
-Carlisle 20118
-Schlusser 6806
-Boiling Springs 3449
-Mount Holly Springs 1995
-Dupont 2539
-Oakmont 6758
-
-O'Hara Township 9284
+Lower Swatara Township 9531
 Swatara Township 5061
-Myerstown 3094
+Sand Hill 2440
 Cornwall 4604
 Aspinwall 2916
 Etna 3437
-Mount Aetna 489
-Dushore 451
-Jersey Shore 4166
-Salona 541
-Modena 541
-Strodes Mills 698
-Eagles Mere 148
-Mount Eagle 89
-Fredericktown 402
-Starbrick 462
-Upland 3068
-Wallenpaupack Lake Estates 1226
-Lake Latonka 951
-Eagle Lake 12
-Olivia 66
-Canoe Creek 66
-North Vandergrift 374
-Fort Indiantown Gap 68
-Wilburton Number Two 54
-Wilburton Number One 223
-Monument 171
-Numidia 274
-Meridian 3760
-Homeacre-Lyndora 6721
-Shanor-Northvue 5133
-Lenape Heights 1144
-Kapp Heights 877
-Salladasburg 250
-Atkinson Mills 152
-New Lebanon 183
-Ulysses 599
-Chapman 223
-Chase 928
-West Leechburg 1269
-Leechburg 2149
-
-Mechanicsburg 9311
-Mechanicsville 461
-Woolrich 932
-Richland 1496
-Richfield 530
-Cherry Tree 268
-Cherry Valley 60
-Edenburg 708
-Edenborn 229
-Friedensburg 1041
-Elberta 271
-Heidelberg 1288
-Oneida 263
-Potters Mills 263
-Edie 77
-
-Reading 95112
-West Reading 4553
-West Wyomissing 3630
-
-Wyomissing 11114
-Wyoming 3102
-West Wyoming 2638
-Exeter 5514
-Pittston 7591
-West Pittston 4652
-Edgeworth 1669
-Upper Exeter 633
-Cleona 2013
-Cheswick 1672
-Mapletown 1208
-Hulmeville 982
-Mercer 1982
-Force 213
-Effort 1965
-Brodheadsville 1700
-Reedsville 579
-Strattanville 537
-Valencia 537
-Eastvale 184
-Naomi 53
-Ravine 622
-Trainer 1976
-Marcus Hook 2454
-Locustdale 171
-Houston 1172
-Starrucca 169
-Crucible 673
-Hublersburg 121
-Cassandra 162
-Kirkwood 388
-Allenwood 334
-Greenwood 3114
-Hollidaysburg 5641
-Shirleysburg 141
-Wormleysburg 3043
-Lemoyne 4659
-
-East Pennsboro Township 20910
-Duncannon 1478
-Duncansville 1255
-New Jerusalem 598
-Sugar Notch 1001
-Arnot 315
-Tunnelhill 315
-Pinecroft 300
-Crown 201
-Crabtree 201
-Bird-in-Hand 427
-Birdsboro 5106
-Amity Gardens 3715
-Queens Gate 1480
-Clarks Green 1524
-Clarks Summit 5107
-Duryea 5036
-Browntown 1316
-Rockledge 2638
-Rutledge 782
-Blakely 6657
-Bear Lake 148
-Volant 126
-Canton 1735
-Loganton 469
-Mohrsville 469
-Blairsville 3214
-Hooversville 628
-Finleyville 376
-McKinley 3128
-Rankin 1896
-Glen Lyon 1877
-Glen Campbell 256
-Wampum 559
-Campbelltown 5922
-Palmyra 7830
-Skyline View 4410
-West View 6685
-Point View 14
-Point Marion 1156
-Bethel 460
-Bethany 241
-Barrville 179
-Barkeyville 188
-Timblin 147
-Republic 1151
-Waterford 1476
-
-Haverford Township 50431
-Narberth 4492
-
-Bala Cynwyd 9285
-Wyndmoor 5853
-Corry 6210
-Jenkintown 4719
-Elkins Park 6901
-Prospect Park 6427
-Parkside 2321
-Creekside 288
-Raubsville 1079
-Auburn 660
-Millbourne 1212
-Emporium 1923
-New Centerville 128
-Centerville (Crawford County) 178
-Roseville 178
-Rose Valley 1017
-Sun Valley 2414
-Sierra View 4907
-Pen Argyl 3510
-Chestnut Hill 6689
-Bath 2808
-Freemansburg 2875
-
-Salisbury Township 13621
-Dorneyville 4850
-Wescosville 6039
-Nescopeck 1480
-Herndon 347
-Ferndale 1547
-Fairview-Ferndale 2075
-Riverside 2040
-Ursina 247
-Holters Crossing 111
-Linds Crossing 142
-Rossiter 537
-Manns Choice 316
-Lynnwood-Pricedale 2074
-Plumville 255
-Mountville 3017
-
-Mount Joy 8325
-Mount Union 2308
-Conestoga 1163
-
-Sanatoga 8496
-Sheatown 766
-Wheatland 585
-Gouglersville 585
-Chinchilla 1959
-Belfast 1279
-Bell Acres 1505
-Buckhorn 332
-Speers 1088
-Prospect 1123
-Cokeburg 629
-Turbotville 677
-Yukon 656
-Tresckow 849
-Oakland (Susquehanna County) 563
-Midway (Adams County) 1059
-Woodward 106
-Schubert 251
-Beech Mountain Lakes 2157
-Indian Mountain Lake 4733
-Canadohta Lake 503
-Valley View (Schuylkill County) 1595
-Sligo 681
-Slippery Rock 3081
-Port Matilda 578
-Newport Township 4433
-Newport 1485
-Smethport 1436
-Hudson 1436
-Hawley 1229
-Dauphin 795
-Washingtonville 202
-Clarendon 410
-Mont Clare 1852
-Paoli 6002
-Coraopolis 5559
-Avonmore 900
-Millheim 831
-Factoryville 1165
-Foundryville 260
-Pikes Creek 260
-Sykesville 1115
-Plainfield 443
-McElhattan 1224
-McEwensville 293
-Curwensville 2567
-Punxsutawney 5769
-Maxatawny 130
-Fostoria 36
-Foster Brook 1127
-Saegertown 871
-Elderton 334
-Applewold 334
-Glenolden 7223
-Renovo 1061
-South Renovo 411
+Pitcairn 3101
 
 Monroeville 28640
-Pitcairn 3101
-Trafford 3317
-Level Green 3898
-Everett 1765
-Earlston 1049
-Marlin 299
-New Market 705
-Alsace Manor 480
-Continental Courts 705
-Flourtown 4786
-Burgettstown 1425
-Houtzdale 764
-Shinglehouse 1103
-Tionesta 428
-Castanea 1047
-Rural Valley 826
-Carroll Valley 3940
-Scotland 1353
+Monroe 478
+Troy 1249
+Cumbola 371
+Cherry Valley 60
+Alleghenyville 1015
+Yarnell 83
+Hartleton 251
+Lenhartsville 180
+Raubsville 1079
+Oberlin 670
+New Berlinville 1382
 
-Chambersburg 21903
-St. Petersburg 336
+Sanatoga 8496
 
-Muhlenberg Township 21915
-Muhlenberg Park 1544
-Nuremberg 415
-West Liberty 335
-Armagh 102
-Harmonsburg 309
-Wagner 110
-Delaware Water Gap 675
-Brisbin 422
-Eighty Four 645
-Lehighton 5248
-Jim Thorpe 4507
-Masthope 681
-Leeper 136
-Imperial 2722
-Cecil-Bishop 2730
-Orbisonia 449
-Centre Hall 1268
-Morrisville (Greene County) 1209
+Phoenixville 18602
+Mont Clare 1852
 
-Morrisville (Bucks County) 9809
-Hyde Park (Berks County) 2806
-Hyde Park (Westmoreland County) 509
-Oakland (Lawrence County) 1437
+Audubon 8688
+Berwyn 3775
 
-West Mifflin 19589
-West Milton 799
-Westover 361
-McGovern 3621
-Malvern 3419
-Frazer 3635
-Frankfort Springs 116
-Pocono Springs 1051
+Broomall 11718
 
-Economy 9098
-Industry 1838
-Midland 2433
-Baidland 1509
-Gastonville 2554
+Haverford Township 50431
 
-Cumru Township 15619
-Flying Hills 2230
-Grill 1469
-Brackenridge 3240
-Honey Brook 1892
-Chesterbrook 5610
-Rothsville 2960
-Tidioute 626
-Nanty-Glo 2511
-Shenandoah Heights 1222
-Egypt 2588
-Olyphant 5383
-Jugtown 46
-Knoxville 680
-Daisytown 298
-Cashtown 453
+Bala Cynwyd 9285
 
-Elizabethtown 11639
-Highspire 2741
-Cornwells Heights 1251
-Jacksonwald 3246
-Jackson Center 194
-Lykens 1873
-Witmer 550
-Wilmerding 1781
-Joffre 485
-Hereford 933
+Lancaster 58039
+Ronks 391
+Paradise 1305
+Intercourse 1494
+Courtdale 689
+Walnuttown 459
+Walnutport 2067
+Laurys Station 1170
+Martinsburg Junction 35
+Nemacolin 826
+Tipton 826
+Nuangola 666
+Bangor 5187
+Dauphin 795
+Hudson 1436
+Roscoe 720
+Moscow 2039
 
-Lower Burrell 11758
+Dunmore 14042
+Throop 4065
+Jessup 4520
+Archbald 7297
 
-Willow Street 9149
-Strong 106
-Aaronsburg (Washington County) 361
-Lumber City (Mifflin County) 252
-
-Emmaus 11652
-Mammoth 526
-Stouchsburg 526
-Frizzleburg 442
-Red Lion 6512
-Tinicum Township 3983
-Vanport Township 1295
-Zelienople 3912
+Carbondale 8828
+Honesdale 4458
+The Hideout 2634
 Hemlock Farms 3901
-Northern Cambria 3560
-Youngwood 2975
-Lake Meade 2539
-New Kingstown 709
+Duryea 5036
+Browntown 1316
+Laflin 1451
+Exeter 5514
+Upper Exeter 633
+Edgeworth 1669
+Cleona 2013
+Spring Hill 748
+Renovo 1061
+Meyersdale 2070
+Eyers Grove 102
+Fawn Grove 476
+Pymatuning North 301
 Pymatuning Central 2054
 Norvelt 846
+Clarion 3931
+Punxsutawney 5769
+Maxatawny 130
+Thornburg 466
+Royer 75
+Oval 366
+Blossburg 1533
+Force 213
+Strong 106
+Woodward 106
+Driftwood 38
+Flora Dale 38
+Loganton 469
+Reservoir 197
+Morea 200
+Crucible 673
+Gastonville 2554
+Plymptonville 972
+Boston 549
+Dayton 549
+Irvona 549
+Tunkhannock 1767
+Smock 549
+Mahaffey 329
+Shinglehouse 1103
+Spring House 3978
+Mountainhome 1202
+
+Mountain Top 11489
+Cotton Town 22
+Shade Gap 78
+Delaware Water Gap 675
+Brisbin 422
+Cooperstown 399
+Coopersburg 2447
+
+Emmaus 11652
+Waymart 1297
+
+Hershey 13858
+Palmyra 7830
+Skyline View 4410
+Pleasant View 677
+Bruin 423
+Turbotville 677
+Yukon 656
+Fredericktown 402
+Fredonia 436
+Ramey 436
+Armagh 102
+Donegal 102
+Garrett 415
+Hop Bottom 311
+Faxon 1445
+Brave 142
+Schoeneck 1009
+Seneca 1011
+Sheffield 1011
 Salix 1043
-Alleghenyville 1015
-Monroe 478
-East Prospect 934
-Paint 906
+Julian 146
+Eighty Four 645
+Nescopeck 1480
+Queens Gate 1480
+Greensboro 264
+Birdsboro 5106
+Bird-in-Hand 427
+Crown 201
+Crabtree 201
+Cherry Tree 268
+Lewisberry 382
+
+Lower Burrell 11758
+Farrell 4258
+Farwell 244
+Boswell 1224
+
+Canonsburg 9744
+Muse 2525
+Cecil-Bishop 2730
+
+Lititz 9381
+Elizabeth Township 3985
+Clay 1869
+Akron 4152
+New Holland 5743
+Caln 1494
+Gap 2186
+Atglen 1313
+Pomeroy 1085
+Kennett Square 5936
+Boothwyn 4968
+Marcus Hook 2454
+Trainer 1976
+
+Village Green-Green Ridge 8000
+Lima 2745
+Frazer 3635
+Chestnut Hill 6689
+Summit Hill 3120
+Woolrich 932
+Avoca 2507
+Lynnwood-Pricedale 2074
+Manns Choice 316
+Rossiter 537
+Coalmont 90
+Nealmont 53
+Naomi 53
+Utica 184
+Dudley 184
+Yardley 2605
+Aaronsburg (Washington County) 361
+Midway (Washington County) 924
+Beallsville 393
+Fort Loudon 895
+Geneva 121
+Cassandra 162
+Hublersburg 121
+St. Petersburg 336
+Eau Claire 307
+McKnightstown 659
+Slovan 529
+Bethany 241
+Barrville 179
+Selinsgrove 5713
+Kenmar 4241
+Northern Cambria 3560
+Youngwood 2975
+Ashley 2596
+Womelsdorf 2892
+Muncy 2440
+Rheems 2253
+Highspire 2741
+Conyngham 1825
+Speers 1088
 Pennwyn 888
-Sidman 444
+Everett 1765
+Tunnelhill 315
+Paint 906
+Arnot 315
+Patton 1728
+Castanea 1047
+Rural Valley 826
+Blawnox 1454
+Ford Cliff 361
+Hereford 933
+Tatamy 1203
+Republic 1151
+Canadohta Lake 503
+Elco 267
+Orrtanna 183
+Longfellow 183
+Salladasburg 250
+Seltzer 318
+Table Rock 133
+Vail 125
+East Conemaugh 1082
+Dawson 352
+New Buffalo 124
+Enhaut 1022
+Vandling 730
+Delta 707
+Langeloth 659
+Muir 429
+Newry 230
 Culp 30
+Stockdale 421
+Applewold 334
+Eastvale 184
+Shippingport 160

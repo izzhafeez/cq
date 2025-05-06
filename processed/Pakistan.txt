@@ -1,181 +1,49 @@
 
 
 Karachi 11624219
+Gharo 19524
+Mirpur Sakro 8371
+Mirpur Bhtoro 8866
+Daromehar 10869
+Mehar 30429
+Tharu Shah 17698
+Naushahro Firoz 17631
+Naushahra Virkan 40853
+Jandiala Sher Khan 10985
+Jand 18170
 Lachi 18537
-
-Kohat 151427
-Kohlu 11089
-Barkhan 8760
-
-Larkana 364033
-Naudero 33455
-Ratodero 47819
-Madeji 14802
-Bagarji 8005
-Bahawalnagar 126700
+Sarai Naurang 19694
+Bannu 49008
+Mian Channun 76226
+Talamba 28151
+Qadirpur Ran 20407
+Ahmadpur Sial 24889
+Ahmadpur East 116579
+Jalalpur Pirwala 37393
 
 Bahawalpur 552607
-Jalalpur Pirwala 37393
-Shahr Sultan 16166
-
-Multan 1437230
-Qadirpur Ran 20407
-
-Mirpur Khas 215657
-Mirwah Gorchani 12139
-Kabirwala 60782
-Faqirwali 25186
-Harunabad 72432
-Minchianabad 29253
-Chishtian 122199
-Pishin 24239
-
-Quetta 733675
-Thatta 44302
-Battagram 27083
-Abbottabad 120000
-
-Islamabad 601600
-Islamkot 12426
-Naukot 22081
-Nabisar 6256
-Swabi 97363
-Zaida 26787
-Choa Saidan Shah 15344
-Pind Dadan Khan 22001
-Bakhri Ahmad Khan 2000
+Lodhran 97249
+Dhanot 18729
+Kadhan 6854
+Talhar 21154
+Rajo Khanani 7683
 Tando Muhammad Khan 72659
 Tando Jam 31612
 Tando Allahyar 127202
 Tando Adam 125598
-Berani 9975
-Chamber 12746
-Chaman 88568
-Chak 14275
-Lakhi 13600
-Haveli Lakha 65289
-Basirpur 41617
-Hujra Shah Muqim 61546
-Dipalpur 74640
-Adilpur 8247
-Hasilpur 88031
-Mailsi 64545
-Khairpur Tamewah 30967
-Khairpur 40083
-Mirpur Mathelo 49311
-Khanpur Mahar 22273
-Khanpur 142426
-Rajanpur 50682
-Dajal 17630
-Dajjal wala 1000
-Nooriabad 1000
-Noorabad 1100
-Akora 23288
-
-Mingora 279914
-Amirabad 3000
-Kakad Wari Dir Upper 3000
-Upper Dir 29869
-Kot Diji 25616
-Dijkot 27469
-
-Shahkot 200000
-Kandhkot 88468
-Ghauspur 29767
-Gharo 19524
-Daromehar 10869
-Mirpur Bhtoro 8866
-Mirpur Sakro 8371
-Sakrand 31630
-Bandhi 8608
-Kandiari 6861
-Kandiaro 26807
-Karaundi 8604
-Kundian 35406
-Mianwali 89570
-Tandlianwala 38285
-Jaranwala 119785
-Khurrianwala 35292
-Mananwala 28432
-Nankana Sahib 56366
-Chuchar-kana Mandi 69321
-Kaleke Mandi 16361
-Sukheke Mandi 32836
-Jandiala Sher Khan 10985
-Jand 18170
-Raja Jang 24407
-Raiwind 31592
-Chawinda 23599
-Pasrur 53364
-Pasni 33110
-Gadani 13427
-Khadan Khak 6622
-Alik Ghund 7630
-Ziarat 733
-Matiari 18929
-Jati 9152
-Chuhar Jamali 15781
-Chowki Jamali 2000
-Kamalia 112426
-Mamu Kanjan 31914
-Chak Azam Sahu 38216
-
-Sahiwal 235695
-Jam Sahib 6869
-Shahpur Chakar 21446
-Shahdadpur 67249
 Bhit Shah 19325
-Miran Shah 3334
-Jahanian Shah 29095
+Shahdadpur 67249
+
+Nawabshah 229504
+Shahpur Chakar 21446
 Shahpur 14153
 Keshupur 1500
 
 Shekhupura 361303
-Khushab 102793
-Shabqadar 66541
-Gwadar 51901
-Khuzdar 141227
-Bozdar Wada 9175
-Setharja Old 32651
-Hingorja 22263
-Dinga 39784
-Mandi Bahauddin 129733
-Phalia 24789
-Lalian 31355
-Liliani 12211
-Kot Mumin 38355
-Kot Ghulam Muhammad 20897
-Kot Rajkour 1542
-Kot Radha Kishan 45938
-Goth Radhan 16786
-Goth Garelo 6853
-Dokri 14800
-New Badah 38855
-New Mirpur 124352
-Jhelum 145000
-Sarai Alamgir 44120
-Sarai Naurang 19694
-Karak 13679
-
-Okara 223648
-Mustafabad 45795
-Rustam 9048
-
-Shikarpur 156901
-Garhiyasin 14810
-Garhi Khairo 13666
-Miro Khan 10590
-Rajo Khanani 7683
-Talhar 21154
-Baddomalhi 18435
-Narang Mandi 34778
-Kharan 30841
-Kharian 81435
-Jhawarian 27893
-
-Peshawar 1218773
-Pabbi 37307
-Aman Garh 25723
+Chuchar-kana Mandi 69321
+Kaleke Mandi 16361
+Sukheke Mandi 32836
+Khangah Dogran 30314
 Khangarh 19698
 
 Muzaffargarh 165192
@@ -184,270 +52,402 @@ Muzaffarabad 725000
 Baffa 14047
 Mansehra 66486
 Mehrabpur 35263
-Mehar 30429
-Khairpur Nathan Shah 30286
-Tharu Shah 17698
-Bhiria 12186
+Garhi Khairo 13666
+Garhiyasin 14810
 
-Bhimbar 342900
-Kambar 77481
-Gambat 34005
-Ranipur 22495
-Alipur 33601
-Haripur 56977
-Havelian 40481
-Murree 25247
-Kamra 43779
-Kahuta 22551
-Kallar Kahar 15800
-Kalur Kot 25574
+Shikarpur 156901
+Paharpur 17294
+Shorkot 67439
+Dera Ismail Khan 101616
+Darya Khan 15048
+Bhakkar 81950
+Chak Two Hundred Forty-nine Thal Development Authority 18126
+Karor 25634
+Pad Idan 20919
+Darya Khan Marri 8973
+Bandhi 8608
+Kandhkot 88468
+Ghauspur 29767
+Tangwani 9255
+Tangi 29444
+Shabqadar 66541
+Gwadar 51901
+Jiwani 16322
+Bela 20119
+Uthal 16483
+Thal 29331
+Upper Dir 29869
+Kakad Wari Dir Upper 3000
+Jhawarian 27893
+Kharian 81435
+Mehmand Chak 5000
+Mandi Bahauddin 129733
+Phalia 24789
+Lalian 31355
+Liliani 12211
+Kot Mumin 38355
+Kot Addu 104217
+Kot Sultan 10000
+
+Multan 1437230
+Shahr Sultan 16166
+Jatoi Shimali 47144
+Kamalia 112426
+Mamu Kanjan 31914
+Chak Azam Sahu 38216
+Chak One Hundred Twenty Nine Left 24053
+Chak Thirty-one -Eleven Left 45665
+Chak 14275
+Chakwal 101200
+Malakwal 34589
+Malakwal City 35000
+Pind Dadan Khan 22001
+Bakhri Ahmad Khan 2000
+Basti Dosa 2000
+Basti Aukharvand 1000
+Nooriabad 1000
+
+Hyderabad 1386330
+Kotri 72672
+Matiari 18929
+Kandiari 6861
+Kandiaro 26807
+Bhiria 12186
+Karaundi 8604
+Karak 13679
+
+Okara 223648
+Mustafabad 45795
+Renala Khurd 37111
 Rawala Kot 50000
 
 Rawalpindi 1743101
-Pindi Gheb 34301
-Pindi Bhattian 35088
-Sangla Hill 57002
-Mangla 16264
 
-Jhang 341210
-Rojhan 13031
-Kashmor 33732
-Moro 76765
-Naushahro Firoz 17631
-Naushahra Virkan 40853
-
-Kamoke 199531
-
-Muridke 164246
-Eminabad 22679
-
-Gujranwala 1384471
-
-Gujrat 301506
-Kunjah 28103
-Jalalpur Jattan 93883
-Sodhri 15977
-Dhaunkal 12117
-Wazirabad 102444
-Nasirabad 27809
-Warah 18724
+Islamabad 601600
+Islamkot 12426
+Mithi 23431
+Mitha Tiwana 26390
+Tando Mitha Khan 2723
+Sanghar 62033
+Jhol 16067
+Sinjhoro 15970
+Pithoro 6440
+Dhoro Naro 19907
+Narowal 68291
+Baddomalhi 18435
+Kot Ghulam Muhammad 20897
+Kot Rajkour 1542
+Chawinda 23599
+Raiwind 31592
+Raja Jang 24407
+Rajanpur 50682
+Khanpur 142426
 
 Rahim Yar Khan 788915
 
 Saddiqabad 189876
 Charsadda 95319
 Utmanzai 29423
-Tangi 29444
-Tangwani 9255
-Thul 34472
-Goth Phulji 7877
-Dadu 139784
-Johi 16311
-Rohri 50649
+Kotli Loharan 21463
 
-Sukkur 417767
-Surab 13104
-
-Kasur 290643
-Kanganpur 21788
-Chunian 57312
-Pattoki 70436
-Pakpattan 126706
-Arifwala 87360
+Kotli 640000
+New Mirpur 124352
+Jhelum 145000
+Sarai Alamgir 44120
+Sarai Sidhu 15632
+Kabirwala 60782
 
 Burewala 183915
-Dullewala 48682
-Darya Khan 15048
-Dera Ismail Khan 101616
-
-Dera Ghazi Khan 236093
-Jampur 63791
-Jatoi Shimali 47144
-Shingli Bala 4000
-Keti Bandar 2934
-Basti Aukharvand 1000
-Basti Dosa 2000
-Mastung 29082
-Dunga Bunga 25893
-Dinan Bashnoian Wala 7500
-Mian Channun 76226
-Talamba 28151
-Sarai Sidhu 15632
-Ahmadpur Sial 24889
-Ahmadpur East 116579
-Yazman 24580
-Lodhran 97249
-Dhanot 18729
-Kadhan 6854
-Badin 73569
-Tando Bago 14095
-Tando Mitha Khan 2723
-Sanghar 62033
-Sann 8834
-Bannu 49008
-Doaba 8893
-Kalabagh 15976
-Talagang 44960
-Daultala 11814
-Gujar Khan 69374
-Nazir Town 6750
-Fazilpur 28213
-Shakargarh 64304
-Zafarwal 23078
-Narowal 68291
-Dhoro Naro 19907
-Pithoro 6440
-Chhor 16301
+Arifwala 87360
+Sharqpur Sharif 31855
 
 Lahore 6310888
 Kahna Nau 45888
-Chenab Nagar 70000
 
-Chiniot 201781
-Chak Jhumra 37214
+Kasur 290643
+Kot Radha Kishan 45938
+Goth Radhan 16786
+Goth Garelo 6853
+Warah 18724
+Nasirabad 27809
+New Badah 38855
+Dokri 14800
 
-Faisalabad 2506595
-Hala 47915
-Thal 29331
-Uthal 16483
-Bela 20119
-Bat Khela 46079
-Daud Khel 26395
-Kamar Mushani 15867
-Lala Musa 65197
-Usta Muhammad 43983
+Larkana 364033
+Naudero 33455
+Ratodero 47819
+Sobhodero 14623
+Ranipur 22495
+Gambat 34005
+Kambar 77481
 
-Jacobabad 170588
-Jauharabad 46545
-Mitha Tiwana 26390
-Mithi 23431
-Diplo 11575
-Loralai 37787
-Duki 6384
+Bhimbar 342900
+Surkhpur 20000
+Hadali 49663
+Khadan Khak 6622
+Alik Ghund 7630
+Ziarat 733
 Harnai 11066
-Dadhar 15090
-Sibi 64069
-Bhag 14555
-Bhan 16961
-Bhawana 16218
+Harnoli 15669
+Kundian 35406
+Mianwali 89570
 Sillanwali 27023
 Faruka 21747
+Mangla 16264
+Sangla Hill 57002
 
-Sargodha 542603
-Bhalwal 74744
-Malakwal 34589
-Malakwal City 35000
-Chakwal 101200
-Dhok Awan 655
-Wana 2223
-Tank 38488
-Mankera 10819
-Chak Two Hundred Forty-nine Thal Development Authority 18126
-Karor 25634
-Bhakkar 81950
-Lakki 36391
+Shahkot 200000
+Mananwala 28432
+Jaranwala 119785
+Khurrianwala 35292
+Tandlianwala 38285
+Dijkot 27469
+
+Faisalabad 2506595
+Kalabagh 15976
+Daud Khel 26395
+Bat Khela 46079
+
+Mingora 279914
+Hingorja 22263
+Setharja Old 32651
+Bozdar Wada 9175
+Khuzdar 141227
+Surab 13104
+Kalat 26701
+Nushki 27680
+Mastung 29082
+
+Quetta 733675
+Pishin 24239
+Shinpokh 1111
+Shingli Bala 4000
+Battagram 27083
+Thatta 44302
+Pakpattan 126706
+Bahawalnagar 126700
+Rasulnagar 14392
+Kunjah 28103
+
+Gujrat 301506
+
+Gujranwala 1384471
+Begowala 9259
+Bhopalwala 17341
+Sambrial 62874
+Sodhri 15977
+Wazirabad 102444
+Dhaunkal 12117
+Jalalpur Jattan 93883
+Risalpur Cantonment 37084
+Nowshera Cantonment 96766
+Cherat Cantonement 2986
+Aman Garh 25723
+Chaman 88568
+Chamber 12746
+Mirwah Gorchani 12139
+Digri 31842
+Samaro 8784
+Kunri 26773
+Nabisar 6256
+Naukot 22081
+Tando Bago 14095
+Badin 73569
+Kario Ghanwar 5685
+Bulri 4997
+Matli 50398
+Dajal 17630
+Jampur 63791
+Alipur 33601
+Haripur 56977
+Havelian 40481
+Haveli Lakha 65289
+Basirpur 41617
+Khairpur 40083
+Mirpur Mathelo 49311
+Khanpur Mahar 22273
+Adilpur 8247
+Fazilpur 28213
+Shakargarh 64304
+Zafarwal 23078
+Faqirwali 25186
+Harunabad 72432
+Minchianabad 29253
+Eminabad 22679
+
+Kamoke 199531
+
+Muridke 164246
+Narang Mandi 34778
+Kharan 30841
+Dalbandin 14621
+Keti Bandar 2934
+Chuhar Jamali 15781
+Chowki Jamali 2000
+Khewra 32620
+Dandot RS 2000
+Khandowa 1200
+Moza Shahwala 1200
+Hujra Shah Muqim 61546
+Dipalpur 74640
+Hasilpur 88031
+Khairpur Tamewah 30967
+Mailsi 64545
 Kahror Pakka 69743
 Dunyapur 34044
 Shujaabad 65952
-
-Hyderabad 1386330
-Kotri 72672
-
-Kotli 640000
-Kotli Loharan 21463
-Hadali 49663
-Surkhpur 20000
-
-Sialkot 477396
-Sambrial 62874
-Bhopalwala 17341
-Begowala 9259
-Khandowa 1200
-Moza Shahwala 1200
-Kot Sultan 10000
-Kot Addu 104217
-Daira Din Panah 14878
-Taunsa 44869
-Daur 17577
-Daulatpur 14574
-Sehwan 41150
-Jiwani 16322
-Turbat 75694
-Sohbatpur 8940
-Dera Bugti 18120
-Bhera 31781
-Khewra 32620
-Dandot RS 2000
+Amirabad 3000
+Noorabad 1100
 
 Mardan 300424
-Skardu 2100
-Gilgit 10414
-Barishal 2005
-Sharqpur Sharif 31855
-Chak Five Hundred Seventy-five 24295
-Chak One Hundred Twenty Nine Left 24053
-Chak Thirty-one -Eleven Left 45665
-Chichawatni 82762
+Ashanagro Koto 1275
+Miro Khan 10590
+Shahdad Kot 75411
+Kalur Kot 25574
+
+Mirpur Khas 215657
+Berani 9975
+Hala 47915
+Sann 8834
+Sakrand 31630
+Daur 17577
+Daulatpur 14574
+Sohbatpur 8940
+
+Jacobabad 170588
+Thul 34472
+Rustam 9048
+Usta Muhammad 43983
+Lala Musa 65197
+Kamar Mushani 15867
+Khushab 102793
+Jauharabad 46545
+
+Sargodha 542603
+Bhalwal 74744
+Bhera 31781
+Choa Saidan Shah 15344
+Miran Shah 3334
+Jahanian Shah 29095
+Khairpur Nathan Shah 30286
+Khairpur Mir's 124602
+Pir Jo Goth 35537
 Pir Mahal 35343
 Garh Maharaja 29153
 Toba Tek Singh 69064
 Gojra 139726
-Pir Jo Goth 35537
-Khairpur Mir's 124602
-Sobhodero 14623
-Zhob 50537
-Shorkot 67439
-Umarkot 42074
-Samaro 8784
-Kunri 26773
-Kulachi 22376
-Mach 16930
-Mehmand Chak 5000
-Rasulnagar 14392
 
-Hafizabad 153656
-Alizai 3334
-Landi Kotal 2223
-Shahdad Kot 75411
-Ashanagro Koto 1275
+Jhang 341210
+Hangu 36150
+Doaba 8893
+
+Kohat 151427
+
+Peshawar 1218773
+Pabbi 37307
+Akora 23288
 
 Tordher 150000
-Nowshera Cantonment 96766
-Risalpur Cantonment 37084
-Cherat Cantonement 2986
-Attock City 85479
-Hazro City 26309
-Sanjwal 10657
+Zaida 26787
+Swabi 97363
 Topi 36340
-Zahir Pir 34121
-Kot Samaba 22953
-Ubauro 23462
-Ghotki 64295
-Pano Aqil 72881
-Harnoli 15669
-Jhol 16067
-Sinjhoro 15970
-Khadro 9997
+Hazro City 26309
+Attock City 85479
+Sanjwal 10657
+Pindi Gheb 34301
+Pindi Bhattian 35088
 
-Nawabshah 229504
-Darya Khan Marri 8973
-Pad Idan 20919
-Sita Road 27587
-Vihari 112840
-Kario Ghanwar 5685
-Bulri 4997
-Matli 50398
-Digri 31842
-Khangah Dogran 30314
-Hangu 36150
-Shinpokh 1111
-Mianke Mor 86900
-Renala Khurd 37111
+Chiniot 201781
+Chenab Nagar 70000
+Bhawana 16218
+Wana 2223
+Tank 38488
+Kulachi 22376
+Lakki 36391
+Dera Bugti 18120
+
+Dera Ghazi Khan 236093
+Gujar Khan 69374
+Daultala 11814
+Nazir Town 6750
+Kahuta 22551
+Kamra 43779
+Murree 25247
+Abbottabad 120000
+
+Hafizabad 153656
+
+Sialkot 477396
+Pasrur 53364
 Kalaswala 12576
-Kalat 26701
-Nushki 27680
-Dalbandin 14621
+Dullewala 48682
+Mankera 10819
+Mianke Mor 86900
+Pattoki 70436
+Chunian 57312
+Kanganpur 21788
+
+Sukkur 417767
+Rohri 50649
+Bagarji 8005
+Lakhi 13600
+Madeji 14802
+
+Sahiwal 235695
+Jam Sahib 6869
+Nankana Sahib 56366
+Chak Five Hundred Seventy-five 24295
+Chak Jhumra 37214
+Dadu 139784
+Johi 16311
+Bhan 16961
+Sehwan 41150
+Moro 76765
+Goth Phulji 7877
+Sita Road 27587
+Chishtian 122199
+Dunga Bunga 25893
+Dinan Bashnoian Wala 7500
+Dajjal wala 1000
+Vihari 112840
+Chichawatni 82762
 Layyah 78954
-Fort Abbas 40626
-Paharpur 17294
+Taunsa 44869
+Daira Din Panah 14878
+Turbat 75694
+Pasni 33110
 Ormara 13026
+Gadani 13427
+Pano Aqil 72881
+Ghotki 64295
+Ubauro 23462
+Kashmor 33732
+Rojhan 13031
+Kot Samaba 22953
+Zahir Pir 34121
+Yazman 24580
+Fort Abbas 40626
+Sibi 64069
+Dadhar 15090
+Bhag 14555
+Mach 16930
+Duki 6384
+Loralai 37787
+Kohlu 11089
+Barkhan 8760
+Zhob 50537
+Landi Kotal 2223
+Alizai 3334
+Talagang 44960
+Dhok Awan 655
+Kallar Kahar 15800
+Umarkot 42074
+Chhor 16301
+Dinga 39784
+Kot Diji 25616
+Diplo 11575
+Gilgit 10414
+Barishal 2005
+Skardu 2100
+Khadro 9997
+Jati 9152

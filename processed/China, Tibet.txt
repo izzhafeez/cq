@@ -1,32 +1,13 @@
 
 
 Lasa 279215
-Sangye 4625
-Sangri 4720
-Luobusha 1183
-Qushui 8695
-Daga 7050
-Kaga (Angren) 8567
-Kaga (Xietongmen) 7023
-Jiding 6182
+Shenzha 4296
+Sangsang 4379
 
-Dingqing 10028
-Qingduo 5402
-
-Sangduo 11747
-Eluo 6502
-
-Chengguan 45861
-Chentang 2043
-Riwu 1135
-Jiangga 4428
-Gangga 6850
-Nielamu 2986
-Zhangmu 3469
-Zhamu 9050
-Songzong 2034
-Zongga 4047
-Jilong 4863
+Rikaze 63967
+Jitang 4345
+Zhatang 9495
+Zhegu 5040
 Longzi 7778
 
 Jiangzi 11039
@@ -36,127 +17,146 @@ Xiangdui 8302
 Bangda 2284
 Wangda 9130
 Tiantuo 6387
-
-Gatuo 12217
-Gangtuo 3484
-Jiangtang 4852
-Jiazhulin 8459
-Jixiong 5016
-Xiongmei 3437
-Jiaqiong 2926
-Qiongjie 5155
-Jiedexiu 7508
-Dejilin 4722
-Milin 5617
-Linzhi 3267
-Shenzha 4296
-Cuozheluoma 2818
-Cuoqin 4190
-Jiajia 3242
-
-Rikaze 63967
-Sangsang 4379
-Xiege'er 9528
-Quxia 6263
-Lazi 5870
-Langkazi 4560
-Dalong 4672
-Luozha 5696
-Lakang 1799
+Ranwu 4335
+Baima 6402
+Tongka 4387
+Mali 4501
+Kangsha 5703
 Kangma 3085
 Qiangma 4461
 Bahe 2926
-Baiba 3748
+Jiaqiong 2926
+Xiongmei 3437
+Jixiong 5016
+Jiedexiu 7508
+Nierong 4285
+Zharen 8507
+
+Naqu 50530
+Deqing (Naqu) 3698
+Deqing (Duilongdeqing) 6243
+Deqing (Dazi) 9040
+Sangye 4625
+Sangri 4720
+Luobusha 1183
+Qusong 6159
+Songzong 2034
+Zongga 4047
+Gangga 6850
+Jiangga 4428
+Riwu 1135
+Chentang 2043
+
+Chengguan 45861
+Eluo 6502
+Cuozheluoma 2818
+Luoma 6572
+Gulu 3695
+Dangquka 5202
+Ridang 8340
+Cuonei 3232
+Cuomei 4926
+Luozha 5696
+Lakang 1799
+Ma 4500
+Gurong 5763
+Tarong 6393
+Tunba 2130
+Daga 7050
+Qushui 8695
+Jiangtang 4852
+Jiazhulin 8459
+
+Nanmulin 10028
+
+Dingqing 10028
+Jiding 6182
+Kaga (Xietongmen) 7023
+Kaga (Angren) 8567
+Quxia 6263
+Lazi 5870
+Sajia 4758
+Jiajia 3242
+Jilong 4863
+Nielamu 2986
+Zhangmu 3469
+Changzhu 6621
+Qiongjie 5155
+
+Shannan 30370
+Shangchayu 3099
+Xiachayu 5186
+Zhayu 6499
+
+Gatuo 12217
+Rumei 5055
+Lang 4391
+Zhongda 2321
+Jiacha 3261
+Anrao 8009
+Wolong 4158
+Dongga 2489
+Gadong 7601
+Dejilin 4722
+Milin 5617
+Linzhi 3267
 
 Bayi 39110
 Lulang 1588
+Pai 2334
+Motuo 3157
+Zhamu 9050
+Qingduo 5402
+
+Sangduo 11747
+Leiwuqi 6900
+Karuo 3955
+Yanduo 7878
+
+Moluo 11026
+Gangtuo 3484
+Gangba 3417
+Yangbajing 5017
+Payang 2118
 Pulan 6047
 Tuolin 2014
 
 Shiquanhe 10507
 Geji 3886
-Zhuwagen 6522
-Changzhu 6621
-Shangchayu 3099
-Xiachayu 5186
-Zhayu 6499
-Rumei 5055
-Cuomei 4926
-Cuonei 3232
-Ridang 8340
-Dangquka 5202
-Gandanquguo 8267
-Jinda 4564
-Gongbujiangda 5451
-Rongbu 7214
-Ya'an 4802
-Yala 9785
-Jiali 3455
-Mali 4501
-Pali 2554
-Xiasima 3341
+Ritu 3057
+Gaize 5072
+Cuoqin 4190
 Nima 6943
-Baima 6402
-Tongka 4387
-Gongka 6493
-Deqing (Dazi) 9040
-Deqing (Duilongdeqing) 6243
-Deqing (Naqu) 3698
-Yangbajing 5017
-Gangba 3417
-Sajia 4758
-Jiacha 3261
-Zhongda 2321
-Lang 4391
-Dongga 2489
-Wolong 4158
-
-Moluo 11026
-Luoma 6572
-Gulu 3695
-
-Naqu 50530
 
 Xiaqu 11478
-Nierong 4285
-Zharen 8507
-Azha 4879
-
-Biru 10709
-Bianba 5032
-Tunba 2130
-Tarong 6393
-Gurong 5763
-Ma 4500
-
-Shannan 30370
-Kangsha 5703
-
-Zituo 10942
-Shuodu 4944
-Yanduo 7878
-Jitang 4345
-Zhatang 9495
-Zhegu 5040
-Gangdui 6832
-Pubao 6753
-Anrao 8009
-Ranwu 4335
-Leiwuqi 6900
-Panei 5963
-Pai 2334
-Payang 2118
-Yanshiping 2876
+Yala 9785
 Zase 9375
 Laxi 8032
-Chidu 9463
-Caoka 7250
-Karuo 3955
+Ya'an 4802
+Rongbu 7214
+Gongbujiangda 5451
+Baiba 3748
+Jinda 4564
+Azha 4879
+Jiali 3455
 
-Nanmulin 10028
-Gadong 7601
-Qusong 6159
-Gaize 5072
+Biru 10709
+Caoka 7250
+Bianba 5032
+Shuodu 4944
+
+Zituo 10942
+Xiege'er 9528
+Chidu 9463
+Gandanquguo 8267
+Gongka 6493
+Langkazi 4560
+Dalong 4672
+Gangdui 6832
+Pubao 6753
+Zhuwagen 6522
+Panei 5963
+Yanshiping 2876
 Beila 4656
-Motuo 3157
-Ritu 3057
+Xiasima 3341
+Pali 2554

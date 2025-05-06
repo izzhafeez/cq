@@ -2,131 +2,131 @@
 
 Dakar 2646503
 Jaxaay-Parcelles-Niakoul Rab 41570
-Diamniadio 23547
-Thiadiaye 14975
-Gandiaye 13819
-Sibassor 8141
-Passy 12571
-Sokone 14745
+Sangalkam 11915
+Diawara 7541
+Waounde 7816
+
+Tambacounda 107293
+Diattacounda 4356
+Samine 4848
+Marsassoum 7029
 Soum 5044
 Foundiougne 6824
 Ndioum 14341
-Ndiandane 4839
-Nganda 10507
-Malem Hodar 7879
-Kaffrine 39537
-Guinguineo 16386
-Kahone 14231
-
-Kaolack 233708
-
-Mbacke 77255
-Bambey 28908
-Sinthiou Bamambe-Banadji 13823
-Hamady Ounare 10175
-Waounde 7816
-Semme 6891
+Guede Chantier 5600
+Gae 7148
+Dagana 21750
+Richard Toll 57878
+Mpal 8133
+Gueoul 8003
 Kebemer 19902
 Mekhe 22943
-Khombole 15587
-Nguekhokh 27033
-Ngaparou 9525
-Somone 5448
-Saly Portudal 26945
-Salemata 4752
-Kedougou 30051
-Goudiry 6867
-Kidira 10064
-Diawara 7541
-Saraya 2726
-Velingara 32161
-Kounkane 10798
-Diaobe-Kabendou 26165
-Sendou 3125
-Bargny 51188
-Thilogne 10441
-Nguidjilone 10444
-Ouro Sogui 15654
-Matam 17218
-Pata 3118
-Medina Yoro Foulah 3000
-Sare Yoba Diega 3551
-Diannah Malary 3066
-Tanaff 4831
-Sedhiou 24213
-Diattacounda 4356
-Samine 4848
-Goudomp 12870
-Mpal 8133
-
-Saint-Louis 209752
-
-Louga 104349
-Diouloulou 5920
-Thionck Essyl 8389
-Bignona 27826
-
-Ziguinchor 205294
-Oussouye 4828
-Marsassoum 7029
-Gossas 12698
-Rosso 15870
-Ross Bethio 11588
+Mboro 27693
+Tivaouane 69556
 
 Thies 317763
 Pout 23728
-Popoguine 8651
-Podor 11608
-Bode Lao 2466
-Aere Lao 9472
-Gollere 6373
-Linguere 15482
-Gueoul 8003
-Guede Chantier 5600
-Richard Toll 57878
-Dagana 21750
-Gae 7148
-Sangalkam 11915
-Karang Poste 14624
-Ranerou 3027
-Kanel 12975
-Birkelane 7011
-Ndofane 12898
-Keur Madiabel 10542
-
-Diourbel 133705
-Diakhao 4398
-Fatick 28276
-Diofior 11312
-Joal-Fadiouth 45903
+Sebikhotane 27402
+Diamniadio 23547
+Thiadiaye 14975
 
 Mbour 232777
-Mboumba 4896
-Mboro 27693
-Tivaouane 69556
-Kayar 23585
-Sebikhotane 27402
-
-Rufisque 221066
-Bounkiling 6416
-Madina Wandifa 12205
-Salikegne 3677
-Nioro du Rip 20784
+Saly Portudal 26945
+Birkelane 7011
+Malem Hodar 7879
 Malem Niani 2080
 Koumpentoum 10022
 Koungheul 20942
-
-Tambacounda 107293
-Kothiary 4243
+Kounkane 10798
+Kanel 12975
+Sinthiou Bamambe-Banadji 13823
+Semme 6891
+Hamady Ounare 10175
+Ouro Sogui 15654
+Matam 17218
+Salemata 4752
+Kedougou 30051
+Saraya 2726
+Goudiry 6867
+Goudomp 12870
+Sedhiou 24213
+Tanaff 4831
+Diannah Malary 3066
+Sare Yoba Diega 3551
 
 Kolda 81098
 Dabo 6069
+Diaobe-Kabendou 26165
+Sendou 3125
+Bargny 51188
+
+Rufisque 221066
+Sibassor 8141
+
+Kaolack 233708
+Kahone 14231
+Guinguineo 16386
+Popoguine 8651
+Somone 5448
+Ngaparou 9525
+Nguekhokh 27033
+Linguere 15482
 Dahra 32941
 
 Touba 753315
-Galoya Toucouleur 5288
-Pete 4211
-Demette 3042
-Walalde 3224
+
+Mbacke 77255
+
+Diourbel 133705
+Bambey 28908
+Khombole 15587
+Kayar 23585
+
+Saint-Louis 209752
+Ross Bethio 11588
+Rosso 15870
+Ndiandane 4839
+Nganda 10507
+Gandiaye 13819
+Fatick 28276
+Diakhao 4398
+Gossas 12698
+
+Ziguinchor 205294
+Bignona 27826
+Thionck Essyl 8389
+Diouloulou 5920
+Joal-Fadiouth 45903
+Diofior 11312
+Sokone 14745
+Passy 12571
+Keur Madiabel 10542
+Ndofane 12898
+Nioro du Rip 20784
+Medina Yoro Foulah 3000
+Madina Wandifa 12205
+Bounkiling 6416
+Salikegne 3677
+Karang Poste 14624
+
+Louga 104349
+Kaffrine 39537
+Velingara 32161
+Pata 3118
 Bakel 13329
 Dembancane 5293
+Kidira 10064
+Kothiary 4243
+Podor 11608
+Bode Lao 2466
+Aere Lao 9472
+Walalde 3224
+Demette 3042
+Gollere 6373
+Mboumba 4896
+Pete 4211
+Galoya Toucouleur 5288
+Thilogne 10441
+Nguidjilone 10444
+Oussouye 4828
+Ranerou 3027

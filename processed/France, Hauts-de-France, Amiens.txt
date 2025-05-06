@@ -5,179 +5,7 @@ Lille 228328
 Saint-Andre-lez-Lille 10931
 
 Marquette-lez-Lille 10832
-Sailly-lez-Lannoy 1804
-
-Lys-lez-Lannoy 13803
-Lannoy 1706
-Annois 388
-Moyencourt-les-Poix 161
-Guyencourt-Saulcourt 151
-Incourt 95
-Courcelles-au-Bois 75
-Berles-au-Bois 496
-Villers-au-Bois 387
-Warlus 387
-Warluis 1230
-Warlaing 470
-Hartennes-et-Taux 369
-Velennes 281
-Chevennes 155
-Hautevesnes 127
-Haute-Avesnes 381
-Hautecloque 199
-Clarques 259
-Clamecy 277
-Lamecourt 208
-Ramecourt 350
-Becordel-Becourt 166
-Hecourt 131
-Monchecourt 2738
-Fressain 951
-Fressancourt 183
-Frechencourt 231
-Willencourt 141
-Beaulencourt 195
-Bealencourt 138
-Offoy 81
-Nampteuil-sous-Muret 80
-Monampteuil 156
-Urcel 560
-Celles-sur-Aisne 206
-Vailly-sur-Aisne 2133
-Missy-sur-Aisne 674
-Billy-sur-Aisne 1203
-Sailly-le-Sec 267
-Villers-le-Sec 239
-Sermaize 239
-Aizelles 94
-Venizel 1470
-Acy 964
-Trucy 115
-Bucy-le-Long 1996
-Ressons-le-Long 751
-
-Soissons 31100
-Missy-aux-Bois 103
-Proviseux-et-Plesnoy 103
-
-Proville 3607
-
-Provin 3745
-Colembert 702
-Audembert 364
-Wambez 152
-Wambercourt 205
-Ercourt 126
-Tours-en-Vimeu 738
-Acheux-en-Vimeu 513
-Feuquieres-en-Vimeu 2429
-Fressenneville 2400
-Aigneville 675
-Saigneville 406
-Puchevillers 492
-Acheville 613
-
-Rouvroy 9122
-
-Drocourt 3146
-Roclincourt 769
-Ecurie 304
-Mouriez 248
-Romeries 417
-Sepmeries 534
-Laverriere 31
-Querrieu 697
-Berrieux 161
-Ferrieres 463
-Bruyeres-sur-Fere 221
-Rozieres-sur-Crise 267
-Mezieres-sur-Oise 577
-Sery-les-Mezieres 631
-Fresnieres 131
-Maisnieres 514
-Berzy-le-Sec 405
-Therines 175
-Seringes-et-Nesles 236
-Nesles 1089
-Bazoches-sur-Vesles 383
-Courcelles-sur-Vesle 294
-Vers-sur-Selles 787
-Noyelles-sur-Selle 845
-
-Douchy-les-Mines 10296
-
-Bouchain 4377
-Fechain 1958
-
-Dechy 5439
-Andechy 233
-Ginchy 58
-Inchy 804
-Grugies 924
-Remaugies 99
-Maulers 187
-Bassoles-Aulers 146
-Quincy-Basse 68
-Quincy-sous-le-Mont 53
-La Celle-sous-Montmirail 82
-Neuville-sous-Montreuil 774
-Montreuil 2715
-Montreuil-sur-Breche 455
-Reuil-sur-Breche 218
-
-Breteuil 4436
-Esquennoy 915
-Quesques 574
-Surques 370
-Licques 1475
-Recques-sur-Hem 516
-Tournehem-sur-la-Hem 1229
-Bayenghem-les-Seninghem 320
-Seninghem 550
-Bouvelinghem 154
-Rodelinghem 400
-Balinghem 838
-Ruminghem 1200
-Tatinghem 1791
-Heuringhem 1327
-Blaringhem 2063
-Ebblinghem 537
-Racquinghem 2140
-Wacquinghen 238
-Wulverdinghe 238
-Hardinghen 1030
-Hubersent 230
-Tubersent 484
-Halloy 500
-Halinghen 285
-Hermelinghen 295
-Hervelinghen 246
-Lottinghen 476
-Limeux 136
-Eclimeux 165
-Lime 157
-Maast-et-Violaine 157
-Maison-Roland 115
-Sars-et-Rosieres 391
-Rosieres 129
-Tigny-Noyelle 199
-Pont-Noyelles 737
-Vecquemont 572
-Rocquemont 109
-Royon 109
-Peroy-les-Gombries 1042
-
-Nanteuil-le-Haudouin 3359
-Nanteuil-la-Fosse 136
-Fosseux 135
-Gourchelles 135
-Vauchelles-les-Domart 109
-Villers-les-Roye 211
-Fresnoy-les-Roye 271
-
-Roye 6655
-Roye-sur-Matz 392
-Ressons-sur-Matz 1568
+Forest-sur-Marque 1594
 Marest-sur-Matz 398
 Barzy-sur-Marne 384
 Azy-sur-Marne 388
@@ -186,105 +14,964 @@ Essomes-sur-Marne 2483
 Etampes-sur-Marne 1323
 Charly-sur-Marne 2754
 Saulchery 669
-Oulchy-le-Chateau 874
+Saulchoy 295
+Sancourt 295
+Golancourt 426
+Jeancourt 265
+Rancourt 147
+Muirancourt 507
+Bancourt 96
+Englancourt 125
+Fignieres 125
+Cuignieres 185
+Lignieres-en-Vimeu 114
+Bonnieres 626
+Yzeux 221
+Mouriez 248
+Ochtezeele 248
+Oudezeele 537
+Winnezeele 1134
+Warluis 1230
+Warlaing 470
+Hartennes-et-Taux 369
+Velennes 281
+Chevennes 155
+Fiennes 829
+Rety 1957
+Warluzel 246
+Authie 258
+Montlognon 245
+Dolignon 46
+Ognon 137
+Hinacourt 42
+Vignacourt 2223
+Omecourt 155
+Ramecourt 350
+Becordel-Becourt 166
+Hecourt 131
+Monchecourt 2738
+Fressain 951
+Fressancourt 183
+Wancourt 603
+Monceaux-l'Abbaye 165
+Monchel-sur-Canche 72
+Ligny-sur-Canche 211
+Conchy-sur-Canche 201
+Laigny 233
+Martigny 464
+Vandelicourt 212
+Hernicourt 434
+Wissignicourt 143
+Pignicourt 135
+Proix 135
+Frevillers 257
+Cuvillers 177
+Pimprez 670
+Grandvillers-aux-Bois 252
+Vauchelles-les-Quesnoy 855
+Fresnoy 68
+Fresnoy-le-Luat 449
 
-Chateau-Thierry 15938
-Chierry 1047
-Arry 166
-Arrest 841
-Estreboeuf 234
-Baboeuf 483
+Fresnoy-le-Grand 3013
+Brancourt-le-Grand 642
+Hyencourt-le-Grand 84
+Ignaucourt 84
+Caucourt 284
+Royaucourt-et-Chailvet 181
+Seraucourt-le-Grand 721
+Bernatre 49
+Beugnatre 126
+Bellonne 259
+Allonne 1332
+Petit-Fayt 267
+Pissy 267
+Roy-Boissy 277
+Oissy 228
+Boissy-le-Bois 171
+Belloy-en-Santerre 171
+Rouvroy-en-Santerre 220
+
+Rosieres-en-Santerre 3000
+Mezieres-en-Santerre 502
+Hangest-en-Santerre 954
+Le Quesnel 666
+Le Quesne 305
+Le Quesnel-Aubry 132
+
+Biache-Saint-Vaast 4007
+Mont-Saint-Jean 76
+Mont-Saint-Martin 51
+La Herie 170
+Hericourt 100
+Behericourt 223
+Morvillers 419
+Orville 338
+Meaulte 1287
+
+Albert 10588
+Bertry 2312
+Saint-Aubert 1448
+
+Avesnes-les-Aubert 3665
+Esnes 617
+Selvigny 2162
+Walincourt-Selvigny 2068
+Elincourt 680
+Serain 420
+Bermerain 661
+Morchain 256
+Mesnil-Saint-Nicaise 528
+Mesnil-Bruntel 342
+Mesnil-en-Arrouaise 128
+Ponches-Estruval 128
+Fonches-Fonchette 137
+Aumatre 199
+Saint-Samson-la-Poterie 248
+Silly-la-Poterie 140
+Oulchy-la-Ville 127
+
+Orry-la-Ville 3486
+La Chapelle-en-Serval 2592
+La Chapelle-sur-Chezy 222
+La Chapelle-Monthodon 210
+Nesles-la-Montagne 1085
+Puits-la-Vallee 200
+Plessis-de-Roye 200
+Le Plessis-Brion 1568
+
+Le Plessis-Belleville 3120
+Lagny-le-Sec 1882
+Montagny-Sainte-Felicite 413
+Montagny-en-Vexin 580
+Boury-en-Vexin 322
+
+Chaumont-en-Vexin 3089
+Reilly 175
+Sains-les-Fressin 175
+Fressin 579
+Tressin 1008
+Chereng 2988
+Cheret 122
+Vismes 327
+Cuvergnon 314
+Ivergny 224
+Ergny 178
+
+Tergnier 15475
+
+Beautor 3005
+Beaume 118
+Beaumetz-les-Aire 243
+Beaumetz-les-Loges 1010
+Agnez-les-Duisans 669
+Duisans 1374
+Maroeuil 2611
+Roeux 1403
+Plouvain 500
+Bouvaincourt-sur-Bresle 707
+Bethencourt-sur-Mer 1020
+Cayeux-sur-Mer 2820
+Noyelles-sur-Mer 760
+Noyelles-sur-Selle 845
+
+Douchy-les-Mines 10296
+
+Auchy-les-Mines 4534
+
+Bully-les-Mines 11975
+
+Noeux-les-Mines 11970
+
+Marles-les-Mines 6198
+Fouquieres-les-Bethune 1182
+Vendin-les-Bethune 2575
+
+Bethune 31568
+
+Annezin 5672
+Annequin 2198
+
+Verquin 3185
+Drouvin-le-Marais 464
+
+Allennes-les-Marais 3488
+
+Hallennes-lez-Haubourdin 3872
+
+Haubourdin 15694
+
+Emmerin 3085
+Erin 165
+Bettrechies 254
+Aux Marais 720
+Clairmarais 672
+Nieurlet 962
+Muncq-Nieurlet 466
+Neuvireuil 466
+Breuil 67
+Buverchy 45
+Ercheu 719
+Serches 293
+
+Lourches 3859
+Neuville-sur-Escaut 2733
+Noyelles-sur-Escaut 678
+Honnecourt-sur-Escaut 753
+Ribecourt-la-Tour 424
+Aizecourt-le-Bas 61
+Aizecourt-le-Haut 103
+Hermelinghen 295
+Hervelinghen 246
+Halinghen 285
+Balinghem 838
+Rodelinghem 400
+Bouvelinghem 154
+Seninghem 550
+Bayenghem-les-Seninghem 320
+Tatinghem 1791
+Heuringhem 1327
+Blaringhem 2063
+Racquinghem 2140
+Ebblinghem 537
+Oblinghem 238
+Radinghem 417
+Radinghem-en-Weppes 1108
+Boisdinghem 202
+Inghem 334
+Maninghem 140
+Tardinghen 128
+Hardinghen 1030
+Hubersent 230
+Bussus-Bussuel 252
+Bussu 216
+Longueval 251
+Longueville 148
+Foncquevillers 481
+Aubencheul-aux-Bois 275
+Aubencheul-au-Bac 516
+Berles-au-Bois 496
+Courcelles-au-Bois 75
+Incourt 95
+Blincourt 79
+Woincourt 1565
+Goincourt 1196
+Saint-Paul 1509
+La Neuville-Saint-Pierre 147
+La Neuville-Vault 144
+La Neuville 654
+La Neuville-Roy 908
+Montiers 420
+Maignelay-Montigny 2607
+Ravenel 1064
+Brenelle 190
+Lachelle 596
+Remy 1964
+Campremy 348
+Pittefaux 134
+Nampcelles-la-Cour 134
+Nampcel 288
+Le Maisnil 575
+Remaisnil 37
+Oudeuil 204
+Mezerolles 204
+Faverolles 323
+Boyelles 240
+Ervillers 400
+Rouvillers 266
+Rouville 285
+
+Crepy-en-Valois 15694
+Acy-en-Multien 785
+Rosoy-en-Multien 416
+Rouvres-en-Multien 501
+Mareuil-sur-Ourcq 1491
+Montreuil-aux-Lions 1201
+Montreuil 2715
+Neuville-sous-Montreuil 774
+La Madelaine-sous-Montreuil 161
+Omiecourt 227
+Gomiecourt 176
+Gommecourt 128
+Hallivillers 128
+Nivillers 231
+Grivillers 61
+Hardivillers 554
+Rainvillers 945
+Orainville 345
+Onvillers 345
+Agenvillers 186
+Agenville 91
+Mesnil-Domqueur 58
+Domqueur 267
+Hannapes 267
+Hannaches 134
+Raches 2877
+
+Flines-lez-Raches 5567
+
+Lambres-lez-Douai 5057
+
+Douai 46531
+
+Cuincy 7048
+Cuinchy 1696
+Cambrin 977
+Ambrines 174
+OEuilly 229
+Grandrieux 97
+Grandru 267
+Grandcourt 182
+Wargnies-le-Grand 1076
+Ergnies 160
+
+Hergnies 3930
+Bousignies 272
+Bouvignies 1561
+Merignies 2270
+Tourmignies 699
+
+Oignies 10609
+Wahagnies 2736
+
+Libercourt 8443
+Gibercourt 37
+Morcourt 590
+Saint-Martin-sur-Ecaillon 435
+Saint-Martin-sur-Cojeul 201
+Loison-sur-Crequoise 246
+
+Loison-sous-Lens 5683
+
+Lens 38265
+
+Fouquieres-les-Lens 7008
+
+Courcelles-les-Lens 6205
+Courcelles-les-Gisors 834
+Courcelles-sur-Vesle 294
+Bazoches-sur-Vesles 383
+Nesles 1089
+Saint-Martin-le-Noeud 997
+Saint-Martin-Longueau 1476
+Saint-Martin-Riviere 121
+Bethisy-Saint-Martin 1184
+
+Bethisy-Saint-Pierre 3272
+Saint-Pierre 682
+Saint-Pierremont 64
+Pierremont 263
+Pierrepont-sur-Avre 488
+Pierrepont 386
+Pierremande 268
+Allemant 117
+Mortefontaine 255
+Tortefontaine 240
+Lattainville 168
+
+Dainville 5587
+Andainville 203
+Bernay-en-Ponthieu 203
+Monthiers 143
+Thiernu 127
+Presles-et-Thierny 350
+Presles-et-Boves 342
+Nesle 2551
+Ramillies 528
+Illies 1281
+Herlies 2052
+La Herliere 129
+Riviere 1160
+Agnieres 155
+Aubigny-en-Artois 1412
+Gouy-en-Artois 384
+Inchy-en-Artois 573
+Cuigy-en-Bray 936
+Saint-Aubin-en-Bray 1134
+Ons-en-Bray 1340
+Puiseux-en-Bray 354
+Puiseux-en-Retz 230
+Herchies 624
+
+Orchies 7692
+
+Marchiennes 4671
+Bruille-lez-Marchiennes 1233
+Tilloy-lez-Marchiennes 415
+Morvillers-Saint-Saturnin 364
+Hiermont 172
+Biermont 146
+Besmont 146
+Cramont 266
+Haramont 581
+Merck-Saint-Lievin 517
+Fontaine-Saint-Lucien 136
+Foufflin-Ricametz 136
+Mametz 1779
+Lieres 291
+Lappion 291
 Appilly 524
-Bretigny 351
-Metigny 90
-Neuflieux 90
-Seux 160
-Saleux 2449
+Chipilly 180
+Etrepilly 89
+Goyencourt 89
+Simencourt 564
+Toutencourt 495
+Ayencourt 201
+Bayencourt 70
+Moyencourt 303
+Guyencourt-sur-Noye 207
+Guyencourt 229
 
-Salouel 4235
-Bacouel-sur-Selle 584
+Bohain-en-Vermandois 6299
+Vraignes-en-Vermandois 150
+Vaux-en-Vermandois 131
+Bazuel 590
+Beaurepaire-sur-Sambre 247
+Catillon-sur-Sambre 867
+La Groise 446
+Troisvilles 803
+Bevillers 576
+Brunemont 416
+Capelle-les-Hesdin 416
+Auchy-les-Hesdin 1804
+Campagne-les-Hesdin 1732
+Fontaine-les-Clercs 276
+Clairfontaine 539
+Campigneulles-les-Petites 539
+Welles-Perennes 232
+Varennes 187
+Buzancy 169
+Montlevon 257
+Premontre 798
+Quiery-la-Motte 798
+Cuise-la-Motte 2478
+
+Thourotte 5581
+Montmacq 1161
+Machemont 756
+
+Gamaches 3137
+Acheux-en-Vimeu 513
+Tours-en-Vimeu 738
+Feuquieres-en-Vimeu 2429
+Noyelles-en-Chaussee 254
+Fresnoy-en-Chaussee 112
+Fossemanant 112
+Vichel-Nanteuil 88
+Nanteuil-la-Fosse 136
+Fosseux 135
+Fosseuse 770
+Esches 1113
+Maresches 968
+Preseau 1884
+Haspres 2812
+Pressy 292
+Pommera 251
+Pommier 193
+Parcy-et-Tigny 251
+Clacy-et-Thierret 308
+Chery-Chartreuve 308
+Artres 1092
+Famars 2536
+
+Aulnoy-lez-Valenciennes 8172
+
+Valenciennes 44821
+
+Anzin 14443
+
+Beuvrages 7834
+
+Raismes 13719
+Helesmes 1856
+Blesmes 390
+Villers-aux-Erables 125
+Villers-au-Flos 203
+Villers-Helon 203
+Arvillers 662
+Warvillers 105
+Serevillers 99
+Brevillers 109
+Cressy-Omencourt 109
+Liencourt 226
+Riencourt 199
+Gapennes 221
+Fremicourt 296
+Ecquemicourt 847
+Beaurainville 2062
+Beaurain 177
+Bouin-Plumoison 523
+Bouillancourt-la-Bataille 109
+Mery-la-Bataille 557
+Tricot 1542
+
+Ostricourt 5522
+Bertricourt 70
+Gricourt 703
+Vertain 531
+Conde-Folie 828
+Gournay-sur-Aronde 615
+Lamaronde 69
+Neufvy-sur-Aronde 186
+Neuville-au-Bois 186
+Neuville-au-Cornet 67
+La Ville-aux-Bois-les-Pontavert 137
+Villers-les-Roye 211
+Fresnoy-les-Roye 271
+
+Roye 6655
+Roye-sur-Matz 392
+Ressons-sur-Matz 1568
+Braisnes-sur-Aronde 190
+Berneuil-sur-Aisne 970
+Vic-sur-Aisne 1824
+Caisnes 440
+Varesnes 408
+Baboeuf 483
+Lesboeufs 152
+Louvrechy 152
+Avrechy 1112
+Montreuil-sur-Breche 455
+Reuil-sur-Breche 218
+Le Plessier-sur-Bulles 152
+Bulles 924
+Le Mesnil-sur-Bulles 248
+Enquin-sur-Baillons 183
+Warloy-Baillon 720
+Bailleul-les-Pernes 338
+Warlincourt-les-Pas 162
+Herlincourt 115
+Morlincourt 550
+Estrees-sur-Noye 261
+Flers-sur-Noye 345
+Ailly-sur-Noye 2691
+Remiencourt 172
+Cottenchy 770
+Hattencourt 240
+Bouttencourt 1036
+Hallencourt 1372
+Millencourt-en-Ponthieu 335
+Domart-en-Ponthieu 1140
+Lanches-Saint-Hilaire 110
+Martigny-Courpierre 110
+Cartigny 644
+Giraumont 611
+Miraumont 681
+Bucquoy 1297
+Pozieres 250
+Aveluy 500
+Guignemicourt 251
+Meharicourt 548
+Maricourt 154
+Cormont 258
+
+Clermont 11025
+Neuilly-sous-Clermont 1765
+Cambronne-les-Clermont 1034
+Coudun 1034
+Villers-sur-Coudun 1377
+Thenelles 570
+Marconnelle 1290
+Villers-Carbonnel 309
+Urvillers 603
+Montfaucon 165
+Villers-Faucon 642
+Villers-Pol 1284
+Villers-Plouich 416
+Ugny-le-Gay 167
+Essigny-le-Grand 1216
+Ghissignies 442
+Gussignies 288
+Cilly 245
+Bucilly 242
+Heilly 401
+Heilles 604
+Doingt 1477
+Averdoingt 256
+Rebreuviette 247
+Rebreuve-sur-Canche 212
+Boubers-sur-Canche 624
+Marles-sur-Canche 307
+Meneslies 307
+Versigny 446
+Maninghen-Henne 307
+Manin 181
+Manicamp 344
+
+Aniche 10108
+
+Auberchicourt 4659
+Emerchicourt 1015
+Erchin 735
+Esquerchin 744
+Lauwin-Planque 1944
+Planques 103
+Proviseux-et-Plesnoy 103
+Fresnoy-Andainville 81
+Droizy 81
+Saponay 248
+
+Fere-en-Tardenois 3370
+Beuvardes 642
+Brecy 321
+Coincy 1198
+Coingt 74
+Gauchin-Verloingt 854
+Gauchin-Legal 337
+Mareuil-la-Motte 609
+Liez 447
+Audinghen 556
+Beaudignies 556
+Audignies 271
+Saint-Pierre-les-Bitry 138
+Saint-Pierre-les-Franqueville 63
+Pierregot 245
+Dompierre 238
+Beaucourt-en-Santerre 116
+Penin 366
+Neufchelles 366
+Courmelles 1671
+Mello 381
+
+Cires-les-Mello 3539
+Balagny-sur-Therain 1492
+Bailleul-sur-Therain 2045
+Le Coudray-sur-Thelle 507
+
+Neuilly-en-Thelle 3194
+Fresnoy-en-Thelle 856
+Le Mesnil-en-Thelle 2170
+Crouy-en-Thelle 1023
+Chamant 1023
+Champs 282
+Chaudun 282
+Chaudardes 83
+Cuiry-les-Chaudardes 42
+Bucy-les-Cerny 172
+Fontaine-les-Cappy 41
+Benifontaine 281
+Serifontaine 2745
+Fontaine-sous-Montdidier 121
+
+Montdidier 6556
+Mesnil-Saint-Georges 150
+Saint-Georges 277
+Ully-Saint-Georges 1894
+Cauvigny 1251
+Juvigny 297
+Flavigny-le-Grand-et-Beaurain 437
+Port-le-Grand 318
+Le Meillard 142
+Le Mesnil-Saint-Firmin 190
+Briquemesnil-Floxicourt 157
+Terramesnil 235
+Dromesnil 125
+Hetomesnil 217
+Epaumesnil 115
+Crapeaumesnil 134
+
+Faches-Thumesnil 16163
+Vendeville 1466
+
+Andeville 3113
+Monneville 770
+Ors 770
+Chamouille 252
+Fouilleuse 79
+Creuse 213
+Belleuse 281
+Belloy 801
+Parnes 355
+
+Harnes 13569
+
+Annay 4797
+Miannay 598
+Ochancourt 246
+Hancourt 103
+Dancourt-Popincourt 131
+Malzy 184
+Laniscourt 184
+Licourt 403
+Ranchicourt 1091
+
+Achicourt 7683
+
+Mericourt 11580
+
+Sallaumines 10637
+
+Comines 12548
+
+Houplines 8119
+
+Houplin-Ancoisne 3703
+
+Seclin 12214
+Noyelles-les-Seclin 869
+Mericourt-en-Vimeu 108
+Jamericourt 209
+Doudelainville 209
+Plainville 154
+Plainval 333
+Molliens-au-Bois 333
+Molliens-Dreuil 869
+Dreuil-les-Amiens 1494
+
+Amiens 143086
+Sains-en-Amienois 1260
+Fresnes-en-Tardenois 244
+Grivesnes 302
+Avesnes 48
+Haravesnes 36
+Chery-les-Rozoy 114
+Cerny-les-Bucy 114
+Biefvillers-les-Bapaume 85
+Viefvillers 171
+Marquivillers 166
+Thibivillers 216
+Bailly 614
+Tailly 64
+Tavaux-et-Pontsericourt 562
+Sericourt 49
+Bergicourt 137
+Hargicourt 572
+Hendecourt-les-Cagnicourt 297
+Riencourt-les-Cagnicourt 266
+Bullecourt 256
+Recourt 224
+Ecourt-Saint-Quentin 1760
+Raillencourt-Sainte-Olle 2417
+Paillencourt 970
+Wasnes-au-Bac 524
+Aubigny-au-Bac 1041
+Aubigny 544
+Belle-et-Houllefort 544
+Houlle 943
+Moulle 922
+Pihem 922
+Pihen-les-Guines 403
+Campagne-les-Guines 467
+Breilly 467
 
 Ailly-sur-Somme 3360
 Bray-sur-Somme 1360
 Vaux-sur-Somme 342
 Ribemont-sur-Ancre 623
 Ribemont 2135
-Gibercourt 37
-Morcourt 590
-Saint-Martin-sur-Ecaillon 435
+Landifay-et-Bertaignemont 278
+Le Herie-la-Vieville 331
+Parpeville 219
+Eppeville 2108
 
-Saint-Quentin 55407
+Ham 5698
+Muille-Villette 807
+Neuvillette 198
+Ligny-les-Aire 517
+Montigny-les-Conde 53
+Celles-les-Conde 80
+Nielles-les-Calais 209
+Bonningues-les-Calais 584
+Bonningues-les-Ardres 609
+Le Ponchel 228
+Nedonchel 236
+Wambercourt 205
+Humbercourt 283
+Etinehem 283
+Estrees-Deniecourt 251
+Estrees 1047
+Sailly-en-Ostrevent 662
+Pouilly-sur-Serre 561
+Monchy-le-Preux 561
+Conchy-les-Pots 612
+Givenchy-le-Noble 154
+Monchy-au-Bois 493
+Preux-au-Bois 825
+Preux-au-Sart 238
+Lealvillers 170
+Mazinghien 311
+Mazinghem 346
+Wicquinghem 182
+Haute-Epine 256
+Lepine 286
+Le Charmel 286
+Charmes 1806
+Molinchart 281
+Drincham 218
+Ledringhem 526
+Vaudringhem 420
+Eringhem 429
+Crochte 596
+Tourly 200
+Bourlon 1276
+Boursies 290
+Brunembert 290
+Moeuvres 467
+
+Escaudoeuvres 3375
+Eswars 361
+Warsy 110
+Erquieres 253
+Feuquieres 1638
+Broquiers 232
+Quierzy 344
+Vierzy 395
+Vaux-en-Amienois 395
+Acheux-en-Amienois 525
+Lucheux 618
+Grouches-Luchuel 487
+Louches 755
+Landrethun-les-Ardres 615
+
+Ardres 4240
+Andres 1476
+
+Landrecies 4015
+Fontaine-au-Bois 671
+Raucourt-au-Bois 153
+Villers-au-Bois 387
+Warlus 387
+Le Mesge 153
+Le Mesnil-Theribus 729
+Vauvillers 282
+Quevauvillers 1036
+Revelles 514
+Estevelles 1713
+Pont-a-Vendin 2949
+
+Vendin-le-Vieil 6713
+Coupelle-Vieille 512
+Coupelle-Neuve 164
+Liancourt-Fosse 234
+
+Liancourt 6758
+Mogneville 1436
+
+Laigneville 3964
+Monchy-Saint-Eloi 2066
+
+Villers-Saint-Paul 6216
+Villers-sous-Saint-Leu 2020
+Avilly-Saint-Leonard 1016
+Vineuil-Saint-Firmin 1545
+Nempont-Saint-Firmin 168
+
+Pont-Sainte-Maxence 13732
+Longueil-Sainte-Marie 1516
+Saint-Andre-Farivillers 509
+Gouy-Saint-Andre 614
+Lieu-Saint-Amand 1272
+Saint-Amand 167
+Thun-Saint-Amand 1059
+
+Saint-Amand-les-Eaux 17808
+Bruille-Saint-Amand 1499
+Neuville-Saint-Amand 917
 Mesnil-Saint-Laurent 443
 
 Saint-Laurent-Blangy 5713
-Mont-Saint-Eloi 1035
-Monchy-Saint-Eloi 2066
 
-Laigneville 3964
-Mogneville 1436
+Arras 47052
+Arrancy 50
+Sancy-les-Cheminots 115
+Bucy-le-Long 1996
+Sailly-le-Sec 267
+Billy-sur-Aisne 1203
+Missy-sur-Aisne 674
+Celles-sur-Aisne 206
+Vailly-sur-Aisne 2133
+Trucy 115
+Englebelmer 247
+Mesnil-Martinsart 237
+Thun-Saint-Martin 480
+Dommartin 392
+Martincourt 117
+Leury 117
+Coisy 248
+Lancheres 849
+Bouret-sur-Canche 246
+Magnicourt-sur-Canche 100
+Happencourt 165
+Millencourt 218
+Willencourt 141
+Beaulencourt 195
+Frechencourt 231
+Behencourt 358
+Behen 451
+Corbehem 2355
+Corbeny 640
+Plachy-Buyon 890
+Achy 301
+Cachy 228
+Equennes-Eramecourt 249
+Saulchoy-sous-Poix 46
+Le Saulchoy 101
+Gouy-Servins 302
+Servins 902
+Villers-Saint-Sepulcre 902
+Villers-Saint-Genest 364
+Foreste 147
 
-Liancourt 6758
-Liancourt-Fosse 234
-Coupelle-Neuve 164
-Neuville-sur-Ailette 78
-Courtieux 182
-Rieux 1677
-Marieux 86
-Hesbecourt 65
-Grecourt 27
-Montrecourt 159
-Tramecourt 67
-Soucy 70
-Surfontaine 83
-Wargnies 83
-Pargny 126
-Occoches 126
-Ochancourt 246
-Franleu 532
-Canlers 178
-Hendecourt-les-Ransart 129
-Fouquescourt 129
-Porquericourt 381
-Hericourt 100
+Leforest 6843
 
-Mericourt 11580
+Raimbeaucourt 4450
 
-Sallaumines 10637
+Roost-Warendin 5875
+Oost-Cappel 401
+West-Cappel 544
+Le Titre 298
+Grougis 349
+Rougefay 106
+Raye-sur-Authie 258
+Estrees-les-Crecy 370
+Gremevillers 370
+Emeville 276
+Douriez 276
+Beaurieux 708
+Attin 708
+Attilly 402
+Clermont-les-Fermes 135
+Predefin 189
+Montigny-en-Arrouaise 279
+Matigny 520
+Herly 329
+Petit-Verly 177
+Clarques 259
 
-Bully-les-Mines 11975
+Arques 9551
+Ferques 1834
+Rebecques 418
+Ecques 1834
+Wardrecques 1099
+Campagne-les-Wardrecques 990
 
-Noeux-les-Mines 11970
+Blendecques 5331
+Eperlecques 2964
+Recques-sur-Hem 516
+Nordausques 647
+Serques 1061
+Tilques 1004
+Setques 647
+Quesques 574
+Surques 370
+Licques 1475
+Senlecques 204
+Recques-sur-Course 301
+Pertain 325
+Martainneville 350
+Marconne 1312
+Chavonne 185
+Chavigny 156
+Harcigny 263
+Fourcigny 132
+Le Sourd 153
+Le Souich 172
+Magnicourt-en-Comte 568
+Cagnicourt 396
+Auchy-la-Montagne 458
+Auger-Saint-Vincent 458
+Sinceny 2113
 
-Auchy-les-Mines 4534
-
-Haisnes 4436
-Caisnes 440
-Varesnes 408
-Esnes 617
-Avesnes 48
-Rumilly 262
-Wailly 1006
-Wail 261
-Flavigny-le-Grand-et-Beaurain 437
-Port-le-Grand 318
-Brancourt-le-Grand 642
-
-Fresnoy-le-Grand 3013
-
-Grandvilliers 3013
-Grandvillers-aux-Bois 252
-Vendegies-au-Bois 435
-Wierre-au-Bois 245
-Buire-au-Bois 215
-Grevillers 334
-Gannes 334
-Anneux 244
-Banteux 370
-Bantigny 486
-Rantigny 2632
-Cantigny 130
-Braye 130
-Folembray 1500
+Chauny 13176
 Coucy-la-Ville 254
 Bourguignon-sous-Coucy 84
 Bourguignon-sous-Montbavin 123
@@ -303,291 +990,203 @@ Buire 904
 Buironfosse 1209
 Grez 219
 Froidestrees 219
-Estrees 1047
-Sailly-en-Ostrevent 662
-Tortequesne 706
-Tortefontaine 240
-Montigny-sous-Marle 63
-Marcy-sous-Marle 239
-Bray-les-Mareuil 235
-Saint-Vaast-en-Chaussee 575
-Prisces 110
-Pont-Arcy 110
-Marcy 189
-Eparcy 53
-Harcigny 263
-Chavigny 156
-Chilly 156
-Chipilly 180
-Etrepilly 89
-Goyencourt 89
-Simencourt 564
-Toutencourt 495
-Ayencourt 201
-Martincourt 117
-Dommartin 392
-Thun-Saint-Martin 480
-Mont-Saint-Martin 51
-Pont-Saint-Mard 180
-Saint-Mard 197
-Villers-Saint-Genest 364
-Villeneuve-Saint-Germain 2331
-Crouy 2643
-Chuignes 130
-Chuignolles 141
-Buire-Courcelles 293
-Courcelles-le-Comte 433
-Courcelette 137
-Courchelettes 2919
+Estree 289
+Le Wast 186
+La Neuville-les-Bray 267
+Marest-Dampcourt 328
+Marenla 226
+Jenlain 1184
+Tilloy-les-Mofflaines 1556
 
-Lambres-lez-Douai 5057
-
-Douai 46531
-
-Dourges 5761
-
-Noyelles-Godault 5624
-
-Montigny-en-Gohelle 10713
-
-Billy-Montigny 8533
-
-Fouquieres-les-Lens 7008
-
-Courcelles-les-Lens 6205
-Courcelles-les-Gisors 834
-Therdonne 837
-Verderonne 552
-Margny-sur-Matz 470
-Marles-sur-Canche 307
-Meneslies 307
-Liercourt 327
-Becquincourt 671
-Aisonville-et-Bernoville 302
-Novillers 328
-Auchonvillers 150
-Onvillers 345
-Agenvillers 186
-Orainville 345
-Bougainville 417
-
-Dainville 5587
-Andainville 203
-Bernay-en-Ponthieu 203
-Monthiers 143
-Thiernu 127
-Neuville-au-Bois 186
-La Ville-aux-Bois-les-Pontavert 137
-Lhuys 137
-Valhuon 525
-Beuvraignes 709
-Equirre 74
-Blequin 347
-Nielles-les-Blequin 807
-Muille-Villette 807
-Neuvillette 198
-Ligny-les-Aire 517
-Beaumetz-les-Aire 243
-Beaume 118
-Beaumont-Hamel 226
-Quaedypre 1124
-Preures 504
-Fransures 108
-Fransu 106
-Le Transloy 381
-Wavrans-sur-Ternoise 207
-Chavonne 185
-Marconne 1312
-Martainneville 350
-Rainneville 777
-Ville-le-Marclet 474
-Bruille-lez-Marchiennes 1233
-
-Marchiennes 4671
-
-Orchies 7692
-Mouchin 1371
-Aix-en-Pevele 955
-Cappelle-en-Pevele 1997
-
-Templeuve-en-Pevele 5901
-Mons-en-Pevele 2099
-Ennevelin 2015
-Avelin 2348
-
-Seclin 12214
-
-Houplin-Ancoisne 3703
-
-Houplines 8119
-
-Comines 12548
-
-Wervicq-Sud 4354
-
-Marcq-en-Baroeul 38629
-
-Mons-en-Baroeul 23006
-
-Lezennes 3404
-Thennes 362
-Thiennes 872
-Lieres 291
-Caulieres 190
-Brenelle 190
-Thenelles 570
-Marconnelle 1290
-Villers-Carbonnel 309
-Monnes 72
-Mennessis 351
-Essises 414
-Pressy 292
-Pommier 193
-Pommera 251
-Pommereuil 732
+Beaurains 4801
+Agny 2018
+Lagny 489
+Sermaize 239
+Germaine 66
+Bezu-Saint-Germain 486
+Saint-Germer-de-Fly 1833
+Killem 1031
+Deuillet 187
 Feuilleres 152
-Feuquieres 1638
-Broquiers 232
-Brombos 228
-Sombrin 242
-Briot 274
-Cachy 228
-Achy 301
-Machy 121
-Flechy 88
-Villecourt 59
-Framecourt 118
-Fontaine-Uterte 118
-Fontaine-Lavaganne 310
-Laversine 98
-Laversines 979
+Villereau 751
+Vauciennes 697
+Vezilly 126
+Fins 262
+Eterpigny 190
+Tupigny 349
 
-Bresles 3934
-Bailleul-sur-Therain 2045
-Le Coudray-sur-Thelle 507
+Hersin-Coupigny 6609
 
-Neuilly-en-Thelle 3194
-Fresnoy-en-Thelle 856
-Le Mesnil-en-Thelle 2170
-Le Mesnil-Theribus 729
-Le Mesge 153
-Le Sourd 153
-Le Charmel 286
-Charmes 1806
-Molinchart 281
-Moliens 984
-Sentelie 217
-Gentelles 469
-Nogentel 1045
-Brutelles 183
-Selles 291
-Voyenne 291
+Barlin 7734
+Maisnil-les-Ruitz 1241
+Ruitz 1622
+
+Haillicourt 5121
+
+Bruay-la-Buissiere 24474
+Buissy 232
+Cuissy-et-Geny 59
+Moringhem 394
+Linghem 232
+Ham-en-Artois 977
+Artonges 148
+Woirel 24
+Vuillery 24
+Allery 766
+
+Wallers 5546
+
+Lillers 10104
+Ecquedecques 418
+Guarbecque 1299
+Steenbecque 1674
+Morbecque 2873
+Robecq 1147
+Mont-Bernanchon 1202
+Dernancourt 454
+Epenancourt 130
+Fresnes-Mazancourt 135
+Bazancourt 159
+Etricourt-Manancourt 443
+Hodenc-en-Bray 443
+Heuchin 535
+Mouchin 1371
+Houchin 696
+Douchy 149
+
+Gauchy 5676
+Sachin 253
+Machiel 175
+Treux 249
+Serans 254
+Maulde 902
+Maulers 187
+Bassoles-Aulers 146
+Quincy-Basse 68
+Quincy-sous-le-Mont 53
+La Celle-sous-Montmirail 82
+Monts-en-Ternois 53
+Monts 178
+Septmonts 535
+Rozieres-sur-Crise 267
+Bruyeres-sur-Fere 221
+Villers-sur-Fere 427
+Flaucourt 329
+Laucourt 197
+Oroer 567
+Lavacquerie 192
+Wacquemoulin 294
+Moulin-sous-Touvent 200
+Mezy-Moulins 465
+Mont-Saint-Pere 549
+Rozet-Saint-Albin 292
+Saint-Algis 149
+Reclinghem 149
+Rouvroy-les-Merles 149
+
+Rouvroy 9122
+Rouvroy-sur-Serre 53
+Saint-Martin-aux-Bois 293
+
+Saint-Martin-au-Laert 3881
+
+Saint-Omer 18250
+Saint-Omer-Capelle 939
+Saint-Folquin 2126
+Saint-Felix 505
+Hermes 2407
+Berthecourt 1416
+Berthen 533
+Bertaucourt-Epourdon 533
+Bourdon 378
+Bouresches 183
+Tracy-le-Mont 1772
+Rouy-le-Petit 127
+Sacy-le-Petit 588
+Grandfresnoy 1538
+Chevrieres 1763
+Labeuvriere 1759
+Cessieres 452
+Marquillies 1638
+Loeuilly 838
+Bonneuil-en-Valois 961
+Autheuil-en-Valois 245
+Vendresse-Beaulne 99
+Rejet-de-Beaulieu 225
+Wailly-Beaucamp 803
+Wailly 1006
+Rumilly 262
+Remilly-Wirquin 329
+Ouve-Wirquin 506
+Neufchatel-sur-Aisne 506
+
+Neufchatel-Hardelot 3693
+Dannes 1286
+Gannes 334
+Anneux 244
+
+Villers-Bretonneux 3996
+Villers-Bocage 1457
+Talmas 1068
+Contalmaison 99
+La Malmaison 367
+
+Evin-Malmaison 4805
+Lormaison 1431
+Hamelincourt 257
+Delincourt 534
+Buigny-Saint-Maclou 534
+Ligny-Saint-Flochel 208
+Saint-Floris 446
+
+Saint-Venant 3356
+Senantes 597
+Blacourt 430
+Flavacourt 730
+Enencourt-Leage 121
+Enencourt-le-Sec 177
+Henencourt 169
+Catheux 120
+Autheux 109
+Villers-sur-Authie 365
+Previllers 113
+Bonvillers 202
+Bayonvillers 350
+Bournonville 214
 Menneville 644
 
 Desvres 5109
-Maresville 78
-Troisvilles 803
-Troisvaux 307
-Saint-Simon 658
-Rochy-Conde 658
+Bievres 80
+Chivres-en-Laonnois 338
+Cerny-en-Laonnois 54
+Aubigny-en-Laonnois 114
+Braye-en-Laonnois 194
+Brancourt-en-Laonnois 683
+Anizy-le-Chateau 1917
+Oulchy-le-Chateau 874
 
-Vieux-Conde 10773
+Chateau-Thierry 15938
+Chierry 1047
+Brasles 1255
+Brassy 54
+Brasseuse 142
+Raray 152
+Rhuis 121
 
-Conde-sur-l'Escaut 10215
+Verberie 3417
+Villeneuve-sur-Verberie 655
+Villeneuve-sur-Fere 232
+Sempy 232
+Alette 259
+Delettes 935
+Croisette 320
+Voyennes 608
+Voyenne 291
+Moyenneville 635
 
-Fresnes-sur-Escaut 7573
-
-Bruay-sur-l'Escaut 11690
-
-Escautpont 4324
-Pontpoint 2936
-
-Pont-Sainte-Maxence 13732
-Longueil-Sainte-Marie 1516
-Saint-Martin-Longueau 1476
-Saint-Martin-Riviere 121
-Bethisy-Saint-Martin 1184
-
-Bethisy-Saint-Pierre 3272
-Saint-Pierre 682
-Saint-Gobain 2347
-Blangy-sur-Ternoise 761
-
-Precy-sur-Oise 3261
-Crecy-sur-Serre 1581
-Barenton-sur-Serre 109
-Barenton-Cel 135
-Belleau 135
-
-Belleu 4071
-Belleuse 281
-Belloy 801
-Le Maisnil 575
-Remaisnil 37
-Oudeuil 204
-Mezerolles 204
-Zermezeele 181
-Saint-Martin-sur-Cojeul 201
-Royaucourt 201
-Dameraucourt 173
-Frucourt 139
-Faucoucourt 281
-Maucourt 125
-Havernas 353
-Verneuil-sur-Serre 258
-Berneuil-sur-Aisne 970
-Vic-sur-Aisne 1824
-Jaulzy 964
-Jaux 2253
-Monceaux 736
-Monceau-sur-Oise 143
-Epenancourt 130
-Cuirieux 144
-Goudelancourt-les-Berrieux 75
-Riencourt-les-Cagnicourt 266
-Rouvillers 266
-Ervillers 400
-Mory 348
-Morval 94
-Merval 69
-Meurival 61
-Roucy 328
-Roucourt 383
-Woignarue 748
-
-Rue 3235
-Quend 1235
-
-Blendecques 5331
-Ecques 1834
-Rebecques 418
-Wardrecques 1099
-Campagne-les-Wardrecques 990
-
-Arques 9551
-Ferques 1834
-Serques 1061
-Tilques 1004
-Setques 647
-Esquerdes 1506
-Nordausques 647
-Nortkerque 1623
-Zutkerque 1749
-Offekerque 961
-Brouckerque 1208
-Spycker 1350
-
-Fort-Mardyck 3845
-
-Grande-Synthe 23213
-
-Cappelle-la-Grande 8293
-Armbouts-Cappel 2762
-Zegerscappel 1228
-Sainte-Marie-Cappel 704
-Saint-Jans-Cappel 1513
-
-Bailleul 14884
+Noyelles-sous-Lens 7467
+Noyelles-sous-Bellonne 583
+Marbaix 442
 Fleurbaix 2556
 
 Erquinghem-Lys 4581
@@ -595,246 +1194,565 @@ Capinghem 1557
 Verlinghem 2427
 Lompret 2406
 
-Lomme 29892
+Perenchies 7761
 
-Emmerin 3085
+Wambrechies 8699
 
-Wavrin 7770
+Marcq-en-Baroeul 38629
 
-Douvrin 5199
+Mons-en-Baroeul 23006
 
-Beuvry 9052
-Sailly-Labourse 2067
-Labourse 2063
-Bours 518
-Boursin 186
-Bournonville 214
-Bayonvillers 350
-Bazinghen 350
-Sanghen 228
-Bainghen 146
-Inghem 334
-Maninghem 140
-Tardinghen 128
-Audinghen 556
-Beaudignies 556
-Fignieres 125
-Ergnies 160
-Wargnies-le-Grand 1076
-Cayeux-en-Santerre 78
-Berny-en-Santerre 137
-Gouy-en-Ternois 155
-Morgny-en-Thierache 89
-Origny-en-Thierache 1456
-Le Nouvion-en-Thierache 2951
-Taisnieres-en-Thierache 508
-Taisnieres-sur-Hon 851
-Boussieres-sur-Sambre 444
+Lezennes 3404
+Thennes 362
+Berteaucourt-les-Thennes 434
+Grincourt-les-Pas 41
+Graincourt-les-Havrincourt 633
+Fossoy 633
+Ronssoy 622
+Chaussoy-Epagny 642
+Epagny 332
+Selens 210
+Saint-Aubin 274
+Anzin-Saint-Aubin 2586
+Ablain-Saint-Nazaire 1891
+Mont-Saint-Eloi 1035
+Acq 521
+Ramburelles 214
+Mingoval 214
+Ruminghem 1200
 
-Rousies 4459
+Watten 3000
+Millam 667
 
-Boussois 3553
-Recquignies 2560
+Wimille 4825
 
-Feignies 7370
-Bellignies 852
-Gommegnies 2065
-Sassegnies 289
-Cartignies 1170
-Hargnies 468
-Herbelles 468
-Herbecourt 136
-Becourt 277
-Hebecourt 375
-Villequier-Aumont 616
-Vadencourt 616
+Wimereux 7663
+Sommereux 424
+Zouafques 424
+Vaudesson 180
+Cressonsacq 401
+Mouflers 87
+Mouflieres 87
+Lierval 132
+Lieramont 199
+Aubercourt 43
+Ercourt 126
+Vercourt 85
+Saint-Aubin-Riviere 117
+Saint-Denoeux 117
+Saint-Deniscourt 79
+Variscourt 199
+Tigny-Noyelle 199
+Montigny-les-Jongleurs 83
+Logny-les-Aubenton 73
+Aubenton 652
+Any-Martin-Rieux 512
+Fontenelle-en-Brie 173
+Fontenelle 277
+Vendhuile 475
+Cuvilly 557
+Ecuvilly 265
+Hervilly 207
+Evricourt 207
+Avricourt 227
+Leubringhen 261
+Nabringhen 159
+Matringhem 175
+Le Sars 175
+Essars 1672
+Merelessart 189
+Marcy 189
+Pont-Arcy 110
+Pont-a-Marcq 2265
+Ennevelin 2015
+Avelin 2348
+Bavelincourt 86
+Soize 106
+Beaugies-sous-Bois 86
+Goudelancourt-les-Berrieux 75
+Berrieux 161
+Querrieu 697
+Laverriere 31
+Mailly-Maillet 617
+Cramaille 103
+Hailles 340
+Noailles 2790
+Thenailles 293
+Bailleul-aux-Cornailles 237
+
+Bailleul 14884
+
+Sailly-sur-la-Lys 4004
+Calonne-sur-la-Lys 1556
+
+Aire-sur-la-Lys 10397
+Saint-Hilaire-Cottes 752
+Laires 302
+
+Estaires 5979
+
+La Gorgue 5327
+Gorges 46
 Elencourt 46
-Millencourt 218
-Nouvron-Vingre 218
-Vron 733
-Rouvrel 240
-Coivrel 242
-Brias 242
-Biarre 71
-Saint-Thibault 209
-Saint-Thibaut 57
-Saint-Tricat 633
+Sarcus 267
+Sercus 360
+Ercuis 1486
+Frettecuisse 69
+Ayette 342
+Artemps 342
+Guemps 903
+Offekerque 961
+Nortkerque 1623
+Zutkerque 1749
+Houtkerque 791
+Verdilly 458
+Wulverdinghe 238
+Saint-Leger-en-Bray 351
+Saint-Maxent 385
+Saint-Sylvestre-Cappel 1107
+Sainte-Marie-Cappel 704
+Zegerscappel 1228
+Armbouts-Cappel 2762
+
+Cappelle-la-Grande 8293
+
+Grande-Synthe 23213
+
+Grand-Fort-Philippe 6188
+
+Fort-Mardyck 3845
+Saint-Mard 197
+Pont-Saint-Mard 180
+Saint-Martin-Choquel 404
+Canny-sur-Therain 153
+Milly-sur-Therain 1615
+Saint-Omer-en-Chaussee 1249
+Barleux 301
+Arleux 2637
+Cantin 1455
+Cantigny 130
+Braye 130
+Folembray 1500
+Villembray 219
+Embry 208
+Chambry 788
+
+Chambly 9506
+Amblainville 1757
+Henonville 824
+Ermenonville 864
+Ver-sur-Launette 1103
+Domart-sur-la-Luce 430
+Goeulzin 1117
+Toeufles 325
+Marchais-en-Brie 240
+Lebucquiere 240
+Fluquieres 197
+Rainneville 777
+Ville-le-Marclet 474
+Flavy-le-Martel 1529
+Jussy 1300
+Montescourt-Lizerolles 1543
+Contescourt 76
+Contes 344
+Mortefontaine-en-Thelle 763
+Laboissiere-en-Thelle 1309
+Laboissiere-en-Santerre 122
+Etavigny 122
+Verneuil-sous-Coucy 136
+Leuilly-sous-Coucy 419
+Thiennes 872
+Cheriennes 188
+Travecy 650
+Beugny 317
+Bellebrune 317
+
+Belleu 4071
+
+Soissons 31100
+Ressons-le-Long 751
+Ambleny 1208
+Ambleteuse 2023
+Audresselles 692
+Selles 291
+
+Linselles 8049
+
+Roncq 13387
+
+Ronchin 18331
+Monchiet 85
+Nampteuil-sous-Muret 80
+Monampteuil 156
+Urcel 560
+Courcelette 137
+Courcelles-le-Comte 433
+Coeuvres-et-Valsery 433
+Sars-et-Rosieres 391
+Rosieres 129
+Cannessieres 93
+Eplessier 346
+Poix-de-Picardie 2337
+Montauban-de-Picardie 201
+Norrent-Fontes 1479
+Francilly-Selency 442
+Hescamps 442
+Campeaux 457
+Monceaux 736
+Brenouille 2316
+Cinqueux 1624
+Quinquempoix 269
+Quincampoix-Fleuzy 429
+Colincamps 94
+Nedon 144
+Bomy 621
+Hezecques 103
+Priez 50
+Liettres 247
+Clastres 507
+La Herelle 167
+Boiry-Becquerelle 433
+Becquincourt 671
+Aisonville-et-Bernoville 302
+Novillers 328
+Auchonvillers 150
+Pleine-Selve 164
+Villeselve 377
+Ville 705
+Vendieres 138
+Vivieres 387
+Quivieres 174
+Offoy 81
+Bealencourt 138
+Cerisy-Buleux 264
+Lamotte-Buleux 294
+Lamotte-Brebiere 244
+
+Brebieres 4522
+
+Flers-en-Escrebieux 5669
+Mons-en-Pevele 2099
+Cappelle-en-Pevele 1997
+
+Templeuve-en-Pevele 5901
+Aix-en-Pevele 955
+Camphin-en-Pevele 1605
+Sainghin-en-Melantois 2606
+Anstaing 1205
+Mastaing 894
+
+Hornaing 2998
+
+Fenain 5346
+
+Denain 21412
+Wavrechain-sous-Denain 1769
+
+Bouchain 4377
+Fechain 1958
+
+Quievrechain 6201
+
+Quarouble 3369
+
+Onnaing 8703
+
+Maing 3940
+Sommaing 348
+Bellaing 1338
+Oisy 487
+
+Herin 4025
+
+La Sentinelle 3238
+La Selve 201
+Ohis 314
+Dohis 113
+Oneux 354
+Bagneux 74
+Feigneux 488
+Fressies 523
+Dagny-Lambercy 158
+Magny-la-Fosse 143
+Rogny 102
+Macogny 61
+Lechelle 61
+Chelles 419
+Vauchelles 294
+Vauchelles-les-Authie 119
+Sailly-lez-Cambrai 449
+Tilloy-lez-Cambrai 696
+
+Cambrai 36492
+Rumilly-en-Cambresis 1553
+Ligny-en-Cambresis 1691
+Montigny-en-Cambresis 618
+Beaumont-en-Cambresis 432
+Beauvois-en-Cambresis 2047
+Boussieres-en-Cambresis 416
+Rieux-en-Cambresis 1397
+Saint-Vaast-en-Cambresis 874
+Saint-Hilaire-lez-Cambrai 1672
+Saint-Hilaire-sur-Helpe 836
+Plomion 512
+Campagne 140
+Romescamps 502
+Escames 217
+Ames 533
+Ferfay 899
+Aumerval 197
+Merval 69
+Paissy 69
+Meurival 61
+
+Meurchin 3639
+
+Bauvin 5426
+Bouvines 793
+Louvil 855
+
+Cysoing 4344
+Cobrieux 528
+
+Baisieux 4110
+Puisieux 620
+Thieux 403
+Authieule 338
+La Thieuloye 367
+Thieuloy-Saint-Antoine 359
+Chelers 269
+Marchelepot 422
+Tertry 190
+Beaumont-les-Nonains 335
+Saint-Leger-les-Authie 95
 Saint-Leger-les-Domart 1781
 Saint-Leger-sur-Bresle 57
 Saint-Leger 414
 Saint-Maur 368
-Grougis 349
-Le Titre 298
-Le Translay 188
-Tavaux-et-Pontsericourt 562
-Sericourt 49
-Bergicourt 137
-Hargicourt 572
-Hendecourt-les-Cagnicourt 297
-Juvigny 297
-Juvignies 289
-Behagnies 129
-Verchin 226
-Erchin 735
+Saint-Maulvis 228
+Regnauville 228
+Gauville 420
+Saint-Aubin-sous-Erquery 350
+Villers-au-Tertre 670
+Ficheux 540
+Witternesse 561
+Leulinghen-Bernes 408
+Leulinghem 225
+Lierville 255
+Bienville 455
+Bernot 455
+Bernes 339
+Pernes 1667
+Quernes 479
+Bezu-le-Guery 207
+Templeux-le-Guerard 217
 
-Auberchicourt 4659
-Emerchicourt 1015
+Crevecoeur-le-Grand 3176
+Grand-Fayt 457
+Grand-Rozoy 258
+Grand-Rullecourt 365
+Grecourt 27
+Montrecourt 159
+Tramecourt 67
+Soucy 70
+Surfontaine 83
+Wargnies 83
+Dargnies 1362
+Carency 707
+Frencq 725
+Yvrench 253
+Bonnesvalyn 201
+Monnes 72
+Mennessis 351
+Essises 414
+Febvin-Palfart 508
+Bayenghem-les-Eperlecques 901
+Noroy 193
+Noroy-sur-Ourcq 122
+Crecy-sur-Serre 1581
+Barenton-sur-Serre 109
+Barenton-Cel 135
+Belleau 135
+Herbelles 468
+Herbecourt 136
+Becourt 277
 
-Aniche 10108
-Bugnicourt 899
-Candas 899
-Cantin 1455
-Ecourt-Saint-Quentin 1760
-Recourt 224
-Bullecourt 256
-Soyecourt 213
-Sapignies 213
-
-Oignies 10609
-Merignies 2270
-Tourmignies 699
-
-Wattignies 14766
-Attiches 2269
-Coutiches 2286
-Raches 2877
-
-Flines-lez-Raches 5567
-Anhiers 1004
-
-Waziers 7852
-Azincourt 279
-Esclainvillers 128
-Gommecourt 128
-Gomiecourt 176
-Courcelles-Epayelles 150
-Denier 61
-Niergnies 516
-Masnieres 2593
-Cattenieres 692
-Carnieres 926
-Boussieres-en-Cambresis 416
-Beauvois-en-Cambresis 2047
-Ligny-en-Cambresis 1691
-Montigny-en-Cambresis 618
-Beaumont-en-Cambresis 432
-Forest-en-Cambresis 522
-Saint-Vaast-en-Cambresis 874
-Rieux-en-Cambresis 1397
-
-Cambrai 36492
-Tilloy-lez-Cambrai 696
-Rumilly-en-Cambresis 1553
-Noyelles-sur-Escaut 678
-Honnecourt-sur-Escaut 753
-Gouzeaucourt 1284
-Metz-en-Couture 628
-Beaumetz-les-Cambrai 550
-Boursies 290
-Bourlon 1276
-Fontaine-Notre-Dame 1693
-Mont-Notre-Dame 634
-Le Cardonnois 66
-Cardonnette 423
-Loconville 269
-Locon 2304
-Premont 723
-Premontre 798
-Quiery-la-Motte 798
-Cuise-la-Motte 2478
-
-Thourotte 5581
-Rethondes 706
-Retheuil 335
-Eth 342
-Clacy-et-Thierret 308
-Presles-et-Thierny 350
-Presles-et-Boves 342
-Nesle 2551
-Ramillies 528
-Mesnil-Saint-Nicaise 528
-Mesnil-Bruntel 342
-Mesnil-en-Arrouaise 128
-Montigny-en-Arrouaise 279
-Matigny 520
-Herly 329
-Berlencourt-le-Cauroy 261
-Warlencourt-Eaucourt 110
-Haucourt 217
-Hetomesnil 217
-Dromesnil 125
-Romery 64
-Fromelles 898
-Salome 2984
-Hantay 904
-
-Santes 5069
-
-Haubourdin 15694
-
-Hallennes-lez-Haubourdin 3872
-
-Allennes-les-Marais 3488
-
-Marles-les-Mines 6198
-Lozinghem 1050
-Floringhem 769
-Moringhem 394
-Linghem 232
-Ham-en-Artois 977
-Artonges 148
-Woirel 24
-Woincourt 1565
-Blincourt 79
-Elincourt 680
-Walincourt-Selvigny 2068
-Selvigny 2162
-Caullery 461
+Guines 5342
+Enquin-les-Mines 941
+Beaulieu-les-Fontaines 581
+Ly-Fontaine 88
+Marfontaine 92
+Fontaine-Chaalis 386
+Fontaine-le-Sec 156
+Fontaine-les-Boulans 91
+Filain 91
+Allaines 412
+Moislains 1442
+Villers-Guislain 654
+Pontarme 595
+Pontavert 448
+Montaigu 679
+Bouffignereux 114
+Bethencourt-sur-Somme 114
+Eaucourt-sur-Somme 390
+Epagne-Epagnette 576
+Frevin-Capelle 444
+Erondelle 444
+Vendelles 131
+Lalandelle 450
+Lalande-en-Son 681
+Talmontiers 683
+Forest-Montiers 376
+Essigny-le-Petit 376
+Busigny 2489
+Wassigny 1040
+Ribeauville 75
+Neuvilly 973
+Viesly 1355
+Bethencourt 738
 
 Caudry 13862
-Vaudringhem 420
-Eringhem 429
-Crochte 596
-Ochtezeele 248
-Leuze 173
-Heuzecourt 136
-Foufflin-Ricametz 136
-Boufflers 102
 
-Toufflers 3931
-Mouflers 87
-Mouflieres 87
-Lieramont 199
-Lierval 132
-Le Quesnel-Aubry 132
-Le Quesne 305
-Beauquesne 1273
-Fauquembergues 892
-Rebergues 157
+Escaudain 9479
+Hordain 1214
 
-Bergues 4355
-Looberghe 1214
+Houdain 7622
+Houdain-lez-Bavay 931
 
-Loon-Plage 6640
+Bavay 3414
+Bermeries 316
 
-Oye-Plage 5683
+Aulnoye-Aymeries 9242
+Sars-Poteries 1454
+Solre-le-Chateau 1793
+Cousolre 2433
 
-Grand-Fort-Philippe 6188
+Jeumont 10964
 
-Gravelines 13137
-Saint-Folquin 2126
-Holque 914
-Le Souich 172
-Magnicourt-en-Comte 568
-Cagnicourt 396
-Auchy-la-Montagne 458
-Auger-Saint-Vincent 458
-Sinceny 2113
+Hautmont 15540
+Boussieres-sur-Sambre 444
+Taisnieres-sur-Hon 851
+Taisnieres-en-Thierache 508
+Le Nouvion-en-Thierache 2951
+Origny-en-Thierache 1456
+Morgny-en-Thierache 89
+Ploisy 89
+Sainte-Croix 123
+Saint-Acheul 24
+Nouvron-Vingre 218
+Couvron-et-Aumencourt 1682
+Jumencourt 119
+Gourchelles 135
+Vauchelles-les-Domart 109
+Beaumont-en-Beine 140
+Beaufort-en-Santerre 140
+Foucaucourt-en-Santerre 234
+Arrest 841
+Biarre 71
+Dargies 241
+Blargies 467
+Bouvresse 170
+Rouvrel 240
+Coivrel 242
+Vrely 463
+Rely 410
+Estree-Blanche 918
+Blessy 653
+Combles 695
+Hombleux 1043
+Papleux 118
+Neuilly-le-Dien 118
+Silly-le-Long 1155
 
-Chauny 13176
-Ognes 1110
+Nanteuil-le-Haudouin 3359
+Peroy-les-Gombries 1042
+Sombrin 242
+Briot 274
+Saint-Christ-Briost 439
+Saint-Souplet 1349
+Saint-Simon 658
+Rochy-Conde 658
+Parfondeval 157
+Parfondru 300
+Liercourt 327
+Verpillieres 172
+Betz 1014
+Nogentel 1045
+Brutelles 183
+Gentelles 469
+Castres 167
+Estree-Wamin 188
+Bourseville 724
+Bours 518
+Camblain-Chatelain 1614
 
-Coulogne 5979
+Calonne-Ricouart 6099
+
+Auchel 11419
+Cauchy-a-la-Tour 2920
+Hamel 769
+Hamelet 415
+Bouchavesnes-Bergen 360
+Passel 323
+Cassel 2438
+Basseux 153
+Azincourt 279
+Esclainvillers 128
+Tollent 78
+Bray-Saint-Christophe 71
+Villers-Saint-Christophe 442
+Guizancourt 106
+Itancourt 1055
+Cannectancourt 516
+Mailly-Raineval 242
+Braine 2094
+Airaines 2132
+Quesnoy-sur-Airaines 449
+Conde-en-Brie 639
+Baulne-en-Brie 243
+Beutin 383
+Autingues 264
+Saint-Thomas 67
+Saint-Thibaut 57
+Saint-Tricat 633
+Saint-Thibault 209
+Landricourt 127
+Vaudricourt 945
+Beaudricourt 94
+Guignicourt 2226
+Aguilcourt 365
+Anguilcourt-le-Sart 272
+Aubigny-aux-Kaisnes 272
+Amigny-Rouy 635
+Remigny 373
+Remies 233
+Hermies 1159
+Hermin 204
+Houvin-Houvigneul 204
+Ebouleau 204
+Sebourg 1802
+Richebourg 2407
+Labourse 2063
+Sailly-Labourse 2067
+Sailly-Laurette 289
+Rollot 674
+Chaourse 527
+Damery 187
+Dameraucourt 173
+Royaucourt 201
+Frucourt 139
+Lihus 321
+Fresnes-Tilloloy 139
+Tilloloy 401
+Zoteux 401
+Banteux 370
+Gratibus 171
+Saint-Gratien 353
+Saint-Momelin 353
+Marizy-Saint-Mard 41
+Marizy-Sainte-Genevieve 123
+Maintenay 330
+Pernes-les-Boulogne 442
 Conteville-les-Boulogne 449
 La Capelle-les-Boulogne 1591
 
@@ -843,502 +1761,97 @@ Saint-Martin-Boulogne 12414
 Boulogne-sur-Mer 47013
 Boulogne-sur-Helpe 328
 Beaumerie-Saint-Martin 328
-Rocourt-Saint-Martin 297
-Elincourt-Sainte-Marguerite 805
-Izel-les-Equerchin 805
-Esquerchin 744
-Lauwin-Planque 1944
-Planques 103
-Wanquetin 667
-Berneuil-en-Bray 784
-Berneuil 216
-Mareuil-Caubert 913
-Aubers 1634
-Festubert 1147
-Cuinchy 1696
-Cambrin 977
-Ambrines 174
-OEuilly 229
-Loeuilly 838
-Bonneuil-en-Valois 961
-Autheuil-en-Valois 245
-Oigny-en-Valois 172
-Thury-en-Valois 469
-Beauvois-en-Vermandois 306
-Vaux-en-Vermandois 131
-Bazuel 590
-Bacouel 403
-Montloue 179
-La Neuville-Bosmont 198
-Hesmond 163
-Besmont 146
-Biermont 146
-Cramont 266
-Cramoisy 586
-Vaulx-Vraucourt 1133
-Yaucourt-Bussus 179
-Lignieres-en-Vimeu 114
-Cuignieres 185
-Agnieres 155
-Aubigny-en-Artois 1412
-Gouy-en-Artois 384
-Inchy-en-Artois 573
-Serifontaine 2745
-Fontaine-sous-Montdidier 121
+Maurepas 208
+Beaurepaire 61
+Beaurevoir 1511
+Villers-Outreaux 2261
 
-Montdidier 6556
-Montiers 420
-Maignelay-Montigny 2607
-Ravenel 1064
-Le Plessier-sur-Saint-Just 498
+Outreau 15648
 
-Saint-Just-en-Chaussee 5756
-Saint-Omer-en-Chaussee 1249
-Saint-Aubin-en-Bray 1134
-Ons-en-Bray 1340
-Cuigy-en-Bray 936
-Le Coudray-Saint-Germer 936
-Le Mont-Saint-Adrien 594
-Saint-Paul 1509
-La Neuville-Saint-Pierre 147
-La Neuville-Vault 144
-La Neuville 654
-La Neuville-Roy 908
-La Neuville-les-Bray 267
-Marest-Dampcourt 328
-Maricourt 154
-Cormont 258
-Formerie 2272
-Forenville 316
-Bienville 455
-Lierville 255
-Leulinghem 225
-Nort-Leulinghem 182
-Villers-Plouich 416
-Villers-Pol 1284
-Maresches 968
-Artres 1092
-Estreux 886
+Le Portel 11100
+Equihen-Plage 2986
 
-Marly 11681
-Famars 2536
-Famechon 175
-Pierremande 268
-Allemant 117
-Willeman 164
-Ennemain 257
-Hamelincourt 257
-Domeliers 225
-Dommiers 306
-Pommiers 611
-Baralle 496
-Barbery 552
-Barbonval 404
-Hannescamps 155
-Hescamps 442
-Salesches 287
-Le Favril 415
-Rainvillers 945
-Assainvillers 160
-Amfroipret 160
-Preseau 1884
-Haspres 2812
-Saulzoir 1717
-Cauroir 529
-Maurois 455
-Proisy 380
-Oisy 487
+Le Touquet-Paris-Plage 5696
 
-Herin 4025
-Erin 165
-Ferin 1390
-Corbehem 2355
-Corbeny 640
-Plachy-Buyon 890
-Conchy-les-Pots 612
-Senots 314
-Sancy-les-Cheminots 115
-Bucy-les-Cerny 172
-Cuiry-les-Chaudardes 42
-Silly-la-Poterie 140
-Oulchy-la-Ville 127
-Houry 60
-Sergy 156
-Ergny 178
+Berck-Plage 15675
 
-Tergnier 15475
+Berck 15609
+Groffliers 1472
 
-Beautor 3005
-La Fere 2880
-La Ferte-Chevresis 588
-Sissy 507
-Villers-Saint-Barthelemy 507
-Neuville-Saint-Amand 917
-Saint-Amand 167
-Saint-Bandry 240
-Landricourt 127
-Vandelicourt 212
-Hernicourt 434
-Wissignicourt 143
-Sully 143
-Rully 765
-Herleville 102
-Heucourt-Croquoison 102
-Muret-et-Crouttes 99
-Agnicourt-et-Sechelles 210
-Montigny-le-Franc 196
-Flavy-le-Meldeux 204
-Houvin-Houvigneul 204
-La Neuville-Housset 50
-La Neuville-les-Dorengt 349
-Dorengt 148
-Dravegny 148
-Regny 253
-Remigny 373
-Amigny-Rouy 635
-Condren 697
-Andres 1476
-Landrethun-les-Ardres 615
+Rang-du-Fliers 3860
+Verton 2185
+Sarton 165
+Herissart 503
+Aix-en-Issart 219
+Aix-en-Ergny 126
+Renty 456
+Fauquembergues 892
+Rebergues 157
+Alquines 839
+Acquin-Westbecourt 643
 
-Ardres 4240
-Bremes 1356
-Premesques 1958
-
-Perenchies 7761
-
-Wambrechies 8699
+Lumbres 4097
 Lambres 959
 
-Aire-sur-la-Lys 10397
-Saint-Hilaire-Cottes 752
-Laires 302
-Saint-Algis 149
-Reclinghem 149
-Rouvroy-les-Merles 149
-Rouvroy-sur-Serre 53
-Vrocourt 44
-Brocourt 106
-Coullemont 106
-Coullemelle 244
-Croissy-sur-Celle 244
-Oissy 228
-Boissy-le-Bois 171
-Roy-Boissy 277
-Pissy 267
-Lattre-Saint-Quentin 202
-Petit-Fayt 267
-Zuytpeene 483
-Orrouy 594
-Saint-Sylvestre-Cappel 1107
-Saint-Maxent 385
-Saint-Maximin 2685
-Vineuil-Saint-Firmin 1545
-Nempont-Saint-Firmin 168
-Montepilloy 168
-Baron 819
-Lamaronde 69
-Erondelle 444
-Doudelainville 209
-Jamericourt 209
-Mericourt-en-Vimeu 108
-Etrejust 39
-Etreux 1645
-Treux 249
-Nabringhen 159
-Matringhem 175
-Machiel 175
-Le Sars 175
-Paars 210
-Warlincourt-les-Pas 162
-Herlincourt 115
-Morlincourt 550
-Estrees-sur-Noye 261
-Flers-sur-Noye 345
-Ailly-sur-Noye 2691
-Remiencourt 172
-Cottenchy 770
-Potte 86
-Oppy 380
-Cappy 491
-Fontaine-les-Cappy 41
-Benifontaine 281
-Amplier 281
-Dampleux 382
-Papleux 118
-Neuilly-le-Dien 118
-Neuville-les-Loeuilly 109
-Poeuilly 109
-Aubercourt 43
-Vercourt 85
-Saint-Aubin-Riviere 117
-Saint-Denoeux 117
-Saint-Deniscourt 79
-Variscourt 199
-Laniscourt 184
-Hancourt 103
-Dancourt-Popincourt 131
-Malzy 184
-Malpart 60
-Voulpaix 376
-Rougeries 242
-Deheries 37
-Esqueheries 1222
-Lesquielles-Saint-Germain 850
-
-Guise 6033
-Marqueglise 349
-
-Marquise 4670
-Marquion 1035
-Sains-les-Marquion 306
-Saint-Pierre-les-Franqueville 63
-Pierregot 245
-Pierremont 263
-Pierrepont-sur-Avre 488
-Monchy-au-Bois 493
-Preux-au-Bois 825
-Preux-au-Sart 238
-Oblinghem 238
-Lealvillers 170
-Hallivillers 128
-Nivillers 231
-Grivillers 61
-Aizecourt-le-Haut 103
-Aizecourt-le-Bas 61
-Ribecourt-la-Tour 424
-Marcoing 1989
-Awoingt 574
-Coingt 74
-Gauchin-Verloingt 854
-Jouy-sous-Thelle 854
-Courcelles-sous-Moyencourt 145
-Moyencourt 303
-Sancourt 295
-Golancourt 426
-Jeancourt 265
-Jeantes 215
-
-Jeumont 10964
-Reumont 325
-Pisseleu 351
-Ovillers-la-Boisselle 379
-Bellancourt 440
-Verchocq 538
-Pontoise-les-Noyon 452
-
-Noyelles-sous-Lens 7467
-Noyelles-sous-Bellonne 583
-Gouy-sous-Bellonne 1308
-Coupelle-Vieille 512
-Lavieville 136
-Ville 705
-Rouville 285
-
-Crepy-en-Valois 15694
-Passy-en-Valois 138
-Pargny-les-Bois 138
-Bois-les-Pargny 172
-Celles-les-Conde 80
-Nielles-les-Calais 209
-Bonningues-les-Calais 584
-
-Longueau 5180
-
-Camon 4411
-
-Rivery 3454
-Berny-Riviere 584
-Riviere 1160
-Iviers 173
-Angivillers 210
-Sauvillers-Mongival 194
-Ansauvillers 1098
-Vauvillers 282
-Sery-Magneval 282
-Renneval 137
-Monneville 770
-
-Andeville 3113
-Vendeville 1466
-
-Faches-Thumesnil 16163
-Epaumesnil 115
-Crapeaumesnil 134
-Graincourt-les-Havrincourt 633
-Havrincourt 386
-Fontaine-Chaalis 386
-Marfontaine 92
-Devise 76
-Frise 160
-Morisel 433
-Cherisy 216
-Bussu 216
-Bussus-Bussuel 252
-Vivieres 387
-Quivieres 174
-Monchiet 85
-
-Ronchin 18331
-Roncheres 111
-Ponchon 1085
-Archon 85
-Biefvillers-les-Bapaume 85
-Viefvillers 171
-Marquivillers 166
-Vaux-Marquenneville 67
-Bailly 614
-Tailly 64
-Plailly 1661
-La Chapelle-en-Serval 2592
-La Chapelle-sur-Chezy 222
-La Chapelle-Monthodon 210
-Mezy-Moulins 465
-Moulin-sous-Touvent 200
-Wacquemoulin 294
-Lavacquerie 192
-Vacquerie-le-Boucq 98
-Acq 521
-Ansacq 278
-Cressonsacq 401
-Cremarest 677
-Marest 247
-Marolles 654
-Maroilles 1422
-Croisilles 1176
-Barisis 680
-
-Baisieux 4110
-Cobrieux 528
-Genech 2762
-Honnechy 511
-Bonneville 353
-Huchenneville 678
-Bettencourt-Saint-Ouen 415
-Henencourt 169
-Catheux 120
-Autheux 109
-Villers-sur-Authie 365
-Trescault 191
-Ault 1914
-Saultain 2129
-Meaulte 1287
-
-Albert 10588
-Esquelbecq 2181
-Bambecque 667
-Morbecque 2873
-Guarbecque 1299
-Ecquedecques 418
-Chocques 2981
-Vendin-les-Bethune 2575
-Fouquieres-les-Bethune 1182
-
-Bethune 31568
-
-Annezin 5672
-Annequin 2198
-
-Verquin 3185
-Drouvin-le-Marais 464
-Houchin 696
-
-Houdain 7622
-Houdancourt 554
-Vaudancourt 157
-Luchy 512
-Villeselve 377
-Pleine-Selve 164
-Liancourt-Saint-Pierre 612
-Saint-Pierre-Aigle 355
-Saint-Pierremont 64
-Boismont 510
-Boisleux-Saint-Marc 212
-Saint-Martin-aux-Bois 293
-Saint-Crepin-aux-Bois 245
-Paillart 629
-Paillencourt 970
-Raillencourt-Sainte-Olle 2417
-
-Neuville-Saint-Remy 3667
-Pont-Remy 1535
-Saint-Riquier 1215
-Millencourt-en-Ponthieu 335
-Domart-en-Ponthieu 1140
-Lanches-Saint-Hilaire 110
-Martigny-Courpierre 110
-Martigny 464
-Laigny 233
-Glaignes 484
-Lappion 291
-Mametz 1779
-Galametz 161
-Escames 217
-Romescamps 502
-Abancourt 592
-Blargies 467
-Dargies 241
+Isbergues 10067
+Boisbergues 76
+Flesquieres 281
+Faucoucourt 281
+Maucourt 125
+Havernas 353
+Verneuil-sur-Serre 258
+Rozoy-sur-Serre 1101
+Brunehamel 513
+Marche-Allouarde 78
+Hardecourt-aux-Bois 85
+Saint-Paul-aux-Bois 390
 Vergies 198
 Levergies 588
-Lorgies 1197
-Illies 1281
-Herlies 2052
-La Herliere 129
-La Herelle 167
-Vrely 463
-Mortefontaine 255
-Saint-Christophe-a-Berry 346
-Villers-Saint-Christophe 442
-Bray-Saint-Christophe 71
-Tollent 78
-Solente 93
-Crisolles 1026
-Genvry 754
-Agenville 91
-Mesnil-Domqueur 58
-Domqueur 267
-Domvast 288
-Vassens 128
-Vasseny 152
-Mauregny-en-Haye 421
-Lizy 224
-Besny-et-Loizy 364
-Droizy 81
-Croix-Fonsomme 221
-Sommelans 56
-Fonsomme 557
-Sommeron 124
-La Capelle 2107
-Capelle 154
-Tilly-Capelle 166
-Frevin-Capelle 444
-Eaucourt-sur-Somme 390
-Epagne-Epagnette 576
-Epagny 332
-Agny 2018
-Lagny 489
-Cagny 1427
-Longueval 251
-Longueville 148
-Foncquevillers 481
-Aubencheul-aux-Bois 275
-Aubencheul-au-Bac 516
-Aizy-Jouy 242
-Maizy 355
-Baizieux 217
-Bonvillers 202
-Previllers 113
-Moussy-Verneuil 113
-Samoussy 380
-Bussy 261
-Conde-sur-Suippe 261
-Bergues-sur-Sambre 198
-Noyelles-sur-Sambre 344
-Quierzy 344
-Vierzy 395
-Lerzy 178
-Ollezy 138
-Bollezeele 1376
-Broxeele 280
+Regny 253
+Vregny 101
+Chevregny 197
+Waben 334
+Barly 276
+
+Marly 11681
+Marly-Gomont 437
+Wavrechain-sous-Faulx 374
+Villers-sous-Ailly 150
+Villers-les-Guise 174
+Grevillers 334
+Buire-au-Bois 215
+Wierre-au-Bois 245
+Vendegies-au-Bois 435
+Vendegies-sur-Ecaillon 1062
+Monchaux-sur-Ecaillon 587
+Fricourt 461
+Eve 485
+Pinon 1726
+Epinoy 509
+Lespinoy 239
+
+Crespin 4361
+Lacres 165
+Wicres 312
+Bavinchove 984
+Bavincourt 354
+Wemaers-Cappel 235
+Saint-Jans-Cappel 1513
+Meteren 2116
+Merris 988
+Vieux-Berquin 2255
+Neuf-Berquin 1237
+Haverskerque 1475
+
+Dunkerque 71287
+
+Coudekerque-Branche 25201
+Coudekerque-Village 1147
+Brouckerque 1208
+Spycker 1350
+Volckerinckhove 503
+
+Leffrinckoucke 5095
 Rubrouck 793
 
 Hazebrouck 23307
@@ -1346,42 +1859,53 @@ Hondeghem 976
 Terdeghem 559
 Thiepval 92
 Thiembronne 635
-Cambron 725
-Cahon 231
-Ponthoile 556
-Pavant 760
+Thury-sous-Clermont 635
+Monceau-le-Waast 231
+Monceau-les-Leups 434
+Saisseval 233
+Maissemy 194
+Chassemy 784
+Chambors 316
+Fort-Mahon-Plage 1158
 
-Bavay 3414
-Houdain-lez-Bavay 931
-Hon-Hergies 808
-La Longueville 2256
-Longuevillette 60
-Bitry 321
-Saint-Pierre-les-Bitry 138
-Audignies 271
-Audigny 228
-Catigny 191
-Dominois 143
-Boncourt 235
-Seboncourt 1117
-Etaves-et-Bocquiaux 618
-Etavigny 122
-Savignies 814
-Lugy 144
-Lugny 144
-Cugny 510
-Conchil-le-Temple 805
-Mencas 91
-Francastel 405
-Guemappe 405
-Guemps 903
-Artemps 342
-Borest 342
-Foreste 147
+Loon-Plage 6640
 
-Leforest 6843
+Oye-Plage 5683
+Vieille-Eglise 1162
+Belle-Eglise 583
+Maisoncelle-Tuilerie 259
+Pithon 98
+Moulins 98
+Villers-Brulin 311
+Berlancourt 305
+Morlancourt 338
+Billancourt 157
+Suzanne 154
+Aumont 119
+Caumont 478
+Godewaersvelde 1977
 
-Raimbeaucourt 4450
+Ghyvelde 3110
+Zuydcoote 1660
+
+Hondschoote 3742
+Les Moeres 691
+Les Ageux 1211
+Les Autels 75
+Rozoy-Bellevalle 116
+Gouy-sous-Bellonne 1308
+Pronleroy 398
+Villeroy 219
+Villers-en-Cauchies 1208
+La Cauchie 181
+Le Catelet 218
+Froidmont-Cohartille 193
+Tille 1041
+Silly-Tillard 428
+Le Deluge 484
+Gandelu 648
+Brumetz 184
+Beaumetz 173
 Ribeaucourt 168
 Rocquencourt 168
 
@@ -1389,543 +1913,317 @@ Pecquencourt 6703
 
 Montigny-en-Ostrevent 4935
 Marquette-en-Ostrevant 1651
-Wasnes-au-Bac 524
-Aubigny-au-Bac 1041
-Aubigny 544
-Belle-et-Houllefort 544
-Houlle 943
-Moulle 922
-Pihem 922
-Pihen-les-Guines 403
-Campagne-les-Guines 467
-Campagne 140
-Henu 157
-Nurlu 390
+Marcq-en-Ostrevent 544
+Westrehem 237
+Audrehem 364
+Besny-et-Loizy 364
+Mauregny-en-Haye 421
+Locon 2304
+Loconville 269
+La Neuville-Sire-Bernard 269
+Neuville-Saint-Vaast 1444
+
+Neuville-Saint-Remy 3667
+
+Proville 3607
+
+Provin 3745
+Colembert 702
+Audembert 364
+Gronard 80
+
+Saint-Leonard 4057
+
+Saint-Etienne-au-Mont 5078
+Saint-Etienne-Roilaye 335
+Morienval 1094
+Yonval 217
+Barbonval 404
+Hannescamps 155
+Montenescourt 424
+Saint-Aubin-Montenoy 207
+Fontenoy 547
+Arsy 969
+Coulomby 410
+Dompierre-sur-Authie 410
+Dompierre-sur-Helpe 940
+Leval 2450
+Sassegnies 289
+Gommegnies 2065
+Wargnies-le-Petit 760
+Louvignies-Quesnoy 923
+
+Le Quesnoy 4897
+Rothois 153
+Thoix 151
+Thory 151
+Sentelie 217
+Solente 93
+Roiglise 166
+Amy 367
+Forceville-en-Vimeu 265
+Forceville 165
+Eclimeux 165
+Limeux 136
+Lavieville 136
+Lottinghen 476
+Bainghen 146
+Bazinghen 350
+Echinghen 366
+Sanghen 228
+Alembon 481
+Bettembos 99
+Canettemont 64
+Venette 2883
+
+Margny-les-Compiegne 7011
+
+Compiegne 44243
+Clairoix 2076
+
+Lacroix-Saint-Ouen 4649
+Saint-Ouen 2229
+Bettencourt-Saint-Ouen 415
+Bettencourt-Riviere 216
+Fresnoy-la-Riviere 660
+Vauxcere 95
+
+Mouvaux 13285
 Prouvais 390
 Prouzel 512
 Bantouzelle 399
 Blecourt 361
-Lacres 165
-Cremery 68
-Damery 187
-Deuillet 187
-Chaourse 527
-Caours 619
-Daours 775
-Courset 585
-Bonneuil-les-Eaux 788
-Breuil-le-Sec 2178
-
-Breuil-le-Vert 3074
-Bailleval 1489
-Leval 2450
-
-Aulnoye-Aymeries 9242
-Bermeries 316
-Bermerain 661
-Monchy-Lagache 759
-Conchy-sur-Canche 201
-Monchel-sur-Canche 72
-Creuse 213
-Fouilleuse 79
-Fresneville 79
-Frevillers 257
-Cuvillers 177
-Pimprez 670
-Campremy 348
-Remy 1964
-Remecourt 80
-Omecourt 155
-Rubempre 684
-Gaudiempre 191
-Vaudricourt 945
-Beaudricourt 94
-Bethencourt-sur-Somme 114
-Bouffignereux 114
-Lignereuil 119
-Breuil 67
-Buverchy 45
-Ercheu 719
-Serches 293
-
-Lourches 3859
-Louches 755
-Souchez 2222
-Quernes 479
-Pernes 1667
-Longpre-les-Corps-Saints 1591
-Long 636
-Longavesnes 107
-Lynde 627
-Bonnesvalyn 201
-Yvrench 253
-Lancheres 849
-Bouret-sur-Canche 246
-Boubers-sur-Canche 624
-Rebreuve-sur-Canche 212
-Rebreuviette 247
-Canettemont 64
-Neulette 32
-Rollancourt 429
-Auchy-les-Hesdin 1804
-Campagne-les-Hesdin 1732
-Campigneulles-les-Petites 539
-Welles-Perennes 232
-Sains-les-Pernes 222
-Fremicourt 296
-Gapennes 221
-Glennes 142
-Fiennes 829
-Rety 1957
-Offrethun 284
-Baincthun 1340
-Alincthun 350
-Verlincthun 321
-Campeaux 457
-Beaucamps-le-Vieux 1411
-Beaucamps-Ligny 979
-Escobecques 317
-Ennetieres-en-Weppes 1154
-Fournes-en-Weppes 1997
-
-Sainghin-en-Weppes 5611
-Camphin-en-Carembault 1574
-
-Phalempin 4719
-
-Templemars 3513
-Ivry-le-Temple 646
-Leglantiers 451
-Glatigny 158
-Fortel-en-Artois 158
-Sorel-en-Vimeu 192
-Grisolles 158
+Villecourt 59
+Framecourt 118
+Fontaine-Uterte 118
+Fontaine-Lavaganne 310
+Bethonsart 133
+Ransart 385
+Fransart 124
+Erloy 124
+Erlon 290
+Henneveux 258
+Huchenneville 678
+Bonneville 353
+Beauvoir-Wavans 415
+Beauvoir 227
+Beauvois 128
+Pierrefitte-en-Beauvaisis 389
+Besme 132
 
 Solesmes 4963
 Saint-Python 1036
-Saint-Aubert 1448
+Haussy 1704
+Bussy 261
+Bussy-les-Poix 91
+Bussy-les-Daours 335
+Chery-les-Pouilly 656
+Pouilly 170
+Quesmy 170
+Trie-la-Ville 341
+Pont-sur-Sambre 2635
+Hericourt-sur-Therain 115
+Boutencourt 212
+Etalon 115
+Montchalons 66
+Fresneaux-Montchevreuil 752
+Bachivillers 362
+Frohen-sur-Authie 177
+Henin-sur-Cojeul 383
 
-Avesnes-les-Aubert 3665
-Avesnes-le-Sec 1309
-Pas-en-Artois 963
-Passy-sur-Marne 112
-Arneke 1517
+Henin-Beaumont 25371
 
-Harnes 13569
-Parnes 355
-Heninel 200
-Penin 366
-Neufchelles 366
-Leschelle 274
-Chelles 419
-Juvincourt-et-Damary 371
-Fresnoy-la-Riviere 660
-Bettencourt-Riviere 216
-Adinfer 216
-Radinghem 417
-Oroer 567
-Roeux 1403
-Maroeuil 2611
-Duisans 1374
-Agnez-les-Duisans 669
-Beaumetz-les-Loges 1010
-Bailleulval 280
-Hautvillers-Ouville 384
-Villers-Outreaux 2261
+Noyelles-Godault 5624
 
-Outreau 15648
+Dourges 5761
+Vorges 379
+Pancy-Courtecon 52
+Hautecote 410
+Hautecloque 199
+Haute-Avesnes 381
+Avesnes-les-Bapaume 168
 
-Le Portel 11100
-Le Ponchel 228
-Bonningues-les-Ardres 609
-Nielles-les-Ardres 458
-Saint-Acheul 24
-Saint-Aubin 274
-Anzin-Saint-Aubin 2586
-Ablain-Saint-Nazaire 1891
-
-Saint-Nicolas 5791
-Saint-Nicolas-aux-Bois 93
-Bresle 90
-Sainte-Austreberthe 426
-Berthen 533
-Ames 533
-Hamel 769
-Hamelet 415
-Champs 282
-Chaudun 282
-Coudun 1034
-Neuilly-sous-Clermont 1765
-Cambronne-les-Clermont 1034
-
-Clermont 11025
-Hermes 2407
-Berthecourt 1416
-Noailles 2790
-Tille 1041
-Silly-Tillard 428
-Antilly 324
-
-Chantilly 11085
-Chamant 1023
-
-Ham 5698
-Eppeville 2108
-Eppes 357
-Autreppes 142
-Aubrometz 142
-Brumetz 184
-Beaumetz 173
-Belloy-en-Santerre 171
-Rouvroy-en-Santerre 220
-
-Rosieres-en-Santerre 3000
-Mezieres-en-Santerre 502
-Hangest-en-Santerre 954
-Beaucourt-en-Santerre 116
-Foucaucourt-en-Santerre 234
-Beaufort-en-Santerre 140
-Neufvy-sur-Aronde 186
-Gournay-sur-Aronde 615
-Braisnes-sur-Aronde 190
-Conde-sur-Aisne 355
-Conteville-en-Ternois 70
-Monts-en-Ternois 53
-Monts 178
-Septmonts 535
-
-Hautmont 15540
-Haution 150
-Autingues 264
-Affringues 211
-Bergueneuse 245
-Vendresse-Beaulne 99
-Chaulnes 1957
-Elnes 737
-Hallines 1436
-
-Wizernes 3544
-Bernes 339
-Bancourt 96
-Englancourt 125
-Muirancourt 507
-Torcy 169
-Corcy 308
-Chery-Chartreuve 308
-Achery 549
-Brissay-Choigny 312
-Coigneux 50
-Cerizy 50
-Alaincourt 476
-Caulaincourt 112
-Cuiry-Housse 112
-Housset 193
-Froidmont-Cohartille 193
-Cohan 371
-Bichancourt 935
-Rancourt 147
-Blerancourt 1257
-Saint-Quentin-des-Pres 274
-Selens 210
-
-Lens 38265
-
-Loison-sous-Lens 5683
-Loison-sur-Crequoise 246
-Evergnicourt 551
-Pignicourt 135
-Guignicourt 2226
-Aguilcourt 365
-Anguilcourt-le-Sart 272
-Aubigny-aux-Kaisnes 272
-Rogecourt 92
-Mesbrecourt-Richecourt 291
-Saisseval 233
-Remies 233
-Monceau-les-Leups 434
-Monceau-le-Waast 231
-Bezu-le-Guery 207
-Bezu-Saint-Germain 486
-Saint-Germer-de-Fly 1833
-Killem 1031
-Leme 479
-Guillemont 117
-
-Guines 5342
-Enquin-les-Mines 941
-Beaulieu-les-Fontaines 581
-Ly-Fontaine 88
-Mailly-Raineval 242
-Cannectancourt 516
-Itancourt 1055
-Bertincourt 903
-Francieres 512
-Ancienville 78
-Boubers-les-Hesmond 78
-Mons-Boubert 492
-Boubiers 389
-Saint-Aubin-sous-Erquery 350
-Gauville 420
-Quelmes 460
-Englebelmer 247
-Mesnil-Martinsart 237
-Sarton 165
-Herissart 503
-Merelessart 189
-Essars 1672
-Hinges 2209
-Mont-Bernanchon 1202
-
-Saint-Venant 3356
-Haverskerque 1475
-Vieux-Berquin 2255
-Neuf-Berquin 1237
-
-Merville 9104
-Calonne-sur-la-Lys 1556
-
-Sailly-sur-la-Lys 4004
-
-Estaires 5979
-
-Lestrem 3925
-
-La Gorgue 5327
-La Couture 2581
+Bapaume 4157
+Beaumetz-les-Cambrai 550
+Metz-en-Couture 628
 Couturelle 88
 Monthurel 121
-Thury-sous-Clermont 635
-La Villeneuve-sous-Thury 173
-Villeneuve-sur-Fere 232
-Villers-sur-Fere 427
-Flaucourt 329
-Laucourt 197
-Guillaucourt 312
-Givenchy-le-Noble 154
+Montherlant 119
+Reumont 325
+Premont 723
+Apremont 861
+Bois-Bernard 861
+Aumont-en-Halatte 528
 
-Sin-le-Noble 17682
-Saint-Martin-le-Noeud 997
-Willems 2855
-Villemontoire 209
-Contoire 350
-Blesmes 390
-Blanzy-les-Fismes 97
-Landouzy-la-Cour 177
+Verneuil-en-Halatte 4254
+Rieux 1677
+Marieux 86
+Hesbecourt 65
+Le Mesnil-Conteville 86
+Conteville 80
+Conteville-en-Ternois 70
+Conde-sur-Aisne 355
+La Houssoye 653
+Lahoussoye 335
+Wavrans-sur-Ternoise 207
+Blangy-sur-Ternoise 761
+
+Precy-sur-Oise 3261
+Mecquignies 599
+Doignies 237
+Outrebois 249
+Bois-Grenier 1491
+Omissy 1078
+Wisques 256
+Isques 1162
+Condette 2764
+
+Vieux-Conde 10773
+
+Conde-sur-l'Escaut 10215
+
+Escautpont 4324
+
+Fresnes-sur-Escaut 7573
+
+Bruay-sur-l'Escaut 11690
+
+Saint-Saulve 11303
+Saint-Sauveur 1763
+Bailleul-Sir-Berthoult 1199
+Sainte-Marie-Kerque 1443
+Elincourt-Sainte-Marguerite 805
+Rocourt-Saint-Martin 297
+Fresnoy-au-Val 228
+Fresnicourt-le-Dolmen 872
+Arry 166
+Marest 247
+Cremarest 677
+Merckeghem 577
+
+Teteghem 7465
+
+Hoymille 3275
+
+Bergues 4355
+Looberghe 1214
+Bourghelles 1444
+Saint-Erme-Outre-et-Ramecourt 1885
+
+Masny 4663
+Masnieres 2593
+Cattenieres 692
+Carnieres 926
+Carnin 993
+Gosnay 1215
+Vervins 2846
+Fontaine-les-Vervins 923
+Taillefontaine 290
+Sorbais 290
+Ivors 219
+Sommeron 124
+La Capelle 2107
+Capelle 154
+Tilly-Capelle 166
+Equirre 74
+Blequin 347
+Nielles-les-Blequin 807
+Nielles-les-Ardres 458
+Marcy-sous-Marle 239
+Montigny-sous-Marle 63
+Blangy-sous-Poix 161
+Aizelles 94
+Bony 114
+Eppes 357
+Vauxaillon 380
+Ecaillon 2045
+Brillon 719
+Millonfosse 621
+Connigis 272
+Rosult 1884
+Sameon 1402
+
+Samer 3265
+Longfosse 1250
+Long 636
+Longavesnes 107
+Lynde 627
+Saint-Fuscien 893
+Saint-Gobain 2347
+Saint-Gobert 312
+Boufflers 102
+
+Toufflers 3931
+
+Lys-lez-Lannoy 13803
+Lannoy 1706
+Sailly-lez-Lannoy 1804
+
+Hem 19699
+
+Croix 21361
+
+Wasquehal 19320
+Sequehart 229
+Remaucourt 370
+Rumaucourt 712
+Saudemont 390
+Lecluse 1622
+Regniere-Ecluse 124
+
+Rue 3235
+Quend 1235
+Esquennoy 915
+
+Breteuil 4436
+Auteuil 559
+Auneuil 2891
+Berneuil 216
+Berneuil-en-Bray 784
+Wanquetin 667
+Widehem 257
+Deheries 37
+Rougeries 242
+Voulpaix 376
+Montjavoult 486
+Avroult 520
+Tilloy-les-Hermaville 184
+Hermaville 472
+Saintines 906
+Le Fay-Saint-Quentin 494
+Bitry 321
+Longuevillette 60
+Malpart 60
+Chavencon 118
+Louvencourt 266
+Nery 731
+Gland 460
+Landas 2308
+Candas 899
 Candor 268
+Landouzy-la-Cour 177
+Blanzy-les-Fismes 97
+Tilloy-les-Conty 234
+Autremencourt 163
+Mureaumont 114
+Bergues-sur-Sambre 198
+Noyelles-sur-Sambre 344
+Cantaing-sur-Escaut 431
+Guillaucourt 312
+Haucourt 217
+Buicourt 139
+Blicourt 309
+Gernicourt 57
+Bugnicourt 899
+Audignicourt 97
+Mayot 177
 Citerne 268
 Croix-en-Ternois 261
-Guisy 311
-Guiscard 1802
-Escarmain 431
-Saint-Germain-la-Poterie 425
-Saint-Samson-la-Poterie 248
-Noyales 141
-Boyaval 119
-Aumerval 197
-Ferfay 899
-Fay 71
-Fayet 595
-Lormaison 1431
-Lor 123
-Pernes-les-Boulogne 442
-Flechin 470
-Echinghen 366
-Hadancourt-le-Haut-Clocher 366
-Ailly-le-Haut-Clocher 859
-Brucamps 110
-Epecamps 11
-Bucamps 133
-Meigneux 152
-Louvrechy 152
-Avrechy 1112
-Airion 717
-Erquery 639
-Fitz-James 2533
-Litz 341
-Ruitz 1622
-Maisnil-les-Ruitz 1241
-
-Barlin 7734
-Barly 276
-Waben 334
-Warsy 110
-Arsy 969
-Coulomby 410
-Couloisy 556
-Cempuis 556
-Templeux-le-Guerard 217
-Templeux-la-Fosse 158
-Sommette-Eaucourt 158
-Sommereux 424
-Zouafques 424
-Questrecques 358
-Courbes 31
-Contescourt 76
-Contes 344
-Mortefontaine-en-Thelle 763
-Laboissiere-en-Thelle 1309
-Laboissiere-en-Santerre 122
-Maisoncelle-Saint-Pierre 145
-La Vallee-Mulatre 145
-Le Vauroux 516
-Nauroy 689
-Pende 1003
-Vendieres 138
-Pont-a-Vendin 2949
-
-Vendin-le-Vieil 6713
-
-Annay 4797
-
-Grenay 6491
-
-Angres 4553
-Tangry 232
-Tingry 306
-Senlis-le-Sec 306
-
-Senlis 19160
-Crouy-en-Thelle 1023
-Thiers-sur-Theve 1019
-Wavignies 1019
-Bouvignies 1561
-Bousignies 272
-Bousies 1722
-Busigny 2489
-Wassigny 1040
-Lassigny 1317
-Guigny 146
-Macquigny 364
-Buzancy 169
-Suzanne 154
-Billancourt 157
-Aumont 119
-Caumont 478
-Aumatre 199
-Herchies 624
-Fontaine-sur-Maye 137
-Fontaine-sur-Somme 476
-Ville-Savoye 60
-La Neuville-sur-Oudeuil 295
-Neuville-Bosc 457
-Neuvilly 973
-Viesly 1355
-Bethencourt 738
-Bethencourt-sur-Mer 1020
-Bouvaincourt-sur-Bresle 707
-Saint-Germain-sur-Bresle 188
-Vaire-sous-Corbie 266
-Villers-sous-Ailly 150
-Villers-les-Guise 174
-Veuilly-la-Poterie 128
-Chery-les-Pouilly 656
-Vuillery 24
-Allery 766
-Hallencourt 1372
-Airaines 2132
-Quesnoy-sur-Airaines 449
-Le Mesnil-sur-Bulles 248
-Terramesnil 235
-Briquemesnil-Floxicourt 157
-Wancourt 603
-Monceaux-l'Abbaye 165
-Urvillers 603
-Arvillers 662
-Warvillers 105
-Serevillers 99
-Brevillers 109
-Cressy-Omencourt 109
-Liencourt 226
-Riencourt 199
-Driencourt 91
-Filain 91
-Allaines 412
-Moislains 1442
-Villers-Guislain 654
-Pontarme 595
-Terny-Sorny 326
-Journy 236
-Jouaignes 152
-Warloy-Baillon 720
-Erloy 124
-Erlon 290
-Frasnoy 290
-Fresnoy 68
-Vauchelles-les-Quesnoy 855
-Vauchelles 294
-
-Auchel 11419
-Cauchy-a-la-Tour 2920
-Auchy-au-Bois 397
-Embry 208
-Villembray 219
-Villers-en-Cauchies 1208
-Villers-sur-Auchy 316
-Torcy-en-Valois 75
-Crecy-en-Ponthieu 1549
-Magnicourt-sur-Canche 100
-Happencourt 165
-Haplincourt 214
-Chatillon-les-Sons 88
-Chatillon-sur-Oise 128
-Catillon-sur-Sambre 867
-Beaurepaire-sur-Sambre 247
-Beaurepaire 61
-Beaurevoir 1511
-Beauvoir 227
-Noircourt 96
-Lignieres-Chatelain 290
-Camblain-Chatelain 1614
-
-Calonne-Ricouart 6099
-
-Allouagne 3132
-Marche-Allouarde 78
-Hardecourt-aux-Bois 85
-Saint-Paul-aux-Bois 390
-Fontenelle-en-Brie 173
-Fontenelle 277
-Vendhuile 475
-Cuvilly 557
-Ecuvilly 265
-Hervilly 207
-Servais 239
-Serval 43
-Ployart-et-Vaurseine 27
-Grand-Rullecourt 365
-Grand-Rozoy 258
-Chery-les-Rozoy 114
-Sons-et-Roncheres 236
-Blairville 307
-Orville 338
-Morvillers 419
-Behericourt 223
-Behencourt 358
-Behen 451
-Henonville 824
-Amblainville 1757
-
-Chambly 9506
-Rombly 42
-Combles 695
-Hombleux 1043
-Gilocourt 593
-Saint-Inglevert 551
-
-Wingles 8815
-Morangles 307
-Boran-sur-Oise 2203
-
-Nogent-sur-Oise 19690
-
-Creil 31863
-Reilly 175
-Sains-les-Fressin 175
-Fressin 579
-Tressin 1008
-Chereng 2988
-Vaumoise 1008
-Sermoise 344
+Gouy-en-Ternois 155
+OEuf-en-Ternois 233
+Puzeaux 233
+Gouzeaucourt 1284
+Epehy 1121
 Roisel 2022
 Tincourt-Boucly 397
 Bouvincourt-en-Vermandois 141
@@ -1933,112 +2231,757 @@ Vermand 1096
 Vermandovillers 121
 Porcheux 265
 Yvrencheux 140
-Lucheux 618
-Grouches-Luchuel 487
-
-Doullens 6295
-Beauval 2277
+Quesnoy-le-Montant 563
+Amplier 281
+Dampleux 382
+Boisleux-Saint-Marc 212
+Boismont 510
+Romery 64
+Romeries 417
+Sepmeries 534
+Saint-Remy-Blanzy 202
+Saint-Eugene 202
+Marseille-en-Beauvaisis 990
 
 Beauvais 53393
-Goincourt 1196
-Grand-Fayt 457
-Grandlup-et-Fay 315
-Plomion 512
-Ploisy 89
-Sainte-Croix 123
+Beauval 2277
 
-Croix 21361
+Doullens 6295
+Coullemont 106
+Guillemont 117
+Villemontoire 209
+Billy-sur-Ourcq 204
+Canny-sur-Matz 284
+Margny-sur-Matz 470
+Marchais 385
+Cambligneul 336
+Hesdigneul-les-Bethune 785
+Hesdigneul-les-Boulogne 649
+Hondainville 649
+Luzoir 283
+Saulzoir 1717
+Jaulzy 964
+Attichy 1954
+Attiches 2269
 
-Roubaix 95721
-Marbaix 442
-Chivres-en-Laonnois 338
-Peronne-en-Melantois 875
-Nouvion-le-Comte 275
-Le Plessier-Rozainvillers 573
-Le Plessier-sur-Bulles 152
-Bulles 924
-Essuiles 475
-Quilen 62
-Marquillies 1638
-Cessieres 452
-Fressies 523
-Feigneux 488
-Loupeigne 79
-Le Plessier-Huleu 79
-Eclusier-Vaux 69
-Lecluse 1622
-Regniere-Ecluse 124
-Regnauville 228
-Raye-sur-Authie 258
-Estrees-les-Crecy 370
-Gremevillers 370
-Emeville 276
-Douriez 276
-Beaurieux 708
-Beaurainville 2062
-Beaurain 177
+Wattignies 14766
+Cartignies 1170
+Hargnies 468
+Boue 1300
+Fesmy-le-Sart 468
+Quiry-le-Sec 272
+Berzy-le-Sec 405
+Therines 175
+Seringes-et-Nesles 236
+Blairville 307
+Sons-et-Roncheres 236
+Roncheres 111
+Ponchon 1085
+Commenchon 160
 
-Beaurains 4801
-Tilloy-les-Mofflaines 1556
-Tilloy-les-Conty 234
-Autremencourt 163
-Saint-Christ-Briost 439
-Saint-Souplet 1349
-Soupir 281
+Lomme 29892
 
-Hersin-Coupigny 6609
-Tupigny 349
-Sempigny 767
-Caillouel-Crepigny 439
+Sequedin 3701
+Englos 516
+Ennetieres-en-Weppes 1154
+Fournes-en-Weppes 1997
+
+Sainghin-en-Weppes 5611
+Camphin-en-Carembault 1574
+
+Phalempin 4719
+Lempire 88
+Hary 237
+Saint-Vaast-de-Longmont 566
+Saint-Vaast-les-Mello 859
+Saint-Leger-aux-Bois 859
+Saint-Jean-aux-Bois 369
+Trosly-Breuil 2039
+Retheuil 335
+Rethondes 706
+Rethonvillers 308
+Menevillers 79
+Buneville 144
+Cuirieux 144
+Monceau-sur-Oise 143
+Coupru 144
+Montgobert 186
+Montgerain 184
+Pradelles 188
+Ormoy-le-Davien 188
+Mortemer 184
+Cremery 68
+Yzengremer 555
+Guivry 233
+Ivry-le-Temple 646
+Conchil-le-Temple 805
+Mencas 91
+Fouencamps 264
+Surcamps 57
+Quercamps 296
+Humbercamps 259
+Guerbigny 259
+Bregy 502
+Chevreville 465
+Wandignies-Hamage 1155
+Wavignies 1019
+Savignies 814
+Lugy 144
+Lugny 144
+Cugny 510
+Tugny-et-Pont 281
+Sainte-Preuve 86
+Bazentin 68
+
+Saint-Quentin 55407
+Harly 1839
+Carly 535
+Caix 717
+Amettes 486
+Bantigny 486
+Rantigny 2632
+Cauffry 2257
+Effry 405
+Guemappe 405
+Bouquemaison 496
+Maisnieres 514
+Aizy-Jouy 242
+Maizy 355
+Hecq 275
+Moussy-Verneuil 113
+Samoussy 380
+Gizy 672
+Liesse-Notre-Dame 1530
+Fontaine-Notre-Dame 1693
+Mont-Notre-Dame 634
+Boiry-Notre-Dame 428
+Biaches 428
+Braches 204
+Couvrelles 204
+Concevreux 204
+Sauvillers-Mongival 194
+Ansauvillers 1098
+Catillon-Fumechon 541
+Bucamps 133
+Brucamps 110
+Epecamps 11
+Lataule 110
+Lheraule 147
+Songeons 1268
+Lachapelle-sous-Gerberoy 147
+Lachapelle-aux-Pots 1614
+Lachapelle-Saint-Pierre 955
+Sainte-Genevieve 2682
+Sainte-Eusoye 240
+Sainte-Segree 57
+
+Sainte-Catherine 3102
+
+Saint-Nicolas 5791
+Saint-Nicolas-aux-Bois 93
+Bresle 90
+
+Bresles 3934
+Laversines 979
+Laversine 98
+Chatillon-sur-Oise 128
+Montloue 179
+Libermont 198
+La Neuville-Bosmont 198
+Neuville-Bosc 457
+La Neuville-sur-Oudeuil 295
+Ville-Savoye 60
+Neuville-les-Loeuilly 109
+Poeuilly 109
+Vrocourt 44
+Brocourt 106
+Frocourt 543
+Oursel-Maison 197
+Maisoncelle-Saint-Pierre 145
+La Vallee-Mulatre 145
+La Vallee-au-Ble 340
+Sains-Richaumont 970
+Mesbrecourt-Richecourt 291
+Rogecourt 92
+Abbecourt 453
+Ognes 1110
+Glaignes 484
+Jouaignes 152
+Beuvraignes 709
+Vraignes-les-Hornoy 92
+Bruys 19
+Labruyere 607
+Coyolles 402
+Marolles 654
+Bellenglise 416
+Levignen 801
+Vignemont 437
+Dieval 678
+Renneval 137
+Rubescourt 137
+Thiescourt 724
+Valescourt 284
+Ligescourt 196
+Berneville 498
+Bouillancourt-en-Sery 498
+Bethancourt-en-Vaux 374
+Abancourt 592
+Moliens 984
+Folies 88
+Flechy 88
+Flechin 470
+Fienvillers 587
+Monceau-Saint-Waast 508
+Chevresis-Monceau 371
+La Ferte-Chevresis 588
+La Fere 2880
+La Ferte-Milon 2359
+Boursonne 260
+Largny-sur-Automne 260
+
+Villers-Cotterets 10068
+Villers-Chatel 127
+Lignieres-Chatelain 290
+Noircourt 96
+Le Bosquel 290
+Le Boisle 433
+Lislet 231
+Neslette 92
+Neulette 32
+
+Aix-Noulette 3717
+Eleu-dit-Leauwette 2962
+
+Avion 18470
+
+Divion 7290
+Nouvion 1251
+Sailly-Flibeaucourt 1005
+Pavant 760
+Ponthoile 556
+Maison-Ponthieu 285
+Muidorge 123
+Coucy-les-Eppes 627
+Strazeele 698
+Herzeele 1328
+Bollezeele 1376
+Broxeele 280
+Buysscheure 473
+Preures 504
+Fransures 108
+Hendecourt-les-Ransart 129
+Fouquescourt 129
+Canlers 178
+Canly 722
+Ruesnes 509
+Rivecourt 509
+Lamecourt 208
+Poix-du-Nord 2056
+
+Sains-du-Nord 3042
+Avesnelles 2643
+Avesnes-le-Sec 1309
+Avesnes-le-Comte 2039
+La Comte 797
+Bajus 284
+Tincques 829
+Thelus 1047
+Jouy-sous-Thelle 854
+Courcelles-sous-Moyencourt 145
+Le Crocq 162
+Le Crotoy 2481
+Saint-Valery-sur-Somme 2754
+Clery-sur-Somme 529
+Cauroir 529
+Maurois 455
+Proisy 380
+Toulis-et-Attencourt 117
+Oppy 380
+Ostel 86
+Potte 86
+La Calotterie 574
+Veuilly-la-Poterie 128
+Saint-Germain-la-Poterie 425
+Escarmain 431
+Ennemain 257
+Nomain 2446
+
+Somain 12310
+Erre 1359
+
+Abscon 4204
+
+Roeulx 3502
+
+Annoeullin 10528
+Annois 388
+Le Cardonnois 66
+Cardonnette 423
+Therdonne 837
+Sourdon 260
+Adinfer 216
+La Neuville-sur-Ressons 183
+Bouquehault 629
+Ault 1914
+Friaucourt 690
+Beaurains-les-Noyon 283
+
+Mers-les-Bains 3487
+Allenay 283
+Benay 190
+
+Grenay 6491
+
+Loos-en-Gohelle 7150
+
+Sains-en-Gohelle 6196
+Givenchy-en-Gohelle 2114
+
+Montigny-en-Gohelle 10713
+
+Billy-Montigny 8533
+Montigny-le-Franc 196
+Flavy-le-Meldeux 204
+Dizy-le-Gros 797
+Nizy-le-Comte 260
+Raincheval 260
+Inchy 804
+Ginchy 58
+Beaufort-Blavincourt 392
+Andechy 233
+
+Dechy 5439
+
+Sin-le-Noble 17682
+
+Guesnain 4987
+Lewarde 2798
+
+Lallaing 6573
+Anhiers 1004
+
+Waziers 7852
+Iviers 173
+Berny-Riviere 584
+Bacouel-sur-Selle 584
+
+Salouel 4235
 Frieres-Faillouel 820
-Jussy 1300
-Montescourt-Lizerolles 1543
-Montenescourt 424
-Saint-Aubin-Montenoy 207
-Fontenoy 547
-Catenoy 1172
-Brenouille 2316
-Cinqueux 1624
-Quinquempoix 269
-Wicquinghem 182
-Mazinghem 346
-Mazinghien 311
-Roussent 159
-Russy-Bemont 159
-Haussy 1704
-Avesnes-Chaussoy 54
-Haravesnes 36
-Cerny-les-Bucy 114
-Bucy-les-Pierrepont 421
-Missy-les-Pierrepont 95
-Talmontiers 683
-Lalande-en-Son 681
-Lalandelle 450
-Espaubourg 392
+Caillouel-Crepigny 439
+Sempigny 767
+Bretigny 351
+Metigny 90
+Neuflieux 90
+Saint-Sauflieu 911
+Salency 911
+Saleux 2449
+Laleu 102
+Etrejust 39
+Etreux 1645
+La Neuville-les-Dorengt 349
+Dorengt 148
+Dravegny 148
+Marqueglise 349
+Nouvelle-Eglise 347
+Dives 340
+Buigny-les-Gamaches 400
+Pargny-les-Bois 138
+Pargny 126
+Occoches 126
+Vacquerie-le-Boucq 98
+Hornoy-le-Bourg 1489
+Liomer 354
+Boffles 35
+Arguel 35
+Neuville-Coppegueule 545
+Senarpont 716
+Pont-Remy 1535
+Saint-Riquier 1215
+Saint-Remy-au-Bois 123
+Saint-Remy-Chaussee 480
+Ciry-Salsogne 656
+Clairy-Saulchoix 354
+Colleret 1682
+Bertangles 665
+Morangles 307
+Boran-sur-Oise 2203
 
-Bourbourg 7059
-Courboin 277
+Nogent-sur-Oise 19690
+
+Creil 31863
+
+Montataire 12031
+Thiverny 1135
+Thivencelle 852
+Vred 1478
+Hardifort 379
+Litz 341
+Villotran 265
+Revillon 42
+Rombly 42
+Brombos 228
+Aubrometz 142
+
+Frevent 4077
+Cierges 64
+Niergnies 516
+Awoingt 574
+Marcoing 1989
 
 Tourcoing 91574
 
 Neuville-en-Ferrain 9428
+La Neuville-en-Hez 944
+Etouy 809
+Etouvelles 199
+Chivy-les-Etouvelles 553
+Bourthes 553
 
-Roncq 13387
+Bourbourg 7059
+Courboin 277
+Courset 585
+Daours 775
+Chouy 375
+Tubersent 484
+Halloy 500
+Halloy-les-Pernois 358
+Pernois 654
+Quiestede 654
+Jonquieres 580
+Ovillers-la-Boisselle 379
+Brunvillers-la-Motte 352
+Curgies 1184
+Cuisy-en-Almont 352
+Marigny-en-Orxois 416
+Chezy-en-Orxois 372
+Barzy-en-Thierache 318
+Montbrehain 921
+Wannehain 854
+Puisieux-et-Clanlieu 299
+Merlieux-et-Fouquerolles 223
+Courtrizy-et-Fussigny 69
+Crepy 1739
+Saint-Crepin-aux-Bois 245
+Saint-Crepin-Ibouvillers 1076
+Maroilles 1422
+Croisilles 1176
+Fontaine-les-Croisilles 286
+Obies 599
+Rombies-et-Marchipont 591
+Estreux 886
 
-Bousbecque 4245
+Lestrem 3925
+Sauchy-Lestree 456
+Noyales 141
+Salesches 287
+Le Favril 415
+
+Wavrin 7770
+
+Douvrin 5199
+
+Wingles 8815
+Remerangles 226
+Humbert 257
+Saint-Aybert 343
+Prouville 266
+Prouvy 2481
+Camiers 2325
+Pommiers 611
+Baralle 496
+Barastre 238
+Gouy 654
+Favreuil 248
+Wirwignes 689
+
+Wignehies 3386
+Rocquigny 397
+Becquigny 274
+Macquigny 364
+Guigny 146
+Beussent 448
+Roussent 159
+Russy-Bemont 159
+Flers 183
+Trefcon 94
+Thieulloy-la-Ville 94
+Boubers-les-Hesmond 78
+Hesmond 163
+Domesmont 45
+Odomez 934
+Domeliers 225
+Hucqueliers 565
+
+Grandvilliers 3013
+Etaves-et-Bocquiaux 618
+Seboncourt 1117
+Boncourt 235
+Dominois 143
+Catigny 191
+Watigny 374
+Vieil-Moutier 374
+Vieil-Hesdin 382
+Hesdin 2790
+Lesdins 770
+Vron 733
+Cavron-Saint-Martin 416
+Noyers-Saint-Martin 745
+Bonnay 262
+Villers-sur-Bonnieres 149
+Villers-Tournelle 149
+Craonnelle 111
+Hangest-sur-Somme 705
+Fontaine-sur-Somme 476
+Leglantiers 451
+Monthenault 105
+Gilocourt 593
+Saint-Inglevert 551
+Le Gallet 121
+Machy 121
+Bacouel 403
+Beugin 439
+Bonlier 403
+Huclier 100
+Pontruet 334
+Saint-Benin 401
+Saint-Bandry 240
+Villers-Saint-Barthelemy 507
+Mezieres-sur-Oise 577
+Sissy 507
+Sissonne 2564
+Bucy-les-Pierrepont 421
+Missy-les-Pierrepont 95
+Eragny-sur-Epte 560
+Trie-Chateau 1539
+Auxi-le-Chateau 2969
+Frohen-le-Petit 25
+Bernaville 1012
+Lavilletertre 623
+Juvincourt-et-Damary 371
+Chevincourt 826
+
+Dreslincourt 4395
+Cambronne-les-Ribecourt 2064
+Cambron 725
+Cahon 231
+Saigneville 406
+Aigneville 675
+Fressenneville 2400
+
+Friville-Escarbotin 4852
+Tilloy-Floriville 332
+Bailleul-le-Soc 675
+Chepy 1319
+Chepoix 323
+Boeschepe 2067
+Leschelle 274
+Villers-Vermont 125
+Villers-Vicomte 146
+Venerolles 270
+Ognolles 234
+Chuignolles 141
+Buire-Courcelles 293
+Driencourt 91
+
+Peronne 9011
+Peronne-en-Melantois 875
+Nouvion-le-Comte 275
+Le Plessier-Rozainvillers 573
+Le Plessier-Huleu 79
+Eclusier-Vaux 69
+Vauxrezis 359
+Mirvaux 155
+Vauxtin 51
+Vassogne 51
+Inxent 167
+Rinxent 2848
+
+Marquise 4670
+Marquion 1035
+Sains-les-Marquion 306
+Godenvillers 141
+Blancfosse 125
+Noyellette 187
+Noyelle-Vion 269
+Pont-Noyelles 737
+Vecquemont 572
+Rocquemont 109
+Royon 109
+
+Noyon 15138
+Genvry 754
+Crisolles 1026
+Grisolles 158
+Fortel-en-Artois 158
+Sorel-en-Vimeu 192
+Glatigny 158
+Fay 71
+Sery-Magneval 282
+Sery-les-Mezieres 631
+Fonsomme 557
+Croix-Fonsomme 221
+Sommelans 56
+Neuilly-Saint-Front 2103
+Reuilly-Sauvigny 214
+Linzeux 151
+Ablainzevelle 178
+Ablaincourt-Pressoir 236
+Caulaincourt 112
+Alaincourt 476
+Coigneux 50
+Brissay-Choigny 312
+Vendeuil 863
+Vendeuil-Caply 408
+Mareuil-Caubert 913
+Mareuil-en-Dole 185
+Hardivillers-en-Vexin 136
+Haudivillers 796
+Lafraye 293
+Abbeville-Saint-Lucien 567
+
+Abbeville 26461
+Caours 619
+Drucat 888
+Monceau-le-Neuf-et-Faucouzy 335
+Domvast 288
+Brailly-Cornehotte 245
+Ailly-le-Haut-Clocher 859
+Hadancourt-le-Haut-Clocher 366
+Baincthun 1340
+Alincthun 350
+Offrethun 284
+Frethun 1229
+Coquelles 2439
+Peuplingues 597
+
+Sangatte 4170
+Hangard 104
+Hedauville 104
+Cizancourt 36
+Armancourt 561
+Cernoy 218
+Carnoy 85
+Cerseuil 85
+Bersee 2178
+Faumont 1971
+Coutiches 2286
+Freniches 266
+Berthenicourt 209
+Le Ployron 117
+Le Plessier-sur-Saint-Just 498
+
+Saint-Just-en-Chaussee 5756
+Saint-Vaast-en-Chaussee 575
+Prisces 110
+Prisches 978
+Neuve-Chapelle 978
+Vieille-Chapelle 714
+La Couture 2581
+Vivaise 714
+Servais 239
+Serval 43
+Ployart-et-Vaurseine 27
+Mercin-et-Vaux 946
+Saconin-et-Breuil 231
+Missy-aux-Bois 103
+Wallon-Cappel 857
+Dallon 407
+Osly-Courtil 277
+Pontru 277
+Contre 92
+Saint-Arnoult 183
+Couin 92
+Gercy 316
+Forenville 316
+Loffre 768
+Herbinghen 356
+Arleux-en-Gohelle 730
+Etreaupont 942
+Jolimetz 942
+Lime 157
+Maast-et-Violaine 157
+
+Violaines 3716
+
+La Bassee 6027
+Salome 2984
+Hantay 904
+Montay 344
+Montagne-Fayel 166
+Mortagne-du-Nord 1646
+Flines-les-Mortagne 1559
+Fresnes-les-Montauban 478
+Pargny-la-Dhuys 159
+Pargny-Filain 201
+Bois-les-Pargny 172
+Andelain 172
+Colligis-Crandelain 148
+Colline-Beaumont 119
+Monchy-Cayeux 280
+Anvin 759
+Janville 631
+Erquinvillers 168
+Bouillancy 378
+Bimont 123
+Merlimont 2960
+
+Cucq 5050
+Saint-Josse 1088
+Beaucamps-le-Jeune 190
+Beaucamps-le-Vieux 1411
+Morisel 433
+Frise 160
+Remaugies 99
+Grugies 924
+Lorgies 1197
+Aubers 1634
+Festubert 1147
+Mons-Boubert 492
+Puchevillers 492
+Acheville 613
+
+Drocourt 3146
+Gavrelle 483
+Fampoux 1107
+Nampont 234
+Marlers 149
+Marle 2561
+La Neuville-Housset 50
+Housset 193
+Cuiry-Housse 112
+Curlu 112
+Nurlu 390
+Corcy 308
+Torcy 169
+Torcy-en-Valois 75
+Crecy-en-Ponthieu 1549
+Hallu 165
 
 Halluin 20171
 
-Wasquehal 19320
+Bousbecque 4245
+Escobecques 317
+Beaucamps-Ligny 979
 
-Lesquin 6424
-Flesquieres 281
-Boisbergues 76
+Santes 5069
+Jeantes 215
+Bosmont-sur-Serre 191
+Bihucourt 315
+Heucourt-Croquoison 102
+Muret-et-Crouttes 99
+Agnicourt-et-Sechelles 210
+Montcornet 1714
+Angivillers 210
+Burelles 156
+Chilly 156
+Ligny-Thilloy 526
 
-Isbergues 10067
-Busnes 1335
-Robecq 1147
-Steenbecque 1674
+Wormhout 5216
+Esquelbecq 2181
+Bambecque 667
+Rexpoede 1598
+Warhem 1903
+Bierne 1781
 Steene 1212
 
 Steenvoorde 4175
@@ -2052,1899 +2995,956 @@ Armentieres 26646
 Laventie 4494
 Boutavent 83
 Ernemont-Boutavent 161
-Vignemont 437
-Fort-Mahon-Plage 1158
-Chambors 316
-Chambry 788
-Bry 356
-Contay 356
-Montay 344
-Montagne-Fayel 166
-Nesles-la-Montagne 1085
-Flines-les-Mortagne 1559
-Mortagne-du-Nord 1646
+Galametz 161
+Clamecy 277
+Luchy 512
 
-Sains-du-Nord 3042
+Hulluch 3019
+
+Haisnes 4436
+
+Vermelles 4568
+Noyelles-les-Vermelles 1968
+
+Mazingarbe 7587
+Barbery 552
+Gerberoy 101
+Ollezy 138
+Passy-en-Valois 138
+Oigny-en-Valois 172
+Thury-en-Valois 469
+Francieres 512
+Bertincourt 903
+Charteves 348
+Hautevesnes 127
+Authuille 170
+Humeroeuille 153
+Escoeuilles 403
+Braye-en-Thierache 154
+Tournehem-sur-la-Hem 1229
+Gonnehem 2257
+Chocques 2981
+Vigneux-Hocquet 276
+Suzy 276
+Lassigny 1317
+Blangermont 87
+Capelle-Fermont 132
+Sains-Morainvillers 260
+Assainvillers 160
+Amfroipret 160
+Froissy 946
+Troissereux 1198
+Fouquenies 457
+Fouquereuil 1045
+Fouquerolles 297
+Troisvaux 307
+Pitgam 954
+Wail 261
+Fourdrain 437
+Fourdrinoy 354
+
+Fourmies 14151
 
 Anor 3195
 Mondrepuis 953
 Carrepuis 223
 Chalandry 223
-
-Landrecies 4015
-Fontaine-au-Bois 671
-Raucourt-au-Bois 153
-Louvignies-Quesnoy 923
-
-Le Quesnoy 4897
-Le Quesnel 666
-Le Quesnoy-en-Artois 343
-Fresnoy-en-Gohelle 203
-
-Sains-en-Gohelle 6196
-
-Loos-en-Gohelle 7150
-Givenchy-en-Gohelle 2114
-
-Lievin 34370
-Merck-Saint-Lievin 517
-Fontaine-Saint-Lucien 136
-Abbeville-Saint-Lucien 567
-Lafraye 293
-Haudivillers 796
-Hardivillers 554
-Hardivillers-en-Vexin 136
-Verdilly 458
-Mareuil-en-Dole 185
-Mareuil-sur-Ourcq 1491
-Billy-sur-Ourcq 204
-Noroy-sur-Ourcq 122
-Sacy-le-Grand 1376
-Essigny-le-Grand 1216
-Ghissignies 442
-Gussignies 288
-Cilly 245
-Bucilly 242
-Heilly 401
-Heilles 604
-Doingt 1477
-Averdoingt 256
-Tincques 829
-Thelus 1047
-Velu 141
-Aveluy 500
-Faverolles 323
-Douchy-les-Ayette 323
-Ayette 342
-Frettecuisse 69
-Ecuires 869
-Buire-le-Sec 803
-Quiry-le-Sec 272
-Sourdon 260
-Bourdon 378
-Bouresches 183
-Esches 1113
-Fosseuse 770
-Brasseuse 142
-Raray 152
-Marant 87
-Tannieres 26
-Lesges 87
-Avelesges 59
-Le Vaumain 352
-Le Verguier 236
-Aux Marais 720
-Bettrechies 254
-Liettres 247
-Lannoy-Cuillere 219
-Louatre 219
-Contre 92
-Saint-Arnoult 183
-Couin 92
-Douilly 232
-Douchy 149
-
-Gauchy 5676
-Gauchin-Legal 337
-Mareuil-la-Motte 609
-Liez 447
-Priez 50
-Hezecques 103
-Nedon 144
-Colincamps 94
-Fouencamps 264
-Surcamps 57
-Saint-Aybert 343
-Prouville 266
-Proix 135
-Proyart 542
-Pronleroy 398
-Villeroy 219
-Hem-Lenglet 513
-Erquinghem-le-Sec 443
-Hodenc-en-Bray 443
-Etricourt-Manancourt 443
-Bertricourt 70
-Bayencourt 70
-Guyencourt 229
-
-Bohain-en-Vermandois 6299
-Vraignes-en-Vermandois 150
-Soues 128
-Boue 1300
-Fesmy-le-Sart 468
-Fransart 124
-Ransart 385
-Chouy 375
-
-Mouy 5588
-Etouy 809
-La Neuville-en-Hez 944
-Agnetz 2840
-Betz 1014
-Pont-de-Metz 1682
-Le Meux 1860
-Le Meillard 142
-Le Mesnil-Saint-Firmin 190
-Wambaix 308
-Therouanne 1074
-
-Peronne 9011
-Allonne 1332
-Bellonne 259
-Pertain 325
-Clairfontaine 539
-Sorrus 482
-Gruson 1228
-Bovelles 366
-Danizy 566
-Anizy-le-Chateau 1917
-Brancourt-en-Laonnois 683
-Braye-en-Laonnois 194
-Aubigny-en-Laonnois 114
-Cerny-en-Laonnois 54
-Sarnois 242
-Sarcus 267
-Gorges 46
-Vorges 379
-Pancy-Courtecon 52
-Cerisy-Buleux 264
-Lamotte-Buleux 294
-Lamotte-Brebiere 244
-
-Brebieres 4522
-
-Flers-en-Escrebieux 5669
-
-Auby 7836
-Huby-Saint-Leu 992
-Fontaine-les-Croisilles 286
-Obies 599
-Bievres 80
-Thievres 122
-Villers-Sir-Simon 122
-Bailleul-Sir-Berthoult 1199
-Sainte-Marie-Kerque 1443
-Bourghelles 1444
-Lieu-Saint-Amand 1272
-Gouy-Saint-Andre 614
-Crequy 576
-Chivres-Val 576
-Palluel 530
-Hallu 165
-Labroye 165
-Broyes 132
-Capelle-Fermont 132
-Clermont-les-Fermes 135
-Attilly 402
-Attin 708
-Attichy 1954
-Montigny-Lengrain 641
-Montigny-les-Conde 53
-Mondescourt 285
-Valescourt 284
-Thiescourt 724
-Henneveux 258
-Oursel-Maison 197
-Neuve-Maison 619
-Brunvillers-la-Motte 352
-Curgies 1184
-Cuisy-en-Almont 352
-Cuissy-et-Geny 59
-Buissy 232
-Buicourt 139
-Licourt 403
-Ranchicourt 1091
-Pierrepont 386
-Erre 1359
-
-Fenain 5346
-
-Hornaing 2998
-
-Denain 21412
-Wavrechain-sous-Denain 1769
-Wavrechain-sous-Faulx 374
-Vieil-Moutier 374
-Vieil-Hesdin 382
-Hesdin 2790
-Lesdins 770
-Capelle-les-Hesdin 416
-Cavron-Saint-Martin 416
-Noyers-Saint-Martin 745
-Bonnay 262
-Fontenay-Torcy 110
-Dercy 382
-Gercy 316
-Loffre 768
-Offin 181
-Offignies 67
-Orgeval 67
-Neuville-au-Cornet 67
-Lieuvillers 545
-Aubin-Saint-Vaast 774
-Airon-Saint-Vaast 230
-Airon-Notre-Dame 190
-Benay 190
-Allenay 283
-Miannay 598
-Hannaches 134
-Montfaucon 165
-Faumont 1971
-Bersee 2178
-Cerseuil 85
-Favreuil 248
-Wirwignes 689
-
-Wignehies 3386
-Rocquigny 397
-Becquigny 274
-Mecquignies 599
-Doignies 237
-Outrebois 249
-Bois-Grenier 1491
-Omissy 1078
-Longueil-Annel 2453
-
-Longuenesse 13838
-
-Saint-Martin-au-Laert 3881
-
-Saint-Omer 18250
-Saint-Omer-Capelle 939
-Vieille-Eglise 1162
-Belle-Eglise 583
-Villers-Brulin 311
-Moulins 98
-Maisoncelle-Tuilerie 259
-Pithon 98
-Commenchon 160
-Marenla 226
-Jenlain 1184
-Athies 950
-
-Sainte-Catherine 3102
-
-Arras 47052
-Arrancy 50
-Bony 114
-Bonnieres 626
-Yzeux 221
-Linzeux 151
-Bethancourt-en-Vaux 374
-Bethancourt-en-Valois 261
-Orsinval 472
-Plainval 333
-Plainville 154
-Chevregny 197
-Vregny 101
-Authieule 338
-Authie 258
-Montlognon 245
-Dolignon 46
-Ognon 137
-Vassogne 51
-Macogny 61
-Rogny 102
-Ognolles 234
-Venerolles 270
-Vendelles 131
-Vendeuil 863
-Vendeuil-Caply 408
-Cuts 902
-Cutry 100
-Bertry 2312
-Tertry 190
-Marchelepot 422
-Chelers 269
-Thieuloy-Saint-Antoine 359
-La Thieuloye 367
-La Malmaison 367
-
-Evin-Malmaison 4805
-
-Ostricourt 5522
-Tricot 1542
-Ricquebourg 184
-Evricourt 207
-Guyencourt-sur-Noye 207
-Suzoy 523
-
-Noyon 15138
-Floyon 528
-Valines 678
-Le Crocq 162
-Le Crotoy 2481
-Saint-Valery-sur-Somme 2754
-Clery-sur-Somme 529
-Cagnoncles 498
-
-Escaudoeuvres 3375
-Neuville-sur-Escaut 2733
-
-Escaudain 9479
-Hordain 1214
-
-Iwuy 3140
-Cuy 223
-Gouy 654
-Assevillers 238
-Barastre 238
-Castres 167
-Clastres 507
-Fresnicourt-le-Dolmen 872
-Mercin-et-Vaux 946
-Coeuvres-et-Valsery 433
-Moeuvres 467
-Bouvresse 170
-Couvrelles 204
-Concevreux 204
-Chevresis-Monceau 371
-Montigny-sur-Crecy 313
-Ligny-sur-Canche 211
-Bissezeele 182
-Passel 323
-Cassel 2438
-Basseux 153
-Bieuxy 24
-Magny-la-Fosse 143
-Loueuse 139
-Sibiville 112
-Thibivillers 216
-Montgru-Saint-Hilaire 41
-Saint-Gengoulph 140
-Saint-Georges 277
-Ully-Saint-Georges 1894
-Sainte-Genevieve 2682
-Marizy-Sainte-Genevieve 123
-Saint-Eugene 202
-
-Maubeuge 33684
-Beugny 317
-Bellebrune 317
-Etrun 335
-Fluy 335
-
-Haveluy 3136
-Bellaing 1338
-
-Maing 3940
-Sommaing 348
-Vendegies-sur-Ecaillon 1062
-Monchaux-sur-Ecaillon 587
-Ecaillon 2045
-Brillon 719
-Millonfosse 621
-
-Saint-Amand-les-Eaux 17808
-Thun-Saint-Amand 1059
-Bruille-Saint-Amand 1499
-
-Hergnies 3930
-Odomez 934
-Domesmont 45
-Helesmes 1856
-
-Raismes 13719
-Vismes 327
-Cuvergnon 314
-Ivergny 224
-Troussencourt 292
-Goussancourt 68
-Inval-Boiron 68
-Iron 222
-Vironchaux 434
-Hailles 340
-Chaillevois 176
-Grincourt-les-Pas 41
-Blaincourt-les-Precy 1229
-Ablaincourt-Pressoir 236
-Misery 131
-Morchain 256
-Morchies 191
-Montreuil-sur-Therain 191
-Milly-sur-Therain 1615
-Canny-sur-Therain 153
-Saint-Martin-Choquel 404
-Eps 191
-Tracy-le-Mont 1772
-Estrees-Mons 632
-Nampcel 288
-Nampcelles-la-Cour 134
-Courmelles 1671
-Mello 381
-
-Cires-les-Mello 3539
-Balagny-sur-Therain 1492
-
-Bury 3027
-Burbure 2898
-Burelles 156
-Ramburelles 214
-Rambures 371
-Hamblain-les-Pres 492
-Sus-Saint-Leger 297
-Saint-Leger-les-Authie 95
-Beaumont-les-Nonains 335
-Beaurains-les-Noyon 283
-
-Mers-les-Bains 3487
-Friaucourt 690
-Caucourt 284
-Royaucourt-et-Chailvet 181
-Canchy 310
-Lanchy 63
-Noeux-les-Auxi 207
-Villers-aux-Erables 125
-Villers-au-Flos 203
-Villers-Helon 203
-Villers-Vermont 125
-Hiermont 172
-Tilloy-lez-Marchiennes 415
-Morvillers-Saint-Saturnin 364
-Villers-sous-Saint-Leu 2020
-
-Villers-Saint-Paul 6216
-
-Verneuil-en-Halatte 4254
-Aumont-en-Halatte 528
-Bourecq 528
-Apremont 861
-Bois-Bernard 861
-Avilly-Saint-Leonard 1016
-
-Saint-Leonard 4057
-
-Saint-Etienne-au-Mont 5078
-Saint-Etienne-Roilaye 335
-
-Lacroix-Saint-Ouen 4649
-Clairoix 2076
-
-Choisy-au-Bac 3839
-Berry-au-Bac 526
-Poix-du-Nord 2056
-Bussy-les-Poix 91
-Fresnes-Mazancourt 135
-Bazancourt 159
-Cizancourt 36
-Armancourt 561
-Clairy-Saulchoix 354
-Colleret 1682
-Cheret 122
-Bouillancourt-la-Bataille 109
-Mery-la-Bataille 557
-
-Orry-la-Ville 3486
-
-Coye-la-Foret 3914
-
-Petite-Foret 5017
-
-Anzin 14443
-
-Beuvrages 7834
-Beuvrequen 396
-Beutin 383
-Lespesses 410
-Choisy-la-Victoire 193
-Blingel 121
-Blicourt 309
-Gernicourt 57
-Berthenicourt 209
-Le Ployron 117
-Fouilloy 193
-Le Catelet 218
-La Cauchie 181
-Vauchelles-les-Authie 119
-Sailly-lez-Cambrai 449
-Gezaincourt 473
-Suzy 276
-Blangermont 87
-Vigneux-Hocquet 276
-Hocquinghen 102
-Teneur 286
-Leury 117
-Fleury 209
-Boffles 35
-Groffliers 1472
-
-Rang-du-Fliers 3860
-Verton 2185
-Bertrancourt 230
-Beaucamps-le-Jeune 190
-Beauchamps 1020
-Courchamps 98
-Champien 259
-Valdampierre 917
-Lachapelle-Saint-Pierre 955
-Cauvigny 1251
-Reuilly-Sauvigny 214
-Neuville-Saint-Vaast 1444
-Berneville 498
-Bouillancourt-en-Sery 498
-Bouillancy 378
-Bimont 123
-Raillimont 79
-Merlimont 2960
-
-Cucq 5050
-Bucquoy 1297
-Ablainzevelle 178
-Revelles 514
-Estevelles 1713
-Eve 485
-Dagny-Lambercy 158
-
-Lambersart 28613
-Robersart 158
-Bavinchove 984
-Bavincourt 354
-Wemaers-Cappel 235
-West-Cappel 544
-Oost-Cappel 401
-Clerques 220
-Monchy-Breton 401
-
-Villers-Bretonneux 3996
-
-Corbie 6486
-Harbonnieres 1325
-Villers-sur-Bonnieres 149
-Villers-Tournelle 149
-Craonnelle 111
-Hangest-sur-Somme 705
-Contalmaison 99
-Bailleulmont 262
-Bailleul-le-Soc 675
-Bailleul-les-Pernes 338
-Boutencourt 212
-Bouttencourt 1036
-Tilloy-Floriville 332
-
-Friville-Escarbotin 4852
-Willerval 672
-Tully 672
-Dargnies 1362
-Carency 707
-Salency 911
-Oresmaux 767
-Essertaux 244
-Hestrus 244
-Estrun 452
-Bezinghem 306
-Duvy 452
-Prouvy 2481
-Camiers 2325
-
-Amiens 143086
-Dreuil-les-Amiens 1494
-Sains-en-Amienois 1260
-Fresnes-en-Tardenois 244
-
-Fere-en-Tardenois 3370
-Beuvardes 642
-Brecy 321
-Breny 244
-Ambleny 1208
-Ambleteuse 2023
-Audresselles 692
-Flesselles 2174
-Villers-Bocage 1457
-Lucy-le-Bocage 178
-Hornoy-le-Bourg 1489
-Liomer 354
-Arguel 35
-Neuville-Coppegueule 545
-Senarpont 716
-Harponville 131
-Hem-Monacu 131
-
-Hem 19699
-Chemy 692
-Estourmel 436
-
-Vermelles 4568
-Noyelles-les-Vermelles 1968
-Noyelles-les-Seclin 869
-Villers-Campsart 160
-Quevauvillers 1036
-Molliens-Dreuil 869
-Molliens-au-Bois 333
-Mureaumont 114
-
-Henin-Beaumont 25371
-Beaumont-en-Beine 140
-Colline-Beaumont 119
-Monchy-Cayeux 280
-Anvin 759
-Janville 631
-Erquinvillers 168
-Berteaucourt-les-Thennes 434
-Berteaucourt-les-Dames 1123
-Saint-Ouen 2229
-
-Flixecourt 3104
-Chirmont 110
-Courmont 112
-Curlu 112
-Curchy 305
-Corbeil-Cerf 305
-Ruisseauville 125
-Ribeauville 75
-Rejet-de-Beaulieu 225
-Wailly-Beaucamp 803
-Sailly-Flibeaucourt 1005
-Nouvion 1251
-Nouvion-le-Vineux 178
-Noyelle-Vion 269
-Noyellette 187
-Blancfosse 125
-Godenvillers 141
-Fienvillers 587
-Monceau-Saint-Waast 508
-Cantaing-sur-Escaut 431
-Polincove 569
-Boves 2826
-Rimboval 126
-Mingoval 214
-Hermin 204
-Hermies 1159
-Brunembert 290
-Brunemont 416
-Brunehamel 513
-Aubenton 652
-Any-Martin-Rieux 512
-Landouzy-la-Ville 546
-Le Herie-la-Vieville 331
-Landifay-et-Bertaignemont 278
-Parpeville 219
-Marpent 2715
-Richebourg-l'Avoue 2560
-Sebourg 1802
-Rombies-et-Marchipont 591
-Pont-a-Marcq 2265
-
-Fretin 3048
-Frethun 1229
-Coquelles 2439
-Roquetoire 1643
-Noiremont 136
-Villers-Chatel 127
-Mouchy-le-Chatel 70
-Fretoy-le-Chateau 202
-Bernatre 49
-Beugnatre 126
-Aix-en-Ergny 126
-Aix-en-Issart 219
-Siracourt 232
-Blacourt 430
-Flavacourt 730
-Enencourt-Leage 121
-Enencourt-le-Sec 177
-Frohen-sur-Authie 177
-Henin-sur-Cojeul 383
-
-Chaumont-en-Vexin 3089
-Montagny-en-Vexin 580
-Boury-en-Vexin 322
-Trie-Chateau 1539
-Hautbos 121
-Auteuil 559
-Auneuil 2891
-Neuvireuil 466
-Viry-Noureuil 1972
-Boiry-Notre-Dame 428
-Trosly-Loire 621
-Trosly-Breuil 2039
-Osly-Courtil 277
-Pontru 277
-Pontruet 334
-Saint-Benin 401
-Saint-Blimont 980
-Mont-Saint-Pere 549
-Halloy-les-Pernois 358
-Epieds 358
-Lepine 286
-Epineuse 242
-Gorenflos 242
-Englos 516
-
-Loos 22107
-
-Sequedin 3701
-Sequehart 229
-Harly 1839
-Carly 535
-Caix 717
-Radinghem-en-Weppes 1108
-Boisdinghem 202
-Ledinghem 210
-Ledringhem 526
-Drincham 218
-Fourdrinoy 354
-Fourdrain 437
-Ecoust-Saint-Mein 437
-Gueudecourt 106
-
-Gondecourt 3994
-
-Annoeullin 10528
-Don 1164
-
-Bauvin 5426
-
-Carvin 18561
-Epinoy 509
-Festieux 509
-
-Courrieres 10330
-Herrin 382
-Merris 988
-Meteren 2116
-Lavilletertre 623
-Villers-au-Tertre 670
-Etreillers 1048
-Breilly 467
-Picquigny 1400
-La Chaussee-Tirancourt 692
-Noyelles-en-Chaussee 254
-Fresnoy-en-Chaussee 112
-Fossemanant 112
-Saint-Agnan 107
-Rouy-le-Grand 107
-Dizy-le-Gros 797
-Gizy 672
-Courtrizy-et-Fussigny 69
-Crepy 1739
-Chepy 1319
-Chepoix 323
-Margny-aux-Cerises 213
-Bargny 225
-Gergny 148
-Gennes-Ivergny 142
-Pozieres 250
-Maizieres 180
-Noreuil 116
-
-Moreuil 4162
-Braches 204
-Braye-en-Thierache 154
-Alquines 839
-Acquin-Westbecourt 643
-
-Lumbres 4097
-Humbert 257
-Humbercourt 283
-Etinehem 283
-Gonnehem 2257
-Gonnelieu 272
-Grattepanche 272
-
-Watten 3000
-Millam 667
-
-Wimille 4825
-
-Wimereux 7663
-
-Samer 3265
-Sameon 1402
-Rosult 1884
-Connigis 272
-Colligis-Crandelain 148
-Andelain 172
-Conteville 80
-Le Mesnil-Conteville 86
-Parvillers-le-Quesnoy 225
-Toulis-et-Attencourt 117
-Hattencourt 240
-Authuille 170
-Humeroeuille 153
-
-Thumeries 3458
-Wahagnies 2736
-
-Libercourt 8443
-Libermont 198
-Monthenault 105
-Thenailles 293
-Bailleul-aux-Cornailles 237
-Boullarre 237
-Lislet 231
-Le Boisle 433
-Le Bosquel 290
-Omiecourt 227
-La Madelaine-sous-Montreuil 161
-
-La Madeleine 23572
-Pradelles 188
-Ormoy-le-Davien 188
-Tilloy-les-Hermaville 184
-Hermaville 472
-Saintines 906
-Le Fay-Saint-Quentin 494
-Chavencon 118
-Louvencourt 266
-Nery 731
-Gland 460
-Hardifort 379
-Mortiers 213
-Tartiers 159
-Armentieres-sur-Ourcq 104
-Berlise 104
-Laberliere 171
-Perles 66
-Punchy 66
-Bussy-les-Daours 335
-Montchalons 66
-Montcornet 1714
-
-Bornel 3433
-Borre 557
-Saint-Sulpice 1144
-
-Saint-Saulve 11303
-
-Valenciennes 44821
-
-Aulnoy-lez-Valenciennes 8172
-Vauciennes 697
-Villereau 751
-Vezilly 126
-Oudezeele 537
-Winnezeele 1134
-Saint-Leger-en-Bray 351
-Saint-Leger-aux-Bois 859
-Saint-Jean-aux-Bois 369
-Morienval 1094
-Yonval 217
-Wylder 217
-Maulde 902
-Serans 254
-Seraucourt-le-Grand 721
-Hyencourt-le-Grand 84
-Grandcourt 182
-Hucqueliers 565
-Huclier 100
-Bihucourt 315
-Lihus 321
-Fresnes-Tilloloy 139
-Tilloloy 401
-Zoteux 401
-Hautecote 410
-Hauteville 190
-Fins 262
-Vervins 2846
-Gosnay 1215
-Carnin 993
-Carnoy 85
-Cernoy 218
-Vraignes-les-Hornoy 92
-Bruys 19
-Labruyere 607
-Labeuvriere 1759
-Chevrieres 1763
-Chevreville 465
-Bregy 502
-Humbercamps 259
-Guerbigny 259
-Herbinghen 356
-Arleux-en-Gohelle 730
-Etreaupont 942
-Jolimetz 942
-Beaudeduit 179
-Berlancourt 305
-Morlancourt 338
-
-Lamorlaye 8540
-
-Gouvieux 9526
-Gouves 202
-Argoeuves 564
-Blangy-Tronville 564
-Allonville 582
-Poulainville 1373
-Franvillers 497
-Mirvaux 155
-
-Mouvaux 13285
-Plouvain 500
-Fampoux 1107
-Pouilly-sur-Serre 561
-Monchy-le-Preux 561
-Sainte-Preuve 86
-Bazentin 68
-Jaulgonne 628
-Framicourt 153
-Ramicourt 181
-Bermicourt 132
-Besme 132
-Pierrefitte-en-Beauvaisis 389
-Beauvois 128
-Erny-Saint-Julien 293
-Mont-Saint-Jean 76
-Merckeghem 577
-
-Berck 15609
-
-Berck-Plage 15675
-
-Le Touquet-Paris-Plage 5696
-Equihen-Plage 2986
-Condette 2764
-Alette 259
-Neslette 92
-Hesdigneul-les-Boulogne 649
-Hesdigneul-les-Bethune 785
-Cambligneul 336
-Autreville 777
-Ostreville 282
-Wismes 532
-Wisques 256
-Isques 1162
-Zudausques 632
-Lebucquiere 240
-Erquieres 253
-Houtkerque 791
-Gueschart 333
-Joncourt 333
-Puisieux-et-Clanlieu 299
-Wannehain 854
-Montbrehain 921
-Barzy-en-Thierache 318
-Montigny-les-Jongleurs 83
-Logny-les-Aubenton 73
-Vitz-sur-Authie 129
-Avesnes-les-Bapaume 168
-
-Bapaume 4157
-Miraumont 681
-Giraumont 611
-Cartigny 644
-Wierre-Effroy 773
-Effry 405
-Cauffry 2257
-Coucy-le-Chateau-Auffrique 1082
-Villers-sur-Coudun 1377
-Febvin-Palfart 508
-Helfaut 1748
-Etelfay 396
-Marseille-en-Beauvaisis 990
-La Neuville-en-Beine 156
-Flavy-le-Martel 1529
-Savy 715
-Roupy 272
-Coupru 144
-Buneville 144
-Menevillers 79
-Bevillers 576
-Fontaine-au-Pire 1130
-Fontaine-le-Sec 156
-Fontaine-les-Boulans 91
-Fontaine-les-Hermans 103
-Fontaine-les-Vervins 923
-Taillefontaine 290
-Sorbais 290
-Ivors 219
-Ors 770
-Morsain 424
-Sains-Morainvillers 260
-Mesnil-Saint-Georges 150
-Saint-Georges-sur-l'Aa 273
-Nogent-l'Artaud 2123
-Marquaix 222
-Marquay 168
-Marizy-Saint-Mard 41
-Campigneulles-les-Grandes 266
-Puits-la-Vallee 200
-Trie-la-Ville 341
-Pont-sur-Sambre 2635
-Quesmy 170
-Pelves 732
-La Selve 201
-Ohis 314
-Dohis 113
-Dompierre-sur-Authie 410
-Dompierre 238
-Dompierre-sur-Helpe 940
-Saint-Hilaire-sur-Helpe 836
-Domfront 308
-Chacrise 308
-Brie 308
-Ambrief 70
-Ambricourt 107
-Fruges 2862
-Audincthun 591
-Renty 456
-Parenty 402
-Conty 1727
-Thory 151
-Thoix 151
-Saulchoy-sous-Poix 46
-Le Saulchoy 101
-Gouy-Servins 302
-Servins 902
-Villers-Saint-Sepulcre 902
-Estree-Cauchy 373
-Sauchy-Lestree 456
-Ouve-Wirquin 506
-Neufchatel-sur-Aisne 506
-
-Neufchatel-Hardelot 3693
-Dannes 1286
-Frencq 725
-Brexent-Enocq 598
-Inxent 167
-Saint-Clement 61
-Warluzel 246
-Dhuizel 96
-Colonfay 96
-Lihons 379
-Bethonsart 133
-Rethonvillers 308
-Resigny 210
-Versigny 446
-Maninghen-Henne 307
-Manin 181
-Manicamp 344
-Boiry-Becquerelle 433
-Cocquerel 176
-Querenaing 839
-
-Onnaing 8703
-
-Quarouble 3369
-
-Quievrechain 6201
-
-Crespin 4361
-Lespinoy 239
-Pinon 1726
-
-Hasnon 3248
-Chassemy 784
-Maissemy 194
-Paissy 69
-Chigny 161
-Pontavert 448
-Montaigu 679
-
-Montataire 12031
-Thiverny 1135
-Thivencelle 852
-Vred 1478
-Predefin 189
-Quiestede 654
-Jonquieres 580
-Villeneuve-sur-Verberie 655
-
-Verberie 3417
-Rhuis 121
-Ruesnes 509
-Rivecourt 509
-Grivesnes 302
-Fontaine-Bonneleau 302
-
-Crevecoeur-le-Grand 3176
-Crevecoeur-le-Petit 134
-Rouy-le-Petit 127
-Sacy-le-Petit 588
-Grandfresnoy 1538
-Fresnoy-Andainville 81
-Hondainville 649
-Luzoir 283
-Haut-Mainil 270
-Coyecques 577
-Verneuil-sous-Coucy 136
-Leuilly-sous-Coucy 419
-Villers-Faucon 642
-Bouconvillers 383
-Coulonvillers 238
-Pronville 278
-Bertangles 665
-Couvron-et-Aumencourt 1682
-Jumencourt 119
-Jumel 375
-Jumigny 68
-Tartigny 245
-Favieres 453
-Cheriennes 188
-Travecy 650
-Davenescourt 475
-Ligescourt 196
-Saint-Quentin-en-Tourmont 341
-Dallon 407
-Revillon 42
-Pargny-la-Dhuys 159
-Pargny-Filain 201
-Montauban-de-Picardie 201
-Poix-de-Picardie 2337
-Eplessier 346
-Cannessieres 93
-Laleu 102
-
-Lallaing 6573
-
-Guesnain 4987
-Lewarde 2798
-Chaudardes 83
-Franqueville 161
-Songeons 1268
-Lheraule 147
-Lataule 110
-Latilly 179
-Etouvelles 199
-Tourly 200
-Petit-Verly 177
-Fonches-Fonchette 137
-Puiseux-en-Retz 230
-Puiseux-en-Bray 354
-Gricourt 703
-Vertain 531
-Conde-Folie 828
-Folies 88
-Bonlier 403
-Beugin 439
-Beugneux 85
-Courcelles-sous-Thoix 55
-Villers-en-Prayeres 107
-Bouquemaison 496
-Bouquehault 629
-La Neuville-sur-Ressons 183
-La Neuville-Sire-Bernard 269
-Gaudechart 342
-Saudemont 390
-Rumaucourt 712
-Remaucourt 370
-Forest-Montiers 376
-Essigny-le-Petit 376
-Wargnies-le-Petit 760
-Frohen-le-Petit 25
-Auxi-le-Chateau 2969
-Rougefay 106
-Lefaux 283
-Pittefaux 134
-Delettes 935
-Croisette 320
-Voyennes 608
-Souastre 330
-Mercatel 585
-Irles 111
-Marle 2561
-Marlers 149
-Nampont 234
-Nampty 208
-Glisy 556
-Roiglise 166
-Amy 367
-
-Vimy 4797
-
-Avion 18470
-Eleu-dit-Leauwette 2962
-
-Aix-Noulette 3717
-Bouvigny-Boyeffles 2607
-Boyelles 240
-Froyelles 66
-Domleger-Longvillers 269
-Vauxrezis 359
-Baugy 274
-Verchain-Maugre 992
-Frocourt 543
-Hebuterne 471
-Bierne 1781
-
-Hoymille 3275
-Warhem 1903
-Rexpoede 1598
-Les Moeres 691
-
-Ghyvelde 3110
-Godewaersvelde 1977
-Guignecourt 430
-Guignemicourt 251
-Estrees-Deniecourt 251
-
-Estrees-Saint-Denis 3769
-Canly 722
-Saint-Andre-Farivillers 509
-Gondreville 265
-Embreville 583
-Sainte-Segree 57
-Sainte-Eusoye 240
-Lahoussoye 335
-La Houssoye 653
-La Herie 170
-Flers 183
-Enquin-sur-Baillons 183
-Trefcon 94
-Thieulloy-la-Ville 94
-Thieux 403
-Puisieux 620
-Varennes 187
-Courtemont-Varennes 364
-Courtemanche 84
-Abbecourt 453
-
-Abbeville 26461
-Maimbeville 352
-Chermizy-Ailles 74
-Villers-Agron-Aiguizy 71
-Remerangles 226
-Haramont 581
-Chamouille 252
-Pouilly 170
-Maizicourt 175
-Bazicourt 304
-Boulogne-la-Grasse 304
-Licy-Clignon 81
-Camps-en-Amienois 168
-Vaux-en-Amienois 395
-Acheux-en-Amienois 525
-Arqueves 145
-Talmas 1068
-Naours 1139
-Vignacourt 2223
-Hinacourt 42
-
-Achicourt 7683
-Sachin 253
-Origny-Sainte-Benoite 1780
-Montagny-Sainte-Felicite 413
-Lagny-le-Sec 1882
-Silly-le-Long 1155
-
-Le Plessis-Belleville 3120
-Le Plessis-Brion 1568
-Le Plessis-Patte-d'Oie 96
-Cramaille 103
-Mailly-Maillet 617
 Landrethun-le-Nord 922
 Mondicourt 697
 Heudicourt 522
 La Bouteille 522
+Bousies 1722
 
-La Bassee 6027
-
-Violaines 3716
-Molain 151
-Mennevret 658
-Moyenneville 635
-Framerville-Rainecourt 303
-Naves 645
-Avesnelles 2643
-Sars-Poteries 1454
-Solre-le-Chateau 1793
-Cousolre 2433
+Rousies 4459
 
 Ferriere-la-Grande 5834
-
-Louvroil 7446
-Louvil 855
-Bouvines 793
-Sainghin-en-Melantois 2606
-Camphin-en-Pevele 1605
-
-Cysoing 4344
-Anstaing 1205
-Mastaing 894
-
-Roeulx 3502
-Rieulay 1458
-Fieulaine 257
-Fiefs 338
-Fieffes-Montrelet 306
-Canaples 608
-Hannapes 267
-Grandru 267
-Drucat 888
-Monceau-le-Neuf-et-Faucouzy 335
-Delincourt 534
-Buigny-Saint-Maclou 534
-Buigny-les-Gamaches 400
-
-Gamaches 3137
-Machemont 756
-Montmacq 1161
-Montmartin 237
-Bouzincourt 505
-Chevincourt 826
-
-Dreslincourt 4395
-Cambronne-les-Ribecourt 2064
-Saint-Vaast-les-Mello 859
-Tracy-le-Val 812
-Carlepont 1436
-Arleux 2637
-Barleux 301
-Rotangy 203
-Angy 1229
-Lederzeele 581
-Herzeele 1328
-
-Wormhout 5216
-Ligny-Thilloy 526
-Socx 1034
-Coudekerque-Village 1147
-
-Coudekerque-Branche 25201
-
-Dunkerque 71287
-
-Bray-Dunes 4681
-Zuydcoote 1660
-
-Hondschoote 3742
-Pierrefonds 2217
-Estree 289
-Le Wast 186
-La Neuville-Garnier 267
-Crecy-au-Mont 325
-Wiry-au-Mont 97
-Mory-Montcrux 111
-Vauxcere 95
-Vauxtin 51
-Vauxbuin 857
-Wallon-Cappel 857
-Saconin-et-Breuil 231
-Noyant-et-Aconin 467
-Saint-Erme-Outre-et-Ramecourt 1885
-
-Masny 4663
-Marchais 385
-Marchais-en-Brie 240
-Conde-en-Brie 639
-Baulne-en-Brie 243
-Viffort 287
-Beaufort-Blavincourt 392
-Quesnoy-le-Montant 563
-Fresnoy-le-Luat 449
-Guny 449
-Nourard-le-Franc 365
-Quincampoix-Fleuzy 429
-Audignicourt 97
-Mayot 177
-Maysel 272
-Noordpeene 692
-Wiege-Faty 206
-Vincly 122
-Strazeele 698
-Coucy-les-Eppes 627
-Maison-Ponthieu 285
-Muidorge 123
-Veslud 243
-Vesles-et-Caumont 185
-Saint-Crepin-Ibouvillers 1076
-La Rue-Saint-Pierre 768
-Crouy-Saint-Pierre 307
-Saint-Momelin 353
-Lattainville 168
-Saint-Gratien 353
-Gratibus 171
-Watigny 374
-Marly-Gomont 437
-Lisbourg 602
-Ciry-Salsogne 656
-Saint-Remy-Chaussee 480
-Saint-Remy-au-Bois 123
-Saint-Remy-Blanzy 202
-Croixrault 397
-Maintenay 330
-Senantes 597
-Lachapelle-sous-Gerberoy 147
-Lachapelle-aux-Pots 1614
-Vieille-Chapelle 714
-Neuve-Chapelle 978
-Richebourg 2407
-Vivaise 714
+Ferrieres 463
+Tannieres 26
+Lesges 87
+Avelesges 59
+Courtieux 182
+Neuville-sur-Ailette 78
+Neuville-sur-Margival 92
 Margival 325
-Noroy 193
-Bayenghem-les-Eperlecques 901
-Eperlecques 2964
-Senlecques 204
-Clenleu 186
-Alembon 481
-Bettembos 99
-Aubvillers 99
-Boussicourt 53
-Fricourt 461
-Avricourt 227
-Leubringhen 261
-Levignen 801
-Bellenglise 416
-Nouvelle-Eglise 347
-Dives 340
-
-Divion 7290
-
-Bruay-la-Buissiere 24474
-
-Haillicourt 5121
-Bellicourt 682
-Ronssoy 622
-Chaussoy-Epagny 642
-Courteuil 642
-Serain 420
-Maretz 1400
-Clary 1128
-Hary 237
-Saint-Vaast-de-Longmont 566
-Lempire 88
-Le Mazis 99
-
-Mazingarbe 7587
-Hangard 104
-Hedauville 104
-Doudeauville 409
-Longfosse 1250
-Fossoy 633
-Rosoy 625
-Rosoy-en-Multien 416
-Acy-en-Multien 785
-Rouvres-en-Multien 501
-Reez-Fosse-Martin 134
-Wandignies-Hamage 1155
-Vaux-Andigny 907
-Voharies 71
-Meharicourt 548
-La Chavatte 39
-La Calotterie 574
-La Comte 797
-Bajus 284
-Bus 108
-Nizy-le-Comte 260
-Raincheval 260
-Dieval 678
-Yzengremer 555
-Guivry 233
-Gury 178
-Dury 1267
-Rumigny 578
-Saint-Sauflieu 911
-Saint-Sauveur 1763
-Parfondru 300
-Parfondeval 157
-Fouquerolles 297
-Merlieux-et-Fouquerolles 223
-Fouquereuil 1045
-Fouquenies 457
-Verderel-les-Sauqueuse 799
-Troissereux 1198
-Froissy 946
+Chatillon-les-Sons 88
+Haplincourt 214
+Therouanne 1074
+Wambaix 308
+Wambez 152
+Lizy 224
 Boissy-Fresnoy 827
 Bouchoir 232
-Brouchy 598
-Estreelles 274
-Recques-sur-Course 301
-Montcavrel 325
-Gavrelle 483
-Feuchy 1184
-Heuchin 535
-Montjavoult 486
-Avroult 520
-Ville-sur-Ancre 241
-OEuf-en-Ternois 233
-Puzeaux 233
-Hemevillers 401
-Herlin-le-Sec 156
-Orvillers-Sorel 578
+Mouchy-le-Chatel 70
+Fretoy-le-Chateau 202
+Cutry 100
+Quaedypre 1124
+Beaumont-Hamel 226
+Querenaing 839
+Cocquerel 176
+Chaillevois 176
+Bailleval 1489
 
-Lillers 10104
-Bertaucourt-Epourdon 533
-Rely 410
-Trelon 2941
+Breuil-le-Vert 3074
+Breuil-le-Sec 2178
+Fitz-James 2533
+Erquery 639
+Airion 717
+Fournival 525
+Journy 236
+Terny-Sorny 326
+Hebuterne 471
+Pende 1003
+Nauroy 689
+Le Vauroux 516
+Le Vaumain 352
+Paillart 629
+Chermizy-Ailles 74
+Bissezeele 182
+Zermezeele 181
+Courchamps 98
+Beauchamps 1020
+Champien 259
+Fontaine-sur-Maye 137
+Dammard 417
+Guignecourt 430
+Haynecourt 582
+Hanvoile 520
+La Loge 189
+La Longueville 2256
 
-Wattrelos 42826
-
-Leers 9823
-La Vallee-au-Ble 340
-Sains-Richaumont 970
-Renansart 177
-Pernant 650
-Dernancourt 454
-Haute-Epine 256
-Hautefontaine 269
-Englefontaine 1355
-Rothois 153
-
-Berlaimont 3314
-Montherlant 119
-Antheuil-Portes 431
-Monchy-Humieres 649
-Humieres 225
-Bonneil 378
-Boursonne 260
-Largny-sur-Automne 260
-
-Villers-Cotterets 10068
-La Ferte-Milon 2359
-La Faloise 216
-Martinpuich 216
-Thezy-Glimont 434
-Chezy-en-Orxois 372
-Marigny-en-Orxois 416
-Dohem 733
-Vicq 1207
-
-Audruicq 4680
-Muncq-Nieurlet 466
-Nieurlet 962
-Clairmarais 672
-Buysscheure 473
-Renescure 2169
-Sercus 360
-Ercuis 1486
-
-Cuincy 7048
-Coincy 1198
-Coisy 248
-Oisy-le-Verger 1292
-Puiseux-le-Hauberger 820
-Anserville 451
-
-Meru 13528
-Villeneuve-les-Sablons 1130
-
-Villeneuve-d'Ascq 62400
-Forest-sur-Marque 1594
-Romeny-sur-Marne 421
-Canny-sur-Matz 284
-Estree-Wamin 188
-Bourseville 724
-Bernot 455
-Pernois 654
-Queant 559
-Villers-Saint-Frambourg 620
-Neuilly-Saint-Front 2103
-Rozet-Saint-Albin 292
-Epaux-Bezu 542
-Bussiares 102
-Gandelu 648
-Montreuil-aux-Lions 1201
-Domptin 533
-
-Compiegne 44243
-
-Margny-les-Compiegne 7011
-Venette 2883
-Lachelle 596
-Lechelle 61
-Biaches 428
-
-Biache-Saint-Vaast 4007
-Foucaucourt-Hors-Nesle 70
-Launoy 69
-Ver-sur-Launette 1103
-Ermenonville 864
-Trumilly 517
+Feignies 7370
+Recquignies 2560
+Bellignies 852
+Hon-Hergies 808
 Rumegies 1434
-Landas 2308
-Avondance 33
-Aubry-du-Hainaut 1480
+Lecelles 2788
+Courcelles-Epayelles 150
+Denier 61
+Vez 318
+Guyencourt-Saulcourt 151
+Moyencourt-les-Poix 161
+Nouvion-le-Vineux 178
+Nouvion-et-Catillon 501
+Bernieulles 213
+Fontenay-Torcy 110
+Parvillers-le-Quesnoy 225
+Villers-le-Sec 239
+Senlis-le-Sec 306
+
+Senlis 19160
+Bourecq 528
+Fleurines 1901
+Fleury 209
+Franleu 532
+Clenleu 186
+Boursin 186
+Naours 1139
+Flesselles 2174
+Canaples 608
+
+Etaples 11397
+Staple 631
+Hem-Monacu 131
+Fresnieres 131
+Harponville 131
+Pronville 278
+Blangy-Tronville 564
+Allonville 582
+Poulainville 1373
+
+Rivery 3454
+
+Camon 4411
+
+Longueau 5180
+Boves 2826
+Bovelles 366
+Danizy 566
+Cys-la-Commune 136
+Fontaine-les-Hermans 103
+Izel-les-Equerchin 805
+Izel-les-Hameau 682
+Savy-Berlette 1047
+Savy 715
+Roupy 272
+Holnon 1348
+Courmont 112
+Saint-Quentin-en-Tourmont 341
+Saint-Quentin-des-Pres 274
+Blerancourt 1257
+Bertrancourt 230
+Airon-Saint-Vaast 230
+Airon-Notre-Dame 190
+Nanteuil-Notre-Dame 77
+Choqueuse-les-Benards 76
+Verderel-les-Sauqueuse 799
+Verderonne 552
+Le Meux 1860
+Pont-de-Metz 1682
+La Ville-aux-Bois-les-Dizy 209
+Irles 111
+Perles 66
+Punchy 66
+Canchy 310
+Grattepanche 272
+Paars 210
+Gonnelieu 272
+Jaulgonne 628
+Framicourt 153
+Ramicourt 181
+Bermicourt 132
+Erny-Saint-Julien 293
+Morchies 191
+Montreuil-sur-Therain 191
+Senots 314
+Coucy-le-Chateau-Auffrique 1082
+Lor 123
+Croixrault 397
+Leuze 173
+Heuzecourt 136
+Joncourt 333
+Nourard-le-Franc 365
+Guny 449
+Fieulaine 257
+Rieulay 1458
+
+Haveluy 3136
+Velu 141
+Ternas 121
+Pernant 650
+Vauxbuin 857
+Septvaux 203
+Le Mazis 99
+Le Mont-Saint-Adrien 594
+Liancourt-Saint-Pierre 612
+Saint-Pierre-Aigle 355
 Saint-Pierre-Brouck 832
 Vieux-Moulin 621
-Vieux-Mesnil 519
+Trosly-Loire 621
+Frelinghien 2361
+Vis-en-Artois 556
+Sainte-Austreberthe 426
+Loupeigne 79
+Meigneux 152
+Essuiles 475
+Quilen 62
+Viel-Arcy 171
+Eparcy 53
+Landouzy-la-Ville 546
+Choisy-la-Victoire 193
+
+Choisy-au-Bac 3839
+Berry-au-Bac 526
+Wiry-au-Mont 97
+Crecy-au-Mont 325
+Dennebroeucq 325
+Lignereuil 119
+Behagnies 129
+Juvignies 289
+Rouvignies 596
+Haulchin 2393
+Thiant 2632
+
+Trith-Saint-Leger 6357
+Sus-Saint-Leger 297
+Saint-Christophe-a-Berry 346
+Cherisy 216
+Hamblain-les-Pres 492
+Rambures 371
+Vers-sur-Selles 787
+Villers-sur-Auchy 316
 Grebault-Mesnil 116
-Forceville 165
-Forceville-en-Vimeu 265
-Folleville 114
-Falvy 114
-Quievy 1757
-Rogy 98
-Avrigny 337
-Dammard 417
-Gronard 80
-Audrehem 364
-Westrehem 237
-Marcq-en-Ostrevent 544
-Uxem 1114
-Huppy 709
-Sempy 232
+Vieux-Mesnil 519
+
+Gouvieux 9526
+
+Lamorlaye 8540
+
+Coye-la-Foret 3914
+
+Petite-Foret 5017
+Crevecoeur-le-Petit 134
+Morsain 424
+Le Verguier 236
+Evergnicourt 551
+Bougainville 417
+Passy-sur-Marne 112
+Bailleulmont 262
+Bailleulval 280
+Hautvillers-Ouville 384
+Lieuvillers 545
+Moyvillers 536
+Francastel 405
+Aubin-Saint-Vaast 774
+Crouy-Saint-Pierre 307
+Chigny 161
+Roucy 328
+Brouchy 598
+Brexent-Enocq 598
+Estreelles 274
+Ruyaulcourt 301
+Bealcourt 108
+Henu 157
+Grandlup-et-Fay 315
+Chacrise 308
+Margny-aux-Cerises 213
+Languevoisin-Quiquery 213
+Foulangues 177
+Affringues 211
+Bergueneuse 245
+Epineuse 242
+Gorenflos 242
+Catenoy 1172
+Rosoy 625
+Angicourt 1601
+Bazicourt 304
+Maizicourt 175
+Maizieres 180
+Noreuil 116
+
+Moreuil 4162
+Pommereuil 732
+Viry-Noureuil 1972
+Condren 697
+Gondreville 265
+Ostreville 282
+Autreville 777
+Palluel 530
+Chivres-Val 576
+Thievres 122
+Villers-Sir-Simon 122
+Wiege-Faty 206
+Vincly 122
+Beauquesne 1273
+Tortequesne 706
+Ferin 1390
+Courchelettes 2919
+
+Vitry-en-Artois 4692
+Pas-en-Artois 963
+Arneke 1517
+Romeny-sur-Marne 421
+
+Hasnon 3248
+Frasnoy 290
+Verchain-Maugre 992
+Verchin 226
+Verchocq 538
+Pontoise-les-Noyon 452
+Bellancourt 440
+Rollancourt 429
+Le Parcq 732
+Habarcq 664
+Fillievres 514
+
+Lievin 34370
+
+Angres 4553
+Tangry 232
+Tingry 306
 Oisemont 1328
+Noiremont 136
 Deulemont 1494
 
 Quesnoy-sur-Deule 6496
+Le Quesnoy-en-Artois 343
+Fresnoy-en-Gohelle 203
+Brias 242
+Briastre 630
+Estrees-Mons 632
 
-Linselles 8049
+Estrees-Saint-Denis 3769
+Monchy-Humieres 649
+Caulieres 190
+Homblieres 1493
+Mortiers 213
+Campagne-les-Boulonnais 579
+Hames-Boucres 1221
 
-Bondues 11285
+Coulogne 5979
 
 Calais 74433
 
 Marck 9158
 Les Attaques 1851
-Les Ageux 1211
-Les Autels 75
-Rozoy-Bellevalle 116
-Rozoy-sur-Serre 1101
-Bosmont-sur-Serre 191
-Volckerinckhove 503
+Bremes 1356
+Premesques 1958
+Esquerdes 1506
+Hallines 1436
 
-Leffrinckoucke 5095
-Eecke 901
-Caestre 1734
-Fletre 765
-Boeschepe 2067
-Prisches 978
-Autreches 703
-Troussures 159
-Belloy-Saint-Leonard 104
-Vaucelles-et-Beffecourt 201
-Lecelles 2788
-Roellecourt 618
+Wizernes 3544
+Helfaut 1748
+Etelfay 396
+Vaulx-Vraucourt 1133
+Yaucourt-Bussus 179
+Ecoust-Saint-Mein 437
+Gueudecourt 106
 
-Saint-Pol-sur-Ternoise 5603
+Gondecourt 3994
+Don 1164
 
-Saint-Pol-sur-Mer 23635
-Noyelles-sur-Mer 760
-Cayeux-sur-Mer 2820
-La Croix-sur-Ourcq 91
-Quercamps 296
+Billy-Berclau 4338
+Festieux 509
+
+Carvin 18561
+
+Courrieres 10330
+Favieres 453
+Etrun 335
+Estrun 452
+Hestrus 244
+Essertaux 244
+Oresmaux 767
+Borest 342
+Vincy-Reuil-et-Magny 145
+Audigny 228
+Froyelles 66
+Domleger-Longvillers 269
+Cayeux-en-Santerre 78
+Berny-en-Santerre 137
+Courtemont-Varennes 364
+Courtemanche 84
+Courteuil 642
+Maretz 1400
+Clary 1128
+Caullery 461
+Trescault 191
+Clety 535
+Brimeux 717
+Offin 181
+Offignies 67
+Orgeval 67
+Licy-Clignon 81
+Boulogne-la-Grasse 304
+Camps-en-Amienois 168
 Fescamps 144
 Sailly-Saillisel 432
-Sailly-Laurette 289
-Rollot 674
-Villotran 265
+Humieres 225
+Bonneil 378
+Bonneuil-les-Eaux 788
+Orsinval 472
+Inval-Boiron 68
+Iron 222
+Vironchaux 434
+Chaulnes 1957
+Elnes 737
+
+Longuenesse 13838
+Renescure 2169
+Davenescourt 475
+Leme 479
+Coullemelle 244
+Croissy-sur-Celle 244
+Montigny-sur-Crecy 313
+Cohan 371
+Lattre-Saint-Quentin 202
+Zuytpeene 483
+Noordpeene 692
+Maysel 272
+Esmery-Hallon 774
+Veslud 243
+Vesles-et-Caumont 185
+Saint-Sulpice 1144
+Barisis 680
+Formerie 2272
+
+Thumeries 3458
+Esqueheries 1222
+Lesquielles-Saint-Germain 850
+
+Guise 6033
+Guisy 311
+Guiscard 1802
+La Neuville-en-Beine 156
+La Neuville-Garnier 267
+Huby-Saint-Leu 992
+Belloy-Saint-Leonard 104
+Armentieres-sur-Ourcq 104
+Berlise 104
+Laberliere 171
+Lisbourg 602
+Espaubourg 392
+Le Coudray-Saint-Germer 936
+Villeneuve-Saint-Germain 2331
+Crouy 2643
+Chuignes 130
+Cuffies 1649
+Pasly 1021
+Escalles 332
+Cuts 902
+Carlepont 1436
+Tracy-le-Val 812
+Sacy-le-Grand 1376
+Rouy-le-Grand 107
+Hautefontaine 269
+Saint-Agnan 107
+Vaucelles-et-Beffecourt 201
+Valhuon 525
+Teneur 286
+Hocquinghen 102
+Wacquinghen 238
+Erquinghem-le-Sec 443
+Souastre 330
+Mercatel 585
+Contoire 350
+Roquetoire 1643
+Salperwick 501
+Craywick 483
+
+Gravelines 13137
+Valines 678
+Floyon 528
+Pelves 732
+Saint-Gengoulph 140
+Montgru-Saint-Hilaire 41
+Cormeilles 296
+Etreillers 1048
+Quelmes 460
+Boubiers 389
+Le Translay 188
+Le Transloy 381
+Fransu 106
+Bezinghem 306
+Beauvois-en-Vermandois 306
+Duvy 452
+Coulonvillers 238
+Bouconvillers 383
+Lespesses 410
+Blingel 121
+Beuvrequen 396
+
+Beuvry 9052
+Hinges 2209
+Busnes 1335
+
+Allouagne 3132
+Lozinghem 1050
+Floringhem 769
+Burbure 2898
+
+Lapugnoy 3384
+Ville-sur-Ancre 241
+Hemevillers 401
+Herlin-le-Sec 156
+Orvillers-Sorel 578
+
+Merville 9104
+Anserville 451
+Puiseux-le-Hauberger 820
+
+Bornel 3433
+
+Meru 13528
+Villeneuve-les-Sablons 1130
+
+Villeneuve-d'Ascq 62400
+Vaumoise 1008
+Sermoise 344
+Acy 964
+Venizel 1470
+Dhuizel 96
+Colonfay 96
+Lihons 379
+Courbes 31
+Questrecques 358
+Coyecques 577
+Haut-Mainil 270
+Lefaux 283
+Laffaux 122
+Chavignon 798
+Locquignol 351
+Picquigny 1400
+La Chaussee-Tirancourt 692
+Argoeuves 564
+Gouves 202
+Courcelles-sous-Thoix 55
+Archon 85
+Beugneux 85
+
+Maubeuge 33684
+
+Louvroil 7446
+Richebourg-l'Avoue 2560
+
+Boussois 3553
+Boussicourt 53
+Aubvillers 99
+Broyes 132
+Labroye 165
+Etaing 380
+Le Hamel 134
+Longpre-les-Corps-Saints 1591
+Villers-Saint-Frambourg 620
+Queant 559
+Blaincourt-les-Precy 1229
+Lederzeele 581
+Angy 1229
+Rotangy 203
+Fay-les-Etangs 383
+Bray-les-Mareuil 235
+Pisseleu 351
+Vasseny 152
+Vassens 128
+Soues 128
+Bus-la-Mesiere 129
+Naves 645
+Framerville-Rainecourt 303
+Remecourt 80
+Agnetz 2840
+
+Bury 3027
+
+Mouy 5588
+Rousseloy 352
+Troussencourt 292
+Troussures 159
+Tartiers 159
+Tartigny 245
+Fluy 335
+Parenty 402
+Barenton-Bugny 539
+Renansart 177
+Ansacq 278
+Hem-Lenglet 513
+Englefontaine 1355
+Forest-en-Cambresis 522
+Haucourt-en-Cambresis 203
+Wismes 532
+Y 97
+Sully 143
+Rully 765
+Tully 672
+Saint-Blimont 980
+Raillimont 79
+Thezy-Glimont 434
+
+Berlaimont 3314
+Bachant 2415
+
+Chantilly 11085
+Antilly 324
+Trumilly 517
+Rumigny 578
+Jumigny 68
+Proyart 542
+Goussancourt 68
+Equancourt 287
+Morval 94
+Gennes-Ivergny 142
+Glennes 142
+Soyecourt 213
+Sapignies 213
+Mory 348
+Mory-Montcrux 111
+Montcavrel 325
+Siracourt 232
+Rimboval 126
+Fruges 2862
+Ambricourt 107
+Boyaval 119
+Laval-en-Laonnois 219
+Louatre 219
+Balatre 54
+Avesnes-Chaussoy 54
+Saint-Clement 61
+Avondance 33
+Robersart 158
+
+Lambersart 28613
+
+La Madeleine 23572
+
+Loos 22107
+
+Templemars 3513
+Templeux-la-Fosse 158
+Sommette-Eaucourt 158
+Warlencourt-Eaucourt 110
+Berlencourt-le-Cauroy 261
+Latilly 179
+Vaudancourt 157
+Houdancourt 554
+Verlincthun 321
+Audincthun 591
+Gaudiempre 191
+Eps 191
+Sergy 156
+Houry 60
+La Vicogne 200
+La Villeneuve-sous-Thury 173
+Vaire-sous-Corbie 266
+Saint-Germain-sur-Bresle 188
+Neufmoulin 355
+Heninel 200
+Lerzy 178
+Lucy-le-Bocage 178
+Fresneville 79
+Haution 150
+Hautbos 121
+Hauteville 190
+Orrouy 594
+Saultain 2129
+Soupir 281
+Bus 108
+Cuy 223
+Herrin 382
+Vaulx 90
+Mentque-Nortbecourt 531
+Hebecourt 375
+Villequier-Aumont 616
+Vadencourt 616
+Jumel 375
+Neuve-Maison 619
+Viels-Maisons 970
+Marquaix 222
+Marquay 168
+Vaux-Marquenneville 67
+Arqueves 145
+Rubempre 684
+Franvillers 497
+
+Corbie 6486
+Corbeil-Cerf 305
+Ruisseauville 125
+Curchy 305
+Pierrefonds 2217
+La Rue-Saint-Pierre 768
+Valdampierre 917
+Nibas 770
+Bry 356
+Contay 356
+Croix-Caluyau 217
+Croix-Moligneaux 322
+La Croix-sur-Ourcq 91
+Neuville-en-Avesnois 296
+Neuville-Vitasse 523
+Feuchy 1184
+Athies 950
+Roclincourt 769
+Ecurie 304
+
+Vimy 4797
+Bouvigny-Boyeffles 2607
+Estree-Cauchy 373
+Caestre 1734
+Eecke 901
+Fletre 765
+Le Doulieu 1267
+Fromelles 898
+
+Roubaix 95721
+
+Wattrelos 42826
+Trelon 2941
+Dercy 382
+Noeux-les-Auxi 207
+Lanchy 63
+Monchy-Breton 401
+Clerques 220
+Willerval 672
+Willems 2855
+Willeman 164
+Vaux-Andigny 907
+Fayet 595
+Douchy-les-Ayette 323
+Achiet-le-Grand 1031
+Montmartin 237
+Bouzincourt 505
+Havrincourt 386
+Baugy 274
+Devise 76
+Bichancourt 935
+Bethancourt-en-Valois 261
+
+Saint-Pol-sur-Mer 23635
+
+Saint-Pol-sur-Ternoise 5603
+Roellecourt 618
+
+Flixecourt 3104
+Berteaucourt-les-Dames 1123
+Fieffes-Montrelet 306
+Berles-Monchel 449
+Crezancy 1257
+Baizieux 217
+Bieuxy 24
+Loueuse 139
+Sibiville 112
+
+Bondues 11285
+
+Wervicq-Sud 4354
+Vicq 1207
+Dohem 733
+Borre 557
+Fiefs 338
+Beaudeduit 179
+Gaudechart 342
+Eth 342
+Boullarre 237
+Gruson 1228
+Folleville 114
+Herleville 102
+Maresville 78
+Bussiares 102
+Epaux-Bezu 542
+Epieds 358
+Breny 244
+Arcy-Sainte-Restitue 373
+Origny-Sainte-Benoite 1780
+Avrigny 337
+Rogy 98
+Quievy 1757
+Cramoisy 586
+Couloisy 556
+Cempuis 556
+Sarnois 242
+Wylder 217
+Conty 1727
+Fontaine-Bonneleau 302
+Fontaine-au-Pire 1130
+Chemy 692
+Estourmel 436
+Le Frestoy-Vaux 216
+Martinpuich 216
+La Faloise 216
+La Flamengrie 1107
+Montigny-Lengrain 641
+
+Leers 9823
+
+Lesquin 6424
+
+Fretin 3048
+Genech 2762
+Honnechy 511
+Craonne 68
+Crupilly 68
+Montepilloy 168
+Fouilloy 193
+Douilly 232
+Monchy-Lagache 759
+Misery 131
+La Chavatte 39
+Gruny 313
+Harbonnieres 1325
+Marcelcave 1000
+Lagnicourt-Marcel 301
+Lesdain 402
+Launoy 69
+Foucaucourt-Hors-Nesle 70
+Glisy 556
+Nampty 208
+Vezaponin 132
+Noyant-et-Aconin 467
+Oisy-le-Verger 1292
+Saint-Georges-sur-l'Aa 273
+Thiers-sur-Theve 1019
+Plailly 1661
+Baron 819
+Pontpoint 2936
+Jaux 2253
+Antheuil-Portes 431
+Ricquebourg 184
 Bourg-et-Comin 678
-Campagne-les-Boulonnais 579
-Homblieres 1493
-Verpillieres 172
-Eterpigny 190
-Nanteuil-Notre-Dame 77
-Liesse-Notre-Dame 1530
-Vauxaillon 380
+Cagny 1427
+Cagnoncles 498
+
+Iwuy 3140
+
+Auby 7836
+
+Bray-Dunes 4681
+Aubry-du-Hainaut 1480
+Dommiers 306
+Bancigny 33
+Ancienville 78
+
+Audruicq 4680
+Marpent 2715
+Saint-Maximin 2685
+Longueil-Annel 2453
+Souchez 2222
+Nogent-l'Artaud 2123
+Domptin 533
+Zudausques 632
+Reez-Fosse-Martin 134
+Labosse 434
+Uxem 1114
+Huppy 709
+Maison-Roland 115
+Embreville 583
+Assevillers 238
+Viffort 287
+Bachy 1363
+Dury 1267
+Saveuse 801
+Seux 160
+Villers-Campsart 160
+Chiry-Ourscamp 1257
+Chirmont 110
+Wissant 1052
+Socx 1034
+Holque 914
+Crequy 576
+Conde-sur-Suippe 261
+Ecuires 869
+Buire-le-Sec 803
+Wimy 482
+Doudeauville 409
+Wierre-Effroy 773
+Varinfroy 263
+Nort-Leulinghem 182
+Bargny 225
+Gergny 148
+Mennevret 658
+Molain 151
+Woignarue 748
+Roucourt 383
+Ourton 718
+Wittes 713
+Autreches 703
+Autreppes 142
+Les Rues-des-Vignes 684
+Bellicourt 682
+Porquericourt 381
+Maimbeville 352
+Franqueville 161
+Cappy 491
+Polincove 569
+Gezaincourt 473
+Farbus 559
+Croutoy 180
 Cavillon 99
 Crillon 453
 Demuin 453
-Cys-la-Commune 136
-Avesnes-le-Comte 2039
-Izel-les-Hameau 682
-Savy-Berlette 1047
-Amettes 486
-Brimeux 717
-Clety 535
-Widehem 257
-Crezancy 1257
-Berles-Monchel 449
-Chiry-Ourscamp 1257
-Freniches 266
-Ficheux 540
-Witternesse 561
-Leulinghen-Bernes 408
-Toeufles 325
-Goeulzin 1117
-Domart-sur-la-Luce 430
-Hericourt-sur-Therain 115
-Viel-Arcy 171
-Parcy-et-Tigny 251
+Auchy-au-Bois 397
+Falvy 114
+Achery 549
+Cerizy 50
+Gury 178
+Suzoy 523
+Sorrus 482
 Argoules 343
-Ebouleau 204
-Sissonne 2564
-Blangy-sous-Poix 161
-Beaugies-sous-Bois 86
-Bavelincourt 86
-Soize 106
-Montgobert 186
-Saint-Gobert 312
-Croutoy 180
-Farbus 559
-Beussent 448
-Rousseloy 352
-Angicourt 1601
-Fleurines 1901
-
-Meurchin 3639
-
-Billy-Berclau 4338
-
-Hulluch 3019
-Bernieulles 213
-Nouvion-et-Catillon 501
-Catillon-Fumechon 541
-Lesboeufs 152
-Escoeuilles 403
-Escalles 332
-Pasly 1021
-Cuffies 1649
-Fillievres 514
-Habarcq 664
-Le Parcq 732
-Saint-Maulvis 228
-Fontaine-les-Clercs 276
-Ecquemicourt 847
-Wimy 482
-Saint-Josse 1088
-Labosse 434
-Y 97
-Equennes-Eramecourt 249
-Brassy 54
-Brasles 1255
-Braine 2094
-Arcy-Sainte-Restitue 373
-Saponay 248
-Vezaponin 132
-Vez 318
-Grandrieux 97
-Frelinghien 2361
-Vis-en-Artois 556
-
-Vitry-en-Artois 4692
-Neuville-en-Avesnois 296
-Oneux 354
-Bagneux 74
-Ugny-le-Gay 167
-Tugny-et-Pont 281
-Barenton-Bugny 539
-Ourton 718
-Charteves 348
-
-Frevent 4077
-Cierges 64
-Bouchavesnes-Bergen 360
-Montlevon 257
-Varinfroy 263
-Gerberoy 101
-Briastre 630
-Neufmoulin 355
-Le Doulieu 1267
-Le Deluge 484
-Fresneaux-Montchevreuil 752
-Bachivillers 362
-Bachy 1363
-Bachant 2415
-Hanvoile 520
-Haynecourt 582
-La Loge 189
-Hecq 275
-Bouin-Plumoison 523
-Nedonchel 236
-Ponches-Estruval 128
-Equancourt 287
-Epehy 1121
-Les Rues-des-Vignes 684
-Fresnes-les-Montauban 478
-Cormeilles 296
-Etalon 115
-Etaing 380
-Le Hamel 134
-Hames-Boucres 1221
-Peuplingues 597
-
-Sangatte 4170
-Wissant 1052
-Rinxent 2848
-
-Fourmies 14151
-La Flamengrie 1107
-La Groise 446
-
-La Sentinelle 3238
-
-Trith-Saint-Leger 6357
-Rouvignies 596
-Haulchin 2393
-Thiant 2632
-
-Wallers 5546
-
-Abscon 4204
-
-Somain 12310
-Nomain 2446
-Saint-Thomas 67
-Germaine 66
-Vincy-Reuil-et-Magny 145
-Balatre 54
-Bancigny 33
-Fourcigny 132
-Lagnicourt-Marcel 301
-Mentque-Nortbecourt 531
-Vaulx 90
-Vaudesson 180
-Blessy 653
-Estree-Blanche 918
-Remilly-Wirquin 329
-Salperwick 501
-Craywick 483
-Wicres 312
-Wittes 713
-Esmery-Hallon 774
-
-Etaples 11397
-Staple 631
-Rubescourt 137
-Croix-Caluyau 217
-Croix-Moligneaux 322
-Eragny-sur-Epte 560
-Foulangues 177
-Fay-les-Etangs 383
-Nibas 770
-Ternas 121
-Bernaville 1012
-Brailly-Cornehotte 245
-
-Teteghem 7465
-
-Roost-Warendin 5875
-Ostel 86
-
-Lapugnoy 3384
-Chavignon 798
-Laffaux 122
-Septvaux 203
-Le Frestoy-Vaux 216
-Fresnoy-au-Val 228
-Laval-en-Laonnois 219
-Craonne 68
-Crupilly 68
-Plessis-de-Roye 200
-Viels-Maisons 970
-Monsures 205
-Vichel-Nanteuil 88
-Fluquieres 197
-Moyvillers 536
-Saint-Hilaire-lez-Cambrai 1672
-Haucourt-en-Cambresis 203
-Ignaucourt 84
-Maurepas 208
-Beauvoir-Wavans 415
-Choqueuse-les-Benards 76
-Saveuse 801
-Marcelcave 1000
-Hem-Hardinval 283
-Norrent-Fontes 1479
-Francilly-Selency 442
-Holnon 1348
-Locquignol 351
-Mortemer 184
-Montgerain 184
-Achiet-le-Grand 1031
-Neuville-Vitasse 523
-Neuville-sur-Margival 92
-Pitgam 954
-Guizancourt 106
-Saint-Fuscien 893
-Saint-Felix 505
-Saint-Floris 446
-Ligny-Saint-Flochel 208
-Bomy 621
-Bourthes 553
-Ruyaulcourt 301
-Bealcourt 108
-Chivy-les-Etouvelles 553
-Fournival 525
-Lesdain 402
-Coyolles 402
-Eswars 361
-Dennebroeucq 325
-Gruny 313
-Saulchoy 295
-Languevoisin-Quiquery 213
+Gueschart 333
+Voharies 71
+Villers-Agron-Aiguizy 71
+Brie 308
+Ambrief 70
+Marant 87
+Domfront 308
 Lebiez 213
-La Ville-aux-Bois-les-Dizy 209
-La Vicogne 200
-Villers-Vicomte 146
-Le Gallet 121
-Bus-la-Mesiere 129
+Mondescourt 285
+Campigneulles-les-Grandes 266
+Ledinghem 210
+Hem-Hardinval 283
+Estreboeuf 234
+Sains-les-Pernes 222
+Lannoy-Cuillere 219
+Le Plessis-Patte-d'Oie 96
+Famechon 175
+Resigny 210
+Monsures 205
+Lhuys 137
+Vitz-sur-Authie 129
+Villers-en-Prayeres 107

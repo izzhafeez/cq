@@ -1,52 +1,46 @@
 
 
 Teresina 868075
-
-Esperantina 39848
-Pedro Laurentino 2544
-
-Pedro II 38778
-Lagoa de Sao Francisco 6777
-Sao Francisco do Piaui 6420
-Nazare do Piaui 7322
-Tanque do Piaui 2773
-Santana do Piaui 4642
-Santa Cruz do Piaui 6247
-Floresta do Piaui 2560
+Conceicao do Caninde 4807
 Bela Vista do Piaui 4030
+Floresta do Piaui 2560
+Colonia do Piaui 7661
+Colonia do Gurgueia 6516
+Alvorada do Gurgueia 5445
+Palmeira do Piaui 5036
+Cristino Castro 10444
 Cristalandia do Piaui 8323
 
 Corrente 26709
-Barreiras do Piaui 3352
 
-Barras 47185
-Sao Joao do Arraial 8038
-Matias Olimpio 10958
-Campinas do Piaui 5620
-Campo Grande do Piaui 5965
-Vila Nova do Piaui 2952
-Queimada Nova 9017
-Nova Santa Rita 4383
-Santa Rosa do Piaui 5255
+Luis Correia 30438
+
+Parnaiba 153482
+Parnagua 10819
+Riacho Frio 4309
+Sao Francisco do Piaui 6420
+Nazare do Piaui 7322
+Tanque do Piaui 2773
 Varzea Grande 4386
-Varzea Branca 4938
-Anisio de Abreu 9938
-Brejo do Piaui 3848
-Sao Joao do Piaui 20662
+Ilha Grande 9457
+Baixa Grande do Ribeiro 11671
+Ribeiro Goncalves 7376
+Sao Goncalo do Piaui 5030
+Sao Goncalo do Gurgueia 3057
+Sao Braz do Piaui 4451
+Santa Cruz do Piaui 6247
+Santana do Piaui 4642
 Sao Jose do Piaui 6700
 Sao Jose do Peixe 3741
 Sao Jose do Divino 5354
 Caxingo 5451
-Campo Largo do Piaui 7311
-Sao Luis do Piaui 2646
-Cajazeiras do Piaui 3573
-Juazeiro do Piaui 5485
-Sao Pedro do Piaui 14324
-Agua Branca 17470
-Passagem Franca do Piaui 4323
-Francisco Ayres 4323
-Hugo Napoleao 3879
-Miguel Leao 1242
+Domingos Mourao 4354
+Eliseu Martins 4930
+Padre Marcos 6873
+Marcolandia 8543
+Agricolandia 5131
+Lagoinha do Piaui 2858
+Lagoa do Piaui 4075
 Demerval Lobao 13840
 Capitao Gervasio Oliveira 4114
 Capitao de Campos 11445
@@ -54,195 +48,201 @@ Capitao de Campos 11445
 Campo Maior 46893
 Nossa Senhora de Nazare 4891
 Boa Hora 6815
-Boqueirao do Piaui 6426
-Cabeceiras do Piaui 10630
-Ribeira do Piaui 4488
-Pajeu do Piaui 3404
-Morro do Chapeu do Piaui 6811
-Lagoa do Barro do Piaui 4656
-Alagoinha do Piaui 7665
-Lagoinha do Piaui 2858
-Lagoa do Piaui 4075
-Monsenhor Gil 10564
-Curralinhos 4459
-Currais 4968
-
-Bom Jesus 25387
-Sussuapara 6767
-Pavussu 3669
-Canavieira 3944
-Itaueira 11028
-Rio Grande do Piaui 6433
-Caldeirao Grande do Piaui 5781
-Marcolandia 8543
-Padre Marcos 6873
-Jaicos 19170
-Massape do Piaui 6449
-Caridade do Piaui 5085
-Curral Novo do Piaui 5367
-Novo Oriente do Piaui 6556
-Valenca do Piaui 20929
-Sao Goncalo do Piaui 5030
-Sao Goncalo do Gurgueia 3057
-Sao Braz do Piaui 4451
-Aroeiras do Itaim 2551
-
-Oeiras 37085
-Colonia do Piaui 7661
-Colonia do Gurgueia 6516
-Alvorada do Gurgueia 5445
-Palmeira do Piaui 5036
-Palmeirais 14587
-Angical do Piaui 6783
-Santo Antonio dos Milagres 2166
-Novo Santo Antonio 3003
-Sao Joao da Serra 6122
-Sao Miguel da Baixa Grande 2454
-Sao Felix do Piaui 2932
-Santa Cruz dos Milagres 4033
-Santa Luz 5882
-Cristino Castro 10444
-Morro Cabeca no Tempo 4530
-Guaribas 4568
-Caracol 10964
-Caraubas do Piaui 5890
-
-Cocal 27845
-Cocal dos Alves 6168
-Buriti dos Lopes 19807
-Murici dos Portelas 9209
+Nossa Senhora dos Remedios 8723
 Porto 12608
 Porto Alegre do Piaui 2720
 Monte Alegre do Piaui 10615
 Gilbues 10694
-Joca Marques 5466
-
-Luzilandia 25504
-Agricolandia 5131
-Paes Landim 4126
-Sao Miguel do Fidalgo 3038
+Jurema 4777
+Varzea Branca 4938
+Agua Branca 17470
+Passagem Franca do Piaui 4323
+Prata do Piaui 3150
+Sao Miguel da Baixa Grande 2454
 Sao Miguel do Tapuio 17639
 Castelo do Piaui 19715
-Assuncao do Piaui 7863
-Pimenteiras 12139
-Fronteiras 11659
-Sao Joao da Fronteira 6064
-Joao Costa 3005
-Domingos Mourao 4354
-Manoel Emidio 5351
-Curimata 11426
-
-Batalha 26905
-Ilha Grande 9457
-
-Parnaiba 153482
-Parnagua 10819
-Riacho Frio 4309
-Nazaria 8602
-
-Floriano 60025
-Flores do Piaui 4462
-Patos do Piaui 6406
-Antonio Almeida 3170
-Santo Inacio do Piaui 3803
+Brejo do Piaui 3848
+Socorro do Piaui 4563
+Sao Joao do Piaui 20662
+Sao Joao do Arraial 8038
+Matias Olimpio 10958
+Isaias Coelho 8566
 Olho D'Agua do Piaui 2468
-Pau D'Arco do Piaui 4065
-Sao Lourenco do Piaui 4577
-Dirceu Arcoverde 7029
-Fartura do Piaui 5319
-Bonfim do Piaui 5685
-Belem do Piaui 3587
+Santo Inacio do Piaui 3803
+Bom Principio do Piaui 5651
+Buriti dos Lopes 19807
+Murici dos Portelas 9209
+Joaquim Pires 14376
+Sao Joao da Varjota 4848
+Sao Joao da Serra 6122
+Novo Santo Antonio 3003
+Santo Antonio de Lisboa 6441
+Francisco Santos 9372
+Francisco Ayres 4323
+Hugo Napoleao 3879
+Miguel Leao 1242
+
+Miguel Alves 33833
+Sao Miguel do Fidalgo 3038
+Paes Landim 4126
+
+Luzilandia 25504
+Joca Marques 5466
+Madeiro 8342
+Juazeiro do Piaui 5485
+Cajazeiras do Piaui 3573
+Sao Luis do Piaui 2646
+Patos do Piaui 6406
+Flores do Piaui 4462
+Aroazes 5827
+Cocal de Telha 4899
+
+Cocal 27845
+Cocal dos Alves 6168
+
+Piracuruca 28874
+
+Urucui 21655
+Jatoba do Piaui 4875
+Betania do Piaui 6210
+Acaua 7102
+Caridade do Piaui 5085
+Massape do Piaui 6449
 Alegrete do Piaui 4918
 Francisco Macedo 3200
-Francisco Santos 9372
-Santo Antonio de Lisboa 6441
-Bocaina 4505
-Itainopolis 11551
-Vera Mendes 3080
+Caldeirao Grande do Piaui 5781
+Campo Grande do Piaui 5965
+Vila Nova do Piaui 2952
+Queimada Nova 9017
+Nova Santa Rita 4383
+Santa Rosa do Piaui 5255
+
+Oeiras 37085
+Aroeiras do Itaim 2551
+Antonio Almeida 3170
+Santo Antonio dos Milagres 2166
+Angical do Piaui 6783
+Jardim do Mulato 4513
+Bonfim do Piaui 5685
+Belem do Piaui 3587
+Jaicos 19170
+
+Picos 78431
+Sussuapara 6767
+Pavussu 3669
+Rio Grande do Piaui 6433
+Itaueira 11028
+Ribeira do Piaui 4488
+Pajeu do Piaui 3404
+Morro do Chapeu do Piaui 6811
+Lagoa do Barro do Piaui 4656
+Lagoa do Sitio 5198
+Valenca do Piaui 20929
+Novo Oriente do Piaui 6556
+Barra D'Alcantara 3952
+Arraial 4720
+
+Barras 47185
+Cabeceiras do Piaui 10630
+Barreiras do Piaui 3352
+Campinas do Piaui 5620
 Simplicio Mendes 12746
-Conceicao do Caninde 4807
-Sao Joao da Canabrava 4614
-Sao Joao da Varjota 4848
+Vera Mendes 3080
+Itainopolis 11551
+Francinopolis 5347
+Elesbao Veloso 14575
+Sao Felix do Piaui 2932
+Santa Cruz dos Milagres 4033
+Santa Luz 5882
+
+Bom Jesus 25387
+Currais 4968
+Curralinhos 4459
+Curral Novo do Piaui 5367
+Simoes 14649
+Campo Alegre do Fidalgo 5069
+Sao Francisco de Assis do Piaui 5779
+Lagoa de Sao Francisco 6777
+
+Pedro II 38778
+Sao Pedro do Piaui 14324
+Pedro Laurentino 2544
+
+Esperantina 39848
+
+Batalha 26905
+
+Piripiri 63787
 Ipiranga do Piaui 9838
 Dom Expedito Lopes 6922
 Avelino Lopes 11326
 Julio Borges 5640
 Sao Juliao 6371
+Alagoinha do Piaui 7665
 Monsenhor Hipolito 7767
-Nossa Senhora dos Remedios 8723
+Monsenhor Gil 10564
 Beneditinos 10473
 Alto Longa 14339
 
 Altos 40605
 Coivaras 4032
-Amarante 17604
-Regeneracao 17979
-Jardim do Mulato 4513
-Jatoba do Piaui 4875
-Prata do Piaui 3150
-Betania do Piaui 6210
-Acaua 7102
-Jacobina do Piaui 5729
-Paulistana 20554
-Sao Francisco de Assis do Piaui 5779
-Campo Alegre do Fidalgo 5069
-Lagoa Alegre 8577
-Brasileira 8347
-Dom Inocencio 9565
-Bom Principio do Piaui 5651
-
-Luis Correia 30438
-Isaias Coelho 8566
-Cocal de Telha 4899
-Aroazes 5827
-Barro Duro 7027
-Sebastiao Barros 3451
-Sebastiao Leal 4303
-Bertolinia 5507
-Geminiano 5460
-
-Picos 78431
-Marcos Parente 4547
-Landri Sales 5283
-Jerumenha 4447
-Guadalupe 10497
-Madeiro 8342
-Joaquim Pires 14376
-Paqueta 3937
-Wall Ferraz 4471
-Arraial 4720
-Barra D'Alcantara 3952
-Francinopolis 5347
-Elesbao Veloso 14575
-
-Miguel Alves 33833
-
-Uniao 44569
 
 Jose de Freitas 39336
-Coronel Jose Dias 4685
+
+Uniao 44569
+Boqueirao do Piaui 6426
+Assuncao do Piaui 7863
+Pimenteiras 12139
+Fronteiras 11659
+Sao Joao da Fronteira 6064
+Joao Costa 3005
+Manoel Emidio 5351
+Curimata 11426
+
+Floriano 60025
+Geminiano 5460
+Bertolinia 5507
+Sebastiao Leal 4303
+Sebastiao Barros 3451
+Barro Duro 7027
+Campo Largo do Piaui 7311
 
 Sao Raimundo Nonato 34877
-Baixa Grande do Ribeiro 11671
-Ribeiro Goncalves 7376
-
-Urucui 21655
-
-Piracuruca 28874
-
-Piripiri 63787
-Milton Brandao 6608
-Sigefredo Pacheco 10058
-Redencao do Gurgueia 8796
+Sao Lourenco do Piaui 4577
+Dirceu Arcoverde 7029
+Fartura do Piaui 5319
+Anisio de Abreu 9938
+Caracol 10964
+Caraubas do Piaui 5890
 Canto do Buriti 21258
 Buriti dos Montes 8264
-Lagoa do Sitio 5198
-Inhuma 15319
-Eliseu Martins 4930
+Milton Brandao 6608
+Sigefredo Pacheco 10058
+Paulistana 20554
+Jacobina do Piaui 5729
 Pio IX 18459
 Cajueiro da Praia 7674
-Simoes 14649
-Santa Filomena 6254
-Jurema 4777
+Sao Joao da Canabrava 4614
+Bocaina 4505
+Paqueta 3937
+Wall Ferraz 4471
+Regeneracao 17979
+Amarante 17604
+Palmeirais 14587
+Canavieira 3944
+Landri Sales 5283
+Marcos Parente 4547
+Jerumenha 4447
+Guadalupe 10497
+Inhuma 15319
+Dom Inocencio 9565
+Coronel Jose Dias 4685
 Tamboril do Piaui 2929
-Socorro do Piaui 4563
+Redencao do Gurgueia 8796
+Morro Cabeca no Tempo 4530
+Guaribas 4568
+Nazaria 8602
+Lagoa Alegre 8577
+Brasileira 8347
+Pau D'Arco do Piaui 4065
+Santa Filomena 6254

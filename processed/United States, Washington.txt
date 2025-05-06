@@ -1,93 +1,97 @@
 
 
 Seattle 737015
-Newcastle 13017
-Eastgate 4958
-Waterville 1134
-Yarrow Point 1134
-Browns Point 1263
-Dash Point 963
-Vashon 11055
-Normandy Park 6771
-Lakeland North 13663
-Lakeland South 13169
-Pacific 7235
-Fife Heights 1882
-Fife 10999
 
-Federal Way 101030
-Mineral 193
-Almira 318
-South Prairie 373
-Trout Lake 672
-Home 1543
-Country Homes 6251
-Town and Country 5068
+SeaTac 31454
+
+Burien 52066
+Normandy Park 6771
+Boulevard Park 4094
+Deer Park 4383
+Green Bluff 697
+Mead 7576
 Fairwood (Spokane County) 10541
 
 Spokane 228989
 
 Spokane Valley 102976
 Millwood 1881
-Woodinville 13069
-
-Bothell 48161
-
-Bothell West 22015
-Bothell East 13970
-
-Mill Creek East 24912
-Mill Creek 20926
-Lake Stickney 15413
-
-Lake Stevens 35630
-
-Everett 110629
-Garrett 1771
-College Place 9902
-
-University Place 34866
-Fircrest 7156
+McMillin 1624
+Orting 9041
+Bay View 812
+Burlington 9152
+Arlington 19868
+Sisco Heights 3140
+Fife Heights 1882
+Fife 10999
+Waller 8189
+Summit 8270
+Summit View 9758
+Clover Creek 7161
+Clarkston 7161
+West Clarkston-Highland 5488
+Clarkston Heights-Vineland 7275
+Arlington Heights 2477
+Beverly 266
+Waverly 121
+La Grande 121
+Anderson Island 1302
+Rockport 90
+Crocker 1450
+Carbonado 734
+Wilkeson 499
+Roy 816
+Nisqually Indian Community 668
+Tanglewilde 6265
+Fort Lewis 14052
+North Fort Lewis 5978
+DuPont 10151
+George 809
+Quincy 7543
+Rock Island 1279
+Hat Island 91
+Langley 1147
+Spangle 280
+Qui-nai-elt Village 320
+Beaux Arts Village 317
+Pateros 593
+Trout Lake 672
+Home 1543
+Country Homes 6251
+Town and Country 5068
+Grand Coulee 972
+Coulee City 549
+Electric City 956
+Fall City 2032
+Snoqualmie 14121
+Riverpoint 774
+Riverbend 2123
+North Bend 7461
+South Bend 1746
+Cohassett Beach 771
+Copalis Beach 447
+Taholah 776
+Neah Bay 935
 Creston 213
 Crescent Bar 325
-Neah Bay 935
-Pataha 106
-Latah 185
-Marine View 405
-Metaline Falls 272
-Metaline 162
-Waverly 121
-Swede Heaven 839
-Leavenworth 2263
-Davenport 1703
-Medical Lake 4874
-Medina 2915
-Clyde Hill 3126
-
-Inglewood-Finn Hill 22707
-
-Kenmore 23914
-Lake Forest Park 13630
-West Pasco 1747
-
-Pasco 77108
-Prescott 372
-Snoqualmie Pass 372
-Snoqualmie 14121
-
-Issaquah 40051
-
-Sammamish 67455
-Suquamish 4266
-Poulsbo 11975
+Curlew 105
+Curlew Lake 512
+Twin Lakes 99
+Chain Lake 4806
+Ames Lake 1524
+Alderton 3274
+Verlot 340
+Chelan Falls 340
+Chelan 4222
+Manson 1523
+Mansfield 326
 Carlsborg 1100
 Springdale 234
 Banks Lake South 234
-Ames Lake 1524
-Alderton 3274
-Alder 212
-Lake Cavanaugh 200
-Lake Ketchum 1268
+Lakeland South 13169
+Lakeland North 13663
+
+Auburn 87256
 Lake Holm 3430
 Lake Tapps 12962
 
@@ -96,183 +100,303 @@ Sunday Lake 1184
 Stanwood 7705
 Northwest Stanwood 137
 Coulee Dam 1211
-Coulee City 549
-Grand Coulee 972
-Electric City 956
+South Prairie 373
+Brush Prairie 2749
+Meadow Glade 2758
+Meadowdale 3148
+Picnic Point 9768
+Dash Point 963
+Browns Point 1263
+Hunts Point 457
+Chinook 457
+Nooksack 1471
+Kendall 769
+Ferndale 15048
+Marietta-Alderwood 4015
+
+Bellingham 91482
+Geneva 2652
+Sudden Valley 6354
+Sedro-Woolley 12421
+Valley 149
+McKenna 678
+
+Kennewick 83921
+West Pasco 1747
+
+Pasco 77108
+Finley 6152
+Burbank 3499
+Wallula 140
+
+Walla Walla 34060
+Walla Walla East 2286
+Garrett 1771
+College Place 9902
+
+University Place 34866
+Fircrest 7156
+Wollochet 6769
+Touchet 425
 Clinton 956
 
 Renton 106785
 East Renton Highlands 11937
-
-East Hill-Meridian 29878
-
-Union Hill-Novelty Hill 22683
-
-Cottage Lake 22857
-Vantage 54
-Inchelium 431
-Chelan 4222
-Chelan Falls 340
-Maple Falls 291
-Kettle Falls 1636
-Malden 216
-Malo 32
-Omak 4860
-Okanogan 2379
-Malott 464
-Malone 468
-Elma 3438
-Yelm 10617
-Rainier 2369
-Tenino 1870
-Nisqually Indian Community 668
-Nespelem Community 283
-Union 683
-Junction City 18
-Barney's Junction 114
-Carnation 2158
-Lake Marcel-Stillwater 1334
-Duvall 8034
-Valley 149
+Maple Heights-Lake Desire 3873
 
 Maple Valley 28013
-Maple Heights-Lake Desire 3873
 Shadow Lake 2396
-Meadow Glade 2758
-Brush Prairie 2749
-Fern Prairie 2061
-Jamestown 412
-Rockport 90
-Crocker 1450
-Carbonado 734
-Donald 172
-Ronald 439
-South Cle Elum 559
-Cle Elum 2157
-Friday Harbor 2613
-May Creek 849
-Erlands Point 916
-Oroville 1795
-Eatonville 2845
-Index 155
-La Grande 121
-Anderson Island 1302
-Herron Island 150
-Ketron Island 20
-Elbe 39
-Wilbur 895
-Burley 2081
-Curlew 105
-Beverly 266
-Arlington Heights 2477
-Arlington 19868
-Sisco Heights 3140
-High Bridge 3140
-Bridgeport 2141
-Brewster 1983
-Custer 518
-Porter 204
-Hoodsport 419
-Dallesport 1328
-Bingen 778
-Geneva 2652
-Everson 2888
-Nooksack 1471
-Chinook 457
-Nespelem 180
-Wheeler 74
-Keller 229
-Waller 8189
-
-Walla Walla 34060
-Walla Walla East 2286
-Wallula 140
-Burbank 3499
-Finley 6152
-Winlock 1472
-Castle Rock 2446
+Hobart 6767
+Ravensdale 555
+Lake Morton-Berrydale 10474
+Covington 20777
 Lexington 3834
 West Side Highway 5517
 Longview Heights 4033
 
 Longview 37818
 Kelso 12720
-Wilson Creek 204
-Salmon Creek 21293
-
-Hazel Dell 23569
-Lake Shore 7056
-Felida 9526
+Puget Island 922
+Woodland 6531
+La Center 3424
 Ridgefield 10319
-Duluth 1718
-Southworth 2362
+Garfield 562
+Fairfield 589
+Fairchild AFB 2695
+McChord AFB 3188
 
-South Hill 64708
-South Bend 1746
-North Bend 7461
-Riverbend 2123
-Riverpoint 774
-Tanner 1018
-La Conner 965
-Connell 5441
-Othello 8549
-Mesa 385
-Basin City 1063
-Royal City 1776
-George 809
-Quincy 7543
-Sequim 8024
-Port Angeles East 3159
-Port Angeles 19960
-Port Ludlow 2959
-Port Hadlock-Irondale 3983
-Port Townsend 10148
-Marrowstone 995
-Kingston 2515
-Port Gamble Tribal Community 1010
-Hansville 3410
-Lewisville 1860
-Venersborg 3990
-Five Corners 20973
-Dollars Corner 1246
-Hogans Corner 86
+Lakewood 63612
+Edgewood 12327
+Milton 8697
+Hamilton 299
+Shelton 10371
+Skokomish 615
+Skykomish 161
+Loomis 161
+Palouse 1015
 Humptulips 236
-Moclips 211
-Lebam 150
-Barstow 66
-Bow 203
-Boyds 34
-Amboy 1800
-Purdy 1668
-Addy 210
-Mead 7576
-Meadowdale 3148
-Picnic Point 9768
+Hogans Corner 86
+Dollars Corner 1246
+Five Corners 20973
+Venersborg 3990
+Lewisville 1860
+Hansville 3410
 
-North Lynnwood 22802
+Marysville 70714
+Lake Cassidy 3757
+
+Lake Stevens 35630
+Lake Bosworth 868
+Lochsloy 2806
+Lower Elochoman 275
+Upper Elochoman 178
+Sprague 495
+River Road 495
+Riverton 6407
+White Center 16631
+Bay Center 253
+Key Center 3863
+Canterwood 3572
+Maplewood 5469
+
+Inglewood-Finn Hill 22707
+Clyde Hill 3126
+Yarrow Point 1134
+Medina 2915
+Medical Lake 4874
+Cheney 13255
+Erlands Point 916
+Oroville 1795
+Danville 51
+Colville 4917
+Kettle Falls 1636
+Maple Falls 291
+Skamokawa Valley 487
+Lake Roesiger 611
+North Bonneville 1397
+Dixie 225
+Amanda Park 162
+Metaline 162
+Metaline Falls 272
+Marine View 405
+Latah 185
+Pataha 106
+May Creek 849
+Mill Creek 20926
+
+Mill Creek East 24912
+Bothell East 13970
+
+Bothell 48161
+
+Bothell West 22015
+Alderwood Manor 10198
 
 Lynnwood 38568
-Alderwood Manor 10198
-Ryderwood 383
-Tokeland 158
-Parker 158
+
+North Lynnwood 22802
+Larch Way 4993
+Birch Bay 10115
+Blaine 5884
+Elk Plain 14534
+
+Frederickson 24906
+
+Spanaway 35476
 
 Parkland 38623
 Midland 9962
-Clover Creek 7161
-Clarkston 7161
-West Clarkston-Highland 5488
-Clarkston Heights-Vineland 7275
-Airway Heights 10757
-Fairchild AFB 2695
-Fairfield 589
-Cheney 13255
-Enetai 2497
+
+Richland 60560
+West Richland 16295
+Benton City 3479
+Basin City 1063
+Royal City 1776
+Ocean City 232
+Elmer City 239
+Thorp 232
+Roslyn 950
+Easton 407
+Ruston 1055
+
+Tacoma 219346
+Concrete 801
+Mossyrock 768
+Willapa 208
+Zillah 3179
+Raft Island 490
+Sunland Estates 179
+Tokeland 158
+Parker 158
+Ryderwood 383
+Vaughn 565
+Swede Heaven 839
+Leavenworth 2263
+Cashmere 3248
+Sunnyslope 4041
+
+Wenatchee 35508
+East Wenatchee 14158
+South Wenatchee 1522
+South Cle Elum 559
+Cle Elum 2157
+Friday Harbor 2613
+
+Oak Harbor 24622
+Gig Harbor 12029
+Rosedale 4357
+Artondale 13641
+Port Hadlock-Irondale 3983
+Port Ludlow 2959
+Port Gamble Tribal Community 1010
+Nespelem Community 283
+Cougar 118
+Washougal 17039
+
+Camas 26065
+Camano 17356
+Kayak Point 1883
+Warm Beach 2990
+Long Beach 1688
+Ilwaco 1087
+Ocean Park 1814
+Ocean Shores 6715
+Westport 2213
+Porter 204
+Hoodsport 419
+Dallesport 1328
+Bingen 778
+White Salmon 2485
+White Swan 789
+Harrah 585
+Wapato 4607
+Buena 1048
+Toppenish 8854
+Granger 3624
+Grandview 10907
+Sunnyside 16375
+Mabton 1959
+Prosser 6062
+LaCrosse 297
+Warden 2449
+Wilbur 895
+Clayton 420
+Dayton 2448
+Markham 119
+Starbuck 119
+Buckley 5114
+Bickleton 92
+Tieton 1389
+Naches 1084
+Rochester 6064
+Oakville 715
+Malone 468
+Satsop 696
+Brady 692
+Montesano 4138
+Lamont 79
+
+Eastmont 24059
+
+Silver Firs 22174
+Cathcart 2647
+Cathlamet 560
+Tekoa 817
+Deming 339
+Farmington 131
+Snoqualmie Pass 372
+Kapowsin 372
+Donald 172
+Ronald 439
+Onalaska 657
+Napavine 1888
+Chehalis 7439
+Centralia 18183
+Fords Prairie 2234
+Fern Prairie 2061
+Jamestown 412
+Barstow 66
+Union 683
+Union Gap 6568
+
+Yakima 96968
+Selah 8153
+Gleed 2873
+Summitview 2066
+Ahtanum 4046
+Pomeroy 1389
+Terrace Heights 9244
+Moxee 4326
+Ellensburg 18666
+Rosburg 340
+Waitsburg 1166
+North Omak 651
+Omak 4860
+Okanogan 2379
+Malott 464
+Malo 32
+Malden 216
+Alder 212
+Lake Cavanaugh 200
+Lake Ketchum 1268
+Big Lake 2980
+Seabeck 1143
+La Conner 965
+Connell 5441
+Mesa 385
+Othello 8549
 Bethel 4073
 East Port Orchard 5262
 Port Orchard 15587
 
 Orchards 27729
+Otis Orchards-East Farms 6299
+Liberty Lake 12003
+Stansberry Lake 2087
+Wauna 4421
+Burley 2081
+
+Bremerton 43505
 Barberton 8567
 Mount Vista 10051
 
@@ -280,439 +404,315 @@ Mount Vernon 35219
 Clear Lake (Skagit County) 1228
 Clear Lake (Pierce County) 1578
 South Creek 2519
-Elk Plain 14534
 
-Frederickson 24906
+South Hill 64708
 
-Spanaway 35476
-Spangle 280
-Langley 1147
-Hat Island 91
-Raft Island 490
-Lower Elochoman 275
-Upper Elochoman 178
-Sprague 495
-River Road 495
-Riverton 6407
-Boulevard Park 4094
-Deer Park 4383
-Green Bluff 697
-Greenwater 95
-Rockford 522
-Ashford 303
-
-Graham 32658
-Harrah 585
-Terrace Heights 9244
-Moxee 4326
-Gleed 2873
-Selah 8153
-Chewelah 2470
-Colville 4917
-Danville 51
-Curlew Lake 512
-Twin Lakes 99
-Chain Lake 4806
-Marblemount 286
-Navy Yard City 2759
-Cosmopolis 1638
-Rosalia 598
-Centralia 18183
-Chehalis 7439
-Rochester 6064
-Grand Mound 3301
-Fords Prairie 2234
-Prairie Ridge 12288
-Prairie Heights 4561
-Wilkeson 499
-Willapa 208
-Wapato 4607
-Union Gap 6568
-
-Yakima 96968
-Kayak Point 1883
-Warm Beach 2990
-Long Beach 1688
-Cohassett Beach 771
-Copalis Beach 447
-Ocean Shores 6715
-Ocean Park 1814
-Central Park 2841
-Aberdeen 17013
-Aberdeen Gardens 279
-Warden 2449
-Clayton 420
-Dayton 2448
-Colton 401
-Colfax 2782
-Belfair 4279
-Allyn 2194
-Blyn 108
-Lynden 15749
-Sudden Valley 6354
-Peaceful Valley 3015
-Kendall 769
-Ferndale 15048
-Artondale 13641
-Rosedale 4357
-Gig Harbor 12029
-
-Oak Harbor 24622
-Whidbey Island Station 1671
-Coupeville 1942
-Grapeview 991
-Lakeview 1068
-Soap Lake 1691
-
-Moses Lake 25146
-Moses Lake North 4050
-Cascade Valley 4332
-Ephrata 8477
-Wishram 366
-Orient 75
-Concrete 801
-Suncrest 5413
-Sunland Estates 179
-Cowiche 535
-
-Richland 60560
-West Richland 16295
-Benton City 3479
-Ocean City 232
-Elmer City 239
-Thorp 232
-Methow 92
-Torboy 43
-Bickleton 92
-Cusick 153
-Santiago 52
-Entiat 1326
-
-Wenatchee 35508
-East Wenatchee 14158
-South Wenatchee 1522
-Sunnyslope 4041
-Sunnyside 16375
-Grandview 10907
-Granger 3624
-Toppenish 8854
-Buena 1048
-
-Burien 52066
-
-Auburn 87256
-Rosburg 340
-Waitsburg 1166
-North Omak 651
-Northport 297
-LaCrosse 297
-Prosser 6062
-Desert Aire 2288
-Forks 3335
-Mattawa 3335
-Kittitas 1438
-Klickitat 320
-Qui-nai-elt Village 320
-Quilcene 598
-Odessa 896
-Wilderness Rim 1617
-Tanglewilde 6265
-Fort Lewis 14052
-North Fort Lewis 5978
-DuPont 10151
-Lamont 79
-
-Eastmont 24059
-
-Silver Firs 22174
-Cathcart 2647
-Martha Lake 21660
-Larch Way 4993
-Birch Bay 10115
-Bay View 812
-Burlington 9152
-
-Bellingham 91482
-Bell Hill 875
-Beacon Hill 2211
-Lofall 2211
-Fall City 2032
-Klahanie 10674
-
-Kirkland 92175
-
-Redmond 73256
-
-Edmonds 42853
-Esperance 4007
-Woodway 1318
-Lake Goodwin 4462
-Lake Cassidy 3757
-Lake Bosworth 868
-Lochsloy 2806
-Wollochet 6769
-Touchet 425
-Naches 1084
-Tieton 1389
-Easton 407
-Roslyn 950
-Pateros 593
-Outlook 317
-Beaux Arts Village 317
-Zillah 3179
-McKenna 678
-
-Kennewick 83921
-
-Kent 136588
-
-SeaTac 31454
-
-Tukwila 21798
-Bryn Mawr-Skyway 17397
-Bryant 2128
-Lake McMurray 382
-Mountlake Terrace 21286
-Brier 6560
-Laurier 4
-Acme 229
-McMillin 1624
-Milton 8697
-Edgewood 12327
-
-Lakewood 63612
-McChord AFB 3188
-McCleary 1997
-Clearview 3648
-Maltby 11277
-Altoona 56
-Deep River 217
-Grays River 248
-Raymond 3081
-Grayland 847
-Westport 2213
-Hoquiam 8776
-Black Diamond 4697
-Lake Morton-Berrydale 10474
-Morton 1036
-Glacier 300
+Puyallup 42973
+North Puyallup 1837
+North Yelm 3140
+Yelm 10617
+Rainier 2369
 
 Lacey 53526
-Steilacoom 6727
-
-Tacoma 219346
-Ruston 1055
-Maplewood 5469
-Canterwood 3572
-Marietta-Alderwood 4015
-Alger 507
-Algona 3290
-Startup 859
-Starbuck 119
-Buckley 5114
-Skamokawa Valley 487
-Lake Roesiger 611
-North Bonneville 1397
-Dixie 225
-Edison 240
-Garfield 562
-Mansfield 326
-Albion 550
-Ione 428
-Marcus 216
-Markham 119
-Amanda Park 162
-Camano 17356
-
-Camas 26065
-Washougal 17039
-Cougar 118
-
-Vancouver 190915
-Minnehaha 11871
-Tehaleh 5784
-Orting 9041
-Asotin 1204
-Endicott 312
-
-Pullman 32901
-Manson 1523
-Stevenson 1491
-Carson 2323
-Hockinson 6105
-Battle Ground 20743
-Cherry Grove 588
-Walnut Grove 9790
-Pine Grove 129
-Winthrop 504
-Three Lakes 3941
-Machias 1264
-Cavalero 5232
-Bunk Foss 3680
-Snohomish 10126
-Loomis 161
-Palouse 1015
-Skykomish 161
-Skokomish 615
-Shelton 10371
 
 Olympia 55605
+
+Tumwater 25350
+Waterville 1134
+Centerville 94
+Oso 172
+Silvana 97
+Silverdale 20733
+Bangor Base 5482
+Keyport 576
+Poulsbo 11975
+Suquamish 4266
+
+Sammamish 67455
+Klahanie 10674
+
+Issaquah 40051
+Eastgate 4958
+Kingsgate 13065
+Woodinville 13069
+Eatonville 2845
+Index 155
+Steptoe 160
+Albion 550
+Conway 87
 Lyman 423
 Vader 629
-Mossyrock 768
-Rock Island 1279
-Fox Island 3921
-Puget Island 922
-Woodland 6531
-La Center 3424
-Bay Center 253
-Key Center 3863
-White Center 16631
-White Swan 789
-White Salmon 2485
-Granite Falls 4450
-Canyon Creek 3445
+Wishram 366
+Orient 75
+Gorst 605
+Cowiche 535
+Lind 535
+Glenwood 179
+Kahlotus 147
+Monroe North 1796
+Monroe 19699
 Woods Creek 6017
 North Sultan 256
 Sultan 5146
 Gold Bar 2403
 Goldendale 3453
 Maryhill 55
+Bell Hill 875
 
-Marysville 70714
-North Marysville 108
+Union Hill-Novelty Hill 22683
+
+Cottage Lake 22857
+Three Lakes 3941
+Machias 1264
+Cavalero 5232
+Bunk Foss 3680
+Snohomish 10126
+Fobes Hill 2628
+
+Everett 110629
+Everson 2888
+Lynden 15749
+Sumas 1583
+Peaceful Valley 3015
+Cascade Valley 4332
+
+Moses Lake 25146
+Moses Lake North 4050
+Soap Lake 1691
+Kitsap Lake 1997
+McCleary 1997
+Clearview 3648
+Maltby 11277
+Martha Lake 21660
+Lake Stickney 15413
+Lake Shore 7056
+Felida 9526
+Salmon Creek 21293
+
+Hazel Dell 23569
 Cliffdell 114
-Oakesdale 395
-Ravensdale 555
-Hobart 6767
+Barney's Junction 114
+Junction City 18
+Santiago 52
+Entiat 1326
+Ephrata 8477
+Lakeview 1068
+Grapeview 991
+Allyn 2194
+Belfair 4279
+Fairwood (King County) 19396
+
+East Hill-Meridian 29878
+
+Kent 136588
+
+Des Moines 32888
+Vashon 11055
+Southworth 2362
+Manchester 5714
+Enetai 2497
+Tracyton 5967
+Rocky Point 1615
+Erlands Point-Kitsap Lake 2935
+Chico 2723
+Parkwood 7635
+Packwood 319
+Disautel 47
+Anatone 25
+Ocosta 502
+Rockford 522
+Greenwater 95
+Ketron Island 20
+Herron Island 150
+Moclips 211
+Lebam 150
+Washtucna 211
+Boyds 34
+Cusick 153
+Oyehut 79
+Hatton 79
+Wheeler 74
+Nespelem 180
+Hartline 180
+
+Shoreline 58608
+Esperance 4007
+Woodway 1318
+Lake Goodwin 4462
+Lake McMurray 382
+Bryant 2128
+High Bridge 3140
+Bridgeport 2141
+Brewster 1983
+Custer 518
+Lyle 518
+Almira 318
+Conconully 193
+Nile 146
+Mineral 193
+
+Federal Way 101030
+Central Park 2841
+Aberdeen 17013
+Aberdeen Gardens 279
+Hoquiam 8776
+Roche Harbor 662
+Whidbey Island Station 1671
+Coupeville 1942
+Port Townsend 10148
+Marrowstone 995
+Kingston 2515
+Indianola 3664
+Beacon Hill 2211
+Lofall 2211
+Granite Falls 4450
+Canyon Creek 3445
+Wilson Creek 204
+Roosevelt 152
+St. John 599
+Queets 136
+Outlook 317
+Brinnon 907
+
+Bainbridge Island 24825
+Fox Island 3921
+Steilacoom 6727
+Longbranch 4141
+Loon Lake 898
+Torboy 43
+Methow 92
+Prescott 372
+Endicott 312
+Colfax 2782
+
+Pullman 32901
+Colton 401
+Yacolt 1668
+Purdy 1668
+Amboy 1800
+Cherry Grove 588
+Battle Ground 20743
+Walnut Grove 9790
+Minnehaha 11871
+
+Vancouver 190915
+Duluth 1718
+Hockinson 6105
+Stevenson 1491
+Carson 2323
+
+Bellevue 151854
+Keller 229
+Laurier 4
+Brier 6560
+Mountlake Terrace 21286
+Lake Forest Park 13630
+
+Kenmore 23914
+
+Kirkland 92175
+
+Redmond 73256
+
+Edmonds 42853
+Raymond 3081
+Grayland 847
+Grays River 248
+Deep River 217
+Naselle 421
+Altoona 56
+East Cathlamet 578
+Castle Rock 2446
+Newcastle 13017
+
+Mercer Island 25748
+Bryn Mawr-Skyway 17397
+
+Tukwila 21798
+
+Graham 32658
+Tehaleh 5784
+Prairie Ridge 12288
+Prairie Heights 4561
+Airway Heights 10757
+Suncrest 5413
+Chewelah 2470
+Addy 210
+Marcus 216
+Lake Marcel-Stillwater 1334
+Duvall 8034
+Carnation 2158
+Tanner 1018
+Wilderness Rim 1617
+Mirrormont 3858
+Black Diamond 4697
+Enumclaw 12543
+Sumner 10621
+Pacific 7235
+Pacific Beach 280
+Klickitat 320
+Four Lakes 537
 Baring 255
 Harrington 429
 Darrington 1462
-Covington 20777
-Farmington 131
-Kapowsin 372
-Silvana 97
-Oso 172
-Ocosta 502
-Anatone 25
-Disautel 47
-Packwood 319
-Parkwood 7635
-Rocky Point 1615
-Erlands Point-Kitsap Lake 2935
-Kitsap Lake 1997
-Loon Lake 898
-Big Lake 2980
-Seabeck 1143
-Mabton 1959
-Hatton 79
-Hunts Point 457
-Hartline 180
-Lind 535
-Glenwood 179
-Gorst 605
-Bangor Base 5482
-Silverdale 20733
-Tracyton 5967
-Chico 2723
-Tampico 467
-Monroe North 1796
-Monroe 19699
-Mirrormont 3858
-Montesano 4138
-Brady 692
-Longbranch 4141
-Manchester 5714
-
-Bainbridge Island 24825
-Keyport 576
-Newport 2114
-Otis Orchards-East Farms 6299
-Liberty Lake 12003
-Stansberry Lake 2087
-Wauna 4421
-Schwana 215
-Reardan 637
-Verlot 340
-Kahlotus 147
-Taholah 776
-Neilton 299
-Hamilton 299
-Satsop 696
-Oakville 715
-Centerville 94
-Washtucna 211
-Cashmere 3248
-
-Bremerton 43505
-Pomeroy 1389
-Roy 816
-Oyehut 79
-North Yelm 3140
-North Puyallup 1837
-
-Puyallup 42973
-Summit 8270
-Summit View 9758
-Summitview 2066
-Ahtanum 4046
-Enumclaw 12543
-Clallam Bay 386
+Alger 507
+Anacortes 17637
+Mukilteo 21538
+Port Angeles 19960
+Port Angeles East 3159
+Sequim 8024
 Kalama 2959
-Onalaska 657
+Freeland 2252
+Elma 3438
+Grand Mound 3301
+Tenino 1870
+Winlock 1472
+Toledo 631
+Pe Ell 642
+Mattawa 3335
+Desert Aire 2288
+Forks 3335
+Kittitas 1438
+Algona 3290
+Startup 859
+Odessa 896
+Rosalia 598
+Quilcene 598
+Tampico 467
+Navy Yard City 2759
+Marblemount 286
+Cosmopolis 1638
+Pine Grove 129
+Winthrop 504
+Reardan 637
+Schwana 215
+Northport 297
+North Marysville 108
+Blyn 108
+Oakesdale 395
+Vantage 54
+Inchelium 431
+Acme 229
+Edison 240
+Newport 2114
+Ione 428
+Ritzville 1767
+Krupp 49
+Davenport 1703
+Asotin 1204
+Uniontown 389
+Point Roberts 1191
 Tonasket 1103
 Riverside 329
 Twisp 992
-Krupp 49
-Ritzville 1767
-Naselle 421
-Pe Ell 642
-Toledo 631
-Napavine 1888
-Blaine 5884
-Point Roberts 1191
-Roche Harbor 662
-Anacortes 17637
-Yacolt 1668
-Ilwaco 1087
-Conway 87
-Conconully 193
-Lyle 518
-Nile 146
-Queets 136
-Roosevelt 152
-St. John 599
-Vaughn 565
-
-Bellevue 151854
-Ellensburg 18666
-
-Shoreline 58608
-Kingsgate 13065
-Fairwood (King County) 19396
-
-Mercer Island 25748
-Freeland 2252
-Mukilteo 21538
-Sekiu 24
-Tekoa 817
-Deming 339
-Cathlamet 560
-East Cathlamet 578
-
-Des Moines 32888
-Fobes Hill 2628
-
-Tumwater 25350
-Sumner 10621
-Sumas 1583
-Sedro-Woolley 12421
-Indianola 3664
-Republic 992
-Steptoe 160
-Eschbach 441
-Pacific Beach 280
-Four Lakes 537
-Brinnon 907
+Morton 1036
+Glacier 300
 Bucoda 600
-Uniontown 389
+Republic 992
+Eschbach 441
+Clallam Bay 386
+Sekiu 24
+Neilton 299
+Ashford 303
+Bow 203
+Elbe 39

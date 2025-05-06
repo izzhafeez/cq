@@ -2,8 +2,6 @@
 
 Sanaa 1937451
 Sahar 31859
-Dhamar 160114
-Yarim 33050
 Khimar 3000
 Najd Al Tha'ub 1000
 Salabah 1000
@@ -12,43 +10,45 @@ Al Madu 1986
 Al Musaymir 3
 Al Madakisha 5000
 Al Qabyal 2000
-Qaryat Al kudshi al Ra'inah 750
-Dhi as Sufal 37997
-
-Ibb 234837
-Hadibu 8545
 Qalansiyah 3500
 Kilmia 2013
-Bajil 48218
-Hajjah 43549
-Al Mahwit 10593
-'Amran 90792
-Al Khaniq 2
-Bani al 'Awwam 41
-Al 'Inan 100
-Ash Shawati 25
-Sa'dah 51870
-
-Al Hudaydah 617871
-Al Bayda 37821
-Bayt al Faqih 34204
-Zabid 52590
+Hadibu 8545
 Al Ghayzah 10948
 Suhayl Shibam 645
 
 Mukalla 258132
 Ataq 37315
-Al-Khasha Lower 800
 Al-Khasha Upper 1100
-Al Hazm 18241
-Ma'rib 16794
-Sayyan 69404
-Saqayn 41
+Al-Khasha Lower 800
 
-Taiz 615222
+Al Hudaydah 617871
+Bajil 48218
+Ahl Mohammed bin Ahmed 1800
+Zinjibar 19879
+Lahij 23375
 
 Aden 550602
-Lahij 23375
-Zinjibar 19879
-Ahl Mohammed bin Ahmed 1800
+
+Taiz 615222
+Qaryat Al kudshi al Ra'inah 750
+Bayt al Faqih 34204
+Zabid 52590
+Dhi as Sufal 37997
+
+Ibb 234837
+Yarim 33050
+Dhamar 160114
+Sayyan 69404
+Al Khaniq 2
+'Amran 90792
+Hajjah 43549
+Al Mahwit 10593
+Sa'dah 51870
+Ash Shawati 25
+Saqayn 41
+Bani al 'Awwam 41
+Al 'Inan 100
+Al Hazm 18241
+Ma'rib 16794
+Al Bayda 37821
 Ad Dali' 14760

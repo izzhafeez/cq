@@ -2,40 +2,117 @@
 
 Zurich 341730
 Montricher 761
-Rietgrabenhang 761
-Granges 617
-Grandfontaine 343
-Bidogno 343
-Bogno 126
-Mosogno 67
-Sonogno 88
-Vignogn 175
-Peccia 175
-Speck 17
-Echtlen 17
-Echtlenweg 6
-Buechlen 6
-Bachlen 6
-Vorder-Marchlen 6
-Tueweid 6
-Altweid 6
-Steinweid 6
-Grossenstein 6
-Rossens 49
+Ulrichen 246
+Goschenen 464
+Silenen 2243
+Mulenen 49
 Huggenberg 49
 Eggenberg 76
-
-Egg 4003
-Hinteregg 1107
-Schlossacher 70
-Ober-Aathal 70
-Raat 132
-Raad 48
-Ober-Raad 3
-Vorderer-Radrain 3
-Vorder-Ruti 10
-Hinter-Ruti 10
+Niggenberg 17
+Vorder-Altenberg 17
+Vorder-Tiefenbach 17
+Mittelschneit 17
+Schneit 10
 Oberberg 10
+Silberberg 4
+Egli 4
+Eglisau 974
+Seglingen 1144
+Zeglingen 526
+Bergun 526
+Felsberg 2088
+
+Domat 6817
+Langerenruti 25
+Rallikon 25
+Wallikon 57
+Rumlikon 403
+Humlikon 383
+Graslikon 156
+Dattlikon 414
+Lindhof 56
+Linden 1315
+Inden 103
+Gundisau 103
+Gunten 25
+Cunter 194
+Unterhaus 23
+Unterherten 29
+Oberherten 15
+Garten 15
+Wigarten 12
+Tannagerten 12
+Untere Tanne 12
+Obere Tanne 8
+Neuhaus bei Wandhuslen 8
+Amslen 8
+Huslen 5
+Wandhuslen 35
+Aadorferfeld 35
+Ausserferrera 35
+Innerferrera 39
+Marmorera 58
+Hullistein 27
+Stein 2504
+Holstein 2249
+Diegten 1633
+Buckten 660
+Hafelfingen 272
+Laufelfingen 1271
+Itingen 1750
+Bettingen 1189
+
+Ettingen 4980
+Zwingen 2162
+Weiningen 1753
+Nunningen 1939
+Grellingen 1767
+Pfeffingen 2201
+
+Aesch 10138
+Aeschacker 11
+Lochacker 9
+Steinacker 9
+Fuchsbuhl 9
+Kreuzbuhl 9
+Unter-Wolfbuhl 9
+Untermoos 9
+Obermoos 13
+Folenmoos 13
+Steindrusen 13
+Gmeindruti 10
+Hochruti 10
+Lochruti 21
+Lochfeld 21
+Schuppis 21
+Schupfen 3248
+
+Schupfheim 3723
+Hasle 1725
+Haslen 638
+
+Teufen 5683
+Teufenbach 11
+Reitenbach 11
+Breitenbach 3241
+Brislach 1493
+
+Lachen 6685
+
+Eschenbach 9175
+Schmerikon 3307
+
+Berikon 4527
+
+Rudolfstetten 3800
+Wolfsacker 5
+Hinteracker 5
+Eicheracker 14
+Obermuhle 14
+Muhle 12
+Talmuhle 11
+Thalmuhle 8
+Ornberg 8
 Berg 2942
 Sulgen 3367
 Tavannes 3367
@@ -50,351 +127,1644 @@ Romanel-sur-Lausanne 3123
 
 Cheseaux 3946
 Roches 222
-Lochwis 71
-Birchwil 1066
-Birch 6
-Obere Birch 7
-Obere Hanegg 7
-Unterbosch 7
-Untergris 7
-Unteriberg 2307
-Oberiberg 786
-Kuchliberg 2
-Station Uetliberg 2
-Rossmattli 2
-Rossi 2
-Rossiniere 527
-Alchenstorf 527
-Utzenstorf 3625
+Roche 870
+Corbeyrier 348
+Yvorne 885
 
-Jegenstorf 4027
+Aigle 7723
+Biglen 1759
+Walkringen 1817
 
-Gebenstorf 4100
-Birmenstorf 2462
+Munsingen 10928
 
-Birr 3884
-Hausen 2881
+Oensingen 4609
+Subingen 2852
 
-Lausen 4892
-Itingen 1750
-Bettingen 1189
+Derendingen 6093
+Endingen 1935
+Rekingen 856
+Wasterkingen 521
+Zweidlen-Station 257
+Zweidlen-Dorf 104
+Marstetten-Dorf 2600
+Stettfurt 1048
+Stetten 1065
+Buttenhardt 350
+Gisenhard 41
+Zeisenberg 14
+Isenberg 2
+Ober Rain 2
+Ober Ruti 9
+Brandlen 9
+Gwandlen 1
+Bondler 47
+Schindlet 36
+Chindismuli 47
+Lindist 11
 
-Ettingen 4980
-Zwingen 2162
-Weiningen 1753
-Nunningen 1939
-Grellingen 1767
+Windisch 6689
 
-Mellingen 4224
-Hagglingen 2183
-Magglingen 574
-Seglingen 1144
-Eglisau 974
-Soglio 173
-Isone 388
-
-Losone 6070
-
-Ascona 5084
-Cugnasco 1202
-
-Giubiasco 7752
-Ronco sopra Ascona 671
-Vicosoprano 469
-Osogna 994
-Gnosca 571
-
-Biasca 5885
-Frasco 116
-Bignasco 311
-Intragna 864
-Verscio 1009
-Avegno 518
-Lavertezzo 1168
-Piazzogna 395
-San Nazzaro 654
-Cadenazzo 1906
-Cadro 1596
-Cadempino 1351
-Canobbio 1869
-Comano 1729
-
-Lugano 63000
-
-Viganello 6375
-Gandria 216
-
-Mendrisio 7310
-Risi 29
+Brugg 9196
+Brugglen 94
+Hellberg 94
+Hell 8
+Hellen 8
+Bellen 21
+Jakobsbrunnen 21
+Jakobstal 21
+Im Jakobstal 29
 Dandlikon 29
 Gundlikon 72
 Zunikon 81
 Edikon 33
-Hof 33
-Oberhof 32
-Loberen 32
-Geren 23
-Ger 17
-Mittelschneit 17
-Schneit 10
-Breiten 10
-Breite 450
-Augwil 450
-Ober-Augwil 66
-Stationsquartier 66
-Station 12
-Schwendibach 12
-Gschwendboden 12
-Gschattli 12
-Dattlikon 414
-Graslikon 156
-Humlikon 383
-Stucki-Bondler 199
-Bonler 153
-Tannler 8
-Tann 3034
-Estavannens-Dessus 366
-Longirod 366
+Medikon 315
+Lax 315
+Unter Haltberg 27
+Unterschneit 27
+Oberschneit 90
+Schneitberg 19
+Etstel 19
+Netstal 2900
+Obstalden 465
+Filzbach 541
+Sulzbach 163
+Heusberg 40
+Wellenberg 40
+Allenberg 30
+Aatal 30
+Jonatal 96
 
-Blonay 5244
+Jona 17655
 
-Ollon 6665
+Rapperswil 34776
 
-Collombey 5926
-Corbeyrier 348
-
-Veyrier 9800
-
-Meyrin 19772
-
-Vernier 30086
-Meinier 1811
-Anieres 2706
-Corsier 1699
-Crassier 769
-Richenthal 769
-Lutschental 264
-Leutschenbach 5
-
-Eschenbach 9175
-Schmerikon 3307
-Tuggen 2671
-Gugger 3
-Guggel 11
-Wespersbuhl 11
-Heispel 11
-Tempelhof 11
-Tempel 12
-Aemperg 12
-Gempen 722
-Fahrni 722
-Arni 963
-
-Bern 121631
-
-Muri 12374
-Muhlethurnen 1265
-
-Thun 42136
+Rupperswil 4137
+Egliswil 1401
+Boniswil 1436
+Veytaux 747
+Leutwil 747
+Buttwil 1185
+Uttwil 1492
+Abtwil 718
+Andwil 1737
+Hundwil 975
 Thundorf 1179
 
 Aadorf 7620
 Uitikon 3282
 Elgg 3282
-Zelg 30
-Zelgli 30
-Vinzel 284
-Gruenfeld 284
+Schloss Elgg 2
+Schlatti 2
+Glattenried 2
+Dettenried 108
+Frohberg 108
+Berghof 10
+Rheinsberghof 2
+Berghus 2
+Bergheim 161
+Ghei 81
+Sobrio 81
+Brione 225
+Lavertezzo 1168
+Travers 1233
+Couvet 2811
+Le Bouveret 800
+Le Bry 307
+Ludiano 307
+Scaiano 21
+Caviano 134
+Bachtobel 21
+Bachtobelstrasse 195
+Sonnhalde 1984
+Halde 122
+Wildsberg 122
+Nussberg 82
+Rutisberg 22
+Meisberg 22
+Fehrenwaltsberg 22
+Laufenbach 22
+Tufenbach 35
+Widenbach 16
+Widenbad 13
+Schaubigen 13
+Eigental 13
+Eigenthal 13
 
-Frauenfeld 21979
-Gachnang 3235
-Langacher 29
-Langacker 24
-Bocken 24
-Stocken 30
-Aatal 30
-Jonatal 96
+Langenthal 14184
+Murgenthal 3044
+Penthalaz 2241
+Isenthal 558
+Bussenthal 31
+Obertal 31
+Ober-Bertschikon 31
+Ober-Chruzlen 31
+Unter-Chruzlen 20
+Unter-Fagswil 221
+Hinter-Aatal 20
+Buechholz 20
+Holzhusen 20
+Ufhusen 882
 
-Jona 17655
-Jonen 1683
-Schonenbuch 1313
-Schonenhof 41
+Wolhusen 4050
+Tolhusen 22
+Riedmatt 22
+Ried 5
+Riedt 811
+Neerach 1435
+Busserach 1863
+Iserables 918
+Kaiseraugst 3600
+Augst 908
+Sins 3600
+Eysins 831
+Bursins 701
+Bursinel 390
+Fiez 390
+Mulegns 26
+Wartguet 26
+Waggital 26
+Burg 26
+Lieburg 18
+Vorder-Guldenen 18
+Guldenenstrasse 45
+Bergstrasse 59
+Nussbergstrasse 5
+Ebersberg 5
+Girsberg 18
+Platten 18
+Rotblatt 18
+Hinderschlatt 18
+Rinderweid 18
+Hinderwald 14
+Vorderwald 21
+Vorder Banikon 21
+Vorder Sennenberg 21
+Hinter Sennenberg 13
+Tennenberg 7
+Unterbosch 7
+Untergris 7
+Unterneuhus 7
+Neuhusrain 7
+Langrain 7
+Langruti 28
+Grut 1565
+Neugrut 6
+Tueweid 6
+Altweid 6
+Weid 46
+Buel 46
+Buelen 10
+Tuelen 3
+Stuelen 43
+Wagenstoss 43
+Sagen 100
+Eschenmosen 100
+Eschenz 1508
+Roschenz 1753
+Boschen 9
+Bosch 12
+Schwendibach 12
+Gschwendboden 12
+Gschattli 12
+
+Schattdorf 4860
+
+Altdorf 8678
+Dorf 1226
+
+Mannedorf 7951
+Tannertobel 68
+Muli 68
+Aumuli 21
+Sprumuli 12
+Ob der Muli 12
+Hinter Mugern 12
+Hinter-Schonau 12
+Schonau 76
+Neuwies 76
+Wiesli 45
+Wies 2
+Paradis 2
+Paradies 3
+Hohruti 3
+Ohruti 12
+Uf Ruti 12
+
+Ruti 9576
+Chalbisau 20
+Ober-Albis 61
+Unter-Albis 63
+Unter-Wechsel 3
+Unter-Rick 3
+Ober-Rick 6
+Schmarschur 6
+Schur 16
+Schulhaus Limberg 16
+Schufelberg 16
+Wesenmatt 16
+Leematt 16
+Matt 344
+Wildberg 344
+Waldberg 11
+Waldegg 11
+Seehalden 11
+Seehalde 4
+Finsterseehalden 14
+Winterhalden 14
+Halden 61
+Haselhalden 74
+Wolflishalden 8
+Kashalden 8
+Aretshalden 61
+Blumetshalde 56
+Rundihalde 56
+Rundi 24
+Unterauruti 24
+Heuruti 14
+Oberauruti 14
 Chimenhof 14
-Obermuhle 14
-Muhle 12
-Muhleberg 2739
-Ferenbalm 1310
-Oberbalm 849
-Unterbach 430
-Luterbach 3292
+Himendal 4
+Undalen 49
+Salen 16
+Sales 1326
+Semsales 986
+Maracon 582
 
-Derendingen 6093
-Langendorf 3518
-Matzendorf 1282
-Aedermannsdorf 548
-Laupersdorf 1670
-Lauperswil 2700
-Ruderswil 2329
-Walterswil 639
+Le Grand-Saconnex 9781
+Grandval 390
+Grandvillard 616
+Neirivue 329
+Albeuve 589
+Coeuve 665
+Alle 1693
+Malleray 1918
+Haller 222
+Rueyres 222
+Cheyres 910
+Peyres-Possens 140
+Assens 888
+Ursenbach 888
+Wissenbach 34
+Cauco 34
+Montfaucon 421
+Randa 421
+Brand 58
+Huebli 27
+Ober-Moos 27
+Unter-Moos 31
+Ranghusen 31
+Rutibuhl 31
+Buhl 17
+Buhlhof 13
+Kehlhof 596
+Bauen 206
+Nauen 45
+Vollenweid 45
+Stollen 45
+Wellenau 80
+Iseo 80
+Bunt 80
+Zil 76
+Tagernau 27
+Schuren 27
+Schuracher Waltenstein 27
+Hintere Rietwies 27
+Untere Hofe 27
+Obere Hofe 39
+Oberembrach 694
+
+Embrach 7088
+Rudolfingen 222
+Lufingen 446
+Effingen 603
+Bozen 606
+Twann 845
+Wanne 27
+Bachenmoos 27
+Vorder Bachenmoos 46
+Buchenloo 46
+Buchen 13
+Juchen 16
+Im Juch 34
+First 34
+Girstelweid 4
+Gerster 4
+Esterli 4
+Munsterlingen 2459
+Beromunster 2876
+Meisterschwanden 2459
+Merenschwand 2479
+Maschwanden 485
+Schwanden 2541
+Sool 301
+Nidfurn 227
+Furna 226
+Saint-Jean 226
+Saint-Luc 347
+Saint-Livres 568
+
+Saint-Prex 4461
+Lully VD 740
+
+Pully 16263
+Cully 1793
+Le Chatelard 353
+
+Chatel-Saint-Denis 5094
+
+Neuchatel 31270
+
+Peseux 5716
+Auvernier 1555
+Cernier 2080
+
+Marin-Epagnier 4087
+Lignieres 982
+
+Le Landeron 4278
+Hanflander 4
+Ankenland 4
+Breitenlandenberg 5
+Altlandenberg 517
+Bauma 1029
+Baumler 7
+Vorder-Ruteli 7
+Vorder-Ruti 10
+Hinter-Ruti 10
+Beizi 10
+Wurz 10
+Grundtal 10
+Wiesengrund 10
+Aussere Rietwies 10
+Rietli 10
+Grossriet 10
+Ermisriet 10
+Hermiswil 3156
+Riggisberg 2001
+Rueggisberg 1933
+Guggisberg 1628
+Plaffeien 1938
+Oberschrot 1099
+Oberschlatt 105
+Unterschlatt 174
+Spannrain 174
+Rain 18
+Sandrain 26
+Brandrain 50
+Poschen 50
+Eichelackerstrasse 50
+Haggenbergstrasse 9
+Bar 9
+Strickel 9
+Strick 63
+Strickler 18
+Hockler 26
+Ober-Schluchtal 26
+Ober-Kempttal 26
+Kempttal 169
+Landikon 169
+Lendikon 73
+Nanikon 1560
+
+Greifensee 5032
+Mauensee 1199
+Glovelier 1199
+Undervelier 328
+Reconvilier 2291
+Bonvillars 362
+Villars-Burquin 565
+Champagne 680
+Waltensburg 362
+Waltenstein 118
+Kaltenstein 54
+Baltenswil 247
+Bruttisellen 3697
+
+Wallisellen 11705
+Dagmersellen 3300
+Ebersecken 401
 Alberswil 556
 Ettiswil 1801
 Buttisholz 2890
 Altishofen 1368
-Penthalaz 2241
+Hemishofen 394
+Montcherand 394
+Saas-Balen 394
+Saas-Fee 1611
+Eisten 259
+Kaisten 2140
+Rovray 188
+Ittenthal 188
 
-Langenthal 14184
-Murgenthal 3044
-Fulenbach 1526
-Lodrino 1526
+Untersiggenthal 6344
 
-Oftringen 10390
+Obersiggenthal 7990
 
-Zofingen 11451
-Laufelfingen 1271
-Hafelfingen 272
-Sandbuel 272
-Landbuhl 18
-Vorder-Guldenen 18
-Vorder-Grut 105
-Froberg 105
-Ober-Frobuel 12
-Under-Frobuel 11
-Ruppen 11
+Baden 16118
+Praden 119
+Bettswil 119
+Adetswil 716
+Oberhofen bei Etzgen 289
+Oberhittnau 551
+Ober-Balm 97
+Ober-Teufen 149
+Unter-Teufen 173
+Flerden 173
+Ferden 345
+Blatten 317
+Latten 171
+Betschwanden 171
+Leuggelbach 164
 
-Rupperswil 4137
-Staufen 2424
-Teufenthal 1665
-Unterkulm 3099
-Unterwerk 16
-Unter-Eich 16
-Eich 1627
-Reichenburg 2876
-Beromunster 2876
-Munsterlingen 2459
+Erlenbach 4519
 
-Munsingen 10928
+Ehrendingen 4519
 
-Wichtrach 3843
-Gerzensee 961
-Savognin 961
-Begnins 1323
-Bursins 701
-Bursinel 390
-Eysins 831
-Prangins 3172
-Gingins 958
-Trelex 1092
-Borex 833
-Founex 2254
+Herrliberg 5025
+Herrlisberg 77
+Hiltisberg 30
+Seltisberg 1412
 
-Le Grand-Saconnex 9781
+Bubendorf 4543
 
-Onex 17302
+Frenkendorf 6180
+Arisdorf 1538
 
-Bernex 9759
-Troinex 2192
+Fullinsdorf 4442
 
-Thonex 13057
+Regensdorf 7531
+Usserdorf 270
+Laubisser 617
+Galmiz 617
+Falmis 65
+Palmisacker 96
+Wolfacker 6
+Spitzacker 6
+Spitzacher 8
+Spitzrain 8
+Grutrain 8
+Rietrain 12
+Rietruti 3
+Riet 206
+Inner-Langenriet 120
+Usser-Langenriet 49
+Mettmenriet 49
+Wolfenriet 13
+Wolfenhof 13
+Wolfen 2
+Wolfenzadel 3
+Wolfern 3
+Eggli 3
+Sporrweggli 8
 
-Chene-Bourg 7959
+Weggis 3863
+Vitznau 1496
+Menznau 2628
+Chamoson 2628
 
-Chene-Bougeries 10487
+Cham 13495
 
-Carouge 19344
-Rougemont 909
+Steinhausen 8509
+Kleinhaus 8
+Finhaut 344
+Dinhard 522
+Appisberg 25
+Goppisberg 93
+Grengiols 496
+Engi 662
+Sengi 6
+Wengi 579
+Luzein 1153
 
-Saanen 6621
-Pianezzo 539
-Riaz 1894
-Cerniat 344
-Cernier 2080
-Auvernier 1555
+Luzern 57066
 
-Peseux 5716
+Kriens 25010
 
-Montreux 22897
-Palezieux 1209
-Attalens 2380
-Jongny 1423
-Savigny 3440
+Horw 12348
 
-Bussigny 7408
+Hergiswil 5437
+Giswil 3563
 
-Crissier 6612
+Ruswil 6432
+Werthenstein 1909
 
-Renens 17811
+Munchenstein 11644
+
+Muttenz 16927
+Mutten 78
+Hutten 451
+Brutter 78
+Brutten 1556
+Betten 450
+Hofstetten 1115
+Oberglatt 3564
+Niederglatt 3632
+Niederhasli 2848
+Niederholz 18
+Hinderholz 6
+Wiserholz 27
+Holz 10
+Holzschlag 10
+Schlatt 35
+
+Schlieren 12695
 Vullierens 402
 Biere 1428
 
 Colombier 9297
-Stierva 142
-Clarmont 142
-Claro 2296
-Acquarossa 1814
-Rossa 140
-Unter-Ohringen 140
-Ober-Ohringen 700
-Vufflens-le-Chateau 700
-Mollens 282
+Verbier 2000
+Caux 2000
+Hallau 2000
+Oberhallau 416
+Samstagern 3163
+La Chaux-des-Breuleux 78
 
-Rolle 4425
-Essertines-sur-Rolle 476
-Gimel 1454
-Gilly 925
-Lully VD 740
-
-Prilly 10524
-
-Pully 16263
-Cully 1793
-
-Ecublens 10262
-Daillens 667
-
-Echallens 4972
-Ballens 389
-Alle 1693
-Malleray 1918
-Bevilard 1736
-Evilard 2328
-La Neuveville 3495
-Villeret 915
+La Chaux-de-Fonds 36825
+La Sagne 988
+Les Geneveys-sur-Coffrane 1458
+Les Brenets 1169
+La Brevine 723
+Les Breuleux 1277
+Les Bois 1104
 
 Saint-Imier 5220
 Chezard-Saint-Martin 1655
 Saint-Blaise 3089
+Saint-Brais 236
+Theilingen 236
+Flurlingen 1221
+Oerlingen 380
+Guntalingen 297
+Waltalingen 278
+Ossingen 959
+Truttikon 363
+Altikon 447
+Attikon 89
+Gattikon 2142
 
-Marin-Epagnier 4087
-Lignieres 982
-Ligerz 525
-Heiligenschwendi 674
-Schwendi 17
-Gschwend 17
-Vorder-Altenberg 17
-Vorder-Tiefenbach 17
-Hinter-Tiefenbach 16
-Tufenbach 35
-Widenbach 16
-Wissenbach 34
-Cauco 34
-Caux 2000
-Cartigny 775
-Uttigen 1673
-Seftigen 2014
-Reutigen 969
+Langnau am Albis 7000
+
+Langnau 8784
+Signau 2821
+
+Hegnau 7961
+Mittlere Langwies 27
+Langwies 278
+Langwiesen 759
+Uhwiesen 1140
+Dachsen 1470
+Nohl 124
+
+Neuhausen 10019
+
+Schaffhausen 33863
+Wildhaus 1221
+Hausen 2881
+Ettenhausen 200
+Ringwil 200
+Augwil 450
+Breite 450
+Breiten 10
+Breitenloo 20
+Breitenmatt 650
+Unteri Siten 20
+Untere Tuntelen 20
+Untere Hanegg 20
+Obere Hanegg 7
+Cholgrueb 7
+Grueben 4
+Sandgrueb 6
+Ruebgarten 6
+Hargarten 89
+Obstgarten 60
+Brontallo 60
+Lostallo 691
+Ristall 4
+Aristau 1313
+Schonenbuch 1313
+Jonen 1683
+Schonenhof 41
+Guntisberg 41
+Brolberg 41
+Muhlberg 24
+Langfuhr 24
+Langacker 24
+Langacher 29
+Rigacher 5
+Hammigacher 37
+Bonacher 3
+Schurliacher 3
+Schurli 38
+Ober-Schurli 5
+Ober Hueb 5
+Ober Halden 85
+Garstlig 85
+Darstetten 859
+Erlenbach im Simmental 1730
+Zweisimmen 2813
+Boltigen 1443
 Diemtigen 2027
+Reutigen 969
+Krattigen 892
 
 Frutigen 6671
-Krattigen 892
+Uttigen 1673
+Seftigen 2014
+Rubigen 2426
+
+Vechigen 4619
+
+Bolligen 6086
+
+Zollikofen 9121
+
+Munchenbuchsee 9801
+
+Herzogenbuchsee 5522
+Niederbuchsiten 947
+Oberbuchsiten 1807
+Oberbipp 1440
+
+Niederbipp 3862
+Holderbank 691
+Bank 111
+Robank 65
+Robankli 149
+Banklen 196
+Tannenrain 131
+Sanitas 131
+Pitasch 120
+Tasch 831
+Flasch 626
+Presinge 626
+Pontresina 1863
+
+Montreux 22897
+
+Monthey 15106
+
+Conthey 6634
+Ardon 2305
+Chardonne 2659
+Jongny 1423
+
+Vevey 15812
+Montpreveyres 500
+Les Thioleyres 190
+Zuoz 1209
+Palezieux 1209
+Mezieres 1060
+Gruyeres 1646
+Anieres 2706
+Meinier 1811
+
+Vernier 30086
+
+Les Avanchets 5730
+Sembrancher 787
+
+Bagnes 6626
+Hagneck 400
+Wileroltigen 400
+Morigen 824
+Tauffelen 2492
+Kappelen 1075
+Frauenkappelen 1281
+Muhleberg 2739
+Ferenbalm 1310
+Heferen 155
+
+Oberentfelden 7553
+Muhen 3419
+
+Kolliken 4059
+
+Zollikerberg 4187
+
+Zollikon 5812
+
+Ruschlikon 4653
+Stallikon 456
+Les Ponts-de-Martel 1278
+Nidermartel 10
+Niderau 6
+Nideltobel 6
+Tobel 9
+Tobeli 31
+Leutobel 2
+Im Gibel 2
+Gibel 5
+Chriegmatten 5
 Matten 3676
+Matte 66
+Stationsquartier 66
+Station 12
+Station Urdorf 34
+
+Urdorf 9205
+Oberdorf 2248
+Unterdorf 439
+Neu-Rheinau 562
+Kleinandelfingen 1094
+Andelfingen 1328
+Court 1328
+Courtetelle 2248
+Bassecourt 3305
+Courfaivre 1508
+Courroux 3085
+Courrendlin 2314
+Vendlincourt 578
+Miecourt 454
+Courtedoux 745
+Ocourt 125
+Courgenay 2106
+Boncourt 1304
+Courtelary 1163
+Villeret 915
+La Neuveville 3495
+Evilard 2328
+Bevilard 1736
+Hauteville 529
+Froideville 1518
+Goumoens-la-Ville 609
+Daillens 667
+
+Echallens 4972
+Ballens 389
+Brunau 389
+Bruni 16
+Brunisberg 33
+Liebensberg 60
+Regensberg 346
+Juckeren 346
+Geren 23
+Loberen 32
+Oberhof 32
+Erholungshaus 42
+Lettenmoos 42
+Letten 208
+Lettenberg 24
+Dettenberg 7
+Lattenberg 11
+Wespersbuhl 11
+Auf dem Buhl 11
+Auf der Buechlen 4
+Buech 4
+Buechli 7
+Fraubuechli 6
+Buechlen 6
+Bachlen 6
+Vorder-Marchlen 6
+Hinter-Marchlen 12
+Hinter-Egg 6
+Hinter-Auli 6
+Vorder-Auli 5
+Vorder-Goldacher 5
+Hinter-Goldacher 2
+
+Goldach 9094
+
+Rorschach 9000
+Morschwil 3496
+Haggenschwil 1216
+Niederhelfenschwil 2668
+Jonschwil 3221
+Butschwil 3393
+Ganterschwil 1145
+Oberhelfenschwil 1318
+Riddes 2213
+Mogelsberg 2213
+Wiedlisbach 2213
+Chilisbaum 9
+Nussbaumen 75
+Baumschuel 10
+Surebaum 10
+Rebacher 10
+Moosacher 10
+Trottacher 10
+Rietacher 4
+Huebacher 4
+Bodenacher 4
+Bodenacker 4
+Grabenacker 4
+Holzacker 4
+Nuholz 4
+Bannholz 4
+Tannhof 2
+Sennhof 57
+Geschinen 57
+Neschwil 141
+Erschwil 926
+Barschwil 918
+Wahlen 1383
+
+Wohlen 13875
+
+Villmergen 5489
+Zwischbergen 127
+Glarnischstrasse 477
+Hochstrass 7
+Kreuzstrasse 7
+Feldstrasse 17
+Lleitstrasse 75
+Leisibuel 75
+Bezibuel 10
+Wolfisbuel 10
+Chisbuel 7
+Maienbuel 7
+Lindenbuel 9
+Lindenberg 3
+Untere Allmend 3
+Allmend 10
+Allmen 13
+Fallmen 57
+Katzenruti 57
+Katzenholz 3
+Baholz 3
+Obholz 14
+Rotholz 14
+Rothaus 82
+Datwil 82
+
+Oetwil 4925
+Neuegg 126
+Neuen 5
+
+Neuenhof 7957
+
+Wettingen 18191
+
+Mellingen 4224
+Hagglingen 2183
+Magglingen 574
+Ober-Laupen 86
+Laupen 2774
+Bosingen 3118
+
+Dudingen 7155
+Barbereche 611
+Kriechenwil 408
+Oberhausen-Boschenwiesen 170
+
+Schubelbach 7745
+Dunkelbach 3
+Schwandelbach 4
+Eggschwandi 4
+Feuerschwand 4
+Schwandi 28
+Kreuzplatz 28
+Witzberg 28
+Sitzberg 28
+Wiberg 3
+Muliberg 101
+Eichmuli 27
+Neugut 27
+Vorder-Egg 27
+Mittler-Egg 14
+Mittlerhueb 19
+Unterhueb 30
+Hinterhueb 16
+Unterhus 17
+Unter-Feld 17
+Ober-Feld 32
+Ober-Orn 23
+Nieder-Orn 8
+Vorder-Stieg 8
+Vorder Pfannenstiel 8
+Hinterer Pfannenstiel 13
+Hinterer Puntacher 41
+Hinter-Luwis 14
+Hinter-Triemen 14
+Hinter-Strahlegg 14
+Vorder-Strahlegg 19
+Vorder-Bernegg 19
+Ober-Bernegg 11
+Ruppen 11
+Wuppenau 957
+Beinwil 957
+Inwil 2163
+
+Hinwil 5488
+Hussenbuel 137
+Trient 137
+
+Triengen 4193
+Buron 1951
+Geuensee 2168
+
+Neuenkirch 5963
+Oberkirch 3228
+Kirchweg 109
+Birchwil 1066
+Nurensdorf 2310
+
+Bassersdorf 7010
+Rodersdorf 1338
+Blauen 676
+
+Laufen 5210
+Laufenburg 2000
+Schlaufenberg 47
+Hittenberg 48
+Lerzen 48
+Gerzensee 961
+Savognin 961
+Begnins 1323
+
+Gland 10641
+Saland 526
+Malans 2051
+Maienfeld 2435
+
+Bad Ragaz 5063
+
+Bad Zurzach 4213
+Selzach 2900
+
+Glarus 5681
+Ennenda 2699
+
+Basse-Nendaz 5410
+
+Sitten 28045
+Ottenbach 2039
+
+Wittenbach 8542
+
+Sankt Gallen 70572
+Sankt Peterzell 1207
+
+Appenzell 5649
+Zell 1943
+Gettnau 965
+
+Brittnau 3735
+
+Reiden 3926
+
+Heiden 3999
+Heidenried 7
+Mittelried 7
+Himmelried 1002
+Zullwil 587
+Ballwil 2284
+
+Hochdorf 8192
+Neudorf 1068
+Reichenburg 2876
+Eich 1627
+Eichhof 7
+Eichholz 22
+Buchholz 5
+Buchhof 11
+Buchholterberg 1498
+Gempen 722
+Tempel 12
+Aemperg 12
+Ober-Frobuel 12
+Under-Frobuel 11
+Hinter-Fuchsruti 11
+Fuchsruti 23
+Haruti 23
+Uf Dorf 23
+
+Seuzach Dorf 3969
+Schinznach Dorf 1736
+Schinznach Bad 1327
+Villnachern 1473
+Kallnach 1545
+Radelfingen 1218
+Wikon 1218
+Isikon 186
+Russikon 2415
+Bossikon 73
+Bisikon 385
+Illnau 2964
+Tumiger 27
+Ligerz 525
+Heiligenschwendi 674
+Wolfenschiessen 2080
+Diesse 425
+Nods 684
+Chafer 26
+Hinter-Grut 26
+Hinter-Langmoos 18
+Hinter-Klausen 18
+Vorder-Klausen 48
+
+Lausen 4892
+
+Liestal 12832
+Muhlestalden 38
+Stalden 1232
+Emmetten 1232
+Beckenried 3050
+
+Buochs 5524
+Hochstock 1
+Buchstock 9
+Stock 16
+Stocken 30
+Oberstocken 277
+Amsoldingen 775
+Cartigny 775
+Burtigny 264
+Celigny 682
+Satigny 3055
+Autigny 640
+Cottens 358
+Bottens 1030
+Sottens 209
+Rossau 209
+Rossa 140
+Unter-Ohringen 140
+Unterbach 430
+Pailly 430
+
+Prilly 10524
+
+Renens 17811
+
+Crissier 6612
+Crassier 769
+Corsier 1699
+Orsieres 2725
+Schonholzerswilen 728
+Raperswilen 434
+Dongio 434
+Longirod 366
+Estavannens-Dessus 366
+
+Estavayer-le-Lac 5061
+
+Payerne 7655
+Morens 145
+Gletterens 696
+Thierrens 599
+Dompierre 687
+Villaz-Saint-Pierre 1093
+Ecuvillens 772
+Sedeilles 154
+Lechelles 573
+Bellerive 599
+Scheller 9
+Chellersacher 10
+Husacher 4
+Thuracher 4
+Schuracher 9
+Bolteracher 26
+Tonacher 18
+Banacher 6
+Haltenacher 6
+Schintenacher 83
+Winterberg 694
+Zimmerberg 39
+Homberg 58
+Limberg 73
+
+Heimberg 5501
+
+Steffisburg 15191
+Burgistein 1058
+Blumenstein 1154
+Heimenstein 12
+Ober-Mettmenstetten 12
+Unter-Mettmenstetten 5
+Wegenstetten 1080
+Bonstetten 2260
+Schachen 1278
+Unterschachen 760
+Wyssachen 1251
+Lyssach 1375
+Kernenried 449
+Fraubrunnen 1616
+Neubrunnen 22
+Gansbrunnen 81
+Brunegg 31
+Runenberg 762
+
+Hunenberg 9032
+Oberruti 1268
+Dietwil 950
+Kleindietwil 512
+
+Huttwil 4643
+Huttwilen 1381
+Huttlingen 847
+Deitingen 2135
+Matzingen 2399
+Hatzingen 403
+Blitzingen 85
+Esslingen 1203
+Esslinger 47
+Humbel 47
+Laubberg 47
+Laubi 9
+Laubisruti 9
+Bachelsruti 40
+Bachelacher 8
+Stifelacher 7
+Neuacher 7
+Bollacher 7
+Muhlacher 2
+Muhlau 967
+Wynau 1610
+Auw 1610
+Wynigen 2090
+Bonigen 2233
+Leissigen 872
+Feissi 19
+Bachi 19
+Am Bach 14
+Aschbach 14
+Fischbach 10
+Fischingen 2548
+Wilchingen 2193
+Volken 250
+Montbovon 250
+
+Romont 4483
+Aumont 418
+Combremont-le-Petit 375
+Chavannes-le-Chene 228
+Murist 495
+
+Muri 12374
+Kehrsatz 3636
+
+Belp 9307
+Zimmerwald 806
+Oberwald 277
+Niederwald 62
+Riemenstalden 62
+Schmalzgrueb 62
+Erschmatt 313
+Eichmatt 9
+Haldenmattli 9
+Aahalden 9
+Wihalden 40
+Leisihalden 294
+Villars-le-Grand 294
+Breno 294
+Brenles 162
+
+Wurenlos 5497
+Killwangen 1783
+
+Wangen 4686
+Langenbruck 1049
+
+Aarwangen 4171
+Wangen an der Aare 1944
+Langendorf 3518
+Matzendorf 1282
+Laupersdorf 1670
+Aedermannsdorf 548
+Cremines 548
+Visperterminen 1440
+
+Visp 6576
+Ernen 374
+Sternen 13
+
+Uster 23279
+Binzhalden 44
+Wagenburg 44
+Ober-Wagenburg 34
+Unter-Wagenburg 15
+Roren 15
+Obere Looren 15
+Untere Looren 8
+Untere Luegeten 8
+Hintere Egg 8
+Hinterwis 8
+Hinteregg 1107
+Schlossacher 70
+Grossacher 9
+Tammel 9
+Kammern 6
+Mammern 623
+Stein am Rhein 3224
+Ellikon am Rhein 78
+Ellikon 477
+Willikon 127
+Uelikon 497
+Trimstein 497
+Gstein 29
+Gsteig 946
+Steig 20
+Rechberg 20
+Seeberg 1321
+Ramsberg 20
+Bahnhof 20
+Wilenhof 7
+Wilen 52
+Sonnenblick 52
+Schonenberg 468
+Ohrenberg 6
+Barenberg 43
+Hintere Buchenegg 43
+Vordere Buchenegg 12
+Vordere Au 12
+Vorder-Pilgersteg 12
+Pilgersteg 5
+Pilgerhof 552
+Seewis 221
+Seeweid 9
+Neuweid 9
+Lurweid 9
+Schurweid 9
+Schurwies 6
+
+Chur 32429
+Churwalden 1214
+Lenzerheide 2610
+Surava 198
+Rossura 55
+Grossholz 42
+Barenbohl 42
+
+Ingenbohl 7967
+Ettenbohl 21
+Zollingerhuser 21
+Huser 6
+Husertal 50
+Harenberg-Guggeere-im Berg 50
+Forrenberg 29
+Rosenberg 23
+Ehrenhau 23
+Fahrenhof 6
+Sonnenhof 6
+Tannenhof 7
+Tannen 11
+Mannenrain 11
+Sonnenrain 36
+Unterer Brand 36
+Oberer Brand 13
+Obere Laubegg 13
+Untere Laubegg 9
+Am Rain 9
+Maienrain 9
+Widenrain 14
+Aarain 14
+Rainbuck 14
+Buck 15
+Isebuck 9
+Entlebuch 3293
+Buch 290
+
+Buchs 10418
+
+Grabs 6384
+Seegrabe 5
+Seegraben 203
+Lieli 203
+Thalheim 805
+Mullheim 2493
+Pfyn 1839
+Welschenrohr 1179
+Fischenruti 4
+Fischenthal 215
+Richenthal 769
+Lutschental 264
+Leutschenbach 5
+Im Fischer 5
+Spilhalden 5
+Buelhalden 29
+Buelhof 42
+Eichbuel 23
+Chilchbuel 6
+Chilchli 4
+Chilchriet 4
+Widenriet 4
+Widen 31
+Widenswil 29
+
+Wadenswil 13269
+Bosco Gurin 77
+Osco 109
+Batpur 109
+Rutihof 109
+Schlattihof 5
+Schlatter 20
+Hard 20
+Hardhof 6
+Werdhof 12
+Feldhof 12
+Felderen 12
+Felderhof 4
+Bruederhof 5
+Bruederhus 7
+Bruederberg 7
+Bunzenhalden 7
+Warzhalden 7
+Leihalden 16
+Leihalde 11
+Haslihalde 180
+Hasli 22
+Hasliberg 339
+Hinternord 440
+Stilli 440
+Illingen 46
+Linggenberg 46
+Ringgenberg 2514
 
 Interlaken 5067
-Erlach 1108
-Rue 1108
-Ruedi 35
-Aadorferfeld 35
-Ausserferrera 35
-Torre 279
+Hinterlanzenmoos 9
+Hinterhornli 9
+Althornli 2
+Horn 2274
+
+Romanshorn 8956
+Salmsach 1293
+
+Egnach 4179
+
+Uznach 5561
+Gommiswald 2781
+Wald 3061
+Homel 305
+Binzholz 310
+Binz 1601
+Binzberg 14
+Ober-Sulzberg 17
+Unter-Sulzberg 19
+Unter-Rennweg 14
+Rennweg 16
+Sennweid 4
+
+Sennwald 4768
+Gams 2971
+
+Sevelen 4392
+Chelen 13
+Oberi Chelen 8
+Oberi Chaseren 6
+Vorderi Chaseren 4
+Chasern 7
+Hasel 123
+Neubrunn 123
+Oberbrunn 3
+Rinderbrunnen 249
+Lauterbrunnen 2646
+Brunnenwis 7
+Stubenwis 7
+Truben 7
+Trubenbach 25
+Fehrenbach 194
+Diesbach 194
+Chriesbach 3
+Chriesbaumweid 460
+Buchweid 98
+Munchweid 2
+Holzweid 2
+Schwarzweid 9
+Schwarz 33
+Ober-Schwanden 33
+Hof 33
+Inner-Vollikon 33
+Usser-Vollikon 51
+Uerzlikon 262
+Adlikon 970
+Hadlikon 1321
+Madlikon 7
+Redlikon 59
+Eichhochi 59
+Hochi 19
+Vorderi Hochi 51
+Vorderer Puntacher 51
+Vorderegg 101
+Oberegg 1827
+
+Oberriet 7675
+Eggersriet 2209
+Eggerberg 374
+Zeneggen 259
+Heggen 13
+
+Meggen 6533
+
+Adligenswil 5576
+Udligenswil 2252
+
+Root 3886
+
+Buchrain 5341
+Kirchrain 191
+Birch 6
+Obere Birch 7
+Obere Buhlen 68
+Oberems 135
+Forbuel 135
+Farbuel 7
+Oberbuel 16
+Oberburg 2901
+
+Burgdorf 14788
+Heimiswil 1570
+
+Sumiswald 5159
+
+Lutzelfluh 4035
+Utzenstorf 3625
+Alchenstorf 527
+
+Jegenstorf 4027
+
+Urtenen 5258
+Bariswil 1036
+Landiswil 651
+Eriswil 1414
+Ruderswil 2329
+Lauperswil 2700
+Walterswil 639
+Durrenroth 1037
+Durrenbach 9
+Wuhrenbach 54
+
+Schwerzenbach 4180
+Grossmatt 54
+Rossmattli 2
+Rossi 2
+Rossiniere 527
+Koppigen 1977
+Ersigen 1507
+Leuzigen 1167
+Arch 1574
+Henggart 1574
+Brenggau 8
+Rengerswil 8
+Alterswil 1850
+Sankt Antoni 1849
+Sankt Antonien 219
+Saas im Prattigau 724
+Sils im Domleschg 834
+Thusis 2572
+
+Feusisberg 4210
+Bach 1479
+
+Freienbach 14302
+Freienstein 1617
+Haldenstein 943
+Flaach 943
+Nufenen 156
+Sufers 156
+Tafers 2833
+Giffers 1566
+Bonnefontaine 487
+Grandfontaine 343
+Granges 617
+Affeltrangen 2135
+Lommis 990
+Wimmis 2237
+Trimmis 2831
+Wilderswil 2303
+Untervaz 2303
+Unteriberg 2307
+Oberiberg 786
+Kuchliberg 2
+Station Uetliberg 2
+Station Glattfelden 3
+Glattfelden 2578
+Hochfelden 1442
+Buckler-Dornler 591
+Wachseldorn 261
+Alt-Bachs 261
+Neu-Bachs 141
+Neu-Brunggen 8
+Brunggen 29
+Flos 29
+Hanfgarten 23
+Ismatt 23
+Moosmatt 7
+Moos 65
+Moosegg 6
+Musegg 7
+Heiletsegg 7
+
+Meilen 4419
+Obermeilen 2871
+
+Feldmeilen 3732
+Wetzwil 132
+Bretzwil 746
+Lotzwil 2391
+Madiswil 1991
+Gondiswil 760
+Attiswil 1389
+Riedholz 1576
+Luterbach 3292
+Feisterbach 8
+Sihlboden 8
+Kohlboden 2
+Boden 135
+Im Boden 3
+Im Badweg 3
+Im Buel 212
+Eggbuel 4
+Hinter Stadtberg 4
+Hinterbleichi 4
+Hinterberg 7
+Hinterburg 29
+Hinter-Albis 23
+Mittel-Albis 26
+Fulau 26
+Langmatt 26
+Obermatt 18
+
+Zermatt 6629
+Untermatt 11
+Andermatt 1258
+Wassen 464
+Wasseri 10
+Rotwasser 6
+Unterwasser 685
+Winikon 685
+Kleinikon 29
+Lutikon 29
+Uetikon 3431
+Talweg 178
+Pappelweg 10
+Kappel 211
+Habersaat 51
+Habermark 7
+Aberen 9
+Waberg 29
+Villa RA 29
+Villarvolard 262
+Verdabbio 157
+Canobbio 1869
+Comano 1729
+Praroman 1223
+Raron 1901
+Eischoll 513
+Schollenberg 11
+Ober-Allenberg 6
+Ochlenberg 641
+Montagny 1467
+Montagnola 2297
+Agno 3639
+
+Massagno 5774
+
+Lugano 63000
+
+Viganello 6375
+Gurtnellen 666
+Dallenwil 1738
+
+Stans 7475
+
+Stansstad 4471
+Astano 279
+Pfaffenwis 279
+Pfaffenberg 9
+Ghangetwies 9
+Hotwiel 9
+Altwiesenstrasse 20
+Huttenwiesenstrasse 24
+Strasshus 24
+Bocken 24
+Mockenwis 166
+Chliholzli 166
+Rebholzli 5
+Engel 5
+
+Engelberg 4001
+Spiegelberg 5
+Ziegelhof 5
+Ziegelhus 2
+Ziegelhutte 11
+Ziegelhutten 32
+Industrie 32
+Industriestrasse 43
+Surbwiesen 43
+Wiesental 42
+Giesental 11
+Weissental 11
+Wisental 168
+Bangerten 168
+Hangerten 172
+Unter-Buch 172
+Ober-Buch 258
+Ober-Ottikon 204
+Unter-Ottikon 251
+Mergoscia 204
+Chapelle-sur-Moudon 204
+
+Moudon 4343
+Siviriez 922
+Porsel 386
+Villarsel-le-Gibloux 207
+Trey 207
+Treyvaux 1349
+Arconciel 670
+Concise 721
+Saint-Gingolph 721
+Saint-Aubin-Sauges 2476
+Gorgier 1832
+Morgins 1000
 
 Troistorrents 3873
 Ueberstorf 2133
@@ -407,721 +1777,33 @@ Niedergosgen 3847
 Niederlenz 4022
 
 Lenzburg 7392
-Burg 26
-Lieburg 18
-Platten 18
-Rotblatt 18
-Hinderschlatt 18
-Uerschen 18
-Beierschen 6
-Schmarschur 6
-Erschmatt 313
-Turtmann 1025
-Furtmuhle 8
-Burenbuhl 8
-Buhl 17
-Buhlhof 13
-Neuhof 13
-Neuwis 13
-Neuwisen 17
-Neuwies 76
-Wiesli 45
-Wies 2
-Ober Rain 2
-Ober Ruti 9
-Eggruti 9
-Grut 1565
-Morgen 492
-Sommeri 492
-Summerau 197
-Emmetschloo 144
-Ober-Emmetschloo 4
-Schlossbreiti 4
-Schlossberg 3
-Hohruti 3
-Oberrohr 3
-Frohwies 3
-Ruchwies 4
-Egli 4
-Burgli 4
-
-Burglen 3996
-
-Schattdorf 4860
-
-Altdorf 8678
-Dorf 1226
-
-Mannedorf 7951
-Grosswis 68
-Grossweid 314
-Stigweid 40
-Wellenberg 40
-Allenberg 30
-Ober-Allenberg 6
-Ober-Albis 61
-Unter-Albis 63
-Hinter-Albis 23
-Hinterburg 29
-Oberburg 2901
-
-Burgdorf 14788
-Heimiswil 1570
-Bariswil 1036
-Landiswil 651
-Eriswil 1414
-Hermiswil 3156
-Riggisberg 2001
-Rueggisberg 1933
-Guggisberg 1628
-Plaffeien 1938
-Plasselb 973
-Spiringen 973
-
-Meiringen 4652
-Ringgenberg 2514
-Linggenberg 46
-Illingen 46
-Buel 46
-Buelen 10
-Wolfisbuel 10
-Chisbuel 7
-Maienbuel 7
-Maienrain 9
-Am Rain 9
-Fuchsbuhl 9
-Kreuzbuhl 9
-Unter-Wolfbuhl 9
-Mittler-Wolfbuhl 10
-Beizi 10
-Beinwil 957
-
-Reinach 7845
-Steinacker 9
-Stein 2504
-Holstein 2249
-Diegten 1633
-Diesse 425
-Giessen 8
-Sagissen 8
-Neuhaus bei Wandhuslen 8
-Wandhuslen 35
-Huslen 5
-Husli 41
-Huslihof 54
-Lirenhof 54
-Hermikon 54
-
-Zumikon 4424
-Rumikon 675
-Elsau-Raterschen 1395
-Irchelstrasse 22
-Bachtobelstrasse 195
-Sonnhalde 1984
-Halde 122
-Halden 61
-Haselhalden 74
-Kashalden 8
-Ornberg 8
-Isenberg 2
-Zeisenberg 14
-Steinberg 14
-Steinbuel 5
-Ober Hueb 5
-Ebersberg 5
-Girsberg 18
-Girstelweid 4
-Gerster 4
-Esterli 4
-Erli 6
+Staufen 2424
+Teufenthal 1665
+Unterkulm 3099
+Durrenasch 1187
+Murren 451
+Hamikon 451
 Berlikon 43
-Wagenstoss 43
-Sagen 100
-Samstagern 3163
-Hugsam 376
-Brutter 78
-Mutten 78
-Hutten 451
-Brutten 1556
-Betten 450
-Hofstetten 1115
-Stetten 1065
-Lohn 649
-Lohningen 1124
-Beringen 3216
-Beggingen 510
-Schleitheim 1723
-Theilingen 236
-Dorflingen 890
-Flurlingen 1221
-Oerlingen 380
-Guntalingen 297
-Waltalingen 278
-Ossingen 959
-Truttikon 363
-Trullikon 572
-Rallikon 25
-Altikon 447
-Attikon 89
-Gattikon 2142
-
-Langnau am Albis 7000
-Im usseren Amet 7
-Geisser 7
-Geissberg 5
-Nussbergstrasse 5
-Bergstrasse 59
-Redlikon 59
-Adlikon 970
-Madlikon 7
-Hadlikon 1321
-
-Hinwil 5488
-Ringwil 200
-Langwies 278
-Langwiesen 759
-Uhwiesen 1140
-Wiesental 42
-Giesental 11
-Weissental 11
-Wisental 168
-Eichwis 168
-Bangerten 168
-Hangerten 172
-Unter-Buch 172
-Ober-Buch 258
-Wallenbuch 120
+Erli 6
+Gerlisberg 120
 Surcuolm 120
-Ferch 168
-Kirchweg 109
+Scuol 2184
+Sent 848
+Ardez 441
+Busenharder 5
+Buseno 90
+Gundetswil 90
+Madetswil 164
 
-Kirchberg 8127
-Oberkirch 3228
+Adliswil 15230
+Niederwil 131
 
-Neuenkirch 5963
-Schenkon 2616
-Lenk 2268
-Lens 3497
-Chermignon-d'en Haut 2773
-Montana 2301
-Randogne 3157
-Brand 58
-Homberg 58
-Homburg 1406
-Hundwil 975
-Andwil 1737
-
-Uzwil 12111
-
-Oberuzwil 5616
-
-Wil 16808
-Wili 10
-Wiliberg 155
-Heferen 155
-
-Oberentfelden 7553
-Felderen 12
-Feld 51
-Feldi 38
-Krahstel 38
-Marchstein 11
-Steinland 11
-Ankenland 4
-Hanflander 4
-Schwandelbach 4
-Eggschwandi 4
-Feuerschwand 4
-Schwandi 28
-Kreuzplatz 28
-Blatzwisen 3
-Blatten 317
-Ferden 345
-Flerden 173
-Haller 222
-Rueyres 222
-Cheyres 910
-Peyres-Possens 140
-Assens 888
-Wassen 464
-Wasseri 10
-Aussere Rietwies 10
-Rietli 10
-Riet 206
-Inner-Langenriet 120
-Usser-Langenriet 49
-Mettmenriet 49
-Wolfenriet 13
-Wolfenhof 13
-Ofen 13
-Oberhofen 119
-Bettswil 119
-Herbetswil 581
-Attiswil 1389
-Wangen an der Aare 1944
-
-Aarwangen 4171
-
-Wangen 4686
-Langenbruck 1049
-Buckten 660
-Oberbuchsiten 1807
-Niederbuchsiten 947
-
-Niederbipp 3862
-Oberbipp 1440
-Visperterminen 1440
-Cremines 548
-Indemini 40
-Inden 103
-Gundisau 103
-Gunten 25
-Cunter 194
-Diesbach 194
-Chriesbach 3
-Chriesbaumweid 460
-Buchweid 98
-Weid 46
-Weidli 15
-Roren 15
-Obere Looren 15
-Untere Looren 8
-Untere Luegeten 8
-Hintere Egg 8
-Hintere Buchenegg 43
-Fernegg 160
-Ober-Bernegg 11
-Vorder-Bernegg 19
-Vorder-Strahlegg 19
-Hinter-Strahlegg 14
-Hinter-Triemen 14
-Hinter-Luwis 14
-Winterhalden 14
-Finsterseehalden 14
-Seehalden 11
-Seehalde 4
-Hinter Stadtberg 4
-Hinter Sennenberg 13
-Hinterer Pfannenstiel 13
-Vorder Pfannenstiel 8
-Vorder-Stieg 8
-Vorder-Luwis 8
-Vorder-Langmoos 28
-Hinter-Langmoos 18
-Langmatt 26
-Obermatt 18
-
-Zermatt 6629
-Saas-Fee 1611
-Eisten 259
-Eischoll 513
-Raron 1901
-Grone 2039
-Grono 896
-Bironico 535
-Contone 788
-
-Conthey 6634
-Ardon 2305
-Chamoson 2628
-
-Cham 13495
-
-Steinhausen 8509
-Kleinhaus 8
-Finhaut 344
-Autigny 640
-Satigny 3055
-Dardagny 1329
-Celigny 682
-Burtigny 264
-Pampigny 843
-Grancy 308
-Chancy 942
-
-Les Avanchets 5730
-Hermance 956
-Rances 434
-Scharans 867
-Trans 51
-Vorderi Hochi 51
-Vorderer Puntacher 51
-Hinterer Puntacher 41
-Guntisberg 41
-Rutisberg 22
-Meisberg 22
-Nussberg 82
-Datwil 82
-
-Wattwil 8089
-Ruthi 1945
-Neuthal 67
-Neuegg 126
-Neuen 5
-
-Neuenhof 7957
-
-Wettingen 18191
-Endingen 1935
-Tegerfelden 1040
-Usserfeld 4
-Ausserfeld 5
-Chriegmatten 5
-Matte 66
-Matt 344
-Wildberg 344
-Waldberg 11
-Waldegg 11
-Wald 3061
-Homel 305
-Romerhof 8
-Romerswil 1882
-Kesswil 928
-
-Amriswil 11351
-Muolen 1118
-Erlen 3057
-Erlenhof 7
-Vorder-Ruteli 7
-Ruteli 11
-Ruteren 11
-Obere Rutzen 11
-Schutzenhof 11
-Schutzenmatt 7
-Chutzenmoos 7
-Cholgrueb 7
-Lueholz 7
-Rappenholz 7
-
-Rapperswil 34776
-Raperswilen 434
-Wilderswil 2303
-Untervaz 2303
-Zizers 3009
-Schiers 2423
-Fanas 382
-Fangen 135
-Forbuel 135
-Oberbuel 16
-Buen 16
-Wesenmatt 16
-Leematt 16
-Lee 76
-Leebern 13
-Seeberg 1321
-Seewis 221
-Chabrey 221
-Breitenmatt 650
-Breitenloo 20
-Unteri Siten 20
-Untere Tuntelen 20
-Untere Hanegg 20
-Buechholz 20
-Holzhusen 20
-Binzholz 310
-Binz 1601
-Binzberg 14
-Sitzberg 28
-Witzberg 28
-Wiberg 3
-Eggli 3
-Egglen 12
-Dachsegg 12
-Dachsen 1470
-Nohl 124
-Hohle 84
-Hirsmuhle 61
-Furen 61
-Schuren 27
-Schuracher Waltenstein 27
-Hintere Rietwies 27
-Untere Hofe 27
-Unter Haltberg 27
-Ober Haltberg 11
-Oberhaltberg 20
-Rechberg 20
-Buchberg 781
-Eichberg 1260
-
-Speicher 3985
-Trogen 1618
-Bogen 9
-Vogeli 9
-Nageli 6
-Nagelihus 8
-Lirenagel 15
-Tagerst 15
-Tagerstrank 11
-Rank 30
-Bank 111
-Robank 65
-Bannholz 4
-Nuholz 4
-Holzacker 4
-Bodenacker 4
-Bodenacher 4
-Huebacher 4
-Grueben 4
-Sandgrueb 6
-Ruebgarten 6
-Garten 15
-Wigarten 12
-Tannagerten 12
-Untere Tanne 12
-Obere Hinterruti 12
-Obere Hengerten 12
-Obere Hofe 39
-Zimmerberg 39
-Winterberg 694
-
-Winterthur 91908
-Unterherten 29
-Unterhaus 23
-Erholungshaus 42
-Rueggshausen 21
-Schuppis 21
-Rumpis 21
-Aumuli 21
-Mulflen 21
-Bellen 21
-Hellen 8
-Hell 8
-Bachelacher 8
-
-Lachen 6685
-
-Altendorf 5280
-
-Uetendorf 5654
-Kirchdorf 775
-
-Hochdorf 8192
-Neudorf 1068
-
-Urdorf 9205
-Station Urdorf 34
-First 34
-Hirschlen 6
-Alter Hirschen 8
-Cherschiben 8
-Schibler 835
-
-Dielsdorf 4671
-
-Regensdorf 7531
-Usserdorf 270
-Oberdorf 2248
-Unterdorf 439
-Neu-Rheinau 562
-Kleinandelfingen 1094
-Andelfingen 1328
-Court 1328
-Courtetelle 2248
-Bassecourt 3305
-Miecourt 454
-Vendlincourt 578
-Boncourt 1304
-Courtedoux 745
-Ocourt 125
-Courgenay 2106
-Courroux 3085
-Courrendlin 2314
-Courfaivre 1508
-Bourg-Saint-Pierre 207
-Saint-Ursanne 683
-Saint-Luc 347
-Luchsingen 1530
-
-Buchs 10418
-
-Grabs 6384
-Obstalden 465
-Netstal 2900
-Selzach 2900
-Filzbach 541
-Sulzbach 163
-Heusberg 40
-
-Feusisberg 4210
-Bach 1479
-
-Freienbach 14302
-Freienstein 1617
-Haldenstein 943
-Flaach 943
-
-Bulach 13172
-Bachenbulach 2985
-Heimgarten 69
-Scheid 139
-
-Heiden 3999
-Oberegg 1827
-Vorderegg 101
-Vorder-Egg 27
-Hinter-Egg 6
-Hinter-Auli 6
-Vorder-Auli 5
-Vorder-Goldacher 5
-Hinter-Goldacher 2
-Paradis 2
-Sparrenberg 2
-Worrenberg 6
-Forrenberg 29
-Rosenberg 23
-Ehrenhau 23
-Fehrenbach 194
-Trubenbach 25
-Truben 7
-Stubenwis 7
-Brunnenwis 7
-Brunnenacher 8
-Neubrunnen 22
-Gansbrunnen 81
-Brunegg 31
-Obertal 31
-Ober-Bertschikon 31
-Bertschikon 534
-Ponthaux 534
-Linthal 1080
-Wegenstetten 1080
-Montfaucon 421
-Mon 79
-Mosli 10
-Moosacher 10
-Rebacher 10
-Surebaum 10
-Bauma 1029
-Baumler 7
-Schomlet 7
-Kemleten 9
-Saleten 6
-Talegg 6
-Tal 20
-Stalden 1232
-Emmetten 1232
-
-Emmen 26889
-Hemmental 555
-Tanay 1124
-Rinderbrunnen 249
-Oberbrunn 3
-Lauterbrunnen 2646
-Gsteig 946
-Steig 20
-Steighof 3
-Obere Steigen 3
-Obere Langfurri 3
-Langfurri 2
-Langfuhr 24
-Unterauruti 24
-Heuruti 14
-Oberauruti 14
-
-Ruti 9576
-Chalbisau 20
-Albishorn 4
-Horn 2274
-
-Romanshorn 8956
-Salmsach 1293
-Semsales 986
-Les Thioleyres 190
-Montpreveyres 500
-
-Vevey 15812
-Albeuve 589
-Coeuve 665
-Cornol 894
-Cornaux 1557
-Muhlehorn 435
-Muhlehalde 1220
-
-Thalwil 13296
-
-Thal 6433
-Rheineck 3298
-Hagneck 400
-Wileroltigen 400
-Morigen 824
-Morissen 243
-Uessikon 55
-Welsikon 357
-Isikon 186
-Wallikon 57
-Rumlikon 403
-Russikon 2415
-Bossikon 73
-Lendikon 73
-Landikon 169
-Kempttal 169
-Husertal 50
-Poschen 50
-Boschen 9
-Bosch 12
-Oberbosch 13
-Obermoos 13
-Folenmoos 13
-Steindrusen 13
-Gmeindruti 10
-Hochruti 10
-Lochruti 21
-Lochfeld 21
-Hochfelden 1442
-Glattfelden 2578
-Niederglatt 3632
-Oberglatt 3564
-Bergli 5
-Im Fischer 5
-Im Stieg 5
-Stiefelacher 5
-Stifelacher 7
-Bollacher 7
-Neuacher 7
-Tannacher 7
-Sagenacher 7
-Sagel 7
-Sage 32
-Industrie 32
-Industriestrasse 43
-Altwiesenstrasse 20
-Huttenwiesenstrasse 24
-Strasshus 24
-Hochstrass 7
-Hochstock 1
-Buchstock 9
-Brandlen 9
-Gwandlen 1
-Bondler 47
-Schindlet 36
-Chindismuli 47
-Mulibachli 11
-Rietmuli 11
-Riethof 11
-Laufenriet 11
-Teufenbach 11
-Reitenbach 11
-Breitenbach 3241
-Brislach 1493
-
-Brig 5000
-
-Walenstadt 5000
-Leibstadt 1287
-Schwaderloch 726
-Loch 32
-Lochen 17
-Buchen 13
-Buch 290
-Gottlieben 290
-Mottli 8
-Mettli 20
-Herschmettlen 202
-Maas 202
-Saas-Balen 394
-Montcherand 394
-Pleigne 394
-Montignez 229
+Oberrieden 4413
+Mittler-Weberruti 7
+Mittler-Ruti 5
+Mittler-Sadel 29
+Mittler-Schwanden 143
+Wiesacher Ort 143
 Wisacher Weid 229
 Les Pommerats 229
 Sommerau 10
@@ -1129,1869 +1811,714 @@ Unter-Himmeri 10
 Ober-Himmeri 20
 Ober-Hori 523
 Hori 1041
-Buckler-Dornler 591
-Hockler 26
-Strickler 18
-Strick 63
-Strickel 9
-Bar 9
-Bargen 236
-Saint-Brais 236
-Rain 18
-Schwosterrain 18
-Hadlikerrain 18
-Bollerrain 14
-Aarain 14
-Rainbuck 14
-Buck 15
+Nieder-Hori 55
+Niederesslingen 25
+Burgweid 25
+Burgweidli 3
+Weidli 15
 Latzenachere 15
 Hagenacher 7
-Gartenacker 7
-Grabenacker 4
-Seegraben 203
-Seegrabe 5
-Langgraben 14
-Hinderwald 14
-Oberwald 277
-Zimmerwald 806
-
-Belp 9307
-Tobel 9
-Obergfell 9
-Gfell 47
-Humbel 47
-Lumbrein 428
-Breil 1344
-Surrein 250
-Murren 451
-Durrenbach 9
-Durrenasch 1187
-Veytaux 747
-Leytron 2194
-Leysin 3066
-
-Monthey 15106
-
-Bex 5956
-Mex 538
-Vex 1418
-Vernamiege 150
-Nax 406
-Saxon 3477
-Saillon 1598
-Saignelegier 2194
-
-Bagnes 6626
-Sembrancher 787
-Heremence 1331
-Saint-Martin 751
-Saint-Maurice 3701
-Maur 307
-Marsens 1571
-Sorens 837
-Sorengo 1629
-
-Massagno 5774
-Agno 3639
-Montagnola 2297
-Arogno 968
-Melano 1133
-Melide 1577
-Meride 333
-Fideris 579
-Wengi 579
-Dongio 434
-Engi 662
-Sengi 6
-
-Wangi 4051
-Matzingen 2399
-Stettfurt 1048
-Stettlen 2884
-
-Bolligen 6086
-
-Zollikofen 9121
-
-Munchenbuchsee 9801
-
-Herzogenbuchsee 5522
-Ochlenberg 641
-Kleindietwil 512
-
-Huttwil 4643
-Ufhusen 882
-
-Wolhusen 4050
-Werthenstein 1909
-Holenstein 7
-Waltenstein 118
-Kaltenstein 54
-Baltenswil 247
-Bruttisellen 3697
-
-Wallisellen 11705
-Fahy 426
-Fallanden 2100
-Aaruti 59
-Haruti 23
-Fuchsruti 23
-Hinter-Fuchsruti 11
-Hinter-Grut 26
-Ober-Gisenruti 18
-Unter-Gisenruti 32
-Unter-Erlosen 42
-Ober-Erlosen 52
-Sonnenblick 52
-Schonenberg 468
-Ohrenberg 6
-Mohren 8
-Rohr 2849
-
-Suhr 9374
-Muhen 3419
-
-Granichen 6557
-Grachen 1362
-Rachenbuhl 35
-Mesikon 35
-Etzikon 16
-Sturzikon 16
-Itzikon 258
-Willikon 127
-Ellikon 477
-Uelikon 497
-Uerikon 1794
-Mockenwis 166
-Chliholzli 166
-Rutihof 109
-Batpur 109
-Bauen 206
-Nauen 45
-Wellenau 80
-Vollenweid 45
-Stollen 45
-Guldenenstrasse 45
-Riemenstalden 62
-Triemen 7
-Striempel 104
-Zweidlen-Dorf 104
-Zweidlen-Station 257
-Letten 208
-Lettenberg 24
-Dettenberg 7
-Tennenberg 7
-Sonnenberg 20
-Sonnenbuhl 28
-Tannenboden 3
-Im Boden 3
-Im Badweg 3
-Am Bach 14
-Aschbach 14
-Fischbach 10
-Fischingen 2548
-Langruti 28
-Grund 28
-Neugrund 9
-Neugrut 6
-Ober-Neugut 6
-Neugut 27
-Neugutli 2
-Gugen 2
-Im Gibel 2
-Gibel 5
-Gibswil 216
-Giswil 3563
-
-Hergiswil 5437
-
-Weggis 3863
-
-Meggen 6533
-Heggen 13
-Schaubigen 13
-Eigenthal 13
-Eigental 13
-Rueggental 19
-Etstel 19
-Ehretstock 11
-Stock 16
-Oberstocken 277
-Amsoldingen 775
-Wigoltingen 2040
-
-Hilterfingen 3841
-
-Konolfingen 4562
-Genolier 1498
-Buchholterberg 1498
-Buchholz 5
-Buchhof 11
-Eichhof 7
-Eichholz 22
-Laufenbach 22
-
-Laufen 5210
-Blauen 676
-Lauerz 913
-Steinerberg 898
-Steinen 3041
-Sattel 1597
-Rothenthurm 2098
-Rothenbrunnen 293
-Rotenbrunnen 5
-Spilhalden 5
-Buelhalden 29
-Buelhof 42
-Eichbuel 23
-Chirchbuel 132
-Saxeten 132
-Obersaxen 757
-Hagenbuch 757
-Hagenbuechen 8
-Buech 4
-Eggbuel 4
-Steigbuhl 8
-Sihlboden 8
-Kohlboden 2
-Boden 135
-Donatyre 135
-
-Naters 7552
-Bitsch 802
-Baltschieder 1158
-Ernen 374
-Eggerberg 374
-Zeneggen 259
-Felsenegg 66
+Sagenacher 7
+Sagel 7
+Sage 32
+Wassberg 32
+Geissberg 5
+Geisser 7
+Im usseren Amet 7
+Im mittleren Amet 11
+Ruteren 11
+Ruteli 11
+Rutenen 6
+Grossenstein 6
+Rossens 49
+Wappenswil 49
+Hueb 49
+Huebwis 151
+Felsenkeller 151
 Felsen 35
 Felsenhof 10
 Mattenhof 10
 Lattenhof 4
-Latten 171
-Betschwanden 171
-Schwanden 2541
-Sool 301
-Loo 191
-Moosegg 6
-Moos 65
-Falmis 65
-Palmisacker 96
-Wolfacker 6
-Wolfsacker 5
-Hinteracker 5
-Eicheracker 14
-Eichelackerstrasse 50
-Haggenbergstrasse 9
-Baareggstrasse 8
-Baaregg 46
-
-Baar 20546
-Habersaat 51
-Habermark 7
-Aberen 9
-Waberg 29
-Brunggen 29
-Neu-Brunggen 8
-Brenggau 8
-Rengerswil 8
-Alterswil 1850
-Sankt Antoni 1849
-Sankt Antonien 219
-Saas im Prattigau 724
-Kublis 836
-Filisur 502
-Surava 198
-Alvaneu 434
-Salvan 1127
-Dorenaz 647
-Vionnaz 1719
-Chardonne 2659
-Le Chatelard 353
-
-Chatel-Saint-Denis 5094
-
-Neuchatel 31270
-Le Peuchapatte 32
-Wassberg 32
-Asp-Mettlen 32
-Lettenmoos 42
-Bachenmoos 27
-Ober-Moos 27
-Unter-Moos 31
-Untermoos 9
-Hinterlanzenmoos 9
-Langenmoos 22
-Vorder Bachenmoos 46
-Vorder Banikon 21
-Vorderwald 21
-Vorder Sennenberg 21
-Jakobsbrunnen 21
-Jakobstal 21
-Im Jakobstal 29
-Im Juch 34
-Juchen 16
-Juckeren 346
-Moleno 117
-Breno 294
-Geeren 97
-Ober-Balm 97
-Unter-Balm 49
-Wappenswil 49
-Oppens 179
-Coppet 2124
-Sankt Gallenkappel 1811
-
-Sankt Gallen 70572
-Sankt Peterzell 1207
-
-Appenzell 5649
-Zell 1943
-Gettnau 965
-
-Brittnau 3735
-
-Reiden 3926
-Dagmersellen 3300
-Ebersecken 401
-Beckenried 3050
-Kernenried 449
-Fraubrunnen 1616
-Neubrunn 123
-Blumenberg 123
-Lindenberg 3
-Linden 1315
-Lindenhof 9
-Lindenbuel 9
-Tammel 9
-Mammern 623
-Oberstammheim 863
-Unterstammheim 697
-Zuzgen 863
-Zunzgen 2632
-Gunzgen 1604
-
-Hagendorf 4338
-
-Bubendorf 4543
-
-Frenkendorf 6180
-Arisdorf 1538
-
-Fullinsdorf 4442
-Sins 3600
-Ins 2826
-Muntschemier 1333
-Bruttelen 625
-Vandoeuvres 2826
-Vouvry 3296
-Gryon 1122
-Champery 1191
-Pery 1342
-Perrefitte 515
-Cudrefin 996
-
-Boudry 4886
-Boudevilliers 754
-Grandcour 754
-Fontainemelon 1647
-
-Cortaillod 4410
-
-Bevaix 3866
-Chevroux 391
-Courgevaux 1057
-Courlevon 276
-Wallenried 458
-Heitenried 1106
-Heidenried 7
-Mittelried 7
-Himmelried 1002
-Ried 5
-Riedt 811
-Niederhasli 2848
-Hasli 22
-Hasle 1725
-Haslen 638
-
-Teufen 5683
-Buhler 1612
-Vernayaz 1612
-Urnasch 2304
-Schangnau 912
-
-Langnau 8784
-Signau 2821
-
-Hegnau 7961
-
-Egnach 4179
-Castasegna 179
-Dalpe 179
-Dagerlen 55
-Bruschagerten 25
-Brusch 2
-Grusch 1243
-Ruschein 359
-Ilanz 2321
-Wila 1387
-Frohe Aussicht 8
-Vordere Au 12
-Vordere Buchenegg 12
-Hinter-Schonau 12
-Schonau 76
-Schontal 5
-Brontallo 60
-Lostallo 691
-Ristall 4
-Aristau 1313
-Ristet 54
-Grossmatt 54
-Ismatt 23
-Moosmatt 7
-Bunzenhalden 7
-Warzhalden 7
-Binzhalden 44
-Wihalden 40
-Leisihalden 294
-Villars-le-Grand 294
-Villarsel-le-Gibloux 207
-Lajoux 668
-Courtelary 1163
-
-Tramelan 4186
-Corgemont 1503
-
-Delemont 11315
-Vissoie 436
-Soyhieres 436
-Orsieres 2725
-
-Sierre 15752
-Chalais 2665
-Gais 2778
-
-Balgach 4019
-Illgau 752
-Muotathal 3548
-Reben 2
-Mulireben 35
-Muli 68
-Muliberg 101
-Eichmuli 27
-Eichmuhle 12
-Eichmatt 9
-Haldenmattli 9
-Aahalden 9
-Lalden 696
-Morens 145
-Gletterens 696
-Thierrens 599
-Dompierre 687
-Domdidier 2353
-
-Domat 6817
-Sils im Domleschg 834
-Thusis 2572
-Cazis 1641
-Rhazuns 1257
-Bonaduz 2654
-Bonacher 3
-Tonacher 18
-Banacher 6
-Haltenacher 6
-Alten 244
-
-Olten 16411
-
-Trimbach 6220
-
-Strengelbach 4349
-Staffelbach 1059
-Elba 18
-Hindelbank 1994
-Batterkinden 2748
-
-Gelterkinden 5709
-Ormalingen 1803
-Runenberg 762
-
-Hunenberg 9032
-Oberruti 1268
-Niderruti 179
-Niderau 6
-Nideltobel 6
-Tobeli 31
-Bachtobel 21
-Leutobel 2
-Seebli LWS 2
-Seeb 251
-Unter-Ottikon 251
-Ober-Ottikon 204
-Chapelle-sur-Moudon 204
-
-Moudon 4343
-Donneloye 318
-Aubonne 2703
-Saubraz 354
-Brach 23
-
-Embrach 7088
-Embd 349
-Hemberg 921
-
-Heimberg 5501
-Limberg 73
-Schulhaus Limberg 16
-Schur 16
-Schufelberg 16
-
-Engelberg 4001
-Engel 5
-Engelburg 10
-Wurz 10
-
-Wurenlos 5497
-Killwangen 1783
-Bellwald 444
-
-Grindelwald 3730
-Grindel 11
-Grindelmatten 8
-Lindenmatt 8
-Stierenmatt 36
-Unterer Brand 36
-Oberer Brand 13
-Brandrain 50
-Sandrain 26
-Waggital 26
-Maggia 720
-Giumaglio 217
-Lodano 239
-Caviano 134
-Scaiano 21
-
-Locarno 14509
-Muralto 2818
-
-Fehraltorf 3767
-Monchaltorf 2779
-Amenloch 88
-Varen 1203
-Barenberg 43
-Barenbohl 42
-
-Ingenbohl 7967
-Morschach 971
-
-Rorschach 9000
-Morschwil 3496
-Haggenschwil 1216
-Niederhelfenschwil 2668
-Niederburen 1415
-
-Flawil 9739
-
-Degersheim 3802
-Schwellbrunn 1517
-Brunnadern 912
-
-Kaltbrunn 3803
-Gommiswald 2781
-Lommis 990
-Affeltrangen 2135
-
-Bronschhofen 4489
-Jonschwil 3221
-Butschwil 3393
-Ganterschwil 1145
-Oberhelfenschwil 1318
-Riddes 2213
-Liddes 728
-Ependes 1006
-Greppen 900
+Schlossbreiti 4
+Schlossberg 3
+Krinnensberg 3
+Chrinnen 12
+Ruchriet 6
+Nubruch 60
+Steinbruch 36
+Steinberg 14
+Steinbuel 5
+Luggenbuel 12
+Guggenbuhl 14
+Hohbuhl 14
+Frohbuhl 5
+Frohmatt 7
+Neumuhle-Kempttal 7
+Oberkempten 900
 Bercher 900
 Burchen 705
 Uerchen 4
 Lerchenhof 8
 Oedenhof 8
-Wilenhof 7
-Willenhof 39
-Wiesenhof 5
-Josenhof 15
-Sennhof 57
-Wilhof 189
-Salhof 5
-Ziegelhof 5
-Spiegelberg 5
+Lindenhof 9
+Lindenmatt 8
+Frohe Aussicht 8
+Russin 406
+Vernamiege 150
+Nax 406
+Vex 1418
+Heremence 1331
+Saint-Martin 751
+Saint-Maurice 3701
 
-Spiez 12594
-Aeschi b. Spiez 2000
-Verbier 2000
-Hallau 2000
-Oberhallau 416
-Oberhauserriet 77
-Rietwis 30
-Mannetsriet 77
-Ruchriet 6
-Chilchriet 4
-Widenriet 4
-Widen 31
-Widmen 60
-Bodmen 51
+Bex 5956
+Gryon 1122
 
-Feldmeilen 3732
+Ollon 6665
 
-Meilen 4419
-Obermeilen 2871
-Obere Buhlen 68
-Oberems 135
-Oberembrach 694
-Schintenacher 83
-Eschikon 101
-Bisikon 385
-Billikon 66
-Zwillikon 620
-Stallikon 456
+Collombey 5926
+Martigny-Combe 1731
 
-Ruschlikon 4653
-
-Zollikon 5812
-
-Zollikerberg 4187
-Sennhof-Oberhub 296
-Wildsberg 122
-Ebmatingen 2278
-Ermatingen 2453
-Deitingen 2135
-Huttlingen 847
-Huttwilen 1381
-Uttwil 1492
-Guttingen 1336
-Altnau 1887
-Langrickenbach 1031
-Rickenbach bei Wil 2714
-Rickenbach 705
-Widum 705
-Widenswil 29
-Dieterswil 29
-Dietwil 950
-
-Rotkreuz 10439
-
-Root 3886
-Rotel 100
-Eschenmosen 100
-Eschenz 1508
-Roschenz 1753
-Wahlen 1383
-Pontresina 1863
-Presinge 626
-
-Bad Ragaz 5063
+Martigny-Ville 14768
+Salvan 1127
+Dorenaz 647
 Jenaz 1130
-Saint-Jean 226
-Trun 1243
-Trub 1503
-Strubikon 43
-Bubikon 2052
-Wolfhausen 2402
-
-Schaffhausen 33863
-
-Neuhausen 10019
-Wildhaus 1221
-Feuerthalen 2165
-Marthalen 1567
-
-Arth 9850
-
-Goldau 5285
-
-Goldach 9094
-Goldenberg 10
-Guldenberg 8
-Bundi 8
-Rundi 24
-Rundihalde 56
-Lindhof 56
-Waldhof 13
-Feldhof 12
-Werdhof 12
-Hardhof 6
-Hard 20
-Dinhard 522
-Hargarten 89
-Obstgarten 60
-Im Riet 60
-Dorf Riet 130
-Dorf Aesch 341
-Dorf Hunikon 153
-Sunikon 229
-Schleinikon 176
-Danikon 1682
-Huttikon 480
-Otelfingen 1808
-Boppelsen 893
-Kappel 211
-Kappelen 1075
-Frauenkappelen 1281
-Fraschels 484
-Lenz 484
-Lenzen 68
-Ennerlenzen 4
-Menzengrut 57
-Katzenruti 57
-Geschinen 57
-Neschwil 141
-Erschwil 926
-Barschwil 918
-Iserables 918
-Busserach 1863
-Bussenthal 31
-Isenthal 558
-Trasadingen 558
-Guntmadingen 249
-Madikon 9
-Medikon 315
-Lax 315
-Laax 1252
-Flims 2536
-Flond 185
-Flos 29
-Villa RA 29
-La Roche 1405
-Broc 2148
-La Tour-de-Treme 3686
-
-Bulle 12095
-Bullet 595
-Lully 714
-
-Fully 5922
-Charrat 1156
-La Sarraz 1734
-La Sagne 988
-
-La Chaux-de-Fonds 36825
-La Chaux-des-Breuleux 78
-Dursenen 78
-Ursenbach 888
-Bottens 1030
-Bottenwil 800
-Andeer 800
-Wandel 17
-Maschwanden 485
-Merenschwand 2479
-Baretswil 1313
-Kleinbaretswil 33
-Ruetswil 31
-Egetswil 275
-Aegetswil 9
-Vorder-Aegetswil 22
-Riedmatt 22
-Tolhusen 22
-Huser 6
-Zollingerhuser 21
-Unterhus 17
-Punten 17
-Unter-Feld 17
-Ober-Feld 32
-Ober-Orn 23
-Nieder-Orn 8
-Nieder-Hori 55
-Niederesslingen 25
-Esslingen 1203
-Esslinger 47
-Laubberg 47
-Schlaufenberg 47
-Blachen 47
-Ziegeleistrasse 47
-Lleitstrasse 75
-Leisibuel 75
-Bezibuel 10
-Rotzibuch 5
-Stotzli 5
-Rebholzli 5
-Obholz 14
-Rotholz 14
-Holz 10
-Holzschlag 10
-Schlatt 35
-
-Schlieren 12695
-Hubscheren 16
-Trubschachen 1530
-Schachen 1278
-Unterschachen 760
-Gondiswil 760
-Madiswil 1991
-Lotzwil 2391
-Schotz 3231
-Hotzler 50
-Scheller 9
-Chellersacher 10
-Grundtal 10
-Wiesengrund 10
-Felsengrund 19
-Bachi 19
-Hochi 19
-Ghoch 37
-Rittweg 37
-Ritterhaus 12
-Schlitten 12
-Chlital 5
-Buechli 7
-Fraubuechli 6
-Untere Bruechegg 6
-Untere Laubegg 9
-Obere Laubegg 13
-Heuberg 13
-Scheunberg 12
-Scheuren 707
-Heurain 7
-Langrain 7
-Angelrain 139
-Fuldera 136
-Fulau 26
-Mulegns 26
-Bodenmuli 18
-Gosswil 18
-
-Gossau 17043
+Fideris 579
 
 Herisau 15438
-Willisau 3125
-Egliswil 1401
-Boniswil 1436
-Leutwil 747
-Buttwil 1185
 
-Sirnach 6463
-
-Dornach 6449
-
-Arlesheim 9301
-Scharler 9
-Harlachen 54
-Wuhrenbach 54
-
-Schwerzenbach 4180
-Lerzen 48
-Balzenbuel 1
-Seehof 1
-Wieshof 1
-Gentenwies 11
-Wattenwilerhof 11
-Wattenwil 2788
-Rechthalten 1058
-Krauchthal 2339
-Rauchler 11
-Talmuhle 11
-Thalmuhle 8
-Seeben 8
-Seeberig 5
-Ober-Schurli 5
-Schurli 38
-Schurliacher 3
-Turliacker 8
-Turlen 47
-Eschturli 6
-Hochwacht 6
-Hochwald 1254
-
-Aesch 10138
-Aeschacker 11
-Lochacker 9
-Talacker 18
-Burgelacker 164
-Leuggelbach 164
-
-Erlenbach 4519
-
-Ehrendingen 4519
-
-Herrliberg 5025
-
-Oberrieden 4413
-
-Horgen 15973
-
-Morges 14117
-
-Preverenges 4695
-
-Saint-Prex 4461
-Saint-Livres 568
-Saint-Leonard 1937
-Benglen 1937
-Biglen 1759
-Rubigen 2426
-
-Vechigen 4619
-Ersigen 1507
-Koppigen 1977
-Goppisberg 93
-Appisberg 25
-Burgweid 25
-Burgweidli 3
-Untere Allmend 3
-Allmend 10
-Allmen 13
-Fallmen 57
-
-Villmergen 5489
-
-Wohlen 13875
-Dottikon 3125
-
-Berikon 4527
-
-Rudolfstetten 3800
-Ghogg 5
-Ghongg 5
-Schongut 1
-Haldengut 9
-Leihalden 16
-Leihalde 11
-Auf dem Buhl 11
-Auf der Buechlen 4
-Uf Dorf 23
-
-Seuzach Dorf 3969
-Schinznach Dorf 1736
-Schinznach Bad 1327
-
-Baden 16118
-Bad 9
-Neubad 29
-Hubacher 24
-Ottenhub 14
-Manzenhub 22
-Fehrenwaltsberg 22
-Tisenwaltsberg 50
-Baltsberg 17
-Niggenberg 17
-
-Obersiggenthal 7990
-
-Untersiggenthal 6344
-Turgi 2982
-Burgistein 1058
-
-Steffisburg 15191
-Effingen 603
-Bozen 606
-
-Vetroz 4137
-Couvet 2811
-Travers 1233
-Ravensbuhl 19
-Guggenbuhl 14
-Hohbuhl 14
-Frohbuhl 5
-Frohberg 108
-Dettenried 108
-Glattenried 2
-Holzweid 2
-Munchweid 2
-
-Munchwilen 4612
-
-Munchenstein 11644
-
-Muttenz 16927
-
-Pratteln 14877
-Herdern 908
-Augst 908
-Kaiseraugst 3600
-Maisprach 933
-Kaisten 2140
-Rovray 188
-Ittenthal 188
-Hornussen 845
-Twann 845
-Wanne 27
-Tanne 47
-Tannen 11
-Mannenrain 11
-Tannenrain 131
-Sanitas 131
-Sand 879
-Sandacher 10
-Randa 421
-Ennenda 2699
-
-Glarus 5681
-
-Gland 10641
-Saland 526
-Bergun 526
-Zeglingen 526
-Davos Wiesen 360
-
-Davos 11024
-Lavin 175
-
-Saviese 5575
-
-Sitten 28045
-Mittelberg 15
-Unter-Mittelberg 15
-Mittelalbis 10
-Mittel-Albis 26
-Wartguet 26
-Guetli 8
-Neuguet 10
-Forhalden 10
-Dorfhalden 30
-Hofhalden 28
-Oh 28
-Breitacker 28
-Landsacker 28
-Sack 119
-Moosacker 5
-Hubacker 7
-Hofacker 193
-Hofacher 64
-Ferchacher 61
-Seewadel 61
-Adetswil 716
-Oberhofen bei Etzgen 289
-Trockenloo 289
-Buchenloo 46
-Stubenloo 15
-Moorhau-Furhoger 15
-Schurhof 12
-
-Chur 32429
-Churwalden 1214
-Lenzerheide 2610
-Heidertal 8
-Nidertal 67
-Morel 477
-Glarnischstrasse 477
-Feldstrasse 17
-Chloosstrasse 10
-Engelwisstrasse 2
-Kappelerhohe 2
-Meierskappel 1128
-
-Kussnacht 11777
-Udligenswil 2252
-
-Adligenswil 5576
-
-Ebikon 11471
-
-Buchrain 5341
-Kirchrain 191
-Portalban 322
-Peist 191
-Gheist 7
-Ghei 81
-Alt-Rheinau 46
-Hinterrhein 108
-Hintereichen 40
-Hinterbleichi 4
-Hinterberg 7
-Hinteruttenberg 72
-Vorderuttenberg 53
-Uetikon 3431
-Talweg 178
-Pappelweg 10
-Trottacher 10
-Rietacher 4
-Breitacher 11
-Breiti 8
-Breitlen 2
-Breitenerli 6
-Usserbreiten 110
-Fusio 60
-Brusio 1152
-Poschiavo 3428
-
-Chiasso 8060
-
-Pregassona 7548
-Cossonay 2795
-Chavornay 2841
-Bavois 662
-Froideville 1518
-Goumoens-la-Ville 609
-Mont-la-Ville 342
-Oron-la-Ville 1198
-Meinisberg 1198
-Pieterlen 3317
-
-Lengnau 7336
-
-Grenchen 15927
-
-Bettlach 4834
-Leuzigen 1167
-Arch 1574
-Henggart 1574
-Rosengarten 8
-Rosenau 14
-Tufenau 8
-Tufi 13
-Lufingen 446
-Rudolfingen 222
-Gelfingen 805
-Thalheim 805
-Mullheim 2493
-Pfyn 1839
-Wynau 1610
-Wynigen 2090
-Bonigen 2233
-Leissigen 872
-
-Sigriswil 4341
-Teuffenthal 183
-Eriz 504
-Wueri 28
-Bauertacher 47
-Bauegg 8
-Auee 10
-Mauensee 1199
-Glovelier 1199
-Undervelier 328
-Movelier 455
-Liesberg 1210
-Kleinlutzel 1296
-Lutzelsee 44
-
-Lutzelfluh 4035
-Fluh 19
-Loffler 19
-Toffen 2277
-Pfaffenberg 9
-Pfaffenwis 279
-
-Pfaffikon 7994
-Auslikon 331
-Musli 25
-Luttenberg 25
-Lattenberg 11
-Rotenblatt 11
-Ober-Rotenblatt 8
-Blattenbach 26
-Ottenbach 2039
-
-Wittenbach 8542
-Schmittenbach 117
-
-Schmitten 4040
-Bosingen 3118
-
-Dudingen 7155
-Barbereche 611
-Kriechenwil 408
-
-Kriens 25010
-
-Horw 12348
-
-Luzern 57066
-
-Kerns 5217
-Lungern 1921
-Hungerbuel 186
-Oberhittnau 551
-Wittnau 1062
-Gravesano 1062
-Agra 490
-Caslano 3655
-Haslaub 40
+Gossau 17043
+Gosswil 18
+Grosswis 68
+Grossweid 314
+Stigweid 40
 Betzholz 40
-Drisgler 40
-
-Aigle 7723
-Yvorne 885
-Hornen 64
-Sternen 13
-
-Sarnen 9410
-Sarn 121
-Arosa 2307
-Rossau 209
-Brunnenthal 209
-Salux 209
-Salen 16
-Sales 1326
-Lechelles 573
-Sedeilles 154
-Ecuvillens 772
-
-Villeneuve 4349
-Vordemwald 1661
-
-Rothrist 7423
-Rothaus 82
-Altburg 82
-
-Ennetburgen 4226
-
-Buochs 5524
-
-Zuzwil 4226
-
-Stans 7475
-
-Stansstad 4471
-Stadel 875
-Wachseldorn 261
-Alt-Bachs 261
-Neu-Bachs 141
-Nussbaumen 75
-Baumschuel 10
-
-Flums 4848
-Gams 2971
-Ramsen 1316
-Ramsel 10
-Ramsberg 20
-Bahnhof 20
-Baholz 3
-Hinter-Dienstbach 3
-Vorder-Dienstbach 15
-Badstock 15
-Stockacker 6
-Stockenmatt 7
-Bruederhus 7
-Bruederhof 5
-Bruederberg 7
-Neumuhle-Kempttal 7
-Ober-Kempttal 26
-Ober-Schluchtal 26
-Ober-Schwanden 33
-Schwarz 33
-Schwarzenberg 1591
-
-Malters 6181
-
-Littau 16121
-Blitterswil 74
-Gamlikon 74
-Mittel-Gamlikon 15
-Sunnehalde 15
+Betzental 10
+Hasental 5
+Schontal 5
+Schongut 1
+Seehof 1
 Sunnehof 7
-Sunnenberg 57
-Sunnebad 6
-Sunnau 5
-Sonnau 2
-Veysonnaz 408
-Laupen 2774
-Ober-Laupen 86
-Herferswil 86
-Rifferswil 604
-Ebertswil 429
-Usser-Vollikon 51
-Uerzlikon 262
-Villarvolard 262
-Grandvillard 616
-Grandval 390
-Fiez 390
-Fiesch 1003
-Grimentz 444
-Termen 793
-Hermen 2
-Schirmensee 2
-Ober-Schirmensee 32
-Unter-Schirmensee 22
-Unter-Schwanden 331
-Mittler-Schwanden 143
-Wiesacher Ort 143
-Husacher 4
-Thuracher 4
-Schuracher 9
-Ghangetwies 9
-Hotwiel 9
-Chotten 9
-Hottental 3
-Cottens 358
-Ropraz 358
-Praroman 1223
+Sunnehalde 15
+Tagerst 15
+Alte Frauenfelderstrasse 15
 
-Marly 7653
-Vals Platz 1006
-Silvaplana 973
-Platte 74
-Diezikon 74
+Frauenfeld 21979
+Gachnang 3235
+Mosnang 2936
+Lutisburg 1476
 
-Dietikon 20893
-Widenhusli 11
-Sennhus 30
-Desibach 30
-Ibach 3500
+Kirchberg 8127
+Eichberg 1260
 
-Schwyz 14177
-Hischwil 30
-Rutschwil 194
-Rutschberg 31
-Ranghusen 31
-Berghus 2
-Rheinsberghof 2
-Greinsberg 2
-Oberreinsberg 10
-Regensberg 346
-Liebensberg 60
-Krinnensberg 3
-Chrinnen 12
-Hannen 19
-Tannenhof 7
-Tannhof 2
-Sonnenhof 6
-Sonnental 40
-Sonnenrain 36
-Raineten 1
-Rietrain 12
-Rietruti 3
-Spaltruti 8
-Horuti 2
-Ohruti 12
-Uf Ruti 12
-Chueweid 12
-Seeweid 9
-Neuweid 9
-Neuwingert 12
-Auwis 117
-Frauwis 9
-Auw 1610
-Muhlau 967
-Muhlacher 2
-Muhlebach 98
-Mathon 57
-Tufleten 57
-Tafleten 55
-Tableten 11
-Tablat 89
-Vergeletto 89
-Ligornetto 1524
-Sornetan 116
-Wernetshausen 571
-Adletshausen 43
-Merishausen 668
-Saulcy 235
-Sulch 10
-Sulz 1244
-Unter-Sulzberg 19
-Ober-Sulzberg 17
-Chnolli 17
-Schnottwil 958
-Nottwil 2911
-Knutwil 1722
-Waldstatt 1722
-Waldi 957
-Trachselwald 1068
+Speicher 3985
+Trogen 1618
+Bogen 9
+Bogenhaus 5
+Wagenhausen 1524
+Genestrerio 876
+Morbio Superiore 703
 
-Sachseln 4511
+Morbio Inferiore 4331
+Balerna 3456
+Falera 559
+Alpthal 559
 
-Alpnach 5218
-Alpli 37
-Aspli 7
-Sussplatz 7
-Tanzplatz 3
-Geissstig 3
-Feissi 19
-Feisterbach 8
-Weiherbach 9
-Zeihen 993
-Freihof 15
-Steinshof 15
-Unterer Steinshof 2
-Unterer Widenbach 6
-Widenbad 13
-Stampf 13
-Stampfi 13
-Stampfental 7
-Stampa 588
-Bivio 215
-Rovio 729
-Cevio 1844
-Gordevio 818
-
-Gordola 3974
-Gorduno 671
-Dunaspi 102
-Asp 18
-Tarasp 295
-Maracon 582
-Zuoz 1209
-
-Zug 23435
-
-Zuchwil 9268
-
-Solothurn 14853
-Riedholz 1576
-Friedheim 14
-Waldheim 4
-Blitzger 4
-Etzgen 440
-Stilli 440
-Hinternord 440
-Hinter-Aatal 20
-Unter-Aathal 144
-Borgnone 144
-Cavergno 481
-Someo 286
-Aurigeno 417
-Buseno 90
-Busenharder 5
-Gisenhard 41
-Brolberg 41
-Muhlberg 24
-Hafnerberg 24
-Huttikerberg 14
-Silberberg 4
-Hellberg 94
-Stechelberg 255
-Nufenen 156
-Sufers 156
-Unter-Teufen 173
-Ober-Teufen 149
-Bachelsruti 40
-Laubisruti 9
-Laubi 9
-Laubisser 617
-Galmiz 617
-Gals 674
-Gampelen 732
-Gampel 1386
-Agarn 753
-Arn 326
-Dizy 245
-Vorderi Siten 245
-Vorderi Chaseren 4
-Oberi Chaseren 6
-Oberi Chelen 8
-Chelen 13
-Schelten 50
-Harenberg-Guggeere-im Berg 50
-Erziehungsanstalt 50
-Stangen 9
-Bewangen 9
-Huntwangen 705
-
-Wetzikon 12969
-Uetzikon 48
-Vorder-Klausen 48
-Hinter-Klausen 18
-Rinderweid 18
-Lurweid 9
-Schurweid 9
-Schurwies 6
-Oberwies 14
-
-Oberwil 10187
-
-Therwil 9595
-Niederwil 131
-Niederwald 62
-Schmalzgrueb 62
-Bunt 80
-Iseo 80
-
-Seon 4407
-Sent 848
-Scuol 2184
-Ardez 441
-Zernez 1053
-
-Klosters Serneus 4044
-Unterneuhus 7
-Neuhusrain 7
-Neuhus 339
-Hasliberg 339
-Haslibach 15
-Haslihalde 180
-Lurtigen 180
-Dachlissen 135
-Kirchlindach 2553
-Schupfen 3248
-
-Schupfheim 3723
-Entlebuch 3293
-Isebuck 9
-Loobuck 8
-Goldbuck 6
-Goldingen 1013
-Huebwis 151
-Hueb 49
-Huebli 27
-Unterhueb 30
-Hinterhueb 16
-Nasplen 16
-Splugen 400
-Vattis 400
-Schlatti 2
-Schlatter 20
-Unterschlatt 174
-Spannrain 174
-Widenrain 14
-Hohenrain 2090
-Ballwil 2284
-Zullwil 587
-Bretzwil 746
-Wetzwil 132
-Bruglen 132
-Brugglen 94
-Prugiasco 184
-Berg Madetswil 184
-Madetswil 164
-
-Adliswil 15230
-Banklen 196
-Benklen 4
-Benken 2419
-Felsenkeller 151
-Winkel 869
-Maiwinkel 22
-Nebelwinkel-Erachfeld 40
-Knebel 7
-Nebetsaglen 7
-Saget 7
-Wagenbach 7
-Wagenburg 44
-Ober-Wagenburg 34
-Unter-Wagenburg 15
-Waldenburg 1337
-Titterten 427
-Arboldswil 509
-Reigoldswil 1509
-Geroldswil 3681
-Brunau 389
-Bruni 16
-Brunisberg 33
-Inner-Vollikon 33
-Amet 33
-Chammeten 11
-Gammetswil 5
-Geretswil 13
-Gundetswil 90
-Ludetswil 27
-Hullistein 27
-Gstein 29
-Mittler-Sadel 29
-Mittler-Egg 14
-Mittlerhueb 19
-Toggwil 19
-Roggwil 3673
-Bannwil 652
-Inwil 2163
-Allenwil 18
-Dallenwil 1738
-Allenwinden 20
-Ellenwis 12
-Herrenwis 12
-Wildenwis 7
+Thal 6433
+Rheineck 3298
+Hinterrhein 108
+Obere Hinterruti 12
+Obere Hengerten 12
+Aegerten 160
+Fernegg 160
 Wildensbuch 96
 Densburen 758
-Erlinsbach 2258
+Zeihen 993
+Weiherbach 9
+Schulhaus Unterbach 7
+Altes Sekundarschulhaus 7
+Zentralschulhaus 9
+Schulhaus Erlosen 9
+Schulhaus Altlandenberg 9
+Schulhaus Tagerst 6
+Lueget 6
+Obere Luegeten 2
+Seebli LWS 2
+Seeb 251
+Seeben 8
+Seeberig 5
+Leebern 13
 
-Aarau 15501
+Bern 121631
+
+Bernex 9759
+Confignon 3425
+Eschlikon 3425
+Schlitten 12
+Chlital 5
+Gachlingen 740
+Ober-Ohringen 700
+Vufflens-le-Chateau 700
+
+Ecublens 10262
+Mollens 282
+
+Rolle 4425
+Essertines-sur-Rolle 476
+Gimel 1454
+Saubraz 354
+Aubonne 2703
+Mauborget 115
+Corgemont 1503
+Rougemont 909
+
+Saanen 6621
+
+Gstaad 9200
+Lirenagel 15
+Nageli 6
+Nagelihus 8
+Vogeli 9
+Gibisnud 9
+Gibisnut 10
+Forhalden 10
+Wili 10
+Wiliberg 155
+Staffelbach 1059
+
+Strengelbach 4349
+
+Villeneuve 4349
+
+Zofingen 11451
+
+Oftringen 10390
+
+Igis 6828
+
+Rothrist 7423
 
 Aarburg 6828
 
-Igis 6828
-Eigi 22
-Heiget 54
-Lueget 6
-Obere Luegeten 2
-Zopf 2
-Chopfli 2
-Chalchofen 2
-Schalchen 130
-Chalchegg 63
-Im Latten 63
-Im Langhag 10
-Langeberg 10
-Langenriet 5
-Langerenruti 25
-Bollenruti 11
-Fischenruti 4
-Fischenthal 215
-Sils-Segl Maria 735
-Silisegg 22
-Musegg 7
-Heiletsegg 7
-Seiler 17
-Wiler 541
-Wilen 52
-Kefikon 52
-Uffikon 688
-Vauffelin 437
-Tauffelen 2492
-Lauf 5
-Laufenburg 2000
-Fluelen 2000
-Tuelen 3
-Tumlen 3
+Olten 16411
 
-Rumlang 5144
-Lamboing 617
-Brot-Plamboz 218
-Muggio 218
-Bioggio 1784
-Novaggio 794
-Pura 1069
-Bapur 37
-Hammigacher 37
-Rigacher 5
-Bruggacher 12
-Bruppacher 12
-Bruppach 3
+Trimbach 6220
+Fulenbach 1526
+Lodrino 1526
+Sigirino 440
+Sigiloch 6
+Loch 32
+Lochen 17
+Lochern 2
+Thierachern 2040
+Wigoltingen 2040
 
-Sempach 3754
-Champagne 680
-Waltensburg 362
-Bonvillars 362
-Villars-Burquin 565
+Uetendorf 5654
+Kirchdorf 775
+Waldkirch 3137
+Niederburen 1415
 
-Yverdon-les-Bains 23702
-Chavannes-le-Chene 228
+Flawil 9739
 
-Estavayer-le-Lac 5061
+Degersheim 3802
 
-Payerne 7655
-Ayer 681
-Ayent 3243
-Arbaz 862
+Arlesheim 9301
 
-Basse-Nendaz 5410
-Menznau 2628
-Vitznau 1496
-Gersau 1983
-Niedersaum 17
-Niederholz 18
-Hinderholz 6
-Wiserholz 27
-Unterschneit 27
-Oberschneit 90
-Schneitberg 19
-Reitbach 14
+Dornach 6449
 
-Spreitenbach 10562
-Tambrig 1
-Brienz 2899
-Brienzwiler 580
-Gunzwil 1925
+Sirnach 6463
+
+Reinach 7845
+Soral 678
 
 Menziken 5415
 Wenzikon 42
 Brenzikofen 487
-Giffers 1566
-Tafers 2833
-Chafer 26
-Grafschaft 10
-Grafstal 501
-Rafz 3233
-Naf 6
-
-Nafels 3978
-Mollis 3014
-Oberurnen 1932
-Niederurnen 3657
-Weesen 1402
-Oberhausen-Boschenwiesen 170
-
-Schubelbach 7745
-
-Siebnen 7104
-Ebni 4
-
-Ebnat-Kappel 4852
-Krummenau 1453
-Chrummacker 5
-Rohracker 5
-Rohrbach 1386
-Kiesen 753
-Kies 6
-
-Liestal 12832
-Muhlestalden 38
-Rongellen 38
-Zumholz 447
-Bramhof 7
-Bramenhalden 24
-Luckhausen 24
-Gockhausen 1411
-Pfaffhausen 1684
-Neuhaus 237
-Langari 181
-Eichhochi 59
-Lochhof 25
-Buechhof 10
-Buechmes 8
-Behmer 41
-Kammern 6
-Kammoos 14
-Fromoos 19
-
-Romont 4483
-Aumont 418
-Combremont-le-Petit 375
-Eptingen 495
-Murist 495
-Murg 6
-Felsbach 6
-Felsberg 2088
-Mogelsberg 2213
-Wiedlisbach 2213
-Chilisbaum 9
-Hiltisberg 30
-Herrlisberg 77
-Gerlisberg 120
-Seelisberg 628
-Seeli 30
-Seelmatten 87
-Selma 49
-Hasel 123
-Laseten 3
-Riset 13
-Disentis 2193
-Ponto Valentino 220
-Valzeina 116
-Anzonico 116
-Chironico 399
-Giornico 964
-Chiggiogna 410
-Faido 1512
-Waid 12
-Waidhof 10
-Berghof 10
-Burghof 64
-Egghof 24
-Durenmoos 24
-Oberes Durenmoos 6
-Vorderes Maurenmoos 6
-Trinenmoos 7
-Sihlau 7
-Sihlwald 5
-Forsthaus Sihlwald 5
-Werkplatz Sihlwald 21
-Sihlhalde 11
-Sihlmatt 15
-Silmatt 5
-Untermatt 11
-Andermatt 1258
-Goschenen 464
-Silenen 2243
-
-Erstfeld 3876
-Attinghausen 1515
-Gutighausen 232
-Ettenhausen 200
-Ottenhausen 74
-Wagenhausen 1524
-Genestrerio 876
-
-Morbio Inferiore 4331
-Morbio Superiore 703
-
-Stabio 3917
-Im Stab 12
-Im Schindlerbuhl 10
-Grindlen 10
-Windlach 366
-Enney 539
-Hasennest 65
-Hasental 5
-Hasenacher 21
-Tiefenstein 21
-Tiefencastel 244
-Durstelen 153
-Niderdurstelen 37
-Burstel 10
-Fistel 84
-Altlandenberg 517
-Schulhaus Altlandenberg 9
-Schulhaus Erlosen 9
-Schulhaus Tagerst 6
-Schulhaus Unterbach 7
-Altes Sekundarschulhaus 7
-Zentralschulhaus 9
-Dillhaus 153
-Hauteville 529
-Lessoc 199
-Dombresson 1659
-
-Hombrechtikon 4767
-Holgass 266
-Hohlgass 142
-Apples 1201
-Doppleschwand 688
-Capolago 688
-Brissago 1831
-Sessa 642
-Tesserete 1533
-Messen 1018
-Balm bei Messen 107
-Buren an der Aare 983
-
-Aarberg 3911
-Worben 2042
-
-Lyss 10937
-Lyssach 1375
-Wyssachen 1251
-Durrenroth 1037
-
-Sumiswald 5159
-Samedan 2700
-Versam 223
-Tenna 91
-Paspels 461
-Rodels 293
-Rodersdorf 1338
-
-Bassersdorf 7010
-Nurensdorf 2310
-
-Birmensdorf 4772
-Birmenstal 5
-Hagenstal 41
-Balchenstal 14
-Walchwil 3268
-Waltenschwil 2192
-Gontenschwil 2067
-Gonten 1406
-Fontenais 1289
-
-Porrentruy 6521
-Jenins 745
-Oberweningen 919
-Tufwis 162
-Wolfwil 2079
-Wolfen 2
-Wolfern 3
-Wolfenzadel 3
-Wolfenschiessen 2080
-Ober-Wolfensberg 6
-Rotwasser 6
-Unterwasser 685
-Winikon 685
-Kleinikon 29
-Lutikon 29
+Ofen 13
+Oberhofen 119
+Pfruendweid 119
+Gruenfeld 284
+Rotel 100
+Otelfingen 1808
+Boppelsen 893
+Danikon 1682
+Huttikon 480
+Dottikon 3125
 Schottikon 658
 Liebistorf 658
 Siglistorf 569
 Kaiserstuhl 373
 Weiach 897
 Rebwies 897
-Surbwiesen 43
-Stuelen 43
+Le Paquier 208
+Chene-Paquier 108
+
+Chene-Bourg 7959
+
+Chene-Bougeries 10487
+
+Carouge 19344
+Lucens 2192
+Waltenschwil 2192
+Gontenschwil 2067
+Gonten 1406
+Homburg 1406
+Burgli 4
+
+Burglen 3996
+Morglen 12
+Morgen 492
+Sommeri 492
+Summerau 197
+Kyburg 197
+Valendas 294
+Ponto Valentino 220
+Disentis 2193
+Surrein 250
+Lumbrein 428
+Breil 1344
+Flond 185
+Ruschein 359
+Ilanz 2321
+Laax 1252
+Flims 2536
+Versam 223
+Rhazuns 1257
+Bonaduz 2654
+Tamins 1160
+Paspels 461
+Rothenbrunnen 293
+Rotenbrunnen 5
+Brunnenthal 209
+Brunnenacher 8
+Wolfsbrunnen 8
+Moosbrunnen 8
+Bundi 8
+Turliacker 8
+Eschturli 6
+Turlen 47
+Erlen 3057
+Erlenhof 7
+Willenhof 39
+Lirenhof 54
+Hermikon 54
+
+Zumikon 4424
+Rumikon 675
+Elsau-Raterschen 1395
+Uerschen 18
+Beierschen 6
+Alter Hirschen 8
+Hirschlen 6
+Beichlen 24
+Hafnerberg 24
+Huttikerberg 14
+Steinerberg 898
+Steinen 3041
+Lauerz 913
+Bauertacher 47
+Bodacher 1
+Sandacher 10
+Sand 879
+Sandbuel 272
+Landbuhl 18
+Schwosterrain 18
+Hadlikerrain 18
+Bollerrain 14
+
+Wollerau 6883
+
+Richterswil 10189
+Dieterswil 29
+Blitterswil 74
+Schmittenbach 117
+
+Schmitten 4040
+Schmitteneich 5
+Schmidruti 37
+Rittweg 37
+Ritterhaus 12
+Weberhaus 14
+Oberhauserriet 77
+Rietwis 30
+Mannetsriet 77
+Tanne 47
+Tann 3034
+Chateau-d'Oex 3034
+Staldenried 589
+Pianezzo 539
+Windlach 366
+Biswind 11
+Allenwinden 20
+Allenwil 18
+Ellenwis 12
+Herrenwis 12
+Wildenwis 7
+Aegertenwis 7
+Gartenacker 7
+Heimgarten 69
+Butzen 69
+Winkel 869
+Maiwinkel 22
+Nebelwinkel-Erachfeld 40
+Drisgler 40
+
+Mendrisio 7310
+Gandria 216
+Gibswil 216
+Tartar 216
+Certara 79
+Tarain 4
+Tarasp 295
+Peney-le-Jorat 295
+Binziger 140
+Breitacker 28
+Landsacker 28
+Grund 28
+Oh 28
+Roswies 28
+Frohwies 3
+Ruchwies 4
+
+Zuchwil 9268
+Hischwil 30
+Dorfhalden 30
+Hofhalden 28
+Sonnenbuhl 28
+Tannenboden 3
+Hinter-Dienstbach 3
+Hintertobel 3
+Vordertobel 10
+Vorderthal 1006
+Innerthal 170
+Feuerthalen 2165
+Marthalen 1567
+
+Arth 9850
+
+Goldau 5285
+Waldau 16
+Medels im Rheinwald 35
+Mesikon 35
+Etzikon 16
+Sturzikon 16
+Itzikon 258
+Bubikon 2052
+Wolfhausen 2402
+Pfaffhausen 1684
+Gockhausen 1411
+Neuhaus 237
+Langari 181
+Rosengarten 8
+
+Bremgarten 6543
+Kunten 1732
+Gentenwies 11
+Wattenwilerhof 11
+Wattenwil 2788
+Rechthalten 1058
+Alten 244
+
+Altendorf 5280
+
+Hagendorf 4338
+Gunzgen 1604
+Zunzgen 2632
+
+Sissach 5873
+
+Gelterkinden 5709
+Ormalingen 1803
+Buus 1005
+Maisprach 933
+Brach 23
+Grachen 1362
+Rachenbuhl 35
+Bachenbulach 2985
+
+Bulach 13172
+Erlach 1108
+Harlachen 54
+Huslihof 54
+Husli 41
+Widenhusli 11
+Guggel 11
+Gugger 3
+Tuggen 2671
+Hundsruggen 18
+Unter Halden 18
+Unter Oerischwand 18
+Ober Oerischwand 6
+Unter-Oedischwand 6
+Ober-Oedischwand 13
+Neuwis 13
+Neuwisen 17
+Neuwingert 12
+Chueweid 12
+Schuenweid 9
+Folenweid 8
+Schachenweid 7
+Trubschachen 1530
+Luchsingen 1530
+Othmarsingen 2267
+Hendschiken 930
+Eschikon 101
+Bertschikon 534
+Ponthaux 534
+Linthal 1080
+Braunwald 421
+Grunwald 11
+Waldi 957
+Trachselwald 1068
+
+Sachseln 4511
+
+Sarnen 9410
+
+Kerns 5217
+Habkern 666
+
+Erstfeld 3876
+Feld 51
+Feldi 38
+Feldis 126
+Hildisrieden 1882
+Romerswil 1882
+Kesswil 928
+
+Amriswil 11351
+Muolen 1118
+Moleno 117
+Castiel 117
+Auwis 117
+Frauwis 9
+Wauwil 1657
+Schotz 3231
+Chotten 9
+Hottental 3
+Geissstig 3
+Hostig 10
+Festig 7
+Chilstig 5
+Chilacher 4
+Stiefelacher 5
+Blachen 47
+Ziegeleistrasse 47
+Ausserbinn 47
+Ausserfeld 5
+Usserfeld 4
+Tegerfelden 1040
+Tecknau 856
+Knaus 15
+Moorhau-Furhoger 15
+Schurhof 12
+Hofschur 7
+Schurmatt 6
+Mattschur 8
+Weienschur 8
+Sennschur 17
+Taglischur 17
+Stagli 135
+Donatyre 135
+Dachlissen 135
+Morissen 243
+Uessikon 55
+Welsikon 357
+Bebikon 25
+
+Ebikon 11471
+Nebikon 2241
+Strubikon 43
+Kefikon 52
+Uffikon 688
+
+Pfaffikon 7994
+Hungerbuel 186
+Lungern 1921
+Brienzwiler 580
+Brienz 2899
+Mund 580
+Bellmund 1311
+
+Nidau 6696
+
+Biel/Bienne 55120
+Enney 539
+Hasennest 65
+Hasenacher 21
+Tiefenstein 21
+Holenstein 7
+Sihlau 7
+Sihlwald 5
+Forsthaus Sihlwald 5
+Werkplatz Sihlwald 21
+Bellwald 444
+
+Grindelwald 3730
+Grindel 11
+Grindelmatten 8
+Seelmatten 87
+Selma 49
+Unter-Balm 49
+Unter-Eich 16
+Unterwerk 16
+Unterwyden 6
+Untere Bruechegg 6
+Unterer Widenbach 6
+Unterer Steinshof 2
+Steinshof 15
+Badstock 15
+Stockacker 6
+Ehretstock 11
+Stockenmatt 7
+Stierenmatt 36
+Schutzenmatt 7
+Chutzenmoos 7
+Schutzenhof 11
+Obere Rutzen 11
+Obere Steigen 3
+Obere Langfurri 3
+Langfurri 2
+Furrershus 5
+Im Stieg 5
+Im Stab 12
+
+Stabio 3917
+Ligornetto 1524
+Sornetan 116
+Wernetshausen 571
+Gnosca 571
+Ronco sopra Ascona 671
+
+Giubiasco 7752
+Cugnasco 1202
+
+Ascona 5084
+
+Losone 6070
+Isone 388
+Buchberg 781
+Soglio 173
+Broglio 103
+Giumaglio 217
+Lodano 239
+Maggia 720
+Aurigeno 417
+Genolier 1498
+Movelier 455
+Mervelier 557
+Vermes 355
+Hermen 2
+Schirmensee 2
+Ober-Schirmensee 32
+Unter-Schirmensee 22
+Unter-Schwanden 331
+Unter-Aathal 144
+Ober-Aathal 70
+Ober-Rengg 45
+Ober-Raad 3
+Vorderer-Radrain 3
+Vordere Wannwis 17
+Hintere Wannwis 21
+Hintere Stollen 30
+Desibach 30
+Ibach 3500
+
+Schwyz 14177
+Morschach 971
+Seelisberg 628
+Seeli 30
+Zelg 30
+Zelgli 30
+Kluszelg 1
+Wieshof 1
+Fuchshof 6
+Fuchsloch 15
+Oberfuchsloch 5
+Vorderfuchsloch 14
+Vorder Mugern 14
+Vorder Erli 16
+Hinter Erli 11
+Tempelhof 11
+Striempel 104
+Triemen 7
+Sementina 2695
+Cerentino 70
+Stifelwis 70
+Engelwisstrasse 2
+Chloosstrasse 10
+Irchelstrasse 22
+Manzenhub 22
+Ottenhub 14
+Ottenhausen 74
+Gamlikon 74
+Mittel-Gamlikon 15
+Mittelberg 15
+Unter-Mittelberg 15
+Hinter-Mistlibuhl 4
+Blitzger 4
+Etzgen 440
+Zuzgen 863
+Oberstammheim 863
+Unterstammheim 697
+
+Unterseen 5150
+
+Sigriswil 4341
+
+Spiez 12594
+Aeschi b. Spiez 2000
+Fluelen 2000
 Trimuelen 7
-Trimmis 2831
-Wimmis 2237
-Erlenbach im Simmental 1730
-Zweisimmen 2813
-Boltigen 1443
-Darstetten 859
-Marstetten-Dorf 2600
+Siselen 620
+Zwillikon 620
+Hedingen 2835
+Goldingen 1013
+Buelreben 151
+Reben 2
+Mulireben 35
+Mulirain 6
+Resirain 19
+Lesirain 10
+Hankirain 5
+Spitzenrain 5
+Spitzenmatte 231
+
+Stafa 5737
+Uerikon 1794
+Ehrikon 234
+Pachterriet 234
+Berg Madetswil 184
+Balmwies 94
+Oberbalm 849
+Ballaigues 849
+Noiraigue 524
+Brot-Plamboz 218
+Lamboing 617
+Bonfol 617
+Bidogno 343
+Bogno 126
+Mosogno 67
+Sonogno 88
+Arogno 968
+Melide 1577
+Vauffelin 437
+Vico Morcote 377
+Morcote 706
+La Cote-aux-Fees 511
+Les Verrieres 736
+Torbel 511
+
+Orbe 5132
+Vallorbe 3098
+Worben 2042
+
+Lyss 10937
+Grossaffoltern 2810
+
+Affoltern am Albis 8928
+
+Obfelden 4039
 
 Weinfelden 9414
 
@@ -3000,984 +2527,1457 @@ Rheinfelden 10733
 Birsfelden 10232
 
 Riehen 20000
-Rehetobel 1779
-
-Oberriet 7675
-Eggersriet 2209
-Grossriet 10
-Ermisriet 10
-Hildisrieden 1882
-Tossriederen 205
-Feldbach 205
-Pitasch 120
-Spitzenmatte 231
-Spitz 13
-Spitzacher 8
-Spitzrain 8
-Grutrain 8
-Tarain 4
-Tartar 216
-Certara 79
-Chandolin 79
-Landolt 5
-Pilgersteg 5
-Vorder-Pilgersteg 12
-Pilgerhof 552
-Unter-Fagswil 221
-Ober-Fagswil 48
-Hittenberg 48
-Nafenhauser 48
-Ausserbinn 47
-Ausserwiler 5
-Tagerwilen 3414
-Bottighofen 1882
-Lottigna 65
-Lu 65
-Chlus 2
-Schloss Elgg 2
-Schloss Teufen 18
-Schlossrued 849
-Ballaigues 849
-Noiraigue 524
-Le Noirmont 1617
-Rorbas 1797
-
-Orbe 5132
-Vallorbe 3098
-Torbel 511
-La Cote-aux-Fees 511
-
-Sainte-Croix 4214
-Saint-Sulpice 595
-Saint-Gingolph 721
-Saint-Aubin-Sauges 2476
-Gorgier 1832
-Morgins 1000
-Morglen 12
-Hinter Mugern 12
-Ob der Muli 12
-Sprumuli 12
-Mulirain 6
-Lesirain 10
-Resirain 19
-Hankirain 5
-Neunkirch 1911
-Hitzkirch 2165
-Waldkirch 3137
-Abtwil 718
-
-Oetwil 4925
-Feldis 126
-Gusch 152
-Neuschwandi 68
-Moorschwand 68
-Tannertobel 68
-Hintertobel 3
-Vordertobel 10
-Vorderthal 1006
-Innerthal 170
-Bilten 2011
-Schanis 3404
-Schanz 24
-Beichlen 24
-Wendelbuck 24
-Adelboden 3541
-Kandersteg 1123
-Kandergrund 995
-Schonengrund 473
-Schwarzengrund 3
-Schwarzweid 9
-Schwarzmatt 4
-Escholzmatt 3192
-Eggiwil 2559
-Zaziwil 1535
-Bowil 1414
-Perroy 1315
-Oberror 6
-
-Oberrohrdorf 4001
-Niederrohrdorf 2784
-Kunten 1732
-
-Bremgarten 6543
-Unterlunkhofen 1263
-Oberlunkhofen 1880
-Schweikhof 14
-Schwobshof 14
-Fuchshof 6
-Fuchsloch 15
-Oberfuchsloch 5
-Vorderfuchsloch 14
-Vorder Mugern 14
-Vorder Erli 16
-Hinter Erli 11
-Hinterwis 8
-Hintere Wannwis 21
-Vordere Wannwis 17
-Blasimuhle 17
-Blasihof 20
-Basi 11
 
 Basel 164488
-Seltisberg 1412
-Magadino 1538
-Magden 3433
-
-Mohlin 9382
-Gachlingen 740
-Bogis-Bossey 700
-Bogenhaus 5
-Walzenhausen 2120
-
-Sankt Margrethen 5395
-Sankt Peter 180
-Sankt Stephan 1352
-
-Lutry 8774
-Paudex 1352
-Chexbres 2133
-Brestenegg 11
-Steg 79
-Stegen 21
-Gerensteg 5
-Geerenstock 5
-Geeristeg 11
-
-Biberist 7889
-
-Gerlafingen 4864
-Subingen 2852
 
 Binningen 14130
 
 Bottmingen 5912
-Hartmis 6
-Quarten 2715
-Evolene 1557
-Amden 1557
-Praden 119
-La Praz 123
-Prato 432
-Prampel 7
-Lampenberg 500
-Peney-le-Jorat 295
-Binziger 140
 
-Menzingen 3878
-Chronerain 52
-Oberschrot 1099
-Oberschlatt 105
-Schlattihof 5
-Gotschihof 82
-Tschiertschen 220
-Katsch 21
-Bratsch 490
-Mattschur 8
-Weienschur 8
-Sennschur 17
-Taglischur 17
-Stagli 135
-Malvaglia 1290
-Evionnaz 1001
-Brione 225
-Bodio 1001
-Bodacher 1
-Dachsleren 11
-Dachslern 294
-Valendas 294
-Undalen 49
-Himendal 4
-Kleiment 6
-Heimenstein 12
-Blumenstein 1154
-Blumetshalde 56
-Aretshalden 61
-Gottshalden 11
-Wolflishalden 8
-Wolflinswil 910
-Yvonand 2401
-Grandson 2735
-Concise 721
-Arconciel 670
-Morcote 706
-Vico Morcote 377
-Brusino Arsizio 437
-Russin 406
-Grimisuat 2332
-Simismoos 7
-Ramismuhle 505
-Rueun 505
-Moghegno 387
-Bruggacker 387
+Oberwil 10187
 
-Brugg 9196
+Therwil 9595
+Tagerwilen 3414
 
-Windisch 6689
-Lindist 11
-Lindau 710
-Waldau 16
-Hasenstrickrain 16
-Laupetswil 16
-Mittlere Rietwies 16
-Mittlere Langwies 27
-Mittler-Ruti 5
-Mittler-Weberruti 7
-Seemerruti 13
-Leeruti 34
-Herzogenmuhle 34
-Kittenmuhle 4
-Mitsal 4
-Fahr 4
-Fahrenhof 6
-Nahren 17
-Gehrensteg 6
-Ehrikon 234
-Pachterriet 234
-Girriet 6
-Birrwil 953
-Meisterschwanden 2459
-Sarmenstorf 2322
-Seengen 3288
+Munchwilen 4612
 
-Unterseen 5150
+Bronschhofen 4489
+Reppischhof 12
+Unter Reppischtal 8
+Unter-Chalchtaren 8
+Schalchen 130
+Chalchegg 63
+Chalchofen 2
+Kappelerhohe 2
+Meierskappel 1128
 
-Sursee 8014
-Geuensee 2168
-Buron 1951
+Rotkreuz 10439
 
-Triengen 4193
-Trient 137
-Durnten 1032
-Oberdurnten 534
-Furna 226
-Nidfurn 227
-
-Nidau 6696
-
-Biel/Bienne 55120
-Bietenholz 49
-Katzenholz 3
+Kreuzlingen 17655
+Klingenhof 6
+Stiegenhof 9
 Forenhof 3
-Paradies 3
-Kinderheim Paradis 23
-Hanfgarten 23
-Wolfgalgen 10
-Salgesch 1240
-Leuk 3386
-Leukerbad 1427
-Hessigkofen 263
-Kuttigkofen 241
+Josenhof 15
+Wiesenhof 5
+Kiesen 753
+Agarn 753
+Turtmann 1025
+Furtmuhle 8
+Muhlebach 98
+Wilhof 189
+Mathon 57
+
+Thonex 13057
+
+Onex 17302
+
+Plan-les-Ouates 10540
+
+Yverdon-les-Bains 23702
+Grandson 2735
+Grandcour 754
+Fontainemelon 1647
+Raineten 1
+Saleten 6
+Tableten 11
+Chammeten 11
+Gammetswil 5
+Egetswil 275
+Aegetswil 9
+Vorder-Aegetswil 22
+Schauben 22
+Oberschaubigen 5
+Schaugen 14
+Schauenberg 7
+Sonnenberg 20
+Sunnenberg 57
+Tufleten 57
+Tafleten 55
+Dagerlen 55
+Bruschagerten 25
+Brusch 2
+Bruschweid 37
+Niderdurstelen 37
+Kastelhof 37
+Tiefencastel 244
+Durstelen 153
+Bonler 153
+Tannler 8
+Tannacher 7
+Schomlet 7
+Kemleten 9
+Sibleten 10
+Hodleten 8
+Vorder-Risleten 9
+Vorder-Grut 105
+Froberg 105
+Obergfell 9
+Gfell 47
+Pestalozzi-Stiftung 47
+Johannestal 8
+Hannen 19
+Fluh 19
+Fluhli 1937
+Saint-Leonard 1937
+Benglen 1937
+Egglen 12
+Bruglen 132
+Saxeten 132
+Obersaxen 757
+Hagenbuch 757
+Hagenbuechen 8
+Buechhof 10
+Lochhof 25
+Luttenberg 25
+Hinteruttenberg 72
+Vorderuttenberg 53
+Lurtigen 180
 
 Kuttigen 5234
 
+Aarau 15501
+Erlinsbach 2258
+
 Schonenwerd 4732
-
-Kolliken 4059
-Eiken 1923
-
-Frick 4583
-Gipf-Oberfrick 3102
-Ober-Rick 6
-Unter-Rick 3
-Unter-Rennweg 14
-Rennweg 16
-Sennweid 4
-
-Sennwald 4768
-Grunwald 11
-Braunwald 421
-Jaun 615
-Niedergesteln 615
-
-Einsiedeln 13148
-Schindellegi 3174
-
-Wollerau 6883
-
-Richterswil 10189
-Trichtenhausen 7
-Lichtensteig 1945
-Mosnang 2936
-
-Kusnacht 11525
-
-Kilchberg 6511
-Chilchbuel 6
-Chilchli 4
-Chilacher 4
-Chilstig 5
-Festig 7
-Hostig 10
-Stiegenhof 9
-Klingenhof 6
-Klingnau 3069
-
-Wurenlingen 3741
-Brenles 162
-Les Brenets 1169
-La Brevine 723
-Motiers 814
-
-Moutier 7721
-Vicques 1741
-Vermes 355
-Mervelier 557
-Lieli 203
-Castiel 117
-Palagnedra 117
-Iragna 516
-Riedikon 516
-Werrikon 95
-Nanikon 1560
-
-Greifensee 5032
-Dreilinden 95
-Hirzwangen 44
-Wirzwil 7
-Schachenweid 7
-Schuenweid 9
-Folenweid 8
-Totenweg 4
-Heerenweg 5
-Heerenrainli 31
-Ober-Chruzlen 31
-Unter-Chruzlen 20
-
-Kreuzlingen 17655
-Kreuzstrasse 7
-Chruzstein 53
-Trimstein 497
-
-Stafa 5737
-Kehlhof 596
-Osco 109
-Bosco Gurin 77
-Gurtnellen 666
-
-Urtenen 5258
-Rutenen 6
-Mulenen 49
-Novalles 87
-Novazzano 2395
-Balerna 3456
-Baldern 2
-Erni 8
-Erniweg 9
-Friedliweid 9
-Muliweid 61
-Muliwisen 169
-Muhliwis 5
-Muniwis 478
-Buix 478
-Malix 710
-Malans 2051
-
-Sargans 5045
-Flasch 626
-Tasch 831
-
-Nyon 16797
-Montagny 1467
-Pfaffnau 2047
-Melchnau 1467
-Schnasberg 28
-Roswies 28
-Roswisli 5
-Nasswis 5
-Rossweid 8
-Hintere Rossweid 10
-Hintere Stollen 30
-
-Wadenswil 13269
-Bliggenswil 45
-Blitzingen 85
-Garstlig 85
-Ober Halden 85
-Unter Halden 18
-Fanser 18
-Ifang 9
-Jfang 17
-Scheidweg 17
-Pfruendweid 119
-Bruschweid 37
-Kastelhof 37
-Schmidruti 37
-Schmitteneich 5
-Spitzenrain 5
-Spitzacker 6
-Ober-Spitzwies 7
-Unter-Spitzwies 9
-Hinterhornli 9
-Althornli 2
-Veltheim 1374
-Villnachern 1473
-Illnau 2964
-Tagernau 27
-Tagelswangen 1606
-Grosswangen 2941
-Grosssee 5
-Grossegg 5
-Tossegg 16
-Segel 35
-Ziegelhus 2
-Ziegelhutte 11
-Ziegelhutten 32
-Aegert 32
-Aegerten 160
-Aegertenwis 7
-Oberherten 15
-Herti 8
-Hunert 8
-Chung 104
-Ober-Langenhard 104
-Unter-Langenhard 79
-Casima 79
-Cimadera 99
-Colla 624
-Cresciano 624
-Mergoscia 204
-Talacher-Haufland 214
-Ober-Huttenacher 10
-Gibisnut 10
-Gibisnud 9
-Biswind 11
-
-Ruswil 6432
-Oberneuforn 965
-Ohmstal 321
-Rumstal 14
-Schaugen 14
-Schauben 22
-Oberschaubigen 5
-Schauenberg 7
-Schollenberg 11
-Rutiwis 11
-Mulruti 6
-Vaulruz 916
-Treyvaux 1349
-Belfaux 2286
-Corminboeuf 1702
-Cordast 839
-Jeuss 506
-Bussy 320
-Jussy 1356
-Puplinge 2163
-
-Geneva 183981
-Les Genevez 496
-Les Geneveys-sur-Coffrane 1458
-
-Villars-sur-Glane 10021
-Avry-sur-Matran 1326
-Grolley 1575
-Givisiez 3010
-Siviriez 922
-Mezieres 1060
-Gruyeres 1646
-Vuadens 1835
-Bachgaden 29
-Hochgass 9
-Froschgullen 9
-Huebhansen 9
-Hansler 7
-Amslen 8
-Haslenzopf 416
-Ellikon am Rhein 78
-Stein am Rhein 3224
-Hemishofen 394
-Villigen 1381
-Darligen 390
-Scanfs 701
-Miege 925
-Arzier 1919
-Arzo 1188
-Farzel 7
-Hirzel 322
-Hirzrain 8
-Unter-Chalchtaren 8
-Unter Reppischtal 8
-Reppischhof 12
-Chippis 1556
-Corippo 23
-Lipperschwendi 110
-Nubruch 60
-Steinbruch 36
-Pestalozzi-Stiftung 47
-Stifelwis 70
-Cerentino 70
-Sementina 2695
-Monte Carasso 2336
-
-Bellinzona 16572
-Camorino 2358
-Lumino 1190
-
-Minusio 6653
-Vira 646
-
-Visp 6576
-Aespen 8
-Aespli 7
-Schopli 4
-Chopfholz 16
-Im Chopfholz 7
-Schonholzerswilen 728
-Martigny-Combe 1731
-
-Martigny-Ville 14768
-Aire-la-Ville 1100
-Eschlikon 3425
-
-Plan-les-Ouates 10540
-Lucens 2192
-Yens 997
-Sottens 209
-Verdabbio 157
-Parpan 262
-Hauptikon 157
-Knonau 1077
-Knaus 15
-Tecknau 856
-Rekingen 856
-Wasterkingen 521
-Egerkingen 2923
-
-Oensingen 4609
-
-Balsthal 5863
-Holderbank 691
-Robankli 149
-Robasacco 115
-Mauborget 115
-Damvant 115
-Chevenez 583
-
-Sevelen 4392
-Siselen 620
-Hedingen 2835
-
-Affoltern am Albis 8928
-Grossaffoltern 2810
-Grossacher 9
-
-Sissach 5873
-Sisikon 368
-Wikon 1218
-Kallnach 1545
-Radelfingen 1218
-Seedorf 2920
-Bellmund 1311
-Mund 580
-Frakmund 6
-Franzruti 6
-An der Strass 6
-Alte Frauenfelderstrasse 15
-Alterau 9
-Bolteracher 26
-Bol 4
-Bonfol 617
-Confignon 3425
-Bellevue 3674
-
-Versoix 11467
-Roveredo 129
-San Vittore 733
-Riva San Vitale 2390
-Castel San Pietro 2150
-Beatenberg 1188
-Hinzenberg 9
-Jungholz 9
-Haltbergholz 12
-Bergheim 161
-Uerkheim 1302
 Schoftland 3310
-Safenwil 3201
-Bubenwies 19
-am Katzensee 19
-Chatzentobel 6
-Betzental 10
-Butzen 69
-Buttes 629
-Buttenhardt 350
-
-Thayngen 4120
-Iseltwald 394
-Altwi 12
-Hegimoos 12
-Vorder Langimoos 9
-
-Le Landeron 4278
-Oberonz 879
-Halbinsel Au 14
-Albinen 263
-Engelbirg 6
-Sigiloch 6
-Lochern 2
-Roche 870
-
-La Tour-de-Peilz 10522
-Les Ponts-de-Martel 1278
-Nidermartel 10
-Niderhus 6
-Schniderbuck 11
-Im mittleren Amet 11
-Hettlingen 2221
-Grossholz 42
-Grossrain 6
-Chasrain 15
-Chasern 7
-Mase 216
-Mastrils 559
-Alpthal 559
-Steingass 2
+Uerkheim 1302
+Werkhof 18
 Herrgass 26
-Agasul 58
-Asuel 207
-Trey 207
-Charmoille 327
-Charmey 1713
-Champvent 344
-Campo 80
-Cama 469
-Allaman 380
+Blattenbach 26
 
-Flamatt 4922
-Albligen 475
-Ruschegg 1697
-Thierachern 2040
-Neerach 1435
-Steinmaur 1438
+Spreitenbach 10562
+Tambrig 1
 
-Rebstein 4163
+Brig 5000
 
-Altstatten 10574
+Walenstadt 5000
+Lens 3497
+Chermignon-d'en Haut 2773
+Montana 2301
+Randogne 3157
 
-Diepoldsau 5401
+Sierre 15752
+Chalais 2665
+Grone 2039
+Grono 896
+Roveredo 129
+Provence 371
+Avenches 2758
 
-Au 6673
+Grenchen 15927
 
-Arbon 12933
-Villars-sur-Ollon 2500
-Villaz-Saint-Pierre 1093
-Le Bry 307
-Ludiano 307
-Astano 279
-Medels im Rheinwald 35
-Krinau 279
-Walkringen 1817
+Bettlach 4834
+Mettli 20
+Herschmettlen 202
+Asp-Mettlen 32
+Stettlen 2884
 
 Worb 11053
 Worbig 4
-Horben 3
-Turbenthal 3109
-Kohlgrub 8
-Kohlwies 9
-Ettenbohl 21
-Bonstetten 2260
-Unter-Mettmenstetten 5
-Ober-Mettmenstetten 12
-Kriegstetten 1116
-Saas-Grund 1116
-Grundbuck-Gassli 8
-Sporrweggli 8
-Porsel 386
-Maladers 500
-Ladir 122
-Fluhli 1937
+Mitsal 4
+Fahr 4
+Fahrni 722
+Teuffenthal 183
+Eriz 504
+Perroy 1315
+Oberror 6
+Oberrohr 3
+
+Oberrohrdorf 4001
+Niederrohrdorf 2784
+Rohr 2849
+Rohrbach 1386
+Gampel 1386
+Gampelen 732
+Bruttelen 625
+Muntschemier 1333
+Fraschels 484
+Frasco 116
+Bignasco 311
+Cavergno 481
+Borgnone 144
+Greppen 900
+Oppens 179
+Musli 25
+Auslikon 331
+Geeren 97
+Geerenstock 5
+Heerenweg 5
+Heerenrainli 31
+Hohenrain 2090
+Schonrain 9
+Schonengrund 473
+Schwellbrunn 1517
+Brunnadern 912
+
+Kaltbrunn 3803
+Wurstbrunnen 9
+Schinzbrunneli 4
+Ebni 4
+Rees 26
+Asp 18
 Rotenfluh 26
+Rotenblatt 11
+Ober-Rotenblatt 8
 
 Kloten 16289
-Otelfinger-Str. 6
+Totenweg 4
+Echtlenweg 6
+Echtlen 17
+Breitlen 2
+Breiti 8
+Widenreiti 3
+Schwarzengrund 3
+Schwarzenberg 1591
+
+Malters 6181
+
+Littau 16121
+
+Emmen 26889
+Hemmental 555
+Beringen 3216
+Lohningen 1124
+Lohn 649
+
+Thayngen 4120
+Fangen 135
+Ifang 9
+Jfang 17
+Gschwend 17
+Schwendi 17
+Lipperschwendi 110
+Usserbreiten 110
+Hofacker 193
+Hofacher 64
+Ferchacher 61
+Furen 61
+Seewadel 61
+Stadel 875
+Adelboden 3541
+Kandersteg 1123
+Kandergrund 995
+Neugrund 9
+Saas-Grund 1116
+
+Gerlafingen 4864
+
+Biberist 7889
+Geeristeg 11
+Ristet 54
+Fistel 84
+Hohle 84
+Hohlgass 142
+Clarmont 142
+Claro 2296
+Lumino 1190
+Gorduno 671
+
+Gordola 3974
+Gordevio 818
+Cevio 1844
+Evionnaz 1001
+Vionnaz 1719
+Vouvry 3296
+Leysin 3066
+
+Blonay 5244
+
+La Tour-de-Peilz 10522
+La Tour-de-Treme 3686
+
+Bulle 12095
+Bullet 595
+Saint-Sulpice 595
+
+Sainte-Croix 4214
+Baulmes 931
+Ulmerhof 8
+Romerhof 8
+Weierhof 5
+Weier 5
+Zweierhof 65
+Lu 65
+Lottigna 65
+Bottighofen 1882
+Steighof 3
+Steigweg 1
+Steigbuhl 8
+Burenbuhl 8
+Buren an der Aare 983
+Oron-la-Ville 1198
+Meinisberg 1198
+Pieterlen 3317
+
+Lengnau 7336
+Klingnau 3069
+
+Wurenlingen 3741
+Turgi 2982
+
+Gebenstorf 4100
+Birmenstorf 2462
+Sarmenstorf 2322
+Seengen 3288
+Engelburg 10
+Engelbirg 6
+Rongellen 38
+Krahstel 38
+Marchstein 11
+Steinland 11
+
+Rebstein 4163
+
+Balgach 4019
+
+Au 6673
+
+Sankt Margrethen 5395
+Sankt Peter 180
+Sankt Niklaus 2352
+Sankt Stephan 1352
+
+Lutry 8774
+Paudex 1352
+
+Epalinges 7706
+
+Preverenges 4695
+
+Morges 14117
+Morgensunn 9
+Ober-Morgen 3
+
+Horgen 15973
+Rifacher 7
+Hubacher 24
+Hubacker 7
+Talacker 18
+Burgelacker 164
+
+Ennetburgen 4226
+Altburg 82
+Gotschihof 82
+Tschiertschen 220
+Schiers 2423
+Fanas 382
+Grusch 1243
+Ruschegg 1697
+Heitenried 1106
+Wallenried 458
+Wallenbuch 120
+Holgass 266
+Hochgass 9
+Ghoch 37
+Hochwald 1254
+Hochwacht 6
+Owachs 4
+Dachsegg 12
+Dachslern 294
+Dachsleren 11
+Hansler 7
+Huebhansen 9
+Fanser 18
+Ober-Gisenruti 18
+Unter-Gisenruti 32
+Unter-Erlosen 42
+Ober-Erlosen 52
+Ober-Edikon 5
+Riedikon 516
+Monchaltorf 2779
+Amenloch 88
+Varen 1203
+Alvaschein 152
+Gusch 152
+Neuschwandi 68
+Moorschwand 68
+Lenzen 68
+Ennerlenzen 4
+Lenz 484
+Koblenz 1651
+Leibstadt 1287
+Schwaderloch 726
+Altschwandi 8
+Baltschieder 1158
+Bitsch 802
+Katsch 21
+Bratsch 490
+Agra 490
+Caslano 3655
+Melano 1133
+
+Tramelan 4186
+Trub 1503
+La Heutte 471
+Pery 1342
+Champery 1191
+Mex 538
+
+Fully 5922
+Charrat 1156
+Charmey 1713
+Champvent 344
+Cerniat 344
+Erni 8
+Erniweg 9
+Zuriweg 5
+Landolt 5
+Chandolin 79
+Schanz 24
+Schanis 3404
+Bilten 2011
+Niederurnen 3657
+Oberurnen 1932
+
+Nafels 3978
+Mollis 3014
+Willisau 3125
+Zwillikermoos 6
+Bergermoos 7
+Vergeletto 89
+Tablat 89
+Sulz 1244
+Pignieu 105
+Pampigny 843
+
+Bussigny 7408
+Savigny 3440
+
+Saviese 5575
+Grimisuat 2332
+Grimentz 444
+Kleiment 6
+Kleinlutzel 1296
+Liesberg 1210
+Soyhieres 436
+
+Delemont 11315
+Vissoie 436
+Vicques 1741
+
+Moutier 7721
+Stierva 142
+Apples 1201
+Doppleschwand 688
+Capolago 688
+Riva San Vitale 2390
+Castel San Pietro 2150
+
+Vetroz 4137
+Veltheim 1374
+Schleitheim 1723
+Beggingen 510
+Bargen 236
+Tanay 1124
+Guntmadingen 249
+Trasadingen 558
+Tesserete 1533
+Cagiallo 558
+Cadro 1596
+
+Pregassona 7548
+Cossonay 2795
+Gollion 679
+Vaulion 444
+Vaulruz 916
+Vuadens 1835
+Riaz 1894
+Marsens 1571
+Sorens 837
+Sorengo 1629
+Loren 12
+Schoren 12
+Looren 21
+Stegen 21
+Steg 79
+Gerensteg 5
+Gehrensteg 6
+Felsbach 6
+Oberdiessbach 2860
+
+Wichtrach 3843
+
+Konolfingen 4562
+Zaziwil 1535
+Eggiwil 2559
+Bowil 1414
+Arni 963
+Samedan 2700
+Krauchthal 2339
+Hindelbank 1994
+Batterkinden 2748
+Kuttigkofen 241
+Hessigkofen 263
+Leuk 3386
+Leukerbad 1427
+Albinen 263
+Halbinsel Au 14
+Albishorn 4
+Mittelalbis 10
+Mittler-Wolfbuhl 10
+Ober-Wolfensberg 6
+Greinsberg 2
+Oberreinsberg 10
+Sulch 10
+Ramsel 10
+Ramsen 1316
+Gottlieben 290
+Mottli 8
+Hettlingen 2221
+Dorf Riet 130
+Dorf Aesch 341
+Dorf Hunikon 153
+Sunikon 229
+Schleinikon 176
+Tufwis 162
+Oberweningen 919
+Montignez 229
+Mont-la-Ville 342
+Aire-la-Ville 1100
+Dardagny 1329
+Guarda 172
 Unterengstringen 2675
 
 Oberengstringen 5805
 Orflen 12
-Fleurier 3681
-Berg Waltenstein 48
-Kluszelg 1
-Steigweg 1
-Tiefmoos 11
-Bergermoos 7
-Zwillikermoos 6
-Kellerhofli 6
-Felderhof 4
-Weierhof 5
-Weier 5
-Zweierhof 65
-Ulmerhof 8
-Baulmes 931
-Vaulion 444
-Gollion 679
-Broglio 103
-Bebikon 25
-Nebikon 2241
-Wauwil 1657
-Pfeffikon 678
-Soral 678
-Wuppenau 957
-Reipen 13
+Mulflen 21
+Rumpis 21
+Rueggshausen 21
+Merishausen 668
+Saulcy 235
+Lajoux 668
+Saint-Ursanne 683
+Bourg-Saint-Pierre 207
+Charmoille 327
+Asuel 207
+Cornol 894
+Cornaux 1557
+Amden 1557
+Evolene 1557
+Wiler 541
+Ausserwiler 5
+Chrummacker 5
+Moosacker 5
+Sack 119
+La Praz 123
+Ropraz 358
+Vicosoprano 469
+Prangins 3172
+Gingins 958
+Trelex 1092
+Schnottwil 958
+Nottwil 2911
+Knutwil 1722
+Waldstatt 1722
+
+Altstatten 10574
+Rehetobel 1779
+Tobelmuli 11
+Rietmuli 11
+Riethof 11
+Laufenriet 11
+Langenriet 5
+Langenmoos 22
+Ober-Langenhard 104
+Unter-Langenhard 79
+Casima 79
+Blasimuhle 17
+Blasihof 20
+Freihof 15
+Heidihof 3
+Scheid 139
+Scheidweg 17
+Heidertal 8
+Nidertal 67
+Neuthal 67
+Neutal 46
+Calpiogna 46
+Chiggiogna 410
+Osogna 994
+Piazzogna 395
+Cadenazzo 1906
+San Nazzaro 654
+Soazza 371
+Novazzano 2395
+Novaggio 794
+Bioggio 1784
+Muggio 218
+
+Boudry 4886
+Boudevilliers 754
+Villigen 1381
+Albligen 475
+
+Flamatt 4922
+Allaman 380
+Trullikon 572
+Billikon 66
+Felsenegg 66
+Felsengrund 19
+Toggwil 19
+Roggwil 3673
+Wolfwil 2079
+Bannwil 652
+Safenwil 3201
+Bottenwil 800
+Andeer 800
+Wandel 17
+Baltsberg 17
+Tisenwaltsberg 50
+Erziehungsanstalt 50
+Hagenstal 41
+Balchenstal 14
+Rumstal 14
+Ohmstal 321
+Oberneuforn 965
+
+Klosters Serneus 4044
+Zernez 1053
+Peccia 175
+Lavin 175
+
+Davos 11024
+Davos Wiesen 360
+Filisur 502
+Silisegg 22
+Tossegg 16
+Grossegg 5
+Grosssee 5
+Grossrain 6
+Chasrain 15
+Heurain 7
+Scheuren 707
+Scheunberg 12
+Hegimoos 12
+Vorder Langimoos 9
+Vorder-Langmoos 28
+Vorder-Luwis 8
+Vorder-Dienstbach 15
+Stubenloo 15
+Trockenloo 289
+Rickenbach 705
+Langrickenbach 1031
+Rickenbach bei Wil 2714
+
+Wil 16808
+Schnasberg 28
+Wueri 28
+Mutzmalen 28
+Attalens 2380
+Talegg 6
+Kies 6
+Sunnebad 6
+Sunnau 5
+Sonnau 2
+Veysonnaz 408
+Jeuss 506
+Cordast 839
+Courlevon 276
+Courgevaux 1057
+
+Fribourg 32827
+Givisiez 3010
+Corminboeuf 1702
+Belfaux 2286
+Grolley 1575
+Avry-sur-Matran 1326
+
+Villars-sur-Glane 10021
+Villars-sur-Ollon 2500
+
+Arbon 12933
+Arboldswil 509
+Reigoldswil 1509
+Titterten 427
+Waldenburg 1337
+Lalden 696
+Chevroux 391
+Chevenez 583
+Jenins 745
+
+Porrentruy 6521
+Fontenais 1289
+Punten 17
+Punt 12
+Trankibach 12
+Rank 30
+Tagerstrank 11
+Trans 51
+Scharans 867
+Scharler 9
+Schangnau 912
+Lichtensteig 1945
+Ruthi 1945
+
+Wattwil 8089
+
+Ebnat-Kappel 4852
+Krummenau 1453
+Hemberg 921
+Bergli 5
+
+Aarberg 3911
+Seedorf 2920
+Kirchlindach 2553
+Lindau 710
+Tagelswangen 1606
+Malix 710
+Grafstal 501
+Grafschaft 10
+Schafisheim 2758
+Domdidier 2353
+Faoug 627
+Bas-Vully 1963
+Lully 714
+Bussy 320
+Jussy 1356
+Sankt Gallenkappel 1811
+Lenk 2268
+Haslibach 15
+Mulibachli 11
+Heispel 11
+Gheist 7
+Peist 191
+Loo 191
+Portalban 322
+Schleetalbach 6
 Schleipfi 22
-Opfikon 1277
-Les Bois 1104
-Les Breuleux 1277
-Les Bayards 354
-Les Verrieres 736
-Hinteres Chloster 4
-Hinter-Marchlen 12
-Hinter-Mistlibuhl 4
-Rutibuhl 31
-Chefi 31
-Pfeffingen 2201
-Pfei 7
-Zapfen 5
-Ryfen 5
-Furrershus 5
-Innerferrera 39
-Marmorera 58
-Garwied 39
-Noreaz 501
-Loren 12
-Schoren 12
-Looren 21
+Rauchler 11
+Buhler 1612
+Vernayaz 1612
+Gais 2778
+Urnasch 2304
+Ludetswil 27
+Ruetswil 31
+Kleinbaretswil 33
+Baretswil 1313
+Geretswil 13
+Heuberg 13
+Stampf 13
+Stampfi 13
+Stampfental 7
+Stampa 588
+Bivio 215
+Sils-Segl Maria 735
+
+St. Moritz 4952
+Celerina 1241
+Krinau 279
+Torre 279
+Worrenberg 6
+Sparrenberg 2
+Zopf 2
+Haslenzopf 416
+Hugsam 376
+Dursenen 78
+
+Sursee 8014
+Schenkon 2616
+Gunzwil 1925
+
+Uzwil 12111
+
+Oberuzwil 5616
+
+Zuzwil 4226
+Wirzwil 7
+Hirzwangen 44
+Bewangen 9
+Huntwangen 705
+Widum 705
+
+Wetzikon 12969
+Uetzikon 48
+Raad 48
+Nafenhauser 48
+Walzenhausen 2120
+Trichtenhausen 7
+Luckhausen 24
+Durenmoos 24
+Kammoos 14
+Fromoos 19
+Rueggental 19
+Loffler 19
+Ravensbuhl 19
+Gravesano 1062
+Cadempino 1351
+Wittnau 1062
 Mugena 147
-Cagiallo 558
+Gugen 2
+Splugen 400
+Vattis 400
+Attinghausen 1515
+Gutighausen 232
+Castasegna 179
+Dalpe 179
+Niderruti 179
+Seemerruti 13
+Aaruti 59
+Horuti 2
+Eggruti 9
+Menzengrut 57
 
-Allschwil 18189
-Rellsten 9
-Dubelstein 14
-
-Dubendorf 19882
-Gubel 9
-Soubey 128
-Ob dem Hof 22
-im Hintergraben 9
-Wurstbrunnen 9
-Moosbrunnen 8
-Wolfsbrunnen 8
-Kollbrunn 1848
-Suhner 10
-Rhyner 11
-Suchy 342
+Menzingen 3878
+Chronerain 52
+Rebrain 342
 Medeglia 342
 Miglieglia 241
-Trugli 7
-Hundsruggen 18
-Luggenbuel 12
-Hussenbuel 137
+Malvaglia 1290
+
+Biasca 5885
+Prugiasco 184
+Luven 234
+Rueun 505
+Moghegno 387
+Bruggacker 387
+Bruggacher 12
+Haltbergholz 12
+Oberhaltberg 20
+Ober Haltberg 11
+Rutiwis 11
+Muniwis 478
+Buix 478
+Geroldswil 3681
+
+Diepoldsau 5401
+Bleiki 28
+Blatzwisen 3
+Muliwisen 169
+Muhliwis 5
+Eichmuhle 12
+Muhlehorn 435
+Muhlehalde 1220
+
+Thalwil 13296
+
+Kusnacht 11525
+
+Kussnacht 11777
+Walchwil 3268
+
+Unterageri 7973
+
+Zug 23435
+
+Baar 20546
+Baaregg 46
+Baareggstrasse 8
+Hunert 8
+Aespen 8
+Aespli 7
+Aspli 7
+Nasplen 16
+Dunaspi 102
+Im Riet 60
+Fusio 60
+Brusio 1152
+Poschiavo 3428
+
+Chiasso 8060
+Monte Carasso 2336
+
+Bellinzona 16572
+Camorino 2358
+Contone 788
+Bironico 535
+Chironico 399
+Anzonico 116
+Giornico 964
+Valzeina 116
+Balzenbuel 1
+Hinzenberg 9
+Jungholz 9
+Zumholz 447
+Lueholz 7
+Rappenholz 7
+Bietenholz 49
+Novalles 87
+Blumenberg 123
+Tumlen 3
 Husbuel 3
 Heligsbuel 5
 Hauebuel 7
-Buelreben 151
-Brot-Dessous 86
-Saicourt 574
+Chirchbuel 132
+Raat 132
+Bliggenswil 45
 Courtemaiche 707
-Ober-Rengg 45
-Zil 76
-Zihl 7
-Letzi 13
-Hatzingen 403
-Balmwies 94
-Luven 234
-Le Bouveret 800
+Saicourt 574
+Brot-Dessous 86
+Herferswil 86
+Rifferswil 604
+Hauptikon 157
+Parpan 262
+Salux 209
+Knonau 1077
+Ramosch 485
+Oberbosch 13
+Ditikerhof 13
+Kellerhofli 6
+An der Strass 6
+Oberes Durenmoos 6
+Vorderes Maurenmoos 6
+Trinenmoos 7
+Tiefmoos 11
+Hinter-Tiefenbach 16
+Hasenstrickrain 16
+Laupetswil 16
+Herbetswil 581
 
-Fribourg 32827
-Bonnefontaine 487
-Montbovon 250
-Wilchingen 2193
-Volken 250
-Vrin 273
-Celerina 1241
+Balsthal 5863
+Riethalde 6
+Haldengut 9
+Gottshalden 11
+Bramenhalden 24
+Wendelbuck 24
+Ependes 1006
 
-St. Moritz 4952
-Bitziberg 32
-Sitzbuhl 12
-Trankibach 12
-Dunkelbach 3
-Schleetalbach 6
-Rosli 6
-Weisslingen 1975
-Chene-Paquier 108
-Le Paquier 208
+Marly 7653
+Vals Platz 1006
+Tanzplatz 3
+Sussplatz 7
+Platte 74
+Diezikon 74
+Palagnedra 117
+Mohren 8
+Nahren 17
+Chnolli 17
+Ger 17
+Seiler 17
+Schiffli 17
+Schifflande 8
+Fallanden 2100
+Landetspiel 5
+Birmenstal 5
 
-Le Locle 10279
-Le Vaud 1104
+Birmensdorf 4772
 
-Le Chenit 4062
-Saint-Cergue 1816
-Samnaun 769
+Dielsdorf 4671
+Schibler 835
+Cherschiben 8
+Verscio 1009
+Avegno 518
+Intragna 864
+Iragna 516
+Dreilinden 95
+Werrikon 95
+Lutzelsee 44
+Faltigberg 95
+Kirch-Dinhard 73
+Freudwil 73
+Freudenberg 10
+Guldenberg 8
+Goldenberg 10
+Burstel 10
+Niedergesteln 615
+Niedersaum 17
+Gersau 1983
+Sisikon 368
+Illgau 752
+Muotathal 3548
+Elektrohof 2
+Baldern 2
+Herdern 908
 
-Koniz 37196
-Kehrsatz 3636
-Oberdiessbach 2860
+Pratteln 14877
+Sattel 1597
+Rothenthurm 2098
+Mastrils 559
 
-Uster 23279
-Mustair 795
-Airolo 1559
-Ulrichen 246
-Habsburg 444
-Lutisburg 1476
-Kyburg 197
-Zaniken 97
-Hendschiken 930
-Othmarsingen 2267
-Frohmatt 7
-Neumatt 17
-Schurmatt 6
-Hofschur 7
+Einsiedeln 13148
+Schindellegi 3174
+Im Schindlerbuhl 10
+Grindlen 10
+Stucki-Bondler 199
+Lessoc 199
+Dombresson 1659
+
+Hombrechtikon 4767
+Kniebreche 10
+Wagenbreche 8
+Wagenbach 7
+Neufuhr 7
+Farzel 7
+Hirzel 322
+Hirzrain 8
+Goldrain 7
+Goldbuck 6
+Grundbuck-Gassli 8
+Loobuck 8
+Schniderbuck 11
+Niderhus 6
+Sennhof-Oberhub 296
+Gipf-Oberfrick 3102
+
+Frick 4583
+Hornussen 845
+Hornen 64
+Muliweid 61
+Friedliweid 9
+Friedheim 14
+Waldheim 4
+Waldhof 13
+Radhof 10
+Waidhof 10
+Waid 12
+Langbreiten 12
+Breitenerli 6
+Breitacher 11
+Bollenruti 11
+Leeruti 34
+Herzogenmuhle 34
+Kittenmuhle 4
+Hirsmuhle 61
+Ramismuhle 505
+Turbenthal 3109
+Wila 1387
+Giselstuden 8
+Dubelstein 14
+Gubel 9
+Froschgullen 9
+Unter-Spitzwies 9
+Ober-Spitzwies 7
+Spitz 13
+Reipen 13
 Furthof 13
 Riedthof 9
 Abischthof 4
 Grischhei 9
-Ober Oerischwand 6
-Unter-Oedischwand 6
-Ober-Oedischwand 13
-Altschwandi 8
-Unter Oerischwand 18
-
-Unterageri 7973
-Hamikon 451
-Tamins 1160
-Elm 729
-Tobelmuli 11
-
-Gstaad 9200
-Ruebisberg 15
-Chateau-d'Oex 3034
-Staldenried 589
-Neirivue 329
-Bellerive 599
-Faoug 627
-Avenches 2758
-Provence 371
-Cugy 1523
-Schafisheim 2758
-Bas-Vully 1963
-
-Kerzers 4459
-Neuacker 12
-Amtacker 6
-Langjoch 6
-Langbreiten 12
-Breitenlandenberg 5
-Luft 5
-Sunft 10
-Sunnmatt 7
-Morgensunn 9
-Ober-Morgen 3
-Widenreiti 3
-Unter-Wechsel 3
-Station Glattfelden 3
-
-Obfelden 4039
-Ramosch 485
-Steinchramen 6
-Husliweber 6
-Weberhaus 14
-Speckli 14
-Speckhof 4
-Werkhof 18
-Weidhof 5
-Radhof 10
-Sibleten 10
-Hodleten 8
-Vorder-Risleten 9
-Schonrain 9
-Rebrain 342
-Kniebreche 10
-Wagenbreche 8
-Johannestal 8
-Obere Tanne 8
-Schifflande 8
-Schiffli 17
-Schinzbrunneli 4
-Owachs 4
-Knup 4
-Rees 26
-Seefeld 9
-Maienfeld 2435
-Laubenfelsen 7
-Neufuhr 7
-Neutal 46
-Calpiogna 46
-Hakab 46
-Habkern 666
-Luthern 1392
-
-Epalinges 7706
-Puidoux 2398
-Punt 12
+Kohlwies 9
+Kohlgrub 8
+Giessen 8
+Sagissen 8
+Messen 1018
+Balm bei Messen 107
 Orpund 2488
 Orvin 1181
+Rue 1108
+Gals 674
+Vandoeuvres 2826
+Ins 2826
+
+Kerzers 4459
+Zizers 3009
+Trun 1243
+Kublis 836
+Arosa 2307
+Acquarossa 1814
+Quarten 2715
+
+Flums 4848
+
+Sargans 5045
+Rovio 729
+Tenna 91
+Sarn 121
+Cazis 1641
+Rodels 293
+Rances 434
+Grancy 308
+Chancy 942
+
+Meyrin 19772
+
+Veyrier 9800
+Fleurier 3681
+Berg Waltenstein 48
+Ober-Fagswil 48
+Ober-Augwil 66
+Garwied 39
+Oberwies 14
+Bubenwies 19
+
+Dubendorf 19882
+Heiget 54
+Ladir 122
+Ebmatingen 2278
+Ermatingen 2453
+Guttingen 1336
+Altnau 1887
+Steckborn 3229
+Stechelberg 255
+Girenbad 156
+Le Noirmont 1617
+Rorbas 1797
+Angelrain 139
+Fuldera 136
+Lochwis 71
+Eichwis 168
+Ferch 168
+Tossriederen 205
+Feldbach 205
+Seefeld 9
+Bad 9
+
+Geneva 183981
+Les Genevez 496
+Fiesch 1003
+Habsburg 444
+Burghof 64
+Egghof 24
+Reitbach 14
+Speckli 14
+Speck 17
+Speckhof 4
+Schweikhof 14
+Schwobshof 14
+Rutschwil 194
+Rutschberg 31
+
+Kilchberg 6511
+Campo 80
+Lee 76
+Melchsee-Frutt 70
+Melchnau 1467
+Pfaffnau 2047
+Vordemwald 1661
+Vorderi Siten 245
+Arn 326
+Dizy 245
+Husliweber 6
+Langeberg 10
+Stangen 9
+Grosswangen 2941
+Rossweid 8
+Hintere Rossweid 10
+Hintereichen 40
+Indemini 40
+Haslaub 40
+Sonnental 40
+Oberdurnten 534
+Durnten 1032
+Tal 20
+Chabrey 221
+Neuhus 339
+Neuhof 13
+Riset 13
+Tufi 13
+Letzi 13
+Gisihegi 17
+Neumatt 17
+Silmatt 5
+Sihlmatt 15
+Sihlhalde 11
+Basi 11
+Rhyner 11
+Brestenegg 11
+Chexbres 2133
+Puidoux 2398
+Maladers 500
+Lampenberg 500
+Beatenberg 1188
+Arzo 1188
+Meride 333
+Brusino Arsizio 437
+Pura 1069
+Sessa 642
+Mase 216
+Cimadera 99
+Colla 624
+Cresciano 624
+San Vittore 733
+Cama 469
 Arvigo 92
 Mesocco 1262
-Solgen 10
-Freudenberg 10
-Freudwil 73
-Kirch-Dinhard 73
+Bodio 1001
+Faido 1512
+Prato 432
+Airolo 1559
+Someo 286
+Muralto 2818
+
+Fehraltorf 3767
 Wermatswil 774
 Hermatswil 111
-Rossura 55
-Clugin 25
-Pignieu 105
-Wohnschule 38
+Hermance 956
+Coppet 2124
+Founex 2254
+Samnaun 769
+Borex 833
 
-Uznach 5561
-Sigirino 440
-Girenbad 156
-Pfungen 2369
+Nyon 16797
+Darligen 390
+Scanfs 701
+Miege 925
+Gilly 925
+Arzier 1919
+Saint-Cergue 1816
+Les Bayards 354
+Yens 997
+Bogis-Bossey 700
+La Sarraz 1734
+Bavois 662
+Chavornay 2841
+Donneloye 318
+Yvonand 2401
+Wolflinswil 910
+Eptingen 495
+Cugy 1523
+
+Bevaix 3866
+
+Cortaillod 4410
+Saillon 1598
+Saignelegier 2194
+Pleigne 394
+Dorflingen 890
+Hitzkirch 2165
+Neunkirch 1911
+Rafz 3233
+Dillhaus 153
 Tossallmant 349
+Embd 349
+Pfungen 2369
+Gelfingen 805
+Otelfinger-Str. 6
 
-Bad Zurzach 4213
-Koblenz 1651
-Bleiki 28
-Mutzmalen 28
-Falera 559
-Faltigberg 95
-Tumiger 27
-Steckborn 3229
-Dickbuch 128
-Faichruti 22
-Kulpen 22
+Hilterfingen 3841
+
+Thun 42136
+Muhlethurnen 1265
+
+Solothurn 14853
+
+Winterthur 91908
+Bachgaden 29
+Risi 29
+Neubad 29
+Corippo 23
+Kinderheim Paradis 23
+Alt-Rheinau 46
+Hakab 46
+Chefi 31
+Widmen 60
+Bodmen 51
+Ebertswil 429
+Prampel 7
 Kuhwald 7
-Aeberliswald 10
-Sankt Niklaus 2352
-Grengiols 496
-Reconvilier 2291
-La Heutte 471
-Heuel 12
-Im Buel 212
-Guarda 172
-Mumpf 1425
-Buus 1005
-Welschenrohr 1179
-Sobrio 81
-Luzein 1153
+Iseltwald 394
+Wohnschule 38
+Clugin 25
+
+Koniz 37196
+Toffen 2277
+
+Dietikon 20893
+Boggsmatten 11
+Im Latten 63
+Alpli 37
+Bapur 37
 Riein 63
 Sanggelen 3
-Heidihof 3
-Ditikerhof 13
-Gisihegi 17
-Giselstuden 8
-Oberkempten 900
-Nods 684
-Vuiteboeuf 451
-Pailly 430
-Soazza 371
-Alvaschein 152
-Zwischbergen 127
-Melchsee-Frutt 70
-Aemet 14
+Langgraben 14
+im Hintergraben 9
+Rietgrabenhang 761
+Fahy 426
+
+Rumlang 5144
+Langjoch 6
+Im Langhag 10
+Wolfgalgen 10
+Solgen 10
+Aeberliswald 10
+Oberlunkhofen 1880
+Unterlunkhofen 1263
+Behmer 41
 Torlen 14
-Boggsmatten 11
+Rosenau 14
+Tufenau 8
+Schloss Teufen 18
+Schlossrued 849
+Ruedi 35
+Segel 35
+Hubscheren 16
+Buen 16
+Mittlere Rietwies 16
+Chopfholz 16
+Im Chopfholz 7
+Chopfli 2
+Schopli 4
+Escholzmatt 3192
+Schwarzmatt 4
+Knup 4
+Ober-Emmetschloo 4
+Emmetschloo 144
+Zaniken 97
+Eiken 1923
+Mumpf 1425
+
+Mohlin 9382
+Magden 3433
+Magadino 1538
+
+Allschwil 18189
+
+Locarno 14509
+
+Minusio 6653
+Vira 646
+Brissago 1831
+
+Versoix 11467
+Bellevue 3674
+Puplinge 2163
+Troinex 2192
+
+Le Locle 10279
+Le Vaud 1104
+Opfikon 1277
+Pfeffikon 678
+Birrwil 953
+
+Birr 3884
+
+Seon 4407
+
+Granichen 6557
+
+Suhr 9374
+
+Naters 7552
+Termen 793
+Salgesch 1240
+Ayent 3243
+Arbaz 862
+Ruebisberg 15
+
+Siebnen 7104
+Benken 2419
+Benklen 4
+Hinteres Chloster 4
+
+Alpnach 5218
+Ober-Huttenacher 10
+Suhner 10
+Auee 10
+Mosli 10
+Rosli 6
+Frakmund 6
+Steinweid 6
+Steingass 2
+Steinmaur 1438
+Maur 307
+La Roche 1405
+Silvaplana 973
+Spiringen 973
+
+Meiringen 4652
+
+Le Chenit 4062
+
+Wangi 4051
+
+Egg 4003
+Morel 477
+Talacher-Haufland 214
+Maas 202
+
+Sempach 3754
+Bruppach 3
+Bruppacher 12
+Sitzbuhl 12
+Heuel 12
+Neuacker 12
+Amtacker 6
+Rohracker 5
+Ghongg 5
+Stotzli 5
+Hotzler 50
+Alterau 9
+Saxon 3477
+Leytron 2194
+Liddes 728
+Ayer 681
+Egerkingen 2923
+Aegert 32
+Le Peuchapatte 32
+Bitziberg 32
+Rotzibuch 5
+Dickbuch 128
+Soubey 128
+Ob dem Hof 22
+Kulpen 22
+Eigi 22
+Faichruti 22
+Chruzstein 53
+Steinchramen 6
+Ober-Neugut 6
+Neugutli 2
+Neuguet 10
+Guetli 8
+Bauegg 8
+Spaltruti 8
+Mulruti 6
+Franzruti 6
+Naf 6
+Broc 2148
+Jaun 615
+Plasselb 973
+Weisslingen 1975
+Agasul 58
+Noreaz 501
+Chippis 1556
+Kollbrunn 1848
+Sunft 10
+Weesen 1402
+Luthern 1392
+Kriegstetten 1116
+Cudrefin 996
+Perrefitte 515
+Oberonz 879
+am Katzensee 19
+Chatzentobel 6
+Motiers 814
+Buttes 629
+Mustair 795
+Vignogn 175
+Alvaneu 434
+Elm 729
+Vuiteboeuf 451
+Adletshausen 43
+Vinzel 284
+Sennhus 30
+Suchy 342
+Altwi 12
+Vrin 273
+Damvant 115
+Robasacco 115
+Chung 104
+Mon 79
+Schelten 50
+Madikon 9
+Amet 33
+Elba 18
+Bodenmuli 18
+Aemet 14
 Houen 10
-Goldrain 7
+Rellsten 9
+Buechmes 8
+Herti 8
+Simismoos 7
 Neu-York 7
-Rifacher 7
-Farbuel 7
-Riethalde 6
-Unterwyden 6
-Landetspiel 5
-Ober-Edikon 5
-Zuriweg 5
+Zihl 7
+Knebel 7
+Nebetsaglen 7
+Laubenfelsen 7
+Saget 7
+Bramhof 7
+Pfei 7
+Trugli 7
+Sunnmatt 7
+Murg 6
+Girriet 6
+Hartmis 6
+Salhof 5
+Luft 5
+Nasswis 5
+Roswisli 5
+Ghogg 5
+Lauf 5
+Weidhof 5
+Zapfen 5
+Ryfen 5
+Bol 4
+Horben 3
+Laseten 3
 Landgricht 2
-Elektrohof 2
+Chlus 2

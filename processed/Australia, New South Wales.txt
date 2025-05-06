@@ -1,455 +1,306 @@
 
 
 Sydney 4321535
-Blayney 3378
-Blackheath 4396
 
-Blaxland 7451
-Blandford 183
-Barellan 538
-Wanganella 86
-Tallawang 168
-Pallamallawa 448
+South Wentworthville 6197
+
+Wentworth Falls 6076
+
+Yamba 6076
+Coramba 810
+Krambach 378
+
+Tuncurry 6186
+Rydal 213
+Glencoe 192
+Lue 192
+North Star 230
+Mystery Bay 191
+
+Forster 13740
+Gloucester 2975
+Bulahdelah 1424
+Pambula 970
+Bullaburra 1230
+Burra 794
+Royalla 984
 Valla 936
 
 Nambucca Heads 6327
 Hat Head 311
 Crescent Head 1531
-Evans Head 2847
+Kinchela 264
+Michelago 562
+Gerringong 3966
 
-Lennox Head 6407
-The Channon 374
-Rannock 55
-Cumnock 443
-Mumbil 291
-Wellington 4077
-Barrington 361
-Hawks Nest 1223
-Pheasants Nest 688
-Tahmoor 5067
-Thirlmere 4046
+Wollongong 261896
+Wollongbar 2828
 
-Merewether 10964
-
-Newcastle 322278
-
-Maitland 78015
-Abermain 2337
-Bermagui 1536
-Gundagai 1676
-Gundaroo 1146
-Sutton 1660
-Sutton Forest 477
-Galore 95
-Bendalong 95
-Galong 224
-Shellharbour City Centre 244
-Warburn 98
-Tumblong 196
-Talbingo 239
-Uralba 216
-Uralla 2743
-
-Armidale 23352
-Berridale 1197
-Jindabyne 2629
-Jindera 2222
-
-Albury 47974
-
-Goulburn 22419
-Tarana 171
-Towrang 171
-
-Nowra 30853
+Alstonville 5739
+Modanville 624
+Candelo 686
+Dunoon 686
 Bundanoon 2729
 Exeter 949
+Bungwahl 234
+Towamba 234
+Wamboin 1708
+Sutton 1660
+Sutton Forest 477
+Fishermans Paradise 477
+Baradine 760
+Naradhan 79
+Boomi 201
+Quandialla 197
+Willow Vale 79
+Hartley Vale 70
+Hartley 409
+Beelbangera 409
 
-Forster 13740
-Gloucester 2975
-Stroud 938
-Stratheden 217
-Eden 3151
-Merimbula 3544
-Pambula 970
-Bullaburra 1230
-Burra 794
-
-Jerrabomberra 9508
-
-Queanbeyan 6237
-Yanco 984
-
-Yass 6506
-Ashley 365
+Orange 37182
+Orangeville 1250
+Glenmore 122
+Mount Hunter 732
+Mount Hope 19
+Burrinjuck 19
+Burringbar 852
+Murringo 365
 Lyndhurst 365
 
 Bathurst 33587
 
 Kelso 8968
-Lawson 2614
-
-Wentworth Falls 6076
-
-Yamba 6076
-
-Katoomba 7964
-Leura 4644
-Geurie 755
-Gogeldrie 91
-Walbundrie 149
-Walla Walla 836
-Balldale 156
-
-Ballina 8655
-Collingullie 221
-Rosedale 221
-Penrose 247
-
-Moss Vale 8579
-Colo Vale 1618
-Kangaroo Valley 879
-
-Bomaderry 6661
-Berry 2667
-Berrima 666
-Berrigan 1260
-Finley 2519
-Bibbenluke 87
-Broke 579
-
-Broken Hill 17814
-Wentworth 1437
-Buronga 1212
-Eurongilly 120
-Trunkey Creek 120
-Croppa Creek 120
-Camira Creek 29
+Tatham 207
+Brushgrove 199
 Boree Creek 199
+Majors Creek 249
+Cumborah 249
+Borambola 107
+Kunghur 107
+Kungala 145
+Gungal 268
 
-Moree 9311
-Coreen 109
-Coree 36
-Widgelli 67
-Billinudgel 218
-Breeza 146
-Bethungra 164
-Methul 52
-Abernethy 348
-Aberdeen 2084
-Koraleigh 353
-Raleigh 645
-Urunga 3000
-Brungle 112
-Warialda Rail 112
-Warialda 1590
-Ariah Park 493
-Karuah 1411
-Lake Cathie 3494
-Newee Creek 395
-Barmedman 459
-Deepwater 435
-Koorawatha 427
-Tooraweenah 232
-Dunbible 354
-Moonbi 1126
-Gunbar 54
-
-Gunnedah 9726
-Wallabadah 421
-Quirindi 3444
-Corindi Beach 1686
-Moonee Beach 1933
-Werri Beach 562
-Gerringong 3966
-
-Wollongong 261896
-Wilton 3080
-
-Campbelltown 12566
-Camden 3230
-Menangle 1150
-Glenmore 122
-Mount Hunter 732
-Mount Hope 19
-Foxground 147
-Grong Grong 250
-Ulong 233
-Euabalong 188
-West Wyalong 3141
-Wyalong 654
-Adelong 943
-Batlow 1313
-Medlow Bath 611
-Erowal Bay 623
-Tomerong 1065
-Basin View 1554
-
-Casino 10914
-Wyrallah 441
-Bodalla 739
-Modanville 624
-
-Alstonville 5739
-Wollongbar 2828
-Burringbar 852
-Binda 280
-Nimbin 2000
-Biniguy 147
-Mogriguy 113
-Mogo 322
-Gooloogong 399
-Ganmain 779
-Ulmarra 779
-Gulmarrad 1694
-Maclean 2628
-Clearfield 10
-Tenterfield 4066
-Jennings 160
-Gunning 659
-Combaning 103
-White Cliffs 103
-Reserve Creek 126
-Clothiers Creek 277
-Upper Crystal Creek 189
-Crystal Creek 259
-Yerong Creek 352
-Herons Creek 247
-Wilsons Creek 452
-Bonshaw 133
-Liston 133
-Euston 839
-Springdale 150
-
-Springwood 8475
-Faulconbridge 4025
-Glenbrook 5051
-Woolbrook 185
+Muswellbrook 12075
 Holbrook 1715
 Woomargama 157
 
 Cooma 6681
 Narooma 2605
 Dalmeny 1937
-Talmalmo 53
-Rennie 43
-Colo 60
-Molong 2577
+Tuross Head 2241
+Evans Head 2847
 
-Orange 37182
-Orangeville 1250
-The Oaks 2525
-Oakdale 1843
-Nattai 65
-Gidginbung 65
-Stanbridge 206
-Tantonan 24
-Nangus 205
-Karangi 586
-Trangie 849
-Narromine 4689
-Tomingley 306
-Singleton 5000
-Uranquinty 909
-Rand 204
-Narrandera 4375
-Urana 384
-Lockhart 1061
-The Rock 1236
-Pulletop 83
-Camberwell 83
-Caldwell 33
-Welaregang 38
-Bega 4668
-Tathra 1675
-Tatham 207
-Jerrys Plains 385
+Lennox Head 6407
 
-Emu Plains 8421
-
-Penrith 13295
-
-South Wentworthville 6197
-Perthville 471
-Kundabung 630
-Bundarra 676
-Marrangaroo 909
-Marrar 368
-Hillgrove 176
-Wellingrove 96
-Jerangle 96
-Anglers Reach 94
+Ballina 8655
+Tallimba 184
+Weethalle 250
+Ardlethan 519
+Hinton 448
+Pallamallawa 448
+Tallawang 168
+Araluen 168
+Taralga 467
+Dalton 195
+Milton 1663
+Warragamba 1241
+Narrawallee 1241
+Wallerawang 1980
+Valley Heights 1211
+Kurrajong Heights 1342
 Freemans Reach 1973
 Wisemans Ferry 220
-Cowan 649
+Batemans Bay 1530
+Broulee 1717
+Moruya 3982
+Morundah 69
+Nerrigundah 25
+Gundagai 1676
+Gundaroo 1146
+Bundarra 676
+Marrangaroo 909
+Kangaroo Valley 879
 
-Corowa 5482
-Boorowa 1641
-Yarrowyck 132
-Rugby 73
-Whiporie 73
-Whitton 496
-Burrumbuttock 366
-Murrumburrah 110
-French Park 32
-Little Billabong 110
-Illabo 144
-Harefield 144
-Hopefield 83
-Braefield 62
-Baerami 70
+Moss Vale 8579
+Colo Vale 1618
+Welby 758
+Uralba 216
+Uralla 2743
+Wyrallah 441
+Bodalla 739
+Kendall 1141
+Bendalong 95
+Daysdale 95
+Lowesdale 95
+Mongarlowe 117
+Greenethorpe 240
+Greenwell Point 1209
+Kings Point 553
+Bawley Point 698
+
+Sanctuary Point 7225
+Orient Point 611
+Speers Point 3313
+
+Merewether 10964
+
+Newcastle 322278
+Murrami 235
+Cabramurra 37
+Bunnaloo 101
+Binalong 543
+Capertee 145
+Perthville 471
+Kundabung 630
+Eurongilly 120
+Trunkey Creek 120
+Croppa Creek 120
+Camira Creek 29
+Widgelli 67
+Lake Cargelligo 1479
+Lake Cathie 3494
+Rand 204
+Tooraweenah 232
+Koorawatha 427
+Gundy 204
+Tuppal 9
+Tumblong 196
+Galong 224
+Shellharbour City Centre 244
+
+Coffs Harbour 48225
+Boambee 1668
+Camberwell 83
+Caldwell 33
+Wellington 4077
+Mumbil 291
+Hargraves 270
+Gravesend 321
+Collingullie 221
+Collie 194
+Collector 313
+Alectown 168
 Boydtown 70
-Tootool 70
-Roto 41
-Barraba 1410
+Alfredtown 109
+Coreen 109
 
-Narrabri 7606
-Boggabri 1130
-Boggabilla 990
-Adjungbilly 81
-Junee 4922
-Old Junee 263
-Old Bar 4389
-Diamond Beach 886
-Krambach 378
+Moree 9311
+Elsmore 349
+Oaklands 349
 
-Tuncurry 6186
-Attunga 571
-Dalton 195
-Taralga 467
+Blaxland 7451
+
+Maitland 78015
+Heddon Greta 2047
+
+Kurri Kurri 6044
+Abermain 2337
+Bermagui 1536
+Springdale 150
+Ben Lomond 152
+Ben Bullen 100
 Wondalga 100
-Wee Jasper 100
+Dalgety 205
+Nangus 205
+Menangle 1150
+Jerangle 96
+Anglers Reach 94
+Savernake 94
+Milbrulong 94
+Ulong 233
+Euabalong 188
+West Wyalong 3141
+Ungarie 557
+Goolmangar 188
+Goolgowi 402
 
-Tweed Heads West 6196
+Griffith 18196
+Hanwood 1256
+Woodburn 739
+Warburn 98
 
-Tweed Heads 8176
-Terranora 2926
+Goulburn 22419
+
+Albury 47974
+Jindera 2222
+Narrandera 4375
 Yerranderie 4
 Yanderra 661
 Bargo 4393
 Cobargo 776
 Conargo 123
 Burren Junction 276
-Warren 1389
+Broke 579
+
+Broken Hill 17814
+Wentworth 1437
+Buronga 1212
+Gol Gol 1523
+South Golden Beach 809
+Gurley 236
+Bigga 245
+Piggabeen 322
+Mogo 322
+Coolac 216
+Coolah 1290
+Coolabah 69
+Wollar 69
+Collarenebri 650
+Woombah 844
+
+Katoomba 7964
+Leura 4644
+Lawson 2614
+Wollombi 188
+Collombatti 647
+Delungra 647
+Bethungra 164
+Breeza 146
+Billinudgel 218
+Billimari 152
+Pilliga 217
+Booligal 162
+Toolijooa 127
+Tootool 70
+Tooleybuc 277
+Nevertire 189
+Upper Crystal Creek 189
+Reserve Creek 126
+Clothiers Creek 277
+Herons Creek 247
+Leeville 247
+Neville 248
+Blayney 3378
+Woodstock 701
+Canowindra 2258
+Windsor 1891
+Wilberforce 3007
+Albert 81
+Euberta 139
+Caragabal 185
+Tarago 426
+Stanbridge 206
+Coombell 24
+Bellata 350
+Bemboka 577
+New Brighton 356
+Blighty 138
+Lightning Ridge 2284
+Hanging Rock 105
+The Rock 1236
+Pulletop 83
+Cullen Bullen 279
+Mullengandra 124
+Gilgandra 3126
+Gilgai 720
+
+Inverell 11660
+Bendick Murrell 155
 Warrell Creek 255
 Macksville 2598
 Bowraville 1122
 Bonville 2554
 Sawtell 3682
-Bellingen 3779
-Dorrigo 1191
-Nerriga 72
-Weemelah 72
-Wee Waa 2080
-Alfredtown 109
-Alectown 168
-Collector 313
-Gwabegar 162
-Booligal 162
-Blighty 138
-Lightning Ridge 2284
-Cumborah 249
-Bombo 112
-Bombala 1387
-Glen Davis 115
-
-Glen Innes 6155
-Dundee 155
-Bendick Murrell 155
-
-Inverell 11660
-Gilgai 720
-Gilgandra 3126
-Mullengandra 124
-Brooklyn 722
-Come By Chance 125
-Beckom 125
-Coombell 24
-Woombah 844
-Greenethorpe 240
-Collarenebri 650
-Kenebri 42
-Munderoo 42
-Mannus 222
-Angourie 222
-Ournie 33
-Niemur 38
-Morago 38
-Tarago 426
-Nubba 76
-
-Dubbo 34339
-Dunedoo 1221
-Angledool 58
-Ardglen 59
-Bunnaloo 101
-Cunninyeuk 37
-Cunningar 145
-Kungala 145
-
-Young 10295
-Gungal 268
-
-Muswellbrook 12075
-
-Scone 5624
-Willow Tree 308
-Willow Vale 79
-Hartley Vale 70
-Hartley 409
-Beelbangera 409
-Wallerawang 1980
-Lithgow 5201
-Goolgowi 402
-Goolmangar 188
-Ungarie 557
-Tullibigeal 233
-Mullion Creek 557
-Werris Creek 1572
-Lankeys Creek 49
-Weabonga 49
-Wongarbon 766
-Garah 306
-Bingara 1428
-Jerseyville 112
-Neville 248
-Leeville 247
-Rappville 169
-Arakoon 420
-Wakool 297
-Moolpa 5
-Moombooldool 30
-Boomi 201
-Carabost 55
-Naradhan 79
-Baradine 760
-Fishermans Paradise 477
-Daysdale 95
-Lowesdale 95
-Mongarlowe 117
-Bangalow 2021
-Stockinbingal 374
-Woodstock 701
-Canowindra 2258
-Manildra 760
-Manilla 2550
-Suffolk Park 3750
-
-Parkes 11408
-
-Forbes 8432
-Belford 171
-Ilford 187
-Mororo 85
-Boro 94
-Savernake 94
-Drake 345
-Coraki 1277
-Coramba 810
-Borambola 107
-Graman 103
-Moama 4198
-Boambee 1668
 
 Toormina 6192
 Adaminaby 301
@@ -457,396 +308,545 @@ Bannaby 36
 Anna Bay 3846
 Tea Gardens 2884
 Harden 2030
-Wardell 832
-Candelo 686
-Dunoon 686
+Cunningar 145
+Gunning 659
+Combaning 103
+White Cliffs 103
+Whitton 496
+Hillgrove 176
+Marrar 368
+Ulmarra 779
+Gulmarrad 1694
+Maclean 2628
+Clearfield 10
+Stratheden 217
+Eden 3151
+Merimbula 3544
+Wolumla 703
+Bega 4668
+Tathra 1675
+Bombala 1387
+Bombo 112
+Warialda Rail 112
+Warialda 1590
+Brungle 112
+Urunga 3000
+Raleigh 645
+Koraleigh 353
+Aberdeen 2084
+Boro 94
+Ellenborough 194
+Merrygoen 115
+Glen Davis 115
 
-Goonellabah 12900
+Glen Innes 6155
+Dundee 155
+Munderoo 42
+Mannus 222
+Manning Point 239
+Woolomin 279
+Woolbrook 185
+Hawks Nest 1223
+Pheasants Nest 688
+Tahmoor 5067
+Thirlmere 4046
+Picton 4816
+Mowbray Park 97
+Douglas Park 1362
+Ariah Park 493
+French Park 32
+Little Billabong 110
+Murrumburrah 110
+Burrumbuttock 366
+Murrumbateman 3219
+Wombat 225
+Womboota 105
+Moombooldool 30
+Mossgiel 41
+Roto 41
+Barraba 1410
 
-Lismore 27569
-Elsmore 349
-Oaklands 349
-Lakesland 432
-South Durras 341
-South Murwillumbah 1114
+Narrabri 7606
+Boggabri 1130
 
-Murwillumbah 7032
-Tumbarumba 1862
-
-Tumut 6230
-Tarcutta 446
+Gunnedah 9726
+Werris Creek 1572
+Lankeys Creek 49
+Weabonga 49
+Birriwa 49
+Merriwagga 107
 
 Wagga Wagga 48263
-Merriwagga 107
-Birriwa 49
-Mirrool 92
-Dilkoon 51
-Gurranang 92
+Tarcutta 446
+Muttama 131
+Sofala 131
+Wiangaree 131
+
+Taree 16197
+Tinonee 1092
+Moonee Beach 1933
+Corindi Beach 1686
+Werri Beach 562
+Berrima 666
+Berry 2667
+
+Bomaderry 6661
+
+Nowra 30853
+
+Cowra 10063
+Eugowra 779
+Gooloogong 399
+Goolma 102
+Hill End 102
+Bexhill 495
+Laurel Hill 20
+Peak Hill 1106
+Garah 306
+Tomingley 306
+Narromine 4689
+Trangie 849
+Karangi 586
+Arakoon 420
+Wakool 297
+Barham 1518
+Lanitza 297
+
+Deniliquin 7862
+Bibbenluke 87
+Ardglen 59
+Bolivia 66
+Euabalong West 66
+Quambone 166
+Girilambone 107
+Eungella 338
+
+Murwillumbah 7032
+South Murwillumbah 1114
+South Durras 341
+Tibooburra 134
+Walbundrie 149
+Bundure 6
+Osborne 29
+Geurie 755
+Angourie 222
+Jugiong 222
+Tumbarumba 1862
+Tambar Springs 187
+Ilford 187
+Belford 171
+Towrang 171
+
+Bowral 10335
+Burradoo 2645
 Burrandana 21
-Pilliga 217
-Billimari 152
-Tallimba 184
-Weethalle 250
-
-Leeton 8623
-Dareton 501
-Wilcannia 745
-Manning Point 239
-Kings Point 553
-Bawley Point 698
-
-Sanctuary Point 7225
-Orient Point 611
-Shoalhaven Heads 3059
-Brunswick Heads 1737
-Repton 646
-Hinton 448
-Darlington Point 1162
-Hanwood 1256
-Woodburn 739
-Woodenbong 381
-Bonalbo 371
-Tabulam 470
+Tooma 104
+Menindee 551
+Moama 4198
+Angledool 58
 Ulan 58
 Marulan 1178
 Tallong 813
 Goodooga 247
-Burradoo 2645
+Barooga 1817
+Mulwala 1904
+Allworth 166
 
-Bowral 10335
-
-Cowra 10063
-Eugowra 779
-Bungowannah 159
-Lacmalac 159
-Coolac 216
-Coolah 1290
-Coolabah 69
-Wollar 69
-Wollombi 188
-Collombatti 647
-Delungra 647
-Clunes 868
-Newnes 4
-New Italy 187
-Tambar Springs 187
-Red Range 187
-Bredbo 352
-Ladysmith 352
-Smithtown 590
-New Brighton 356
-Bemboka 577
-Bellata 350
-St Georges Basin 2913
-Batemans Bay 1530
-Broulee 1717
-Narrawallee 1241
-Milton 1663
-Hillston 1465
-Cudal 553
-Burrill Lake 1465
-Lake Conjola 437
-Warragamba 1241
-Caragabal 185
-Euberta 139
-Albert 81
-Hobbys Yards 81
-Darbys Falls 251
-Kyogle 2197
-Tocumwal 1527
-Gocup 153
-Tuppal 9
-Upper Horton 168
-Araluen 168
-Lue 192
-Iluka 1718
-Premer 85
-Bendemeer 492
-Mandemar 62
-Denman 1789
-Urangeline East 16
-Eungella 338
-Nevertire 189
+Tamworth 33885
+Kootingal 2126
+Stockinbingal 374
+Bangalow 2021
+Coopers Shoot 265
+Ocean Shores 5137
+Graman 103
+Yelgun 103
+Wooyung 118
 Somerton 277
-Tooleybuc 277
-Toolijooa 127
-Michelago 562
-Kinchela 264
-Kitchener 479
-
-Cessnock 15177
-Neath 490
-Mathoura 938
-Oura 219
-Bourke 1909
-Brewarrina 1143
-Majors Creek 249
-Walgett 2145
-Dalgety 205
-Rydal 213
-Coolangatta 329
-Coolamon 2199
-Tullamore 424
-Trundle 687
-Morundah 69
-Moruya 3982
-Tuross Head 2241
-Braidwood 1651
-Bungendore 4178
-Mendooran 559
-Cathcart 108
-Limbri 108
-Werai 90
-Humula 124
-Mummulgum 95
-Kamarah 95
-Manyana 521
-Binya 140
-Binalong 543
-Capertee 145
-Captains Flat 610
-Yenda 1537
-Kendall 1141
-Kew 1089
-Laurieton 1986
-
-Wauchope 6312
-Walcha 2553
-Walcha Road 54
-Kyeamba 54
-Coleambally 1331
-Towamba 234
-Bookham 161
-Putty 161
-Baan Baa 163
+Silverton 50
+Byrock 50
 
 Byron Bay 5521
-Byrock 50
-Silverton 50
-Delegate 351
-Quipolly 177
-Cookardinia 68
+Baan Baa 163
+Bookham 161
+Putty 161
 Wildes Meadow 259
 Jerilderie 1029
 Binnaway 602
 Kempsey 474
-Temora 4693
+Brunswick Heads 1737
 
-Cootamundra 6782
-Womboota 105
-Wombat 225
-Murrumbateman 3219
-Murringo 365
-Murrami 235
-Cabramurra 37
-Mairjimmy 58
-Nimmitabel 320
-Tabbita 73
-Frogmore 132
-Crookwell 2641
-Welby 758
-Robertson 1865
-Oberon 3256
-Edgeroi 109
-Gerogery 565
-Culcairn 1473
-Cullivel 15
-Maldon 15
-Balranald 1343
-Lanitza 297
-Barham 1518
-Wingham 5374
-Tingha 833
-Kootingal 2126
+Tweed Heads 8176
 
-Tamworth 33885
-Allworth 166
-Mulwala 1904
-Quambone 166
-Girilambone 107
-Kunghur 107
-Yelgun 103
-Gundy 204
-Nerrigundah 25
-Bogan Gate 289
-Barooga 1817
-Bolivia 66
-Euabalong West 66
-South West Rocks 4603
-South Golden Beach 809
-Gurley 236
-Bigga 245
-Piggabeen 322
-Johns River 322
-Mount Riverview 3034
-Valley Heights 1211
-Kurrajong Heights 1342
-Windsor 1891
-Wilberforce 3007
-Gosford 3499
-The Entrance 4006
-Wyong 4326
-Cryon 46
-Coopernook 538
-Coopers Shoot 265
-Ocean Shores 5137
-Wooyung 118
-Dungay 219
-Dungog 2025
-Clarence Town 1994
-Lawrence 1046
-Vincentia 3290
-Huskisson 786
-Sussex Inlet 3575
-Ardlethan 519
-Moulamein 484
-Bexhill 495
-Laurel Hill 20
-Peak Hill 1106
-Pleasant Hills 130
-Stonehenge 130
-Stony Crossing 17
-Couridjah 303
-Duri 532
-Bundure 6
-Osborne 29
-Ellenborough 194
-Collie 194
-Merrygoen 115
-Wolumla 703
-Woolomin 279
-Cullen Bullen 279
-Ben Bullen 100
-Breadalbane 100
-Glenreagh 900
-Nana Glen 1055
-Woolgoolga 5290
-Goolma 102
-Hill End 102
-Bylong 23
-Brushgrove 199
-Kioloa 257
-Mystery Bay 191
-North Star 230
-
-Taree 16197
-Tinonee 1092
-Junee Reefs 84
-Sandigo 84
-Quandialla 197
-Royalla 984
-Wamboin 1708
-Coonamble 2750
-Coonabarabran 3290
-Cooranbong 5449
-Speers Point 3313
-
-Kurri Kurri 6044
-Heddon Greta 2047
-Grenfell 2573
-Greenwell Point 1209
-Telegraph Point 609
-
-Port Macquarie 44814
-Stuart Town 235
-Matong 164
-Torrington 81
-Ootha 82
-Sandy Flat 82
-Kandos 1315
-Condobolin 3486
-Colinroobie 65
-Mowbray Park 97
-Douglas Park 1362
-Appin 2633
-Picton 4816
-Buxton 2028
-Branxton 1991
-Braunstone 294
-Rylstone 920
-Ellerston 131
-Sofala 131
-Wiangaree 131
-Willbriggie 131
-Milbrulong 94
-Bilbul 555
-Carinda 158
-Sebastopol 61
-Rosebank 413
-Khancoban 304
-Cobar 3990
-Nyngan 2159
-Yeoval 430
-Hargraves 270
-
-Mudgee 10923
-Gulgong 2521
-
-Mittagong 5767
-Muttama 131
-
-Kiama 6881
-Ophir 127
-Mangoplah 309
-Bulahdelah 1424
+Tweed Heads West 6196
+Terranora 2926
 
 Raymond Terrace 12820
+Clarence Town 1994
+Lawrence 1046
+Mororo 85
+Iluka 1718
+Premer 85
+Red Range 187
+Urangeline East 16
+Denman 1789
+Baerami 70
+Colo 60
+Rennie 43
+Talmalmo 53
+Carabost 55
+Rannock 55
+Cumnock 443
+Yeoval 430
+Molong 2577
+Bylong 23
+Avoca 199
+Kioloa 257
+Nerriga 72
+Weemelah 72
+Rowena 181
+Wee Waa 2080
+Newee Creek 395
+Barmedman 459
+Deepwater 435
+Broadwater 640
+Walcha Road 54
+Walcha 2553
+Kyeamba 54
+Gunbar 54
+Moonbi 1126
+Wallabadah 421
+Quirindi 3444
+Willow Tree 308
+Medlow Bath 611
+Shoalhaven Heads 3059
+Ophir 127
+
+Kiama 6881
+Robertson 1865
+Oberon 3256
+Tomerong 1065
+Basin View 1554
+St Georges Basin 2913
+
+Casino 10914
+Coraki 1277
+New Italy 187
+Wardell 832
+
+Goonellabah 12900
+
+Lismore 27569
+Frogmore 132
+Yarrowyck 132
+Rugby 73
+Whiporie 73
+Tabbita 73
+Boorowa 1641
+
+Corowa 5482
 
 Richmond 5482
 Howlong 2777
-Ryan 15
-Henty 1237
-Booroorban 33
-Oxley 33
-Jugiong 222
+Wyalong 654
+Adelong 943
+Batlow 1313
+Wilsons Creek 452
+Bonshaw 133
+Liston 133
+Euston 839
+Hillston 1465
+Rylstone 920
+Braunstone 294
+Stonehenge 130
+Stony Crossing 17
+Couridjah 303
+Lacmalac 159
+Pleasant Hills 130
+Bungowannah 159
+Cowan 649
+Gosford 3499
+The Entrance 4006
+Wyong 4326
+Cooranbong 5449
+Kitchener 479
 
-Coffs Harbour 48225
-Darbalara 50
-Bungwahl 234
+Cessnock 15177
+Neath 490
+Blackheath 4396
+Lithgow 5201
+Faulconbridge 4025
+
+Springwood 8475
+Mount Riverview 3034
+
+Emu Plains 8421
+Jerrys Plains 385
+Barrington 361
+Torrington 81
+Hobbys Yards 81
+Darbys Falls 251
+Kyogle 2197
+Tocumwal 1527
+Smithtown 590
+Ladysmith 352
+Bredbo 352
+Crystal Creek 259
+Yerong Creek 352
+Myrtle Creek 86
+Wanganella 86
+Barellan 538
+Cryon 46
+Coopernook 538
+Mangoplah 309
 Llangothlin 129
 Fifield 129
-Guyra 2027
-Milparinka 77
-Bilpin 665
-Pretty Pine 63
-Numbugga 125
-Carcoar 301
-Burrinjuck 19
-Tibooburra 134
-Taylors Arm 149
-Hanging Rock 105
-Brocklesby 183
-Myrtle Creek 86
+Hopefield 83
+Braefield 62
+Mandemar 62
+Bendemeer 492
+Nimmitabel 320
+Binya 140
+Mendooran 559
+Cathcart 108
+Limbri 108
+Werai 90
+Attunga 571
+Dungay 219
+Oura 219
+Mathoura 938
+Stroud 938
+Dungog 2025
+Branxton 1991
+Buxton 2028
+Wilton 3080
+Appin 2633
+Camden 3230
 
-Griffith 18196
-Lake Cargelligo 1479
+Campbelltown 12566
+
+Helensburgh 6383
+The Oaks 2525
+The Channon 374
+Come By Chance 125
+Beckom 125
+Brooklyn 722
+Numbugga 125
+Nimbin 2000
+Humula 124
+Gogeldrie 91
+Carcoar 301
+Biniguy 147
+Foxground 147
+Captains Flat 610
+Sandy Flat 82
+Ootha 82
+Tenterfield 4066
+Jennings 160
+Kyalite 82
+Adjungbilly 81
+Boggabilla 990
+Illabo 144
+Harefield 144
+Junee 4922
+Old Junee 263
+Junee Reefs 84
+Sandigo 84
+Binda 280
+Carinda 158
+Methul 52
+Bilbul 555
+Sebastopol 61
+Rosebank 413
+Penrose 247
+
+Penrith 13295
+Glenbrook 5051
+Crookwell 2641
+Tarana 171
+Urana 384
+Lockhart 1061
+Henty 1237
+Culcairn 1473
+Cullivel 15
+Maldon 15
+Ryan 15
+Gerogery 565
+Edgeroi 109
+Bingara 1428
+Jerseyville 112
+Rappville 169
+Abernethy 348
+Coolangatta 329
+Coolamon 2199
+Tullamore 424
+Trundle 687
+
+Parkes 11408
+Ganmain 779
+
+Forbes 8432
+Grenfell 2573
+
+Young 10295
+Ashley 365
+
+Yass 6506
+Bungendore 4178
+Bellingen 3779
+Wellingrove 96
+Cookardinia 68
+Quipolly 177
+Delegate 351
+Bogan Gate 289
+Tomki 76
+Tantonan 24
+Nubba 76
+Kandos 1315
+Tullibigeal 233
+Mullion Creek 557
+Grong Grong 250
+Temora 4693
+Morago 38
+Welaregang 38
+Ournie 33
+Oxley 33
+Booroorban 33
+Niemur 38
+Kenebri 42
+Jindabyne 2629
+Berridale 1197
+
+Armidale 23352
+Dumaresq 77
+Milparinka 77
+Guyra 2027
+Tingha 833
+Wingham 5374
+Old Bar 4389
+Diamond Beach 886
+Kew 1089
+Laurieton 1986
+
+Leeton 8623
+Dareton 501
+Singleton 5000
+Uranquinty 909
+
+Mittagong 5767
+Gulgong 2521
+
+Mudgee 10923
+Dunedoo 1221
+Wongarbon 766
+
+Dubbo 34339
+Warren 1389
+Nyngan 2159
+Cobar 3990
+Khancoban 304
+Braemar 447
+Cunninyeuk 37
+Mairjimmy 58
+Finley 2519
+Sussex Inlet 3575
+Erowal Bay 623
+Coonabarabran 3290
+Coonamble 2750
+Walgett 2145
+Brewarrina 1143
+Bourke 1909
+Condobolin 3486
+Colinroobie 65
+Gidginbung 65
+Oakdale 1843
+Nattai 65
+
+Port Macquarie 44814
+Telegraph Point 609
+
+Wauchope 6312
+South West Rocks 4603
+Brocklesby 183
+Stuart Town 235
+Matong 164
+Blandford 183
+Ashford 652
+Grahamstown 61
+Pretty Pine 63
+Yenda 1537
+Gwabegar 162
 
 Ulladulla 15278
+Cudal 553
+Burrill Lake 1465
+Lake Conjola 437
+Lakesland 432
 
 Grafton 10408
 Coutts Crossing 1060
-Mossgiel 41
+Glenreagh 900
+Nana Glen 1055
+Woolgoolga 5290
+Dorrigo 1191
+Berrigan 1260
 
-Deniliquin 7862
-Menindee 551
-Tooma 104
-Broadwater 640
-Glencoe 192
-Ben Lomond 152
-Urbenville 321
-Gravesend 321
-Nymagee 100
+Jerrabomberra 9508
 
-Helensburgh 6383
+Queanbeyan 6237
+Yanco 984
+Braidwood 1651
+Woodenbong 381
+Ellerston 131
+Willbriggie 131
+Clunes 868
+
+Cootamundra 6782
+Gocup 153
+
+Tumut 6230
+
+Scone 5624
+Suffolk Park 3750
+Manilla 2550
+Manildra 760
+Vincentia 3290
+Huskisson 786
+Mummulgum 95
+Kamarah 95
+Manyana 521
+Galore 95
 Hay 2406
 Tottenham 453
-Braemar 447
-Dumaresq 77
-Gol Gol 1523
-Ashford 652
-Grahamstown 61
 Ivanhoe 327
-Avoca 199
-Rowena 181
-Kyalite 82
-Tomki 76
+Karuah 1411
+Wilcannia 745
+Mogriguy 113
+Dunbible 354
+Talbingo 239
+Balranald 1343
+Moolpa 5
+Coleambally 1331
+Darlington Point 1162
+Walla Walla 836
+Balldale 156
+Bilpin 665
+Johns River 322
+Taylors Arm 149
+Repton 646
+Duri 532
+Moulamein 484
+Tabulam 470
+Drake 345
+Bonalbo 371
+Urbenville 321
+Rosedale 221
+Breadalbane 100
+Wee Jasper 100
+Upper Horton 168
+Gurranang 92
+Mirrool 92
+Dilkoon 51
+Nymagee 100
+Darbalara 50
+Coree 36
+Newnes 4

@@ -1,6 +1,33 @@
 
 
 Kagoshima 593128
+Hioki 47153
+Nakatane 7539
+Minamitane 5445
+Minamiosumi 6481
+Kinko 6944
+Higashikushira 6237
+Ichikikushikino 27490
+
+Satsumasendai 92403
+Satsuma 20243
+Minamisatsuma 32887
+Minamikyushu 33080
+Makurazaki 20033
+Ibusuki 39011
+Shibushi 29329
+Osaki 12385
+Kikai 6629
+Setouchi 8546
+Uken 1621
+Yamato 1364
+Amami 41390
+Tatsugo 5817
+Wadomari 6246
+China 5750
+Yoron 5115
+Isen 6139
+Tokunoshima 10147
 Toshima 740
 Yakushima 11858
 Mishima 405
@@ -8,42 +35,15 @@ Mishima 405
 Kirishima 123135
 
 Aira 76348
-Higashikushira 6237
-Shibushi 29329
-Osaki 12385
-Makurazaki 20033
-Minamikyushu 33080
-Minamisatsuma 32887
-Satsuma 20243
-
-Satsumasendai 92403
-Ichikikushikino 27490
-Hioki 47153
-Tokunoshima 10147
-Isen 6139
-Uken 1621
-Yamato 1364
-Amami 41390
-Amagi 5517
-Setouchi 8546
-China 5750
-Wadomari 6246
-Tarumizu 13819
+Yusui 9119
+Isa 24453
 Izumi 51994
 Akune 19270
 Nagashima 9705
-Isa 24453
-Yusui 9119
-Ibusuki 39011
-Kimotsuki 14227
-Nishinoomote 14708
-Nakatane 7539
-Minamitane 5445
-Minamiosumi 6481
-Kinko 6944
 
 Kanoya 101096
-Kikai 6629
-Tatsugo 5817
+Kimotsuki 14227
 Soo 33310
-Yoron 5115
+Tarumizu 13819
+Nishinoomote 14708
+Amagi 5517

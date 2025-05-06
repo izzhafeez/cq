@@ -1,54 +1,7 @@
 
 
 Managua 1052217
-San Juan de Nicaragua 2466
-El Castillo 38042
-San Carlos 51624
-San Miguelito 19099
-Morrito 7550
-Acoyapa 20242
-Santo Tomas 19181
-Santo Domingo 14303
-San Pedro de Lovago 9475
-San Pedro del Norte 5274
-San Francisco del Norte 7334
-Santo Tomas del Norte 8325
-Cinco Pinos 7256
-
-Jinotega 141743
-San Rafael del Norte 22730
-San Rafael del Sur 54366
-Villa El Carmen 37046
-Villa Sandino 15024
-
-Ciudad Sandino 120705
-Nindiri 58105
-Diria 7200
-Diriomo 33189
-Niquinohomo 16588
-Quilali 33513
-Waslala 53169
-Paiwas 36229
-Waspan 60870
-
-Puerto Cabezas 123638
-Prinzapolka 40995
-Bonanza 29151
-Terrabona 14721
-San Dionisio 18506
-San Ramon 39896
-
-Matagalpa 163782
-Juigalpa 60900
-Comalapa 18110
-Camoapa 39640
-Boaco 61958
-Santa Lucia 9073
-San Lucas 16157
-Somoto 39567
-Totogalpa 16199
-Ocotal 47569
-Mozonte 8823
+El Crucero 15804
 Ticuantepe 37544
 Masatepe 40108
 
@@ -61,110 +14,157 @@ Santa Rosa del Penon 10917
 El Jicaral 11799
 El Jicaro 32251
 Murra 18923
-Jalapa 71025
-San Fernando 11690
-Ciudad Antigua 6779
-Ciudad Dario 52868
-La Trinidad 22457
-San Francisco Libre 11212
-San Francisco de Cuapa 10019
-El Ayote 18588
-La Libertad 14372
-Puerto Morazan 16718
+Villa Sandino 15024
 
-El Viejo 89957
-El Realejo 10000
-Corinto 18447
-El Coral 8245
-El Rama 58564
-Muelle de los Bueyes 24348
+Ciudad Sandino 120705
+Mateare 56934
 San Jose de los Remates 8460
-San Jose de Bocay 68010
-San Jose de Cusmapa 8246
+Esquipulas 17968
 San Juan de Limay 15029
+San Jose de Cusmapa 8246
+San Jose de Bocay 68010
+El Cua 60265
+Rancho Grande 39583
+La Cruz de Rio Grande 42206
+Desembocadura de Rio Grande 4010
+Laguna de Perlas 19035
+Santa Maria de Pantasma 54909
+San Rafael del Norte 22730
+San Rafael del Sur 54366
+Villa El Carmen 37046
+Villanueva 31745
+Achuapa 15120
+San Francisco de Cuapa 10019
+San Pedro de Lovago 9475
+San Pedro del Norte 5274
+San Francisco del Norte 7334
+Santo Tomas del Norte 8325
+Santo Tomas 19181
+Santo Domingo 14303
+La Libertad 14372
+San Francisco Libre 11212
+La Trinidad 22457
+San Lucas 16157
+San Lorenzo 31443
+Boaco 61958
+Santa Lucia 9073
+Santa Maria 5035
+Macuelizo 7049
+Ocotal 47569
+El Almendro 14956
+El Ayote 18588
 San Juan del Sur 15907
 San Jorge 8998
 Buenos Aires 5806
-Dolores 8580
-Santa Teresa 18350
-Santa Maria 5035
-Macuelizo 7049
-Dipilto 6771
+Rivas 54221
+Potosi 13454
+Tola 23666
+Belen 18533
+Palacaguina 15344
+Yalaguina 13027
+Totogalpa 16199
+Moyogalpa 10518
+Altagracia 22977
+Terrabona 14721
+San Dionisio 18506
+San Ramon 39896
 
-Tipitapa 148390
-Tisma 12317
-Santa Maria de Pantasma 54909
-San Sebastian de Yali 36853
+Matagalpa 163782
+Juigalpa 60900
+Chichigalpa 53069
+Posoltega 19151
+
+Jinotega 141743
+
+Wiwili de Jinotega 76095
+Wiwili de Nueva Segovia 18472
+
+Nueva Guinea 78947
+El Coral 8245
+Muelle de los Bueyes 24348
+El Rama 58564
+El Realejo 10000
+Corinto 18447
+
+Chinandega 136396
+
+El Viejo 89957
+Puerto Morazan 16718
+
+Puerto Cabezas 123638
+Prinzapolka 40995
+Mulukuku 72260
+El Tortuguero 51420
+
+El Tuma-La Dalia 75925
+Waslala 53169
+Rio Blanco 36374
 San Juan de Rio Coco 35026
 Telpaneca 24014
+Ciudad Antigua 6779
+San Fernando 11690
+Mozonte 8823
+Dipilto 6771
+Niquinohomo 16588
+San Juan de Oriente 7735
+Catarina 8597
+Diria 7200
+Diriomo 33189
+Nindiri 58105
+Diriamba 64506
+Dolores 8580
+Jinotepe 53984
+Teustepe 33162
+Camoapa 39640
+Comalapa 18110
+Jalapa 71025
+Quilali 33513
+San Sebastian de Yali 36853
+La Concordia 7364
+La Concepcion 43260
+San Marcos 32828
+San Miguelito 19099
+San Carlos 51624
+El Castillo 38042
+Somotillo 34216
+Somoto 39567
+Las Sabanas 5007
+Islas del Maiz 7692
+Kukra Hill 9984
+Bluefields 57303
+Tisma 12317
+
+Tipitapa 148390
+
+Leon 210041
+Quezalguaque 9856
 Telica 26120
 
 Esteli 128761
 San Nicolas 7579
 San Isidro 19898
 Sebaco 37412
-Diriamba 64506
-Jinotepe 53984
-
-Wiwili de Jinotega 76095
-Wiwili de Nueva Segovia 18472
-Villanueva 31745
-Somotillo 34216
-Kukra Hill 9984
-Mulukuku 72260
-La Cruz de Rio Grande 42206
-Desembocadura de Rio Grande 4010
-Rancho Grande 39583
-El Cua 60265
-
-El Tuma-La Dalia 75925
-El Tortuguero 51420
-El Crucero 15804
-El Sauce 31486
-Achuapa 15120
-Chichigalpa 53069
-
-Chinandega 136396
-Condega 30997
-Pueblo Nuevo 23943
-Yalaguina 13027
-Palacaguina 15344
-
-Nueva Guinea 78947
-El Almendro 14956
-
-Leon 210041
-Belen 18533
-Potosi 13454
-Tola 23666
-Rivas 54221
-Las Sabanas 5007
-Islas del Maiz 7692
-Laguna de Perlas 19035
-Bluefields 57303
-Rio Blanco 36374
-Matiguas 53079
-Muy Muy 16974
-Esquipulas 17968
-La Conquista 4099
-La Concordia 7364
-La Concepcion 43260
-San Marcos 32828
+Ciudad Dario 52868
 
 Granada 131018
-San Juan de Oriente 7735
-Catarina 8597
-Cardenas 7585
-Altagracia 22977
-Moyogalpa 10518
 
 Siuna 104085
+Bonanza 29151
 Rosita 36036
-Mateare 56934
+Waspan 60870
+Matiguas 53079
+Muy Muy 16974
 Nagarote 38543
 Larreynaga 32841
+El Sauce 31486
+Paiwas 36229
 La Paz Centro 32342
-Quezalguaque 9856
-Posoltega 19151
-Teustepe 33162
-San Lorenzo 31443
+Condega 30997
+Pueblo Nuevo 23943
+Acoyapa 20242
+Morrito 7550
+Cardenas 7585
+Santa Teresa 18350
+La Conquista 4099
+Cinco Pinos 7256
+San Juan de Nicaragua 2466

@@ -3,9 +3,15 @@
 Saarbrucken 181227
 
 Saarlouis 38333
+Ensdorf 6631
+Bous 7605
+Oberthal 6581
+Namborn 7642
+Eppelborn 18079
+Lebach 21583
+Nalbach 9715
 Saarwellingen 13930
 Dillingen 21526
-Beckingen 15983
 Illingen 18488
 Merchweiler 10863
 Reichweiler 565
@@ -14,64 +20,58 @@ Mainzweiler 1105
 Schiffweiler 15780
 
 Neunkirchen 49843
-Kirkel 10330
 Weiskirchen 6316
 Wadern 17282
-Wadgassen 18464
-Bous 7605
-Rochling-Hohe 4550
+Gersheim 7264
+Losheim 16660
+Britten 1400
+Saarholzbach 1737
+Sulzbach 18364
+Quierschied 14545
+Orscholz 3609
+Fenne 825
+Hahnweiler 236
+Nonnweiler 9417
+Nohfelden 10687
+Freisen 8778
+Dreisbach 181
+Mettlach 3279
+Waldmohr 5426
+Bechhofen 2306
+
+Homburg 44607
+Bexbach 19115
+Hangard 1970
+Ludweiler-Warndt 5922
+Grossrosseln 9215
+Furstenhausen 2200
+Heidstock 4550
+Luisenthal 1636
 
 Volklingen 41132
 Puttlingen 21052
-Heidstock 4550
-Luisenthal 1636
-Furstenhausen 2200
-Weiten 1209
-Hahnweiler 236
-Fenne 825
-Bechhofen 2306
-Bexbach 19115
-Hangard 1970
-Wallerfangen 9733
-Ensdorf 6631
-Schwalbach 18708
-Nalbach 9715
-Lebach 21583
-Eppelborn 18079
-Namborn 7642
-Oberthal 6581
+Riegelsberg 15647
+Spiesen-Elversberg 14570
+Friedrichsthal 11440
 
 Sankt Ingbert 38697
-Spiesen-Elversberg 14570
-Quierschied 14545
-Friedrichsthal 11440
-Sulzbach 18364
-Saarholzbach 1737
-Mettlach 3279
-Dreisbach 181
-Freisen 8778
-Nohfelden 10687
-Waldmohr 5426
-
-Homburg 44607
-Tholey 13157
-Marpingen 11358
 
 Sankt Wendel 26904
-Ludweiler-Warndt 5922
-Grossrosseln 9215
-Losheim 16660
-Britten 1400
-Kleinblittersdorf 12948
-Gersheim 7264
-Blieskastel 23212
-Riegelsberg 15647
-Heusweiler 20006
-Nonnweiler 9417
+Marpingen 11358
+Tholey 13157
 
 Merzig 31118
-Schmelz 17596
-Orscholz 3609
+Beckingen 15983
 Bethingen 252
+Blieskastel 23212
+Kirkel 10330
+Heusweiler 20006
+Schwalbach 18708
+Rochling-Hohe 4550
+Wadgassen 18464
+Schmelz 17596
+Kleinblittersdorf 12948
 Uberherrn 12071
+Wallerfangen 9733
+Weiten 1209
 Faha 362

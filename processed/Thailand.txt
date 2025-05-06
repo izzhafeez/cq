@@ -4,106 +4,34 @@ Bangkok 5104476
 Bang Yai 14012
 
 Bang Kruai 78305
-Bang Krathum 18874
-Lan Krabue 7633
-Krabi 31219
-Nuea Khlong 12217
-Khlong Khuean 3703
-Bang Khla 13528
-Ban Khlong Bang Sao Thong 31153
-Phan Thong 18708
-Phanat Nikhom 21924
-That Phanom 14424
-Nakhon Phanom 34595
-
-Sakon Nakhon 76237
-Nakhon Nayok 21309
-Prachin Buri 32600
-Kabin Buri 20212
-Khon Buri 18596
-Soeng Sang 14138
-Wiang Sa 11933
-Chiang Saen 10807
-Chiang Khong 14505
-
-Chiang Rai 78756
-Chiang Kham 14092
-Chiang Klang 13244
-Pong 14392
-Long 11802
-Den Chai 17019
-Ban Chang 28204
-Ban Chalong 18072
-Ban Karon 7094
-Ban Ko Kaeo 10136
-Ban Kata 5000
-Kathu 34835
-Patong 14797
-Betong 29604
-Ban Su-ngai Pa Di 14274
-Su-ngai Kolok 42776
-Ra-ngae 16862
-Narathiwat 47771
-Aranyaprathet 20236
-Wang Nam Yen 16299
-Pong Nam Ron 8878
-Nang Rong 21961
-Nong Ki 13592
-Nong Khai 63609
-Nong Khae 41067
-Kaeng Khoi 30332
-
-Saraburi 67763
-
-Ratchaburi 92448
-Phetchaburi 46601
-Phetchabun 50656
-Chon Daen 17567
-Thap Khlo 15528
-Thap Than 16615
-Uthai Thani 22219
-Phayuha Khiri 12271
-Khiri Mat 11272
-Sukhothai 37000
-Photharam 36248
-Bang Phae 29548
-Ban Phaeo 41904
-Ban Pong 57559
-Ban Phai 35583
-Pueai Noi 4468
-Wang Noi 15865
-Bang Pa-in 20484
-Bang Ban 16588
-
-Phra Nakhon Si Ayutthaya 81962
-Nakhon Luang 15008
-
-Khlong Luang 118551
 Ban Bang Kadi Pathum Thani 27911
 Pathum Thani 24547
-
-Pak Kret 182926
-
-Mueang Nonthaburi 291555
-
-Chanthaburi 99819
-Tha Mai 22445
-Tha Maka 52907
-Tha Muang 26746
-Phanom Thuan 12469
-Phanom Sarakham 16057
-Maha Sarakham 51584
-Kosum Phisai 10672
+Wapi Pathum 10198
+Kaset Wisai 18569
 Phayakkhaphum Phisai 10212
 Suwannaphum 12221
 Ban Selaphum 17412
-Chaiyaphum 58350
-Chaiya 12223
+Roi Et 39328
+Sam Roi Yot 19709
+Pran Buri 47293
+Kui Buri 19046
+Sai Buri 14356
 Chai Buri 6126
 Tham Phannara 7119
 Sam Phran 37115
 
-Phra Pradaeng 171333
+Krathum Baen 72819
+Bang Krathum 18874
+Bang Rakam 16841
+Bang Racham 15313
+Sing Buri 20046
+Lop Buri 57761
+Phra Phutthabat 57008
+
+Phra Nakhon Si Ayutthaya 81962
+Nakhon Luang 15008
+Nakhon Thai 12345
+Chat Trakan 4608
 
 Samut Prakan 388920
 Samut Sakhon 63498
@@ -113,254 +41,326 @@ Sung Noen 14365
 Non Sung 18399
 Non Thai 11959
 Dan Khun Thot 15580
-Bamnet Narong 14890
-Amnat Charoen 34769
+Phan Thong 18708
+Ban Khlong Bang Sao Thong 31153
+Khlong Khuean 3703
+Bang Khla 13528
+Chiang Kham 14092
+Chiang Klang 13244
+Chiang Khong 14505
+Chiang Saen 10807
+
+Chiang Rai 78756
+
+Chiang Mai 200952
+Hang Dong 17931
+Phang Nga 9676
+Ao Luek 9628
+Ban Khao Lak 1700
+Ban Kata 5000
+Ban Ko Kaeo 10136
+Ban Karon 7094
+Ban Chalong 18072
+Ban Chang 28204
+Sattahip 65444
+
+Pattaya 97296
+Pattani 43690
+Nong Chik 11385
+Nong Ki 13592
+Nang Rong 21961
+Prakhon Chai 15564
 Phon Charoen 15208
-Ban Dung 19479
-Sawang Daen Din 16825
-Ban Phan Don 29211
+Amnat Charoen 34769
+Yasothon 21643
+Ang Thong 13738
+Pho Thong 12200
+Chaiyo 13255
+Wiset Chaichan 19129
+Kut Chap 24696
 
 Udon Thani 247231
-Kut Chap 24696
-Wiset Chaichan 19129
-Pho Thong 12200
-Ang Thong 13738
+Nong Wua So 7503
+Ban Nong Wua So 21722
+Nong Khai 63609
+Tha Bo 35292
+Tha Mai 22445
+Bo Rai 13620
+Khlung 13286
+Laem Sing 16066
+
+Chanthaburi 99819
+
+Mueang Nonthaburi 291555
+
+Pak Kret 182926
+Pak Chong 48999
+Chok Chai 23337
+Mae Chai 5094
+Mae Chan 37672
+Mae Sai 27520
+Ban Ho Mae Salong 540
+Long 11802
+Den Chai 17019
+Phrae 38538
+Phrai Bueng 11494
+Ban Bueng 23509
+Ban Talat Bueng 26113
+Bang Lamung 39620
+Bang Len 17914
+Bang Phae 29548
+Ban Phaeo 41904
+Ban Pong 57559
+Photharam 36248
+Sukhothai 37000
+Ban Na 40174
+Ban Na San 21900
+Wiang Sa 11933
+Bang Saphan 15134
+Lang Suan 16142
+Ban Nam Yuen 12335
+Wang Nam Yen 16299
+Pong Nam Ron 8878
+Bang Nam Priao 8642
+Chachoengsao 49741
+Thoen 18459
+Si Satchanalai 25942
+Si Sa Ket 44751
+Sa Kaeo 28497
+Kabin Buri 20212
+Prachin Buri 32600
+Nakhon Nayok 21309
+
+Sakon Nakhon 76237
+Nakhon Phanom 34595
+That Phanom 14424
+Mukdahan 40480
+Phibun Mangsahan 19883
+Ron Phibun 26621
+Thung Song 28223
+Mae Hong Son 9109
+Mae Tha 10048
+Lamphun 43196
+San Kamphaeng 32950
+San Pa Tong 17773
+Patong 14797
+Kathu 34835
+Wichit 38701
+Phichit 35760
+Wang Sai Phun 8899
+Wang Saphung 15747
+Loei 35273
+Ban Su-ngai Pa Di 14274
+Su-ngai Kolok 42776
+Ra-ngae 16862
+Narathiwat 47771
+Kuchinarai 20532
+Khao Wong 15184
+Khao Yoi 18506
+Phetchaburi 46601
+
+Ratchaburi 92448
+Phetchabun 50656
+Chon Daen 17567
+Thap Khlo 15528
+Taphan Hin 21895
+Bang Mun Nak 15616
+Nong Bua 14160
+Nong Phai 27756
+Phai Sali 13088
+Uthai Thani 22219
+Thap Than 16615
+Phayuha Khiri 12271
+Prachuap Khiri Khan 33521
+Khiri Mat 11272
+Lan Krabue 7633
+Ban Dan Lan Hoi 5791
+Ban Dung 19479
+Ban Phan Don 29211
+Ban Phai 35583
+Pueai Noi 4468
+Phon 14596
+Chumphon 55835
+Chum Phae 46335
+Phu Khiao 17122
+Phu Kradueng 16079
+Si Bun Rueang 12842
+Nong Bua Lamphu 34401
+Na Klang 31024
+Chai Nat 15469
+Chai Badan 25196
+Wichian Buri 39272
+Suphan Buri 53399
+Phak Hai 19386
 Ban Thai Tan 14430
 Ban Tak 18384
 Tak 24149
-Ban Dan Lan Hoi 5791
-Ban Na 40174
-Ban Na San 21900
+Mae Sot 44563
+Mae Ramat 17316
+Buri Ram 28283
+Satuek 11481
+Ban Huai Thalaeng 15352
+Phimai 13084
+Chom Bueng 15143
+Chom Thong 12488
 Pa Sang 15607
-San Pa Tong 17773
-Hang Dong 17931
-
-Chiang Mai 200952
-Si Chiang Mai 14068
-Tha Bo 35292
-Tha Kham 25810
-Tha Khanon 7300
+Non Sang 11819
+Don Sak 12422
+Ko Samui 50000
+Ban Sam Chuk 13438
+Doembang Nangbuat 14671
+Ban Ao Nang 8000
+Ban Ao Makham 765
+Ta Lo Wow 765
+Pante Malakar 856
+Kamalasai 23393
+Kalasin 55102
+Yang Talat 13360
+Ko Chang Tai 2346
+Ban Bang Bao 700
+Bang Ban 16588
+Bang Pa-in 20484
+Wang Noi 15865
+Nong Khae 41067
+Kaeng Khoi 30332
+Kaeng Khro 29056
+Kaset Sombun 16996
+Bamnet Narong 14890
+Chaiyaphum 58350
+Chaiya 12223
 
 Surat Thani 127201
+Tha Kham 25810
+Tha Khanon 7300
+Ranong 24561
+Ranot 19780
+Phatthalung 43522
+Trang 66713
+Bueng Na Rang 4948
+Khanu Woralaksaburi 21889
+Kantharalak 36621
+Det Udom 35669
+Sawang Wirawong 7773
+Sawang Daen Din 16825
+Chawang 10923
+
+Nakhon Sawan 91802
+Kao Liao 4988
+Lat Yao 17506
+Ban Talat Yai 52192
+Ban Talat Nua 23381
+
+Phuket 89072
+Ban Ratsada 33534
+Sadao 46236
+Satun 34544
+Son 947
+Kantang 14156
+Ko Lanta 6090
+Ban Ko Lan 2000
+
+Si Racha 178916
+
+Chon Buri 219164
+Khon Buri 18596
+Soeng Sang 14138
+
+Nakhon Ratchasima 208781
 
 Ubon Ratchathani 122533
 Warin Chamrap 43102
 Yaring 31111
 
 Yala 93558
-Nong Chik 11385
-Pattani 43690
+Tak Bai 17241
+Pong 14392
+Dok Kham Tai 23824
+Phayao 21058
+Pa Daet 13624
+Fang 7635
+Pai 2284
 
-Pattaya 97296
-Sattahip 65444
-Satun 34544
-Phatthalung 43522
-Thung Song 28223
-Wang Saphung 15747
-Loei 35273
-Lom Sak 17309
-Nakhon Thai 12345
-Chat Trakan 4608
-Bang Rakam 16841
-Bueng Na Rang 4948
-Bueng Kan 9712
-Ban Bueng 23509
-Ban Talat Bueng 26113
-Bang Lamung 39620
-Ban Ko Lan 2000
-Ko Lanta 6090
-Kantang 14156
-Pante Malakar 856
-
-Ban Mai 86899
-Ban Ao Makham 765
-Ban Ao Nang 8000
-Ban Phru Nai 5713
-Ban Ratsada 33534
-Sadao 46236
+Hat Yai 191696
 Na Mom 7537
-Ban Mo 15959
-Tha Ruea 19116
-Si Bun Rueang 12842
-Nong Bua Lamphu 34401
-Nong Wua So 7503
-Ban Nong Wua So 21722
-Non Sang 11819
-Don Sak 12422
-Ko Samui 50000
-Ko Pha Ngan 11846
-Phang Nga 9676
-Ao Luek 9628
-Ban Khao Lak 1700
-Ban Mai Khao 5000
-Wichit 38701
-Ban Talat Nua 23381
-Ban Talat Yai 52192
 
-Phuket 89072
-Si Sa Ket 44751
-Phrai Bueng 11494
-Kantharalak 36621
-Det Udom 35669
-Kaset Wisai 18569
-Kamalasai 23393
-Kalasin 55102
-Yang Talat 13360
+Songkhla 84264
+Sangkhla Buri 10000
+Lan Sak 13905
+Huai Khot 5940
+Huai Yot 16586
 Huai Mek 12352
 Nong Kung Si 17001
 Kranuan 13475
 
 Khon Kaen 147579
-Kaeng Khro 29056
-Phu Khiao 17122
-Phu Kradueng 16079
-Chum Phae 46335
-Kaset Sombun 16996
-Nam Som 19324
-Sangkhom 3846
-Sangkhla Buri 10000
-
-Songkhla 84264
-
-Hat Yai 191696
-Lat Yao 17506
-Kao Liao 4988
-
-Nakhon Sawan 91802
-
-Nakhon Pathom 117927
-Bang Len 17914
-Bang Bua Thong 41567
-Nong Bua 14160
-Nong Phai 27756
-Wichian Buri 39272
-
-Chon Buri 219164
-Pran Buri 47293
-Kui Buri 19046
-Sai Buri 14356
-Sing Buri 20046
-Lop Buri 57761
-Phra Phutthabat 57008
-Phrae 38538
-Rong Kwang 12087
-Nan 24670
-Pak Phanang 25014
-Pak Chong 48999
-Chok Chai 23337
-Pho Chai 13671
-Ko Chang Tai 2346
-Ban Bang Bao 700
-Trat 21590
-Trang 66713
-Ranot 19780
-Ranong 24561
-Ban Nam Yuen 12335
-Lang Suan 16142
-Bang Saphan 15134
-Prachuap Khiri Khan 33521
-Sam Roi Yot 19709
-Khao Yoi 18506
-Khao Wong 15184
-Kuchinarai 20532
-Moeiwadi 5609
-Waeng 13317
-Klaeng 55619
-Laem Sing 16066
-Khlung 13286
-Bo Rai 13620
-Bo Phloi 16786
+Kosum Phisai 10672
+Maha Sarakham 51584
+Phanom Sarakham 16057
+Phanom Thuan 12469
+Tha Muang 26746
+Tha Maka 52907
 Kanchanaburi 63699
-Suphan Buri 53399
-Phak Hai 19386
-Tak Bai 17241
-Chai Badan 25196
-Saladan 7946
-Phi Phi Don 1000
-Phichit 35760
 
-Phitsanulok 103427
-Sawankhalok 19805
-Si Satchanalai 25942
-Uttaradit 58313
-Thoen 18459
-Chachoengsao 49741
-Bang Racham 15313
+Saraburi 67763
+Tha Ruea 19116
+Ban Mo 15959
 
-Si Racha 178916
-Buri Ram 28283
-Satuek 11481
-Surin 46673
-Prakhon Chai 15564
-Ban Huai Thalaeng 15352
-Phimai 13084
+Ban Mai 86899
+Ban Mai Khao 5000
+Ban Phru Nai 5713
+Ban Phe 17414
 
-Nakhon Ratchasima 208781
+Rayong 106737
+Klaeng 55619
+Waeng 13317
+Moeiwadi 5609
+Pho Chai 13671
+
+Phra Pradaeng 171333
+Bang Bo District 28376
+Bang Pakong 25620
+Phanat Nikhom 21924
+Pak Phanang 25014
 
 Nakhon Si Thammarat 120836
-Ron Phibun 26621
-Phibun Mangsahan 19883
-Sawang Wirawong 7773
+
+Nakhon Pathom 117927
+Bang Bua Thong 41567
+
+Khlong Luang 118551
+Nuea Khlong 12217
+Krabi 31219
+Phi Phi Don 1000
+Saladan 7946
 Rawai 13623
 Nai Harn 4767
-Chai Nat 15469
-Chaiyo 13255
-Mae Chai 5094
-Mae Chan 37672
-Mae Sai 27520
-Ban Ho Mae Salong 540
-Mae Hong Son 9109
-Mae Tha 10048
-Lamphun 43196
-San Kamphaeng 32950
+
+Lampang 156139
+Rong Kwang 12087
+Nan 24670
+Uttaradit 58313
+Sawankhalok 19805
+
+Phitsanulok 103427
 Kamphaeng Phet 58787
-Khanu Woralaksaburi 21889
-Bang Mun Nak 15616
-Taphan Hin 21895
+Bueng Kan 9712
+Seka 16493
+Na Wa 12989
+Ban Lam Luk Ka 60700
 Hua Hin 50456
 Cha-am 49375
 Tha Yang 42602
 Bua Yai 16832
-Phon 14596
-Chumphon 55835
-Koh Tao 1382
-Dok Kham Tai 23824
-Phayao 21058
-Pa Daet 13624
-Pai 2284
-
-Lampang 156139
-Amphoe Sikhiu 28681
 Kham Sakae Saeng 11018
-Lan Sak 13905
-Ban Sam Chuk 13438
-Doembang Nangbuat 14671
-Bang Nam Priao 8642
-Ban Lam Luk Ka 60700
-
-Rayong 106737
-Ban Phe 17414
-
-Krathum Baen 72819
-Wapi Pathum 10198
-Roi Et 39328
-Yasothon 21643
-Mae Sot 44563
-Mae Ramat 17316
-Chom Thong 12488
-Chom Bueng 15143
-Mukdahan 40480
-Na Wa 12989
-Seka 16493
-Sa Kaeo 28497
-Na Klang 31024
-Bang Bo District 28376
-Bang Pakong 25620
-Huai Yot 16586
-Huai Khot 5940
-Phai Sali 13088
-Wang Sai Phun 8899
-Chawang 10923
-Fang 7635
-Son 947
-Ta Lo Wow 765
+Lom Sak 17309
+Surin 46673
+Betong 29604
+Amphoe Sikhiu 28681
+Trat 21590
+Aranyaprathet 20236
+Nam Som 19324
+Sangkhom 3846
+Si Chiang Mai 14068
+Bo Phloi 16786
+Ko Pha Ngan 11846
+Koh Tao 1382

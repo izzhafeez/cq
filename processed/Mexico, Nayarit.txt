@@ -2,90 +2,97 @@
 
 Tepic 332863
 Bellavista 2291
-Linda Vista 769
-El Tamarindo 1548
-Rosa Blanca 2668
-Higuera Blanca 1360
-La Cofradia 850
-El Corte 2025
-Jesus Maria Corte 643
-Jesus Maria 2638
-El Capomal 1463
-El Capomo 999
-Atonalisco 1711
-El Ahuacate 1148
-
-Ahuacatlan 6754
-Novillero 975
-Valle Lerma 944
-Nuevo Vallarta 1302
-Pueblo Nuevo 509
-El Puente 788
-El Centenario 701
-Union de Corrientes 1156
-Ixtapan de la Concepcion 1540
-
-Ixtlan del Rio 23303
-Amatlan de Canas 3157
-Santa Cruz de Camotlan 560
-Huaynamota 523
-La Bajada 537
-Pajaritos 766
-Mojarritas 610
-Paramita 943
-El Aguaje 531
-Cinco de Mayo 587
-Pozo de Villa 616
-Pozo de Ibarra 3233
-Colonia Emiliano Zapata 1657
-Amapa 2226
-Chilapa 1953
-Rosamorada 3620
-Mora 971
-Valle Morelos 971
-Campamento Morelos 641
-Campamento Aserradero 744
+San Miguel de Buenavista 517
+San Miguel 720
+El Filo 939
+Presidio de los Reyes 832
 Campos de los Limones 647
 San Luis de Lozada 1187
 San Clemente de Lima 1021
 El Limon 984
 Rancho Nuevo 809
 Tepuzhuacan 977
-Teponahuaxtla 635
-Puerta de Mangos 1697
-La Puerta de la Lima 589
-Santa Fe 570
-Santa Isabel 1174
-Santa Teresa 1558
-Huajicori 3004
-Pericos 2222
-Palma Grande 2399
-La Palma 1113
-Cuarenteno 683
-San Francisco 1823
+
+Ahuacatlan 6754
+El Ahuacate 1148
+Atonalisco 1711
+
+Xalisco 35702
 
 Francisco I. Madero 7091
 
-Xalisco 35702
-Pantanal 3231
-Otates y Cantarranas 855
+Puga 6361
+Atotonilco 810
+Cofradia de Acuitapilco 519
+Cofradia de Cuyutlan 966
+Palmar de Cuautla 1359
+Lo de Lamedo 1356
+Llano de la Cruz 694
+Los Corchos 826
+Los Otates 1009
+Los Mezquites 603
+Los Medina 666
+Puerta Azul 848
+Union de Corrientes 1156
+Naranjito de Copal 520
+Tetitlan 1003
+San Andres Milpillas 640
+San Andres 884
+Leandro B. Flores 549
+El Trapichillo 884
+El Tamarindo 1548
+Rosa Blanca 2668
+Higuera Blanca 1360
+Linda Vista 769
 La Curva 828
+La Cofradia 850
+El Corte 2025
+Tequepexpan 1082
+Otates y Cantarranas 855
 La Cantera 1174
-Testerazo 2410
+Santa Isabel 1174
+Santa Fe 570
+Santa Cruz 1316
+Santa Cruz de Camotlan 560
+Cerritos 634
+Heriberto Jara 849
+La Libertad 1581
+La Puerta de la Lima 589
+Puerta de Mangos 1697
+Tequilita 595
+Sayulita 2262
+Sayulilla 2277
+San Felipe Aztatan 4546
 
-Compostela 17573
-Cuastecomate 810
-El Tizate 1408
-El Tigre 886
-Aticama 1404
-Camalotita 1340
+Tecuala 14511
+
+Zacualpan 4893
+Ixtapan de la Concepcion 1540
+
+Las Varas 14077
+Las Pilas 689
+Las Piedras 645
+El Buruato 519
+El Botadero 1396
 Paso Real del Bejuco 618
-Paso Hondo 590
-Cofradia de Chocolon 637
+San Lorenzo 802
 San Leonel 666
-Monteon 1807
+Cofradia de Chocolon 637
+Colonia Emiliano Zapata 1657
+Emiliano Zapata 1697
+Llano del Tigre 1038
+Los Aguajes 1094
+El Aguaje 531
+Cinco de Mayo 587
+Pozo de Villa 616
+Pozo de Ibarra 3233
+Cuamiles 2741
 
-San Vicente 14324
+Tuxpan 21709
+Mexpan 1282
+
+Ixtlan del Rio 23303
+Amatlan de Canas 3157
 
 San Juan de Abajo 10442
 
@@ -93,65 +100,97 @@ Valle de Banderas 7666
 
 Las Jarretaderas 6262
 
-Las Varas 14077
-Las Pilas 689
+Mezcales 20092
+
+San Vicente 14324
+El Centenario 701
+Cuarenteno 683
+San Francisco 1823
+San Fernando 570
+Apozolco 680
+El Verde 819
+Pajaritos 766
+Mezcalitos 836
+Teponahuaxtla 635
+Cruz de Huanacaxtle 3171
+
+Bucerias 13098
+La Boquita 834
+La Bajada 537
+Huaynamota 523
+Cuastecomate 810
+Rincon de Guayabitos 1979
+El Rincon 595
+El Rosario 1330
+Rosamorada 3620
+San Juan Bautista 1344
+Chilapa 1953
+
+Ruiz 14050
+Yago 3965
+La Presa 4241
+La Palma 1113
+Palma Grande 2399
+Pericos 2222
+Puerta de Palapares 930
+Quimichis 3409
+Camichin de Jauja 2358
+
+La Penita de Jaltomba 9102
+Colonia Paraiso Escondido 2463
+Monteon 1807
+El Arrayan 856
+Mojarras 1544
+Santa Maria del Oro 4482
+Jesus Maria Corte 643
+Jesus Maria 2638
+El Capomal 1463
+El Capomo 999
+
+Acaponeta 19140
+Huajicori 3004
+Huajimic 1028
+Mayorquin 741
+Mazatan 956
+Mecatan 2657
+Jalcocotan 4207
+Zapotan 1125
+El Malinal 538
+El Madrigaleno 793
 Heroico Batallon de San Blas 568
 San Pedro Ixcatan 568
 San Pedro Lagunillas 3753
+
+Compostela 17573
 Felipe Carrillo Puerto 1154
-San Felipe Aztatan 4546
+Aquiles Serdan 1024
+Testerazo 2410
+Pantanal 3231
+Santa Teresa 1558
 
-Tecuala 14511
-Puerta de Palapares 930
-Puerta Azul 848
-La Libertad 1581
-Heriberto Jara 849
-Cerritos 634
-Cerro Blanco 712
-
-San Blas 10187
-Guadalupe Victoria 2932
-
-Villa Hidalgo 9908
-Villa Juarez 3000
-Autan 1890
-Sauta 2220
+Santiago Ixcuintla 18241
+Santiago de Pochotitan 1668
+Camalotita 1340
+Aticama 1404
+El Tigre 886
+El Tizate 1408
+Valle Lerma 944
+Nuevo Vallarta 1302
+Pueblo Nuevo 509
+Lima de Abajo 942
+El Jicote 1882
+El Puente 788
+Lo de Marcos 1792
+El Vado de San Pedro 1015
+El Venado 1367
+Rio Viejo 974
 Milpas Viejas 1712
 Aguamilpa 681
 Miravalles 690
 Valle Verde 667
-El Filo 939
-Presidio de los Reyes 832
-La Yesca 534
-La Yerba 786
-Ursulo Galvan 629
-El Madrigaleno 793
-El Malinal 538
-Zapotan 1125
-Zapotanito 1116
-Jalcocotan 4207
-
-Jala 5586
-Mojarras 1544
-Santa Maria del Oro 4482
-La Labor 2774
-La Corregidora 1089
-San Cayetano 4345
-Uzeta 1704
-
-Acaponeta 19140
-Sayulilla 2277
-Sayulita 2262
-Cruz de Huanacaxtle 3171
-
-Bucerias 13098
-
-Mezcales 20092
-Mezcalitos 836
-Tequilita 595
-Emiliano Zapata 1697
-El Rincon 595
-El Rosario 1330
+Valle Morelos 971
+Mora 971
+El Llano 1184
 La Higuerita 941
 Las Higueras 543
 Mesa del Tirador 767
@@ -160,85 +199,46 @@ Reforma Agraria 561
 El Resbalon 747
 El Recodo 768
 El Refugio 907
-Tetitlan 1003
-Llano del Tigre 1038
-Los Aguajes 1094
-San Andres Milpillas 640
-San Andres 884
-Leandro B. Flores 549
-El Trapichillo 884
-Quimichis 3409
-Huajimic 1028
-Mayorquin 741
-Mazatan 956
-Mecatan 2657
-Navarrete 1603
-La Presa 4241
-
-Santiago Ixcuintla 18241
-Yago 3965
-
-Ruiz 14050
-Santa Cruz 1316
-San Lorenzo 802
-Tequepexpan 1082
-Mexpan 1282
-
-Tuxpan 21709
-Cuamiles 2741
-Aquiles Serdan 1024
-El Verde 819
-El Venado 1367
-El Vado de San Pedro 1015
-Rio Viejo 974
-Chapalilla 1310
-Cofradia de Cuyutlan 966
-Palmar de Cuautla 1359
-El Botadero 1396
+La Yesca 534
+La Yerba 786
+Ursulo Galvan 629
 Pescadero 881
-Apozolco 680
-San Fernando 570
-Gavilan Grande 932
-La Guasima 1040
-La Goma 533
-Trigomil 643
-Mesa del Nayar 1729
-El Arrayan 856
-El Jicote 1882
-Huaristemba 788
-San Juan Bautista 1344
-San Miguel de Buenavista 517
-San Miguel 720
+Campamento Aserradero 744
+Campamento Morelos 641
+Paramita 943
+Mojarritas 610
+
+San Blas 10187
+Guadalupe Victoria 2932
+Autan 1890
+Sauta 2220
+
+Villa Hidalgo 9908
+Villa Juarez 3000
+Novillero 975
+Sentispac 2594
+
+Jala 5586
+Jomulco 3922
+La Labor 2774
+La Corregidora 1089
+San Cayetano 4345
 San Ignacio 610
+Amapa 2226
+Navarrete 1603
+Mesa del Nayar 1729
+Trigomil 643
+La Goma 533
+La Guasima 1040
+Gavilan Grande 932
 San Jose de Gracia 1037
 El Tambor 676
-La Boquita 834
-Los Mezquites 603
-Los Otates 1009
-Los Corchos 826
-Llano de la Cruz 694
-El Llano 1184
-Camichin de Jauja 2358
-
-La Penita de Jaltomba 9102
-Colonia Paraiso Escondido 2463
-
-Zacualpan 4893
-Cofradia de Acuitapilco 519
-Las Piedras 645
-El Buruato 519
-Atotonilco 810
-Rincon de Guayabitos 1979
-Naranjito de Copal 520
-Lo de Marcos 1792
-Lo de Lamedo 1356
-Los Medina 666
-
-Puga 6361
-Santiago de Pochotitan 1668
-Jomulco 3922
-Lima de Abajo 942
-Sentispac 2594
-La Fortuna 1046
-Marquezado 747
+Uzeta 1704
+Chapalilla 1310
+Zapotanito 1116
+Paso Hondo 590
 Tondoroque 651
+Marquezado 747
+La Fortuna 1046
+Cerro Blanco 712
+Huaristemba 788

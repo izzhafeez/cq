@@ -1,26 +1,79 @@
 
 
 Palermo 648260
+Ciaculli 6307
 
-Monreale 21964
-Montagnareale 515
-Gioiosa Marea 3238
-San Giorgio 1899
-Mongiove 565
-Case Nuove Russo 969
-Case Nuove Malluzzo 228
-Castelluzzo 1047
-Castello 221
-Carlentini Nord 944
+Villabate 19031
+Villa Ciambra 1919
+Piano Maglio-Blandino 2076
+Piano dei Geli 2428
+San Martino delle Scale 890
+Isola delle Femmine 7100
+Castanea delle Furie 1888
+Salice 961
+Salina 400
+Salinagrande 935
+Ustica 819
+Arenella 664
+Paternella 206
+Agliandroni-Paternella 1455
+Giardinello 1699
+Montelepre 4811
+Realmonte 3443
+Lido Rossello 439
+Lido di Noto 741
 
-Carlentini 14900
+Noto 18421
+Gallina 700
+Pollina 936
+Collina Primosole 358
+San Giuliano 358
+Giuliana 1742
+Cianciana 3375
+Siculiana 4504
+Giardina Gallotti 1008
+Joppolo Giancaxio 1001
+Raffadali 11992
+Raffo 222
+Ognina 222
+Rocchenere 701
+Roccalumera 3695
+Roccafiorita 228
+Fiorita-Sprazzi 297
+Frazzano 732
+San Salvatore di Fitalia 694
+Mirto 874
+Ficarra 793
+Ficarazzi 11356
+Ficarazzelli-Bagni Italia 757
+Portella di Mare 4707
+Francavilla di Sicilia 3866
+Castiglione di Sicilia 1817
+Nizza di Sicilia 3615
+Furci Siculo 2956
+Casalvecchio Siculo 423
+Sant'Alessio Siculo 1265
+San Francesco di Paola 413
+Rina 634
+Santa Marina 218
+Santa Maria di Licodia 6810
 
-Lentini 24102
-Sortino 8532
-Solarino 7220
-Marino 213
-Serro Alloro 213
-Gallodoro 378
+Biancavilla 23188
+
+Misterbianco 45542
+Belvedere-Piano Tavola 1574
+Piano Tavola 3892
+
+Avola 28666
+Cicirata 285
+Cammarata 5646
+Vallelunga Pratameno 3508
+Villalba 1689
+Santa Caterina Villarmosa 5507
+Villarosa 4164
+Villapriolo 580
+Priolo Gargallo 11724
+Melilli 6593
 Melia 374
 Delia 4191
 
@@ -40,184 +93,351 @@ Tremestieri-Pedara 284
 Pedara 12089
 Nicolosi-Pedara 348
 Nicolosi 7061
-Nicosia 10174
-Sperlinga 600
-Gangi 6430
-Longi 1514
-San Basilio 708
-Basico 583
-Montalbano Elicona 1454
-Villalba 1689
-Vallelunga Pratameno 3508
-Cammarata 5646
-Kamma 1206
-Pantelleria 3455
-Contessa Entellina 1754
+San Nicolo 219
+Cozzo Villa 232
+Acquaficara 561
+Regalgioffoli 247
+Regalbuto 6811
+Carrubbo 688
+Giumarra 971
+Fiumara 560
+Gliaca 1185
+Giacalone 1253
+Chiusa Sclafani 2656
+Sclafani Bagni 396
+Vulcano Piano 396
+Vulcano Porto 425
+Montaperto 425
+Montallegro 2327
+Cattolica Eraclea 3909
+Altolia 354
+Altofonte 7087
 
-Bronte 18397
-Brolo 4949
-Sant'Angelo di Brolo 1486
+Francofonte 12635
+Pedagaggi 2114
+Ferla 2488
+Secca Grande 703
+Lucca Sicula 1917
+Villafranca Sicula 1383
+Villafranca Tirrena 8124
+Saponara Marittima 1594
+Saponara 1473
+Scarcelli 868
+Pietra Forcella 230
+Pietraperzia 6798
+
+Barrafranca 13397
+Mazzarino 11870
+
+Piazza Armerina 17736
+Meri 1988
+Olivarella-Corriolo 2997
+Tonnarella 1193
+Tonnara di Bonagia 1004
+Leni 450
+Ballata 454
+Scillato 597
+Caltavuturo 4033
+
+Caltagirone 35371
+Mazzarrone 3887
+Villaggio Gulfi 686
+Chiaramonte Gulfi 4676
+Monterosso Almo 2984
+Giarratana 2932
+
+Giarre 24138
+Riposto 11719
+Buonriposo 483
+Itala 483
+Itala Marina 876
+Guidomandri Marina 1735
+Scaletta Superiore 225
+San Filippo Inferiore 497
+
+Messina 219948
+Sinagra 1716
+Sfaranda 1294
+Potame 202
+Cornino 298
+Sant'Antonino Sciortino 366
+Tortorici 3306
+
+Vittoria 50852
+Roccazzo 640
+Piano dell'Acqua 309
+Madonna dell'Acqua-Catilli 474
+Acquedolci 4664
+Valledolmo 3747
+Piana Calzata 511
+La Piana-Porticelle 455
+Villadoro 609
+Limina 900
+Aliminusa 1291
+Mistretta 4976
+Torretta 2308
+Fulgatore-Torretta 1069
+Purgatorio 351
+Castelluzzo 1047
+
+Castellammare del Golfo 13085
+Castello 221
+Carlentini Nord 944
+
+Carlentini 14900
+
+Lentini 24102
+Agnone 381
+Belmonte Mezzagno 10208
+Piano Pantaleo 743
+
+Misilmeri 19171
+Santa Croce Camerina 7668
+Marina di Ragusa 3468
+
+Ragusa 61380
+Puntarazzi 338
+Puntalazzo 382
+Milici 382
+Altavilla Milicia 5151
+Torre Colonna-Sperone 1521
+Torrenova 3854
+Militello Rosmarino 646
+Sant'Agata di Militello 9916
+Sant'Agata Li Battiati 9828
+Sant'Anna 584
+Sant'Antonio 237
+Solanto 303
+Isola 303
+Cinquegrana 676
+Petralia Soprana 1074
+Petralia Sottana 2738
+Resuttano 1938
+Reitano 501
+Motta d'Affermo 619
+Balata di Baida 209
+Torremuzza 209
+Santo Stefano di Camastra 4392
+Santo Stefano Quisquina 4072
+Alessandria della Rocca 2979
+Bivona 3661
+Pizzolungo 792
+Buseto Palizzolo 2573
+Pezzolo 486
+Palazzolo 1608
+Giaconia 387
+Caronia 1825
+Marina di Caronia 1015
+Marina di Palma 394
+Monforte Marina 882
+Monforte San Giorgio 1365
+San Giorgio 1899
+Gioiosa Marea 3238
+Montagnareale 515
+Patti 9321
+San Piero Patti 2056
+Baglio Mogli Belle 242
+Santa Margherita di Belice 6525
+Santa Ninfa 4856
+Nuova Gibellina 4260
+Contessa Entellina 1754
+Castel di Judica 1754
+Castel di Tusa 850
+Tusa 1948
+Pettineo 1362
+Mineo 4567
+Marineo 6305
+Marinella 1499
+Triscina 1353
+Baucina 1887
+Ventimiglia di Sicilia 2039
+Ciminna 3340
+Cimilla 228
+Case Nuove Malluzzo 228
+Case Nuove Russo 969
+Mongiove 565
+Erice 565
+Valderice 6827
+Sant'Andrea Bonagia 807
+Mazzarra Sant'Andrea 1335
+Furnari 1946
+Calabernardo 218
+Scala 260
+Michelica 277
+San Michele 384
+San Piero 345
+San Martino 335
+Grecale 299
+Greco 294
+Colla Maffone 635
+Librizzi 310
+Prizzi 4514
+Palazzo Adriano 2098
+Palazzolo Acreide 8357
+Buscemi 1063
+
+Niscemi 26893
+Borgo Europa 633
+Scoglitti 4175
+Corsitti 350
+Aci Bonaccorsi 3143
+Aci Sant'Antonio 10373
+
+Aci Catena 24663
+
+Aci Castello 17588
+Nizzeti 401
+Nizzetti I 230
+Tracoccia 230
+Crocci 461
+Crocevie 787
+Casalbianco 276
+
+Casa Santa 23880
+Massa San Giorgio 351
+San Giorgio II 259
+Nissoria 2382
+Assoro 3958
+
+Leonforte 13781
+Giammoro 2382
+Giampilieri 918
+Vambolieri 1546
+Vambolieri I 991
+Venetico Superiore 273
+Misserio 375
+Marina di Modica 782
+
+Modica 41126
+Sampieri 669
+Cava d'Aliga 1663
+Forza d'Agro 516
+Cantidati-Scorsonello 525
+Soccorso 317
+Gualtieri Sicamino 1475
+Condro 402
+Pace del Mela 3376
+San Filippo del Mela 2002
+Santa Lucia del Mela 4084
+Massa Santa Lucia 352
+Santa Venera-Portosalvo 538
+Santa Venerina 5000
+Linera 2757
+Valguarnera Caropepe 7453
+Pergusa 953
+
+Enna 22998
+Calascibetta 3167
+Santa Elisabetta 2505
 Sant'Angelo Muxaro 1350
 San Biagio Platani 3370
 Acquaviva Platani 795
 Acquacalda 263
 Stazione di Aragona-Caldare 263
 Aragona 8779
+Comitini 897
 
-Palagonia 16227
-Giaconia 387
-Palazzolo 1608
-Palazzolo Acreide 8357
-Buscemi 1063
-Buccheri 1860
-Boschetto Vaccheria 408
-Vaccarizzo-Delfino 882
-Prizzi 4514
-Palazzo Adriano 2098
-Alessandria della Rocca 2979
-Bivona 3661
-Calamonaci 1375
-Lucca Sicula 1917
-Villafranca Sicula 1383
-Burgio 2697
-San Giorgio II 259
-Nissoria 2382
-Assoro 3958
-Giammoro 2382
-Giampilieri 918
-Scaletta Superiore 225
-Faro Superiore 2586
-San Filippo Inferiore 497
+Comiso 26298
+Pedalino 2113
+Molino 214
+Linosa 238
+Sciara 2623
+Passopisciaro 396
+Scafa 396
+Malvagna 794
+Roccella Valdemone 691
+Campofelice di Roccella 5914
+Contrada Pistavecchia 239
+Contrada Caracoli 211
+Contrada Ponticello 805
+Contrada Stella 214
+Contrada San Marco 365
+Basico 583
+Santa Barbara 294
+Montalbano Elicona 1454
+Piana degli Albanesi 5651
+Santa Cristina Gela 616
 
-Messina 219948
-Buonriposo 483
-Itala 483
-Itala Marina 876
-Guidomandri Marina 1735
-Santa Marina 218
-Santa Maria di Licodia 6810
-
-Biancavilla 23188
-Francavilla di Sicilia 3866
-Castiglione di Sicilia 1817
-Milici 382
-Altavilla Milicia 5151
-
-Villabate 19031
-Villa Ciambra 1919
-Piano Maglio-Blandino 2076
-Piano dei Geli 2428
-San Martino delle Scale 890
-San Martino 335
-Grecale 299
-Greco 294
-Paceco 9358
-Nubia 637
-Casalbianco 276
-
-Casa Santa 23880
-Massa San Giorgio 351
-Purgatorio 351
-Fulgatore-Torretta 1069
-Rigaletta 829
-Maletto 3877
-Fondaco-Margherito 993
-Randazzo 9949
-Santa Domenica Vittoria 1028
-Tortorici 3306
-Catute 213
+Gela 73854
+Lido Manfria 500
 Butera 4683
 Sutera 1411
-Casteltermini 7350
 Campofranco 2755
+Milena 2840
+Bompensiere 610
+Bompietro 1370
+Blufi 826
+Castellana Sicula 3178
+Geraci Siculo 1815
+Gangi 6430
+Madonnuzza 451
+Donnalucata 3172
 
-Francofonte 12635
-Pedagaggi 2114
-Ferla 2488
+Scicli 16109
+Zappulla 321
 
-Capo d'Orlando 12038
-San Marco d'Alunzio 1833
-Contrada San Marco 365
-Contrada Stella 214
-Contrada Ponticello 805
-Contrada Caracoli 211
-Contrada Pistavecchia 239
-Campofelice di Roccella 5914
-Campofelice di Fitalia 544
-Campofiorito 1232
+Pozzallo 18166
+Santa Maria del Focallo 549
+
+Ispica 13725
+Casazza 272
+
+Rosolini 19721
+Solicchiata 569
+Nunziata 1606
+Sant'Antonino 388
+Sant'Alfio 1512
+Vena 352
+Piedimonte Etneo 3381
+Calatabiano 4102
+Calatafimi 4572
+Sasi 1728
+Vita 2139
+San Ciro-Ulmi-Filci 2214
+Posillesi 295
+Collesano 3409
+Gratteri 840
+Pasteria-Lapide 1081
+Cortiglia-Presti San Lorenzo 292
+Mili San Pietro 551
+Santa Maria la Stella 4467
+San Filippo Superiore 946
+Faro Superiore 2586
+Sparta' 1315
+Partanna 10200
+Montevago 2994
+Montedoro 1614
+Serradifalco 5642
+Falcone 2506
+Oliveri 2157
+Oliveto 474
+Vallebruca-Iria 395
+Brucoli 1098
+Campolato I 443
 Camporeale 3382
 Nuovo Centro Urbano Poggioreale 1517
 Salaparuta 1698
-Partanna 10200
-Santa Ninfa 4856
-Santa Margherita di Belice 6525
-Montevago 2994
-Realmonte 3443
-Monterosso Almo 2984
-Giarratana 2932
 
-Giarre 24138
-Carruba 1099
-Carruba-San Leonardello 1225
-Carrubbo 688
-Giumarra 971
-Fiumara 560
-Ficarra 793
+Marsala 77915
+Ciavolo 1682
+Petrosino 6761
+Mazara II 1270
+
+Mazara del Vallo 45953
+Campobello di Mazara 9883
+
+Castelvetrano 28072
+San Mauro Castelverde 1526
+Castelbuono 7458
+Isnello 1352
+Fasano-SS Trinita-Pianello 966
+Capri Leone 268
+Rocca di Capri Leone 4248
+San Marco d'Alunzio 1833
+
+Capo d'Orlando 12038
 Naso 1051
-Nasidi 242
-Sasi 1728
-Posillesi 295
-Riesi 11503
-Sommatino 6934
-Mazzarino 11870
-
-Piazza Armerina 17736
-Meri 1988
-
-Misilmeri 19171
-Piano Pantaleo 743
-Vulcano Piano 396
-Vulcano Porto 425
-Montaperto 425
-Pietraperzia 6798
-
-Barrafranca 13397
-Villafranca Tirrena 8124
-Saponara Marittima 1594
-Saponara 1473
-Napola 867
-Pollina 936
-Finale 1792
-Caucana-Finaiti-Casuzze-Finaiti N. 501
-Reitano 501
-Vita 2139
-San Ciro-Ulmi-Filci 2214
-San Cipirello 5136
-San Cono 2690
-San Michele di Ganzaria 3311
-
-Grammichele 12844
-Ramacca 10137
-Mirabella Imbaccari 5085
-Bellacera 220
-Bellolampo 676
-Gimello 246
-Cinquegrana 676
-Acquedolci 4664
-Madonna dell'Acqua-Catilli 474
-Piano dell'Acqua 309
-Roccazzo 640
-Roccamena 1544
-Roccalumera 3695
-Rocchenere 701
-Crocci 461
-Crocevie 787
-Bigini 276
-
-Carini 35082
-Cinisi 11705
-Terrasini 9973
-Terranova 475
+Castell'Umberto 1288
 Castelmola 475
 Lampedusa 4065
 
@@ -225,164 +445,11 @@ Porto Empedocle 16574
 Villaseta 6192
 
 Agrigento 32514
-Grisi 995
-Pennisi 1143
-Lavinaio-Monterosso 1398
-Monterosso 731
-Viagrande 6880
-Salinagrande 935
-Salina 400
-Molino 214
-Linosa 238
-Sciara 2623
-Scillato 597
-Ballata 454
-Leni 450
-Tonnara di Bonagia 1004
-Sant'Andrea Bonagia 807
-Mazzarra Sant'Andrea 1335
-Furnari 1946
-Tonnarella 1193
-Vigliatore 2 1101
-Vigliatore 543
-Terme 5002
-Ali Terme 2440
-Ali 778
-Fiumedinisi 1198
-Fiumenaro 266
-Naro 7816
-
-Palma di Montechiaro 22654
-Palma 725
-Marausa 1194
-Marausa Lido 357
-Alcara Li Fusi 1974
-Militello Rosmarino 646
-Sant'Agata di Militello 9916
-Sant'Agata Li Battiati 9828
-Patti 9321
-San Piero Patti 2056
-Santa Maria Lo Piano-San Silvestro 459
-Santa Maria la Stella 4467
-San Filippo Superiore 946
-Mili San Pietro 551
-San Piero 345
-Calamarieri 353
-Murmari 215
-Murazzorotto 409
-Borgo Fortura 210
-Curcuraci 894
-Furci Siculo 2956
-Casalvecchio Siculo 423
-Sant'Alessio Siculo 1265
-San Francesco di Paola 413
-Rina 634
-Santa Marina Salina 630
-Gatto Corvino 262
-Lingua 262
-Linguaglossa 5234
-Piedimonte Etneo 3381
-Calatabiano 4102
-Fiumefreddo Sicilia 9483
-Nizza di Sicilia 3615
-Novara di Sicilia 906
-Tripi 365
-Riposto 11719
-Santa Venera-Portosalvo 538
-Vena 352
-Santa Venerina 5000
-Linera 2757
-Mineo 4567
-Marineo 6305
-Marinella 1499
-Triscina 1353
-
-Sciacca 36897
-Caltabellotta 3267
-Altarello 483
-
-Caltanissetta 56715
-Calascibetta 3167
-Lascari 2857
-Gratteri 840
-Isnello 1352
-Giardinello 1699
-Giardina Gallotti 1008
-Joppolo Giancaxio 1001
-Pioppo 2656
-Giacalone 1253
-Barone 296
-Caronia 1825
-Marina di Caronia 1015
-Marina di Palma 394
-Monforte Marina 882
-
-Leonforte 13781
-Monforte San Giorgio 1365
-Santissimo Salvatore 227
-San Salvatore di Fitalia 694
-Mirto 874
-Castell'Umberto 1288
-
-Aci Castello 17588
-
-Aci Catena 24663
-Aci Bonaccorsi 3143
-Aci Sant'Antonio 10373
-Sant'Antonio 237
-Sant'Anna 584
-Sciglio 216
-Raccuja 584
-
-Siracusa 97472
-Fanusa 524
-
-Ravanusa 12051
 
 Favara 32110
 Cannizzaro-Favara 1283
+Barone 296
 Strazzasite 269
-Frazzano 732
-Casazza 272
-
-Pozzallo 18166
-
-Barcellona Pozzo di Gotto 34598
-Contrada Battifoglia 291
-Contrada Cantoni 373
-Protonotaro 602
-Rodi 1436
-Rodia-San Saba 815
-Salice 961
-Castanea delle Furie 1888
-Isola delle Femmine 7100
-Capaci 9779
-Parco degli Ulivi 334
-Piana degli Albanesi 5651
-Santa Cristina Gela 616
-
-Gela 73854
-Lido Manfria 500
-Lido di Noto 741
-
-Noto 18421
-San Corrado di Fuori 449
-Dattilo 479
-Canicattini Bagni 6893
-Sclafani Bagni 396
-Scafa 396
-Scala 260
-Mascali 9377
-
-Mascalucia 29910
-San Pietro Clarenza 6886
-Camporotondo Etneo 2831
-
-Misterbianco 45542
-Belvedere-Piano Tavola 1574
-Piano Tavola 3892
-Motta Sant'Anastasia 9025
-Motta Camastra 587
 Camastra 2090
 Castrofilippo 2895
 Racalmuto 7083
@@ -391,405 +458,338 @@ Grotte 5592
 Torregrotta 7324
 Valdina 356
 Roccavaldina 709
-Cavallaro 257
-Villaggio Santa Lucia 206
-Massa Santa Lucia 352
-Santa Lucia del Mela 4084
-San Filippo del Mela 2002
-Pace del Mela 3376
-Condro 402
-Fondachello 752
-Venetico Marina 3322
+Santissimo Salvatore 227
+Vigliatore 543
+Vigliatore 2 1101
+Contrada Battifoglia 291
+Contrada Cantoni 373
+Terme 5002
+Castroreale 663
+La Gala 844
+Bafia 643
+Rodi 1436
+Rodia-San Saba 815
+Carruba-San Leonardello 1225
+Carruba 1099
+Carrubazza-Motta 3170
+Cerza 3124
+Canalicchio 7329
+Piane Vecchie 339
+Aidone 4929
+Solazzo 339
+
+Milazzo 31771
 San Pier Marina 591
 San Pier Niceto 1703
-Pietra Forcella 230
-Scarcelli 868
-Calvaruso 433
-Malvagna 794
-Moio Alcantara 746
+San Pietro Clarenza 6886
+Camporotondo Etneo 2831
+Villaggio del Pino-Le Ginestre 1980
 
-Alcamo 44431
-Balestrate-Foce 5916
-Trappeto 2916
-San Giuseppe Jato 8245
-Chiusa Sclafani 2656
-Archi 968
-Marchesana 641
-Cesaro 2345
-Cassaro 782
-Marina di Modica 782
-
-Modica 41126
-
-Ispica 13725
-
-Rosolini 19721
-Collina Primosole 358
-San Giuliano 358
-Giuliana 1742
-Cianciana 3375
-Siculiana 4504
-Lido Rossello 439
-Aidone 4929
-Braidi 249
-Mongiuffi 249
-Roccafiorita 228
-Fiorita-Sprazzi 297
-Prato Fiorito 208
-Cefala Diana 641
-Cefalu 11613
-Sant'Ambrogio 286
-Sant'Alfio 1512
-Sant'Antonino 388
-Nunziata 1606
-Grazia 298
-Sinagra 1716
-Sfaranda 1294
-Potame 202
-Galati Mamertino 2058
-Sant'Antonino Sciortino 366
-Cornino 298
-Ognina 222
-Bolognetta 2769
-Torretta 2308
-Columbrina-Za Minica 468
-Roccapalumba 2175
-Vicari 2563
-Macari 329
-San Vito Lo Capo 2730
+Belpasso 16319
 Portopalo di Capo Passero 3411
 
 Pachino 20493
 Marzameni 367
-Cerza 3124
-Canalicchio 7329
-Solicchiata 569
+Roccamena 1544
+Cassaro 782
+Cesaro 2345
+San Teodoro 1421
+San Basilio 708
+Galati Mamertino 2058
+Sortino 8532
+Solarino 7220
+Marino 213
+Serro Alloro 213
+Catute 213
+Grazia 298
+Fontana Lupo-Rigolizia 213
+Tre Fontane 1263
+Fontane Bianche 889
+Cassibile 4573
+Punta Milocca 435
+Fanusa 524
+
+Ravanusa 12051
+Sommatino 6934
+Matini-Casette 277
+Caucana-Finaiti-Casuzze-Finaiti N. 501
+Finale 1792
+Ilombati 286
+Sant'Ambrogio 286
+Cefalu 11613
+Cefala Diana 641
+Marchesana 641
+Archi 968
+Prato Fiorito 208
+Campofiorito 1232
+Campofelice di Fitalia 544
+Alia 3504
+Roccapalumba 2175
+Vicari 2563
+
+Carini 35082
+Parco degli Ulivi 334
+Columbrina-Za Minica 468
+
+Partinico 28708
+Borgetto 6272
+Maletto 3877
+
+Bronte 18397
+Fondaco-Margherito 993
+Fondachello 752
+Venetico Marina 3322
+Spadafora 4547
+Rometta Marea 4835
+Rometta 867
+Napola 867
+Pellegrino 440
+Pantelleria 3455
+Scauri 942
+Kamma 1206
+Borgata Costiera 410
+Borgo Fortura 210
+Murazzorotto 409
+Porrazzo 345
+Campogrande 345
+Punta Grande 226
+Punta Secca 226
+Murmari 215
+Calamarieri 353
+Vambolieri II 318
+Stromboli 639
+Panarea 320
+Santa Marina Salina 630
+Gatto Corvino 262
+Lingua 262
+Linguaglossa 5234
+Sperlinga 600
+Nicosia 10174
+Cerami 1995
+Capizzi 3182
+Troina 9081
+Gagliano Castelferrato 3427
+Guarrato 901
+Rilievo 2592
+Locogrande 909
+Nubia 637
+Palma 725
+Marausa 1194
+Marausa Lido 357
+Granieri 357
+Graniti 1399
+Gaggi 3093
 Chianchitta-Trappitello 4029
 Chianchitta-Pallio 2267
 Giardini-Naxos 6802
 Citta Giardino 2082
 Belvedere 6263
-Carrozziere 1394
-Mazzarrone 3887
-Pedalino 2113
-Acate 7919
-Gliaca 1185
-Pagliara 462
+Tivoli 333
+
+Floridia 22089
+Floresta 505
+Cresta 927
+Bellolampo 676
+Bellacera 220
+Genovese 220
+Gaudesi 290
+Gimello 246
+Altarello 483
+San Cipirello 5136
+San Giuseppe Jato 8245
+Grisi 995
+
+Alcamo 44431
+Caccamo 7241
+San Giovanni II 238
+
+Termini Imerese 22957
+Casteltermini 7350
+San Giovanni Gemini 7774
+San Giovanni 1789
+
+San Giovanni la Punta 22046
+Valverde 4913
+Maugeri 2285
+Orioles 284
+Trecastagni 10135
+Viagrande 6880
+Monterosso 731
+Lavinaio-Monterosso 1398
+Pennisi 1143
+Cinisi 11705
+Fiumedinisi 1198
+Ali 778
+Ali Terme 2440
 Santa Teresa di Riva 7977
-Cantidati-Scorsonello 525
-Antillo 912
-Cimilla 228
-Ciminna 3340
-Ventimiglia di Sicilia 2039
-Baucina 1887
-Villafrati 3076
-Mezzojuso 2624
-Belmonte Mezzagno 10208
-Ciaculli 6307
-Ficarazzelli-Bagni Italia 757
-Ficarazzi 11356
-Portella di Mare 4707
-Consona 1 372
+Santa Flavia 9365
 
 Bagheria 52952
-Santa Flavia 9365
-Casteldaccia 10091
-Costa Saracena-Castelluccio 453
-Agnone 381
-Villasmundo 3008
-Villadoro 609
-Villarosa 4164
-Santa Caterina Villarmosa 5507
-Petralia Sottana 2738
-Petralia Soprana 1074
-Alia 3504
-Montemaggiore Belsito 3556
-Gaggi 3093
-Graniti 1399
-Granieri 357
-Sampieri 669
-Cava d'Aliga 1663
-Forza d'Agro 516
-Motta d'Affermo 619
-Pettineo 1362
-Milo 619
-Ilombati 286
-Stromboli 639
-Panarea 320
-Quattropani 821
+Boschetto Vaccheria 408
+Larderia 2478
+Frumenti 392
+Fiumenaro 266
+Naro 7816
 
-Trapani 58681
-Favignana 2436
-Pizzolungo 792
-Buseto Palizzolo 2573
+Palma di Montechiaro 22654
+
+San Leone Mose 13332
+Corleone 10290
+Bisacquino 4557
+Burgio 2697
+Caltabellotta 3267
+
+Ribera 17664
+Calamonaci 1375
+Custonaci 3910
+Bigini 276
 Chiesanuova 534
 Catenanuova 4447
 Centuripe 4910
 
 Adrano 34446
 Godrano 1119
+Villafrati 3076
+Mezzojuso 2624
+Bolognetta 2769
+Rigaletta 829
+Mokarta 341
+Paceco 9358
+Favignana 2436
+Marettimo 664
+Curcuraci 894
+Villaggio Santa Lucia 206
+Cavallaro 257
+Biscione 292
 
-Castelvetrano 28072
-Campobello di Mazara 9883
-
-Mazara del Vallo 45953
-Mazara II 1270
-Borgata Costiera 410
-Borgetto 6272
-Corsitti 350
-
-Partinico 28708
-Montelepre 4811
-Montedoro 1614
-Bompensiere 610
-Bompietro 1370
-Blufi 826
-Castellana Sicula 3178
-Geraci Siculo 1815
-Raffo 222
-Raffadali 11992
-Santa Elisabetta 2505
-Comitini 897
-
-Comiso 26298
-
-Vittoria 50852
-Scoglitti 4175
-Borgo Europa 633
+Siracusa 97472
+Carrozziere 1394
+Plemmirio 376
+Canicattini Bagni 6893
+Dattilo 479
+Lenzevacche 479
+Buccheri 1860
+Vizzini 5967
 Licodia Eubea 2921
 
-Scordia 16645
-Militello in Val di Catania 7798
-Vizzini 5967
-Capizzi 3182
-Cerami 1995
-Troina 9081
-Petrosino 6761
-Ciavolo 1682
+Grammichele 12844
+San Michele di Ganzaria 3311
+San Cono 2690
+San Corrado di Fuori 449
 
-Avola 28666
-Tivoli 333
+San Cataldo 22079
 
-Floridia 22089
-Floresta 505
-Crociate 505
-Ucria 940
-Moira 445
-Fontana Lupo-Rigolizia 213
-Tre Fontane 1263
-Fontane Bianche 889
-Cassibile 4573
-Gallina 700
-Priolo Gargallo 11724
-Melilli 6593
-Mussomeli 9818
-Rometta 867
-Rometta Marea 4835
-Spadafora 4547
-Sparta' 1315
-Mokarta 341
-Valderice 6827
-Erice 565
-Oliveri 2157
-Oliveto 474
-Olivarella-Corriolo 2997
-Villapriolo 580
-Alimena 2100
-Resuttano 1938
-Cresta 927
-Cortiglia-Presti San Lorenzo 292
-Biscione 292
-Passopisciaro 396
-
-Belpasso 16319
-Villaggio del Pino-Le Ginestre 1980
-Villaggio Gulfi 686
-Chiaramonte Gulfi 4676
-Orto Liuzzo 309
-Torremuzza 209
-Torrenova 3854
-Rocca di Capri Leone 4248
-Capri Leone 268
-Valledolmo 3747
-Piana Calzata 511
-La Piana-Porticelle 455
-Fasano-SS Trinita-Pianello 966
-Limina 900
-Aliminusa 1291
-Tusa 1948
-Castel di Tusa 850
-Castel di Lucio 1291
-Mistretta 4976
-Marettimo 664
-Vambolieri II 318
-Punta Grande 226
-Punta Secca 226
-Punta Milocca 435
-Plemmirio 376
-Salemi 7788
-
-Niscemi 26893
-
-Caltagirone 35371
-Agira 7627
+Caltanissetta 56715
+Marianopoli 1894
+Santa Maria Lo Piano-San Silvestro 459
+Sant'Angelo di Brolo 1486
+Brolo 4949
 Piraino 332
 Zappardino 254
-Zappulla 321
-
-Scicli 16109
-Donnalucata 3172
-Marina di Ragusa 3468
-
-Ragusa 61380
-Puntarazzi 338
-Puntalazzo 382
-Solazzo 339
-Piane Vecchie 339
-Valguarnera Caropepe 7453
-Pergusa 953
-
-Enna 22998
-Torre Colonna-Sperone 1521
-Trabia 9276
-
-Termini Imerese 22957
-San Giovanni II 238
-San Giovanni 1789
-San Giovanni Gemini 7774
+Nasidi 242
+Ucria 940
+Moira 445
+Sceti 481
+Longi 1514
+Mongiuffi 249
+Braidi 249
+Gallodoro 378
+Mollica-Acqua Calda 249
+Scifi 283
+Antillo 912
+Evangelisti-Rubino 540
+Novara di Sicilia 906
+Sambuca di Sicilia 5903
 Castronuovo di Sicilia 2808
 Lercara Friddi 6687
+Alcara Li Fusi 1974
+Moio Alcantara 746
+Mazzeo 569
+Motta Camastra 587
+Motta Sant'Anastasia 9025
+San Nullo 363
 San Fratello 3942
 San Francesco 204
-Misserio 375
-Venetico Superiore 273
-Regalgioffoli 247
-Localita Seggio 252
-Michelica 277
-San Michele 384
-Pasteria-Lapide 1081
-Paternella 206
-Arenella 664
-Altolia 354
-Altofonte 7087
+
+Trapani 58681
+Trappeto 2916
+Balestrate-Foce 5916
+Terrasini 9973
+Terranova 475
+
+Acireale 49477
+
+Monreale 21964
+Pioppo 2656
+Capaci 9779
+
+Paterno 46030
+Ragalna 3302
+
+Mascalucia 29910
+Mascali 9377
+Lascari 2857
+Macari 329
+San Vito Lo Capo 2730
+Orto Liuzzo 309
+Filicudi Porto 307
+Malfa 797
+Calarco 821
+Quattropani 821
 Pianoconte 1082
 Lipari 4263
 Canneto 2065
-Letojanni 2699
-Taormina 5790
-Mollica-Acqua Calda 249
-Acquaficara 561
-San Nicolo 219
-Cozzo Villa 232
-Matini-Casette 277
-Vambolieri I 991
-Vambolieri 1546
-Nizzeti 401
-Nizzetti I 230
-Tracoccia 230
-Soccorso 317
-Gualtieri Sicamino 1475
-Sambuca di Sicilia 5903
-Castel di Judica 1754
-Bisacquino 4557
-Santo Stefano Quisquina 4072
-Santo Stefano di Camastra 4392
-Balata di Baida 209
-Santa Barbara 294
-Colla Maffone 635
-Librizzi 310
-Baglio Mogli Belle 242
-Agliandroni-Paternella 1455
-
-Paterno 46030
-Calabernardo 218
-Larderia 2478
-Valverde 4913
-Maugeri 2285
-
-Augusta 30723
-Campolato I 443
-Brucoli 1098
-Vallebruca-Iria 395
-Montallegro 2327
-Cattolica Eraclea 3909
-Cattafi 839
-Calatafimi 4572
-Nuova Gibellina 4260
-
-Ribera 17664
-Secca Grande 703
-Campogrande 345
-Locogrande 909
-Rilievo 2592
-Guarrato 901
-Gagliano Castelferrato 3427
-Regalbuto 6811
-Castelbuono 7458
-San Mauro Castelverde 1526
-Scauri 942
-
-Marsala 77915
-Calarco 821
-Malfa 797
-Falcone 2506
-Serradifalco 5642
-
-San Cataldo 22079
-Marianopoli 1894
-Milena 2840
-
-Milazzo 31771
-Porrazzo 345
-Mazzeo 569
-Roccella Valdemone 691
-Evangelisti-Rubino 540
-Bafia 643
-Castroreale 663
-La Gala 844
 San Paolo-Cannistra 737
 
-San Giovanni la Punta 22046
-Carrubazza-Motta 3170
-Orioles 284
-Collesano 3409
-Cerda 5129
-Caltavuturo 4033
-Polizzi Generosa 3454
-Madonnuzza 451
+Barcellona Pozzo di Gotto 34598
+Protonotaro 602
+Tripi 365
 
-Acireale 49477
-Cicirata 285
-Lenzevacche 479
-Saitta 241
-Campanella-Gianforma 1750
-
-San Leone Mose 13332
-Corleone 10290
-
-Castellammare del Golfo 13085
-Santa Maria del Focallo 549
+Sciacca 36897
 Menfi 11874
-Frumenti 392
-Gaudesi 290
-Genovese 220
-Solanto 303
-Isola 303
-Celsa 292
-Sceti 481
-Scifi 283
-Mandanici 585
-Trecastagni 10135
+Salemi 7788
+
+Augusta 30723
+Costa Saracena-Castelluccio 453
+Villasmundo 3008
+
+Scordia 16645
+Militello in Val di Catania 7798
+
+Palagonia 16227
+Ramacca 10137
+Mirabella Imbaccari 5085
+Vaccarizzo-Delfino 882
+Cattafi 839
+Raccuja 584
+Sciglio 216
+Riesi 11503
+Casteldaccia 10091
+Consona 1 372
+Trabia 9276
+Cerda 5129
+Montemaggiore Belsito 3556
+Polizzi Generosa 3454
+Alimena 2100
+Randazzo 9949
+Santa Domenica Vittoria 1028
+Crociate 505
+Mussomeli 9818
+Fiumefreddo Sicilia 9483
+Taormina 5790
+Letojanni 2699
 Zafferana Etnea 9214
-Santa Croce Camerina 7668
-Caccamo 7241
-Custonaci 3910
-Ustica 819
-Ragalna 3302
+Acate 7919
+Agira 7627
 Raddusa 3192
-San Teodoro 1421
-San Nullo 363
+Campanella-Gianforma 1750
+Saitta 241
 Gesso 549
-Pezzolo 486
-Pellegrino 440
+Castel di Lucio 1291
+Milo 619
+Mandanici 585
+Pagliara 462
 Cumia 486
-Filicudi Porto 307
+Calvaruso 433
+Celsa 292
+Localita Seggio 252

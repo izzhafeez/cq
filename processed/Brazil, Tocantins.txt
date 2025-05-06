@@ -1,49 +1,41 @@
 
 
 Palmas 306296
-Almas 6979
-Rio da Conceicao 2171
-Conceicao do Tocantins 4087
-Natividade 9250
-Chapada da Natividade 3331
-Chapada de Areia 1410
-Oliveira de Fatima 1118
-Fatima 3830
 
-Araguatins 36170
-Itaguatins 5832
-Goiatins 13095
-Campos Lindos 10312
-Rio dos Bois 2856
-Dois Irmaos do Tocantins 7185
-Divinopolis do Tocantins 6943
+Porto Nacional 53316
+Fatima 3830
+Oliveira de Fatima 1118
+Chapada de Areia 1410
+Chapada da Natividade 3331
+Natividade 9250
+Conceicao do Tocantins 4087
+Rio da Conceicao 2171
+
+Dianopolis 22424
 Marianopolis do Tocantins 5254
+Divinopolis do Tocantins 6943
 Abreulandia 2594
 Babaculandia 10666
 Wanderlandia 11734
-Sandolandia 3373
 Carmolandia 2603
 Sao Miguel do Tocantins 12294
-Sao Sebastiao do Tocantins 4852
-Santa Rosa do Tocantins 4846
-Santa Rita do Tocantins 2386
-Santa Maria do Tocantins 3486
-Santa Terezinha do Tocantins 2530
-Porto Alegre do Tocantins 3170
-Novo Alegre 2332
-Novo Jardim 2745
+Jau do Tocantins 3878
+Sao Salvador do Tocantins 3094
+Palmeiropolis 7676
+Figueiropolis 5243
+Cariri do Tocantins 4441
+Buriti do Tocantins 11497
+Axixa do Tocantins 9787
+Sitio Novo do Tocantins 8997
 
-Dianopolis 22424
+Paraiso do Tocantins 51891
+Monte Santo do Tocantins 2295
+Sao Bento do Tocantins 5391
+Luzinopolis 3154
 
 Tocantinopolis 22845
 Aguiarnopolis 6892
 Darcinopolis 6174
-Luzinopolis 3154
-Sao Bento do Tocantins 5391
-Monte Santo do Tocantins 2295
-
-Paraiso do Tocantins 51891
-Taipas do Tocantins 2166
 Palmeiras do Tocantins 6745
 Palmeirante 6131
 Barra do Ouro 4632
@@ -52,104 +44,112 @@ Itapora do Tocantins 2420
 Colmeia 8141
 Goianorte 5130
 Miranorte 13493
-Tocantinia 7617
-Lajeado 3167
+Rio dos Bois 2856
+Rio Sono 6488
+Bernardo Sayao 4448
+Sao Sebastiao do Tocantins 4852
+Santa Rosa do Tocantins 4846
+Santa Rita do Tocantins 2386
+Santa Maria do Tocantins 3486
+Santa Terezinha do Tocantins 2530
+Santa Tereza do Tocantins 2897
+Lagoa do Tocantins 4393
+Ponte Alta do Tocantins 8116
+Ponte Alta do Bom Jesus 4591
+Novo Jardim 2745
+Novo Alegre 2332
+Porto Alegre do Tocantins 3170
+Cachoeirinha 2284
+Riachinho 4684
+Brejinho de Nazare 5519
+Nazare 3834
+Lizarda 3733
+Presidente Kennedy 3676
+Brasilandia do Tocantins 2211
+Maurilandia do Tocantins 3448
+Alianca do Tocantins 5346
+Crixas do Tocantins 1735
+Taipas do Tocantins 2166
+Aparecida do Rio Negro 4848
+Muricilandia 3587
+Barrolandia 5651
+Sandolandia 3373
+Araguacu 8467
+
+Formoso do Araguaia 18399
+Santa Fe do Araguaia 7595
+Bandeirantes do Tocantins 3592
+Lavandeira 1954
+Arapoema 6616
+Sao Valerio 3904
+Peixe 11873
+Sucupira 1986
+Tupirama 1922
+Tupiratins 2729
+Itapiratins 3795
+Goiatins 13095
+Itaguatins 5832
+
+Araguatins 36170
+
+Augustinopolis 18643
+Praia Norte 8498
+Sampaio 4794
+Carrasco Bonito 4130
+Arraias 10534
 Combinado 4861
-Xambioa 11520
+
+Taguatinga 16825
 Araguana 5793
 
 Araguaina 183381
 Aragominas 5731
 
 Colinas do Tocantins 35851
-Brasilandia do Tocantins 2211
-Maurilandia do Tocantins 3448
-Sitio Novo do Tocantins 8997
-Buriti do Tocantins 11497
-Carrasco Bonito 4130
-Arraias 10534
-
-Guarai 26165
-Fortaleza do Tabocao 2602
-Santa Tereza do Tocantins 2897
-Lagoa do Tocantins 4393
-Lagoa da Confusao 13676
-Cristalandia 7278
-Nova Rosalandia 4304
 Nova Olinda 11917
-Silvanopolis 5428
-Ipueiras 2052
-Brejinho de Nazare 5519
-
-Porto Nacional 53316
-Monte do Carmo 8066
-Ponte Alta do Tocantins 8116
-Ponte Alta do Bom Jesus 4591
-Bom Jesus do Tocantins 5008
-
-Pedro Afonso 13773
-
-Formoso do Araguaia 18399
-Santa Fe do Araguaia 7595
-Bandeirantes do Tocantins 3592
-Pugmil 2717
-Muricilandia 3587
-Barrolandia 5651
-Aparecida do Rio Negro 4848
-Lizarda 3733
-Novo Acordo 4397
-Bernardo Sayao 4448
-Rio Sono 6488
-Sao Valerio 3904
-Sao Salvador do Tocantins 3094
-Jau do Tocantins 3878
-Palmeiropolis 7676
-Figueiropolis 5243
-Cariri do Tocantins 4441
+Nova Rosalandia 4304
+Cristalandia 7278
+Pium 7743
+Lagoa da Confusao 13676
+Duere 4686
 
 Gurupi 87545
-Sucupira 1986
-Tupiratins 2729
-Itapiratins 3795
-Mateiros 2729
-Pequizeiro 5512
-Peixe 11873
-Esperantina 11139
-Parana 10437
-Ananas 9492
-Nazare 3834
-Juarina 2184
-Couto Magalhaes 5639
-
-Taguatinga 16825
-Araguacu 8467
-Araguacema 7155
-Caseara 5442
-
-Augustinopolis 18643
-Praia Norte 8498
-Sampaio 4794
-Axixa do Tocantins 9787
-Crixas do Tocantins 1735
-Alianca do Tocantins 5346
-Duere 4686
-Piraque 3033
-Tupirama 1922
+Alvorada 8396
+Talisma 2812
+Angico 3454
+Campos Lindos 10312
 Pindorama do Tocantins 4430
 
 Miracema do Tocantins 17936
-Angico 3454
-Cachoeirinha 2284
-Riachinho 4684
-Arapoema 6616
-Lavandeira 1954
+
+Guarai 26165
+Fortaleza do Tabocao 2602
+
+Pedro Afonso 13773
+Bom Jesus do Tocantins 5008
+Mateiros 2729
+Pequizeiro 5512
+Couto Magalhaes 5639
+Juarina 2184
+Pau D'Arco 4867
+Araguacema 7155
+Caseara 5442
+Dois Irmaos do Tocantins 7185
+Tocantinia 7617
+Lajeado 3167
+Novo Acordo 4397
+Monte do Carmo 8066
+Silvanopolis 5428
+Ipueiras 2052
+Xambioa 11520
+Piraque 3033
+Ananas 9492
+Esperantina 11139
+Parana 10437
 Filadelfia 8874
-Alvorada 8396
-Talisma 2812
-Pium 7743
 Itacaja 7452
 Recursolandia 4342
 Centenario 2936
-Presidente Kennedy 3676
-Pau D'Arco 4867
+Almas 6979
+Pugmil 2717
 Sao Felix do Tocantins 1598

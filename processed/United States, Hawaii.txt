@@ -11,6 +11,7 @@ Kahaluu-Keauhou 4778
 Kailua-Kona 19713
 
 Wailuku 17697
+Wailua 2359
 
 Kailua 40514
 
@@ -19,164 +20,163 @@ Kaneohe Station 9483
 Waikane 728
 Waikapu 3437
 Haleiwa 4941
-Kalihiwai 361
-Lihue 8004
-Kilauea 3014
+Hanalei 444
+Hanapepe 2678
+Papaikou 1166
+Kukuihaele 281
+Punaluu 1374
+Maunaloa 435
+Honalo 996
+Ainaloa 3609
+Paauilo 618
+Pahala 1403
+Discovery Harbour 1171
+Kaloko 1314
+Launiupoko 688
+Waimanalo Beach 4823
+Ewa Beach 16415
+
+Ewa Gentry 25707
+Ocean Pointe 14965
+Iroquois Point 4549
+Omao 1346
+Mokuleia 1816
+Ewa Villages 7825
+Whitmore Village 4887
+Waikoloa Village 7104
+Koloa 2231
+Nanawale Estates 1652
+Kula 6942
+Fern Acres 1965
+Fern Forest 1150
+Kaunakakai 3419
 
 Makakilo 19877
 
 Kapolei 21411
 East Kapolei 5299
 West Loch Estate 5523
+Leilani Estates 1139
 Mauna Loa Estates 1057
 Makena 196
 Wheeler AFB 2412
 Hawaiian Acres 3426
 Hawaiian Ocean View 4864
-Punaluu 1374
-Kapalua 495
-Kapaa 11652
-Kapaau 2008
-Paauilo 618
-Discovery Harbour 1171
-Pahala 1403
-Halawa 15016
-Lawai 2578
-Lanai City 3332
-Wainiha 419
-Honaunau-Napoopoo 2416
-Honalo 996
-Maunaloa 435
-Ainaloa 3609
-Mahinahina 910
-Lahaina 12702
-Napili-Honokowai 7042
-Honokaa 2699
-Holualoa 2994
-Koloa 2231
-Waikoloa Village 7104
-Wailea 6027
-Wailua 2359
-Waialua 4062
-Waianae 13614
-Nanakuli 12195
-Maili 11535
-Kamaili 157
-Haliimaile 1074
-Aiea 10408
-Waimanalo Beach 4823
-Kaloko 1314
-Launiupoko 688
-Halaula 773
-Waiohinu 198
-Makaha Valley 198
-Makaha 9916
-Makawao 7297
-Fern Acres 1965
-Fern Forest 1150
-Kaunakakai 3419
-Kekaha 3715
-Kealakekua 2307
-Manele 7
-Eleele 2515
-Kurtistown 2515
-Wainaku 1147
-Laupahoehoe 1147
-Anahola 2243
-Kalapana 167
+Hawaiian Beaches 3976
+Royal Hawaiian Estates 790
 Kaanapali 1161
+Pepeekeo 1826
 Kaaawa 1421
-Paukaa 434
+Volcano 736
+Volcano Golf Course 363
+Olowalu 100
+Eden Roc 1386
+Haena 550
+Kawela Bay 325
+Princeville 2157
+Pahoa 924
 Ualapu'e 393
 Kualapuu 2110
-Pukalani 8299
-
-Mililani Mauka 21075
+Lanai City 3332
+Wainiha 419
+Wainaku 1147
+Laupahoehoe 1147
+Kurtistown 2515
 
 Mililani Town 28121
+
+Mililani Mauka 21075
 Waipio Acres 5531
 Waipio 12082
 
 Waipahu 43485
 Waikele 7509
 Royal Kunia 14896
-Royal Hawaiian Estates 790
-Hawaiian Beaches 3976
-Pepeekeo 1826
-Hanapepe 2678
-Hanalei 444
 Hana 1526
 Maunawili 2026
 Mountain View 4215
-Seaview 512
-Paia 2470
-Papaikou 1166
-Kukuihaele 281
-Kahuku 2852
+Captain Cook 3253
+Lawai 2578
+Halawa 15016
+
+Pearl City 45295
+Poipu 1299
+Kalaoa 12590
+Kalaheo 4996
+Waimea (Kauai County) 2057
+Waimea (Hawaii County) 9904
+Hawaiian Paradise Park 14957
+Orchidlands Estates 3165
+
+Hilo 44186
+Pukalani 8299
 
 Kahului 28219
-Waihee-Waiehu 9234
-
-Kihei 21423
-Heeia 5001
-Mokuleia 1816
-Kula 6942
-Nanawale Estates 1652
-Leilani Estates 1139
+Kahuku 2852
+Laie 5963
+Hauula 4018
+Pupukea 5130
+Waialua 4062
+Waianae 13614
+Makaha 9916
+Makaha Valley 198
+Kaumakani 672
+Puako 267
+Maalaea 310
+Kalaeloa 2364
+Kalihiwai 361
 Olinda 1188
 Ko Olina 1999
 Hawi 2268
-Keokea 2199
-Keaau 1195
-Pahoa 924
-Princeville 2157
-Ewa Villages 7825
-Whitmore Village 4887
-Omao 1346
-Naalehu 811
-Maalaea 310
-Kalaeloa 2364
-Kalaoa 12590
-Poipu 1299
-Iroquois Point 4549
-Ocean Pointe 14965
-Ewa Beach 16415
-
-Ewa Gentry 25707
-Tiki Gardens 555
-Eden Roc 1386
-Haena 550
-Kawela Bay 325
-Haiku-Pauwela 8595
-Waimea (Hawaii County) 9904
-Waimea (Kauai County) 2057
-Wailua Homesteads 5863
-Hanamaulu 4994
-Kalaheo 4996
-Pakala Village 286
-Volcano Golf Course 363
-Olowalu 100
-Waimalu 13817
+Kapaa 11652
+Kapaau 2008
+Manele 7
+Kealakekua 2307
+Mahinahina 910
+Aiea 10408
+Haliimaile 1074
+Maili 11535
+Kamaili 157
 Honomu 452
-Kaiminani 12590
-Puhi 3380
-Pupukea 5130
-Laie 5963
-Hauula 4018
+Anahola 2243
+Paia 2470
+Seaview 512
+Tiki Gardens 555
+Eleele 2515
+Keaau 1195
+Paukaa 434
+Pakala Village 286
+Kalapana 167
+Waimalu 13817
+
+Kihei 21423
+Waihee-Waiehu 9234
+Napili-Honokowai 7042
+Honokaa 2699
+Holualoa 2994
+Keokea 2199
+Makawao 7297
+Kekaha 3715
 
 Wahiawa 18658
 Schofield Barracks 14904
-Black Sands 416
-Orchidlands Estates 3165
-Hawaiian Paradise Park 14957
-
-Hilo 44186
-
-Pearl City 45295
+Lahaina 12702
+Haiku-Pauwela 8595
+Kaiminani 12590
+Puhi 3380
+Nanakuli 12195
+Lihue 8004
+Hanamaulu 4994
+Wailua Homesteads 5863
+Kilauea 3014
 Hickam Housing 7581
-Captain Cook 3253
-Volcano 736
+Wailea 6027
 Helemano 2549
+Heeia 5001
+Honaunau-Napoopoo 2416
+Halaula 773
+Waiohinu 198
+Black Sands 416
+Naalehu 811
 Waikoloa Beach Resort 757
-Kaumakani 672
-Puako 267
+Kapalua 495

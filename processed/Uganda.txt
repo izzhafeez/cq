@@ -1,60 +1,30 @@
 
 
 Kampala 1680600
-Malaba 20800
-Kabale 53200
-Mbale 111300
-Butaleja 24000
-Namutumba 22600
-Namayumba 22100
-Yumbe 47600
-Koboko 64500
-Dokolo 23700
-Apac 67700
-Kiryandongo Refugee Camp 16600
-Kyangwali Refugee Camp 23847
-Kyaka II Refugee Camp 27300
-Rwamwanja Refugee Camp 49700
+Bundibugyo 22300
 Kamwenge 23900
 Buwenge 24200
-Bugembe 45600
-Mayuge 20800
-Namayingo 17300
-Busia 64900
-Busolwe 16800
-Lwengo 15100
-Kalisizo 15200
-Isingiro 34300
-Rukungiri 37200
-Ntungamo 20900
-Kayunga 30000
-Wobulenzi 31000
-
-Gulu 177400
-Kitgum 49000
-Kigumba 22000
-Gombe 16600
-Kanungu 16600
-Masindi 110500
-Masaka 116600
-Lukaya 25600
-Luwero 49100
-Bukomero 16400
-Kassanda 17000
-Ibanda 117700
-Amudat 15000
-Hima 15000
-Rwimi 18600
-Kumi 43500
-Kakumiro 15900
-Mubende 121600
-Buyende 29700
-Kamuli 67800
-Kaliro 20500
-Pallisa 42300
+Kakira 35800
+Kakiri 28100
+Wakiso 87900
 Kisoro 17700
 Soroti 60900
-Ngora 17700
+Dokolo 23700
+Namutumba 22600
+Butaleja 24000
+Anaka 24000
+Nakaloke 33700
+Mbale 111300
+Kabale 53200
+Rubanda 22800
+Ibanda 117700
+Kassanda 17000
+Kiboga 22400
+Bukomero 16400
+Namayumba 22100
+Namayingo 17300
+Busia 64900
+Tororo 48500
 Nagongera 14300
 
 Kyengera 285400
@@ -62,65 +32,95 @@ Kyengera 285400
 Makindye Ssabagabo 413400
 
 Kajjansi 135600
-
-Nansana 532800
+Kyangwali Refugee Camp 23847
+Kyaka II Refugee Camp 27300
+Rwamwanja Refugee Camp 49700
+Nakivale Refugee Camp 68400
+Isingiro 34300
+Rukungiri 37200
+Kihiihi 21800
+Bushenyi-Ishaka 43700
+Ntungamo 20900
+Kayunga 30000
+Wobulenzi 31000
+Luwero 49100
+Bombo 29600
 
 Kasangati 207800
-
-Kira 462900
-Kakira 35800
-Kakiri 28100
-Wakiso 87900
-Pakwach 28700
-Paidha 37500
-Kotido 75700
-Moroto 16300
-Tororo 48500
-Anaka 24000
+Kasanje 42300
+Pallisa 42300
 Budaka 29100
-Nakaloke 33700
-Sironko 19300
 Budadiri 19200
+Sironko 19300
 Manafwa 16000
-Mityana 105200
-Lyantonde 16300
-Abim 24400
-Pader 14800
-Kagadi 28000
-Kyenjojo 28600
-Fort Portal 60800
-Bundibugyo 22300
-Bugiri 36000
-Iganga 65500
+Kapchorwa 51200
+Kyegegwa 29400
 Kyazanga 16000
-
-Lugazi 128400
-Buikwe 18500
+Iganga 65500
+Bugiri 36000
+Mayuge 20800
+Bugembe 45600
+Jinja 83400
 
 Njeru 178800
-Jinja 83400
-Kasanje 42300
-Kasese 115400
-Mpondwe/Lhubiriha 58600
-Kibiito 14700
-Kiboga 22400
-Bombo 29600
+Buikwe 18500
+
+Lugazi 128400
+
+Mukono 191300
+
+Kira 462900
+
+Nansana 532800
 Masulita 21300
-Lira 116500
+Kigumba 22000
+Gombe 16600
+Kanungu 16600
+Apac 67700
+Kiryandongo Refugee Camp 16600
+Masindi 110500
+Hoima 122700
+Kakumiro 15900
+Mubende 121600
+Buyende 29700
+Kamuli 67800
+Kaliro 20500
+Kalisizo 15200
+Lwengo 15100
+Masaka 116600
+Lukaya 25600
+Entebbe 102600
+Mpigi 49500
+Mityana 105200
 
 Mbarara 221300
 Sheema 86100
-Bushenyi-Ishaka 43700
-Kihiihi 21800
-Rubanda 22800
-Arua 72400
-Nebbi 41400
-Entebbe 102600
-Mpigi 49500
-Nakivale Refugee Camp 68400
 
-Mukono 191300
-Hoima 122700
-Kapchorwa 51200
-Kyegegwa 29400
+Gulu 177400
+Pader 14800
+Kitgum 49000
+Abim 24400
+Kotido 75700
+Lyantonde 16300
+Moroto 16300
+Kumi 43500
+Ngora 17700
+Lira 116500
+Kasese 115400
+Amudat 15000
+Hima 15000
+Rwimi 18600
+Kibiito 14700
+Fort Portal 60800
+Kyenjojo 28600
+Kagadi 28000
+Arua 72400
+Koboko 64500
+Yumbe 47600
 Adjumani 37100
+Pakwach 28700
+Nebbi 41400
+Paidha 37500
+Mpondwe/Lhubiriha 58600
+Malaba 20800
+Busolwe 16800

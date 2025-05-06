@@ -4,21 +4,89 @@ Tegucigalpa 1276738
 Santa Lucia 16084
 Santa Ana 17604
 Ojojona 11474
-Ojos de Agua 11263
-San Jose de Comayagua 7988
-Azacualpa 23990
+San Ignacio 9379
+La Encarnacion 5631
+San Fernando 7348
+Lucerna 6369
+Corquin 19145
+San Pedro de Copan 7930
 
-Juticalpa 142711
-Jutiapa 37761
-Utila 4790
+Santa Rosa de Copan 70757
+Trinidad de Copan 7506
+Trinidad 21241
+El Nispero 9243
+La Esperanza 14811
+San Marcos de Sierra 9768
+San Marcos de Colon 30449
+Concepcion de Maria 28335
+El Corpus 26352
+Apacilagua 9114
+Soledad 9354
+Liure 10963
+Guinope 9589
+Alauca 9653
+El Paraiso 46743
+Maraita 7124
+Marale 9258
+El Porvenir 27456
+San Jose del Potrero 7440
+Minas de Oro 13844
+Esquias 22256
+Esquipulas del Norte 12614
+San Antonio del Norte 2954
+Lauterique 3126
+Aguanqueterique 5025
+Lepaterique 23436
+Lamani 7449
+Lejamani 6042
+Ajuterique 11888
+
+La Paz 52200
+San Francisco de la Paz 20910
+San Francisco de Becerra 11005
+San Francisco 16315
+San Francisco de Coray 10080
+Goascoran 14651
+Langue 21694
+Talanga 38095
+San Juan de Flores 18127
+San Juan de Opoa 9887
+San Juan 15153
+San Miguelito 8946
+San Marcos de Caiquin 6465
+San Manuel Colohete 15918
+La Campa 8144
+Campamento 23471
+Concordia 8733
+Concepcion 11124
+Santa Cruz 7943
+
+Santa Cruz de Yojoa 92746
+San Francisco de Yojoa 24740
+San Antonio de Cortes 22884
+San Antonio 10562
+San Agustin 6046
+Dulce Nombre 6751
+Dolores 7275
+Dolores Merendon 4756
+Fraternidad 7248
+La Trinidad 4930
+La Libertad 30181
+
+La Lima 84102
+
+San Manuel 68435
+
+Villanueva 177699
+Concepcion del Norte 9688
+Chinda 5119
 Ilama 9223
 Salama 8101
-Silca 8256
-La Masica 32277
-Namasigue 33888
-Santa Ana de Yusguare 15133
-El Corpus 26352
-Wampusirpi 6069
+Mangulile 9513
+Yocon 13120
+Jocon 9749
+Morazan 47435
+Villeda Morales 10424
 
 Puerto Lempira 57385
 
@@ -28,274 +96,206 @@ Omoa 53771
 
 Choloma 275724
 
-Choluteca 168898
-Vado Ancho 4125
-
-Olanchito 118395
-Esquipulas del Norte 12614
-San Antonio del Norte 2954
-San Antonio de Cortes 22884
-Concepcion del Norte 9688
-Concepcion del Sur 5509
-Ceguaca 5659
-Guaimaca 31431
-Campamento 23471
-Manto 11868
-Guarizama 8087
-Guata 12801
-Gualaco 23355
-Gualala 5567
-La Iguala 30375
-
-Gracias 57182
-Esquias 22256
-Minas de Oro 13844
-Jesus de Otoro 32384
-Masaguara 17459
-Santiago de Puringla 17528
-Santa Maria 11880
-San Jose 9200
-San Jose de Colinas 19771
-Nuevo Celilac 8220
+San Pedro Sula 801259
 San Pedro Zacapa 11071
-San Pedro de Copan 7930
-
-Santa Rosa de Copan 70757
-Trinidad de Copan 7506
-Veracruz 3587
-Santa Cruz 7943
-Camasca 7141
-
-Catacamas 133896
-San Francisco de Becerra 11005
-San Francisco de la Paz 20910
-San Francisco 16315
-San Francisco de Coray 10080
-Goascoran 14651
-Langue 21694
-Talanga 38095
-San Juan de Flores 18127
-San Juan 15153
-San Miguelito 8946
-
-San Manuel 68435
-
-Villanueva 177699
-Potrerillos 25960
-San Jose del Potrero 7440
-El Porvenir 27456
-Cedros 27570
-San Ignacio 9379
-Orica 15258
-Morolica 5026
-Oropoli 6191
-San Antonio de Flores 5934
-San Lucas 8356
 San Luis 25522
-San Lorenzo 47760
-Dolores 7275
-Dolores Merendon 4756
-San Fernando 7348
-Santa Fe 5431
-Sinuapa 10323
-Amapala 14165
-Alianza 7610
-La Esperanza 14811
-Santa Elena 13786
-Yarula 9988
-Yamaranguila 23178
-
-Intibuca 65923
-Alauca 9653
-El Paraiso 46743
-Maraita 7124
-Marale 9258
-Villeda Morales 10424
-Ahuas 9171
-Humuya 1459
-
-Comayagua 172069
-Ajuterique 11888
-Lejamani 6042
-Lamani 7449
-Cane 4608
-Candelaria 7018
-San Andres 14670
-Erandique 16539
-Piraera 14994
-Lepaera 40619
-San Rafael 14594
-El Nispero 9243
-San Nicolas 16077
-Cololaca 10690
-Colomoncagua 19073
-Concepcion 11124
-Concepcion de Maria 28335
-San Marcos de Colon 30449
-San Marcos 22598
-San Francisco del Valle 10352
-Sensenti 12182
-Teupasenti 48378
+San Lucas 8356
+San Antonio de Flores 5934
+Duyure 3573
+Morolica 5026
 Moroceli 18683
 Villa de San Francisco 11649
 Valle de Angeles 20540
 Vallecillo 9120
-Villa de San Antonio 26497
-San Antonio 10562
-Florida 30158
-La Jigua 9952
-Nueva Arcadia 45597
-Nueva Frontera 13818
-Macuelizo 38191
+San Francisco del Valle 10352
+San Marcos 22598
+Sensenti 12182
+Teupasenti 48378
 
-Quimistan 60047
-Pimienta 21975
-Bonito Oriental 29991
-San Antonio de Oriente 16073
+Danli 222211
+San Matias 5529
+Jacaleapa 4375
+San Jose 9200
+Santa Maria 11880
+Santa Maria del Real 11005
+
+Juticalpa 142711
+Jutiapa 37761
+Balfate 13462
+Sonaguera 46568
+San Francisco de Ojuera 8049
+San Francisco de Opalaca 13072
+La Iguala 30375
+
+Gracias 57182
+Las Flores 10659
+Lepaera 40619
+Piraera 14994
+Gualcince 12189
+Candelaria 7018
+Sabanagrande 22848
+La Venta 6653
+San Buenaventura 3242
 Tatumbla 8731
 Tambla 3569
 Valladolid 3889
 Tomala 6871
 San Juan Guarita 2767
 Guarita 8858
-Santa Rita 32548
-Cabanas 16165
-Copan Ruinas 43131
-Orocuina 18970
-Liure 10963
-Duyure 3573
-Yauyupe 1441
-Texiguat 8895
-
-Siguatepeque 110292
-Ocotepeque 26091
-Jocon 9749
-Yocon 13120
-Concordia 8733
-Guayape 13536
-Apacilagua 9114
-Soledad 9354
-Caridad 4055
-Lauterique 3126
-Aguanqueterique 5025
-Lepaterique 23436
-Curaren 21414
-Alubaren 5616
-Arenal 6036
-Mangulile 9513
+Guarizama 8087
+Manto 11868
+Guata 12801
 Jano 5511
-Guanaja 5915
-Santa Rosa de Aguan 5611
-Limon 16087
-
-La Lima 84102
-La Libertad 30181
-La Trinidad 4930
-Trinidad 21241
-Arada 11082
-Santa Barbara 47401
-San Vicente Centenario 3813
-Mercedes de Oriente 1179
-Mercedes 7688
-Lucerna 6369
-Fraternidad 7248
-La Labor 10725
-Taulabe 25814
+Silca 8256
+Ahuas 9171
+Brus Laguna 14744
+Las Lajas 16039
+Victoria 37308
 Sulaco 19896
-Mapulaca 4415
-Virginia 2660
-La Virtud 6722
-La Venta 6653
-San Buenaventura 3242
-Sabanagrande 22848
-Saba 32686
-Balfate 13462
-Sonaguera 46568
-Iriona 22455
-Juan Francisco Bulnes 6468
-San Francisco de Ojuera 8049
-San Francisco de Opalaca 13072
-San Isidro 5151
-
-San Pedro Sula 801259
+Gualaco 23355
+Gualala 5567
+San Jose de Colinas 19771
+San Jose de Comayagua 7988
+Azacualpa 23990
+Taulabe 25814
+Ojos de Agua 11263
+Jesus de Otoro 32384
+Masaguara 17459
+Santiago de Puringla 17528
 San Pedro de Tutule 7837
 Guajiquiro 15844
 Opatoro 8037
-
-Yoro 98561
-Yorito 22627
-Victoria 37308
-Las Lajas 16039
-Las Vegas 26743
-Las Flores 10659
-Talgua 11543
-San Juan de Opoa 9887
-Dulce Nombre 6751
-Dulce Nombre de Culmi 31885
-San Esteban 27591
-San Sebastian 11904
-San Matias 5529
-Jacaleapa 4375
-
-Danli 222211
-Chinda 5119
 Chinacla 8756
 Marcala 33064
 Marcovia 48333
-San Marcos de Caiquin 6465
-La Campa 8144
-San Manuel Colohete 15918
-Belen Gualcho 17443
-Corquin 19145
-Cucuyagua 18393
-La Union 17027
-La Encarnacion 5631
-San Jorge 5569
-San Jeronimo 23568
-El Rosario 33327
-Santa Maria del Real 11005
-Patuca 28307
+San Lorenzo 47760
 
-Trojes 53921
+Choluteca 168898
+Santa Ana de Yusguare 15133
+Santa Fe 5431
+Sinuapa 10323
+Ocotepeque 26091
+
+Siguatepeque 110292
+El Rosario 33327
+San Jeronimo 23568
+San Jorge 5569
+Copan Ruinas 43131
+Cabanas 16165
+Santa Rita 32548
+Santa Rosa de Aguan 5611
+Bonito Oriental 29991
+San Antonio de Oriente 16073
+Mercedes de Oriente 1179
+Mercedes 7688
+Cololaca 10690
+Mapulaca 4415
+Virginia 2660
+La Virtud 6722
+San Andres 14670
+San Sebastian 11904
+Erandique 16539
+Yamaranguila 23178
+
+Intibuca 65923
+Yarula 9988
+Santa Elena 13786
+Colomoncagua 19073
+Magdalena 4595
+Camasca 7141
+
+Catacamas 133896
+Namasigue 33888
+La Masica 32277
+Esparta 20078
+Arizona 25320
+
+Tela 106136
 
 El Progreso 200010
 El Negrito 49196
-Morazan 47435
+Yorito 22627
 
-La Paz 52200
+Yoro 98561
+Arenal 6036
+Curaren 21414
+Alubaren 5616
+Reitoca 10858
+Caridad 4055
+Florida 30158
+La Jigua 9952
+Texiguat 8895
+Vado Ancho 4125
 
-La Ceiba 222055
-Esparta 20078
-Pespire 24159
-
-Nacaome 61990
-Aramecina 7685
-Gualcince 12189
-Magdalena 4595
-Belen 8475
-
-Tela 106136
-Arizona 25320
+Olanchito 118395
+Saba 32686
 
 Tocoa 105295
 
 Trujillo 67878
-Naranjito 13204
+Potrerillos 25960
+Pimienta 21975
+Petoa 12932
+
+Quimistan 60047
+Macuelizo 38191
+Nueva Frontera 13818
+Nueva Arcadia 45597
 Proteccion 17801
-Atima 20255
+Naranjito 13204
+Yuscaran 16181
+Oropoli 6191
+Yauyupe 1441
+Nueva Armenia 4195
+Nuevo Celilac 8220
+San Nicolas 16077
+San Vicente Centenario 3813
+Arada 11082
+Santa Barbara 47401
+Ceguaca 5659
+Concepcion del Sur 5509
+Las Vegas 26743
+
+La Ceiba 222055
+Utila 4790
 
 Roatan 52004
 Jose Santos Guardiola 12229
-San Marcos de Sierra 9768
+Villa de San Antonio 26497
+Cane 4608
+Humuya 1459
 
-Santa Cruz de Yojoa 92746
-San Francisco de Yojoa 24740
-Meambar 13862
-Nueva Armenia 4195
-Guinope 9589
-Yuscaran 16181
+Comayagua 172069
+Cucuyagua 18393
+La Union 17027
+Talgua 11543
+Veracruz 3587
+
+Nacaome 61990
+Pespire 24159
+Orocuina 18970
+
+Trojes 53921
+Patuca 28307
 El Triunfo 48778
-Brus Laguna 14744
-San Agustin 6046
-Petoa 12932
-Reitoca 10858
+Dulce Nombre de Culmi 31885
+San Esteban 27591
+San Isidro 5151
+San Rafael 14594
+Atima 20255
+Guaimaca 31431
+Guayape 13536
+Orica 15258
+Cedros 27570
+Iriona 22455
+Juan Francisco Bulnes 6468
+Limon 16087
+Guanaja 5915
+Belen Gualcho 17443
+Belen 8475
+Amapala 14165
+Alianza 7610
+Aramecina 7685
+Meambar 13862
+La Labor 10725
+Wampusirpi 6069

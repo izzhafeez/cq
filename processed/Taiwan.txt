@@ -3,30 +3,30 @@
 New Taipei 4014560
 
 Taipei 2646204
-Tainan 771235
+Daxi 84549
+Taoyuan 402014
+Yuanlin 124725
 Nantou 105682
 Zhongxing New Village 25549
-Yuanlin 124725
-Taoyuan 402014
-Daxi 84549
 Magong 56435
-Donggang 48100
-Pingtung 203866
-Yujing 16597
-Jincheng 37507
-Hengchun 31288
-
-Taichung 1040725
-Changhua 235022
-Hualien City 350468
-Taitung City 106929
-
-Kaohsiung 1519711
-Hsinchu 404109
-Keelung 397515
-Jiufen 3100
+Chiayi 270254
 Douliu 104723
 Lugu 19599
 Puli 86406
-Chiayi 270254
 Yilan 94188
+Jiufen 3100
+Keelung 397515
+Jincheng 37507
+Hsinchu 404109
+
+Kaohsiung 1519711
+Donggang 48100
+Pingtung 203866
+Taitung City 106929
+Hualien City 350468
+
+Taichung 1040725
+Changhua 235022
+Tainan 771235
+Yujing 16597
+Hengchun 31288

@@ -2,74 +2,118 @@
 
 Villahermosa 353577
 
+Bosque de Saloya 8600
+
+La Selva 7690
+Rio Viejo Primera Seccion 6726
+La Lima 5638
+
 Parilla 9664
 
 Parrilla II 10967
 
 Playas del Rosario 21893
 Brisas del Carrizal 2085
-El Chamizal 614
-Santa Lucia Chichicapa 774
-Anta 785
+San Jose del Carmen 519
+El Carmen 530
+Emiliano Zapata 2633
+San Juan 799
+Benito Juarez 2200
+Zopo Norte 898
+Lazaro Cardenas 905
+Jesus Carranza 791
+Venustiano Carranza 601
+Cuauhtemoc Barreal 917
+Cuitlahuac 804
+Jahuacapa 627
+Tapotzingo 2890
+Apatzingan 1096
+La Palma 1427
+La Pimienta 659
+Fraccionamiento Ocuiltzapotlan Dos 4675
+
+Medellin y Madero Segunda Seccion 7825
+Constitucion 2721
+Constancia y Venecia 923
+La Ensenada 546
+La Escalera 2052
+
+San Carlos 14451
+Carlos A. Madrazo 640
+Los Pajaros 517
+Usumacinta 819
+Andres Quintana Roo 1066
+Quintin Arauz 5178
+
+Paraiso 25186
+El Alambrado 904
+
+Tamulte de las Sabanas 8824
+Macultepec 6485
+Chapultepec 744
+
+Teapa 26548
+
+Rio de Teapa 26500
+Ejido Benito Juarez 625
+Amado Gomez 1218
+Ignacio Gutierrez Gomez 1307
+Chicozapote 649
+El Zapote 990
+Santa Rosalia 5528
 Santa Fe 1000
 Raya Zaragoza 1471
 Ignacio Zaragoza 2327
 
 Villa Vicente Guerrero 8188
 Vicente Guerrero 1572
+Eureka y Belen 1517
+Belen 5892
 
-Teapa 26548
-Jalapa 4999
-Jalapita 1085
-Santa Cruz 539
-La Cruz 735
-Jalupa 4800
-
-Jalpa de Mendez 15695
-Guaytalpa 2544
-Guayal 954
-Agua Blanca 592
-
-Balancan 13030
-General Luis Felipe Dominguez Suarez 1049
-El Pipila 512
-El Pichi 706
-Chichicapa 7091
-Estapilla 1089
-Astapa 1215
-Ayapa 5640
-Playa Larga 921
-El Yucateco 947
-Mecatepec 2195
-Chiltepec 752
-Macultepec 6485
-
-Tamulte de las Sabanas 8824
-La Sabana 1193
+Macuspana 32225
+Redencion del Campesino 867
+El Corozal 736
+El Congo 1676
+Chicoacan 523
+Celia Gonzalez de Rovirosa 586
+Rovirosa 640
+Ojo de Agua 659
+Hueso de Puerco 639
+Pueblo Nuevo de las Raices 1773
+Pueblo Viejo 1105
+Soyataco 4046
+Mecoacan 2281
+El Novillero 972
+Veinte de Noviembre 1022
+Arena de Hidalgo 1270
 Certeza 675
+La Trinidad 785
+El Triunfo 5627
+El Tular 2300
+San Simon 1131
+Simon Sarlat 3044
+Caparroso 1886
 Aparceros 647
 
 Chontalpa 7336
-Arroyo Hondo Abejonal 1643
+Carlos Alberto Wilson Gomez 835
+De los Santos 551
+Melchor Ocampo 3821
 
 Cardenas 91558
-Lazaro Cardenas 905
-Nicolas Bravo 2326
-Colonia Municipal 518
-La Isla 556
-Isla Guadalupe 681
-La Ensenada 546
-La Estrella 1083
-Iquinuapa 2915
-Boquiapa 1156
-Andres Quintana Roo 1066
-Santa Rosalia 5528
-El Zapote 990
-Chicozapote 649
-Ignacio Gutierrez Gomez 1307
-Amado Gomez 1218
-
-Rio de Teapa 26500
+Arroyo Hondo Abejonal 1643
+Pajonal 830
+Gregorio Mendez Magana 909
+Gregorio Mendez 2434
+Multe 1562
+Chacama 505
+La Ceiba 1389
+La Cruz del Bajio 731
+El Bajio 1122
+Dos Montes 1909
+Monte Grande 1810
+Ramon Grande 936
+San Ramon 662
 Paso Real de la Victoria 740
 La Victoria 1162
 
@@ -78,210 +122,166 @@ La Vencedora 708
 El Dorado 1025
 
 Huimanguillo 27344
-El Aguila 757
-Ojo de Agua 659
-La Pimienta 659
-Rovirosa 640
-Los Pajaros 517
-Bajadas Grandes 991
-Ramon Grande 936
-San Ramon 662
-Los Cenotes 1047
-Dos Ceibas 1314
-La Ceiba 1389
-La Cruz del Bajio 731
-El Bajio 1122
-Dos Montes 1909
-Los Sauces 1097
-Samarkanda 3365
-Miramar 969
-Alcalde Mayor 664
-Manuel Buelta y Rayon 732
-Manuel Buendia Tellez Giron 700
+La Luz 578
+La Lucha 1989
+Reforma 2254
+Villa Aldama 5237
 
-La Selva 7690
-Rio Viejo Primera Seccion 6726
+Villa Tecolutilla 10637
+Betania 1125
+Anta 785
+Mariano Abasolo 544
+Marin 771
 Cucuyulapa Primera Seccion 4120
-La Peninsula 1516
-La Pera 538
-Pueblo Viejo 1105
-Felipe Carrillo Puerto 972
-Potrerillo 1300
-Francisco Trujillo Gurria 715
-Gobernadores 1630
-Gobernador Cruz 1629
-Guatacalca 3585
-
-Comalcalco 41458
-Pechucalco 1139
+Huacapa y Amestoy 2146
 
 Cunduacan 19824
-Huacapa y Amestoy 2146
-Jahuacapa 627
-Tapotzingo 2890
-Constancia y Venecia 923
-Economia 567
-Tecominoacan 2467
-Mecoacan 2281
-Chicoacan 523
-Celia Gonzalez de Rovirosa 586
-El Corozal 736
-El Congo 1676
-El Carmen 530
+Pechucalco 1139
+
+Comalcalco 41458
+Gobernadores 1630
+Francisco Trujillo Gurria 715
+Potrerillo 1300
+Felipe Carrillo Puerto 972
+Puerto Ceiba 2780
+Dos Ceibas 1314
+Adolfo Lopez Mateos 674
 Manuel Sanchez Marmol 563
-Zunu y Patastal 747
-Buergos 563
+Manuel Buelta y Rayon 732
+Palo Mulato 1415
+Palomas 1544
+Estapilla 1089
+Chichicapa 7091
+Santa Lucia Chichicapa 774
+Nuevo Centla 774
 Nuevo Torno Largo 1511
 El Tortuguero 1212
-El Tular 2300
-Transito Tular 1500
-Puxcatan 1288
-Luis Donaldo Colosio Murrieta 605
-Jose Colomo 1021
+Rancho Nuevo 1330
+Guatacalca 3585
+Gobernador Cruz 1629
+La Cruz 735
+Jalupa 4800
+Isla Guadalupe 681
+San Eligio 681
 San Jose 767
-San Jose del Carmen 519
-Nueva Esperanza 696
-La Escalera 2052
+Jose Colomo 1021
+Buenavista 4468
+Ciudad Pemex 5822
+La Curva 5651
+Jalapa 4999
+Tapijulapa 2921
 
-San Carlos 14451
-Carlos A. Madrazo 640
-Carlos Alberto Wilson Gomez 835
-De los Santos 551
-Melchor Ocampo 3821
+Tacotalpa 8071
+Guaytalpa 2544
 
-Pomoca 10864
-Lomitas 4347
-Palomas 1544
-La Loma 657
-El Parnaso 531
-El Palmar 681
-La Palma 1427
-Apatzingan 1096
-San Simon 1131
-Simon Sarlat 3044
-Caparroso 1886
-Oxolotan 1886
-Olcuatitan 1732
-Tucta 2015
+Jalpa de Mendez 15695
 
 Nacajuca 11289
 Taxco 2016
-Soyataco 4046
-
-Tacotalpa 8071
-Eureka y Belen 1517
-Belen 5892
-
-Macuspana 32225
-Uspi 708
-Francisco Rueda 1499
-Francisco Villa 659
-Francisco I. Madero 2722
-Pablo L. Sidar 1251
-Chable 3377
-Chacama 505
-Multe 1562
-Aquiles Serdan 4277
-Oxiacaque 1928
-Gregorio Mendez 2434
-Gregorio Mendez Magana 909
-Pajonal 830
-Mactun 1055
-Usumacinta 819
-Santa Lucia 979
-San Hipolito 775
-San Juan 799
-Benito Juarez 2200
-Ejido Benito Juarez 625
-Benito Gonzalez 1526
-Cuauhtemoczin 769
-Veinte de Noviembre 1022
-Jimenez 1899
-Hermenegildo Galeana 938
-La Huleria 938
+Playa Larga 921
+El Yucateco 947
+Mecatepec 2195
+Chiltepec 752
+Sacrificio 590
+El Porvenir 562
+El Pichi 706
+El Pipila 512
+General Luis Felipe Dominguez Suarez 1049
 Jose Maria Pino Suarez 953
 El Recreo 1118
 El Rosario y el Quemado 943
 Alvaro Obregon 614
-Nuevo Centla 774
-Rancho Nuevo 1330
-Pueblo Nuevo de las Raices 1773
-Netzahualcoyotl 1210
-El Golpe 687
-Miguel Hidalgo 5397
-Betania 1125
-Tepetitan 1431
-Ocuapan 2800
-Huapinol 5768
-La Lima 5638
-La Luz 578
-La Lucha 1989
-Reforma 2254
+El Chamizal 614
+El Cedro 3805
+Manuel Buendia Tellez Giron 700
+Lomitas 4347
+
+Pomoca 10864
+Samarkanda 3365
+Miramar 969
+Alcalde Mayor 664
+Bajadas Grandes 991
+Boca de San Jeronimo 594
 Morelos 655
+Jose Maria Morelos y Pavon 592
+Agua Blanca 592
+
+Balancan 13030
+Chable 3377
+Jonuta 6899
+La Manga 733
+El Tigre 2209
+Los Sauces 1097
+Los Cenotes 1047
+Transito Tular 1500
+Puxcatan 1288
+Luis Donaldo Colosio Murrieta 605
+Luis Gil Perez 6083
+La Pera 538
+La Peninsula 1516
+Ruben Jaramillo Lazo 593
+Pablo L. Sidar 1251
+Francisco I. Madero 2722
+Francisco Villa 659
+Francisco Rueda 1499
+Uspi 708
+Libertad 3885
 Gilberto Flores Munoz 777
-Mariano Abasolo 544
-La Trinidad 785
-El Triunfo 5627
+Economia 567
+El Palmar 681
+El Parnaso 531
+La Loma 657
+Jalapita 1085
+Santa Cruz 539
+Santa Lucia 979
+San Hipolito 775
 
 Tenosique 32579
-
-Bosque de Saloya 8600
-Boca de San Jeronimo 594
-Palo Mulato 1415
-Leona Vicario 502
-Marin 771
-Jose Maria Morelos y Pavon 592
-El Naranjito 675
-El Novillero 972
-
-Villa Tecolutilla 10637
-Villa Aldama 5237
-Libertad 3885
-Puerto Ceiba 2780
-
-Paraiso 25186
-Quintin Arauz 5178
-Cocohital 2674
-Cacahuatalillo 611
-Hueso de Puerco 639
-Arena de Hidalgo 1270
-Cupilco 2136
-Ignacio Allende 3408
-Jesus Carranza 791
-Venustiano Carranza 601
-Cuauhtemoc Barreal 917
-El Escribano 1162
-Cuitlahuac 804
-Fraccionamiento Ocuiltzapotlan Dos 4675
-
-Medellin y Madero Segunda Seccion 7825
-Constitucion 2721
-El Tigre 2209
-El Cedro 3805
-El Capulin 731
-Chapultepec 744
-Tapijulapa 2921
+Nueva Esperanza 696
+La Estrella 1083
+Iquinuapa 2915
+Ocuapan 2800
+Tepetitan 1431
+Olcuatitan 1732
+Tucta 2015
+Mazateupa 2304
 
 Frontera 22795
-Monte Grande 1810
-Jolochero 737
-Xicotencatl 1474
-Redencion del Campesino 867
-San Eligio 681
-Francisco Martinez Gaytan 777
-La Manga 733
-El Alambrado 904
-Jonuta 6899
-Ciudad Pemex 5822
-La Curva 5651
-Buenavista 4468
-Luis Gil Perez 6083
-Emiliano Zapata 2633
-Mazateupa 2304
-Adolfo Lopez Mateos 674
-El Porvenir 562
-Sacrificio 590
+Oxolotan 1886
 Penjamo 1653
-Ruben Jaramillo Lazo 593
+Cocohital 2674
+Miguel Hidalgo 5397
+Huapinol 5768
+Ayapa 5640
+Astapa 1215
+Zunu y Patastal 747
+Buergos 563
+El Escribano 1162
+Aquiles Serdan 4277
+Mactun 1055
+Oxiacaque 1928
 La Union 1442
-Zopo Norte 898
+El Capulin 731
+Cupilco 2136
+Ignacio Allende 3408
+Benito Gonzalez 1526
+Cuauhtemoczin 769
+Jimenez 1899
+Hermenegildo Galeana 938
+La Huleria 938
+Nicolas Bravo 2326
+Tecominoacan 2467
+Xicotencatl 1474
+La Isla 556
+Colonia Municipal 518
+Cacahuatalillo 611
+Netzahualcoyotl 1210
+El Golpe 687
+La Sabana 1193
+El Naranjito 675
+Guayal 954
+Leona Vicario 502
+Francisco Martinez Gaytan 777
+Boquiapa 1156
+El Aguila 757
+Jolochero 737

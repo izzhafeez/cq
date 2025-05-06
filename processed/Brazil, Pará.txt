@@ -1,160 +1,160 @@
 
 
 Belem 1499641
-Santa Izabel do Para 71837
-Santa Barbara do Para 21449
-Santa Maria do Para 24995
 Santa Maria das Barreiras 21850
 Rio Maria 18201
 Xinguara 45086
-Floresta do Araguaia 20525
-Conceicao do Araguaia 47991
-Santana do Araguaia 74419
-Redencao 85563
+Vitoria do Xingu 15279
 
-Braganca 128914
-Tracuateua 31257
-Quatipuru 13702
-Sao Joao de Pirabas 23244
-Sao Joao do Araguaia 14051
-Sao Domingos do Araguaia 25753
-Brejo Grande do Araguaia 7368
-Sao Geraldo do Araguaia 24705
-Eldorado do Carajas 33940
-Canaa dos Carajas 38103
-Anajas 29688
-Muana 40906
-Sao Sebastiao da Boa Vista 26974
-Limoeiro do Ajuru 29282
-Oeiras do Para 32850
-Curralinho 34994
-Salinopolis 40922
-Ulianopolis 60761
-Dom Eliseu 60469
-Bom Jesus do Tocantins 17118
-Palestina do Para 7582
-Ipixuna do Para 65625
-Aurora do Para 31773
-Concordia do Para 33781
-Acara 55669
-Jacareacanga 7590
-Placas 31659
-Uruara 45435
-Curua 14587
-Magalhaes Barata 8573
-Colares 12131
-
-Santarem 306480
-Belterra 17839
-Terra Alta 11847
-Sao Joao da Ponta 6217
-Sao Francisco do Para 15930
+Altamira 115969
+Brasil Novo 14983
+Santarem Novo 6753
+Maracana 29516
+Marapanim 28450
 Igarape-Acu 39023
 Igarape-Miri 63036
 Moju 83182
 Mojui dos Campos 16184
-Sao Domingos do Capim 32139
-Bannach 3262
+Canaa dos Carajas 38103
+Eldorado do Carajas 33940
+Sao Geraldo do Araguaia 24705
+Sao Joao do Araguaia 14051
+Sao Domingos do Araguaia 25753
+Brejo Grande do Araguaia 7368
+Palestina do Para 7582
+Ipixuna do Para 65625
+Aurora do Para 31773
+Concordia do Para 33781
+Santa Maria do Para 24995
+Nova Timboteua 15506
+Nova Ipixuna 16854
+Itupiranga 53355
+
+Maraba 283542
+Sao Joao de Pirabas 23244
+Quatipuru 13702
+Chaves 23948
+Soure 25565
+Salvaterra 24075
 Cachoeira do Arari 24064
 Santa Cruz do Arari 10314
-Salvaterra 24075
-Soure 25565
-Ourem 17961
-Capanema 69431
-Peixe-Boi 8081
-Bonito 16530
-Santo Antonio do Taua 31918
-Benevides 63768
-Breves 103497
-Chaves 23948
-Afua 39567
-Garrafao do Norte 26111
+Santana do Araguaia 74419
+Conceicao do Araguaia 47991
+Floresta do Araguaia 20525
+Redencao 85563
 Cumaru do Norte 13761
 Agua Azul do Norte 27615
 Ourilandia do Norte 33335
 Tailandia 108969
-Baiao 48459
-Mocajuba 31530
-Pacaja 48414
-Anapu 28607
-Sapucaia 6009
-Curuca 40584
-
-Tucurui 115144
-Breu Branco 67332
-Goianesia do Para 41081
-Santa Luzia do Para 19843
-Primavera 10857
-Aveiro 16404
+Medicilandia 31975
+Uruara 45435
+Placas 31659
 Ruropolis 51500
-Itaituba 101395
-Trairao 19168
-Prainha 29846
-Monte Alegre 58162
-Alenquer 57092
-Obidos 52306
-Oriximina 74016
+Salinopolis 40922
+Ulianopolis 60761
+Dom Eliseu 60469
+Viseu 61751
+Augusto Correa 46471
 
-Paragominas 114503
+Braganca 128914
+Tracuateua 31257
+Capanema 69431
+Peixe-Boi 8081
+Bonito 16530
+Ourem 17961
+Capitao Poco 54425
+Garrafao do Norte 26111
 Nova Esperanca do Piria 21444
 Cachoeira do Piria 34609
-Capitao Poco 54425
-Irituia 32595
+Santa Barbara do Para 21449
+Santa Izabel do Para 71837
+Benevides 63768
 
 Marituba 133685
 
 Ananindeua 535547
-Marapanim 28450
-Maracana 29516
-Santarem Novo 6753
-Brasil Novo 14983
 
-Altamira 115969
-Vitoria do Xingu 15279
+Barcarena 127027
+Jacareacanga 7590
+Acara 55669
+Tome-Acu 64030
+Mae do Rio 30235
+Irituia 32595
+Sao Miguel do Guama 59632
+Abel Figueiredo 7486
+Bom Jesus do Tocantins 17118
+Oeiras do Para 32850
+Curralinho 34994
+Sao Sebastiao da Boa Vista 26974
+Sao Joao da Ponta 6217
+Curuca 40584
+Curua 14587
+Magalhaes Barata 8573
+Colares 12131
+Santa Luzia do Para 19843
+Primavera 10857
+Bannach 3262
+Sao Domingos do Capim 32139
+Pau d'Arco 5410
+Novo Progresso 25766
+Trairao 19168
+Itaituba 101395
+Aveiro 16404
+Limoeiro do Ajuru 29282
 
-Sao Felix do Xingu 132138
-Tucuma 40136
+Cameta 139364
+Mocajuba 31530
+Baiao 48459
 
-Maraba 283542
-Itupiranga 53355
+Tucurui 115144
+Breu Branco 67332
+Sao Francisco do Para 15930
+Terra Alta 11847
+Terra Santa 18917
+Belterra 17839
+
+Santarem 306480
+Alenquer 57092
+Monte Alegre 58162
+Prainha 29846
 Inhangapi 11861
 
 Castanhal 203251
 Bujaru 29427
-Jacunda 59842
-Nova Ipixuna 16854
-Nova Timboteua 15506
-Novo Repartimento 77214
-Novo Progresso 25766
+Santo Antonio do Taua 31918
+Vigia 54172
+Sao Caetano de Odivelas 18129
+Porto de Moz 41801
+Portel 62945
+Melgaco 27890
+Breves 103497
 Bagre 31325
-
-Barcarena 127027
+Anajas 29688
+Muana 40906
 Ponta de Pedras 31549
 
 Abaetetuba 159080
 
-Cameta 139364
-Sao Caetano de Odivelas 18129
-Vigia 54172
-Viseu 61751
-Augusto Correa 46471
-Porto de Moz 41801
-Portel 62945
-Melgaco 27890
-Tome-Acu 64030
-Mae do Rio 30235
-Curionopolis 17846
-
 Parauapebas 213576
+Curionopolis 17846
 Picarra 12979
-Terra Santa 18917
+Sapucaia 6009
+
+Sao Felix do Xingu 132138
+Tucuma 40136
+
+Paragominas 114503
+Oriximina 74016
+Obidos 52306
 Juruti 58960
+Novo Repartimento 77214
+Pacaja 48414
+Anapu 28607
+Senador Jose Porfirio 11480
+Jacunda 59842
+Goianesia do Para 41081
+Rondon do Para 52803
+Afua 39567
 Gurupa 33755
 Almeirim 34076
-Abel Figueiredo 7486
-Sao Miguel do Guama 59632
-Rondon do Para 52803
-Medicilandia 31975
-Senador Jose Porfirio 11480
 Faro 7070
-Pau d'Arco 5410

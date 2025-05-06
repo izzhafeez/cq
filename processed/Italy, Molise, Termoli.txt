@@ -4,46 +4,10 @@ Campobasso 39723
 Sant'Antonio dei Lazzari 923
 Santo Stefano 324
 Montefalcone nel Sannio 1480
-Scalo Ferroviario 302
-Carovilli 947
-Largo Zullo-Sterparo 519
-Castellone 472
-Castello 234
-Rotello 1072
-
-Casacalenda 2041
-Fossalto 419
-Montalto 248
-Montagano 1081
-Conocchia 257
-Macchiagodena 464
-Macchia d'Isernia 841
-
-Isernia 16945
-Carpinone 1131
-Sepino 925
-Vinchiaturo 1705
-Chiauci 263
-Lucito 693
-Rionero Sannitico 879
-Mirabello Sannitico 1538
-Sant'Elena Sannita 236
-Civitanova del Sannio 650
-Jelsi 1310
-San Massimo 331
-Palata 1552
-Ripalimosani 1731
-Limosano 669
-San Giuliano del Sannio 610
-Morrone del Sannio 471
-Belmonte del Sannio 491
-Torella del Sannio 642
-Forli del Sannio 525
-Montorio Nei Frentani 413
 Cantalupo nel Sannio 208
 Taverna Ravindola 1125
-Tavenna 731
-Duronia 284
+Macchiagodena 464
+Guardialfiera 1115
 Guardiaregia 453
 Civitacampomarano 443
 Campopino 686
@@ -53,133 +17,169 @@ Lido Campomarino 854
 
 Larino 5164
 
-San Martino in Pensilis 4293
-
-Portocannone 2549
-
-Colletorto 2087
-Montaquila 702
-Lupara 503
-Tufara 845
-
-Riccia 3784
-
-Petacciato 2858
-
-Montenero di Bisaccia 5508
-Montecilfone 1423
-Monacilioni 437
-Macchia Valfortore 557
-Cataniello III 243
-Pietracatella 1261
-Campodipietra 1062
-San Pietro Avellana 488
-Vastogirardi 488
-San Giacomo degli Schiavoni 944
-San Giuliano di Puglia 1011
-
-Guglionesi 4844
+Ururi 2565
+Montemitro 454
+Sant'Elia a Pianisi 1623
+Sant'Elena Sannita 236
+Mirabello Sannitico 1538
+Ripalimosani 1731
+Limosano 669
 Mascione 272
 
-Santa Croce di Magliano 4683
-Santa Maria del Molise 245
-Santa Maria Oliveto 240
-Rocchetta Nuova 608
-Nuova Cliternia 407
-Bagnoli del Trigno 590
+Guglionesi 4844
+Montecilfone 1423
 
-Agnone 3978
-Pietrabbondante 542
-Sesto Campano 528
-Sessano del Molise 711
-Oratino 931
-Toro 1072
-Incoronata 471
-Pescopennataro 281
-Pesche 1363
-Campolieto 629
-Selvotta 662
-Capracotta 872
-Roccasicura 531
-Montenero Val Cocchiara 554
-Monteroduni 1049
-Montelongo 360
+Montenero di Bisaccia 5508
+
+Petacciato 2858
+Castelbottaccio 349
+Castello 234
+Rotello 1072
+
+Casacalenda 2041
 Casalciprano 360
 Salcito 332
 Castelromano 515
 Scapoli 242
 Caporio 341
-Poggio Sannita 534
-Mimosa-Poggio Verde-Nuova Comunita 1268
-Monteverde 766
-Acquaviva Collecroce 594
+Incoronata 471
+Pescopennataro 281
+Castellone 472
 Roccavivara 739
+Acquaviva Collecroce 594
 Acquaviva d'Isernia 455
-Colle d'Anchise 508
-San Felice del Molise 579
-Guardialfiera 1115
-Guasto 291
-Ceppagna 565
-Cercepiccola 328
-Bonefro 1404
-Frosolone 1451
-Indiprete 621
-Roccamandolfi 913
+Macchia d'Isernia 841
 
-Bojano 6014
-Longano 390
+Isernia 16945
+Carpinone 1131
+
+Agnone 3978
+Pietrabbondante 542
+Campodipietra 1062
+San Pietro Avellana 488
+Torella del Sannio 642
+Forli del Sannio 525
+Castel San Vincenzo 433
+Miranda 961
+Monacilioni 437
+Macchia Valfortore 557
+Carovilli 947
+Pozzilli 1778
+
+Venafro 9384
+Selvotta 662
+Capracotta 872
+Roccasicura 531
+Roccamandolfi 913
+Indiprete 621
+Morrone del Sannio 471
+San Giuliano del Sannio 610
+San Giuliano di Puglia 1011
+Ripabottoni 427
+Castellino del Biferno 576
+Castelmauro 1605
+Mafalda 980
 Castropignano 457
 Filignano 209
 Cerro al Volturno 297
 Fornelli 694
 Baranello 684
-Pettoranello del Molise 351
-Trignete 296
-Matrice 597
-Masserie la Corte 238
-Masserie Ferretti 219
-Capoiaccio 205
-Spinete 288
-San Pietro in Valle 683
-San Giovanni in Galdo 429
-Gildone 400
-Piana 258
-Sant'Elia a Pianisi 1623
-Cercemaggiore 968
-Montemitro 454
-Temennotte 246
-Castelbottaccio 349
-Castelnuovo al Volturno 237
-Colli a Volturno 751
-Cerro-Cappella-Lammerti 301
-Petrella Tifernina 1097
-Pastena 248
-Pescolanciano 857
-Sant'Angelo del Pesco 368
-Sant'Angelo Limosano 307
+Colle d'Anchise 508
+Colle delle Api 455
+Colle della Torre 680
+Monteroduni 1049
+Sant'Eusanio 680
 Sant'Agapito 523
-Gambatesa 1241
+Sant'Angelo Limosano 307
+Sant'Angelo del Pesco 368
+Bonefro 1404
+Cercepiccola 328
+Cercemaggiore 968
+Poggio Sannita 534
+Rionero Sannitico 879
+Lucito 693
+Pizzone 301
+Pastena 248
+Montalto 248
+Montagano 1081
+Conocchia 257
+Montenero Val Cocchiara 554
+Campochiaro 625
+Sesto Campano 528
+Sessano del Molise 711
+Pettoranello del Molise 351
+Santa Maria del Molise 245
+Santa Maria Oliveto 240
+Civitanova del Sannio 650
+Jelsi 1310
+Tufara 845
+
+Riccia 3784
+Lupara 503
+
+Colletorto 2087
+Montaquila 702
+Belmonte del Sannio 491
+Palata 1552
+San Massimo 331
+
+San Martino in Pensilis 4293
+
+Portocannone 2549
 
 Termoli 31044
-
-Ururi 2565
-Castelmauro 1605
-Castellino del Biferno 576
-Ripabottoni 427
-Trivento 1804
-
-Venafro 9384
-Pozzilli 1778
-Sant'Eusanio 680
-Colle della Torre 680
-Colle delle Api 455
-Busso 1066
-Castel San Vincenzo 433
-Miranda 961
-Mafalda 980
-Iontapede 682
-Ferrazzano 638
-Campochiaro 625
+San Felice del Molise 579
 Castel del Giudice 308
 Bivio 308
-Pizzone 301
+Toro 1072
+Fossalto 419
+Oratino 931
+Scalo Ferroviario 302
+Masserie Ferretti 219
+Masserie la Corte 238
+Matrice 597
+Chiauci 263
+Vinchiaturo 1705
+Mimosa-Poggio Verde-Nuova Comunita 1268
+Nuova Cliternia 407
+Bagnoli del Trigno 590
+Trignete 296
+Spinete 288
+San Giovanni in Galdo 429
+San Pietro in Valle 683
+Capoiaccio 205
+Gildone 400
+Piana 258
+
+Bojano 6014
+Frosolone 1451
+Trivento 1804
+
+Santa Croce di Magliano 4683
+Pescolanciano 857
+Petrella Tifernina 1097
+Cerro-Cappella-Lammerti 301
+Pietracatella 1261
+Sepino 925
+Pesche 1363
+Campolieto 629
+Gambatesa 1241
+Busso 1066
+Monteverde 766
+Montelongo 360
+Iontapede 682
+Ferrazzano 638
+San Giacomo degli Schiavoni 944
+Vastogirardi 488
+Guasto 291
+Ceppagna 565
+Montorio Nei Frentani 413
+Cataniello III 243
+Largo Zullo-Sterparo 519
+Colli a Volturno 751
+Castelnuovo al Volturno 237
+Temennotte 246
+Longano 390
+Tavenna 731
+Duronia 284
+Rocchetta Nuova 608

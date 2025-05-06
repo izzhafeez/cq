@@ -3,15 +3,95 @@
 Venezia 258685
 
 Mogliano Veneto 21991
-Peseggia-Gardigiano 4798
+Asigliano Veneto 406
+Stigliano 1632
+Cartigliano 3218
+Brogliano 2562
+Ogliano 347
+Povegliano 1195
 
-Martellago 7224
-Rio San Martino 866
-San Martino 1616
-Orti 417
-Covolo-Levada 2383
-Levada 1385
-Talponada 2599
+Povegliano Veronese 6113
+
+Villafranca di Verona 15895
+
+Verona 219103
+Parona 3110
+Carre 3110
+Arre 1327
+Tisoi 363
+San Pietro Vecchio 500
+Castello di Godego 3311
+Castello Lavazzo 580
+Quistello 209
+Castello 321
+Castagne 272
+Castoi 285
+Castion Veronese 435
+Vanoni-Remelli 435
+Mellame 290
+Zimella 810
+Nervesa della Battaglia 4349
+
+Peschiera del Garda 7733
+Terrossa 1179
+Stazione Rossano 250
+Albare Stazione 832
+Dont 478
+Facen-Travagola 501
+Borgoforte 474
+Borgo Verde 646
+Borgo 216
+Borghetto 303
+Ghetto 212
+Lughetto 838
+Pramaggiore Blessaglia 2591
+San Giorgio al Tagliamento-Pozzi 1782
+San Michele al Tagliamento 3735
+San Michele 531
+Busta 554
+Frusta 466
+Baldan-Formigo 485
+Giussago 485
+Codissago 533
+Dogaletto 519
+Nove 4599
+Tresche Conca 506
+Carpenedo 506
+Carpesica 1155
+Danta 480
+Santa Maria 511
+Sariano 362
+Ariano 1762
+
+Taglio di Po 6848
+Bagnolo di Po 532
+Bagnolo 1159
+San Gaetano 330
+San Giorgio 252
+L'Oca 252
+Vas 487
+Millepertiche 487
+Spert 409
+Baldin e Perer 210
+Sule 487
+Sant'Anna Morosina 501
+Sant'Anna 3062
+
+Chioggia 41897
+Poggiana 649
+Case Dosa 649
+Case Demo-Fassina 273
+Luneo 499
+Fortogna 518
+
+Portogruaro 17468
+Fossalta di Portogruaro 2775
+
+Motta di Livenza 7242
+Meduna di Livenza 2226
+
+Santo Stino di Livenza 7080
+La Salute di Livenza 2663
 Ponte di Piave 3529
 San Polo di Piave 2945
 
@@ -21,189 +101,365 @@ Santa Lucia di Piave 8581
 Falze di Piave 2160
 
 Pieve di Soligo 9516
-Bigolino 1541
-Onigo 1991
-Occhiobello 1991
-Pedocchio 452
-Cavalier 251
-Lavaio 245
+Pieve di Cadore 3342
+Valle di Cadore 1394
+Ospitale di Cadore 202
+Marsiai 202
+Arsie 929
+Arsiero 2720
+Velo 749
+Velo Veronese 245
 Giamosa 245
-Mosnigo 1333
-Baldan-Formigo 485
-Giussago 485
-Santa Giustina 4587
-Lentiai 1448
-Giai 538
-Rivalta 538
-Valli 1143
-Castelbaldo 1143
-Castello 321
-Castagne 272
-Castoi 285
-Castion Veronese 435
-Castione 1023
-One 4009
-San Zenone 3028
-
-San Zeno-San Giuseppe 9334
-
-Bassano del Grappa 38224
-Pove del Grappa 3044
-Crespano del Grappa 4315
-Possagno 2110
-Fossa 599
-Fosso 5021
-
-Camponogara 10817
-
-Nogara 7003
-Roncanova 1904
-Canova 208
-Vallone 208
-Valle San Floriano 299
-San Gregorio nelle Alpi 313
-San Gregorio 2313
-Santo Stefano-Bonaldo 3185
-Gazzolo-Volpino 1636
-Volpino 284
-Torre di Mosto 3143
-Arre 1327
-Ferrazze 381
-Farra 333
-Farro 209
-Stefanelli 209
-Quistello 209
-Squizzato 239
-Guizze 209
-Guia 842
-Gus 216
-Segusino 1692
-Quero 1807
-Pederobba 1927
-Pederiva 771
-Bernardi-Pedron 315
-Villanova Sant'Antonio 315
-Sant'Antonio Tortal 342
-Monte Magre 342
-Monte 301
-Ponte di Mossano 482
-Mossano 324
-Canale 324
-Finale 206
-Lovara 206
-Lova 600
-Castello Lavazzo 580
-Castello di Godego 3311
-Stamberga 339
-Bergantino 2065
-Conscio 1082
-Cona 373
-Rai 373
-Ca' Onorai 814
+Lamosano 249
+Ca' Nove 249
+Ca' Emo 423
+Ca' Dona 397
+Ca' Bianca 484
+Punta Sabbioni 707
 Ca' Sabbioni 562
 Urbana 1313
 Corbanese 1228
 Corbola 1945
 Corbiolo 774
-Montecchio Precalcino 1019
+Combai 482
+Ponte di Mossano 482
+Monte 301
+Isola Albarella 301
+Isolalta 758
+Villalta 539
+Priabona 288
+Valrovina 507
+Ceredello 511
+Ceredo 217
+Roveredo di Gua 737
+Ca' Causin 291
+Cona 373
+Rai 373
+Lusiana 524
+Lusia 2035
+Mezzane di Sotto 973
+San Fior di Sotto 853
+San Pietro di Cadore 853
+Santa Maria di Campagna 666
+Sant'Apollinare 1397
+Sant'Apollonia-Croce 217
+Sant'Agostino 288
+
+Mandriola-Sant'Agostino 5908
+
+Albignasego 16477
+Albina 655
+San Bellino 722
+Cervarese Santa Croce 1026
+Croce 745
+Ramon 1013
+Ramon-Campagna 592
+Solagna 1659
+Cismon del Grappa 592
+Villanova del Ghebbo Ramedello 271
+Villanova del Ghebbo Canton 1604
+
+Lendinara 7475
+Bagnara 214
+Gruaro-Bagnara 1452
+Villabruna-Umin 1040
+Villa d'Adige 758
+Cavanella d'Adige 327
+Costalissoio 327
+Costalta 468
+Romagnano 468
+Ceregnano 1253
+Tregnago 3601
+San Giovanni Ilarione 2604
+
+Chiampo 10857
+Campo 334
+Marendole 334
+Brendola 3688
+
+Montecchio Maggiore-Alte Ceccato 20815
 Montecchio 262
-Vodo 630
-Navole 310
-Vignole 294
-Torri di Confine 294
-Torre di Fine 888
-Tessera 1239
-Pontepossero 406
-Treponti 2044
-Frontin 214
-Quantin 256
-Gaianigo 260
+Pontecchio Polesine 1603
+Veggiano 2126
+Pozzoveggiani 365
+Cogollo 583
+Coriano 515
+Vigonovo di Sopra 969
+Vigonovo 3535
 
-Pianiga 6169
-
-Mejaniga 11434
+Vigonza 13798
 
 Vigodarzere 6278
 
 Campodarsego 11971
 
 Camposampiero 8722
-Campo 334
-Marendole 334
-Mondonovo 211
-Sandon 902
-Scandolara 893
-Grumolo Pedemonte 1012
-Negrisia 875
-Enego 1207
-Venegazzu 1613
-Volpago del Montello 3888
-Selva del Montello 1749
-Giavera del Montello 3462
-Arcade 3430
+Loreggia 4010
+Loreggiola 1306
+Castelminio 2539
+Castelmassa 3421
+Castagnaro 2764
 
-Roncade 6585
-Roncadelle 858
-Pincara 858
-Pionca 2462
+Montagnana 8000
+Cagnano 878
+Arqua Petrarca 878
+Arqua Polesine 1721
+Grignano Polesine 2711
 
-Vigonza 13798
-Vigonovo 3535
-Galta 2295
-Caltana 2838
-Calto 711
-Vacil 994
-Sachet 419
-Granvilla 1145
-Villa 382
-Villa di Villa 867
-Meano 867
-Ciano 1594
-Pontocello 433
-Fontanello 225
-Fontanelle 1766
-Ormelle 2242
-Tormeno 522
-Sindacale 704
-Maccacari 1488
-Vaccarino 804
-Saccon 833
+Solesino 6794
 
-Piove di Sacco-Piovega 13287
-Sant'Angelo di Piove di Sacco 4510
+Badia Polesine 6940
+Fratta Polesine 1932
+San Vittore 632
+San Martino 1616
+Ceneselli 934
+Polesella 3443
+Donzella 1119
+Salionze 1288
+Ronca 1294
+Melara 1294
+Celarda 273
+Garda 3611
+Castelnuovo del Garda 5341
+San Giorgio in Salici 1396
+
+San Pietro in Cariano 6119
+San Pietro in Gu 2927
+San Pietro Mussolino 1014
+San Pietro Viminario 1153
+Gallio 1460
+Vallio 425
+Valli 1143
+Castelbaldo 1143
+Castelnovo 3229
+Castelgomberto 4166
+Castelguglielmo 833
+Campocroce 833
+Campodoro 1207
+Bevadoro 870
+Vado 375
+Menare 782
+Oliosi 499
+Farra d'Alpago 1864
+Ghizzole 319
+Pozzolo 205
+Pozzoleone 1215
+Casaleone 4943
+Casale di Scodosia 4661
+
+Casale sul Sile 7951
+
+Silea 6077
+San Floriano-Olmi 3720
+Mignagola 2529
+
+Legnago 21646
+Angiari 1565
+Cengia 212
+Cogollo del Cengio 3095
+Borso del Grappa 4410
+Campo di Pietra 678
+Campo San Pietro 283
+San Pietro 2667
 Santa Maria di Sala 2408
 
 Caerano di San Marco 7106
 San Marco 690
 San Mauro di Saline 223
 San Vitale 223
-San Vito 1548
+Megliadino San Vitale 1488
+Maccacari 1488
+Rotzo 503
 
-Vittorio Veneto 24789
-Cappella Maggiore 4151
-Cappella 946
-Scopella 226
-Bregonza 226
-Fregona 1751
-Begosso 299
-Vo Vecchio 299
-Busiago Vecchio 253
-Moriago della Battaglia 1295
-Sernaglia della Battaglia 3869
+Caselle 5742
+Santo 571
+Crevada 571
+Levada 1385
+Covolo-Levada 2383
+Moniego 1931
+Villaguattera 1550
+Villamarzana 728
+Villa 382
+Marchesino 388
+Le Marche 228
+Villanova Marchesana 373
+Villanova 4467
+Villarazzo 684
+Casone 521
+Camazzole 508
+Mizzole 799
+Cornegliana 799
 
 Conegliano 30765
 
 San Vendemiano-Fossamerlo 6034
 Miane 1985
 
-Zane 6600
-Fane 1112
-Mezzane di Sotto 973
-Cazzano di Tramigna 851
-Alonte 689
-Camalo 2099
+Col San Martino 8425
+Vidor 3509
+Bressanvido 1201
+Pressana 1017
+San Vito al Mantico 1380
+San Vito 1548
+Cortina d'Ampezzo 5423
+Santa Giustina 4587
+Lentiai 1448
+San Valentino 231
+Santa Teresina 231
+Presina 676
+Vo 1298
+Vallonga 1298
+Vallone 208
+Valle San Floriano 299
+Vo Vecchio 299
+Busiago Vecchio 253
+Moriago della Battaglia 1295
+Lorenzago di Cadore 553
+Valle 553
+Gallese 504
+Dolce 504
+Dolci 278
+La Croce 278
+Crocetta 335
+Mussetta di Sopra 226
+Passarella di Sotto 318
+Ca Zorzi 318
+Villaraspa 510
+Molvena 345
+Sarmego 504
+Sarmede 1075
 
-Malo 13218
+Sarmeola 7797
+Rubano 3434
+
+Abano Terme 18224
+
+Montegrotto Terme 10276
+Battaglia Terme 3750
+Torreglia 5241
+Torreselle 1105
+San Pietro Valdastico 494
+Passarella 1105
+Nanto 467
+Bosco di Nanto 431
+Ponte di Nanto 1395
+Ponte di Barbarano 2208
+Sant'Andrea di Barbarana 322
+Sant'Andrea 1164
+Bibione 2564
+Revine 1164
+
+Treviso 77600
+
+Quinto di Treviso 6796
+Trevignano 2179
+Trivignano 2227
+Vignui 207
+Vignaga 220
+Crespignaga 896
+Crespino 1186
+Santa Cristina 1186
+Santa Croce Bigolina 718
+Rosolina Mare 326
+Rosolina 5185
+
+Porto Viro 13644
+Loreo 2497
+Cellore 1207
+Colloredo 440
+Sitran 227
+Zeriolo 227
+Feriole 946
+Lissaro 946
+Costabissara 3217
+Crispi Cavour 1123
+Vigo di Cadore 288
+Laggio di Cadore 813
+Gorgo dei Molini 280
+Borgo Zucchero 312
+Sega-Malcanton 312
+Canton 287
+Canton Madonna 520
+Salvaterra 281
+Muzzi 281
+Rovere Veronese 281
+Gazzo Veronese 344
+Biverone 441
+Veronella 1387
+Poianella 1364
+Poiano 1833
+Campalto 3854
+Corno Alto 445
+Fonte Alto 921
+Roe Alte 990
+Lozzo di Cadore 1463
+Calalzo di Cadore 2113
+Vulcano 309
+Fienil del Turco 309
+Ca' Turcata 310
+Ca' Tiepolo 3666
+Ca' Trinchet 341
+Costeggiola 341
+Marteggia 327
+Ceggia 5493
+
+San Dona di Piave 32819
+Fossalta di Piave 3842
+
+Musile di Piave 7652
+San Michele di Piave 1122
+San Michele Vecchio 328
+Pila 328
+Pilastro 368
+Fastro 319
+Pastrengo 1954
+Via Pastrengo 975
+
+Bussolengo 15170
+
+Pescantina 11743
+Quantin 256
+Frontin 214
+Treponti 2044
+Pradivisi 219
+Pradipozzo 798
+Saguedo 369
+Volperara 232
+Polverara 2283
+Casalserugo 3919
+Masera di Padova 5383
+
+Padova 203725
+Villafranca Padovana 3452
+Tremignon 1224
+Bortignoni 377
+Orti 417
+Grantortino 430
+Grantorto 3435
+
+Fontaniva 6081
+Fontanelle 1766
+Ormelle 2242
+Tormeno 522
+Zermen 279
+Zermeghedo 1245
+Peri 465
+Chiesa 465
+Chies 317
+Casa Gottardo 402
+Casa Sampieri-Lunardi 356
+Casa Agostini 201
+Fanzolo 1562
+Vanzo 580
+Castelletto 523
+San Briccio 618
+San Biagio 1865
+Lugo di Vicenza 2397
+
+Vicenza 107129
+Bolzano Vicentino 3742
+
+Camisano Vicentino 8244
 
 Marano Vicentino 9084
 Isola Vicentina 4340
@@ -213,199 +469,177 @@ Montorso Vicentino 2006
 Montebello Vicentino 5097
 
 Altavilla Vicentina 10128
+Sovizzo 3690
 
-Vicenza 107129
-Bolzano Vicentino 3742
+Creazzo 10124
+Gazzo 1191
+Gazzoli 228
+Gazzolo-Volpino 1636
+Volpino 284
+Torre di Mosto 3143
+Torre di Fine 888
+Tessera 1239
+Pontepossero 406
+Fosse 346
+Orgiano 1914
+Peseggia-Gardigiano 4798
 
-Camisano Vicentino 8244
-Campo San Martino 3703
-Saccolongo 3326
-Longare 2568
-Longa 942
-Pialdier 295
-Costeggiola 341
-Costalta 468
-Romagnano 468
-Ceregnano 1253
-Sant'Urbano 296
-Rivai 269
-Riva 792
-Broglie 807
-Brogliano 2562
-Cartigliano 3218
-Zugliano 3209
-Gambugliano 287
-Canton 287
-Sega-Malcanton 312
-Sega 966
-Marega 455
-Sarego 1543
-Pellegrina 882
-Santa Caterina 349
-Villanova Santa Margherita 839
-Villanova del Ghebbo-Valdentro 274
-Villanova del Ghebbo Canton 1604
-Villanova del Ghebbo Ramedello 271
-Vallonto 271
-Vallonara 436
-Valle 553
-Gallese 504
-Colle 353
-Tolle 272
-Colle Umberto 1233
-Ca' Ballarin 968
-Ca' Bianca 484
-Ca' Dona 397
-Chiesanuova 566
-Chiesa Nuova 359
-Pelos di Cadore 359
-Vigo di Cadore 288
-Priabona 288
-Bonavigo 720
-Illasi 3029
-San Michele al Tagliamento 3735
-San Michele 531
-San Michele di Piave 1122
-San Michele Vecchio 328
-Pila 328
-Pilastro 368
-Boschi Sant'Anna 603
-Sant'Anna 3062
+Martellago 7224
+Rio San Martino 866
 
-Chioggia 41897
-Poggiana 649
-Veggiano 2126
-Pontecchio Polesine 1603
-Grignano Polesine 2711
-Arqua Polesine 1721
-
-Badia Polesine 6940
-
-Solesino 6794
-Pellestrina 2651
-
-Este 14629
-Ospedaletto Euganeo 5494
-Pedavena 3221
-Daverio 377
-Feriole 946
-Lissaro 946
-Rosaro 371
-Madonna delle Grazie 371
-Cismon del Grappa 592
-Seren del Grappa 1588
-Castelguglielmo 833
-Castelmassa 3421
-Castagnaro 2764
-
-Montagnana 8000
-Cagnano 878
-Pagnano 674
-Ca' Lino 674
-Ca' Nove 249
-Ca' Emo 423
-Piazza Campana 283
-Campo San Pietro 283
-San Pietro 2667
-San Pietro in Gu 2927
-San Pietro Mussolino 1014
-San Pietro Viminario 1153
-San Vittore 632
-Fratta Polesine 1932
-Fratta 442
-Fratte 257
-Merlo 257
-Villaganzerla 1081
-Villarazzo 684
-Villanova 4467
-Candiana 1115
-Candide 836
-Candelu 1071
-Bonferraro 1323
-Villa Estense 1369
-Deserto 830
-Dese 1302
-San Giorgio di Livenza 1171
-San Giorgio 252
-San Giorgio in Brenta 638
-San Giorgio di Perlena 422
-
-Feltre 13643
-Oltre Brenta 1680
-Stienta 1947
-
-Noventa 9131
-Nove 4599
-Nove-San Floriano 557
+Scorze 8699
+Orzes 261
+Cagnola 803
+Beverare 513
+Maser 1498
+Friola 628
+Brigo-Paluello 988
+Sottoguda-Palue 206
+Lovara 206
+Lova 600
+Carbonara 580
+Carbonera 4276
+Villaggio Busonera 571
+Villaggio Montegrappa 1043
+Brentelle 243
+Brentasecca-Sabbioncello 489
 Prisco-Sandrin Piccolo 557
+Nove-San Floriano 557
+Sant'Eulalia 770
+Levego 770
+Ca' Stocco 203
+Ca' Fuser 203
+Ca' Matte 203
+Via Matteotti 203
+
+Santa Maria Maddalena 8174
+Fonzaso 1947
+Stienta 1947
+Oltre Brenta 1680
+
+Carmignano di Brenta 6295
+Carmignano 693
+Caluri 693
+Bagaron 818
+Nogarole Vicentino 304
+Nogarole Rocca 638
+Rovare 526
+Provagna 280
+Agna 2909
+Pegolotte 1346
+Pontelongo 3274
+
+Ponte San Nicolo 12180
+
+Legnaro 6813
+Saonara 1963
+Vallonara 436
+Vallonto 271
+Maragnole 595
+Castagnole 2983
+
+Paese 9395
+Porcellengo 1307
+Postioma 2538
+Castion 2357
+Vescovana 648
+Terrassa Padovana 1326
+Lama Pezzoli 1334
+Pizzoletta 887
+Santandra 1102
+Sandra 2219
 Sandri 232
 
 Sandrigo 6333
 Breganze 5470
 Sarcedo 3631
-Novoledo 1133
-Castelnovo 3229
-Castelgomberto 4166
+Salcedo 401
+Salce 461
+Almisano 461
+Barbisano 1954
+Arbizzano-Santa Maria 5148
+Pedemonte 3111
+Grumolo Pedemonte 1012
+Negrisia 875
+Grisignano di Zocco 2988
+Forno di Zoldo 1485
+Cazzano di Tramigna 851
+Mazzano 241
+Mazzantica 204
+Moratica 205
+
+Marostica 9264
+Marola 2001
+
+Tencarola 6308
+
+Selvazzano Dentro 7962
+Saccolongo 3326
+Longare 2568
+
+Torri di Quartesolo 8522
+Arcugnano-Torri 2499
+
+Arzignano 21247
 
 Trissino 6255
 Altissimo 342
-Isolalta 758
-Villalta 539
-Carve 288
-Nervesa della Battaglia 4349
-Terrossa 1179
-Fossona 984
-Cereda-Cozza Cornedo 1465
-Roverchiaretta 605
-Stretti 979
-Quattro Strade 250
-Villaguattera 1550
-Villamarzana 728
-Due Carrare 2829
-Carre 3110
-Arbizzano-Santa Maria 5148
-Barbisano 1954
-Barbarano Vicentino 1412
-Sant'Angelo 1407
-Sant'Ambrogio 827
-
-Sant'Ambrogio di Valpollicella 10384
-Alpo 2106
-
-Dossobuono 6087
-
-Bussolengo 15170
-Pastrengo 1954
-Via Pastrengo 975
-Pacengo 623
-Cengia 212
-Angiari 1565
-Sanguinetto 3697
-Anguillara Veneta 2938
-
-Galliera Veneta 6729
+Monte Magre 342
+Monte di Malo 855
+Engazza-Crosara 415
+Le Vegre 415
+Annone Veneto 2730
 
 Rossano Veneto 7572
 
-Rosa 12548
+Galliera Veneta 6729
 
-Marostica 9264
-Mason Vicentino 1706
-Fara Vicentino 1482
+Castelfranco Veneto 25545
+Salvatronda 2023
+Vedelago 3939
+Lago 547
+Riviera Naviglio 394
+Marocco 842
+Colombaron-San Rocco 216
+Ca' Moresco 216
+Ca' Pirami 216
+Ca' Pasquali 465
+Valli del Pasubio 927
+Santa Caterina 349
+Villanova Santa Margherita 839
+Villanova del Ghebbo-Valdentro 274
+Ponte Gorzone 274
+Gurzone 214
+Raccano 214
+Canova 208
+Roncanova 1904
 
-Noventa Vicentina 7588
-Arqua Petrarca 878
-Arcole 3654
-Barcon 904
-Pettorazza Grimani 1231
-Marani Mazzanta 268
-Santa Maria 511
-Sariano 362
-Ariano 1762
+Nogara 7003
+Nogarazza 702
+Borca 617
+Padola 933
+Rivadolmo 590
+Cimadolmo 1504
+Vascon 854
+Calvene 980
+Navene 218
+Pedavena 3221
+Ospedaletto Euganeo 5494
+Ospedaletto 2261
+Istrana 3665
 
-Adria 12986
+Stra 6200
+Galta 2295
+Caltana 2838
 
-Cavarzere 8992
+Pianiga 6169
+
+Mejaniga 11434
+Gaianigo 260
+Onigo 1991
+Occhiobello 1991
+Pedocchio 452
+Cavalier 251
 Arzercavalli 557
 Cavallino 2881
 
@@ -416,1220 +650,986 @@ Mirano 15139
 
 Mira Taglio 32881
 Sambruson 3138
-
-Dolo 8410
-Liedolo 938
-Case Trevisan 240
-
-Treviso 77600
-
-Quinto di Treviso 6796
-Trevignano 2179
-Falze-Signoressa 3417
-Pressana 1017
-San Vito al Mantico 1380
-Burano 2658
-Bure 668
-Mure 564
-Pozzale 564
-Pozzolo 205
-Pozzoleone 1215
-Piavon 1338
-Scomigo 1222
-Vescovana 648
-Vestenanova 695
-Codissago 533
-Santa Lucia 533
-Muliparte 612
-Arten 930
-Borgo Forte 224
-Borgoforte 474
-Borgo Verde 646
-Borgo 216
-Borghetto 303
-Ghetto 212
-Lughetto 838
-Pramaggiore Blessaglia 2591
-San Giorgio al Tagliamento-Pozzi 1782
-Fossalta di Portogruaro 2775
-
-Portogruaro 17468
-
-Concordia Sagittaria 8677
-Badia Calavena 1678
-Teglio Veneto 1678
-Asigliano Veneto 406
-Stigliano 1632
-Tignes 427
-Sabbioni-Zampine 576
-Bionde 554
-Bibione 2564
-Revine 1164
-Sant'Andrea 1164
-Sant'Andrea di Barbarana 322
-Canaro 1494
-Cencenighe Agordino 1183
-Francenigo 1526
-Frasca 239
-Scaldaferro 211
-Rosegaferro 1229
-Villabella 872
-Mirabella 594
-Paviola 470
-Voltago 470
-Azzago 470
-Piazza 313
-Cimitero Campalto 313
-Campalto 3854
-Corno Alto 445
-Restena 445
 Tambre 445
-Cambroso 525
-Ancignano 525
-Cordignano 4974
-Orsago 3533
-Varago 2356
-Mignagola 2529
-Vignaga 220
-Crespignaga 896
-Crespino 1186
-Santa Cristina 1186
-Poianella 1364
-Veronella 1387
-Auronzo 3347
-Lauro 305
-Gurzone 214
-Tarzo 1544
-Zorzoi 208
-Ca Zorzi 318
-Celeseo 318
-Vallese 3091
-Valla 2368
-Puos d'Alpago 1547
-Valproto 714
-
-Villatora 6154
-Villa Fora 244
-Castello di Brussa 244
-Rigole 244
-Cinto Euganeo 399
-Vitipan-Logaro-Mazzocca 244
-Nogarole Rocca 638
-Rocca 217
-Ceredo 217
-Ceredello 511
-
-Cerea 12869
-Casaleone 4943
-Casale di Scodosia 4661
-
-Casale sul Sile 7951
-
-Silea 6077
-Caposile 204
-Sant'Apollonia-Croce 217
-Sant'Agostino 288
-
-Mandriola-Sant'Agostino 5908
-
-Albignasego 16477
-Albina 655
-Albaro 764
-Alberone 810
-Alberoni 765
-Concadalbero 265
-Zoppe di Cadore 265
-San Pietro di Cadore 853
-Santa Maria di Campagna 666
-Sant'Apollinare 1397
-Megliadino San Vitale 1488
-San Valentino 231
-Santa Teresina 231
-Presina 676
-Vo 1298
-Vallonga 1298
-Cessalto 1734
-Fossalta 619
-Facen-Travagola 501
-Vago 2842
-Tregnago 3601
-
-Legnago 21646
-Villa Bartolomea 3221
+Restena 445
+Vestenanova 695
+Ponterotto-Giustizia 533
 Saletto-San Bartolomeo 1311
 Scaltenigo 1311
-San Germano dei Berici 386
-Campiglia dei Berici 935
-La Sicilia 337
-San Siro 455
-San Sisto 320
-Albarea 320
-Colombare 356
-Colloredo 440
-Cellore 1207
-Campodoro 1207
-Campocroce 833
-Croce 745
-Ramon 1013
-Ramon-Campagna 592
-Solagna 1659
-Maragnole 595
-Castagnole 2983
+Francenigo 1526
+Codiverno 1948
+Paderno 765
+Padernello 2448
+Tavernelle 1372
+Trevenzuolo 1262
+Castello Roganzuolo 219
+Servo 219
+Rombaldi 219
 
-Paese 9395
-Porcellengo 1307
-Postioma 2538
-Castion 2357
-Refrontolo 648
-Musestre 1182
-San Giacomo di Musestrelle 654
-Mazzorbo 305
-Camazzole 508
-Santa Maria del Piave 412
-Camporovere 412
-Roverato 355
-Lovertino 226
-Bergami-Parolin 226
-Parona 3110
+Caldiero 5743
+Pialdier 295
+Caldierino-Rota 1126
+Leva 926
+Del Medico 318
+Sedico 5478
+Limana 3128
 
-Verona 219103
+Belluno 25064
+Belluno Veronese 329
+Lubiara 351
+Chiarano 1639
+Schiavon 1077
+Piavon 1338
+Scomigo 1222
+San Quirico 1146
+San Zeno 1063
+San Zenone 3028
 
-Villafranca di Verona 15895
-Villafranca Padovana 3452
+San Zeno-San Giuseppe 9334
 
-Padova 203725
-Masera di Padova 5383
-Casalserugo 3919
-Polverara 2283
-
-Conselve 8768
-
-Monselice 12623
-San Felice 829
-Ca' Trinchet 341
-Conche 874
-Ronca 1294
-Melara 1294
-Mel 1744
-Mellame 290
-Paulona 290
-Sona 4697
-Lison 209
-Valcasoni 209
-Bolca 286
-Dolce 504
-Dolci 278
-La Croce 278
-Crocetta 335
-Fietta 278
-
-Fiesso 7372
-Bressanvido 1201
-Pesine Bisse 740
-Frassinelle Polesine 431
-Polesine Camerini 265
-Porra Camerini 267
-Calnova 267
-Calnova-Fiorentina 961
-Baruchella 961
-Barche 237
-Le Marche 228
-Marchesino 388
+Bassano del Grappa 38224
+Pove del Grappa 3044
+Crespano del Grappa 4315
+Alano di Piave 1518
+Quero 1807
+Segusino 1692
+Pederobba 1927
+Pederiva 771
+Cirvoi 315
+Villanova Sant'Antonio 315
+Sant'Antonio Tortal 342
+Sant'Antonio 450
+Piacenza d'Adige 1004
+Santa Maria d'Adige 246
+Chiesa di Vivaro 212
+Chiesa Nuova 359
+Pelos di Cadore 359
+Presenaio 359
 Nesente 388
-Ceneselli 934
-Polesella 3443
-Donzella 1119
-Soranzen 350
+Madonna dell'Uva Secca 388
+Madonna delle Grazie 371
+Le Grazie 462
+Sala 701
+Salara 876
+Bosco 1735
+Ongarie 486
+Carpi 918
+Fontanello 225
+Cappellazzi 225
+Cappelletta 709
+Colombare 356
+Albarea 320
+Albaredo 1375
+Albaredo d'Adige 2783
+Altivole 1369
+Navole 310
+Novoledo 1133
+Villaverla 4391
+Stallavena-Lugo 2936
+Badia Calavena 1678
+
+Concordia Sagittaria 8677
+Conco 818
+Concadirame 818
+Concadalbero 265
+Alberone 810
+Rivoli Veronese 626
+Custoza 812
+Porto Santa Margherita 812
+Vighizzolo d'Este 626
+
+Este 14629
 Granze 1527
+Soranzen 350
 Lanze 764
 Lanzetta 366
-Salionze 1288
-Comunetto 202
-Marsiai 202
-Arsie 929
-Erbe 1540
-Minerbe 4112
-Erbezzo 236
-Bacucco 236
-Sacro Cuore 608
-Montecchia di Crosara 2260
-Bosaro 1067
-Ramodipalo Rasa 650
-Bertipaglia 1834
-Braglia 902
-Terraglione 655
-Terrazzo 1176
-Gazzo 1191
-Mizzole 799
-Cornegliana 799
-Corne 327
-Costalissoio 327
-Costabissara 3217
-Crispi Cavour 1123
-Motta 1882
-
-Monticello Conte Otto 7361
-Monticello di Fara 1411
-Codogne 2840
-Coda 228
-Codevigo 1555
-
-Rovigo 39347
-Costa di Rovigo 2326
-Canove di Roana 1269
-Roana 1093
-Asiago 3683
-Busiago 396
-Vallio 425
-Gallio 1460
-Bottrighe 2055
-Fornesighe 201
-Casa Agostini 201
-Stiago 558
-Bastia 1802
-San Sebastiano 468
+Cavalo 366
+Pontecasale 213
+Crosare 213
+Crosara 287
+Rosara 210
+Calstorta 210
+Valstagna 970
+Fane 1112
+Stefanelli 209
 Santo Stefano 468
 Santo Stefano di Cadore 1218
 Cinto Caomaggiore 2448
 Quinto Vicentino 1984
-Quinto 4642
-Montorio 5330
-Pedemonte 3111
-
-San Pietro in Cariano 6119
-Fumane 2557
-
-Negrar 6464
-Cavalcaselle 2557
-
-Caselle 5742
-Santo 571
-Nanto 467
-Bosco di Nanto 431
-Ponte di Nanto 1395
-Ponte di Barbarano 2208
-Sossano 2902
-Grossa 601
-Caleipo-Sossai 528
-Pianezze 564
-Pianezze del Lago 535
-Sant'Antonio 450
-Piacenza d'Adige 1004
-Villa d'Adige 758
-Cavanella d'Adige 327
-Santa Maria d'Adige 246
-Santa Margherita d'Adige 1394
-Sant'Anna d'Alfaedo 376
-Tempio 376
-Vanoni-Remelli 435
-Lusiana 524
-Lusia 2035
-Moniego 1931
-
-Lonigo 12110
-Meledo 2484
-Dosoledo 460
-Venas 598
-Tovena 614
-Villa di Molvena 570
-Villapiana-Ronchena 992
-Ronchi 657
-Bevilacqua 1066
-Sorga 552
-Morgano 301
-Isola Albarella 301
-
-Isola della Scala 8348
-Case Dosa 649
-Case Marcolin 310
-Ca' Turcata 310
-Fienil del Turco 309
-Villa del Conte 2320
-Santa Giustina in Colle 4069
-San Giorgio in Bosco 2169
-
-San Giorgio delle Pertiche 7009
-
-Borgoricco-San Michele delle Badesse-Sant'Eufemia 6036
-Massanzago-Ca' Baglioni-San Dono 3397
-
-Noale 10500
-Robegano 2640
-
-Preganziol 6674
-
-Frescada 5800
-
-Pescantina 11743
+Le Casette 315
+Boccasette 282
+Stoccareddo 304
+Rocca 217
 Pedescala 217
 Pedeguarda 204
 Guarda Veneta 845
-Cologna Veneta 4807
-Aselogna 379
-Fortogna 518
-Ghizzole 319
-Vighizzolo d'Este 626
-Rivoli Veronese 626
-Volon 416
-Poiana di Granfion 620
-Poiano 1833
-Coriano 515
-Vigonovo di Sopra 969
+Sindacale 704
+Caleipo-Sossai 528
+Grossa 601
+San Giovanni 385
+
+San Giovanni Lupatoto 20038
+Raldon 3830
+Crepaldo 2455
+Eraclea 4104
+Eraclea Mare 447
+Stradone Ovest 264
+Cadoneghe 3045
+Madonnetta 223
+Fietta 278
+Baricetta 616
+Rivai 269
 Proe di Sopra 269
 Bagnoli di Sopra 1745
-Agna 2909
-Pegolotte 1346
-Pontelongo 3274
 Campagnola 2470
 Campagna Lupia 4333
-Bojon-Lova 3914
-Lovolo 203
-Ca' Fuser 203
-Ca' Matte 203
-Via Matteotti 203
-Teolo 441
-Meolo 3978
-Campese 1142
-Campea 388
-Madonna dell'Uva Secca 388
-Pradelle 1143
-Pradivisi 219
-Pradipozzo 798
-Saguedo 369
-Raguia 302
-San Briccio 618
-San Bellino 722
-Cervarese Santa Croce 1026
-Santa Croce Bigolina 718
-Rosolina Mare 326
-Rosolina 5185
 
-Porto Viro 13644
-Loreo 2497
-Breonio 252
-L'Oca 252
-Locara 1684
-Fornase 1996
-Fornaci 2856
-Fornace Laterizi 235
-Pez 235
-Lama Pezzoli 1334
-Pizzoletta 887
-Santandra 1102
-Danta 480
-Zordan 241
-Sardi 321
-Mardimago 1408
-Marano 1697
-Valmarana 381
-Colmaggiore 255
-Cesiomaggiore 843
-Fossalta Maggiore 843
-Poiana Maggiore 2328
-Beverare 513
-Maser 1498
-Mas 857
-Masi 1036
-Calmasino 1011
-Valmareno 922
-Forno di Zoldo 1485
-Grisignano di Zocco 2988
-Grumolo delle Abbadesse 2249
-Brenta dell'Abba 248
-Arabba 275
-Cantarana 328
-Arlesega 1013
-Montegalda 1122
-Montegaldella 922
-Calderano 210
-Valliera 719
-Millepertiche 487
-Spert 409
-Baldin e Perer 210
-Rombaldi 219
-Combai 482
-Tombazosana 586
-Tombelle 1247
-Tomo 411
-Romanziol 265
-Podenzoi 265
-Lugo di Vicenza 2397
-Casacorba 1124
-Boara Pisani 1429
-Pisana 623
-Praello 226
-Novello 405
-Gavello 966
-Velo 749
-Arsiero 2720
-Santorso 5236
-
-Schio 33740
-Chiuppano 2504
-Chiarano 1639
-Schiavon 1077
-Orgiano 1914
-Fosse 346
-Nogarole Vicentino 304
-Stoccareddo 304
-Ca' Stocco 203
-Marocco 842
-Colombaron-San Rocco 216
-Ca' Moresco 216
-Ca' Pirami 216
-Ca' Pasquali 465
-Chiesa 465
-Chies 317
-Casa Gottardo 402
-Casa Sampieri-Lunardi 356
-Cappelletta 709
-Cappellazzi 225
-Campotamaso 225
-Campolongo 956
-Campolongo sul Brenta 639
-Piazzola sul Brenta 4369
-Tremignon 1224
-Bortignoni 377
-Lozzo Atestino 2072
-Lozzo di Cadore 1463
-Roe Alte 990
-Fonte Alto 921
-Cagnola 803
-Friola 628
-Zeriolo 227
-Caviola 591
-Premaore 230
-Premaor 446
-Presenaio 359
-Visnadello 895
-Silvella 371
-Cavazzana 359
-Bevazzana 349
-Caupo 349
-Ca' Causin 291
-Ca' Corner 548
-Mena 721
-Menare 782
-Limena 5448
-Santa Maria di Non 2360
-Pieve 3286
-Pieve di Cadore 3342
-Valle di Cadore 1394
-Ospitale di Cadore 202
-Guarde-Marogna-Rossati-Vencati 298
-Mazzurega 298
-Mazzano 241
-Mazzantica 204
-Moratica 205
-Moro 590
-Rivadolmo 590
-Olmo 5119
-
-Marcon-Gaggio-Colmello 12565
-San Liberale 2298
-Sant'Alberto 1428
-Ballo 1428
-
-Zero Branco 5838
-Conco 818
-Concadirame 818
-Caluri 693
-Palu 912
-Gazzoli 228
-Vazzola 5283
-Pazzon 304
-Palazzon 285
-Palazzo Corni 209
-Palazzetto 348
-Canaceo 348
-Brentino 255
-Brentelle 243
-Brentasecca-Sabbioncello 489
-Punta Sabbioni 707
-Porcen 308
-Pornaro 207
-Vignui 207
-Zermen 279
-Zerman 819
-Arzerello 935
-Arzerini 299
-Lamen 299
-Lamon 1779
-Alano di Piave 1518
-Noventa di Piave 5154
-Correzzola 586
-Grezzano 721
-Grezzana 4784
-Pezzan 1120
-Caniezza 1778
-Povegliano 1195
-Ogliano 347
-Fasana Polesine 347
+Camponogara 10817
+Fosso 5021
+Fossona 984
+Cereda-Cozza Cornedo 1465
+Corne 327
 Cornei 661
 Peron 347
-Peri 465
-Carceri 748
-Fossalunga 1539
-
-Dosson 5783
-Dossi 433
-Curogna 227
-Curtarolo 1215
-Cesarolo 1651
-Marola 2001
-San Fior di Sotto 853
-San Fior di Sopra 2898
-Villaggio Busonera 571
-Crevada 571
-Bevadoro 870
-Vado 375
-Runzi 205
-Prun 470
-Villabruna-Umin 1040
-Gruaro-Bagnara 1452
-Bagaron 818
+Fasana Polesine 347
+Tombazosana 586
+Pisana 623
+Pacengo 623
+Praello 226
+Bregonza 226
+San Gregorio nelle Alpi 313
+Cimitero Campalto 313
+Piazza Campana 283
+Piazza 313
+Piazzola sul Brenta 4369
+Campolongo sul Brenta 639
+Campolongo 956
+Campobernardo 550
 Fagare 550
-Fagnano 270
-Colze 277
-Bolzano 538
+Villa di Molvena 570
+Villapiana-Ronchena 992
+Stretti 979
+Roverchiaretta 605
+Tovena 614
+Venas 598
+Dosoledo 460
+Anzu 598
+Cavin-Botti 631
+Cavino 1701
+Caviola 591
+Paviola 470
+Voltago 470
+San Pietro in Volta 1140
 
-Salzano 7450
-Veternigo 3356
-Quaderni 1618
-Gorgo della Chiesa 1618
-Gorgo dei Molini 280
-Borgo Zucchero 312
-Velo Veronese 245
-Cerro Veronese 1978
-Caprino Veronese 3629
-Cavajon Veronese 3502
-Affi 1733
-Staffolo 362
-Portobuffole 629
-Soverzene 314
-Orzes 261
+Lido 15719
 
-Scorze 8699
-Bosco 1735
-Boscochiaro 1321
-Busche 384
-Buso 1065
-Buttapietra 4199
-Raldon 3830
+Lido di Iesolo 10523
 
-Caldiero 5743
-Soave 5035
-Navene 218
-Giavenale 1014
-Belfiore 2318
-Corbolone 1014
+Iesolo 7875
+Asolo 3852
+Villa d'Asolo 1419
+One 4009
+Ca' Rainati 1719
+Loria Bessica 4168
+Boaria Baroffio 238
+Scaldaferro 211
+Rosegaferro 1229
+Villabella 872
+Mirabella 594
+Gambellara 2639
+Tombelle 1247
+Arino 2063
+Zelarino 5260
+Olmo 5119
 
-Bovolone 14036
-Bassone 1653
-Bassa 204
-Roverbasso 556
-Cintello 536
+Spinea-Orgnano 23710
+Spineda 881
+Foen 881
+Lisiera 1172
+Casier 3508
+Monticello di Fara 1411
+Codogne 2840
+
+Caldogno-Rettorgole-Cresole 10361
+Rettore Mezzavia 413
+Mezzavia 916
+Novello 405
+Gavello 966
+Sega 966
+Bresega 700
+Costermano 889
+Sospirolo 700
+Cesarolo 1651
+Ficarolo 2007
+Curtarolo 1215
+Seren del Grappa 1588
+Saccon 833
+
+Piove di Sacco-Piovega 13287
+Sant'Angelo di Piove di Sacco 4510
+Sant'Angelo 1407
+Barbarano Vicentino 1412
+Calmasino 1011
+Masi 1036
+Quattro Strade 250
+Pradelle 1143
+Roncadelle 858
+Pincara 858
+Locara 1684
+Caralte 224
+Gai 224
+Borgo Forte 224
+Zona Artigianale Foroni 690
+Canale 324
+Canale d'Agordo 718
+Agordo 3861
+Longarone 2191
+Ponte nelle Alpi-Polpet 5089
+Soccher-Paiane-Casan-Arsie 1371
+
+Piovene Rocchette 8069
+Caltrano 2422
+Chiuppano 2504
+
+Zane 6600
+
+Thiene 21145
+Zugliano 3209
+Gambugliano 287
+Ponso 1106
+Monsole 214
+
+Monselice 12623
+
+Conselve 8768
+Cartura 2094
+Pernumia 2339
+Tribano 3246
+Libano 554
+Bionde 554
+Sabbioni-Zampine 576
+Tignes 427
+Igne 527
+Marega 455
+Sarego 1543
+Pellegrina 882
+Pellegai 259
+Malafesta 259
+Camalavicina 488
+Bonavicina 1435
+Cesuna 606
+Montericco 734
+Monteviale 1313
+Vial 235
+Pez 235
+Fornace Laterizi 235
+Fornaci 2856
+
+Roncade 6585
+Biancade 2654
+Canda 658
+Candide 836
+Candelu 1071
+Bonferraro 1323
+Ferrazze 381
+Palazzetto 348
+Palazzon 285
+Palazzo Corni 209
+Farro 209
+Farra 333
+Santa Margherita d'Adige 1394
+Sant'Anna d'Alfaedo 376
+Tempio 376
+Stabiuzzo 333
+Ronchi Nuova 473
+Ronchi 657
+Bevilacqua 1066
 
 Dueville 12649
 Marocchino 231
 Zenson di Piave 1086
 Molino-Mozzi-Bittarelli 1086
 Mescolino-Minelle 966
-Castegnero 742
-Igne 527
-Rustigne 239
+Frassinelle Polesine 431
+Polesine Camerini 265
+Zoppe di Cadore 265
+Podenzoi 265
+San Fidenzio 599
+San Fior di Sopra 2898
 Rustega 962
-Frusta 466
-Gaiba 779
-Gai 224
-Caralte 224
-Caltrano 2422
+Scardovari 1434
+Sacro Cuore 608
+Sant'Ambrogio 827
 
-Piovene Rocchette 8069
-San Rocco 619
-Sant'Anna Morosina 501
-Ca' Morosini 352
-Osigo 569
-Oliosi 499
-Luneo 499
+Sant'Ambrogio di Valpollicella 10384
+Volargne 1230
+Quargnenta 366
 
-Belluno 25064
-Limana 3128
-Trichiana 2250
-Sedico 5478
-Del Medico 318
-Ca' Brentelle 434
-Passarella di Sotto 318
-Mussetta di Sopra 226
-Mussolini 597
-Mussolente 3166
-Cassola 3825
-Asolo 3852
-Villa d'Asolo 1419
-Ca' Rainati 1719
-Loria Bessica 4168
-Bes 208
-Tende 208
-Cendon 1068
-Brendola 3688
-
-Montecchio Maggiore-Alte Ceccato 20815
-Sovizzo 3690
-
-Creazzo 10124
-Arcugnano-Torri 2499
-
-Torri di Quartesolo 8522
-Brugine 2249
-Rugna 358
+Noventa 9131
+Noventa di Piave 5154
+Correzzola 586
+Vazzola 5283
+Bibano 1561
+Orsago 3533
+Cordignano 4974
+Lumignano 1018
+Provinciale Gasparona 943
+Asparetto 1688
+Ramodipalo Rasa 650
+Bosaro 1067
+Montecchia di Crosara 2260
+Bertipaglia 1834
+Braglia 902
+Sandon 902
+Scandolara 893
 Lugugnana 1129
 Magugnano 2390
 Malcesine 2929
-Salce 461
-Salcedo 401
-Pie' Falcade 1143
-Scuole 255
-Trevenzuolo 1262
-Castello Roganzuolo 219
-Servo 219
-Volperara 232
-Pullir 232
-Follina 1975
-Col-Roncan 319
-Zelo 319
-Zelarino 5260
-Arino 2063
-Marcellise 730
-Castelletto 523
-Saletto 1611
-Asparetto 1688
-Lazzaretto 214
-Raccano 214
-Listolade 214
-Istrana 3665
+Caprino Veronese 3629
+Cavajon Veronese 3502
+Cerro Veronese 1978
+Grezzana 4784
+Quinto 4642
+Montorio 5330
 
-Stra 6200
-Stradone Ovest 264
-Rovere Veronese 281
-Muzzi 281
-Stabiuzzo 333
-Busta 554
+San Martino Buon Albergo 11818
+Vago 2842
+Soave 5035
+
+San Bonifacio 17347
+San Gregorio 2313
+Santo Stefano-Bonaldo 3185
+Arcole 3654
+Case Marcolin 310
+Avoscan-Sot Colaru-Vare 242
+Cola 1107
+Pergola 406
+Poiana di Granfion 620
+Poiana Maggiore 2328
+Fossalta Maggiore 843
+Fossalta 619
+Fossa 599
+Monticelli-Fontana 1321
+Montaner 976
+Busche 384
+Boschetti 255
+Colmaggiore 255
+Cesiomaggiore 843
+Pesine Bisse 740
+Pesina Spezie 689
+Montegaldella 922
 Montemerlo 2224
-Canale d'Agordo 718
-Agordo 3861
-Longarone 2191
-Ponte nelle Alpi-Polpet 5089
-Soccher-Paiane-Casan-Arsie 1371
-Pai 233
-Villapaiera 223
-Villaraspa 510
-Molvena 345
-Calvene 980
-Borso del Grappa 4410
-Cogollo del Cengio 3095
-Cogollo 583
-Pozzoveggiani 365
-Ceggia 5493
+Merlo 257
+Oregne 257
+Valnogaredo 206
+Crocetta-Nogare 3486
+Cornuda 5699
+Ca' Corner 548
+Mena 721
+Grezzano 721
+Pezzan 1120
+Canove di Roana 1269
+Canove 264
+Piano 361
+Ciano 1594
+Pontocello 433
+Dossi 433
 
-Santo Stino di Livenza 7080
+Dosson 5783
 
-Motta di Livenza 7242
-Meduna di Livenza 2226
+Dossobuono 6087
+Madonna di Dossobuono 578
+San Siro 455
+San Cosma 330
+Santa Giustina in Colle 4069
+Santa Maria di Non 2360
+Pieve 3286
+Pieve d'Alpago 338
+Puos d'Alpago 1547
+Valla 2368
+Pozzonovo 2927
+Belfiore 2318
+Calnova-Fiorentina 961
+Calnova 267
+Silvella 371
+Visnadello 895
+Rosaro 371
 
-San Dona di Piave 32819
-Fossalta di Piave 3842
-
-Musile di Piave 7652
-Eraclea 4104
-Crepaldo 2455
-
-Iesolo 7875
-
-Lido di Iesolo 10523
-
-Lido 15719
-Vidor 3509
-
-Col San Martino 8425
-San Martino d'Alpago 248
-Roberti-Rivarotta 248
+Rosa 12548
+Cassola 3825
+Mussolente 3166
+Mussolini 597
+Rustigne 239
+Frasca 239
+Frassene 332
+Campomolino 475
+Crespadoro 475
+Longa 942
+Grande 475
+Volte Grandi 285
+Portegrandi I 336
+Arzergrande 2545
+Albaro 764
+Fratta 442
+Fratte 257
+Finale 206
+Giavenale 1014
+Giavera del Montello 3462
+Selva del Montello 1749
+Volpago del Montello 3888
+Venegazzu 1613
+Enego 1207
+Maserada sul Piave 4181
+Santa Maria del Piave 412
+Camporovere 412
+Roverato 355
+Lovertino 226
+Bergami-Parolin 226
+Stamberga 339
+Bergantino 2065
+Conscio 1082
+San Giuliano 262
+Vodo 630
+Ancignano 525
+Lobia 413
+Cambroso 525
+Mambrotta 327
 Rottanova 1046
 La Bella-Ligonto 414
-La Valle Agordina 925
-Rivamonte Agordino 399
-Cavrie 852
-Ongarie 486
-Carpi 918
-Carpane 431
-Carpenedo 506
-Carpesica 1155
-Padernello 2448
-Paderno 765
-Padola 933
-Borca 617
-Nogarazza 702
-Tarmassia 747
-Sarmede 1075
-Sarmego 504
-
-Sarmeola 7797
-
-Abano Terme 18224
-
-Montegrotto Terme 10276
-Battaglia Terme 3750
-Torreglia 5241
-Torreselle 1105
-San Pietro Valdastico 494
-San Pietro Vecchio 500
-Calalzo di Cadore 2113
-Vulcano 309
-Canove 264
-Eraclea Mare 447
-Grantortino 430
-Grantorto 3435
-
-Fontaniva 6081
-
-Cittadella 14421
-
-Belvedere 6878
-Vedelago 3939
-Salvatronda 2023
-Salvaterra 281
-Canton Madonna 520
-Madonnetta 223
-Madonna di Dossobuono 578
-Cive 609
-Garna-Villa 428
+Casette di Bella Venezia 319
+Casette Mastego Pigno Pellizzara 205
+Fimon 205
+Crociera 205
+Crociara 274
+Calaone 274
+Baone 728
+Due Carrare 2829
+Tre Case 212
+Case Sibillin 220
+Barche 237
+Baldaria 237
+Masarie 290
+Paulona 290
+Cessalto 1734
+Calto 711
+Vacil 994
+Marcellise 730
+Carceri 748
+Fossalunga 1539
+Ponte di Castegnero 586
+Castegnero 742
 Vigardolo 1341
-Bardolino 4873
-Garda 3611
-Castelnuovo del Garda 5341
-San Giorgio in Salici 1396
+Cive 609
 
-Valeggio sul Mincio 8641
-Mozzecane 4394
+Beccacivetta-Azzano 10402
+Forette 1065
+Buso 1065
+
+Vigasio 6918
+Bidasio 732
+Conche 874
+Comunetto 202
+Sanguinetto 3697
+Anguillara Veneta 2938
+Cologna Veneta 4807
+Minerbe 4112
+Erbe 1540
+Erbezzo 236
+Bacucco 236
+Castelcucco 1667
+
+Feltre 13643
+San Giorgio di Perlena 422
+San Giorgio in Brenta 638
+San Giorgio in Bosco 2169
+
+San Giorgio delle Pertiche 7009
+
+Borgoricco-San Michele delle Badesse-Sant'Eufemia 6036
+Massanzago-Ca' Baglioni-San Dono 3397
+Terraglione 655
+Castiglione 270
+Fagnano 270
+Pagnano 674
+Ca' Lino 674
+Bigolino 1541
+Bardolino 4873
+Lazise 3049
+Affi 1733
+Fumane 2557
+
+Negrar 6464
+Cavalcaselle 2557
+Valcasoni 209
+Casoni 2509
+Musano 1768
+Mossano 324
+Sossano 2902
+
+Noventa Vicentina 7588
+Fara Vicentino 1482
+Mason Vicentino 1706
 Tezze 4037
 
 Romano d'Ezzelino 12700
-San Martino di Venezze 2641
+Romanziol 265
+
+Preganziol 6674
+Robegano 2640
+
+Salzano 7450
+Bolzano 538
+Rivalta 538
+Riva 792
+Broglie 807
+Albettone 807
+Alberoni 765
+
+Fiesso 7372
+Fiesso Umbertiano 3584
+Colle Umberto 1233
+Colle 353
+Tolle 272
+Sardi 321
+Mardimago 1408
+Bernardi-Pedron 315
+Pornaro 207
+Canaro 1494
+Cencenighe Agordino 1183
+Rivamonte Agordino 399
+Cinto Euganeo 399
+Vitipan-Logaro-Mazzocca 244
+Villa Fora 244
+Villa di Villa 867
+Meano 867
+Oppeano 2653
+Ca' degli Oppi 1349
+
+Bovolone 14036
+Bassone 1653
+Salizzole 1653
+Villafontana 649
+Fontanafredda 236
+Stra-Montanara-Pieve 4514
+Corte 1119
+Babato 372
+
+Valdobbiadene 6307
+
+Valdagno 22555
+San Vito di Leguzzano 3218
+
+Malo 13218
+Camalo 2099
+Ottava Presa 776
+Motta 1882
+Roberti-Rivarotta 248
+San Martino d'Alpago 248
 
 San Martino di Lupari 10931
 Abbazia Pisani 1192
 
 Tombolo 7787
-Bellombra 238
-Boaria Baroffio 238
-Baricetta 616
-Crocetta-Nogare 3486
-Cornuda 5699
-Pernumia 2339
-Pero 1104
-Cazzago-Ex Polo 4226
-Tavernelle 1372
-Campolongo Maggiore Liettoli 3578
-Sambughe 1344
-Bugano 373
-San Pietro Polesine 373
-Villanova Marchesana 373
-Vettorazzi 373
-San Nazario 737
-Roveredo di Gua 737
-Albaredo d'Adige 2783
-Albaredo 1375
-Stra-Montanara-Pieve 4514
-Tramonte 468
-Montericco 734
-Monteviale 1313
-Vial 235
-Mezzavia 916
-Rettore Mezzavia 413
-Forette 1065
-
-Beccacivetta-Azzano 10402
-
-Vigasio 6918
-Bidasio 732
-Casier 3508
-Lisiera 1172
-Spineda 881
-Foen 881
-Badoere 2165
-Ospedaletto 2261
-Dogaletto 519
-Provagna 280
-Laggio di Cadore 813
-Lorenzago di Cadore 553
-Lorenzaga 241
-Loreggia 4010
-Loreggiola 1306
-Castelminio 2539
-Rozzampia 721
-Rizza 1367
-Isola Rizza 2387
+Corbolone 1014
+Volon 416
+Rovolon 355
+Celeseo 318
+Vallese 3091
+La Valle Agordina 925
+Valsanzibio 759
 Terradura 1121
-Brusadure 240
-San Giorgio di Valpolicella 240
+Terrazzo 1176
+Villa Bartolomea 3221
+Losson della Battaglia 813
+Sernaglia della Battaglia 3869
+
+Isola della Scala 8348
+Isola Rizza 2387
+Rizza 1367
+Corrubbio 1685
+Saletto 1611
+Rozzampia 721
+Pozzale 564
+Pianezze 564
+Pianezze del Lago 535
+San Martino di Venezze 2641
+Villadose 5086
+
+Rovigo 39347
+Costa di Rovigo 2326
+Candiana 1115
+Zeminiana 713
+Bonomini 350
+Sant'Urbano 296
+Colognola ai Colli 2308
+San Sebastiano 468
+Bastia 1802
+Aselogna 379
+Curogna 227
+Guarde-Marogna-Rossati-Vencati 298
+Mazzurega 298
+Mazzorbo 305
+San Giacomo di Musestrelle 654
+Musestre 1182
+Vaccarino 804
+Refrontolo 648
+Villa Estense 1369
+Deserto 830
+Dese 1302
+San Giorgio di Livenza 1171
+Alleghe 656
+
+Trebaseleghe 7901
+Badoere 2165
+Ballo 1428
+
+Zero Branco 5838
+Sant'Alberto 1428
+Bertoneria 300
+Boschi Sant'Anna 603
+Boschi San Marco 439
+Marchesino-Bovo 1754
+Bovolenta 1510
+Lovolo 203
+Lutrano 1016
+San Germano dei Berici 386
+Campiglia dei Berici 935
+Arzerello 935
+
+Cavarzere 8992
+
+Adria 12986
+Quadrivio 233
+Quaderni 1618
+Gorgo della Chiesa 1618
+Valliera 719
+Breonio 252
+Colze 277
+Pullir 232
+Pennar 247
+Serdes 214
+Listolade 214
+San Sisto 320
+Rodeghieri-Rigoni-Podesta-Costa 797
+Brognoligo-Costalunga 2777
+Monteforte d'Alpone 5235
+Alpo 2106
+Talponada 2599
 Marano di Valpolicella 293
 Foza 293
-Custoza 812
-Porto Santa Margherita 812
-Vetrego 784
-Vetriani 248
-Brian 326
-Piano 361
-Tresche Conca 506
-Villaggio Montegrappa 1043
-Taggi 2744
+Lavaio 245
+Mosnigo 1333
 Cosniga-Zoppe 2456
-Dont 478
-Provinciale Gasparona 943
-Rovare 526
-Scardovari 1434
-Fontanafredda 236
-Villafontana 649
-Ca' degli Oppi 1349
-Oppeano 2653
-Roverchiara 1390
+Taggi 2744
+Cappella Maggiore 4151
 
-Chiampo 10857
-San Giovanni Ilarione 2604
-San Giovanni 385
-
-San Giovanni Lupatoto 20038
-
-San Martino Buon Albergo 11818
-Pergola 406
-Cola 1107
-Colognola ai Colli 2308
-Bagnolo 1159
-Bagnolo di Po 532
-Canda 658
-Biancade 2654
-
-Valdobbiadene 6307
-Babato 372
-Ranzato 275
-Anzu 598
-Gazzo Veronese 344
-Biverone 441
-Bertoneria 300
-Albettone 807
-Almisano 461
+Vittorio Veneto 24789
+Teglio Veneto 1678
+Fornase 1996
+Fornesighe 201
+Bottrighe 2055
+Perzacco 939
+Tacconi 249
+Coda 228
+Palu 912
 Mis 643
-Tisoi 363
-Spessa 401
-Pesina Spezie 689
-Cortina d'Ampezzo 5423
-Corte 1119
-Portegrandi I 336
-Ronchi Nuova 473
-San Biagio 1865
-San Biagio di Callalta 2584
-San Floriano-Olmi 3720
-Carbonera 4276
-Carbonara 580
-Vanzo 580
-Fanzolo 1562
-Villadose 5086
+San Nazario 737
+Bugano 373
+Morgano 301
+Sorga 552
+Rigole 244
+Castello di Brussa 244
+Cavrie 852
+Prun 470
+Azzago 470
+Cazzago-Ex Polo 4226
+Campolongo Maggiore Liettoli 3578
+Sambughe 1344
+
+Cerea 12869
+Roverchiara 1390
+Boscochiaro 1321
+Villaganzerla 1081
+Granvilla 1145
+Sachet 419
+Tavo 1072
+Tormine 207
+Chiesanuova 566
+Bosco Chiesanuova 1289
+Villa del Bosco 593
+Villa del Conte 2320
+
+Monticello Conte Otto 7361
+Grumolo delle Abbadesse 2249
+
+Mestrino 7593
+Pellestrina 2651
 Stanghella 2651
-Longhi 211
+Baruchella 961
+Michellorie 555
+Case Armenteri 392
+Cimavilla 408
+Guia 842
+Raguia 302
+Teolo 441
+Meolo 3978
+Campese 1142
+Campea 388
+Giai 538
+Ca' Morosini 352
+Moro 590
+Premaor 446
+Montegalda 1122
+Tramonte 468
+Lamon 1779
+Possagno 2110
+Riese Pio X 3389
+Castione 1023
+
+Cittadella 14421
+
+Belvedere 6878
 Laghi 1070
-Lago 547
-Riviera Naviglio 394
-Trivignano 2227
 
-Arzignano 21247
-Galzignano 2782
-Carmignano 693
+Mestre 147662
 
-Carmignano di Brenta 6295
-Lumignano 1018
+Marcon-Gaggio-Colmello 12565
+Barcon 904
+Pettorazza Grimani 1231
+Vettorazzi 373
+San Pietro Polesine 373
+San Pietro di Morubio 1332
+Liedolo 938
+Case Trevisan 240
+Brusadure 240
+San Giorgio di Valpolicella 240
+Cison di Valmarino 1178
+Valmarana 381
+Valmareno 922
+Alonte 689
+Bonavigo 720
+Illasi 3029
+Brian 326
+Vetriani 248
+Vetrego 784
+Fregona 1751
+Cendon 1068
+Lozzo Atestino 2072
+Ca' Ballarin 968
+Daverio 377
+Bes 208
+Tende 208
+Zorzoi 208
+Lamen 299
+Arzerini 299
+Begosso 299
+Scopella 226
+Cappella 946
+Martinella-Alte 337
+Marinella 320
+Gaiarine 1892
+
+Caorle 7511
+Caorliega 224
+Arten 930
+Muliparte 612
+Santa Lucia 533
+
+Zevio-Santa Maria 8478
+Merlara 1842
+Pero 1104
+Burano 2658
+Sona 4697
+Castelnovo Bariano 1234
+Sant'Elena 1637
+Sant'Erasmo 210
+Zerman 819
+Colmirano 894
+Calderano 210
+Marano 1697
+Marani Mazzanta 268
+Taru 268
+Staffolo 362
+Portobuffole 629
+Soverzene 314
+Santa Maria In Stelle 913
+Secula 621
+Caniezza 1778
+
+Schio 33740
+Santorso 5236
+Torrebelvicino 4993
+Recoaro Terme 3259
+Roana 1093
+Asiago 3683
+Busiago 396
+Stiago 558
+Pie' Falcade 1143
+Arcade 3430
+
+Spresiano 10287
+
+Lancenigo-Villorba 15265
+
+Ponzano 10238
+Varago 2356
+Breda 2472
+San Biagio di Callalta 2584
+Bocca Callalta 581
+Rua 581
+Merendaore 301
+Premaore 230
+Seghe 591
+Campotamaso 225
+Campo San Martino 3703
+Brugine 2249
+Limena 5448
+Pionca 2462
+Col-Roncan 319
+Zelo 319
+Follina 1975
+Lauro 305
+Auronzo 3347
+Valgatara 1186
+Cantarana 328
+Arlesega 1013
+Susegana 3414
+
+Priula-Colfosco 6743
+Falze-Signoressa 3417
+Spessa 401
+Brentino 255
+Scuole 255
+Canaceo 348
+Canalnuovo 248
+Brenta dell'Abba 248
+Arabba 275
+Cavazzana 359
+Bevazzana 349
+Caupo 349
+Mel 1744
 Lughignano 1180
+Galzignano 2782
 
 Lugagnano 8383
 
 Sommacampagna 7258
-
-Povegliano Veronese 6113
-Belluno Veronese 329
-Annone Veneto 2730
-Lubiara 351
-Lobia 413
-Sala 701
-Salara 876
-Merlara 1842
-
-Zevio-Santa Maria 8478
-
-Santa Maria Maddalena 8174
-Sant'Elena 1637
-Sant'Erasmo 210
-Sant'Eulalia 770
-Levego 770
-Leva 926
+Ronchi di Campanile 1037
+Torri di Confine 294
+Torri del Benaco 2453
+Sorriva 367
+Lorenzaga 241
+Zordan 241
 Roncoleva 669
-Pieve d'Alpago 338
-Farra d'Alpago 1864
-Monteforte d'Alpone 5235
-Brognoligo-Costalunga 2777
-Pralungo 466
+Ronco All'Adige 3360
+Summaga 1610
+Visome 682
+Rampazzo 526
+Pazzon 304
+Pai 233
 
 Montebelluna 26670
-Torrebelvicino 4993
-Recoaro Terme 3259
-
-Valdagno 22555
-Baldaria 237
-Case Sibillin 220
-Tre Case 212
-Le Casette 315
-Boccasette 282
-Bocca Callalta 581
-Rua 581
-Taru 268
-San Cosma 330
-San Gaetano 330
-San Giuliano 262
-Rodeghieri-Rigoni-Podesta-Costa 797
-Godega 3506
+Montecchio Precalcino 1019
+Mas 857
+Preara-Moraro-Leva Nord 1953
+Ranzato 275
+Squizzato 239
+Guizze 209
+Lison 209
+San Rocco 619
+San Pancrazio 850
+Bolca 286
+Mondonovo 211
+Longhi 211
+Bellombra 238
+Cintello 536
+Roverbasso 556
+Spinimbecco 1250
+Porra Camerini 267
 
 Oderzo 15764
 Mansue 2937
-Costermano 889
-Sospirolo 700
-Bresega 700
-Volte Grandi 285
-Grande 475
-Crespadoro 475
-Campomolino 475
-Boschi San Marco 439
-Marchesino-Bovo 1754
-Bovolenta 1510
-Rovolon 355
-Pozzonovo 2927
-Arzergrande 2545
-Zimella 810
+Godega 3506
+Trichiana 2250
 
-Peschiera del Garda 7733
-Perzacco 939
-Tacconi 249
-Lamosano 249
-Rosara 210
-Crosara 287
-Crosare 213
-Pontecasale 213
-Ponte di Castegnero 586
-Monte di Malo 855
-Engazza-Crosara 415
-Le Vegre 415
-Taibon 1293
-Bonomini 350
-Zeminiana 713
-Tormine 207
-Tavo 1072
-Ottava Presa 776
-Resana 3031
-Piombino Dese 4879
-Riese Pio X 3389
+Lonigo 12110
+Meledo 2484
 
-Castelfranco Veneto 25545
-Frassene 332
-Avoscan-Sot Colaru-Vare 242
-Volargne 1230
-Quargnenta 366
-Cavalo 366
-Noiera 213
-Crociera 205
-Crociara 274
-Ponte Gorzone 274
-Calaone 274
-Baone 728
-Saonara 1963
+Noale 10500
+Veternigo 3356
 
-Legnaro 6813
+Dolo 8410
+Bojon-Lova 3914
 
-Ponte San Nicolo 12180
-
-Tencarola 6308
-
-Selvazzano Dentro 7962
-Rubano 3434
-Corrubbio 1685
-San Pietro di Morubio 1332
-San Pietro in Volta 1140
-
-Giudecca 6147
-
-Mestre 147662
-
-Mestrino 7593
-Tribano 3246
-Libano 554
-Bibano 1561
-Valsanzibio 759
-Valstagna 970
-Calstorta 210
-Sule 487
-Vas 487
-Vascon 854
-Cimadolmo 1504
-Cimavilla 408
-Valli del Pasubio 927
-Torri del Benaco 2453
-Villa del Bosco 593
-Castelnovo Bariano 1234
-Maserada sul Piave 4181
-Fonzaso 1947
-
-Ponzano 10238
-
-Lancenigo-Villorba 15265
-
-Spresiano 10287
-
-Priula-Colfosco 6743
-Susegana 3414
-Seghe 591
-Alleghe 656
-
-Trebaseleghe 7901
-Cadoneghe 3045
-Monticelli-Fontana 1321
-Montaner 976
-Valnogaredo 206
-Sottoguda-Palue 206
-Brigo-Paluello 988
-Marteggia 327
-Mambrotta 327
-Broz 204
-Zuane Osteria 204
-Centrale 1231
-Trecenta 1555
-Roncajette 750
-Cavin-Botti 631
-Cavino 1701
-Camalavicina 488
-Bonavicina 1435
-Cesuna 606
-Visome 682
-Rampazzo 526
-Castelcucco 1667
-Ronco All'Adige 3360
-Summaga 1610
-Albare Stazione 832
-Stazione Rossano 250
-Campobernardo 550
-Campo di Pietra 678
-Bosco Chiesanuova 1289
-Chiesa di Vivaro 212
+Valeggio sul Mincio 8641
+Mozzecane 4394
+Buttapietra 4199
+Settimo 1642
 
 Maerne 7168
+Sopracroda 221
 Faedo 221
 Don 221
-Gidoni 214
-Bagnara 214
-Monsole 214
-Ponso 1106
-Casone 521
-Casoni 2509
-Musano 1768
-La Salute di Livenza 2663
+Villapaiera 223
 
-Caorle 7511
-Caorliega 224
-Merendaore 301
-Terrassa Padovana 1326
-Preara-Moraro-Leva Nord 1953
-Canalnuovo 248
-Stallavena-Lugo 2936
-Villaverla 4391
+Villatora 6154
+Valproto 714
 
-Thiene 21145
-San Vito di Leguzzano 3218
-
-Caldogno-Rettorgole-Cresole 10361
-Caldierino-Rota 1126
-San Fidenzio 599
-San Pancrazio 850
-Codiverno 1948
-Zona Industriale 646
-Santa Maria In Stelle 913
-Secula 621
-Lazise 3049
-Le Grazie 462
-Sitran 227
-Lutrano 1016
-Quadrivio 233
-Sorriva 367
-Caprile 241
+Giudecca 6147
+San Liberale 2298
+Centrale 1231
+Trecenta 1555
+Codevigo 1555
+Roncajette 750
+Porcen 308
 Capitello 750
-Michellorie 555
-Case Armenteri 392
-Ronchi di Campanile 1037
-Sopracroda 221
-Zona Artigianale Foroni 690
-
-Spinea-Orgnano 23710
-Spinimbecco 1250
-Gambellara 2639
-Marinella 320
-Martinella-Alte 337
+Ca' Brentelle 434
 
 Quarto d'Altino 5880
-Altivole 1369
-San Quirico 1146
-San Zeno 1063
-Le Crete 367
 
-San Bonifacio 17347
-Bonisiolo 688
-Pellegai 259
-Malafesta 259
-
-Lendinara 7475
-Fiesso Umbertiano 3584
-Ficarolo 2007
-
-Taglio di Po 6848
-Ca' Tiepolo 3666
-Cartura 2094
+Frescada 5800
+Piombino Dese 4879
+Resana 3031
 Domegge di Cadore 2548
-Rotzo 503
-Ponterotto-Giustizia 533
-Breda 2472
-Sandra 2219
-Settimo 1642
-Fimon 205
-Casette Mastego Pigno Pellizzara 205
-Casette di Bella Venezia 319
-Case Demo-Fassina 273
-Fastro 319
-Celarda 273
-Pennar 247
-Serdes 214
-Gaiarine 1892
-Cison di Valmarino 1178
+Tarmassia 747
+Vigorovea 1618
+Tarzo 1544
+Runzi 205
+Carve 288
+Zuane Osteria 204
+Caposile 204
+Bassa 204
+Broz 204
 Valmorsel-Concamarise 375
 Losego 204
-Losson della Battaglia 813
-Isiata 306
-Valgatara 1186
-Salizzole 1653
-Vigorovea 1618
-Castiglione 270
-Zermeghedo 1245
-Passarella 1105
+Novaglie 268
+Garna-Villa 428
+La Sicilia 337
+Boara Pisani 1429
+Casacorba 1124
+Mure 564
 Agugliaro 738
 Fae 542
+Bure 668
+Carpane 431
+Tomo 411
+Taibon 1293
+San Felice 829
+Ca' Onorai 814
 Cavasagra 668
-Masarie 290
-Torbe 393
-Colmirano 894
-Valrovina 507
-Novaglie 268
+Gaiba 779
+Pralungo 466
+Isiata 306
 Mareson-Pecol 316
-Cirvoi 315
-Oregne 257
-Boschetti 255
+Bonisiolo 688
+Rugna 358
+Zona Industriale 646
+Noiera 213
+Vignole 294
+Osigo 569
+Torbe 393
+Gus 216
+Le Crete 367
+Caprile 241
+Lazzaretto 214
+Gidoni 214

@@ -4,161 +4,83 @@ Ciudad Juarez 1321004
 Ejido Benito Juarez 5778
 Benito Juarez 6138
 Ignacio Zaragoza 3518
-Abdenago C. Garcia 2113
-San Buenaventura 6957
-Buena Fe 544
-La Mesa 655
-Mesa del Huracan 1102
-Valle del Toro 608
-Valle de Allende 4185
-Valle del Rosario 263
-Mariano Balleza 2087
-Santa Barbara 8765
-Santa Maria 602
-Morelos 813
+Valle de Zaragoza 2223
 Matamoros 2615
-El Oro 4249
-Congregacion Ortiz 2620
-Estacion Conchos 1670
-Estacion Saucillo 942
-
-Saucillo 11004
-Colonia Revolucion 3995
-Colonia San Jose 509
-Colonia Esperanza 509
-Esperanza 710
-Samachique 1241
-Urique 1102
-Pena Blanca 1092
-Loma Blanca 2169
-Puerto Palomas 5659
+Morelos 813
+Santa Maria 602
+Santa Isabel 1378
+Independencia 1088
 
 Ascencion 11781
 
 Ascension 13456
-La Constitucion 2709
+
+Nuevo Casas Grandes 55553
+Casas Grandes 5256
+Abdenago C. Garcia 2113
+Los Garcia 890
+Yoquivo 831
+Pancho Villa 812
+Santa Catalina de Villela 642
+La Garita 642
+Colonia Margarita Maza de Juarez 531
+Juarez 1035
+Carichi 1672
+Cajurichic 781
+Basaseachic 1248
+Temosachic 1841
+Yepachic 750
+Ignacio Allende 935
+Valle de Allende 4185
+Valle del Rosario 263
+Mariano Balleza 2087
+Octaviano Lopez 2148
+
+Adolfo Lopez Mateos 8770
+El Tule 811
+El Terrero 2621
+Guerrero 7751
 Praxedis Guerrero 3787
 Praxedis G. Guerrero 2128
 San Isidro 3483
 San Ignacio 576
 Colonia Felipe Angeles 1254
-Colonia el Valle 526
-La Paz 677
-La Perla 943
-La Pinta 657
-Guapalaina 508
-Guadalupe 3022
-Guadalupe y Calvo 5816
-
-Guachochi 14513
-Uruachi 1199
-Turuachi 1131
-Ejido El Vergel 2008
-Ejido El Largo 4964
-Ejido La Quemada 1272
-Nonoava 1272
+Talamantes 512
+Orranteno 1641
+Barranco Blanco 748
+Ranchos de Santiago 560
+Abraham Gonzalez 560
 Norogachi 900
 Carretas 726
-El Torreon 616
-El Terrero 2621
-El Tule 811
-Basuchil 1451
-Basaseachic 1248
-Temosachic 1841
-Temoris 2053
-Cerocahui 1556
-Bahuichivo 1502
-San Rafael 2160
-
-San Juanito 10535
-
-La Junta 8930
-Guerrero 7751
-Bachiniva 2109
-Matachi 1710
-
-Madera 15447
-Gomez Farias 5330
-Valentin Gomez Farias 5404
-Cusihuiriachi 63
-
-Chihuahua 809232
-Ninguno [CERESO] 2010
-Santa Eulalia 7135
-Santa Catalina de Villela 642
-Pancho Villa 812
-Conchos 644
-Ranchos de Santiago 560
-Barranco Blanco 748
-Abraham Gonzalez 560
-Hermenegildo Galeana 926
 Fernandez Leal 885
 Pedernales 509
 Rosales 5570
-Colonia Campesina 2365
-Ampliacion Colonia Lazaro Cardenas 8161
-Lazaro Cardenas 8704
-Estacion Consuelo 1981
-Estacion la Cruz 739
-La Cruz 1671
-Octaviano Lopez 2148
-
-Adolfo Lopez Mateos 8770
+Barreales 540
+Guadalupe y Calvo 5816
+Guadalupe 3022
+Maguarichi 801
+Pachera 801
 Dolores 517
 San Lorenzo 806
-Saenz 532
-Tres Jacales 727
-Tres Alamos 670
-Alamos de Cerro Prieto 614
-Ex-Hacienda Delicias 774
-Independencia 1088
-Santa Isabel 1378
-Loma Chica 653
-Tomochic 2818
-
-Cuauhtemoc 114007
-
-Anahuac 9952
-Miguel Ahumada 8575
-Miguel Hidalgo 2850
-Ocampo 527
-Campo Numero Dos 600
-Kilometro Noventa y Nueve 1092
-La Nortena 822
-Orranteno 1641
-Rinconada del Mimbre 539
-Colonia Margarita Maza de Juarez 531
-Juarez 1035
-Carichi 1672
-Cajurichic 781
-Las Cruces 1206
-Janos 2738
-Borjas 535
-San Francisco de Borja 1157
-Oscar Soto Maynez 2978
-
-Jimenez 31054
-Julimes 1795
-
-Meoqui 22574
-Yoquivo 831
-San Jose Bavicora 667
-Jose Esteban Coronado 1121
-Batopilas 1220
-Las Varas 2410
-Las Yerbitas [Aserradero] 1200
-Baborigame 3294
+San Guillermo 979
+Sisoguichi 1097
+Bahuichivo 1502
+Cerocahui 1556
+Temoris 2053
 Moris 1799
 Samalayuca 1474
 Colonia Terrazas 1602
-Colonia Vicente Guerrero 996
-Juarez y Reforma 788
-Chinipas 1934
-Namiquipa 1752
-Granjas el Venado 585
-Casas Grandes 5256
+Colonia San Jose 509
+Colonia Esperanza 509
+Colonia Revolucion 3995
+Colonia Campesina 2365
 
-Nuevo Casas Grandes 55553
+Ciudad Delicias 118071
+Ex-Hacienda Delicias 774
+La Perla 943
+La Pinta 657
+La Paz 677
+Colonia el Valle 526
 Manuel Benavides 916
 
 Manuel Ojinaga 22744
@@ -166,48 +88,126 @@ Manuel Ojinaga 22744
 Ojinaga 22128
 
 Aldama 18642
+Ninguno [CERESO] 2010
+Santa Eulalia 7135
+
+Chihuahua 809232
+
+Anahuac 9952
+
+Cuauhtemoc 114007
+Cusihuiriachi 63
+Bachiniva 2109
+Matachi 1710
+Uruachi 1199
+Turuachi 1131
+Ejido El Vergel 2008
+Ejido El Largo 4964
+Ejido La Quemada 1272
+Nonoava 1272
+El Bismarck 885
+Loma Chica 653
+Loma Blanca 2169
+Puerto Palomas 5659
+Santo Tomas 674
+Corraleno 591
+
+Parral 104836
+Santa Barbara 8765
+Huejotitan 243
+Alvarenas 854
+San Agustin 1359
+San Andres 662
+El Oro 4249
+Congregacion Ortiz 2620
+Estacion Conchos 1670
+Estacion Saucillo 942
+
+Saucillo 11004
+
+Meoqui 22574
+Estacion Consuelo 1981
+Ampliacion Colonia Lazaro Cardenas 8161
+Lazaro Cardenas 8704
+Ojo Caliente 514
+Las Puentes 829
+La Nortena 822
+Valle del Toro 608
+El Torreon 616
+Buena Fe 544
+La Mesa 655
+Mesa del Huracan 1102
+Rinconada del Mimbre 539
+Coyame 709
+Guapalaina 508
+Borjas 535
+San Francisco de Borja 1157
+Oscar Soto Maynez 2978
+Batopilas 1220
+Jose Esteban Coronado 1121
+San Jose Bavicora 667
+Tacuba 557
+La Regina 739
+Tutuaca 841
+Guadalupe Victoria 1369
+Colonia Vicente Guerrero 996
+Juarez y Reforma 788
+Chinipas 1934
+San Rafael 2160
+
+San Juanito 10535
+Creel 5026
+Tomochic 2818
+
+Guachochi 14513
+Baborigame 3294
+Las Yerbitas [Aserradero] 1200
+Francisco I. Madero 691
+El Molino 2191
+Ocampo 527
+Campo Numero Dos 600
+Urique 1102
+Samachique 1241
+Conchos 644
+Esperanza 710
+Tres Alamos 670
+Alamos de Cerro Prieto 614
+Pueblito de Allende 1381
+Namiquipa 1752
+Granjas el Venado 585
+El Sauz 1499
+Saenz 532
+Tres Jacales 727
 
 Camargo 40221
 Naica 4938
 
-Ciudad Delicias 118071
-Los Garcia 890
-Ojo Caliente 514
-Las Puentes 829
-Talamantes 512
-Pueblito de Allende 1381
-Ignacio Allende 935
-Yepachic 750
-Pachera 801
-Parritas 584
-
-Parral 104836
-Corraleno 591
-Santo Tomas 674
-La Regina 739
-Tacuba 557
-Alta Vista 971
-Valle de Zaragoza 2223
-San Andres 662
-San Agustin 1359
-Alvarenas 854
-Nicolas Bravo 1862
-Francisco I. Madero 691
-El Molino 2191
-El Sauz 1499
-San Guillermo 979
-Sisoguichi 1097
-Maguarichi 801
+Jimenez 31054
+Hermenegildo Galeana 926
 Paramo 516
-El Bismarck 885
-Monte Verde 1087
-Guadalupe Victoria 1369
-Tutuaca 841
-Creel 5026
-Rodrigo M. Quevedo 1367
-Porvenir 1253
 Bocoyna 796
-Coyame 709
-La Garita 642
-Huejotitan 243
-Barreales 540
+Pena Blanca 1092
+Kilometro Noventa y Nueve 1092
+San Buenaventura 6957
+Gomez Farias 5330
+Valentin Gomez Farias 5404
+
+La Junta 8930
+
+Madera 15447
+Miguel Ahumada 8575
+Miguel Hidalgo 2850
+Monte Verde 1087
+Janos 2738
+Las Cruces 1206
+La Cruz 1671
+Estacion la Cruz 739
+La Constitucion 2709
+Rodrigo M. Quevedo 1367
+Las Varas 2410
+Nicolas Bravo 1862
+Julimes 1795
+Basuchil 1451
+Porvenir 1253
+Alta Vista 971
+Parritas 584

@@ -4,30 +4,573 @@ Montreal 1704694
 Montreal-Ouest 5050
 
 Mont-Royal 20276
-Noyan 1392
-Saint-Georges-de-Clarenceville 1103
 
-Saint-Georges 32513
-Saint-Gedeon-de-Beauce 2205
-Sainte-Clotilde-de-Beauce 549
-Saint-Joseph-de-Beauce 4858
-Saint-Frederic 1044
-Saint-Alfred 492
-Saint-Victor 2448
+Pont-Rouge 9240
+Donnacona 7200
 
-Victoriaville 46130
-Princeville 6001
-Laurierville 1346
-Villeroy 457
-Leclercville 473
-Fortierville 669
-Chartierville 276
-Sainte-Martine 5461
-Saint-Urbain-Premier 1264
+Beaconsfield 19324
+Mansfield-et-Pontefract 2285
+Litchfield 459
+Gracefield 2462
+Bouchette 731
+Aumond 754
+Beaumont 2942
+Beaupre 3752
+Sainte-Anne-de-Beaupre 2880
+Sainte-Anne-de-Bellevue 4958
+
+L'Ile-Perrot 10756
+
+Notre-Dame-de-l'Ile-Perrot 10654
+Notre-Dame-de-Ham 411
+Notre-Dame-de-la-Paix 648
+Notre-Dame-de-la-Salette 727
+Notre-Dame-du-Laus 1558
+Notre-Dame-de-Pontmain 782
+Lac-du-Cerf 435
+Lac-des-Ecorces 2734
+Lac-des-Plages 431
+
+Sainte-Anne-des-Plaines 14421
+Sainte-Anne-des-Lacs 3611
+
+Sainte-Adele 12919
+
+Sainte-Agathe-des-Monts 10223
+Sainte-Lucie-des-Laurentides 1256
+Sainte-Lucie-de-Beauregard 280
+Remigny 280
 Saint-Remi 8061
+Saint-Urbain-Premier 1264
+Sainte-Martine 5461
+Sainte-Marthe 1097
+
+Sainte-Marthe-sur-le-Lac 18074
+
+Deux-Montagnes 17496
+Notre-Dame-de-Montauban 745
+Saint-Rene 745
+Saint-Rene-de-Matane 965
+
+Matane 14311
+Saint-Leandre 400
+Saint-Leon-le-Grand 953
+
+Saint-Basile-le-Grand 17059
+
+Saint-Bruno-de-Montarville 26394
+McMasterville 5698
+
+Boucherville 41671
+Montreal-Est 3850
+
+Varennes 21257
+Charlemagne 5913
+Saint-Charles-sur-Richelieu 1717
+Saint-Marc-sur-Richelieu 2172
+Saint-Denis-sur-Richelieu 2308
+Saint-Antoine-sur-Richelieu 1694
+Saint-Roch-de-Richelieu 2188
+Richelieu 5236
+Saint-Mathias-sur-Richelieu 4531
+
+Saint-Jean-sur-Richelieu 95114
+Saint-Blaise-sur-Richelieu 2066
 Saint-Michel 3186
 Saint-Mathieu 2156
 Delson 7457
+
+Saint-Constant 27359
+Saint-Come 2193
+Saint-Alphonse-Rodriguez 3162
+Saint-Alexis 1308
+Saint-Alexis-des-Monts 2981
+Saint-Paulin 1497
+Saint-Paul 5891
+Crabtree 3958
+Ogden 741
+Saint-Honore-de-Temiscouata 741
+Saint-Elzear-de-Temiscouata 321
+Temiscouata-sur-le-Lac 4910
+Ivry-sur-le-Lac 387
+Portneuf-sur-Mer 598
+Portneuf 3187
+Deschambault-Grondines 2220
+Deschaillons-sur-Saint-Laurent 909
+Sainte-Anne-de-la-Perade 2019
+Sainte-Anne-de-la-Pocatiere 1636
+La Pocatiere 4120
+Riviere-Ouelle 970
+Saint-Pacome 1598
+Saint-Pascal 3468
+Saint-Philippe-de-Neri 832
+Mont-Carmel 1127
+Saint-Leon-de-Standon 1127
+Notre-Dame-de-Stanbridge 668
+Saint-Ignace-de-Stanbridge 676
+Saint-Stanislas 1010
+Saint-Severin 846
+Saint-Severe 302
+Saint-Guy 54
+Saint-Gilbert 296
+Saint-Marc-des-Carrieres 2911
+Saint-Marc-de-Figuery 834
+Saint-Marcel 428
+Saint-Marcellin 353
+Sainte-Marcelline-de-Kildare 1594
+Notre-Dame-des-Pins 1594
+Notre-Dame-des-Monts 791
+L'Ascension 791
+L'Ascension-de-Patapedia 164
+Saint-Odilon-de-Cranbourne 1374
+Saint-Omer 277
+Saint-Octave-de-Metis 511
+Grand-Metis 167
+Blue Sea 639
+Saint-Mathieu-de-Rioux 639
+Lamarche 514
+Vercheres 5835
+Taschereau 963
+Authier 268
+Authier-Nord 300
+Routhierville 18
+Berthierville 4189
+Sainte-Genevieve-de-Berthier 2280
+Sainte-Genevieve-de-Batiscan 1006
+East Angus 3659
+Newport 733
+Bury 1174
+Westbury 1006
+
+Westmount 20312
+Hampstead 6973
+Stanstead 2788
+Saint-Benoit-du-Lac 32
+Saint-Benoit-Labre 1630
+Saint-Alfred 492
+Saint-Victor 2448
+Saint-Vianney 441
+Quaqtaq 403
+Saint-Camille-de-Lellis 752
+Sainte-Sophie-de-Levrard 729
+
+Sainte-Sophie 15690
+
+Saint-Jerome 74346
+Riviere-Saint-Jean 215
+Riviere-Bonaventure 35
+Bonaventure 2706
+Saint-Bonaventure 1031
+Saint-Elphege 270
+Grand-Saint-Esprit 476
+Saint-Esprit 1967
+Saint-Roch-Ouest 266
+Saint-Roch-de-l'Achigan 5147
+Saint-Roch-de-Mekinac 302
+Saint-Tite 3673
+Herouxville 1278
+Dixville 696
+Waterville 2121
+Chesterville 922
+Sainte-Justine-de-Newton 922
+Sainte-Helene-de-Bagot 1688
+Sainte-Helene-de-Chester 374
+Saint-Nazaire-de-Dorchester 363
+Saint-Neree-de-Bellechasse 742
+Saint-Charles-de-Bellechasse 2396
+Saint-Michel-de-Bellechasse 1813
+Saint-Luc-de-Bellechasse 438
+Saint-Lazare-de-Bellechasse 1288
+
+Saint-Lazare 19889
+Hudson 5185
+Sainte-Gertrude-Manneville 787
+Sainte-Germaine-Boule 986
+Palmarolle 1409
+Saint-Mathieu-d'Harricana 739
+
+Amos 12823
+Kangiqsujuaq 750
+Kangirsuk 567
+Kangiqsualujjuaq 942
+Kuujjuaq 2754
+Kuujjuarapik 686
+Umiujaq 442
+Tasiujaq 369
+Saint-Edmond-de-Grantham 762
+East Hereford 269
+East Farnham 554
+Farnham 8909
+Dunham 3432
+
+Cowansville 13656
+Parisville 530
+Plessisville 6551
+Villeroy 457
+Fortierville 669
+Chartierville 276
+Saint-Pierre 276
+Saint-Pie 5607
+Saint-Paul-d'Abbotsford 2890
+Saint-Cesaire 5877
+Saint-Celestin 831
+Saint-Etienne-de-Beauharnois 831
+
+Beauharnois 12884
+Lery 2318
+Howick 778
+Havelock 740
+La Durantaye 755
+Sainte-Clotilde 1622
+
+Sainte-Catherine 17047
+
+Pointe-Claire 31380
+Pointe-Calumet 6428
+Saint-Joseph-du-Lac 6687
+Saint-Joseph-de-Beauce 4858
+Sainte-Clotilde-de-Beauce 549
+Sainte-Clotilde-de-Horton 1569
+Notre-Dame-du-Bon-Conseil 1557
+Saint-Cyrille-de-Wendover 4723
+Saint-Cyrille-de-Lessard 718
+Saint-Sebastien 718
+L'Islet 3827
+Saint-Antoine-de-l'Isle-aux-Grues 144
+Saint-Francois-de-l'Ile-d'Orleans 527
+Saint-Jean-de-l'Ile-d'Orleans 1059
+Saint-Laurent-de-l'Ile-d'Orleans 1532
+Saint-Pierre-de-l'Ile-d'Orleans 1993
+Saint-Pierre-Baptiste 527
+Saint-Pierre-de-la-Riviere-du-Sud 907
+Saint-Francois-de-la-Riviere-du-Sud 1623
+Berthier-sur-Mer 1555
+Metis-sur-Mer 587
+Franquelin 313
+Belleterre 313
+Senneterre 2868
+Landrienne 967
+Saint-Adrien 522
+Saint-Adrien-d'Irlande 399
+Saint-Adelphe 922
+Saint-Adelme 692
+Daveluyville 965
+Henryville 1406
+Napierville 3899
+Saint-Cyprien-de-Napierville 1927
+Saint-Cyprien 1066
+Sainte-Justine 1820
+Saint-Justin 973
+Sainte-Seraphine 355
+Saint-Zenon-du-Lac-Humqui 359
+Saint-Zenon 1120
+Saint-Michel-des-Saints 2359
+Mille-Isles 1567
+Sainte-Emelie-de-l'Energie 1567
+Sainte-Elisabeth 1459
+Notre-Dame-de-Lourdes 2783
+
+Notre-Dame-des-Prairies 9273
+
+Saint-Charles-Borromee 13791
+Saint-Charles-Garnier 240
+Saints-Martyrs-Canadiens 254
+Saints-Anges 1157
+
+Sainte-Marie 13565
+Scott 2352
+Scotstown 472
+Ascot Corner 3158
+La Corne 719
+La Motte 453
+La Morandiere 207
+
+Rouyn-Noranda 42334
+Duparquet 666
+Normetal 808
+Dupuy 931
+Clerval 371
+
+Roberval 10046
+Sainte-Hedwidge 846
+Sainte-Monique 846
+Lac-Sainte-Marie 566
+Low 982
+Saint-Paul-de-Montminy 785
+Saint-Philemon 714
+Saint-Philippe 6320
+Saint-Placide 1686
+Rigaud 7777
+Saint-Telesphore 759
+Saint-Polycarpe 2224
+Les Coteaux 5368
+Coteau-du-Lac 7044
+
+Salaberry-de-Valleyfield 40745
+Grande-Vallee 1057
+Grande-Riviere 3408
+Belle-Riviere 51
+
+Mirabel 50513
+Labelle 2477
+Courcelles 823
+Lambton 1617
+Audet 734
+Riviere-Beaudette 2097
+Riviere-Bleue 1230
+
+Riviere-du-Loup 19507
+Saint-Hubert-de-Riviere-du-Loup 1279
+Saint-Clement 460
+Saint-Paul-de-la-Croix 309
+Saint-Pierre-de-Lamy 117
+Lac-aux-Sables 1292
+Baie-des-Sables 628
+Montcalm 628
+Mont-Joli 6281
+Saint-Joseph-de-Lepage 523
+Saint-Anaclet-de-Lessard 3071
+
+Rimouski 48664
+Saint-Narcisse-de-Rimouski 961
+Saint-Gabriel-de-Rimouski 1167
+Saint-Gabriel 2640
+Saint-Gabriel-de-Brandon 2635
+Saint-Cleophas-de-Brandon 227
+Saint-Cleophas 333
+Saint-Moise 580
+Sainte-Jeanne-d'Arc 1050
+Sainte-Anne-du-Lac 575
+Sainte-Anne-de-Sorel 2771
+Saint-Joseph-de-Sorel 1642
+
+Sorel-Tracy 34755
+Sainte-Victoire-de-Sorel 2461
+Saint-Ours 1669
+Saint-Aime 461
+Saint-Aime-des-Lacs 1095
+Clermont 3085
+Fermont 2474
+Sainte-Anne-des-Monts 6437
+Cap-Chat 2476
+Brownsburg-Chatham 7122
+Frelighsburg 1111
+Stanbridge East 866
+Stanbridge Station 274
+Bedford 2560
+Saint-Louis-de-Blandford 1011
+Sainte-Marie-de-Blandford 468
+Gallichan 468
+Val-des-Lacs 744
+Saint-Samuel 744
+
+Saint-Sauveur 10231
+Piedmont 2950
+
+Prevost 13002
+Sainte-Anne-de-Sabrevois 2039
+Sainte-Angele-de-Monnoir 1823
+Sainte-Angele-de-Merici 953
+Sainte-Angele-de-Premont 596
+Saint-Edouard-de-Maskinonge 712
+Maskinonge 2319
+Yamaska 1687
+La Visitation-de-Yamaska 327
+La Visitation-de-l'Ile-Dupas 626
+L'Ile-du-Grand-Calumet 626
+Saint-Ignace-de-Loyola 2049
+Cap-Saint-Ignace 3089
+Saint-Isidore 2880
+Saint-Isidore-de-Clifton 695
+Sainte-Edwidge-de-Clifton 504
+Egan-Sud 504
+Ham-Sud 235
+Ham-Nord 869
+Saint-Jacques-le-Majeur-de-Wolfestown 188
+Saint-Julien 376
+Saint-Jules 539
+East Broughton 2199
+Saint-Pierre-de-Broughton 898
+Saint-Patrice-de-Beaurivage 1036
+Saint-Narcisse-de-Beaurivage 1106
+Saint-Narcisse 1832
+Saint-Luc-de-Vincennes 545
+Champlain 1735
+Saint-Prosper-de-Champlain 530
+Saint-Prosper 3590
+Sainte-Aurelie 847
+Saint-Zacharie 1653
+Saint-Zotique 7934
+Saint-Zephirin-de-Courval 700
+Saint-Jean-de-Cherbourg 86
+Baie-Johan-Beetz 86
+Eeyou Istchee Baie-James 1589
+Matagami 1453
+Lebel-sur-Quevillon 2187
+Rochebaucourt 131
+Belcourt 225
+Valcourt 2165
+Maricourt 416
+Bonsecours 608
+Notre-Dame-de-Bonsecours 301
+Saint-Rosaire 843
+Notre-Dame-du-Rosaire 392
+Saint-Dominique-du-Rosaire 450
+Saint-Pie-de-Guire 450
+Saint-Venant-de-Paquette 97
+Nantes 1377
+Cap-Sante 3400
+Sainte-Croix 2516
+Pointe-a-la-Croix 1391
+Ristigouche-Partie-Sud-Est 171
+Saint-Andre-de-Restigouche 161
+Saint-Alexandre-des-Lacs 327
+Saint-Alexandre 2469
+Saint-Alexandre-de-Kamouraska 2109
+Saint-Joseph-de-Kamouraska 391
+Sainte-Helene-de-Kamouraska 918
+Saint-Bruno-de-Kamouraska 541
+Kamouraska 616
+Saint-Francois-de-Sales 616
+Saint-Francois-du-Lac 1965
+Pierreville 2143
+Louiseville 7152
+Saint-Louis 712
+Saint-Louis-de-Gonzague 1481
+Saint-Louis-de-Gonzague-du-Cap-Tourmente 5
+Saint-Joachim 1441
+Saint-Joachim-de-Shefford 1301
+Shefford 6947
+Orford 4337
+Saint-Denis-de-Brompton 4054
+Saint-Francois-Xavier-de-Brompton 2273
+Windsor 5419
+Saint-Georges-de-Windsor 958
+Saint-Camille 529
+Saint-Calixte 6046
+
+Sainte-Julienne 9953
+
+Sainte-Julie 29881
+
+Saint-Amable 12167
+Saint-Ambroise 3781
+Saint-Charles-de-Bourget 736
+Begin 818
+Labrecque 1321
+Saint-Pierre-les-Becquets 1137
+Batiscan 903
+Temiscaming 2431
+Kipawa 516
+Laniel 82
+Bearn 690
+Lorrainville 1272
+Ville-Marie 2584
+Duhamel-Ouest 878
+Duhamel 430
+Bryson 697
+Saint-Chrysostome 2645
+Saint-Christophe-d'Arthabaska 3021
+Saint-Norbert-d'Arthabaska 1157
+Saint-Lambert-de-Lauzon 6647
+
+Saint-Lambert 21861
+
+Cote-Saint-Luc 32448
+Saint-Lucien 1647
+L'Avenir 1307
+Sainte-Christine 730
+Durham-Sud 1043
+Gore 1904
+Richmond 3232
+Cleveland 1541
+Irlande 884
+Saint-Nazaire-d'Acton 884
+Saint-Nazaire 2073
+Saint-Edouard 1321
+Saint-Edouard-de-Fabre 628
+Saint-Edouard-de-Lotbiniere 1194
+Lotbiniere 812
+Leclercville 473
+Danville 3826
+Asbestos 6786
+Tingwick 1410
+Warwick 4635
+Campbell's Bay 744
+Sainte-Eulalie 894
+Sainte-Euphemie-sur-Riviere-du-Sud 320
+Riviere-Heva 1419
+Malartic 3377
+Saint-Malachie 1517
+Frampton 1239
+Compton 3131
+Martinville 436
+
+Blainville 56863
+
+Sainte-Therese 25989
+
+Boisbriand 26884
+
+Bois-des-Filion 9636
+
+Lorraine 9352
+Saint-Joseph-de-Coleraine 1762
+Disraeli 2336
+Beaulac-Garthby 905
+Lac-Beauport 7801
+Lac-Delage 638
+Lac-Saint-Joseph 260
+Lac-Sergent 497
+Saint-Marcel-de-Richelieu 497
+Sainte-Catherine-de-la-Jacques-Cartier 7706
+Saint-Gabriel-de-Valcartier 3382
+Shannon 6031
+Saint-Patrice-de-Sherrington 1960
+Fossambault-sur-le-Lac 1960
+Grenville-sur-la-Rouge 2824
+Riviere-Rouge 4322
+La Macaza 1150
+Kiamika 757
+Cheneville 764
+Lac-Simon 1380
+Saint-Simon 1413
+Saint-Simon-les-Mines 549
+Saint-Simeon 1227
+Ferme-Neuve 2706
+Neuville 4392
+
+Saint-Augustin-de-Desmaures 18820
+Saint-Augustin 445
+Saint-Augustin-de-Woburn 692
+Saint-Aubert 1474
+Saint-Jean-Port-Joli 3407
+Saint-Jean-de-Matha 4450
+Sainte-Beatrix 1955
+Sainte-Barbe 1324
+Saint-Stanislas-de-Kostka 1654
+Tres-Saint-Sacrement 1186
+Tres-Saint-Redempteur 898
+Sacre-Coeur-de-Jesus 521
+Sacre-Coeur 1803
+Notre-Dame-du-Sacre-Coeur-d'Issoudun 861
+Saint-Flavien 1618
+Saint-Janvier-de-Joly 984
+Saint-Francois-Xavier-de-Viger 245
+Padoue 245
+La Romaine 977
+La Reine 339
+La Redemption 432
+
+L'Assomption 22429
+Saint-Sulpice 3439
+Saint-Sixte 469
+Mayo 601
+Thurso 2818
+Plaisance 1088
+Papineauville 2101
+
+Gatineau 276245
 Chelsea 6909
 
 Cantley 10699
@@ -35,528 +578,79 @@ Hatley 2106
 Sainte-Catherine-de-Hatley 2479
 
 Magog 26669
-Deleage 1852
-Lac-Delage 638
-Lac-Beauport 7801
-Sainte-Anne-de-Beaupre 2880
-Beaupre 3752
-Beaumont 2942
-Saint-Laurent-de-l'Ile-d'Orleans 1532
-Saint-Pierre-de-l'Ile-d'Orleans 1993
-Saint-Jean-de-l'Ile-d'Orleans 1059
-Saint-Francois-de-l'Ile-d'Orleans 527
-Saint-Francois-de-la-Riviere-du-Sud 1623
-Saint-Pierre-de-la-Riviere-du-Sud 907
-Saint-Pierre-Baptiste 527
-Saint-Jean-Baptiste 3107
-Otterburn Park 8421
-McMasterville 5698
-
-Boucherville 41671
-Montreal-Est 3850
-
-Varennes 21257
-
-Terrebonne 111575
-
-Mascouche 46692
-Larouche 1486
-Lac-Bouchette 1196
-Bouchette 731
-Notre-Dame-de-la-Salette 727
-Notre-Dame-du-Laus 1558
-Notre-Dame-de-Pontmain 782
-Lac-du-Cerf 435
-Lac-des-Ecorces 2734
-Lac-des-Plages 431
-Fassett 431
-Charette 953
-Saint-Leon-le-Grand 953
-Saint-Leandre 400
-Saint-Alexandre-des-Lacs 327
-Entrelacs 928
-Val-des-Lacs 744
-Sainte-Anne-des-Lacs 3611
-
-Sainte-Anne-des-Plaines 14421
-
-Sainte-Sophie 15690
-Sainte-Sophie-de-Levrard 729
-Sainte-Cecile-de-Levrard 372
-Sainte-Elizabeth-de-Warwick 372
-Warwick 4635
-Tingwick 1410
-Kingsey Falls 1947
-Danville 3826
-
-Blainville 56863
-
-Sainte-Therese 25989
-
-Sainte-Marthe-sur-le-Lac 18074
-
-Deux-Montagnes 17496
-
-Montmagny 11255
-Armagh 1488
+Eastman 1843
+Saint-Etienne-de-Bolton 674
+Bolton-Ouest 630
+Barnston-Ouest 816
+Saint-Valerien 816
+Saint-Valere 1263
+Saint-Albert 1601
+Saint-Alban 1198
+Albanel 2262
+Saint-Edmond-les-Plaines 381
+Normandin 3033
 Saint-Armand 1205
-Saint-Alexandre 2469
-Saint-Valentin 447
-Saint-Paul-de-l'Ile-aux-Noix 1980
-Saint-Paul-de-la-Croix 309
-Saint-Pierre-de-Lamy 117
-Saint-Hubert-de-Riviere-du-Loup 1279
+La Minerve 1205
 
-Riviere-du-Loup 19507
-Riviere-Bleue 1230
-Saint-Arsene 1230
-Saint-Antonin 4049
-Saint-Andre 658
-Saint-Alexandre-de-Kamouraska 2109
-Saint-Joseph-de-Kamouraska 391
-Sainte-Helene-de-Kamouraska 918
-Saint-Bruno-de-Kamouraska 541
-Mont-Carmel 1127
-Saint-Leon-de-Standon 1127
-Saint-Cleophas-de-Brandon 227
-Saint-Gabriel-de-Brandon 2635
-Saint-Gabriel 2640
-Mandeville 2189
-Louiseville 7152
-Saint-Louis 712
-Sainte-Louise 671
-Saint-Maxime-du-Mont-Louis 1134
-Sainte-Anne-des-Monts 6437
-
-Sainte-Agathe-des-Monts 10223
-
-Sainte-Adele 12919
-Piedmont 2950
-Saint-Edmond-de-Grantham 762
-Saint-Germain-de-Grantham 4917
-
-Drummondville 75423
-Saint-Cyrille-de-Wendover 4723
-Saint-Cyrille-de-Lessard 718
-Saint-Sebastien 718
-Saint-Severe 302
-Saint-Severin 846
-Sainte-Hedwidge 846
-Saint-Ignace-de-Stanbridge 676
-Saint-Stanislas 1010
-
-Dolbeau-Mistassini 14250
-Messines 1609
-Plessisville 6551
-Parisville 530
-Saint-Prosper-de-Champlain 530
-Hampden 176
-Champlain 1735
-Saint-Luc-de-Vincennes 545
-Saint-Etienne-des-Gres 4541
-Saint-Etienne-de-Beauharnois 831
-
-Beauharnois 12884
-Lery 2318
-
-Mercier 13115
-Notre-Dame-de-la-Merci 905
-Notre-Dame-de-la-Paix 648
-Namur 572
-Saint-Emile-de-Suffolk 477
-Sainte-Euphemie-sur-Riviere-du-Sud 320
-Nedelec 356
-Guerin 320
-Saint-Bruno-de-Guigues 1154
-Saint-Bruno 2801
-Sainte-Luce 2801
-
-Cote-Saint-Luc 32448
-Hampstead 6973
-
-Chateauguay 47906
-Chateau-Richer 4126
-Boischatel 7587
-
-Quebec 531902
-Venise-en-Quebec 1634
-Henryville 1406
-Saint-Henri 5611
-Sainte-Henedine 1271
-Scott 2352
-Saint-Bernard 2321
-Saint-Narcisse-de-Beaurivage 1106
-Saint-Patrice-de-Beaurivage 1036
-Saint-Sylvestre 1019
-Tres-Saint-Redempteur 898
-La Redemption 432
-La Visitation-de-Yamaska 327
-La Visitation-de-l'Ile-Dupas 626
-L'Ile-du-Grand-Calumet 626
-Pointe-Calumet 6428
-
-Pointe-Claire 31380
-Sainte-Claire 3362
-Honfleur 849
-Saint-Honore 5757
+Thetford Mines 25403
+Stratford 945
+Sainte-Rose-de-Watford 729
 Sainte-Rose-du-Nord 439
+Sainte-Luce 2801
+Hebertville 2491
+Albertville 226
+Lac-au-Saumon 1450
+Amqui 6178
+Saint-Tharcisius 315
+Saint-Thomas 3249
+Saint-Thomas-Didyme 676
+Saint-Magloire 676
+Saint-Malo 475
+Saint-Martin 2477
+Saint-Gedeon-de-Beauce 2205
+
+Saint-Georges 32513
+Saint-Georges-de-Clarenceville 1103
+Noyan 1392
+Lacolle 2596
+Saint-Bernard-de-Lacolle 1549
+Saint-Bernard 2321
+Saint-Bernard-de-Michaudville 586
+Saint-Leonard-de-Portneuf 1145
+Saint-Leonard-d'Aston 2331
+Aston-Jonction 424
+Vallee-Jonction 1875
+Saint-Wenceslas 1157
+Saint-Fulgence 2071
 Saint-Felix-d'Otis 956
 Saint-Felix-de-Valois 6305
 Sainte-Melanie 2989
-Saint-Ambroise-de-Kildare 3856
-Saint-Ambroise 3781
-Saint-Charles-de-Bourget 736
-Saint-Charles-de-Bellechasse 2396
-Saint-Michel-de-Bellechasse 1813
-Saint-Neree-de-Bellechasse 742
-Saint-Luc-de-Bellechasse 438
-Saint-Camille-de-Lellis 752
-Saint-Camille 529
-Saint-Georges-de-Windsor 958
-Windsor 5419
-Val-Joli 1619
-Mont-Joli 6281
-Saint-Joseph-de-Lepage 523
-Saint-Joseph-du-Lac 6687
-Lac-Saint-Joseph 260
-Lac-Sergent 497
-Saint-Marcel-de-Richelieu 497
-Saint-Marc-sur-Richelieu 2172
-Saint-Denis-sur-Richelieu 2308
-Saint-Charles-sur-Richelieu 1717
-Saint-Antoine-sur-Richelieu 1694
-Saint-Roch-de-Richelieu 2188
-Saint-Ours 1669
-Saint-Omer 277
-Saint-Octave-de-Metis 511
-Grand-Metis 167
-Metis-sur-Mer 587
-Franquelin 313
-Belleterre 313
-Esterel 196
-Saint-Robert-Bellarmin 575
-Saint-Lazare-de-Bellechasse 1288
-Lantier 834
-L'Ile-d'Anticosti 218
-L'Ile-Dorval 5
-Saint-Louis-de-Gonzague-du-Cap-Tourmente 5
-Saint-Tite-des-Caps 1473
-Saint-Tite 3673
-Sainte-Thecle 2484
-Sainte-Therese-de-Gaspe 1015
-
-Gaspe 14568
-Perce 3103
-Hope 568
-Hope Town 339
-La Reine 339
-La Romaine 977
-Saint-Francois-Xavier-de-Viger 245
-Grande-Riviere 3408
-Grande-Vallee 1057
-Petite-Vallee 170
-Caplan 2024
-Cap-Sante 3400
-Cap-Saint-Ignace 3089
-Saint-Antoine-de-l'Isle-aux-Grues 144
-L'Islet 3827
-L'Isle-aux-Coudres 1143
-Baie-Saint-Paul 7146
-Saint-Urbain 1373
-Notre-Dame-des-Monts 791
-L'Ascension 791
-Saint-Pascal 3468
-Saint-Pacome 1598
-Saint-Antoine-de-Tilly 1598
-Sainte-Anne-de-la-Pocatiere 1636
-La Pocatiere 4120
-Franklin 1636
-Bois-Franc 421
-Val-des-Bois 865
-
-Val-des-Monts 11582
-Saint-Alexis-des-Monts 2981
-Saint-Alexis 1308
+Sainte-Marie-Salome 1209
 Saint-Jacques 3971
-Saint-Jacques-le-Mineur 1690
-Saint-Cyprien-de-Napierville 1927
-Napierville 3899
-Saint-Blaise-sur-Richelieu 2066
+Saint-Jacques-de-Leeds 685
+Forestville 3081
+Colombier 685
 
-Saint-Jean-sur-Richelieu 95114
-Richelieu 5236
-Saint-Mathias-sur-Richelieu 4531
-Saint-Mathieu-de-Beloeil 2619
-
-Beloeil 22458
-
-Mont-Saint-Hilaire 18585
-Saint-Cesaire 5877
-Mont-Saint-Gregoire 3077
-Sainte-Angele-de-Monnoir 1823
-Sainte-Anne-de-Sabrevois 2039
-Sainte-Anne-de-Sorel 2771
-Sainte-Victoire-de-Sorel 2461
-Saint-Joseph-de-Sorel 1642
-
-Sorel-Tracy 34755
-Saint-Ignace-de-Loyola 2049
-Notre-Dame-de-Lourdes 2783
-
-Notre-Dame-des-Prairies 9273
-Notre-Dame-des-Pins 1594
-Notre-Dame-des-Bois 938
-Val-Racine 178
-Racine 1323
-Sainte-Christine 730
-Sainte-Christine-d'Auvergne 704
-Saint-Gilbert 296
-Saint-Alban 1198
-Saint-Marc-des-Carrieres 2911
-Saint-Marcel 428
-Lingwick 428
-Saint-Remi-de-Tingwick 458
-Bonaventure 2706
-Saint-Bonaventure 1031
-Saint-Elphege 270
-Saint-Eugene 1126
-Saint-Guillaume 1476
-Saint-Guillaume-Nord 87
-Cote-Nord-du-Golfe-du-Saint-Laurent 856
-Notre-Dame-du-Rosaire 392
-Saint-Jean-de-Brebeuf 372
-Brebeuf 976
-
-Mont-Tremblant 9646
-Lac-Tremblant-Nord 42
-Wentworth-Nord 1381
-Wentworth 533
-Brownsburg-Chatham 7122
-Frelighsburg 1111
-Brigham 2306
-Dunham 3432
-East Farnham 554
-Farnham 8909
-Ange-Gardien 2699
-L'Ange-Gardien 5464
-Mayo 601
-Thurso 2818
-Plaisance 1088
-Papineauville 2101
-Cheneville 764
-
-Marieville 10725
-Ville-Marie 2584
-Duhamel-Ouest 878
-Duhamel 430
-Saint-Venant-de-Paquette 97
-Nantes 1377
-Sainte-Anne-du-Lac 575
-Saint-Hilaire-de-Dorset 95
-Saint-Dominique-du-Rosaire 450
-Saint-Dominique 2553
-Saint-Pie 5607
-Saint-Pierre 276
-Tres-Saint-Sacrement 1186
-Saint-Clement 460
+Saint-Colomban 16019
 Saint-Clet 1779
-Saint-Cleophas 333
-Saint-Moise 580
-Sainte-Jeanne-d'Arc 1050
-Remigny 280
-
-Repentigny 84285
-Charlemagne 5913
-Saint-Charles-Garnier 240
-Saints-Martyrs-Canadiens 254
-Saint-Martin 2477
-Labelle 2477
-Saint-Benoit-Labre 1630
-Saint-Benoit-du-Lac 32
-Austin 1485
-Saint-Justin 973
-Sainte-Justine-de-Newton 922
-Sainte-Justine 1820
-Saint-Just-de-Bretenieres 668
-Notre-Dame-de-Stanbridge 668
-Saint-Fabien-de-Panet 954
-Sainte-Apolline-de-Patton 542
-Saint-Apollinaire 6110
-Saint-Agapit 4280
-Sainte-Agathe-de-Lotbiniere 1168
-Lotbiniere 812
-Saint-Edouard-de-Lotbiniere 1194
-Saint-Edouard 1321
-Lac-Edouard 191
-Lac-Blanc 54
-Blanc-Sablon 1112
-Bonne-Esperance 681
-Sainte-Anne-de-la-Perade 2019
-Deschaillons-sur-Saint-Laurent 909
-Sainte-Lucie-des-Laurentides 1256
-Sainte-Lucie-de-Beauregard 280
-Saint-Lucien 1647
-L'Avenir 1307
-Ulverton 418
-Gore 1904
-La Dore 1365
-Normandin 3033
-Saint-Edmond-les-Plaines 381
-Albanel 2262
-La Malbaie 8271
-Clermont 3085
-Saint-Aime-des-Lacs 1095
-Saint-Aime 461
-Saint-David 817
-Saint-David-de-Falardeau 2768
-Begin 818
-Elgin 394
+Akulivik 633
+Ivujivik 414
+Salluit 1483
+L'Isle-aux-Allumettes 1334
+Rapide-Danseur 328
+Rapides-des-Joachims 156
+Sheenboro 141
+Chichester 328
 Godmanchester 1394
 Huntingdon 2444
 Hinchinbrooke 2103
 
 Sherbrooke 161323
 Stoke 2955
-Asbestos 6786
-Barnston-Ouest 816
-Bolton-Ouest 630
-Saint-Etienne-de-Bolton 674
-Eastman 1843
-East Angus 3659
-Westbury 1006
-Bury 1174
-Newport 733
-Portneuf 3187
-Neuville 4392
+Val-Joli 1619
 
-Saint-Augustin-de-Desmaures 18820
-Saint-Augustin 445
-Peribonka 515
-Saint-Liboire 3062
-Saint-Magloire 676
-Saint-Malo 475
-Saint-Malachie 1517
-
-Sainte-Marie 13565
-Lac-Sainte-Marie 566
-Low 982
-Howick 778
-Ormstown 3595
-Saint-Chrysostome 2645
-Havelock 740
-Lochaber 415
-Chazel 289
-Baie-Johan-Beetz 86
-Sainte-Madeleine-de-la-Riviere-Madeleine 289
-Saint-Adelphe 922
-Saint-Adrien-d'Irlande 399
-Sainte-Helene-de-Bagot 1688
-Chesterville 922
-Waterville 2121
-Martinville 436
-Egan-Sud 504
-Sainte-Edwidge-de-Clifton 504
-Saint-Isidore-de-Clifton 695
-Saint-Isidore 2880
-Cloridorme 671
-Normetal 808
-Authier-Nord 300
-Authier 268
-Macamic 2751
-Poularies 682
-Sainte-Germaine-Boule 986
-Sainte-Gertrude-Manneville 787
-Trecesson 1223
-Contrecoeur 7887
-
-Lavaltrie 13657
-
-Laval 422993
-
-Dorval 18980
-
-Dollard-Des Ormeaux 48899
-Saint-Bernard-de-Lacolle 1549
-Lacolle 2596
-Nicolet 8169
-Grand-Saint-Esprit 476
-Saint-Esprit 1967
-Esprit-Saint 341
-Sainte-Rita 307
-Saint-Jean-de-Dieu 1596
-Saint-Jean-de-Matha 4450
-Sainte-Beatrix 1955
-Saint-Alphonse-Rodriguez 3162
-Saint-Liguori 1943
-Saint-Eugene-de-Guigues 465
-
-Les Iles-de-la-Madeleine 12010
-Grosse-Ile 465
-Grosses-Roches 306
-Saint-Benjamin 987
-Cap-Chat 2476
-Les Mechins 987
-Les Escoumins 1891
-Trois-Pistoles 3246
-Bristol 1036
-Saint-Christophe-d'Arthabaska 3021
-Saint-Norbert-d'Arthabaska 1157
-Saint-Wenceslas 1157
-Sainte-Florence 384
-Petite-Riviere-Saint-Francois 814
-Saint-Francois-d'Assise 644
-Saint-Joseph-des-Erables 410
-Saint-Joseph-de-Coleraine 1762
-Disraeli 2336
-Saint-Raphael 2390
-Sainte-Seraphine 355
-Saint-Zenon-du-Lac-Humqui 359
-Saint-Zenon 1120
-Saint-Damien 2094
-Saint-Didace 652
-Saint-Thomas-Didyme 676
-Saint-Thomas 3249
-Sainte-Elisabeth 1459
-Bethanie 322
-Laniel 82
-Bearn 690
-Lorrainville 1272
-
-Lorraine 9352
-
-Bois-des-Filion 9636
-
-Boisbriand 26884
-Maria 2615
-New Richmond 3706
-New Carlisle 1388
-Carleton-sur-Mer 4073
-Berthier-sur-Mer 1555
-Berthierville 4189
-Sainte-Genevieve-de-Berthier 2280
-Sainte-Genevieve-de-Batiscan 1006
-Batiscan 903
-
-Becancour 13031
-Notre-Dame-de-Bonsecours 301
-Bonsecours 608
-Valcourt 2165
-Maricourt 416
-
-Pincourt 14558
-Biencourt 464
-Saint-Fabien 1837
-Sainte-Sabine 1085
-Baie-Sainte-Catherine 206
-Saint-Robert 1803
-Sacre-Coeur 1803
-Notre-Dame-des-Sept-Douleurs 36
-Notre-Dame-des-Neiges 1085
-Notre-Dame-des-Anges 318
-
-Levis 143414
-
-L'Ancienne-Lorette 16543
+Joliette 20484
+Charette 953
 Notre-Dame-de-Lorette 189
 Saint-Alphonse 699
 Saint-Alphonse-de-Granby 3094
@@ -564,599 +658,505 @@ Saint-Alphonse-de-Granby 3094
 Granby 66222
 Sainte-Cecile-de-Milton 2160
 Saint-Valerien-de-Milton 1793
-Acton Vale 7656
-Saint-Theodore-d'Acton 1519
-Saint-Nazaire-d'Acton 884
-Saint-Nazaire 2073
-Labrecque 1321
-Saint-Pierre-les-Becquets 1137
-Havre-Saint-Pierre 3460
-Riviere-au-Tonnerre 279
-Riviere-a-Claude 128
-Saint-Claude 1185
-Montebello 983
-Saint-Juste-du-Lac 561
-Saint-Odilon-de-Cranbourne 1374
-Melbourne 1063
-Thorne 448
-La Corne 719
-La Motte 453
-La Morandiere 207
-Landrienne 967
-Senneterre 2868
-Belcourt 225
-Rochebaucourt 131
-Champneuf 123
-Barraute 1968
-Saint-Mathieu-d'Harricana 739
+Upton 2092
+Saint-Liboire 3062
+Saint-Liguori 1943
+Saint-Ambroise-de-Kildare 3856
+Saint-Felix-de-Kingsey 1430
+Saint-Felix-de-Dalquier 940
+Trecesson 1223
+Contrecoeur 7887
 
-Amos 12823
-Kamouraska 616
-Saint-Francois-de-Sales 616
-Saint-Francois-du-Lac 1965
-Pierreville 2143
-Fugereville 326
-Mingan 552
-Nominingue 2137
+Lavaltrie 13657
+
+Laval 422993
+
+Rosemere 13958
+Barkmere 58
+Sainte-Paule 233
 Chambord 1765
+Nominingue 2137
+Saint-Dominique 2553
 
-Chambly 29120
+Saint-Hyacinthe 55648
 
-Saint-Lambert 21861
+Mont-Saint-Hilaire 18585
+Saint-Mathieu-de-Beloeil 2619
 
-Longueuil 239700
-Longue-Rive 1026
-Riviere-Bonaventure 35
-Riviere-Saint-Jean 215
-L'Ascension-de-Patapedia 164
-Matapedia 645
-Saint-Alexis-de-Matapedia 500
-Saint-Andre-de-Restigouche 161
-Ristigouche-Partie-Sud-Est 171
-Lochaber-Partie-Ouest 856
-Saint-Roch-Ouest 266
-Saint-Roch-de-l'Achigan 5147
-Saint-Roch-de-Mekinac 302
-Herouxville 1278
-Dixville 696
-Coaticook 8698
-Cookshire-Eaton 5393
-Compton 3131
-Saint-Denis-de-Brompton 4054
-Saint-Francois-Xavier-de-Brompton 2273
-Cleveland 1541
-Richmond 3232
-Aumond 754
-
-Mont-Laurier 14116
-Saint-Maurice 3286
-Notre-Dame-du-Mont-Carmel 5751
-
-Shawinigan 49349
-Saint-Boniface 4832
-Saint-Mathieu-du-Parc 1338
-Saint-Elie-de-Caxton 1836
-Saint-Eloi 286
-Saint-Epiphane 827
-L'Epiphanie 5493
-
-L'Assomption 22429
-Saint-Sulpice 3439
-Saint-Paul 5891
-Crabtree 3958
-
-Mirabel 50513
-Belle-Riviere 51
-Riviere-Ouelle 970
-Riviere-Rouge 4322
-La Macaza 1150
-La Conception 1337
-Aston-Jonction 424
-Saint-Leonard-d'Aston 2331
-Sainte-Perpetue 1639
-
-L'Ile-Perrot 10756
-
-Notre-Dame-de-l'Ile-Perrot 10654
-Sainte-Anne-de-Bellevue 4958
-Sainte-Anne-de-la-Rochelle 598
-Portneuf-sur-Mer 598
-Ivry-sur-le-Lac 387
-Sagard 130
-Dundee 387
-Arundel 563
-L'Ile-Cadieux 126
-Lemieux 301
-Gallichan 468
-Saint-Vallier 1061
-Saint-Valere 1263
-Saint-Albert 1601
-Saint-Adalbert 510
-Saint-Aubert 1474
-Saint-Jean-Port-Joli 3407
-Saint-Roch-des-Aulnaies 917
-Saint-Romain 691
-Lambton 1617
-Saint-Lambert-de-Lauzon 6647
-Saint-Gilles 2525
-Val-Saint-Gilles 157
-La Sarre 7282
-Dupuy 931
-Duparquet 666
-Roquemaure 395
-Palmarolle 1409
-
-Alma 30776
-Montcalm 628
-Montcerf-Lytton 636
-Grand-Remous 1161
-Maniwaki 3853
-Shigawake 292
-Saint-Godefroi 380
-Saint-Modeste 1162
-Saint-Michel-des-Saints 2359
-Mont-Saint-Michel 503
-Saint-Michel-du-Squatec 1113
-Lac-des-Aigles 512
-Saint-Aime-du-Lac-des-Iles 790
-Notre-Dame-de-Ham 411
-Notre-Dame-du-Nord 1052
-Notre-Dame-du-Portage 1151
-Bowman 658
-Manseau 816
-Saint-Valerien 816
-Saint-Eugene-de-Ladriere 364
-Saint-Eugene-d'Argentenay 488
-Sainte-Helene-de-Mancebourg 373
-Sainte-Helene-de-Chester 374
-Saint-Nazaire-de-Dorchester 363
+Beloeil 22458
+Otterburn Park 8421
+Otter Lake 932
+Shawville 1587
+Pontiac 5850
+La Peche 7863
+La Patrie 768
 Saint-Damien-de-Buckland 1956
 Notre-Dame-Auxiliatrice-de-Buckland 768
-La Patrie 768
+Armagh 1488
+Saint-Raphael 2390
 
-La Prairie 24110
-
-Candiac 21047
-Pontiac 5850
-Mansfield-et-Pontefract 2285
-Litchfield 459
-Gracefield 2462
-
-Beaconsfield 19324
-
-Kirkland 20151
-Irlande 884
-Saint-Jean-de-la-Lande 248
-Packington 603
-Harrington 846
-Saint-Patrice-de-Sherrington 1960
-Fossambault-sur-le-Lac 1960
-Deschambault-Grondines 2220
-Sainte-Brigitte-des-Saults 723
-Sainte-Brigitte-de-Laval 7348
-Sainte-Brigide-d'Iberville 1402
-Saint-Jean-de-Cherbourg 86
-Saint-Zephirin-de-Courval 700
-Clerval 371
-
-Roberval 10046
-Sainte-Monique 846
-Saint-Zotique 7934
-Les Coteaux 5368
-Coteau-du-Lac 7044
-
-Salaberry-de-Valleyfield 40745
-Berry 538
-Saint-Felix-de-Dalquier 940
-Saint-Felix-de-Kingsey 1430
-Saint-Casimir 1430
+Saint-Raymond 10221
+Sainte-Christine-d'Auvergne 704
 Saint-Basile 2631
 Saint-Barnabe-Sud 861
 Saint-Barnabe 1196
-Sainte-Barbe 1324
-Saint-Stanislas-de-Kostka 1654
+Saint-Bruno 2801
+Saint-Bruno-de-Guigues 1154
+Saint-Eugene-de-Guigues 465
+Sainte-Therese-de-Gaspe 1015
 
-Saint-Constant 27359
-Stanstead 2788
-Stanstead-Est 584
-Saint-Guy 54
-Saint-Ubalde 1412
-Saint-Ulric 1585
-Saint-Edouard-de-Fabre 628
-Baie-des-Sables 628
-Lac-aux-Sables 1292
-Lac-au-Saumon 1450
-Amqui 6178
-Saint-Tharcisius 315
-Saint-Narcisse 1832
-Saint-Narcisse-de-Rimouski 961
-
-Rimouski 48664
-Saint-Gabriel-de-Rimouski 1167
-Saint-Donat 3888
-Saint-Anaclet-de-Lessard 3071
-Saint-Marcellin 353
-Sainte-Marcelline-de-Kildare 1594
-Sayabec 1594
-Cayamant 821
-Saint-Henri-de-Taillon 821
-L'Ascension-de-Notre-Seigneur 1987
-Notre-Dame-du-Bon-Conseil 1557
-Sainte-Clotilde-de-Horton 1569
-Sainte-Clotilde 1622
-La Durantaye 755
-La Presentation 2540
-Sainte-Marie-Madeleine 2892
-Sainte-Marguerite-Marie 166
-Saint-Marc-de-Figuery 834
-Saint-Marc-du-Lac-Long 397
-Sainte-Marguerite-du-Lac-Masson 2763
-Sainte-Marguerite 1078
-Val-Morin 2870
-Morin-Heights 4145
-
-Saint-Sauveur 10231
-Nouvelle 1659
-Ferme-Neuve 2706
-Saint-Simeon 1227
-Saint-Simon 1413
-Lac-Simon 1380
-Saint-Sixte 469
-Saint-Calixte 6046
-
-Sainte-Julienne 9953
-
-Sainte-Julie 29881
-
-Saint-Bruno-de-Montarville 26394
-
-Saint-Basile-le-Grand 17059
-Saint-Majorique-de-Grantham 1388
+Gaspe 14568
 Paspebiac 3164
-Saint-Prosper 3590
-Sainte-Aurelie 847
-Saint-Zacharie 1653
-Saint-Louis-de-Gonzague 1481
-Sainte-Rose-de-Watford 729
-Stratford 945
-
-Thetford Mines 25403
-Kinnear's Mills 350
-Inverness 899
-Lyster 1605
-Saint-Janvier-de-Joly 984
-Saint-Flavien 1618
-Sainte-Flavie 884
-Beauceville 6281
-Calixa-Lavallee 523
-Vallee-Jonction 1875
-Saints-Anges 1157
-Sainte-Angele-de-Merici 953
-Sainte-Angele-de-Premont 596
-Saint-Paulin 1497
+Hope 568
+Hope Town 339
+Ormstown 3595
+Les Cedres 6777
+L'Isle-aux-Coudres 1143
+Baie-Saint-Paul 7146
 Lac-Saint-Paul 481
-Kiamika 757
-Temiscaming 2431
-Kipawa 516
-Ripon 1542
-Saint-Andre-Avellin 3749
-Saint-Andre-d'Argenteuil 3020
 
-Vaudreuil-Dorion 38117
-Terrasse-Vaudreuil 1986
-Baie-D'Urfe 3823
-Baie-du-Febvre 988
+Mont-Laurier 14116
+Laurierville 1346
+Lyster 1605
+Esterel 196
+Saint-Robert-Bellarmin 575
+Saint-Robert 1803
+Cacouna 1803
+Baie-Sainte-Catherine 206
+L'Anse-Saint-Jean 1201
+Petit-Saguenay 634
+
+Saguenay 145949
+Saint-Honore 5757
+Saint-Henri-de-Taillon 821
+Saint-Henri 5611
+Sainte-Henedine 1271
+Sainte-Claire 3362
+Honfleur 849
+Notre-Dame-des-Sept-Douleurs 36
+Notre-Dame-des-Neiges 1085
+Notre-Dame-des-Bois 938
+Val-Racine 178
+Racine 1323
+Melbourne 1063
+Sainte-Helene-de-Mancebourg 373
+Saint-Eugene-d'Argentenay 488
+Saint-Eugene 1126
+Saint-Guillaume 1476
+Saint-Germain-de-Grantham 4917
+
+Drummondville 75423
+Girardville 988
+Tourville 589
+Sainte-Felicite 1065
 
 Saint-Felicien 10238
 Saint-Prime 2753
-Saint-Cyprien 1066
-Saint-Adrien 522
-Saint-Julien 376
-Saint-Jacques-le-Majeur-de-Wolfestown 188
-Saint-Jacques-de-Leeds 685
-Forestville 3081
-Hebertville 2491
-Albertville 226
-Causapscal 2304
-Routhierville 18
-Tourville 589
-Sainte-Felicite 1065
-Saint-Ephrem-de-Beauce 2400
-Saint-Elzear 2400
-Saint-Elzear-de-Temiscouata 321
-Saint-Honore-de-Temiscouata 741
-Temiscouata-sur-le-Lac 4910
-Saint-Louis-du-Ha! Ha! 1292
-Saint-Louis-de-Blandford 1011
-Sainte-Marie-de-Blandford 468
-Sainte-Marie-Salome 1209
-
-Joliette 20484
-
-Saint-Charles-Borromee 13791
-Saint-Come 2193
-
-Baie-Comeau 21536
-Ragueneau 1343
-
-Saguenay 145949
-Petit-Saguenay 634
-L'Anse-Saint-Jean 1201
-Maddington Falls 413
-Roxton Pond 3809
-Roxton 1086
-Upton 2092
-Frampton 1239
-Saint-Pamphile 2400
-Saint-Philemon 714
-Saint-Paul-de-Montminy 785
-Sainte-Paule 233
-Barkmere 58
-
-Rosemere 13958
-Saint-Rosaire 843
-Saint-Rene 745
-Saint-Rene-de-Matane 965
-
-Matane 14311
-Matagami 1453
-Eeyou Istchee Baie-James 1589
-Lebel-sur-Quevillon 2187
-Grenville-sur-la-Rouge 2824
-Saint-Philippe 6320
-Chute-Saint-Philippe 942
-Saint-Philippe-de-Neri 832
-Saint-Hilarion 1127
-
-Saint-Hippolyte 9113
-
-Prevost 13002
-Preissac 835
-Natashquan 835
-Taschereau 963
-Vercheres 5835
-Lamarche 514
-Saint-Mathieu-de-Rioux 639
-Hemmingford 1900
-Orford 4337
-Shefford 6947
-Saint-Joachim-de-Shefford 1301
-Saint-Joachim 1441
-Rapides-des-Joachims 156
-Rapide-Danseur 328
-Chichester 328
-Yamachiche 2830
-Yamaska 1687
-Maskinonge 2319
-Saint-Edouard-de-Maskinonge 712
-Sainte-Ursule 1330
-Saint-Jules 539
-East Broughton 2199
-Saint-Pierre-de-Broughton 898
-Sacre-Coeur-de-Jesus 521
-Notre-Dame-du-Sacre-Coeur-d'Issoudun 861
-Sainte-Croix 2516
-Donnacona 7200
-La Bostonnais 635
-
-La Tuque 11001
-La Trinite-des-Monts 223
-Riviere-Eternite 413
-Riviere-a-Pierre 584
-
-Saint-Raymond 10221
-
-Pont-Rouge 9240
-Rougemont 2755
-Saint-Paul-d'Abbotsford 2890
-
-Val-d'Or 32491
-Malartic 3377
-Riviere-Heva 1419
-Riviere-Beaudette 2097
-Audet 734
-Saint-Ludger 1071
-Saint-Ludger-de-Milot 651
-Saint-Bernard-de-Michaudville 586
-Saint-Jude 1214
-Saint-Hugues 1327
-
-Saint-Hyacinthe 55648
-Saint-Placide 1686
-Rigaud 7777
-Sainte-Marthe 1097
-Saint-Polycarpe 2224
-Saint-Telesphore 759
-Saint-Celestin 831
+Harrington 846
+Packington 603
+Saint-Jean-de-la-Lande 248
+Saint-Jean-de-Dieu 1596
+Sainte-Rita 307
+Sainte-Sabine 1085
+Trois-Pistoles 3246
+Trois-Rives 396
 
 Trois-Rivieres 134413
-Trois-Rives 396
-Pike River 517
-Saint-Denis-De La Bouteillerie 517
-Saint-Gabriel-Lalemant 716
-Saint-Gabriel-de-Valcartier 3382
-Sainte-Catherine-de-la-Jacques-Cartier 7706
 
-Sainte-Catherine 17047
-Sainte-Therese-de-la-Gatineau 520
+Becancour 13031
 
-Gatineau 276245
-Gros-Mecatina 428
-Padoue 245
+Pincourt 14558
+Biencourt 464
+Saint-Fabien 1837
+Saint-Fabien-de-Panet 954
+Sainte-Apolline-de-Patton 542
+Saint-Apollinaire 6110
+Saint-Agapit 4280
+Saint-Gilles 2525
+Val-Saint-Gilles 157
+La Sarre 7282
+Macamic 2751
+Poularies 682
+Saint-Hilarion 1127
+Saint-Hilaire-de-Dorset 95
+
+Saint-Hippolyte 9113
+Sainte-Marguerite 1078
+Sainte-Marguerite-du-Lac-Masson 2763
+Val-Morin 2870
+Morin-Heights 4145
 Saint-Adolphe-d'Howard 3509
-Saint-Adelme 692
-Saint-Anselme 3938
-Saint-Gervais 2153
+Saint-Adalbert 510
+Saint-Ephrem-de-Beauce 2400
+Saint-Elzear 2400
+Saint-Pamphile 2400
+Lac-Frontiere 184
+Lantier 834
+L'Ile-d'Anticosti 218
+L'Ile-Dorval 5
+
+Dorval 18980
+
+Dollard-Des Ormeaux 48899
+
+Kirkland 20151
+Baie-D'Urfe 3823
+Baie-du-Febvre 988
+Lefebvre 904
+Wickham 2541
+Saint-Theodore-d'Acton 1519
+Acton Vale 7656
+Roxton Pond 3809
+Roxton 1086
+Bethanie 322
+L'Epiphanie 5493
+Saint-Epiphane 827
+Saint-Eloi 286
 Saint-Germain 286
 L'Isle-Verte 1294
 Saint-Thuribe 286
 Saint-Theophile 713
-Notre-Dame-de-Montauban 745
-Saint-Simon-les-Mines 549
-Lac-Etchemin 3822
-Lac-Drolet 1021
-Lac-Megantic 5654
-Frontenac 1734
-Lac-Frontiere 184
+Saint-Ludger 1071
+Saint-Ludger-de-Milot 651
+Peribonka 515
+Lac-Superieur 1888
+Lac-Tremblant-Nord 42
+
+Mont-Tremblant 9646
+Brebeuf 976
+Saint-Jean-de-Brebeuf 372
+Sainte-Elizabeth-de-Warwick 372
+Sainte-Cecile-de-Levrard 372
+Sainte-Cecile-de-Whitton 863
+Waltham 378
+Saint-Vallier 1061
+Sainte-Francoise 449
+Saint-Francois-d'Assise 644
+Petite-Riviere-Saint-Francois 814
+Sainte-Florence 384
+Sainte-Flavie 884
+Beauceville 6281
+Princeville 6001
+
+Marieville 10725
+Sainte-Marie-Madeleine 2892
+Sainte-Madeleine-de-la-Riviere-Madeleine 289
+Chazel 289
+Lochaber 415
+Lochaber-Partie-Ouest 856
+Cote-Nord-du-Golfe-du-Saint-Laurent 856
+Saint-Guillaume-Nord 87
+Saint-Gerard-Majella 242
+Saint-Gervais 2153
+Saint-Gedeon 2085
+
+Alma 30776
+Larouche 1486
+Lac-Bouchette 1196
+Lac-Blanc 54
 Lac-Brome 5495
 Bromont 9041
 Waterloo 4410
+Saint-Aime-du-Lac-des-Iles 790
+Saint-Juste-du-Lac 561
+Montebello 983
+Frontenac 1734
+Lac-Megantic 5654
+Lac-Drolet 1021
+Lac-des-Aigles 512
+Saint-Michel-du-Squatec 1113
+Lejeune 262
+Auclair 448
+Degelis 2863
+Saint-Eusebe 593
+
+Saint-Eustache 44008
+Saint-Eugene-de-Ladriere 364
+Manseau 816
+Saint-Anselme 3938
+Saint-Andre 658
+Saint-Antonin 4049
+Saint-Arsene 1230
+Saint-Modeste 1162
+Notre-Dame-du-Portage 1151
+Notre-Dame-du-Nord 1052
+Nedelec 356
+Deleage 1852
+Potton 1852
+Sutton 4012
+Wotton 1430
+Saint-Casimir 1430
+Saint-Claude 1185
+Riviere-a-Claude 128
+Riviere-a-Pierre 584
+Stanstead-Est 584
+Bolton-Est 940
+Berry 538
+Mulgrave-et-Derry 369
 Ferland-et-Boilleau 540
 Boileau 335
 Huberdeau 868
-Amherst 1484
-Marston 705
-Scotstown 472
-Stornoway 530
-
-Cowansville 13656
-Sutton 4012
-Potton 1852
-Wotton 1430
-Sainte-Cecile-de-Whitton 863
-Waltham 378
-Sainte-Francoise 449
-Saint-Gerard-Majella 242
-Saint-Gedeon 2085
-Desbiens 1028
-Colombier 685
-
-Saint-Colomban 16019
-
-Saint-Jerome 74346
-
-Saint-Eustache 44008
-Saint-Eusebe 593
-Degelis 2863
-Piopolis 358
-Sainte-Sophie-d'Halifax 612
-Saint-Leonard-de-Portneuf 1145
-Saint-Evariste-de-Forsyth 540
-Saint-Fortunat 263
+Saint-David-de-Falardeau 2768
+Saint-David 817
+Saint-Damase 2473
+Saint-Damase-de-L'Islet 552
+Mingan 552
+Longue-Pointe-de-Mingan 434
+Caplan 2024
 Launay 218
-Cacouna 1803
+Saint-Sylvere 791
+Saint-Sylvestre 1019
+Bristol 1036
+Saint-Evariste-de-Forsyth 540
+Sainte-Brigitte-de-Laval 7348
+Sainte-Brigitte-des-Saults 723
+Sainte-Perpetue 1639
+Sainte-Praxede 327
+Sainte-Irene 327
+Saint-Irenee 641
+La Malbaie 8271
+La Martre 243
+Saint-Maxime-du-Mont-Louis 1134
+Sainte-Louise 671
+Perce 3103
+Chandler 7546
+Shigawake 292
+Saint-Godefroi 380
+Saint-Majorique-de-Grantham 1388
+New Carlisle 1388
+New Richmond 3706
+Maria 2615
+Carleton-sur-Mer 4073
+Nouvelle 1659
+Escuminac 544
+Les Escoumins 1891
+Les Eboulements 1331
+Saint-Urbain 1373
+Saint-Ulric 1585
+Saint-Ubalde 1412
+Sainte-Thecle 2484
+Sainte-Therese-de-la-Gatineau 520
+Maniwaki 3853
+Bois-Franc 421
+Val-des-Bois 865
 
-Westmount 20312
+Val-des-Monts 11582
+L'Ange-Gardien 5464
+Ange-Gardien 2699
+Sagard 130
+Dundee 387
+Arundel 563
+L'Ile-Cadieux 126
+Mont-Saint-Michel 503
+Mont-Saint-Gregoire 3077
+Esprit-Saint 341
+La Trinite-des-Monts 223
+Saint-Tite-des-Caps 1473
+Saint-Ferreol-les-Neiges 3240
+Saint-Ferdinand 2076
+Inverness 899
+Kinnear's Mills 350
+Sainte-Agathe-de-Lotbiniere 1168
+Dosquet 944
+Val-Alain 924
+
+Val-d'Or 32491
+Barraute 1968
+Champneuf 123
+Hampden 176
+Milan 299
+Stornoway 530
+Saint-Romain 691
+Kazabazua 945
+Notre-Dame-de-la-Merci 905
+Weedon 2670
+Dudswell 1727
+Cookshire-Eaton 5393
+Coaticook 8698
+Saint-Hermenegilde 670
+Saint-Hugues 1327
+Saint-Jude 1214
+La Presentation 2540
+
+La Prairie 24110
+
+Candiac 21047
 
 Brossard 85721
+Grosse-Ile 465
+Grosses-Roches 306
+Saint-Benjamin 987
+Saint-Boniface 4832
+Saint-Etienne-des-Gres 4541
+Notre-Dame-du-Mont-Carmel 5751
+Saint-Maurice 3286
+Saint-Mathieu-du-Parc 1338
+Saint-Elie-de-Caxton 1836
 
-Carignan 9462
-Picard 10
-Saint-Athanase 317
-Pohenegamook 2582
-Saint-Hermenegilde 670
-Les Hauteurs 504
-Les Cedres 6777
-Les Bergeronnes 661
-Bryson 697
-Saint-Pie-de-Guire 450
-Alleyn-et-Cawood 172
-
-Rouyn-Noranda 42334
-Lanoraie 4787
-Milan 299
-Mille-Isles 1567
-Sainte-Emelie-de-l'Energie 1567
-Sainte-Eulalie 894
-Saint-Samuel 744
-Saint-Sylvere 791
-Saint-Irenee 641
-Sainte-Irene 327
-Val-Brillant 927
-Val-Alain 924
-Dosquet 944
+Shawinigan 49349
+Yamachiche 2830
+Sainte-Ursule 1330
+Saint-Barthelemy 1934
+Saint-Cuthbert 1862
+Saint-Norbert 1003
+Saint-Philibert 369
+Chute-Saint-Philippe 942
+Havre-Saint-Pierre 3460
+Riviere-au-Tonnerre 279
 
 Sept-Iles 25400
 Port-Cartier 6799
-La Martre 243
-La Minerve 1205
-Stanbridge Station 274
-Stanbridge East 866
-Bedford 2560
-East Hereford 269
-Tasiujaq 369
-Quaqtaq 403
-Kuujjuaq 2754
-Kangiqsualujjuaq 942
-Kangiqsujuaq 750
-Kangirsuk 567
-Aupaluk 209
-Salluit 1483
-L'Isle-aux-Allumettes 1334
-Sheenboro 141
-Shawville 1587
-Shannon 6031
-Chandler 7546
-Chapais 1499
-Chibougamau 7504
-Girardville 988
-Murdochville 651
-Schefferville 155
-Fermont 2474
-Saint-Ferdinand 2076
-Saint-Ferreol-les-Neiges 3240
+Les Mechins 987
+Les Hauteurs 504
+Les Bergeronnes 661
 
-Saint-Lazare 19889
-Hudson 5185
-Oka 3824
-Kazabazua 945
-Beaulac-Garthby 905
-Saint-Cuthbert 1862
-Saint-Norbert 1003
-Ham-Nord 869
-Ham-Sud 235
-Durham-Sud 1043
-Wickham 2541
-Lefebvre 904
-Les Eboulements 1331
+Terrebonne 111575
+
+Mascouche 46692
+
+Repentigny 84285
+Saint-Valentin 447
+Saint-Paul-de-l'Ile-aux-Noix 1980
+Venise-en-Quebec 1634
+
+Quebec 531902
+Notre-Dame-des-Anges 318
+
+Levis 143414
+Boischatel 7587
+Chateau-Richer 4126
+
+Chateauguay 47906
+
+Mercier 13115
+Terrasse-Vaudreuil 1986
+
+Vaudreuil-Dorion 38117
+
+Longueuil 239700
+Longue-Rive 1026
+Pike River 517
+Saint-Denis-De La Bouteillerie 517
+Saint-Donat 3888
+Calixa-Lavallee 523
+Petite-Vallee 170
+Alleyn-et-Cawood 172
+Sainte-Marguerite-Marie 166
+Lac-des-Seize-Iles 172
+Saint-Fortunat 263
+Saint-Frederic 1044
+Adstock 2806
+
+Victoriaville 46130
+Kingsey Falls 1947
+Maddington Falls 413
+Bowman 658
+Picard 10
+Saint-Athanase 317
+Pohenegamook 2582
+Saint-Marc-du-Lac-Long 397
+Saint-Louis-du-Ha! Ha! 1292
+Thorne 448
+
+Chambly 29120
+
+Carignan 9462
+Saint-Jean-Baptiste 3107
+Rougemont 2755
+
+Montmagny 11255
+Montpellier 985
+Saint-Andre-Avellin 3749
+Ripon 1542
+Namur 572
+Saint-Emile-de-Suffolk 477
+Amherst 1484
+La Conception 1337
+Wentworth-Nord 1381
+Wentworth 533
 Saint-Onesime-d'Ixworth 560
+Franklin 1636
+Saint-Gabriel-Lalemant 716
+Saint-Antoine-de-Tilly 1598
+Saint-Anicet 2626
+Elgin 394
+
+Baie-Comeau 21536
+Ragueneau 1343
+Sayabec 1594
+Val-Brillant 927
+Entrelacs 928
+Causapscal 2304
+Saint-Alexis-de-Matapedia 500
+Matapedia 645
+
+L'Ancienne-Lorette 16543
+
+Dolbeau-Mistassini 14250
+Messines 1609
+Montcerf-Lytton 636
+Grand-Remous 1161
+Saint-Remi-de-Tingwick 458
+Lingwick 428
+Gros-Mecatina 428
+Bonne-Esperance 681
+Blanc-Sablon 1112
+Aguanish 245
+Cloridorme 671
 
 Lachute 12862
+Saint-Andre-d'Argenteuil 3020
+Oka 3824
 
-Saint-Amable 12167
-Saint-Damase 2473
-Saint-Damase-de-L'Islet 552
-Mulgrave-et-Derry 369
-Saint-Philibert 369
-Saint-Vianney 441
+Les Iles-de-la-Madeleine 12010
+Sainte-Anne-de-la-Rochelle 598
+Saint-Joseph-des-Erables 410
+Hemmingford 1900
+Sainte-Sophie-d'Halifax 612
+Piopolis 358
+Fugereville 326
+Mandeville 2189
+Saint-Didace 652
+Saint-Damien 2094
 
 Rawdon 11057
-Weedon 2670
-Dudswell 1727
-Courcelles 823
-Adstock 2806
-La Peche 7863
-Denholm 505
-Ogden 741
-Auclair 448
-Lejeune 262
 Chertsey 4696
 Clarendon 1256
-Lac-Superieur 1888
-Ascot Corner 3158
-Saint-Anicet 2626
-Saint-Fulgence 2071
-Saint-Barthelemy 1934
-Puvirnituq 1779
-Akulivik 633
-Ivujivik 414
-Kuujjuarapik 686
-Inukjuak 1757
-Umiujaq 442
-Escuminac 544
-Pointe-a-la-Croix 1391
-Longue-Pointe-de-Mingan 434
-Lac-des-Seize-Iles 172
-Saint-Honore-de-Shenley 1483
+
+La Tuque 11001
+La Bostonnais 635
+Marston 705
+Nicolet 8169
+Chibougamau 7504
+Chapais 1499
+La Dore 1365
+Cayamant 821
+L'Ascension-de-Notre-Seigneur 1987
+Murdochville 651
+Desbiens 1028
+Lanoraie 4787
+Lac-Etchemin 3822
+Lac-Edouard 191
+Brigham 2306
+Sainte-Brigide-d'Iberville 1402
+Schefferville 155
+Aupaluk 209
 Saint-Medard 209
-Aguanish 245
-Montpellier 985
-Daveluyville 965
-Saint-Augustin-de-Woburn 692
-Sainte-Praxede 327
-Bolton-Est 940
-Otter Lake 932
-Campbell's Bay 744
-Blue Sea 639
-Laforce 231
+Puvirnituq 1779
+Riviere-Eternite 413
+Inukjuak 1757
+Saint-Honore-de-Shenley 1483
+Saint-Jacques-le-Mineur 1690
+Austin 1485
+Saint-Roch-des-Aulnaies 917
+Preissac 835
+Natashquan 835
+Roquemaure 395
+Guerin 320
 Moffet 187
+Laforce 231
+Saint-Just-de-Bretenieres 668
+Denholm 505
+Fassett 431
+Ulverton 418
+Lemieux 301

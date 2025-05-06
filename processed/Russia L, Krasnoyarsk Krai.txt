@@ -1,43 +1,43 @@
 
 
 Krasnoyarsk 973826
-Krasnoturansk 5790
-Kuragino 13743
-Tura 5535
-Kodinsk 14830
-Borodino 17416
-Zelenogorsk 66056
+Emel'yanovo 12055
+Sosnovoborsk 33091
 
 Zheleznogorsk 84795
-Sosnovoborsk 33091
-Berezovka 20887
-Zykovo 5924
-Nazarovo 52817
-Sharypovo 38561
-Dubinino 9497
-Bogotol 21051
+Divnogorsk 28272
+Zelenogorsk 66056
+Uyar 12665
+Kuragino 13743
+Motygino 5902
+Strelka 5040
+Lesosibirsk 61139
 Boguchany 11232
 Aban 9187
 Ilanskiy 16111
 
 Kansk 94226
-Kayerkan 22338
-Igarka 6183
-Uyar 12665
-Nizhnyaya Poyma 9000
-Nizhniy Ingash 7583
-Eniseysk 18766
-Lesosibirsk 61139
-Strelka 5040
-Motygino 5902
+Krasnoturansk 5790
+Minusinsk 71170
+Kodinsk 14830
+Borodino 17416
+Dubinino 9497
+Sharypovo 38561
+Uzhur 16093
+Nazarovo 52817
+
+Achinsk 109155
+Bogotol 21051
 
 Noril'sk 175365
 Talnakh 47307
-Balakhta 7410
-Divnogorsk 28272
-Emel'yanovo 12055
-
-Achinsk 109155
-Minusinsk 71170
+Kayerkan 22338
 Dudinka 22175
-Uzhur 16093
+Igarka 6183
+Eniseysk 18766
+Berezovka 20887
+Zykovo 5924
+Nizhnyaya Poyma 9000
+Nizhniy Ingash 7583
+Balakhta 7410
+Tura 5535

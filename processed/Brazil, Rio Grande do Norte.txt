@@ -1,13 +1,48 @@
 
 
 Natal 890480
+Parazinho 5272
+Pedra Grande 3199
+Pedra Preta 2438
+Pedro Avelino 6653
+Fernando Pedroza 3067
+Sao Pedro 5930
+Sao Paulo do Potengi 17720
+Santa Maria 5621
+Ielmo Marinho 13901
+Antonio Martins 7154
+Martins 8758
+Serrinha dos Pintos 4816
+Serrinha 6178
+Santo Antonio 24280
+Espirito Santo 10484
+Jardim de Angicos 2606
+Tibau 4140
+Tibau do Sul 14440
+Senador Georgino Avelino 4484
+Ares 14417
+Janduis 5248
+Augusto Severo (Campo Grande) 9670
+Taboleiro Grande 2586
+Riacho da Cruz 3614
+Riacho de Santana 4199
+Pendencias 15272
+Serra Negra do Norte 8092
+Olho-d'Agua do Borges 4244
+Agua Nova 3272
+Encanto 5668
+Doutor Severiano 7072
+Major Sales 4062
+Luis Gomes 10146
+Frutuoso Gomes 4041
+Lucrecia 4025
+Serra de Sao Bento 5751
+Passa e Fica 13474
+Passagem 3102
+Francisco Dantas 2813
+Sao Francisco do Oeste 4255
 
-Sao Goncalo do Amarante 103672
-
-Macaiba 81821
-
-Macau 32039
-Carnaubais 10867
+Pau dos Ferros 30600
 Carnauba dos Dantas 8239
 Santana do Serido 2689
 Jardim do Serido 12396
@@ -15,172 +50,137 @@ Sao Jose do Serido 4665
 Cruzeta 7983
 Tenente Laurentino Cruz 6019
 Sao Vicente 6450
-Vicosa 1725
-Portalegre 7906
-Monte Alegre 22576
-
-Sao Jose de Mipibu 44236
-Nisia Floresta 27938
-Ares 14417
-
-Canguaretama 34548
-Vila Flor 3194
-Baia Formosa 9322
-
-Mossoro 300618
-Grossos 10463
-Areia Branca 27967
-Ouro Branco 4813
-Poco Branco 15531
-Taipu 12297
-Pureza 9724
-
-Touros 33503
-Sao Miguel do Gostoso 10362
-Sao Miguel 23655
-Coronel Joao Pessoa 4915
+Marcelino Vieira 8336
+Piloes 3869
 Coronel Ezequiel 5504
-Cerro Cora 11181
-Bodo 2197
-Rodolfo Fernandes 4462
-Bento Fernandes 5525
-Sao Fernando 3595
-Sao Joao do Sabugi 6207
-Timbauba dos Batistas 2421
-Jardim de Piranhas 14942
-Jardim de Angicos 2606
-Tibau 4140
-Tibau do Sul 14440
-Senador Georgino Avelino 4484
-Pedro Avelino 6653
-Fernando Pedroza 3067
-Sao Pedro 5930
-Sao Paulo do Potengi 17720
-Santa Maria 5621
-Ielmo Marinho 13901
-Serrinha 6178
-Santo Antonio 24280
-Antonio Martins 7154
-Martins 8758
-Serrinha dos Pintos 4816
-Lajes Pintadas 4763
-Lajes 11344
-Pedra Preta 2438
-Pedra Grande 3199
-Parazinho 5272
-Galinhos 2845
-Guamare 15963
-Caicara do Norte 6561
+Coronel Joao Pessoa 4915
+Sao Miguel 23655
+Sao Miguel do Gostoso 10362
 Sao Bento do Norte 2717
-Sao Bento do Trairi 4495
-Sao Tome 11053
+Caicara do Norte 6561
+Caicara do Rio do Vento 3715
 Ruy Barbosa 3592
+Bento Fernandes 5525
 Riachuelo 8220
-Riacho da Cruz 3614
-Riacho de Santana 4199
-Pendencias 15272
-Francisco Dantas 2813
-Sao Francisco do Oeste 4255
-Taboleiro Grande 2586
-Augusto Severo (Campo Grande) 9670
-Janduis 5248
-Jandaira 6893
-Ipueira 2253
-Acari 11121
-Jacana 9238
-Parana 4276
-Major Sales 4062
-Doutor Severiano 7072
-Encanto 5668
-
-Pau dos Ferros 30600
-Agua Nova 3272
-Lagoa Nova 15749
-
-Currais Novos 44905
-Sitio Novo 5561
+Rafael Fernandes 5128
+Alexandria 13553
+Equador 6054
+Senador Eloi de Souza 6127
 Lagoa de Velhos 2732
 Lagoa de Pedras 7584
 Lagoa Salgada 8297
 Januario Cicco (Boa Saude) 10275
 Serra Caiada 10522
 Serra do Mel 12083
-Serra Negra do Norte 8092
-Almino Afonso 4710
-Afonso Bezerra 11029
-Serra de Sao Bento 5751
-Passa e Fica 13474
-Passagem 3102
-Olho-d'Agua do Borges 4244
-Lagoa d'Anta 6811
+Porto do Mangue 6522
+Alto do Rodrigues 14728
+Carnaubais 10867
+Ipanguacu 15626
+
+Canguaretama 34548
+Vila Flor 3194
+Nisia Floresta 27938
+
+Sao Jose de Mipibu 44236
 Sao Jose do Campestre 12879
+Lagoa d'Anta 6811
+Lagoa Nova 15749
+
+Currais Novos 44905
+Sitio Novo 5561
+Tangara 15869
+Varzea 5515
+Jundia 3922
+Brejinho 12787
+Galinhos 2845
+Guamare 15963
 
 Joao Camara 35160
 Joao Dias 2654
-Frutuoso Gomes 4041
-Luis Gomes 10146
-Venha-Ver 4205
-Jose da Penha 5946
-Sao Rafael 8192
-Rafael Fernandes 5128
-Alexandria 13553
-Equador 6054
-Governador Dix-Sept Rosado 13076
+Sao Joao do Sabugi 6207
+Ouro Branco 4813
+Poco Branco 15531
+Taipu 12297
+
+Ceara-Mirim 73886
+
+Parnamirim 267036
+
+Macaiba 81821
+
+Sao Goncalo do Amarante 103672
+Extremoz 28936
+Maxaranguape 12544
+Parana 4276
+Parau 3750
+Caraubas 20541
 Felipe Guerra 5997
 
 Apodi 35874
-Japi 4995
-Monte das Gameleiras 2084
-Montanhas 11208
-Goianinha 26669
-Florania 9786
-Tenente Ananias 10855
-Marcelino Vieira 8336
-Piloes 3869
-Espirito Santo 10484
-Barcelona 3994
-Barauna 28747
-Caraubas 20541
-Parau 3750
-Upanema 14800
-Ipanguacu 15626
-
-Acu 58384
-Itaja 7595
 Itau 5897
 Severiano Melo 2088
-Vera Cruz 12637
+Japi 4995
+Monte das Gameleiras 2084
+Monte Alegre 22576
+Portalegre 7906
+Vicosa 1725
+Angicos 11705
+Afonso Bezerra 11029
+Almino Afonso 4710
+Messias Targino 4634
+Barcelona 3994
+Umarizal 10520
+Lajes Pintadas 4763
+Campo Redondo 11291
+Sao Bento do Trairi 4495
 
 Santa Cruz 39988
 
 Nova Cruz 37450
-Varzea 5515
-Jundia 3922
-Brejinho 12787
+Vera Cruz 12637
+Bom Jesus 10267
 
-Parnamirim 267036
+Mossoro 300618
+Grossos 10463
+Areia Branca 27967
+Barauna 28747
+Governador Dix-Sept Rosado 13076
+Upanema 14800
 
-Ceara-Mirim 73886
-Extremoz 28936
-Maxaranguape 12544
-Rio do Fogo 10905
-Caicara do Rio do Vento 3715
+Acu 58384
+Itaja 7595
+Santana do Matos 11956
+Florania 9786
+Tenente Ananias 10855
+Venha-Ver 4205
+Jose da Penha 5946
+Ipueira 2253
+Acari 11121
+Sao Rafael 8192
+Rafael Godeiro 3208
+Patu 12809
 
 Caico 68343
-Angicos 11705
-Tangara 15869
-Senador Eloi de Souza 6127
-Bom Jesus 10267
-Parelhas 21545
+Sao Fernando 3595
+Timbauba dos Batistas 2421
+Jardim de Piranhas 14942
+Montanhas 11208
 Pedro Velho 14844
+Goianinha 26669
+Baia Formosa 9322
+
+Touros 33503
+Rio do Fogo 10905
+Pureza 9724
+
+Macau 32039
+Parelhas 21545
+Jacana 9238
+Cerro Cora 11181
+Bodo 2197
+Lajes 11344
+Sao Tome 11053
 Jucurutu 18315
-Patu 12809
-Rafael Godeiro 3208
-Lucrecia 4025
-Alto do Rodrigues 14728
-Porto do Mangue 6522
-Santana do Matos 11956
-Campo Redondo 11291
-Umarizal 10520
-Messias Targino 4634
+Jandaira 6893
+Rodolfo Fernandes 4462
 Triunfo Potiguar 3216

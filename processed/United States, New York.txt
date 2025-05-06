@@ -6,170 +6,132 @@ New Hyde Park 10257
 North New Hyde Park 15657
 North Hills 5464
 East Hills 7284
-East Williston 2645
-Albertson 5220
-Gilbertsville 308
-Shortsville 1400
-Byersville 44
-Gloversville 15131
-Downsville 474
-Munnsville 454
-Mannsville 297
-Saltaire 113
-Sinclairville 579
-Irvington 6652
-Washington Heights 2205
-Washingtonville 5657
-Beaver Dam Lake 2609
-Putnam Lake 3776
-Peach Lake 1885
-Copake Lake 767
-Star Lake 631
-Copenhagen 631
-Village Green 3834
-Greenville 9394
-Ardsley 5079
-Edwards 361
-Rensselaer Falls 361
-Highland Falls 3684
-Highland-on-the-Lake 3765
-High Falls 700
-Smyrna 197
-Verona 828
-Altona 662
-Dalton 351
-Hobart 351
-Barker 575
-Bloomville 173
-Wadsworth 173
-Walworth 917
-Sleepy Hollow Lake 1153
-Sleepy Hollow 9986
-Tarrytown 11860
-Barrytown 100
-Hailesboro 544
-Whitesboro 3612
-Lloyd Harbor 3571
-Sackets Harbor 1351
-Cold Spring Harbor 3064
-Clark Mills 2049
-New York Mills 3244
-Fair Haven 760
-North Haven 1162
-North Hornell 732
-Hornell 8263
-Sherrill 3077
-Sherburne 1360
-Norfolk 1238
-Corfu 689
-Willsboro 689
-Wurtsboro 1124
-Wurtsboro Hills 867
-Blasdell 2539
-Pulaski 2186
-Friendship 1085
-Orient 999
-Searingtown 5044
-Lattingtown 1881
-Prattsburgh 589
-Richburg 401
-Fort Johnson 401
+Flower Hill 4794
+Munsey Park 2809
+Garden City Park 7985
 
-Johnson City 15343
-Munsons Corners 2814
-Myers Corner 10598
-Crown Heights 2872
-Highland 6385
-Haviland 4174
-Hyde Park 1925
-Arlington 3010
-Burlington Flats 143
-Burdett 331
-Ellisburg 186
-Salisbury 12618
+Garden City 23272
+Garden City South 4119
+East Garden City 6208
 
-Westbury 15864
-Old Westbury 4289
-Cortland West 1286
-
-Cortland 17556
-Lakeland 2556
-Liverpool 2242
-Centerport 5822
-Northport 7347
-
-East Northport 20048
-Southport 6782
-South Hill 7245
-
-Ithaca 32108
-Northwest Ithaca 2231
-Northeast Ithaca 2701
-North Sea 5461
-North Syracuse 6739
-
-Syracuse 148620
-De Witt 11247
-Chittenango 4896
-Chenango Bridge 2884
-Ridge 13271
-Mountain Lodge Park 1910
-South Corning 1108
-Lake Katrine 2522
-Deposit 1387
-Depew 15178
-Alden 2604
-Walden 6818
-Wallkill 2166
-Spackenkill 4223
-Fishkill 2166
-Fishers Island 424
-Shelter Island Heights 1601
-Cragsmoor 433
-Smallwood 839
-Millwood 1081
-Norwood 1552
-Holland Patent 416
+East Meadow 37796
+East Marion 1048
+East Nassau 559
+Centre Island 407
+Fire Island 777
 Holland 1173
 Bellerose 1173
 Bellerose Terrace 2329
 Islip Terrace 5323
 Tioga Terrace 2082
 Harbor Isle 1436
-Harbor Hills 562
-North Creek 562
-Red Creek 495
-Eldred 212
-Redford 387
-Afton 794
-Rifton 481
-Clifton Springs 2209
-Silver Springs 689
-Springs 8086
-Northwest Harbor 4637
+Cold Spring Harbor 3064
+Sackets Harbor 1351
+Lloyd Harbor 3571
 Sag Harbor 2772
-Baiting Hollow 2763
-Wading River 7731
-Riverhead 14993
-Aquebogue 2547
-East Quogue 5557
+Northwest Harbor 4637
+East Hampton North 5377
+Southampton 4550
 
-East Patchogue 21580
-Patchogue 12408
-North Patchogue 6751
-North Bellport 11900
-Bellport 2203
-Bayport 8609
+Hampton Bays 15228
+East Quogue 5557
+East Shoreham 6841
+East Setauket 10998
+
+Setauket-East Setauket 15477
+Setauket 3986
+Montauk 4318
+Springs 8086
+Union Springs 1075
+Shokan 1075
+Hancock 908
+Tribes Hill 937
+Harris Hill 5839
+
+Harrison 28218
+
+White Plains 59559
+Pine Plains 1142
+Wainscott 904
+Scottsburg 137
+Staatsburg 703
+Sloatsburg 3036
+Suffern 11441
+Jefferson 121
+White Lake (Oneida County) 121
+White Lake (Sullivan County) 207
+Northville (Suffolk County) 1566
+Tuckahoe (Suffolk County) 1505
+Greenville (Greene County) 688
+Greenville 9394
+Ardsley 5079
+Edwards 361
+Fort Edward 3108
+Orient 999
+Searingtown 5044
+Lattingtown 1881
+Prattsburgh 589
+Richburg 401
+Jericho 14808
+
+Hicksville 43869
+Dansville 4433
+Mannsville 297
+Saltaire 113
+Hailesboro 544
+Whitesboro 3612
+Hillburn 930
+Brownville 930
+Boonville 2020
+Old Brookville 2020
+Yorkville 2657
+Yorkshire 1176
+Old Forge 727
+Lake George 1008
+Cementon 164
+Stewart Manor 1992
+Plandome Manor 793
+Richmondville 858
+Portlandville 177
+
+Cortland 17556
+Cortland West 1286
+Brocton 1286
+Cohocton 703
+
+Cohoes 18147
+Green Island 2934
+East Greenbush 6266
+East Glenville 11896
+Loudonville 10296
+Menands 4554
+Gananda 5867
+Canandaigua 10576
+Naples 931
+Wayland 1680
+Poland 464
+Sand Ridge 992
+McGraw 972
+Melrose Park 2141
+Hyde Park 1925
+Haviland 4174
+Highland 6385
+
+Poughkeepsie 31577
+Houghton 1488
+
+Brighton 37137
+Brightwaters 3181
+West Bay Shore 4625
+
+Bay Shore 29244
 
 North Bay Shore 19619
 
-Bay Shore 29244
-West Bay Shore 4625
-
-West Babylon 43213
+North Babylon 17927
 Babylon 12188
 
-North Babylon 17927
+West Babylon 43213
 
 West Islip 27048
 
@@ -178,123 +140,187 @@ East Islip 13931
 
 Central Islip 36714
 Islandia 3567
-Island Park 4928
-Randolph 1297
+
+Hauppauge 20083
+Saugerties 3899
+Claverack-Red Mills 953
+Gang Mills 4261
+Clark Mills 2049
+Felts Mills 473
+Kennedy 473
+Arkport 745
+
+Lockport 20876
+South Lockport 9355
+Brockport 7104
+Clarkson 4694
+Clarence 2733
+Clarence Center 2605
+Cayuga 472
+Cayuga Heights 4114
+Tully 904
+Port Byron 1101
+Port Ewen 3678
+
+Kingston 24069
+Stone Ridge 1234
+Ridge 13271
+Elbridge 921
+Schroon Lake 921
+Mariaville Lake 666
+Lime Lake 836
+Duane Lake 329
+Nassau 1103
+Wassaic 210
+Fleischmanns 210
+Saddle Rock Estates 428
+Great Neck Estates 2990
+Roslyn Estates 1318
+Baxter Estates 991
+Massena 10151
+Windsor 907
+North Great River 4266
+Bolivar 1010
+Lansing 3648
+Eatons Neck 1334
+Great Neck 11145
+Great Neck Plaza 7482
+University Gardens 4358
+Clifton Gardens 2729
+Clifton Springs 2209
+Silver Springs 689
+Willsboro 689
+Wurtsboro 1124
+Wurtsboro Hills 867
+Sherrill 3077
+Cattaraugus 960
+Whitney Point 960
+Stony Point 12126
+West Point 7341
+Cornwall-on-Hudson 3075
+Wallkill 2166
+Spackenkill 4223
+Fishkill 2166
+Catskill 3745
+Cobleskill 4173
+Canajoharie 2037
+Northville (Fulton County) 993
+Broadalbin 1384
+Albion 5637
+Medina 6047
+Middleport 1729
+Middleville 407
+Galeville 4482
+Belleville 233
+Henderson 233
+Flanders 5098
+Aquebogue 2547
+Riverhead 14993
+Wading River 7731
+Baiting Hollow 2763
+Sleepy Hollow 9986
+Tarrytown 11860
+Barrytown 100
+Barryville 222
+Terryville 11472
+Port Jefferson Station 7950
+Port Jefferson 7962
+Mount Sinai 11623
+Mount Ivy 7657
+Mount Kisco 10959
+Chappaqua 2598
+Tappan 6673
+Orangeburg 4565
+Blauvelt 5548
+Heuvelton 722
+Gardiner 952
+Bridgeville 149
 Dolgeville 2042
 Fayetteville 4225
-Belleville 233
-Galeville 4482
-Shelter Island 1602
-Cayuga Heights 4114
-Cayuga 472
-Chateaugay 735
-South Edmeston 137
-Edmeston 592
-Unionville 592
-
-Uniondale 32473
-
-Hempstead 59169
-
-West Hempstead 19835
-South Hempstead 3406
-Garden City South 4119
-
-Garden City 23272
-Garden City Park 7985
-East Garden City 6208
-
-East Meadow 37796
-East Marion 1048
-East Nassau 559
-Massena 10151
-Manhasset 8176
-Manhasset Hills 3649
-Wesley Hills 6116
-New Hempstead 5463
-
-New City 34135
-New Square 9679
-Central Square 1862
-Central Bridge 740
-Natural Bridge 296
-Turin 197
-Parc 197
-Marcy 650
-Wyoming 377
-Bloomingburg 1032
-Linwood 84
-Redwood 493
-Inwood 11340
-
-Woodmere 18669
-Hewlett 7262
-Hewlett Neck 569
-Glen Aubrey 446
-Tuxedo Park 645
-Bay Park 2117
-Hewlett Harbor 1290
-North Granville 524
-Granville 2404
-Franklinville 1652
-Pittsford 1419
-Stamford 1040
-Westford 145
-New Hartford 1859
-New Berlin 901
-Katonah 1603
-Stottville 1665
-Forestville 704
-Stittville 294
-Farmingdale 8466
-East Farmingdale 6617
-South Farmingdale 14345
-Plainedge 9517
-
-Plainview 27100
-Old Bethpage 6403
-
-Bethpage 16658
-North Wantagh 11931
-
-Wantagh 18613
-
-Seaford 15251
-Milford 367
-Guilford 322
-Oxford 1330
 Lakeville 694
-Lakeview 6077
-Tupper Lake 3282
-Croghan 639
-Cutchogue 3437
-Quiogue 1013
-Quogue 1662
-Frewsburg 1843
-Brewster Heights 1076
-Farnham 381
-Varna 767
-Vernon 1177
+Richville 234
+Churchville 2091
+Lowville 3272
 
-Mount Vernon 73893
-Pelham 7326
-Pelham Manor 5752
-Hampton Manor 5423
-Northampton 763
-Westhampton 3621
-Attica 2450
-Monticello 7173
-Montebello 4507
+Sayville 16569
+West Sayville 4872
+Bayville 6748
+Brookville 2939
+Old Westbury 4289
+
+Westbury 15864
+Salisbury 12618
+Mastic Beach 14199
+
+Mastic 15404
+
+Shirley 26360
+Hurley 3346
+Eden 3346
+Rosendale 1285
+Tillson 1516
+Wilson 1247
+Newfane 3662
+Newfield Hamlet 725
+York Hamlet 488
+Newark Valley 928
+Walker Valley 1269
+West Valley 452
+West Danby 211
+Danby 506
+Schoharie 916
+Antwerp 506
+Little Valley 1058
+Pine Valley 832
+Cazenovia 2767
+Walworth 917
+Wadsworth 173
+Cherry Creek 409
+Fly Creek 270
+Sandy Creek 646
+Cove Neck 293
+Dresden 293
+Saddle Rock 989
+Le Roy 4300
+
+Batavia 15600
+Moravia 1224
+Adams Center 1492
+Salisbury Center 323
+Interlaken 595
+Waterloo 4810
+Lawrence 6809
+Spencer 719
+South Hill 7245
+
+Ithaca 32108
+Northwest Ithaca 2231
+Northeast Ithaca 2701
+East Ithaca 3175
+East Hampton 1517
+Cuba 1517
+Palenville 1002
+Ellenville 4167
+Washingtonville 5657
+Washington Heights 2205
+Irvington 6652
+Arlington 3010
+Burlington Flats 143
+Burdett 331
+Hoosick Falls 3216
+Brooktondale 261
+Clintondale 1938
+Upper Brookville 1786
+Bloomfield 1277
+Richfield Springs 1050
+Norfolk 1238
+Castile 970
 Woodsburgh 897
 Plattsburgh West 1382
 
 Plattsburgh 19841
-Warrensburg 3045
-Ogdensburg 10064
-Canton 7155
-Clinton 1683
-Ticonderoga 3250
-Cape Vincent 699
+Morrisonville 1893
+Jeffersonville 368
 Napeague 368
 
 Copiague 23429
@@ -305,353 +331,302 @@ North Lindenhurst 12000
 
 Lindenhurst 27148
 Cedarhurst 7374
-Macedon 2092
-Nissequogue 1564
-Fairview (Dutchess County) 5475
-Monroe 9343
-Roscoe 497
-Roslyn Heights 6747
-Roslyn 2988
-Roslyn Harbor 1067
-Scottsville 2009
-Scottsburg 137
-Staatsburg 703
-Sloatsburg 3036
-Suffern 11441
-New Suffolk 403
-Northville (Suffolk County) 1566
-White Lake (Sullivan County) 207
-White Lake (Oneida County) 121
-Jefferson 121
-Crugers 1627
-Congers 8532
-Orangeburg 4565
-Blauvelt 5548
-Heuvelton 722
-Cherry Valley 467
-West Valley 452
-South Valley Stream 6386
-Websters Crossing 52
-Westernville 144
-Hortonville 180
-Millerton 903
-Poquott 903
-Nichols 457
-Greenwich 1651
-Greene 1463
-
-Binghamton 47969
-Billington Heights 1748
-West Kill 121
-East Kingston 277
-Port Gibson 405
-Port Dickinson 1699
-Greenvale 1069
-Amagansett 1824
-Hagaman 1117
-Bainbridge 1251
-Bridgehampton 2953
-Thomaston 2759
-
-Mastic 15404
-
-Shirley 26360
-Hurley 3346
-Eden 3346
-
-Kingston 24069
-Port Ewen 3678
-West End 1864
-West Elmira 4850
-Champlain 1170
-Westhampton Beach 2150
-
-Hampton Bays 15228
-Southampton 4550
-Southold 6040
-Greenport 2583
-Greenport West 2282
-Port Henry 1150
-Chelsea Cove 1150
-
-Glen Cove 28365
-Glen Head 4837
-Glenwood Landing 3948
-Greenwood Lake 2994
-Warwick 6652
-Norwich 7051
-East Norwich 2792
-Oyster Bay 7049
-Bayville 6748
-Mayville 1442
-Westfield 2910
-West Winfield 733
-Springfield Center 336
-Campbell 659
-Marion 1432
-Altmar 357
-Argyle 289
-Wellsburg 490
-Fallsburg 1862
-South Fallsburg 2347
-New Hamburg 842
-Hamburg 9696
-Wanakah 3137
-
-Lackawanna 19949
-Tonawanda 15129
-
-North Tonawanda 30496
-North Boston 2529
-North Bay 374
-North Blenheim 54
-Remsen 431
-Milton (Ulster County) 1650
-Hunter 429
-Pamelia Center 471
-Livonia Center 417
-Livonia 1472
-Peconic 692
-Matinecock 847
-Rock Hill 2369
-Fonda 668
-Clintondale 1938
-Upper Brookville 1786
-Brookville 2939
-Old Brookville 2020
-Yorkville 2657
-Yorkshire 1176
-Old Forge 727
-Lake George 1008
-Cementon 164
-Stewart Manor 1992
-Plandome Manor 793
-Richmondville 858
-East Avon 618
-Avon 3399
-
-Batavia 15600
-Moravia 1224
-Adams Center 1492
-Salisbury Center 323
-Lime Lake 836
-Interlaken 595
-Otter Lake 109
-Oxbow 85
-Coxsackie 2746
-Salt Point 202
-West Point 7341
-Stony Point 12126
-West Haverstraw 10678
-Haverstraw 12323
-Manorhaven 6956
-Lowville 3272
-Brownville 930
-Ellenville 4167
-Palenville 1002
-Clifton Gardens 2729
-Dover Plains 1322
-Andover 890
-Sylvan Beach 890
-Ocean Beach 153
-
-Oceanside 32637
-
-Rockville Centre 26016
-
-Baldwin 33919
-Baldwin Harbor 8102
-
-Freeport 44472
-Freeville 498
-La Fargeville 537
-St. Regis Falls 432
-Glens Falls 14830
-Glens Falls North 9530
-West Glens Falls 9473
-Hudson Falls 7427
-Hudson 5894
-Claverack-Red Mills 953
-Red Oaks Mill 3810
-Evans Mills 678
-Lyons Falls 570
-Lyons 3989
-Newark 9017
-Newark Valley 928
-Walker Valley 1269
-Kaser 5491
+Margaretville 514
+Portville 892
+Marathon 892
+Hannawa Falls 975
+North Ballston Spa 1376
+Ballston Spa 5111
+Milton 4663
+Hamilton 4107
+Oneida 10329
+Canastota 4556
 Canaseraga 460
 Fort Ann 460
-Fort Plain 1930
-Coopers Plains 609
-Cooperstown 1794
-Walton 2885
-Calverton 5934
-Malverne 8560
-Malverne Park Oaks 538
-Averill Park 2098
-Warsaw 3646
-Niverville 1508
-Waterville 1473
-Jordan 1192
-Great Bend 807
-Great Neck 11145
-Great Neck Plaza 7482
-University Gardens 4358
-Lake Success 2828
-Lake Placid 2205
-Carle Place 5005
-Miller Place 11723
-Sound Beach 7416
 
-Centereach 30980
+Fort Drum 15896
+Calcium 3573
 
-Selden 21262
-Farmingville 14983
-Springville 4225
-Old Field 893
-Loch Sheldrake 1025
-Kinderhook 1170
-Red Hook 1975
-Upper Red Hook 180
-Sodus Point 822
-Sodus 1667
-Lakewood 3002
-Malone 5483
-Fort Salonga 9652
-
-Kings Park 17085
-
-Smithtown 25629
-Paul Smiths 411
-Woodbourne 411
-Barneveld 272
-Barryville 222
-Harrisville 628
-Garrattsville 120
-Prattsville 384
-Sparkill 1581
-Palatine Bridge 796
-Phoenicia 268
-Phoenix 2226
-Radisson 7038
-Madison 311
-Delanson 335
-Almond 415
-Hermon 436
-Piermont 2517
-South Nyack 2699
-Nyack 7265
-Upper Nyack 2015
-West Nyack 3649
-Bardonia 4249
-Fredonia 9585
-Caledonia 2080
-Elbridge 921
-Schroon Lake 921
-Mariaville Lake 666
-Swan Lake 372
-Hartwick Seminary 356
-Romulus 356
-
-Rome 32127
-Lake Delta 2757
-Lake Carmel 8069
-Carmel Hamlet 7538
-Armonk 4495
-Chappaqua 2598
-Pleasantville 7513
-Pleasant Valley 1603
-Locust Valley 3571
-Hillburn 930
-
-Auburn 26866
-Lawrence 6809
-Clarence 2733
-Angola 2046
-Angola on the Lake 1481
-Village of the Branch 1735
-Cumberland Head 1735
-Horseheads 6606
-Horseheads North 2761
-Constantia 1109
-Lacona 657
-Beacon 13769
-
-Newburgh 28856
-Balmville 3197
-Ransomville 1316
-Dansville 4433
-Baldwinsville 7898
-Solvay 6645
-Westvale 5090
-Fairmount 10248
-Airmont 10166
-
-Monsey 26954
-Pomona 3824
-Mount Ivy 7657
-Mount Morris 2898
-Geneseo 7574
-Conesus Lake 2270
-Conesus Hamlet 283
-Gainesville 211
-Haines Falls 249
-Castorland 334
-Lancaster 10027
-Manchester 1640
+Watertown 24685
+Chestertown 586
 Chester 3993
 
 Rochester 211328
 East Rochester 6334
 
-Brighton 37137
-Brightwaters 3181
-Wheatley Heights 5140
-Wyandanch 12990
-Gananda 5867
-Canandaigua 10576
-Palmyra 3305
+Irondequoit 51043
+Nissequogue 1564
+Macedon 2092
+Fredonia 9585
+Dunkirk 12743
+Silver Creek 2617
+Lake Erie Beach 3467
+
+Long Beach 35029
+Hewlett 7262
+East Rockaway 10159
+
+Lynbrook 20438
+North Lynbrook 747
+Woodridge 747
+Cambridge 1788
+Farmingdale 8466
+East Farmingdale 6617
+South Farmingdale 14345
+Plainedge 9517
+
+Plainview 27100
+Champlain 1170
+Westhampton Beach 2150
+Westhampton 3621
+Attica 2450
+Highland-on-the-Lake 3765
+Highland Falls 3684
+Rensselaer Falls 361
+High Falls 700
+Smyrna 197
+Parc 197
+Turin 197
+Redford 387
+Afton 794
+Rifton 481
+Rhinecliff 380
+Rhinebeck 2697
+Heritage Hills 4511
+Pine Hill 275
+McLean 378
+Olean 13937
+Salamanca 5929
+Lancaster 10027
+Depew 15178
+
+Cheektowaga 76829
+Yorktown Heights 1884
+Jefferson Valley-Yorktown 14444
+Lake Mohegan 5896
+Crompond 2330
+
+Peekskill 25431
+Verplanck 1535
+Plandome 1448
+St. Regis Falls 432
+La Fargeville 537
+Freeville 498
+Billington Heights 1748
+West Kill 121
+East Kingston 277
+Port Gibson 405
+Port Henry 1150
+Greenport West 2282
+Greenport 2583
+Southold 6040
+Southport 6782
+Northport 7347
+
+East Northport 20048
+Fort Salonga 9652
+
+Kings Park 17085
+Kings Point 5619
+Sodus Point 822
+Millerton 903
+Hortonville 180
+Upper Red Hook 180
+Poquott 903
+Nichols 457
+Strykersville 682
+Byersville 44
+Shortsville 1400
+
+Eggertsville 15561
+Williamsville 5423
+Williamson 2418
+Copake Lake 767
+Star Lake 631
+Otter Lake 109
+Barker 575
+Bloomville 173
+Ransomville 1316
+Williston Park 7591
+East Williston 2645
+Albertson 5220
+Gilbertsville 308
+Munnsville 454
+Downsville 474
+Gloversville 15131
+Crystal Beach 627
+Hermon 436
+Piermont 2517
+Airmont 10166
+Fairmount 10248
+Westvale 5090
+Solvay 6645
+Lakeland 2556
+Liverpool 2242
+Centerport 5822
+Spencerport 3685
+North Gates 9458
+Gates 4956
+Russell Gardens 978
+Wilmington 843
+Eastport 2219
+Westport 496
+East Frankfort 496
+Frankfort 2320
+Kensington 1226
+Owego 3654
+
+Oswego 16921
+SUNY Oswego 3451
+Fulton 11389
+Fultonville 742
+Oyster Bay Cove 2265
+Oyster Bay 7049
+East Norwich 2792
+Norwich 7051
+Norwood 1552
+Millwood 1081
+Erin 367
+Dering Harbor 50
+New Hartford 1859
+Youngstown 1859
+Cooperstown 1794
+Coopers Plains 609
+Fort Plain 1930
+Malverne Park Oaks 538
+Malverne 8560
+Calverton 5934
+Hillside Lake 1091
+Nassau Lake 1004
+Dexter 1004
+Walton 2885
+Walton Park 3907
+Brewerton 3907
+Brewster 2508
+Brewster Hill 1924
+Lake Carmel 8069
+Carmel Hamlet 7538
+Conesus Hamlet 283
+Conesus Lake 2270
+Geneseo 7574
+Geneva 12812
 Phelps 1851
-Philadelphia 1098
+Newark 9017
+Lyons 3989
+Lyons Falls 570
+Sherman 649
+Fishers Island 424
+Shelter Island Heights 1601
+Shelter Island 1602
+Addison 1561
+Madison 311
+Almond 415
+
+Elmont 35265
+Belmont 856
 Philmont 1377
 Esperance 346
 Perrysburg 346
-Narrowsburg 379
 Duanesburg 379
-Duane Lake 329
-Nassau 1103
-Wassaic 210
-Fleischmanns 210
-Larchmont 6630
+Bath 5571
+Alexandria Bay 924
+Alexander 518
+Springwater Hamlet 518
+Sharon Springs 483
+Nunda 1169
+Lincolndale 1504
+Lincoln Park 2545
+Glen Park 452
+Keuka Park 1130
+New Suffolk 403
+Swan Lake 372
+Hartwick Seminary 356
+Romulus 356
+New Berlin 901
+New Baltimore 546
+Napanoch 1131
+Middleburgh 1131
+Roslyn Heights 6747
+Roslyn Harbor 1067
+Scottsville 2009
+East Moriches 5946
+East Syracuse 3078
+Shrub Oak 2143
+Red Oaks Mill 3810
+Evans Mills 678
+Ravena 3271
+Elizabethtown 746
 
-New Rochelle 79726
+Smithtown 25629
+Paul Smiths 411
+Woodbourne 411
+Woodbury (Nassau County) 9335
+Riverside (Suffolk County) 2882
+Rapids 1584
+Old Field 893
+Springville 4225
+Farmingville 14983
 
-Eastchester 20901
-Fairview (Westchester County) 3217
+Holtsville 18937
+North Patchogue 6751
+Patchogue 12408
 
-Port Chester 31693
-Rye Brook 10047
+East Patchogue 21580
+Cutchogue 3437
+Quiogue 1013
+Quogue 1662
+Frewsburg 1843
+Brewster Heights 1076
+Farnham 381
+Scio 525
+Peru 1843
+Savannah 487
+Stannards 585
+Bridgeport 1389
+Bainbridge 1251
+Bridgehampton 2953
+Northampton 763
+Kiamesha Lake 320
+Caroga Lake 548
+Kauneonga Lake 305
+Harrisville 628
+Laurens 185
+Gilgo 185
+Arcade 1908
+Cato 517
+Leeds 429
+Weedsport 1788
+Hammondsport 583
+Hammond 273
+Busti 349
+Ellisburg 186
+Salisbury Mills 580
+DeKalb Junction 485
+Waddington 937
+Oriskany 1315
+Oriskany Falls 658
+Valley Falls 510
 
-Rye 16592
+Valley Stream 40634
 
-Mamaroneck 20151
-Mill Neck 1054
-Great Neck Gardens 1268
-Round Lake 828
-Round Top 920
-Sparrow Bush 981
-Buchanan 2302
-Morristown 398
-Morris 486
-Morrisville 1633
-Castleton-on-Hudson 1477
-Croton-on-Hudson 8327
-Lido Beach 2719
+North Valley Stream 18197
+South Valley Stream 6386
+Websters Crossing 52
+Webster 5651
+Worcester 986
+East Worcester 327
+Millport 301
+Bellport 2203
+North Bellport 11900
+Brookhaven 3330
 
-Long Beach 35029
-Long Lake 596
-Fillmore 596
+Holbrook 26487
+Stony Brook 13467
+Head of the Harbor 1520
+Village of the Branch 1735
+Village Green 3834
+Grandyle Village 4805
+Kenmore 15205
 
 Bellmore 16297
 
@@ -660,755 +635,780 @@ North Merrick 12238
 
 Merrick 22040
 Herricks 4398
-Wilmington 843
-Eastport 2219
-Westport 496
-East Frankfort 496
-Frankfort 2320
-Kensington 1226
-Lansing 3648
-Eatons Neck 1334
-Great Neck Estates 2990
-Roslyn Estates 1318
-Baxter Estates 991
-Chaumont 615
-Montauk 4318
-Setauket 3986
+Forest Home 1168
+Forestville 704
+Stottville 1665
+Stittville 294
+Ellicottville 256
+Nelliston 555
+Earlville 774
 
-Setauket-East Setauket 15477
-East Setauket 10998
-Port Jefferson Station 7950
-Port Jefferson 7962
-Mount Sinai 11623
-Mount Vision 171
-Savona 672
-Thendara 195
-Nunda 1169
-Lincolndale 1504
-Lincoln Park 2545
-Cattaraugus 960
-Whitney Point 960
-Rocky Point 13633
-East Shoreham 6841
-Shoreham 561
-Shorehaven 686
-Whitehall 2465
-Hall 202
-Valhalla 3213
-West Chazy 558
-West Carthage 1780
-Carthage 3236
-
-Fort Drum 15896
-Calcium 3573
-Manlius 4662
-Fabius 309
-Caroga Lake 548
-Kauneonga Lake 305
-Gilgo 185
-Virgil 298
-Pike 298
-Pine Hill 275
-McLean 378
-Olean 13937
-Salamanca 5929
+Melville 19284
+Wheatley Heights 5140
+Wyandanch 12990
 Gowanda 2513
+Tonawanda 15129
 
-Cheektowaga 76829
-Cherry Creek 409
-Fly Creek 270
-Sandy Creek 646
-Andes 189
-Schuyler Lake 189
-Schuylerville 1370
-Cuylerville 268
-Cumminsville 161
-Mongaup Valley 236
-Portlandville 177
-Portville 892
-Marathon 892
-Bath 5571
-Latham 13680
-Chatham 1529
-Clayville 339
-Pultneyville 817
-Mineville 1327
-Chautauqua 218
-Freedom Plains 438
-Pine Plains 1142
-Wainscott 904
-Port Byron 1101
-Tully 904
-Fulton 11389
-Fultonville 742
-Oyster Bay Cove 2265
-Oriskany Falls 658
-Oriskany 1315
-Waddington 937
-Tribes Hill 937
-Harris Hill 5839
-Williamsville 5423
-Williamson 2418
-Wilson 1247
-Tillson 1516
-Rosendale 1285
-Montrose 2862
-Rushville 651
-Parishville 642
-Parish 447
-Wells Bridge 279
+North Tonawanda 30496
+North Boston 2529
+Hamburg 9696
+New Hamburg 842
+Fairport 5501
+Elmira Heights 3916
+Huntington Bay 1446
+
+Huntington 19645
+
+Huntington Station 34878
+South Huntington 9561
+Lake Huntington 283
+Gainesville 211
 Voorheesville 2841
-Keeseville 2931
-Morrisonville 1893
-Jeffersonville 368
-Tannersville 568
+Wells Bridge 279
 Wells 531
 Groton 2145
-Milton 4663
-Northville (Fulton County) 993
-Broadalbin 1384
-
-Albany 99224
-Elba 558
-Albion 5637
-Medina 6047
-Middleport 1729
-
-Lockport 20876
-South Lockport 9355
-Brockport 7104
-Clarkson 4694
-Hamlin 5177
-York Hamlet 488
-Depauville 488
-Dannemora 3287
-Danby 506
-West Danby 211
-Deferiet 245
-Erin 367
-Sharon Springs 483
-Springwater Hamlet 518
-Bolton Landing 518
-Colton 348
-Cranberry Lake 174
-Athens 1586
-Theresa 752
-Witherbee 385
-Fishers Landing 119
-Poland 464
-Sand Ridge 992
-Bridgeport 1389
-Stannards 585
-Savannah 487
-Peru 1843
-Perry 3536
-Aurora 607
-East Aurora 5998
-Elma Center 2851
-
-West Seneca 45500
-Seneca Falls 6809
-Seneca Knolls 1992
-Country Knolls 5349
-Clifton Knolls-Mill Creek 3048
-East Glenville 11896
-East Greenbush 6266
-Green Island 2934
-Centre Island 407
-Fire Island 777
-Middle Island 10546
-Gordon Heights 3981
-
-Coram 40220
-Corinth 2562
-Winthrop 489
-Rouses Point 2195
-Kings Point 5619
-Sands Point 2712
-Thousand Island Park 96
-Clyde 2171
-Dryden 1887
-Port Leyden 554
-Ilion 7646
-Pavilion 664
-South Ilion 119
-South Lima 269
-Camden 2196
-Russell Gardens 978
-Forest Home 1168
-Homer 3210
-Brocton 1286
-Cohocton 703
-
-Cohoes 18147
-Roessleville 11518
-Loudonville 10296
-Menands 4554
-Zena 1038
-Woodstock 2521
-Woodsville 70
-Hurleyville 519
-Hannibal 535
-Hannawa Falls 975
-Westmoreland 390
-Cold Brook 250
-Rodman 152
-Sherman 649
-Germantown 1121
-Muttontown 3512
-
-Levittown 51758
-
-North Massapequa 17829
-
-Massapequa Park 17109
-
-East Massapequa 19854
-
-Massapequa 21355
-Cassadaga 573
-Accord 573
-Corning 10551
-Gang Mills 4261
-Weston Mills 1525
-Davenport Center 344
-Pawling 1995
-Wappingers Falls 6103
-Valley Falls 510
-
-Valley Stream 40634
-
-North Valley Stream 18197
-
-Elmont 35265
-Belmont 856
-Hancock 908
-Shenorock 1903
-Goshen 5777
-Mechanicstown 8065
-Scotchtown 10578
-Watchtower 1709
-Pine Bush 1751
-Pine Valley 832
-Little Valley 1058
-Little Falls 4605
-Herkimer 7234
-Westmere 7560
-Jamestown West 2652
-
-Jamestown 28712
-Falconer 2269
-Olcott 1072
-Wolcott 1556
-Endicott 13667
-Endwell 11762
-Wellsville 4587
-Houghton 1488
-
-Poughkeepsie 31577
-Pierrepont Manor 212
-Hillside 860
-Hillside Lake 1091
-Nassau Lake 1004
-Dexter 1004
-Alexander 518
-Alexandria Bay 924
-Mayfield 780
-Oakfield 1812
-Le Roy 4300
-Honeoye Falls 2706
-Lima 2094
-Harriman 2714
-
-Harrison 28218
-
-White Plains 59559
-Hartsdale 3377
-
-Scarsdale 18253
-Tuscarora 71
-Bemus Point 306
-Painted Post 1768
-Nelsonville 624
-Boonville 2020
-St. James 13487
-Ames 138
-Machias 505
-Apalachin 2632
-Napanoch 1131
-Middleburgh 1131
-Middleville 407
-
-Middletown 30345
-Saddle Rock 989
-Saddle Rock Estates 428
-McGraw 972
-Melrose Park 2141
-Bedford 1691
-Wynantskill 4050
-Catskill 3745
-Jefferson Heights 1122
-Saugerties 3899
-Saugerties South 2442
-
-Hauppauge 20083
-
-Commack 36536
-New Hackensack 1497
-St. Bonaventure 1963
-Ravena 3271
-Elizabethtown 746
-Gardiner 952
-Bridgeville 149
-Cambridge 1788
-Woodridge 747
-Madrid 736
-Florida 2888
-Akron 2888
-Celoron 1069
-Ghent 623
-Unadilla Forks 257
-Unadilla 1065
-Delevan 1043
-Geneva 12812
-Waterloo 4810
-
-Watertown 24685
-Chestertown 586
-Margaretville 514
-Fort Covington Hamlet 1127
-Oneida Castle 586
-Oneida 10329
-Oneonta 13079
-Honeoye 723
-Angelica 723
-Orange Lake 9770
-Oakdale 7430
-Wingdale 1051
-Moriches 3026
-East Moriches 5946
-Center Moriches 8046
-Manorville 14317
-Kysorville 104
-Mohawk 2415
-Schoharie 916
-Canajoharie 2037
-Johnstown 8204
-
-Amsterdam 18219
-
-Rotterdam 22968
+Grahamsville 360
+Tannersville 568
+Pottersville 359
+Franklin 258
+Hewlett Bay Park 494
+Schenevus 494
 
 Schenectady 67047
 
 Niskayuna 20787
 Scotia 7272
+Scotchtown 10578
+Watchtower 1709
+Pine Bush 1751
+Walden 6818
+Alden 2604
+Town Line 2334
+Jamestown West 2652
+
+Jamestown 28712
+Falconer 2269
+Mayville 1442
+Granville 2404
+Gorham 604
+Manorhaven 6956
+Shorehaven 686
+Shoreham 561
+Wolcott 1556
+Olcott 1072
+Endicott 13667
+Endwell 11762
+
+Johnson City 15343
+Munsons Corners 2814
 Scotts Corners 665
 Ruby 918
-Shrub Oak 2143
-East Syracuse 3078
+Atlantic Beach 1707
+East Atlantic Beach 2101
+Morris 486
+Morrisville 1633
+Castleton-on-Hudson 1477
+Croton-on-Hudson 8327
+Lido Beach 2719
+Ocean Beach 153
+Sylvan Beach 890
+Sound Beach 7416
+
+Centereach 30980
+
+Selden 21262
+
+Coram 40220
+Gordon Heights 3981
+Jefferson Heights 1122
+Hudson 5894
+Hudson Falls 7427
+Glens Falls 14830
+West Glens Falls 9473
+Glens Falls North 9530
+South Glens Falls 3744
+Angola 2046
+Chenango Bridge 2884
+Germantown 1121
+Pavilion 664
+Ilion 7646
+Port Leyden 554
+Dryden 1887
+Homer 3210
+Montgomery 3834
+Chaumont 615
+Chautauqua 218
+Mineville 1327
+Freedom Plains 438
+Natural Bridge 296
+Central Bridge 740
+Edmeston 592
+South Edmeston 137
+Preston-Potter Hollow 367
+Milford 367
+Guilford 322
+Oxford 1330
+Bedford 1691
+
+Medford 24247
+Bedford Hills 3239
+Ripley 852
+Black River 1232
+Great River 2005
+Barneveld 272
+Hemlock 455
+Mohawk 2415
+Kysorville 104
+Manorville 14317
+Center Moriches 8046
+Moriches 3026
+Wingdale 1051
+South Cairo 590
+Cairo 1368
+Durhamville 527
+East Durham 466
+Plessis 126
+Slaterville Springs 208
+Waterville 1473
+Jordan 1192
+Great Bend 807
+Bemus Point 306
+Nelsonville 624
+Jacksonville 516
+Livonia Center 417
+Livonia 1472
+Copenhagen 631
+Carthage 3236
+West Carthage 1780
+West Chazy 558
+West Elmira 4850
+
+Elmira 26523
+Horseheads 6606
+Cumberland Head 1735
+Glen Head 4837
+
+Glen Cove 28365
+Glenwood Landing 3948
+Greenwood Lake 2994
+Warwick 6652
+Hartwick 547
+Hartsdale 3377
+
+Scarsdale 18253
+Brinckerhoff 3377
+Kerhonkson 1722
+Leicester 440
+Chadwicks 1291
+East Randolph 571
+North Rose 571
+North Bay 374
+North Blenheim 54
+Remsen 431
+Remsenburg-Speonk 3110
+Fallsburg 1862
+Central Square 1862
+Panama 475
+Crest View Heights 1770
+Warsaw 3646
+Averill Park 2098
+
+Floral Park 16172
+South Floral Park 1741
+South Hempstead 3406
+
+West Hempstead 19835
+
+Hempstead 59169
+New Hempstead 5463
+New Square 9679
+
+New City 34135
+New Cassel 14199
+Cassadaga 573
+Accord 573
+Thendara 195
+Athens 1586
+Cranberry Lake 174
+Thomaston 2759
+Castorland 334
+Limestone 358
+Haines Falls 249
+Fillmore 596
+Altmar 357
+Argyle 289
+Hurleyville 519
+Woodsville 70
+Woodstock 2521
+Zena 1038
+Round Top 920
+Sparrow Bush 981
+Buchanan 2302
+Morristown 398
+Mount Morris 2898
+Avon 3399
+Lima 2094
+South Lima 269
+South Lansing 1078
+Red Hook 1975
+Red Creek 495
+Sunset Bay 470
+Fowlerville 163
+Clayville 339
+Pultneyville 817
+Cadyville 479
+Meridian 287
+MacDonnell Heights 1291
+Crown Heights 2872
+Myers Corner 10598
+South Corning 1108
+Lake Katrine 2522
+Lake Grove 11072
+
+Lake Ronkonkoma 18619
+
+Ronkonkoma 18955
+Bohemia 9852
+Bayport 8609
+Blue Point 5156
+Salt Point 202
+Coxsackie 2746
+New Hackensack 1497
+St. Bonaventure 1963
+North Haven 1162
+North Hornell 732
+Hornell 8263
+Hawthorne 4646
+Thornwood 3960
+Inwood 11340
+
+Woodmere 18669
+Westmere 7560
+
+Albany 99224
+Roessleville 11518
+Constableville 293
+Constantia 1109
+Lyon Mountain 421
+Mountain Dale 633
+Glasco 2013
+Otisville 969
+Victor 2744
+Victory 666
+Au Sable Forks 509
+Unadilla Forks 257
+Unadilla 1065
+Delevan 1043
+Oxbow 85
+Tuxedo Park 645
+Glen Aubrey 446
+Hewlett Neck 569
+Bolton Landing 518
+Fishers Landing 119
+Witherbee 385
+Wynantskill 4050
+Avoca 809
+South Ilion 119
+Fort Johnson 401
+St. Johnsville 1643
+Titusville 729
+Wampsville 573
+North Granville 524
+Hewlett Harbor 1290
+Chateaugay 735
+Chatham 1529
+Latham 13680
+Watervliet 10375
+Waterford 2038
+Stillwater 1754
+Holley 1754
+Country Knolls 5349
+Clifton Knolls-Mill Creek 3048
+Seneca Knolls 1992
+Seneca Falls 6809
+
+West Seneca 45500
+
+Lackawanna 19949
+
+Buffalo 278349
+Hampton Manor 5423
+Livingston Manor 1053
+Liberty 4700
+Lake Placid 2205
+Carle Place 5005
+Miller Place 11723
+Dover Plains 1322
+Andover 890
+Candor 786
+Randolph 1297
+Island Park 4928
+Thousand Island Park 96
+Clyde 2171
+Virgil 298
+Pike 298
+Plattekill 1296
+Gasport 1296
+Jamesport 1609
+Breesport 629
+Piffard 208
+Riverside (Steuben County) 423
+Skaneateles 2533
+Three Mile Bay 187
+Eagle Bay 54
+Milton (Ulster County) 1650
+Fairview (Westchester County) 3217
+
+Eastchester 20901
+
+Port Chester 31693
+Rye Brook 10047
+Cold Brook 250
+Westmoreland 390
+Rodman 152
+Mount Vision 171
+
+Mount Vernon 73893
+Pelham 7326
+Pelham Manor 5752
+
+New Rochelle 79726
+Larchmont 6630
+
+Mamaroneck 20151
+
+Rye 16592
+Sea Cliff 5062
+Chelsea Cove 1150
+Sloan 3775
+Harriman 2714
+Shinnecock Hills 2282
+Rock Hill 2369
+Fonda 668
+
+Uniondale 32473
+
+Roosevelt 18066
+Cleveland 732
+Groveland Station 246
+Grand View-on-Hudson 246
+Greenwich 1651
+Harbor Hills 562
+North Creek 562
+Westford 145
+Westfield 2910
+Oakfield 1812
+Mayfield 780
+Narrowsburg 379
+Wellsburg 490
+Springfield Center 336
+West Winfield 733
+Campbell 659
+Marion 1432
+Ontario 2215
+Lorenz Park 2001
+Orchard Park 3108
+Bay Park 2117
 Minetto 1262
 
 Mineola 20800
-Viola 8208
+Manhasset 8176
+Manhasset Hills 3649
+Wesley Hills 6116
+Hillcrest 8164
 
 Spring Valley 33066
-Hillcrest 8164
+
+Monsey 26954
+Nesconset 13207
+Amagansett 1824
+Port Dickinson 1699
+Greenvale 1069
+Greene 1463
+
+Binghamton 47969
+Apalachin 2632
+Machias 505
+Ames 138
+Malden-on-Hudson 365
+Hastings-on-Hudson 8590
+Dobbs Ferry 11541
+Perry 3536
+Aurora 607
+East Aurora 5998
+Elma Center 2851
+Pamelia Center 471
+Chazy 548
+Fabius 309
+Garrattsville 120
+Prattsville 384
+Sparkill 1581
+Palatine Bridge 796
+Phoenicia 268
+Phoenix 2226
+Radisson 7038
+Baldwinsville 7898
+
+Baldwin 33919
+Baldwin Harbor 8102
+
+Oceanside 32637
+
+Rockville Centre 26016
+Smithville Flats 303
+Parishville 642
+Parish 447
+Lyndonville 771
+Matinecock 847
+Prospect 248
+Speculator 406
+Schuylerville 1370
+Cuylerville 268
+Sinclairville 579
+Niverville 1508
+Captree 48
+Oak Beach-Captree 268
+Cragsmoor 433
+Smallwood 839
+Elwood 11426
+Baywood 7726
+
+Brentwood 62387
+Linwood 84
+Redwood 493
+Bloomingburg 1032
+South Blooming Grove 3973
+
+Kiryas Joel 32954
+Woodbury (Orange County) 11526
+Orange Lake 9770
+Oakdale 7430
+Copake Falls 181
+Mexico 1531
+Camden 2196
+Hillside 860
 West Hills 5385
 
 Dix Hills 26180
 
 Deer Park 28837
-Baywood 7726
-Elwood 11426
-
-Brentwood 62387
-Thornwood 3960
-Hawthorne 4646
-Briarcliff Manor 7569
-
-Ossining 27551
-Plessis 126
-Skaneateles 2533
-Busti 349
-Hammond 273
-Hammondsport 583
-Churchville 2091
-Richville 234
-Retsof 326
-Franklin 258
-Hewlett Bay Park 494
-Schenevus 494
-Pottersville 359
-Strykersville 682
-Herrings 116
-Union Springs 1075
-Shokan 1075
-Taconic Shores 547
-Hartwick 547
-Salisbury Mills 580
-DeKalb Junction 485
-Hopewell Junction 1330
-Galway 165
-Stillwater 1754
-Waterford 2038
-Watervliet 10375
-
-Troy 51401
-Noyack 4325
-Water Mill 2506
-East Hampton North 5377
-East Hampton 1517
-East Ithaca 3175
-Victor 2744
-Victory 666
-Au Sable Forks 509
-Constableville 293
-Dresden 293
-Cove Neck 293
-Brewerton 3907
-Brewster 2508
-Brewster Hill 1924
-Flower Hill 4794
-Munsey Park 2809
-Glen Park 452
-Walton Park 3907
-Williston Park 7591
-Nelliston 555
-Ellicottville 256
-Earlville 774
-
-Melville 19284
-South Huntington 9561
-
-Huntington Station 34878
-
-Huntington 19645
-Halesite 2527
-Greenlawn 13661
-Greenville (Greene County) 688
-Tuckahoe (Suffolk County) 1505
-Speculator 406
-Valatie 1785
-Captree 48
-Oak Beach-Captree 268
-Mastic Beach 14199
-Atlantic Beach 1707
-East Atlantic Beach 2101
-Addison 1561
-Mahopac 8932
-Copake 318
-Copake Falls 181
-Mexico 1531
-Callicoon 206
-Hemlock 455
-Bohemia 9852
-
-Ronkonkoma 18955
-
-Lake Ronkonkoma 18619
-Lake Grove 11072
-South Blooming Grove 3973
-
-Kiryas Joel 32954
-Dunkirk 12743
-Dundee 1690
-Van Etten 601
-North Lynbrook 747
-
-Lynbrook 20438
-East Rockaway 10159
-East Randolph 571
-North Rose 571
-MacDonnell Heights 1291
-Chadwicks 1291
-
-Hicksville 43869
-Jericho 14808
-New Cassel 14199
-Rensselaer 9210
-Laurens 185
-Laurel 1495
-Belfast 745
-Arkport 745
-Felts Mills 473
-Kennedy 473
-Nedrow 2095
-Lyncourt 4376
-Mattydale 6296
-Mattituck 4322
-Titusville 729
-Worcester 986
-East Worcester 327
-Millport 301
-Blodgett Mills 274
-Fort Montgomery 1627
-Montgomery 3834
-Prospect 248
-Lyon Mountain 421
-Mountain Dale 633
-Glasco 2013
-Colonie 7781
-Bergen 1208
-Liberty 4700
-Livingston Manor 1053
-Youngstown 1859
-Dering Harbor 50
-Asharoken 592
-Schaghticoke 527
-Durhamville 527
-East Durham 466
-West Hampton Dunes 126
-Slaterville Springs 208
-Piffard 208
-
-Buffalo 278349
-Kenmore 15205
-
-Eggertsville 15561
-
-Holtsville 18937
-
-Holbrook 26487
-Stony Brook 13467
-Head of the Harbor 1520
-Nesconset 13207
-Sunset Bay 470
-Fowlerville 163
-DeRuyter 408
-Flanders 5098
-Henderson 233
-Camillus 1222
-Marcellus 1745
-Marlboro 3699
-Willsboro Point 382
-Blue Point 5156
-
-Sayville 16569
-West Sayville 4872
-West Sand Lake 2616
-Saranac Lake 4887
-Potsdam 8312
-Adams 1633
-Waverly 4373
 Merritt Park 1647
-South Lansing 1078
-South Cairo 590
-Cairo 1368
-Fairport 5501
-Elmira Heights 3916
-
-Elmira 26523
-Montour Falls 1635
-Watkins Glen 1863
-South Glens Falls 3744
-Cazenovia 2767
-Ovid 534
-Scio 525
-Hunt 62
-Huntington Bay 1446
-Firthcliffe 5022
-Sea Cliff 5062
-Rhinecliff 380
-Rhinebeck 2697
-Heritage Hills 4511
-Owego 3654
-
-Oswego 16921
-SUNY Oswego 3451
-Otego 875
-Bliss 496
-Lisle 348
-Barnum Island 2590
-Plandome 1448
-Plandome Heights 1009
-Black River 1232
-Great River 2005
-North Great River 4266
-Bolivar 1010
-Tivoli 1012
-Sidney 3697
+Marcellus 1745
+Marcy 650
+Wyoming 377
 Gardnertown 4542
-Bedford Hills 3239
-Ripley 852
-Naples 931
-Wayland 1680
-Penn Yan 5056
-Spencer 719
-Spencerport 3685
-North Gates 9458
-Gates 4956
-Vails Gate 3368
-New Windsor 8882
-Windsor 907
-Windham 371
-Hadley 1124
-Holley 1754
-
-Saratoga Springs 28491
-Ballston Spa 5111
-North Ballston Spa 1376
-Port Washington North 3160
-
-Port Washington 16753
+Sagaponack 770
+Alfred 4026
+Bronxville 6656
+New York Mills 3244
+Fair Haven 760
+Bergen 1208
+Colonie 7781
+Madrid 736
 Washington Mills 1219
-Clayton 1705
+Weston Mills 1525
+Davenport Center 344
+Angola on the Lake 1481
 South Dayton 541
-Gorham 604
-Hamilton 4107
-Canastota 4556
-Minoa 3657
-Sloan 3775
-Lodi 254
-Antwerp 506
-Verplanck 1535
-
-Peekskill 25431
-Crompond 2330
-Lake Mohegan 5896
-Allegany 1544
-Belle Terre 808
-Terryville 11472
-Cadyville 479
-Meridian 287
-Kerhonkson 1722
-Leicester 440
-Grahamsville 360
-Wampsville 573
-Otisville 969
-Cuba 1517
-Woodbury (Nassau County) 9335
-Riverside (Suffolk County) 2882
-Rapids 1584
-Leeds 429
-Weedsport 1788
-Breesport 629
-Jamesport 1609
-Gasport 1296
-Panama 475
-Crest View Heights 1770
-Yorktown Heights 1884
-Jefferson Valley-Yorktown 14444
-Mount Kisco 10959
-Elmsford 5239
-Brinckerhoff 3377
+Clayton 1705
 
 Yonkers 211569
 Tuckahoe 7084
-Hastings-on-Hudson 8590
-Dobbs Ferry 11541
-Tappan 6673
+Mattituck 4322
+Mattydale 6296
+Lyncourt 4376
 
-Pearl River 16567
-Chestnut Ridge 10505
-Stone Ridge 1234
-Bridgewater 516
-Jacksonville 516
-Malden-on-Hudson 365
-Cornwall-on-Hudson 3075
-Cold Spring 1986
-Richfield Springs 1050
-Bloomfield 1277
-Newfield Hamlet 725
-Amenia 725
-Kiamesha Lake 320
+Syracuse 148620
+North Syracuse 6739
+North Sea 5461
+Montour Falls 1635
+Watkins Glen 1863
+Trumansburg 1714
+Ogdensburg 10064
+Warrensburg 3045
+Whitehall 2465
+Cape Vincent 699
+Ticonderoga 3250
+Clinton 1683
+Keeseville 2931
+Dannemora 3287
+Depauville 488
+Salem 811
+Millbrook 1455
+Maybrook 3150
+Beaver Dam Lake 2609
+Putnam Lake 3776
+Peach Lake 1885
+Long Lake 596
+Round Lake 828
+Verona 828
+Great Neck Gardens 1268
+Mill Neck 1054
+Otego 875
+Bliss 496
+DeRuyter 408
+Pierrepont Manor 212
+Briarcliff Manor 7569
+
+Ossining 27551
+Upper Nyack 2015
+Nyack 7265
+South Nyack 2699
+West Nyack 3649
+Bardonia 4249
+Caledonia 2080
+Hopewell Junction 1330
+Galway 165
+Retsof 326
+Burke 160
+Hunt 62
+Hunter 429
+Odessa 517
+Callicoon 206
+Big Flats 5555
+Monroe 9343
+Fairview (Dutchess County) 5475
+Brushton 443
+Rushville 651
+Theresa 752
+Montrose 2862
+Hagaman 1117
+Lisle 348
+Colton 348
+Altona 662
+Willsboro Point 382
+Florida 2888
+Akron 2888
 
 Utica 65283
-Castile 970
-Mechanicville 5163
-Canisteo 2176
-Lorenz Park 2001
-Orchard Park 3108
-Fort Edward 3108
-Ontario 2215
+Herkimer 7234
+East Herkimer 787
+East Avon 618
+Valatie 1785
+Lewiston 2531
+New Paltz 7324
+Laurel 1495
+Laurel Hollow 1940
+
+Syosset 19259
+Muttontown 3512
+
+Levittown 51758
+North Wantagh 11931
+
+Wantagh 18613
+
+Seaford 15251
+
+Massapequa 21355
+
+Massapequa Park 17109
+
+East Massapequa 19854
+
+North Massapequa 17829
+
+Bethpage 16658
+Old Bethpage 6403
+Cold Spring 1986
+New Windsor 8882
+Vails Gate 3368
+
+Newburgh 28856
+Balmville 3197
+Beacon 13769
+Lacona 657
+Taconic Shores 547
+Peconic 692
+
+Troy 51401
+West Sand Lake 2616
+Rensselaer 9210
+
+Rotterdam 22968
+
+Amsterdam 18219
+Johnstown 8204
+Mechanicstown 8065
+
+Middletown 30345
+Middle Island 10546
+Rocky Point 13633
+Sands Point 2712
+Rouses Point 2195
+Mahopac 8932
+Cherry Valley 467
+Mooers 451
+Winthrop 489
+Corinth 2562
+
+Saratoga Springs 28491
+Herrings 116
+Westernville 144
+Amenia 725
+Brasher Falls 674
+Little Falls 4605
+Honeoye Falls 2706
+Honeoye 723
+Angelica 723
+Sodus 1667
+Locust Valley 3571
+Pleasant Valley 1603
+Katonah 1603
+Van Etten 601
+Chittenango 4896
+Minoa 3657
+Manlius 4662
+De Witt 11247
+Nedrow 2095
+
+Auburn 26866
+Sherburne 1360
+Montebello 4507
+Monticello 7173
 Poestenkill 1020
+Croghan 639
+Tupper Lake 3282
+Schuyler Lake 189
+Greigsville 191
+Andes 189
 Hankins 129
 Yaphank 5974
 
-Medford 24247
-Brookhaven 3330
-Millbrook 1455
-Salem 811
-Brooktondale 261
-Hoosick Falls 3216
-Three Mile Bay 187
-Eagle Bay 54
-Chazy 548
-Groveland Station 246
-Grand View-on-Hudson 246
-Grandyle Village 4805
-
 Niagara Falls 48671
-Brasher Falls 674
-Keuka Park 1130
+South Fallsburg 2347
+Sidney 3697
+Firthcliffe 5022
+Tivoli 1012
 
-Floral Park 16172
-South Floral Park 1741
+Freeport 44472
+Newport 543
+Delanson 335
+Belle Terre 808
+Allegany 1544
+Mongaup Valley 236
+Cumminsville 161
+Windham 371
+Hadley 1124
+Corfu 689
+
+Commack 36536
+Greenlawn 13661
+Halesite 2527
+
+Rome 32127
+Lake Delta 2757
+Lake Luzerne 1336
+Valhalla 3213
+Hall 202
+Deferiet 245
 
 Franklin Square 30903
-Town Line 2334
-Newfane 3662
-North Collins 1247
-
-Irondequoit 51043
-Greece 14429
+Franklinville 1652
+Pittsford 1419
+Stamford 1040
+Philadelphia 1098
+Mechanicville 5163
+Elba 558
+Loch Sheldrake 1025
+Eldred 212
+West Hurley 1917
+Hobart 351
+Dalton 351
 Hilton 6027
-Webster 5651
-
-Syosset 19259
-Laurel Hollow 1940
-Preston-Potter Hollow 367
-Limestone 358
-East Herkimer 787
-Plattekill 1296
-Cobleskill 4173
-Altamont 1675
-New Baltimore 546
-New Paltz 7324
-Delhi 2721
-Thiells 5240
-Valley Cottage 9038
+Greece 14429
+Hamlin 5177
+Fort Covington Hamlet 1127
+Oneida Castle 586
+Roscoe 497
 
 Nanuet 18886
+Chestnut Ridge 10505
 
-Roosevelt 18066
-Cleveland 732
+Pearl River 16567
+Viola 8208
+Pomona 3824
+Thiells 5240
+West Haverstraw 10678
+Haverstraw 12323
+Congers 8532
+Wappingers Falls 6103
+Pawling 1995
+Blasdell 2539
+Pulaski 2186
+Friendship 1085
+Kinderhook 1170
+
+Port Washington 16753
+Port Washington North 3160
+Roslyn 2988
+Lake Success 2828
+Lakeview 6077
+Canisteo 2176
 Rushford 351
-Brushton 443
-Big Flats 5555
-Smithville Flats 303
-Lyndonville 771
-Candor 786
-Woodbury (Orange County) 11526
-Riverside (Steuben County) 423
-Burke 160
-Trumansburg 1714
-Port Jervis 8775
-Maybrook 3150
-Bronxville 6656
-Alfred 4026
-Sagaponack 770
-Akwesasne 4527
-Gouverneur 3526
-Lake Luzerne 1336
-Lake Erie Beach 3467
-Silver Creek 2617
-Remsenburg-Speonk 3110
-Clarence Center 2605
-West Hurley 1917
-Lewiston 2531
-Shinnecock Hills 2282
-Arcade 1908
-Cato 517
-Avoca 809
-St. Johnsville 1643
-Greigsville 191
+Elmsford 5239
+Pleasantville 7513
+Armonk 4495
+Valley Cottage 9038
+St. James 13487
+Dundee 1690
+Unionville 592
+Asharoken 592
+Lakewood 3002
+Malone 5483
+Saugerties South 2442
+Crugers 1627
+Schaghticoke 527
+Fort Montgomery 1627
+Barnum Island 2590
+Painted Post 1768
+Blodgett Mills 274
+Ovid 534
+Lodi 254
+Oneonta 13079
+West End 1864
+West Hampton Dunes 126
 Golden's Bridge 1628
-Sanborn 1553
+Hannibal 535
+Corning 10551
+Penn Yan 5056
+Palmyra 3305
+Port Jervis 8775
+Goshen 5777
+Shenorock 1903
+Waverly 4373
+Adams 1633
+Mountain Lodge Park 1910
+Delhi 2721
+Belfast 745
+Deposit 1387
 Point Lookout 1527
-Crystal Beach 627
-Newport 543
-Odessa 517
-Mooers 451
-Lake Huntington 283
+Potsdam 8312
+Canton 7155
+Gouverneur 3526
+Vernon 1177
+Manchester 1640
+Varna 767
+Horseheads North 2761
+North Collins 1247
+Wanakah 3137
+Kaser 5491
 Lorraine 139
+Saranac Lake 4887
+Akwesasne 4527
+Wellsville 4587
+Noyack 4325
+Water Mill 2506
+Bridgewater 516
+Plandome Heights 1009
+Sanborn 1553
+Copake 318
+Ghent 623
+Celoron 1069
+Holland Patent 416
+Savona 672
+Marlboro 3699
+Altamont 1675
+Camillus 1222
+Sleepy Hollow Lake 1153
+Tuscarora 71

@@ -1,37 +1,22 @@
 
 
 Baghdad 7216000
-Baqubah 152550
-Khalis 70046
-Al Mishkhab 23189
-Ash Shamiyah 57661
-Nahiyat Ghammas 30909
-Nahiyat ash Shinafiyah 22643
+Balad 42088
+
+Karbala 434450
 Nahiyat Saddat al Hindiyah 30622
 Al Hindiyah 57490
 Al Hillah 289709
 Imam Qasim 36992
 Umm Qasr 107620
+Az Zubayr 122676
 
 Basrah 2600000
-Az Zubayr 122676
-Bayji 36454
-Balad 42088
+Sinjar 38294
 
-Karbala 434450
-'Ali al Gharbi 19711
-Al Hayy 78272
-Al Kut 315162
-Al Faw 104569
-Nahiyat al Fuhud 21551
-Nasiriyah 400249
-Ash Shatrah 82732
-As Samawah 152890
-Rawah 13000
-'Anah 27000
-Sinah 128776
-Dihok 284000
-Ramadi 274539
+Mosul 1739800
+Bayji 36454
+Tikrit 42477
 Samarra' 158508
 Al 'Amarah 323302
 Al 'Aziziyah 44751
@@ -40,37 +25,52 @@ As Suwayrah 42354
 As Sulaymaniyah 723170
 Baynjiwayn 27116
 Halabjah 57333
-Jamjamal 75634
+Kifri 30143
+Tuz Khurmatu 59886
 
 Kirkuk 601433
-Kifri 30143
-Batifa 26000
-Zaxo 95052
-Hadithah 30925
 Hit 31901
-Tikrit 42477
-Tuz Khurmatu 59886
-Abu Ghurayb 269000
+Hadithah 30925
+Ar Rumaythah 47248
+As Samawah 152890
+Nahiyat Ghammas 30909
+Nahiyat ash Shinafiyah 22643
+Ash Shamiyah 57661
+Ash Shatrah 82732
+Nasiriyah 400249
+Nahiyat al Fuhud 21551
+Al Faw 104569
 Al Fallujah 190159
+Abu Ghurayb 269000
+Al Musayyib 42901
+Al Mishkhab 23189
+Al Miqdadiyah 50698
+Baqubah 152550
+Khalis 70046
 Ad Dujayl 26362
 Ad Diwaniyah 318801
 'Afak 21888
-
-Najaf 482576
-Kufa 110000
-Sinjar 38294
-
-Mosul 1739800
-Tallkayf 23524
-Al-Hamdaniya 50000
+Al Kut 315162
+Al Hayy 78272
+'Ali al Gharbi 19711
 
 Erbil 932800
 Koysinceq 44987
 Ruwandiz 22943
-Mandali 29785
-Al Miqdadiyah 50698
 Soran 125000
 'Aqrah 23000
-Ar Rumaythah 47248
+Al-Hamdaniya 50000
+Tallkayf 23524
+Sinah 128776
+Dihok 284000
+Batifa 26000
+Zaxo 95052
+
+Najaf 482576
+Kufa 110000
+Ramadi 274539
+Jamjamal 75634
+Mandali 29785
+'Anah 27000
+Rawah 13000
 Ar Rutbah 22370
-Al Musayyib 42901

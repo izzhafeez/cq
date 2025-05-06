@@ -1,6 +1,221 @@
 
 
 Port Blair 108058
+School Line part 498
+
+Pahargaon part 3303
+Brookshabad part 425
+Beadnabad 782
+
+Teylorabad 1878
+Craikabad 167
+Tusnabad 1320
+Caddlegunj 845
+Ferrargunj 1314
+
+Dollygunj 3950
+
+Brichgunj 3412
+Nayashahar 425
+Sanaya 0
+Nayagarh 330
+Abaygarh 59
+Sundergarh 764
+Kanchangarh 243
+Raglachang 184
+Rangachang 384
+
+Calicut 4033
+Banderkari/Pulu 23
+Chanel/Chanol 13
+Changua/Changup 146
+Alukian/Alhukheck 46
+Olinpon/Alhinpon 0
+Dogmar River 0
+Galathia River 0
+Alexandera River 47
+Joginder Nagar 693
+Gandhi Nagar 69
+Laxmi Nagar 230
+Kishori Nagar 1328
+Khudirampur 1328
+Rampur 1349
+Parnasala 1004
+Parnasala II 0
+Charlungta II 26
+Charlungta 33
+Sagwan Nallaha 45
+Kanchi Nallaha & Bamboo Nallaha 93
+Pather Tikry 18
+Gora Tikry 0
+Bamboo Tikry 5
+
+Kadamtala 3008
+Yeratiljig No. 11 1
+Porlobjig No. 15 27
+Shompen Village-A 10
+Shompen Village-B 44
+Lawful 20
+Pulomilo 20
+Pulobha/Pulobahan 52
+Pulloullo/Puloulo 81
+Pulopanja 75
+Pulopucca 0
+Kalsi No. 3 0
+Kalsi No. 6 0
+Kalsi No. 4 0
+Porlobjig No.9 0
+Porlobjig No.10 0
+Jirkatang No. 2 0
+Jirkatang No.2 304
+Kalatang 116
+Wright Myo 668
+Malapuram 617
+Knapuram 1317
+Govindapuram 520
+
+Govinda Nagar 2904
+Radha Nagar 902
+Swarajgram 940
+Milangram 905
+
+Subhashgram 2605
+Deshbandhugram 638
+
+Ramakrishnagram 3221
+Krishnapuri 355
+
+Ramakrishnapur 4248
+
+Rabindra Nagar 2108
+Ramachandra Nagar 28
+Asha Nagar 29
+Profullya Nagar 458
+Paresh Nagar 523
+Swadesh Nagar 956
+Santipur 1120
+Jaipur 543
+Basantipur 413
+Santanu 1202
+Uttara 1164
+Foul Bay 17
+Shoal Bay 1373
+Shoal Bay 17 0
+Shoal Bay 19 0
+Aerial Bay 820
+Keralapuram 647
+Vidyasagarpalli 1127
+Rabindrapalli 317
+
+Sitanagar 2227
+Sitanagar, 101
+Sitapur 333
+Desharatpur 766
+Bharatpur 629
+Ram Nagar 755
+Shyam Nagar 906
+Bejoy Nagar 1099
+Krishna Nagar 769
+Lakshmanpur 382
+Manpur 753
+Colinpur 449
+Temple Myo 346
+Thoraktang 346
+Karmatang 1229
+Karmatang IX 99
+Karmatang X incl.Bihari Plot 339
+Hoin incl. Ikuia 0
+Tapong incl. Kabila 270
+Pilpilow 282
+Daring 115
+
+Harinagar 1902
+Pinakinagar 1011
+Ramnagar 1235
+Jagannath Dera 230
+Beach Dera 100
+Vijoy Nagar 100
+Mile Tilek & Mile Tilek 411
+Mannarghat 1259
+
+Kalighat 1759
+Kalipur 545
+
+Diglipur 3797
+Laxmipur 1234
+
+Madhupur 2523
+Madhuban 0
+Madhyamgram 136
+
+Nabagram 2208
+Nischintapur 164
+Chingen 12
+Dharmapur 388
+Chidiyatapu 388
+
+Bimilitan & Kodiyaghat 2519
+Sippighat 1522
+Balughat 3
+Mohwa Dera 14
+Papita Dera 2
+Manjeri & Line Dera 613
+Guptapara 936
+Tapani/Tapainy 0
+Kulatapangia 0
+Kapanga 0
+
+Rangat 3784
+Mithila 692
+Smith 260
+Sagar Dweep 337
+Shibpur 771
+Strait Island 39
+Long Island 1028
+Tillang Chong Island 38
+East Island 16
+Stewart Island 2
+Curlew Island 2
+Interview Island 15
+North Sentinel Island 15
+Sastri Nagar 15
+Netaji Nagar 1001
+
+Vivekanandapuram 2190
+
+Hut Bay 7075
+Paiket Bay 154
+Cutbert Bay 238
+Kamalapur 258
+Urmilapur 205
+Kalsi 354
+Laxmanpur 348
+
+Bakultala 2741
+
+Nimbutala 3063
+Amkunj 548
+Shyamkund 294
+Vishnupur 159
+Sabari 1018
+Pongi Balu & Bada Balu 12
+Al-Hit-Touch/Balu Basti 91
+Muslim Basti 343
+Ograbraij 1467
+Hobdipur 476
+Alipur 50
+Mathura 801
+Dukennagar 801
+
+Bindraban 1785
+Hindra 0
+W.B.Katchal/Hindra 0
+Neil Kendra 1000
+Janakpur 1000
+Kimois 382
+Kokeon 20
+
+Campbell Bay 5736
 North Bay 1603
 Hope Town 1258
 
@@ -9,400 +224,185 @@ Dundas Point 539
 
 Namunaghar 1926
 Mithakhari 1071
-Smith 260
-Mithila 692
-Urmilapur 205
-Malapuram 617
-Knapuram 1317
-Govindapuram 520
-Govindpur 767
-Paresh Nagar 523
-Asha Nagar 29
+Dhanikhari 714
+Homfreygunj 424
 
-Harinagar 1902
-Pinakinagar 1011
-Chota Inak 237
+Manglutan 2280
+Chongkamong 150
+Chonghipoh 0
+Hoipoh 0
+Alkaipoh/Alkripoh 0
+Alhitoth/Alhiloth 0
+Alhiat 190
+Tahaila 377
+Kuitasuk 277
+Raihion 276
+Aloorang 271
+Kalasi 335
+Kanahinot 60
+Kakana 841
+Malacca 1637
 
-Kamorta/Kalatapu 1885
-Kalatang 116
-Jirkatang No.2 304
-Jirkatang No. 2 0
-Kalsi No. 3 0
-Kalsi No. 6 0
-Kalsi No. 4 0
-Porlobjig No.9 0
-Porlobjig No.10 0
-Porlob Depot. 0
-Dogmar River 0
-Galathia River 0
-Alexandera River 47
-Joginder Nagar 693
-Gandhi Nagar 69
-Laxmi Nagar 230
-Kishori Nagar 1328
-Sastri Nagar 15
-North Sentinel Island 15
-Long Island 1028
-Sabari 1018
-Abaygarh 59
-Nayagarh 330
+Perka 2527
+Tamaloo 1515
+Aloora 0
+Bajato 30
+Pudumadurai 404
+Chainpur 484
+Danpur 798
+Mohanpur 513
+Austin II 226
+Austin Creek 0
+Wrafter's Creek 220
 Rajatgarh 212
-Kanchangarh 243
-Raglachang 184
-Rangachang 384
-
-Rangat 3784
-Sitapur 333
-Sitanagar, 101
-
-Sitanagar 2227
-Rabindrapalli 317
-Vidyasagarpalli 1127
-Sagar Dweep 337
-Aerial Bay 820
-Shoal Bay 1373
-Shoal Bay 17 0
-Shoal Bay 19 0
-Foul Bay 17
+Bejoygarh 299
+Udhaygarh 64
+Nilambur 1498
+Khatta Khari 108
+Adojig 732
 Macarthy Valley 142
 Foster Valley 70
 Boreham Valley 0
 Jermyvalley 0
-Manjeri & Line Dera 613
-Guptapara 936
-Paranghara 463
-Karan/Karav 0
-Kalara 0
-Kalasi 335
-Kanahinot 60
-Knot 9
-Ramzoo 98
-
-Ramakrishnagram 3221
-Krishnapuri 355
-
-Subhashgram 2605
-Deshbandhugram 638
-
-Madhupur 2523
-Madhuban 0
-Madhyamgram 136
-
-Nabagram 2208
-Milangram 905
-Swarajgram 940
-Radha Nagar 902
-
-Rabindra Nagar 2108
-
-Bindraban 1785
-Ferrargunj 1314
-Caddlegunj 845
-Aniket 129
-Paiket Bay 154
-Cutbert Bay 238
-
-Hut Bay 7075
-Netaji Nagar 1001
-
-Ramakrishnapur 4248
-
-Vivekanandapuram 2190
-Shivapuram 878
-Padmanabhapuram 659
-Panchawati 952
-Thiruvanchikulam 256
-Tirur 233
-Durgapur 1320
-Tusnabad 1320
-Beadnabad 782
-
-Teylorabad 1878
-Craikabad 167
-Ograbraij 1467
-Muslim Basti 343
-Mus 1553
-Kinmai 574
-Sawai 1247
-Teetop 522
-Itoi 181
-Al-Hit-Touch/Balu Basti 91
-Pongi Balu & Bada Balu 12
-Chingen 12
-Chidiyatapu 388
-Okiya/Chiya 0
-Kiyang 0
-Patatiya 0
-Lapat 0
-Big Lapati 1098
-Small Lapati 938
-Malacca 1637
-Tamaloo 1515
-Aloorang 271
-Aloora 0
-Borang 140
-Mohanpur 513
-Danpur 798
-
-Pokadera 1922
-
-Mayabunder 2845
-Sundergarh 764
-Udhaygarh 64
-Bejoygarh 299
-Bejoy Nagar 1099
-Shyam Nagar 906
-Krishna Nagar 769
-Ram Nagar 755
-Bharatpur 629
-Desharatpur 766
-Rampur 1349
-Parnasala 1004
-Parnasala II 0
-Charlungta II 26
-Charlungta 33
-Boroinyol II 10
-Shompen Village-A 10
-Sagwan Nallaha 45
-Kanchi Nallaha & Bamboo Nallaha 93
-Lauki Nallaha 745
-Swadesh Nagar 956
-Santipur 1120
-Jaipur 543
-Basantipur 413
-Profullya Nagar 458
-Kaushalyanagar 1215
-Saktigarh 707
-
-Bakultala 2741
-Laxmanpur 348
-Manpur 753
-Colinpur 449
-Chainpur 484
-Pudumadurai 404
-Wandur 1437
-Kondul 0
-Hakonhala 0
-Pahalgaon 1468
-
-Pahargaon part 3303
-School Line part 498
-Brookshabad part 425
-Nayashahar 425
-Sanaya 0
-Payak 0
-Mapayala 0
-Chonsiyala 0
-Jansin 0
-Hanspuri 265
-Bajato 30
-Jagannath Dera 230
-Ramnagar 1235
-Ramachandra Nagar 28
-Kinyuka 1120
-Minyuk 305
-Kuitasuk 277
-Alhiat 190
-Tahaila 377
-Kapila 0
-Pilpilow 282
-Champin 143
-Chanel/Chanol 13
-Changua/Changup 146
-Alukian/Alhukheck 46
-Chukmachi 237
-Chuckchucha 1021
-Tapoiming 941
-Tapong incl. Kabila 270
-Tillang Chong Island 38
-East Island 16
-Strait Island 39
-Stewart Island 2
-Curlew Island 2
-Interview Island 15
-Mohwa Dera 14
-Papita Dera 2
-Munda Pahar 2
-Badmash Pahar 728
-Port Mouat 475
-Mount Harriet 0
-Dhanikhari 714
-Homfreygunj 424
-
-Dollygunj 3950
-
-Brichgunj 3412
-
-Calicut 4033
-Nyicalang 0
 Spike Island 0
 Viper Island 0
 Aves Island 2
-Rutland 76
-Hitlat 0
-Lataw 456
-Karmatang 1229
-Karmatang IX 99
-Karmatang X incl.Bihari Plot 339
-Hoin incl. Ikuia 0
-Austin II 226
-Austin Creek 0
-Wrafter's Creek 220
-Khatta Khari 108
-Uttara 1164
-Santanu 1202
-Bamboo Tikry 5
-Nilambur 1498
+Munda Pahar 2
+Badmash Pahar 728
+Port Mouat 475
 
-Nimbutala 3063
-Amkunj 548
-Shyamkund 294
-Vishnupur 159
-Shibpur 771
-Kalipur 545
+Chouldari 2382
 
-Diglipur 3797
-Laxmipur 1234
-Alipur 50
-Mathura 801
-Dukennagar 801
-Kadakachang 538
+Garacharma 14419
+
+Prothrapur 10308
+
+Tugapur 1872
+Durgapur 1320
+Aniket 129
+Herbertabad 369
+Tirur 233
 
 Bambooflat 7962
 Stewartgunj 1172
 
 Wimberlygunj 4010
-Mannarghat 1259
-
-Kalighat 1759
-Sippighat 1522
-
-Bimilitan & Kodiyaghat 2519
-
-Garacharma 14419
-Dharmapur 388
-Kamalapur 258
-Keralapuram 647
-
-Tugapur 1872
-Chuglum Gum 131
-
-Manglutan 2280
-Chongkamong 150
-Ongulongho 0
-Chonghipoh 0
-Hoipoh 0
-Alkaipoh/Alkripoh 0
-Alipa/Alips 0
-Bengali 354
-Kalsi 354
-Alsama 0
+Kadakachang 538
+Makhahu/Makachua 47
+Pattia 11
+Inlock/Pattia 0
+Inlock/Infock 0
+Porlob Depot. 0
 Yeratiljig No. 10 0
-Yeratiljig No. 11 1
-Porlobjig No. 15 27
-Luis-in-Let-Bay 10
-In-Hig-Loi 0
-Hindra 0
-W.B.Katchal/Hindra 0
-Neil Kendra 1000
-Janakpur 1000
-Lakshmanpur 382
-Kimois 382
-Tavinkin/Tavakin 0
-Trinket 0
-Daring 115
-Banderkari/Pulu 23
-
-Perka 2527
-Kakana 841
-Arong 1194
-Hontona 0
-Olinpon/Alhinpon 0
-Kavatinpeu/Karahinpoh 0
 John Lawrance 0
-Lawful 20
-Pulloullo/Puloulo 81
-Pulobha/Pulobahan 52
-Pulopanja 75
-Pulomilo 20
-Pulobaha 0
-Pulobhabi 0
-Pulopucca 0
-Pulokunji 0
-Manjula 0
+Mount Harriet 0
+
+Mayabunder 2845
+
+Pokadera 1922
+Bompoka Island 0
+Cinque Island 0
+Rutland 76
+Hashmatabad 626
+Wandur 1437
+Maymyo 406
+
+Kamorta/Kalatapu 1885
+Champin 143
+Hinnunga 124
+Itoi 181
+Ramzoo 98
+Knot 9
+Chukmachi 237
+Chota Inak 237
+Luxi 149
+Minyuk 305
+Kinyuka 1120
+Lauki Nallaha 745
+Thiruvanchikulam 256
+Panchawati 952
+Padmanabhapuram 659
+Shivapuram 878
+Bengali 354
+Kaushalyanagar 1215
+Saktigarh 707
+Boroinyol II 10
+Mus 1553
+Kinmai 574
+Small Lapati 938
+Big Lapati 1098
+Lapat 0
+Pahalgaon 1468
+Webi 654
+Lataw 456
+Devpur 609
+Lucknow 874
+Chuglum Gum 131
+Hanspuri 265
+Govindpur 767
+Sawai 1247
+Teetop 522
+Arong 1194
+Chuckchucha 1021
+Tapoiming 941
+Paranghara 463
+Borang 140
+Enam 223
+Luis-in-Let-Bay 10
 Anul/Anula 8
 Jhoola 4
 Bewai/Kuwak 4
 Sonomkuwa 0
-Akupa 0
-Kupinga 0
-Kapanga 0
-Kulatapangia 0
-Tapani/Tapainy 0
-Tani 0
-Thoraktang 346
-Herbertabad 369
-Hashmatabad 626
-Maymyo 406
-Wright Myo 668
-Temple Myo 346
-Mile Tilek & Mile Tilek 411
-Beach Dera 100
-Vijoy Nagar 100
-
-Govinda Nagar 2904
-Khudirampur 1328
-Nischintapur 164
-Vyavtapu 0
-Tapiang 0
-Hokesiang 0
-Kokeon 20
-Hockook 0
-Inlock/Infock 0
-Inlock/Pattia 0
-Pattia 11
-Pather Tikry 18
-Gora Tikry 0
-
-Prothrapur 10308
-Alhitoth/Alhiloth 0
-Elahi/Ilhoya 0
-Olinchi/Bombay 0
-Bompoka Island 0
-Cinque Island 0
-Minlana/Minlan 0
 Inroak/Chinlak 1
-
-Kadamtala 3008
-Adojig 732
-
-Campbell Bay 5736
-Shompen Village-B 44
-Makhahu/Makachua 47
-Hutnyak 0
-
-Chouldari 2382
-Balughat 3
-Safedbalu 0
-Altaful 0
-Lucknow 874
-Devpur 609
-Webi 654
-Hobdipur 476
-Raihion 276
-Enam 223
-Luxi 149
-Hinnunga 124
-Kasintung 0
+Minlana/Minlan 0
+Pulobaha 0
+Pulobhabi 0
+Pulokunji 0
+In-Hig-Loi 0
+Patatiya 0
 Koe 0
+Kasintung 0
 Kopenheat 0
-Pea 0
-Neang 0
 Renguang 0
 Dairkurat 0
+Kondul 0
 Pehayo 0
+Elahi/Ilhoya 0
+Olinchi/Bombay 0
+Hokesiang 0
+Tapiang 0
+Pea 0
+Kiyang 0
+Okiya/Chiya 0
+Akupa 0
+Kapila 0
+Trinket 0
+Hockook 0
+Nyicalang 0
 Maru 0
+Karan/Karav 0
+Kavatinpeu/Karahinpoh 0
+Manjula 0
 Alreak 0
+Neang 0
+Payak 0
+Mapayala 0
+Chonsiyala 0
+Alipa/Alips 0
+Kupinga 0
+Alsama 0
+Altaful 0
 Halnatai/Hoinatai 0
+Tavinkin/Tavakin 0
+Hakonhala 0
+Tani 0
+Vyavtapu 0
+Hontona 0
+Ongulongho 0
+Hutnyak 0
 Kamriak 0
 Kumikia 0
+Hitlat 0
+Jansin 0
+Safedbalu 0
+Kalara 0

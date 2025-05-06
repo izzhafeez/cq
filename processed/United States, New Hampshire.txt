@@ -1,10 +1,67 @@
 
 
 Manchester 115644
-Chester 5232
-Winchester 1606
-Sutton 1978
-Eaton 405
+Pinardville 5034
+Danville 4408
+Franconia 1083
+Suncook 5501
+Contoocook 1427
+Greenville 1074
+Troy 1108
+North Walpole 785
+Walpole 573
+Milton 593
+Milton Mills 313
+Tilton 3962
+Tilton Northfield 3324
+Northfield 4872
+Northwood 4641
+
+Durham 11147
+New Durham 2693
+Epping 2693
+Hill 1017
+Jefferson 1043
+Jackson 1028
+Lempster 1118
+
+Hampstead 8998
+South Hampton 894
+North Haverhill 843
+Plainfield 178
+Brookfield 755
+Seabrook 8401
+
+Hampton 9597
+North Hampton 4538
+Greenland 4067
+Rye 5543
+
+Portsmouth 21956
+Plymouth 4730
+South Hooksett 5888
+Hooksett 5283
+Pembroke 7207
+Allenstown 4707
+Goffstown 3366
+Randolph 328
+Andover 2406
+Hinsdale 1485
+Lincoln 969
+Center Harbor 1040
+Temple 1382
+Henniker 3166
+Bennington 338
+Washington 1192
+Dummer 306
+Bath 1077
+Charlestown 1078
+Francestown 1610
+New Boston 6108
+Easton 292
+East Kingston 2441
+Marlborough 1066
+Lyndeborough 1702
 Benton 374
 Sanbornton 3026
 Bradford 372
@@ -13,274 +70,217 @@ Ellsworth 93
 Somersworth 11855
 
 Dover 32741
-Andover 2406
-Randolph 328
-Sandown 6548
 
-Derry 22879
-East Merrimack 5176
+Hanover 9078
 
-Merrimack 26632
-Litchfield 8478
-Northfield 4872
-Tilton Northfield 3324
-Tilton 3962
-Gilmanton 3945
+Lebanon 14282
+Seabrook Beach 1078
+Hampton Beach 2598
+Campton 3343
+Farmington 3824
+Newington 811
+
+Barrington 9326
+Strafford 4230
+Stratford 662
+Stratham 7669
+Chatham 341
+Blodgett Landing 152
+Landaff 446
+Ashland 1082
+Loudon 711
+Holderness 2004
+Pittsburg 800
 Pittsfield 1570
 Deerfield 4855
 Nottingham 5229
 Effingham 1691
 Groveton 1068
-Alton 499
-Hampton Falls 2403
-
-Hampton 9597
-North Hampton 4538
-South Hampton 894
-North Haverhill 843
-Haverhill 4585
-
-Hanover 9078
-
-Lebanon 14282
-Webster 1913
-Boscawen 3998
-Bow 8229
-Allenstown 4707
-Charlestown 1078
-Francestown 1610
-Franconia 1083
-Suncook 5501
-Contoocook 1427
-
-Concord 43976
-Hancock 213
-Melvin Village 273
-Danville 4408
-Greenville 1074
-Troy 1108
-North Walpole 785
-Walpole 573
-Milton 593
-Milton Mills 313
-Landaff 446
-Groton 569
-Grafton 1385
-Grantham 3404
-Dublin 1532
-Rollinsford 2597
-Gilford 7699
-
-Milford 9212
-Unity 1518
-Dunbarton 3005
-Henniker 3166
-Temple 1382
-Plaistow 7830
-Plainfield 178
-Brookfield 755
-Seabrook 8401
-Seabrook Beach 1078
-Hampton Beach 2598
-Campton 3343
-South Hooksett 5888
-Plymouth 4730
-
-Portsmouth 21956
-Rye 5543
-Greenland 4067
-Greenfield 1716
-Chesterfield 3552
-Swanzey 7270
-West Swanzey 1281
-Warren 825
-Warner 453
-Shelburne 353
-Goshen 796
-Stewartstown 813
-West Stewartstown 263
-
-Keene 23047
-Fitzwilliam 2351
-Hollis 8342
-Brookline 5639
-Colebrook 1201
-Hebron 632
+Littleton 4467
 Northumberland 2126
 
 Berlin 9425
-Littleton 4467
-Bartlett 351
-Chichester 2665
-Dorchester 339
-Lisbon 965
-Salisbury 1422
-Roxbury 220
-Surry 820
-Carroll 820
-Sharon 359
-Harrisville 984
-East Kingston 2441
-Kingston 6202
+Conway 3576
+Madison 2565
+Tamworth 2812
+Acworth 853
+Haverhill 4585
+Woodstock 1434
+Thornton 2708
+Gilmanton 3945
+Barnstead 4915
+Alstead 1864
+Kensington 2095
+Gorham 1851
+Lee 4520
+Whitefield 1460
+Wakefield 5201
+
+Pelham 14222
+Fremont 4739
+
+Claremont 12949
+New London 1266
+
+Londonderry 11645
+
+Derry 22879
+Sandown 6548
 Atkinson 7087
 
 Salem 30089
-Lempster 1118
-
-Hampstead 8998
-North Woodstock 739
-Woodstock 1434
-Thornton 2708
-Moultonborough 4918
-Tuftonboro 2467
-Wolfeboro 3300
-Lyndeborough 1702
-Marlborough 1066
-Hillsborough 2156
-
-Weare 9092
-
-Claremont 12949
-Fremont 4739
-
-Pelham 14222
-Chatham 341
-Blodgett Landing 152
-Rindge 6476
-Bridgewater 1160
-Hill 1017
-Danbury 1250
-Orford 1237
-Jefferson 1043
-Amherst 697
-Alexandria 1776
-Candia 4013
-Raymond 3738
-Richmond 1197
-Monroe 864
-Belmont 1285
-Farmington 3824
-
-Barrington 9326
-Newington 811
-Washington 1192
-Bennington 338
-Bristol 1911
-Easton 292
-Mason 1448
-Madison 2565
-Conway 3576
-
-Laconia 16871
-Cornish 1616
-Wentworth 845
-Brentwood 4490
-Northwood 4641
-
-Durham 11147
 
 Windham 15817
 Windsor 262
 Newbury 2172
 Madbury 1918
-Canterbury 2389
-Franklin 8741
-Orange 277
-Langdon 651
-Gilsum 752
-Dummer 306
-Meredith 2527
-Freedom 1689
-Jaffrey 3058
-Rumney 1498
-Columbia 659
-Newfields 378
-Enfield 1571
-Lincoln 969
-Hinsdale 1485
-Suissevale 328
-Waterville Valley 508
-Canaan 442
-Lancaster 1941
-Clarksville 294
-Woodsville 1431
-Jackson 1028
-Nelson 629
-Center Sandwich 156
-Center Harbor 1040
-Center Ossipee 526
-Sunapee 3342
-Klondike Corner 652
+Roxbury 220
+Salisbury 1422
+Lisbon 965
+Colebrook 1201
+Dorchester 339
+Chichester 2665
+Bartlett 351
+Dunbarton 3005
 
-Londonderry 11645
-Lyman 585
-Lyme 1745
-Bath 1077
-Peterborough 3090
-Dalton 933
-Wilton 1324
-Stark 478
-Newmarket 5797
-Stratham 7669
-
-Exeter 10109
-
-Rochester 32492
-Strafford 4230
-Stratford 662
-Piermont 769
-Mont Vernon 2584
-New Boston 6108
-New Hampton 373
-New Durham 2693
-Epping 2693
-Pinardville 5034
-
-Bedford 23322
-Hooksett 5283
-Pembroke 7207
-Hopkinton 5914
+Milford 9212
+Gilford 7699
+Rollinsford 2597
+Hollis 8342
+Brookline 5639
 
 Nashua 91322
 Hudson 7534
-Loudon 711
-New London 1266
+Litchfield 8478
+
+Merrimack 26632
+East Merrimack 5176
+
+Bedford 23322
+Orford 1237
+Danbury 1250
+Canterbury 2389
+Boscawen 3998
 New Castle 1000
-Wakefield 5201
-Whitefield 1460
-Lee 4520
-Deering 1904
-Sanbornville 963
-Auburn 5946
-Westmoreland 1706
-Ashland 1082
-Pittsburg 800
-Holderness 2004
-Errol 298
-New Ipswich 5204
-Springfield 1259
-Albany 759
-Barnstead 4915
-Alstead 1864
-Kensington 2095
-Gorham 1851
-Epsom 4834
-Milan 1358
-Union 196
+Lancaster 1941
+Clarksville 294
+Woodsville 1431
+Harrisville 984
+Richmond 1197
+Raymond 3738
+Candia 4013
+Brentwood 4490
+Kingston 6202
+Newton 4820
+
+Exeter 10109
+Peterborough 3090
+Hillsborough 2156
+
+Weare 9092
+Hopkinton 5914
+Bow 8229
+Bridgewater 1160
+Waterville Valley 508
+Canaan 442
+Gilsum 752
+Langdon 651
+Center Ossipee 526
+Center Sandwich 156
+Nelson 629
+Melvin Village 273
+Hancock 213
+Goshen 796
+Stewartstown 813
+West Stewartstown 263
+Greenfield 1716
+Chesterfield 3552
+Swanzey 7270
+West Swanzey 1281
+Warren 825
+Grafton 1385
+Tuftonboro 2467
+Moultonborough 4918
+Wolfeboro 3300
+Middleton 1823
+
+Rochester 32492
+Chester 5232
+Winchester 1606
+Sutton 1978
+Orange 277
+Eaton 405
 Hart's Location 68
+
+Concord 43976
+Webster 1913
+Franklin 8741
+
+Laconia 16871
+
+Keene 23047
+Fitzwilliam 2351
+Rindge 6476
+Mont Vernon 2584
+Belmont 1285
+Piermont 769
+Hampton Falls 2403
+Sanbornville 963
+Alton 499
+Dalton 933
+Cornish 1616
+Klondike Corner 652
+Warner 453
+Newfields 378
+Shelburne 353
+Wilton 1324
+Stark 478
+Mason 1448
+Sugar Hill 647
 Marlow 749
 Mountain Lakes 504
-Sugar Hill 647
-Newton 4820
+Bristol 1911
+Plaistow 7830
+Milan 1358
+Epsom 4834
+Unity 1518
+Meredith 2527
+Auburn 5946
+Westmoreland 1706
+New Hampton 373
+Groton 569
+Freedom 1689
+Albany 759
+New Ipswich 5204
+Springfield 1259
+Enfield 1571
+Suissevale 328
 Newport 4735
-Acworth 853
-Tamworth 2812
+Sunapee 3342
+North Woodstock 739
+Union 196
+Stoddard 1374
+Dublin 1532
+Grantham 3404
+Newmarket 5797
+Jaffrey 3058
+Bethlehem 826
+Surry 820
+Carroll 820
+Errol 298
+Wentworth 845
+Lyme 1745
 North Conway 2116
 Antrim 1395
-Goffstown 3366
-Stoddard 1374
-Middleton 1823
-Wilmot 1407
-Bethlehem 826
+Monroe 864
+Deering 1904
+Lyman 585
+Alexandria 1776
+Amherst 697
+Rumney 1498
+Sharon 359
 Croydon 801
+Columbia 659
+Wilmot 1407
 Sullivan 658
+Hebron 632

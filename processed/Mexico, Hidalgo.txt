@@ -1,81 +1,55 @@
 
 
 Pachuca de Soto 256584
-Rio de la Soledad 1436
-Rinconada de los Angeles 2738
-Rinconadas de San Francisco 1011
-
-Colinas de Plata 4852
-Forjadores de Pachuca 3706
 
 Pachuquilla 6139
+Forjadores de Pachuca 3706
 
-La Providencia Siglo XXI 16747
-Residencial Arboledas 1103
-La Arena 677
-Colonia Lazaro Cardenas 526
-Colonia Tenhe 2768
-La Colonia 2982
+Colinas de Plata 4852
+Rinconadas de San Francisco 1011
+Rinconada de los Angeles 2738
+Privada del Alamo 1259
+
+Mineral del Monte 11015
 Colonia Militar 1778
-Manuel Avila Camacho 2738
-Maravillas 946
-Villas de San Marcos 813
-
-San Marcos 12779
-Santa Maria Magdalena 2096
-Santa Maria Ilucan 3475
-Santa Maria Apaxco 3747
-
-Conejos 4284
-Conecito 539
-Amola de Ocampo 682
+La Colonia 2982
+Colonia Tenhe 2768
+Colonia Lazaro Cardenas 526
+Lazaro Cardenas 2381
+Bocaja 550
+Bocamino 981
+Ixtlapala 601
+Ixtlahuaca 1222
+Laguna Seca 959
+La Laguna 1756
+La Lagunita 503
+Santa Ines 503
+Santa Maria 895
+Santa Maria Macua 2197
+San Ignacio Nopala 1534
+San Isidro el Tanque 590
+San Isidro 1171
+Cuatolol 1717
+San Bartolo 813
+San Antonio 1634
+San Andres 1437
+San Andres Daboxtha 916
+San Andres Tianguistengo 716
+Tianguistengo 1624
+El Coyol 750
+El Colorado 1074
+Cerro Colorado 735
 Huasca de Ocampo 538
 Tenamaxtepec 775
-Paxtepec 1347
-Rinconadas del Venado I 1072
-El Venado 1618
-Xochitlan 1869
-
-Acaxochitlan 4026
-
-Tepepa 4830
-
-Tepatepec 11084
-
-San Juan Tepa 5932
-San Juan Tizahuapan 1457
-Xochihuacan 783
-Achiquihuixtla 910
-Santiago Ixtlahuaca 873
-El Meje 955
-El Mejay 759
-Acuautla 759
-Zacacuautla 1317
-El Susto 1276
-Pino Suarez 1073
-Jose Maria Pino Suarez 1073
-Pueblo Hidalgo 1183
-La Puerta 634
-La Puebla 928
-San Juanico 807
-San Juan Hueyapan 1343
-Hueyapa 1478
-
-Zempoala 6798
-Santa Monica Autempa 505
-San Lorenzo El Chico 505
-San Pedro Xochicuaco 569
-Irolo 1759
-Olotla 999
-Lototla 703
-Maxtha 703
-Daxtha 2313
-El Boxtha 2708
-El Huaxtho 2798
-El Huixmi 2567
-El Mirador 1846
-Lindavista 2180
-Buenavista 678
+Arambo 775
+Ex-Presidentes 812
+Texcatepec 1711
+Ixcatepec 541
+Chiatitla 541
+Xuchiatipa 564
+San Gabriel Azteca 1009
+Pilcuatla 587
+Cuatlimax 657
 El Buena 657
 
 San Buenaventura 3949
@@ -85,102 +59,96 @@ Santiago Tlaltepoxco 2359
 
 Salitrillo 6231
 El Salitre 864
+El Saucillo 2957
+PRI Chacon 3431
+San Cristobal Chacon 1147
+San Cristobal 985
+Teocalco 1123
+Teacalco 2970
+Tenzabhi 582
+La Lagunilla 1538
+Lagunilla 1596
+Tlalchiyahualica 2122
+Yahualica 1398
+Santa Ana Azcapotzaltongo 1498
+Santa Ana de Allende 1575
 
-Campestre Villas del Alamo 6192
-El Alamo 780
-Chilcuautla 1174
-Soyatla 631
-Nanayatla 544
-Santiago de Anaya 2214
-San Antonio Zaragoza 3023
-Zaragoza 585
-Ignacio Zaragoza 2337
-Juchitlan 575
-San Gregorio 1351
-San Diego 714
-Alvaro Obregon 1032
-Arbol Grande 826
-Zacate Grande 571
-Santa Maria Quelites 2133
-Santa Maria 895
-Santa Maria Macua 2197
-San Ignacio Nopala 1534
-Nopala de Villagran 1065
-Francisco Villa 702
-Valle Verde 702
-Cerro Verde 995
-Cerro Colorado 735
-El Colorado 1074
-Los Voladores 533
-Arbolado 865
-Carboneras 1670
-La Mojonera 839
-Ojo de Agua 1648
-Aguacatitla 613
-Acatipa 665
-Zacatipan 603
-Ex- Hacienda de Ocotza 506
-Rincones de la Hacienda 2967
-Michimaloya 1242
-Chimalapa 2008
-La Mesilla 1573
-La Mesa 897
-El Mandho 897
-Gandho 2159
-Bangandho 1027
-Barrio Cuaunepantla 748
-Tlacuapan 567
-Acuimantla 688
-Zimapantongo 738
-Unidad Obrera Habitacional CTM 867
-Unidad Habitacional Dina-Sidena Chacon 867
-Unidad Habitacional CTM 888
-Unidades Habitacionales 3333
-Santiago Tepeyahualco 2580
+Tula de Allende 28577
 
-Santiago Tulantepec 16078
+San Marcos 12779
 
-Tulancingo 102406
-Fraccionamiento del Magisterio Tulancinguense 1316
+San Miguel Vindho 7988
+Santa Maria Ilucan 3475
+Santa Maria Magdalena 2096
+Santa Maria Apaxco 3747
+
+Conejos 4284
+Conecito 539
+San Juan El Sabino 804
+San Juan Ixtilmaco 671
+Puerto Mexico 671
+El Puerto Lazaro Cardenas 994
 Fraccionamiento Carlos Salinas de Gortari 1016
 Dantzibojay 1016
+Nantzha 1694
+Dengantzha 1721
+Acoapa 1264
+Ixtaczoquio 945
+Tezoquipa 3098
+San Antonio Tezoquipan 549
+El Paraiso 549
+El Paredon 2413
+San Miguel Caltepantla 673
+San Miguel 520
+San Miguel Regla 946
+Canada Grande 946
+Canada 1397
+Zacamulpa 1034
+Tlalminulpa 2486
+Chalmita 653
+Palmillas 1910
+El Espiritu 774
+Macustepetla 797
+Tepetitla 1176
+El Tule 770
+Guerrero 727
+Vicente Guerrero 1568
+Los Puentes 534
+Los Sabinos 1323
+El Jiadi 2329
+El Jaguey 1298
+El Pinal 800
+Tolago 783
+Xochihuacan 783
+Caltimacan 1650
+Cuapaxtitla 1129
+Tepetitlan 836
+Ahuehuetitla 1878
+Ahuehuetl 549
+Huehuetla 2821
+El Carmen 840
+El Carrizal 872
+Vixtha de Madero 531
+Amola de Ocampo 682
+Tamala 709
+Tlamamala 744
+Otlamalacatl 769
+Tizapan 769
 
-Huitzitzilingo 3898
-Huitepec 1400
+Apan 26642
 
-Huitel 5390
-Munitepec de Madero 2520
+Zimapan 13243
 
-Tlahuelilpan 8498
-Santa Ana Ahuehuepan 2917
-Atengo 3677
+Huichapan 9051
+Chapantongo 1839
+Xiquila 2038
+Jiquilpan 754
 
-Tetepango 8705
-
-Ajacuba 7245
-
-Jacala 4415
-Texcapa 1926
-Ixcatlan 1873
-Mecatlan 1803
-Papatlatla 2750
-Atlapexco 2484
-Tlatepexe 573
-Metepec 2090
-Canada Chica Antigua 763
-Canada Chica 676
-Chicavasco 3190
-Chichicaxtle 525
-El Acocul 525
-San Jose Acoculco 688
-Coatlila 617
-Malila 612
-Cieneguillas 612
-San Guillermo la Reforma 823
-La Reforma 1212
-Talol 1212
-Palo Gordo 843
-San Jose Palma Gorda 647
+Ixmiquilpan 34814
+Tasquillo 3744
+Huazalinguillo 545
+Huazalingo 842
+San Joaquin 1228
 San Jose 1126
 San Jose Corral Blanco 1099
 Maguey Blanco 1852
@@ -188,665 +156,697 @@ Barrio de Espanita 753
 Tenango de Doria 2433
 Tenango 1342
 Tepexititla 1157
-Tepetitla 1176
-Tepepatlaxco 598
-Ixtlapala 601
+Tunititlan 2403
 
-Tlanalapa 7518
+Almoloya 4802
+Xalcuatla 778
+San Bartolo Ozocalpan 1476
+Tezoncualpan 850
 
-Apan 26642
-Chimalpa y Tlalayote 2363
+Tezontepec de Aldama 4731
+
+Tezontepec 5214
+Colonia Benito Juarez 2792
+Colonia Guadalupe 1233
+Colonia Guadalupe los Manantiales 866
+Orizabita 1029
+Unidad Habitacional Dina-Sidena Chacon 867
+Unidad Habitacional CTM 888
+Unidad Obrera Habitacional CTM 867
+Unidades Habitacionales 3333
+Santiago Tepeyahualco 2580
+
+Santiago Tezontlale 4226
+San Nicolas Tecomatlan 2375
+
+San Juan Tepa 5932
+
+Tepatepec 11084
+Acatepec 1028
+Ocotepec 794
+Ocotepec de Morelos 551
+La Huapilla 593
+La Capilla 666
+Coyametepec 666
+Metepec 2090
+Canada Chica Antigua 763
+Canada Chica 676
+Chicavasco 3190
+El Huaxtho 2798
+Daxtha 2313
+El Boxtha 2708
+San Jose Boxay 1037
+San Jose Atlan 3557
+Mamithi 1875
+Coamitla 704
+Omitlan de Juarez 1040
+Tecocomulco de Juarez 599
+Ahuatempa 907
+Ixcotitlan 548
+Xuchitlan 832
+Xilitla 768
+Zitlan 609
+Xochitlan 1869
+El Venado 1618
+Gargantilla 827
+Villa Margarita 727
+Totonicapa 694
+Arbol Grande 826
+Zacate Grande 571
+Santa Maria Quelites 2133
+Santa Maria Batha 1902
+Santa Ana Batha 1651
 
 Santa Ana Tlachiahualpa 5781
-Santa Ana Batha 1651
-Santa Maria Batha 1902
+
+Santa Ana Tzacuala 4156
+Tzacuala 614
+
+Zacualtipan 23125
+Metztitlan 3125
+Cruztitla 609
+Amaxac 609
+Huitzotlaco 585
+
+Huitzila 5151
+El Riito 781
+El Rincon 1036
+Las Piedras 1000
+Piedra Hincada 888
+
+Cuautepec de Hinojosa 18835
+
+Jaltepec 6431
+Texcaltepec 1843
+
+Santiago Tulantepec 16078
+
+Tulancingo 102406
+Fraccionamiento del Magisterio Tulancinguense 1316
+Magisterio Digno 2188
+Rio de la Soledad 1436
+Manuel Avila Camacho 2738
+La Candelaria 882
+San Pablo Oxtotipan 626
+San Pablo el Grande 1053
+El Tablon 646
+Bominthza 746
+Bomintzha 3568
+Progreso 2460
+
+Atotonilco de Tula 8154
+
+Atotonilco el Grande 7261
+La Estancia 1481
+La Estanzuela 1847
+La Estacion 620
+Ignacio Lopez Rayon 526
+Ignacio Zaragoza 2337
+Juchitlan 575
+San Gregorio 1351
+San Gabriel 2557
+Coyocala 529
+
+Jacala 4415
+Encinillos 787
+Chapulhuacanito 3445
+
+Chapulhuacan 4143
+Santiago Ixtlahuaca 873
+Achiquihuixtla 910
+Pachiquita 1158
+Pacheco 608
+El Alamo 780
+Chilcuautla 1174
+Soyatla 631
+Ixcatlan 1873
+
+San Felipe Orizatlan 6686
+San Francisco 1831
+Pedregal de San Francisco 590
+El Deca 590
+El Dextho 590
+Dextho de Victoria 1429
+Pastoria 706
+San Lucas Teacalco 788
+San Bartolo Tutotepec 2568
+San Marcos Guaquilpan 1788
+Villas de San Marcos 813
+Banus 555
+Buenos Aires 834
+El Alberto 834
+San Juan Hueyapan 1343
+Hueyapa 1478
+
+Zempoala 6798
+Zotoluca 1084
+Rincones de la Hacienda 2967
+Ex- Hacienda de Ocotza 506
+Zacatipan 603
+Acatipa 665
+Aguacatitla 613
+Ahuatitla 3710
+Xocotitla 863
+Las Duraznos 513
+El Durazno 823
+Tlactlapilco 823
+Tlacuapan 567
+La Mesa de Limatitla 681
+La Mesa 897
+La Mesilla 1573
+San Francisco Atotonilco 1573
+Chimalapa 2008
+Michimaloya 1242
+Chimalpa y Tlalayote 2363
+
+Emiliano Zapata 8722
+Xiteje de Zapata 1004
+Oriental de Zapata 1004
+Real de Oriente 510
+El Botho 510
+El Bocja 991
+Ahuatetla 629
+Zapotitla 629
+Plomosas 584
+Tagui 517
+Privada Quinta Bonita 517
+Loma Bonita 656
+La Boveda 1091
+La Blanca 665
+Casa Blanca 676
+San Antonio Zaragoza 3023
+Zaragoza 585
+San Juanico 807
+La Puebla 928
+Paseos de la Pradera 1131
+Viveros de la Loma 993
+La Loma 1100
 Motovatha 1081
 Motoltepec 516
 Apartadero 516
-Canada de Madero 1960
-Tuzancoac 572
-
-Tlanchinol 5199
-Pepeyocatitla 971
-Tlacomulco 1932
-Acoxcatlan 1059
-Santa Elena Paliseca 2553
-Santa Ana de Allende 1575
-Santa Ana Azcapotzaltongo 1498
-San Antonio 1634
-San Andres 1437
-San Andres Daboxtha 916
-Bocaja 550
-Bocamino 981
-Ocampo 1145
-Axcaco 821
-Los Otates 875
-Los Puentes 534
-Los Sabinos 1323
-El Jiadi 2329
-Colonia Chautenco 939
-Colonia la Libertad 534
-Huazalinguillo 545
-Huazalingo 842
-San Joaquin 1228
-Aquixcuatitla 558
-
-Atitalaquia 6322
-
-Cardonal 9090
-Lazaro Cardenas 2381
-El Puerto Lazaro Cardenas 994
-Yonthe Chico 719
-San Nicolas el Chico 1126
-Chiconcuac 759
-San Pedro Tlachichilco 1896
-San Juan Achichilco 2095
-San Juan Ahuehueco 1535
-Colonia San Juan 1305
-Ixcotitlan 548
-Xocotitla 863
-Ahuatitla 3710
-Chahuatitla 607
-Estacion de Apulco 1438
-Huehuetla 2821
-El Carmen 840
-El Carrizal 872
-El Chamizal 715
-El Chalahuite 880
-Xiteje de la Reforma 670
-
-Huejutla de Reyes 40015
-Huautla 3755
-La Capilla 666
-La Huapilla 593
-Ocotepec de Morelos 551
-Ocotepec 794
-Acatepec 1028
-Ixcatepec 541
-Chiatitla 541
-Xuchiatipa 564
-San Gabriel Azteca 1009
-San Gabriel 2557
-Coyocala 529
-Acoyotla 1958
-Coyotillos 3084
-Pastoria 706
-Dextho de Victoria 1429
-La Victoria 535
-Guadalupe Victoria 2194
-Buenos Aires 834
-El Alberto 834
-
-Cuautepec de Hinojosa 18835
-Texcaltepec 1843
-
-Jaltepec 6431
-Santiago Jaltepec 1827
-Santa Maria Xigui 1104
-Santa Maria el Chico 725
-Banzha 725
-Nantzha 1694
-Dengantzha 1721
-Chapantongo 1839
-Xiquila 2038
-Jiquilpan 754
-
-Ixmiquilpan 34814
-Tasquillo 3744
-La Esquina 1520
-Xoxoteco 597
-Xoxolpa 1197
-Benito Juarez 1197
-Colonia Benito Juarez 2792
+Xochimilco 777
+Santa Ana Chichicuautla 536
+Acuautla 759
+Zacacuautla 1317
+El Susto 1276
+San Pedro Nextlalpan 841
+San Pedro 516
+San Pedro Capula 509
+Capula 507
+El Ocotal 642
+El Tejocotal 861
+El Tephe 2690
+El Tepeyac 1602
+El Pintor 1474
+Tezapotla 2912
 
 Zapotlan de Juarez 4961
 
 Tolcayuca 6836
 
 Acayuca 8470
+El Mirador 1846
+Lindavista 2180
+Buenavista 678
+La Amistad 1401
+La Ameca 855
+Santa Maria Amealco 1955
+Santa Maria Amajac 1502
+Santa Maria Actipac 3592
+Zothe 1519
+El Xothi 768
+Bothi Baji 725
+Banzha 725
+Santa Maria el Chico 725
+Santa Maria Xigui 1104
+Santiago Jaltepec 1827
+La Trinidad 1110
+La Comunidad 502
+Peyula 502
+Uxdejhe 794
+Texas 993
+El Acocul 525
+El Aserradero 717
+Canada de Madero 1960
+Tuzancoac 572
+Tuzanapa 909
+Ahuacatlan 952
+Tecacahuaco 1371
+Acahuasco 1289
+Apipilhuasco 558
+Aquixcuatitla 558
+Ventoquipa 1150
+Fontezuelas 1236
+Portezuelo 1834
+Zocea 1311
+Santa Maria la Calera 1507
+Alfajayucan 1507
 
 Tizayuca 43250
 
 Tepojaco 4119
 
-Huitzila 5151
-Xochiatipan de Castillo 1532
-Chatipan 1942
-Pilchatipa 695
-Colonia Nueva Tlaxiaca 920
-Colonia Nueva Santa Maria 859
-Tepaltzingo 885
-Tiltepec 1272
-Contepec 634
-
-Tezontepec 5214
-Colonia Guadalupe 1233
-Colonia Guadalupe los Manantiales 866
-Orizabita 1029
-Tizapan 769
-Palo Semita 527
-Otlamalacatl 769
-Tlamamala 744
-Tamala 709
-San Juan Ixtilmaco 671
-San Juan El Sabino 804
-Sabino 656
-Tlaxco 602
-
-Tlaxcoapan 14241
-Tlalminulpa 2486
-Zacamulpa 1034
-Bomintzha 3568
-Bominthza 746
-Teximalpa 646
-El Tablon 646
-San Pablo el Grande 1053
-Atalco 501
-Teacalco 2970
-San Lucas Teacalco 788
-San Bartolo Tutotepec 2568
-San Bartolo 813
-San Bartolo Ozocalpan 1476
-Tezoncualpan 850
-Bomanxotha 2025
-El Xothi 768
-Xilitla 768
-Chililico 3559
-Chilijapa 905
-El Paredon 2413
-El Paraiso 549
-San Antonio el Paso 1348
+Don Antonio 17736
+San Antonio Farias 847
 San Antonio Coayuca 588
-Santa Monica 1533
-El Roble 1080
-San Miguel Regla 946
-San Miguel 520
-Chalingo 659
-Tlaltecatla 739
-Colonia Veinte de Noviembre 701
-Colonia Morelos 1284
-San Antonio Tezoquipan 549
-Tezoquipa 3098
-Zoquitipan 1346
-Teopancala 973
-Teocalco 1123
-San Cristobal 985
-San Cristobal Chacon 1147
-Privadas de San Javier 711
-Colonia San Jose 839
-Colonia Industrial 619
-Colonia Agustin Olvera 700
-El Olvera 1062
-Santiago Acayutlan 1649
-Chachahuantla 1140
-Las Chacas 986
-Juntas Chicas 876
-La Pena 876
-San Pedro 516
-San Pedro Capula 509
+San Antonio el Paso 1348
+San Antonio el Grande 2284
+Apantlazol 750
+Jiliapan 966
+Mixquiapan 675
 
-Chapulhuacan 4143
-Chapulhuacanito 3445
-
-San Felipe Orizatlan 6686
-San Francisco 1831
-San Francisco Atotonilco 1573
-San Francisco Tecajique 737
-Ferreria de Apulco 737
-Guerrero 727
-Vicente Guerrero 1568
-Guadalupe Minerva 1969
-Guadalupe Relinas 731
-Hualula 1031
-San Juan Solis 1701
-El Cid 2578
-Los Cides 1238
-Santa Maria Nativitas 2878
-Jonacapa 1227
-Acoapa 1264
-Ixtaczoquio 945
-Santo Tomas Allende 964
-Santo Tomas 2155
-San Sebastian Tenochtitlan 2155
-Congreso Permanente Agrario 632
-Monte Alegre 1521
-
-Tula de Allende 28577
-
-Atotonilco de Tula 8154
-Progreso 2460
+Mixquiahuala de Juarez 25510
 
 Progreso de Alvaro Obregon 17486
-
-Presas 6942
-Cipreses 2129
-Tzacuala 614
-Macustepetla 797
-Texcaco 1192
-Texcatepec 1711
-Ex-Presidentes 812
-Las Puentes 817
-Tlacpac 1008
-Tecpaco 630
-Pacheco 608
-Machetla 1089
-
-Teltipan de Juarez 4207
-Omitlan de Juarez 1040
-Tecocomulco de Juarez 599
-Ahuatempa 907
-Atempa 678
-Acuatempa 972
-Temango 1125
-Maney 972
-Tulipanes 2260
-General Pedro Maria Anaya 1548
-Colonia General Felipe Angeles 968
-Colonia Felipe Angeles 2045
-
-Javier Rojo Gomez 6186
-Ahuehuetitla 1878
-Ahuehuetl 549
-Tehuetlan 3024
-Coamila 637
-
-Jaltocan 6201
-Jalpa 1228
-Tlalpan 535
-Pacula 535
-Ixculculla 519
-Cruztitla 609
-Zitlan 609
-Amaxac 609
-Taxadho 1417
-El Dadho 695
-El Damo 918
-El Durazno 823
-Las Duraznos 513
-Durango 509
-Durango Daboxtha 610
-Boxtho 664
-El Dextho 590
-El Deca 590
-San Isidro el Tanque 590
-San Isidro 1171
-San Pedro Nextlalpan 841
-San Pedro Tlaquilpan 2126
-Puerto Mexico 671
-Colonia el Mirador 709
-Cuatlimax 657
-Pilcuatla 587
-Xalcuatla 778
-Cuazahuatl 1049
-Cahuazas 705
-Encinillos 787
-Montecillos 915
-Olmos 915
-
-Almoloya 4802
-La Ameca 855
-Santa Maria Amealco 1955
-
-Zimapan 13243
-
-Huichapan 9051
-Mamithi 1875
-Coamitla 704
-Tamoyon I 929
-La Estacion de Ahuazotepec 684
-La Estacion 620
-Ignacio Lopez Rayon 526
-El Rayo 950
-Pahuayo 528
-Acahuasco 1289
-Tecacahuaco 1371
-Ahuacatlan 952
-Tuzanapa 909
-San Antonio el Grande 2284
-El Coyol 750
-Apantlazol 750
-Santiago Tetlapayac 750
-Santiago Tlapacoya 3362
-
-San Agustin Tlaxiaca 10496
-San Juan Tilcuautla 2630
-PRI Chacon 3431
-El Saucillo 2957
-Santa Lucia 827
-Gargantilla 827
-Llano Largo 2191
-Llano Blanco 641
-La Blanca 665
-Casa Blanca 676
-Jaguey Blanco 1152
-El Jaguey 1298
-Lagunilla 1596
-Tolago 783
-
-Molango 3929
-
-Zacualtipan 23125
-Ohuatipa 2130
-
-Santa Teresa 4178
-Santa Teresa Daboxtha 521
-Huitzotlaco 585
-Xitzo 747
-Yolotepec 2487
-El Creston 563
-El Mezquital 816
-Mezquititlan 1673
-Pedregal de San Jose 2753
-Pedregal de San Francisco 590
+Alvaro Obregon 1032
+Pedregoso 889
 El Pedregal 731
-Lomas del Pedregal 990
-San Miguel Nopalapa 552
-San Miguel Caltepantla 673
-San Miguel Ayotempa 618
-San Antonio Ostoyucan 725
-Coyula 827
-Peyula 502
+San Pedro Xochicuaco 569
+Irolo 1759
+San Lorenzo El Chico 505
 San Lorenzo Sayula 2300
 San Lorenzo Achiotepec 1746
 Nuevo Centro de Poblacion Agricola el Chacon 1655
 Pisaflores 2119
 Las Flores 525
-Las Moras 642
-Las Piedras 1000
-Dajiedi 2039
-Barrio el Dajie 525
-Barrio Aztlan 1010
-Tenexco II 532
-
-Los Reyes 3910
-Teofani 1162
-San Mateo 2222
-San Martin 503
-La Lagunita 503
-La Lagunilla 1538
-La Estanzuela 1847
-La Estancia 1481
-
-Atotonilco el Grande 7261
-
-Mineral del Monte 11015
-Privada del Alamo 1259
-Privada Quinta Bonita 517
-Plomosas 584
-Viveros de la Loma 993
-La Loma 1100
-Loma Bonita 656
-La Boveda 1091
-
-Calnali 4147
-Hueynali 512
-El Pinalito 715
-El Pinal 800
-El Pintor 1474
-Tezapotla 2912
-Zapotitla 629
-Tagui 517
-Ahuatetla 629
-Tetla 662
-Yahualica 1398
-Tlalchiyahualica 2122
-Chalahuiyapa 1341
-San Pablo Oxtotipan 626
-La Candelaria 882
-Santa Maria la Calera 1507
-Alfajayucan 1507
-Portezuelo 1834
-Zocea 1311
-Cerritos 1306
-
-Actopan 29223
-Pahactla 1561
-San Nicolas 1368
-Agua Limpia 683
-La Laguna 1756
-Santa Cruz 1833
-Santa Catarina 1111
-Santa Maria Amajac 1502
-San Marcos Guaquilpan 1788
-Los Arcos 583
-
-Los Tuzos 5087
-Los Romeros 1601
-Los Remedios 755
-El Refugio 1830
-
-El Rosario 4370
-El Rincon 1036
-Rinconada 894
-Dios Padre 2049
-Bosques del Mineral 611
-Cuesta Colorada 669
-San Felipe Zacatepec 920
-Acatlan 405
-
-Parque Urbano Napateco 6172
-Parque de Poblamiento Solidaridad 1728
-Rio Seco Puente de Doria 1215
-Colonia Huitexcalco 860
-Pachiquita 1158
-Danghu 820
-Mangas 3776
-Texoloc 950
-Texas 993
-Uxdejhe 794
-Xiteje de Zapata 1004
-Oriental de Zapata 1004
-Real de Oriente 510
-El Botho 510
-El Bocja 991
-El Bondho 716
-Bondhi 545
-Bondojito 1643
-Bethi 835
-Bothi Baji 725
-Zothe 1519
-Zotoluca 1084
-
-Singuilucan 4076
-
-Tepeapulco 15244
-Capula 507
-El Capulin 1550
-Ixtlahuaca 1222
-Laguna Seca 959
-Chipoco 959
-Santa Barbara 1763
-Toctitlan 959
-Tepetitlan 836
-Cochiscuatitla 504
-Cuapaxtitla 1129
-Caltimacan 1650
-Zacualtipanito 1502
-
-Santa Ana Tzacuala 4156
-Sabina Grande 554
-Canada Grande 946
-Canada 1397
-
-San Miguel Vindho 7988
-San Miguel Acambay 932
-San Jose Ocotillos 1040
-San Jose Atlan 3557
-Tlaxcalilla 3274
-Panhe 2188
-El Tephe 2690
-El Tepeyac 1602
-Teyahuala 636
+Los Voladores 533
+Arbolado 865
+Lototla 703
+Maxtha 703
 Xalacahuantla 543
-Barrio Techachalco 552
+Teyahuala 636
 Coatzonco 543
 Xochicoatlan 1254
-Eloxochitlan 612
+Cerro Verde 995
+Valle Verde 702
+San Nicolas Cuatzontla 514
+San Nicolas 1368
+Agua Limpia 683
+Santo Domingo Agua Zarca 722
+Boxaxni 722
+La Heredad 621
+Tecpaco 630
+Tlacpac 1008
+Las Puentes 817
+Rio Seco Puente de Doria 1215
+Santa Cruz 1833
+Santa Catarina 1111
+Carboneras 1670
+La Mojonera 839
+Colonia San Jose 839
+Colonia Industrial 619
+Colonia San Juan 1305
+San Juan Ahuehueco 1535
+San Juan Achichilco 2095
+San Pedro Tlachichilco 1896
+San Pedro Tlaquilpan 2126
+Colonia el Mirador 709
+Colonia Morelos 1284
+Poxindeje de Morelos 970
+Santa Maria Tecajete 970
+Santa Maria Temaxcalapa 506
+Teximalpa 646
+Jalpa 1228
+Tlalpan 535
+Pacula 535
+Polintotla 908
+Olotla 999
+Yolotepec 2487
+El Creston 563
+El Cajon 760
+El Capulin 1550
+Chipoco 959
+Coyula 827
+Tlaxocoyucan 1188
+Santa Ursula 1253
+Privadas de San Javier 711
+Pedregal de San Jose 2753
+
+Campestre Villas del Alamo 6192
+Mezquititlan 1673
+El Mezquital 816
+San Diego 714
+Zohuala 532
+Tenexco II 532
+Atlapexco 2484
+Mecatlan 1803
+Papatlatla 2750
+Chichatla 1098
+Huitepec 1400
+
+Huitel 5390
+El Rayo 950
+Mangas 3776
+Temango 1125
+El Chamizal 715
+El Chalahuite 880
+Xiteje de la Reforma 670
+La Reforma 1212
+Talol 1212
+La Vega 595
+La Victoria 535
+Guadalupe Victoria 2194
+Guadalupe Minerva 1969
+Guadalupe Relinas 731
+San Agustin Zapotlan 1204
+
+San Agustin Tlaxiaca 10496
+Santiago Tlapacoya 3362
+El Huixmi 2567
+Colonia Huitexcalco 860
+Rinconada 894
+Rinconadas del Venado I 1072
+El Espino 528
+Pino Suarez 1073
+Jose Maria Pino Suarez 1073
+Pueblo Hidalgo 1183
+Pueblo Nuevo 1250
+Rancho Nuevo 761
+Rancho Viejo 825
+Iglesia Vieja 760
+
+Los Reyes 3910
+Los Remedios 755
 Arenalito Remedios 628
 Atecoxco 628
 Tecolotitla 923
-Tlactlapilco 823
-San Rafael 823
-San Antonio Farias 847
-Rancho Nuevo 761
-Pueblo Nuevo 1250
-Patria Nueva 1752
-Demacu 977
+San Guillermo la Reforma 823
+Cieneguillas 612
+Eloxochitlan 612
+
+Acaxochitlan 4026
+
+Tepepa 4830
+Tepepatlaxco 598
+Tlaxco 602
+
+Tlaxcoapan 14241
+
+Doxey 7066
+
+Atitalaquia 6322
+
+Cardonal 9090
+
+El Llano 14559
+Llano Largo 2191
+Llano Blanco 641
+Jaguey Blanco 1152
+Chatipan 1942
+Pilchatipa 695
+Colonia Nueva Tlaxiaca 920
+Colonia Nueva Santa Maria 859
+Tepaltzingo 885
+La Curva Tlaltzintla 510
+Tlatzintla 586
+Acuimantla 688
+Barrio Cuaunepantla 748
+Zimapantongo 738
+Coatlila 617
+Bangandho 1027
+Gandho 2159
+El Mandho 897
+La Estacion de Ahuazotepec 684
+Estacion de Apulco 1438
+Ferreria de Apulco 737
+Ojo de Agua 1648
+Santiago de Anaya 2214
+Cerritos 1306
+
+Actopan 29223
+Teopancala 973
+Zoquitipan 1346
+Colonia Agustin Olvera 700
+El Olvera 1062
+Santiago Acayutlan 1649
+Chachahuantla 1140
+Chahuatitla 607
+Cochiscuatitla 504
+El Meje 955
+El Mejay 759
+Chiconcuac 759
+San Nicolas el Chico 1126
+La Selva 533
 La Sabinita 2276
-Pahuatlan 2039
-Neblinas 647
-San Miguel del Resgate 679
+Demacu 977
+Dajiedi 2039
+Barrio el Dajie 525
+Barrio Aztlan 1010
+Barrio Techachalco 552
+San Miguel Nopalapa 552
+San Martin 503
+San Mateo 2222
 
-Tepeji del Rio de Ocampo 34151
-
-Melchor Ocampo 4679
-Potejamel 507
-Coyametepec 666
-Metepec Primero 1270
-
-Tezontepec de Aldama 4731
-
-Emiliano Zapata 8722
+Teltipan de Juarez 4207
+Machetla 1089
+Tetla 662
+Santiago Tetlapayac 750
+Santiago Cuaula 2614
 Santa Clara 1571
 San Bartolome Tepetates 937
 
 Ciudad Sahagun 28556
-Santiago Cuaula 2614
 
-Santiago Tezontlale 4226
-San Nicolas Tecomatlan 2375
-San Nicolas Cuatzontla 514
-Tlatzintla 586
-La Curva Tlaltzintla 510
-Santa Maria de Alamos 510
-El Espiritu 774
-Palmillas 1910
-Chalmita 653
-El Barrido 1145
-Taxhido 544
-Santa Ana Chichicuautla 536
-Xochimilco 777
-Fontezuelas 1236
-Ventoquipa 1150
-Apipilhuasco 558
-Velasco 562
-Chantasco 730
+Tlanalapa 7518
 Jalapa 501
-Chiapa 546
-La Mesa de Limatitla 681
-La Mision 501
-La Amistad 1401
-Xuchitlan 832
-Alamo Rustico 615
-San Agustin Zapotlan 1204
-Santo Domingo Agua Zarca 722
-Boxaxni 722
-San Jose Boxay 1037
-
-Mixquiahuala de Juarez 25510
-Mixquiapan 675
-Jiliapan 966
-Tianguistengo 1624
-San Andres Tianguistengo 716
-Los Filtros 716
+Atalco 501
 Nonoalco 940
-Acopinalco 833
-Atopixco 895
-Cuatolol 1717
-San Salvador 1070
-La Selva 533
-Colonia Sesenta y Dos 1324
-Segundas Lajas 588
-Tinajas 3705
-Cantinela 1136
-Santa Ines 503
-Carpinteros 1393
-Cantera de Villagran 1588
-Julian Villagran 1314
-La Joya 686
+El Bondho 716
+Bondhi 545
+Colonia la Libertad 534
+Colonia Chautenco 939
+Alamo Rustico 615
+Santa Maria de Alamos 510
+Cipreses 2129
 
-Don Antonio 17736
+Presas 6942
+Texoloc 950
 
-San Luis Tecuhautitlan 5694
-
-Tecozautla 5844
-Magisterio Digno 2188
-Gonzalez Ortega 643
-La Vega 595
-Iglesia Vieja 760
-Rancho Viejo 825
-El Aserradero 717
-La Comunidad 502
-La Trinidad 1110
-Venta de Guadalupe 833
-Tepehuacan de Guerrero 1061
-Pozuelos 1061
-Las Plazas 975
-Paseo de las Reynas 906
-Paseos de la Pradera 1131
-Praderas del Potrero 1066
-Vixtha de Madero 531
-El Tejocotal 861
-El Ocotal 642
-San Ambrosio 951
-Arambo 775
-Alumbres 525
-Tepeitic 1560
-Tunititlan 2403
-Dongoteay 850
-Ixcuinquitlapilco 2210
-Coacuilco 3689
-
-El Llano 14559
-
-Doxey 7066
-Oxeloco 1217
-Poxindeje de Morelos 970
-Santa Maria Tecajete 970
-Santa Maria Temaxcalapa 506
-San Clemente 580
+Panuaya 4392
+Atengo 3677
+Santa Ana Ahuehuepan 2917
 
 Santa Ana Hueytlalpan 5705
 Santa Maria Asuncion 3042
-Santa Maria Actipac 3592
 
-San Ildefonso 4423
+Parque Urbano Napateco 6172
+Parque de Poblamiento Solidaridad 1728
 
-Panuaya 4392
-Banus 555
-San Esteban 1923
-El Espino 528
+Huejutla de Reyes 40015
+Huautla 3755
+San Juan Tilcuautla 2630
+San Juan Tizahuapan 1457
+San Juan Solis 1701
+Hualula 1031
+El Cid 2578
+Los Cides 1238
+Santa Maria Nativitas 2878
+Jonacapa 1227
+Texcapa 1926
+Texcaco 1192
+Axcaco 821
+Los Otates 875
+Congreso Permanente Agrario 632
+El Barrido 1145
+Ocampo 1145
+
+Melchor Ocampo 4679
+
+Tepeji del Rio de Ocampo 34151
+Tinajas 3705
+Segundas Lajas 588
+El Roble 1080
+
+El Rosario 4370
+El Refugio 1830
+Santa Elena Paliseca 2553
+La Palma 974
+San Jose Palma Gorda 647
+San Miguel del Resgate 679
+Neblinas 647
+Pahuatlan 2039
+Cuazahuatl 1049
+Hueynali 512
+El Pinalito 715
+Acuatempa 972
+Atempa 678
+San Miguel Ayotempa 618
+San Antonio Ostoyucan 725
+Santa Lucia 827
+Palo Semita 527
+Palo Gordo 843
+Los Romeros 1601
+Carpinteros 1393
+Benito Juarez 1197
+Zacualtipanito 1502
+Coyotillos 3084
+San Jose Ocotillos 1040
+San Miguel Acambay 932
+Praderas del Potrero 1066
+Lomas del Pedregal 990
+General Pedro Maria Anaya 1548
+Colonia General Felipe Angeles 968
+Colonia Felipe Angeles 2045
+
+Javier Rojo Gomez 6186
+Acatlan 405
+Acoxcatlan 1059
+
+Tlanchinol 5199
+Pepeyocatitla 971
+Tlacomulco 1932
+
+Tepeapulco 15244
+
+San Luis Tecuhautitlan 5694
+Toctitlan 959
+Santa Barbara 1763
+Chilijapa 905
+Chililico 3559
+Coamila 637
+
+Jaltocan 6201
+Tehuetlan 3024
+
+Huitzitzilingo 3898
+Chalingo 659
+Tlaltecatla 739
+Colonia Veinte de Noviembre 701
+Aquilastec 633
+La Cuarta Manzana 583
+Los Arcos 583
+Boxtho 664
+Durango Daboxtha 610
+Durango 509
+
+Molango 3929
+
+Tetepango 8705
+
+Ajacuba 7245
+Munitepec de Madero 2520
+
+Tlahuelilpan 8498
 Tancazahuela 1315
+Maravillas 946
+Francisco Villa 702
+Nopala de Villagran 1065
+Cantera de Villagran 1588
+Julian Villagran 1314
+Velasco 562
+La Joya 686
+Ohuatipa 2130
+
+Santa Teresa 4178
+Santa Teresa Daboxtha 521
+Patria Nueva 1752
+Ixculculla 519
+San Jose Acoculco 688
+Chantasco 730
+La Mision 501
+La Manzana Uno 888
+Cuxhuacan 565
+Tepehuacan de Guerrero 1061
+Pozuelos 1061
+Las Plazas 975
+Cahuazas 705
+Pahuayo 528
+Santa Monica 1533
+Santa Monica Autempa 505
+La Esquina 1520
+Xoxoteco 597
+Xoxolpa 1197
+Maney 972
+Bethi 835
+Bondojito 1643
+Acopinalco 833
+Yonthe Chico 719
+Venta de Guadalupe 833
+Colonia Sesenta y Dos 1324
 La Cruz 1718
 La Cruz de Tenango 598
-El Tule 770
-Villa Margarita 727
-Totonicapa 694
-El Cajon 760
-Zohuala 532
-Epazoyucan 3168
-Tlaxocoyucan 1188
-Santa Ursula 1253
-La Manzana Uno 888
-La Cuarta Manzana 583
-Aquilastec 633
-Metztitlan 3125
-Chichatla 1098
-Panales 3017
-La Palma 974
+Teofani 1162
+
+La Providencia Siglo XXI 16747
+Residencial Arboledas 1103
+La Arena 677
 El Arenal 2933
-Caxuxi 2715
-Panacaxtlan 859
-El Nith 1487
-El Riito 781
-El Bingu 1061
-Polintotla 908
-Francisco I. Madero 1017
-Cuxhuacan 565
-Piedra Hincada 888
-La Heredad 621
+
+Tecozautla 5844
+Panhe 2188
+Tlaxcalilla 3274
+Malila 612
+Tiltepec 1272
+Contepec 634
+La Puerta 634
+La Pena 876
+San Sebastian Tenochtitlan 2155
+San Salvador 1070
 Hueyapita 895
-Pedregoso 889
-Tezoantla 724
+
+Los Tuzos 5087
+Los Filtros 716
+
+San Ildefonso 4423
+Monte Alegre 1521
+Montecillos 915
+Olmos 915
+Tamoyon I 929
+Oxeloco 1217
+Ixcuinquitlapilco 2210
+Tulipanes 2260
+Bomanxotha 2025
+Metepec Primero 1270
+Dongoteay 850
+
+Calnali 4147
+Sabino 656
+Sabina Grande 554
+Coacuilco 3689
+San Francisco Tecajique 737
+Francisco I. Madero 1017
+Taxadho 1417
+El Dadho 695
+El Damo 918
+Panacaxtlan 859
+Chichicaxtle 525
+Alumbres 525
+Tepeitic 1560
+Paxtepec 1347
+San Felipe Zacatepec 920
+Cuesta Colorada 669
+Bosques del Mineral 611
+Dios Padre 2049
+Santo Tomas Allende 964
+Santo Tomas 2155
+Juntas Chicas 876
+Las Chacas 986
+Las Moras 642
+Potejamel 507
+San Ambrosio 951
+San Rafael 823
+El Nith 1487
+Chiapa 546
+Xochiatipan de Castillo 1532
+
+Singuilucan 4076
+El Bingu 1061
+Epazoyucan 3168
+Panales 3017
+Caxuxi 2715
+Acoyotla 1958
+San Esteban 1923
 San Jeronimo 641
-Tenzabhi 582
+Taxhido 544
+Nanayatla 544
+San Clemente 580
+Pahactla 1561
+Chalahuiyapa 1341
+Cantinela 1136
+Atopixco 895
+Paseo de las Reynas 906
+Danghu 820
+Xitzo 747
+Tezoantla 724
+Gonzalez Ortega 643
+Tlatepexe 573

@@ -2,74 +2,74 @@
 
 Warszawa 1700612
 Zabki 28857
-Marki 27066
-Warka 11558
-Gora Kalwaria 11588
-Konstancin-Jeziorna 17566
-Malkinia Gorna 5514
-Lochow 6761
-Szydlowiec 12268
 Makow Mazowiecki 10268
 Ozarow Mazowiecki 10233
 Piastow 22966
-Raszyn 7477
-Rybie 5129
+Piaseczno 42378
+Jozefoslaw 7130
+Jozefow 19476
+Otwock 44808
+Gora Kalwaria 11588
+Konstancin-Jeziorna 17566
+Malkinia Gorna 5514
+Szydlowiec 12268
+Przysucha 6304
+Warka 11558
 Bialobrzegi 7263
+Grojec 16197
+Blonie 12531
+Jablonna 8176
 
 Legionowo 53526
-Jablonna 8176
-Blonie 12531
-Brwinow 12720
-Milanowek 16332
-Grodzisk Mazowiecki 29363
-Minsk Mazowiecki 39347
-Sulejowek 19248
-Zielonka 17394
-Pionki 19840
-Kozienice 18682
-Zwolen 8219
+Mszczonow 6369
+Tluszcz 7806
 Wolomin 37397
 Kobylka 19940
+Zielonka 17394
+Marki 27066
 Karczew 10197
 Zuromin 9032
 Sierpc 18818
 
-Siedlce 76333
-Losice 7191
-Sokolow Podlaski 18796
-Ostrow Mazowiecka 22842
-
-Ostroleka 53572
-Gostynin 19344
-
 Plock 124553
-Plonsk 22565
+Gostynin 19344
+Sochaczew 38141
+Zyrardow 41574
+Grodzisk Mazowiecki 29363
+Milanowek 16332
+Sulejowek 19248
+Brwinow 12720
+
+Pruszkow 58144
+Wyszkow 27312
+Radzymin 10084
+
+Radom 221287
+Pionki 19840
+Kozienice 18682
+Zwolen 8219
+Lipsko 5925
+Ilza 5163
+
+Siedlce 76333
+Sokolow Podlaski 18796
+Wegrow 12837
+Minsk Mazowiecki 39347
 Nowy Dwor Mazowiecki 28156
 Chotomow 5266
 Lomianki 16375
 
-Radom 221287
-Radzymin 10084
-Zyrardow 41574
-Mszczonow 6369
-Tluszcz 7806
-
-Pruszkow 58144
-Wyszkow 27312
-Przasnysz 17438
-Przysucha 6304
+Ostroleka 53572
+Ostrow Mazowiecka 22842
+Pultusk 19150
+Nasielsk 7587
+Plonsk 22565
 
 Ciechanow 45481
-Sochaczew 38141
-Otwock 44808
-Jozefow 19476
-Jozefoslaw 7130
-Piaseczno 42378
+Przasnysz 17438
 Mlawa 30859
-Nasielsk 7587
-Pultusk 19150
-Lipsko 5925
 Garwolin 16999
-Grojec 16197
-Wegrow 12837
-Ilza 5163
+Raszyn 7477
+Rybie 5129
+Losice 7191
+Lochow 6761

@@ -3,55 +3,87 @@
 Huhehaote 1720938
 Jinhe (Huhehaote) 36624
 Sha'erqin (Huhehaote) 14950
-Chengguan (Helinge'er) 52284
-Chengguan (Qingshuihe) 39153
+Baimiaozi 31478
+Xiaoheihe 64028
+Baoheshao 11509
+Huangheshao 32405
+Yulin 14246
+Yuliangbao 30267
+Zhi'an 18553
+Liujiazi 17887
+Yilongyong 17392
+Xinglongwa 30257
+Qinglongshan 31855
+Sharihaolai 20739
+Arihashate 2368
+Baorixile 16968
+
+Hulunbei'er 409911
+Fendou 32985
+Wufendi 40453
+
+Wudan 138695
+Wudangzhao 6671
+Wang'aizhao 19613
+
+Shulinzhao 219545
+Zhaojun 15702
+Engebei 8744
+A'erbengele 34986
+Bada'erhu 23221
+Cha'ersen 17227
+Guiliuhe 28316
+Liuhu 43582
+Barenzhelimu 18358
+Tuliemaodu 28986
+Yaolinmaodu 23284
+Aolibugao 25508
+Qianjiadian 51419
+Qianjingou 17500
+
+Qipanjing 74934
+Mengxi 16006
+
+Aletengxire 85777
+
+E'erduosi 499237
+Zhunge'erzhao 18969
+Halinge'er 21527
+
+Kunhe 174132
+Machi 32942
+Wanshuiquan 37262
+Shuiquan 33627
+
+Tuquan 93988
+Julihen 18673
+
+Wulanhaote 267375
+Wulanhada 32834
+
+Wulanhua 68322
+Xiwulanbulang 8462
+Wulan 39255
+Mukainao'er 7094
+Ejinao'er 6294
+Daotenao'er 5165
+Wuliyasitai 40290
+Gadabuqi 3308
+Hongge'ertu 17914
+Bihong 23222
 Honghe 12437
 
 Shuanghe (Huhehaote) 92953
 Shuanglong 23420
-Qinglongshan 31855
-Xinglongwa 30257
-Yilongyong 17392
-Guangyilong 10829
-Kuluntu 15908
-Kulun 35604
-Baiyinhua 21691
-Baiyanhua 7839
-Hayehutong 12379
-Wutonghua 34699
-Chutoulang 25179
-Qiaotou 51878
-
-Baotou 1563642
-Sha'erqin (Baotou) 52534
-Wudangzhao 6671
-Wang'aizhao 19613
-Meidaizhao 23059
-Shandai 29605
-Wushen 21016
-Wushijia 10078
-Wushijiazi 21499
-Xinlin (Chifeng) 12304
-Linxi 25878
-Bayinxile 11834
-Bayintala 15592
-Bayintaohai 16104
-Gongwusu 26856
-Balagong 9873
-Dukou 8906
-Longkou 30843
-
-Xuejiawan 183905
-Lamawan 15732
-Xiawa 31104
-Niugutu 37833
-Hailiutu 53830
-Delingshan 20489
-Langshan 21700
-Bainaobao 21187
+Jiangjunyao 30576
+Bo'erjianghaizi 8787
+Shanghaimiao 11342
+Lasengmiao 14212
+Shuangmiao 16277
+Shuanghe (Bayannao'er) 16952
 
 Bayannao'er 383225
-Shuanghe (Bayannao'er) 16952
+Ming'an (Bayannao'er) 15529
 Chengguan (Bayannao'er) 33178
 Mandu Hubaolage 5958
 Xinbaolage 21495
@@ -63,334 +95,90 @@ Bayantala (Xilinguole) 4177
 Bayanhua (Xilinguole) 21052
 
 Huolinguole 93526
-Bayinhushuo 14591
-Bayaertu Hushuo 11975
-
-Bayanhushu 89243
-Gahaitu 29801
-Shahai 17601
+Arikunduleng 7251
+Kundu 8339
+Xiangshan 18567
+Langshan 21700
 
 Shanba 119746
-Bayinbaolige 40368
-Manhui 20466
-Xinhua 29443
-Yindingtu 10102
-Xindianzi 11909
-Dianzi 18375
-Zhanggao 21457
-Shangguandi 13642
-Guandi 16022
-Wufendi 40453
-Fendou 32985
-
-Hulunbei'er 409911
-Jinhe (Hulunbei'er) 15614
-Ganhe 41377
-Genhe 53054
-Tulihe 35957
-Julihen 18673
-
-Wulanhaote 267375
-Wulanhada 32834
-Wulan 39255
-Mukainao'er 7094
-Ejinao'er 6294
-Daotenao'er 5165
-Wuliyasitai 40290
-Wusitai 18783
-Zongbieli 14538
-Barunbieli 6955
-Tenggeli Elisi 1888
-Wendu'erletu 2425
-Hu'erle 35780
-Bada'erhu 23221
-Cha'ersen 17227
-Guiliuhe 28316
-Liuhu 43582
-Liuhe 36033
-Woniuhe 24964
-
-Zhalantun 153000
-Wulantuke 36321
-Tuke 14849
-Galutu 60056
-Hailutu 21360
-Charisu 37877
-Narisong 29258
-Nalintaohai 31582
-Hantai 31556
-
-E'erduosi 499237
-Zhunge'erzhao 18969
-
-Shulinzhao 219545
-Zhaojun 15702
-Engebei 8744
-Halinge'er 21527
-
-Kunhe 174132
-Machi 32942
-Dachengzi 33928
-Xiaochengzi 25208
-Niujiayingzi 45950
-
-Mujiayingzi 101427
-Wujia 16576
-Wujiahe 20594
-Liujiazi 17887
-Sijiazi 43973
-Jinchanggouliang 28421
-Changsheng 49603
-Xingsheng 54481
-Qingfu 41426
-Wangfu 24838
-Wangyefu 30059
-Xiaoniuqun 35106
-Xiqiao 24959
-Erdaoqiao 27504
+Shahai 17601
 Sandaoqiao 23668
+Erdaoqiao 27504
 Toudaoqiao 19021
 Longshenghe 14388
 Longshengzhuang 18945
-
-Fengzhen 134396
 Jubaozhuang 24081
-Zhuozishan 51161
-Lihua 13548
-Maihutu 20412
+Huangqihai 19323
+Baihaizi 16396
 
-Daihai 84148
-Liusumu 25014
-Haoyaosumu 27569
-Yaolinmaodu 23284
-Aolibugao 25508
-Qianjiadian 51419
-Qianjingou 17500
-Dabeigou 23528
-Habiriga 11460
-Shangdu 39725
-Dongdu'erji 40061
-Du'erji 20247
-Zhasake 17689
-Wushenzhao 10506
-Hongqinghe 11850
-Zhonghexi 5332
-Xianfeng 30739
-Shengfeng 14740
-Xixiaozhao 22333
-Xin'an 33950
-Xin 34671
-Yongxing 8806
-Wanheyong 13941
-Halahada 12846
-Wulantaolegai 9737
-Jilantai 16083
-Bailang 2449
-Hailasu 14027
-Shuangsheng (Chifeng) 16292
-Bayanhua (Chifeng) 23361
-Kundu 8339
-Arikunduleng 7251
-Mandula 1107
-Mandulatu 19213
-Bieligutai 23027
-Chagannao'er 5224
-Chagannuo'er 12206
-Baoriwusu 14704
-Saiwusu 24109
-Bihong 23222
-Hongge'ertu 17914
-Hongge'ergaole 4689
-Sanggendalai 10611
-Dalainuori 4892
-Dalaihubu 16927
-Yabulai 3379
-Aolun Bulage 4094
-Huhewendu'er 11805
-Chaogewendu'er 7176
-Shaogen 18725
-Maixin 32830
-Heilongba 21660
-Yuliangbao 30267
-
-Tongliao 588835
-Liaohe 48646
-Xiaoheihe 64028
-Baoheshao 11509
-Huangheshao 32405
-Yulin 14246
-Qixiaying 25451
-Bayinhua 1500
-Yinhao 18933
-Xiashihao 27561
-Shihahe 10217
-Xidoupu 17026
-Xingshunxi 14821
-Huaishuo 19318
-Wukehudong 26484
-Bailingmiao 38575
-Shuangmiao 16277
-Ganzhaomiao 29849
-Nuomin 17068
-Tawen'aobao 28050
-Baoshan 16751
-A'erla 12994
-Xiwa'ertu 23485
-
-Ni'erji 101408
-Tumu'ertai 23485
-Tumuji 12596
-
-Yinde'er 127998
-E'ergetu 18325
-
-Ke'erqin 81780
-Huo'erqi 41856
-Yadong 50677
-Lindong 58642
-Shisan Aobao 44897
-Alateng Aobao 2220
-Alongshan 13768
-Baolongshan 61046
-Dailiji 19459
-Jiamatu 41123
-Huatugula 31953
-Shebotu 50463
-Xibohua 44374
-Jianhua 33974
-Xiaojieji 52731
-Tuanjie 12176
-Tianjitai 10231
-
-Qitai 92336
-Shibaqing 16238
-Shibao 26397
-Shibatai 17340
+Wulanchabu 325327
+Tuguiwula 62033
 Pingdiquan 17923
 Sanyiquan 9860
-Shuiquan 33627
+Shibatai 17340
+Bayinxile 11834
+Bayintala 15592
+Bayintaohai 16104
+Nalintaohai 31582
+Wuduntaohai 29380
+Gulubanhao 32894
 
-Tuquan 93988
-Huanghuashan 14952
+Bayanhaote 94445
+Barunbieli 6955
+Zongbieli 14538
+Wusitai 18783
+Nugusitai 16762
+Mulitu 40813
+Yuxin 31142
+Fengtian 28044
+Dongfeng (Tongliao) 21528
+Donglai 19023
+Dongming 41718
+Hongmiaozi 15167
+Wenzhong 29226
 
-Lubei 98240
-Youbeiping 40752
+Chifeng 976474
+Fengshuigou 16776
+Taipingdi 37598
 
 Pingzhuang 66178
 Meilihe 23180
-Nailin 32013
-Meilin 23780
 Heilihe 22298
-Balihan 37972
-Alihe 33022
-Gaoliban 26388
-Haolibao 43688
-A'erbengele 34986
-Xinlin (Xing'an) 30859
-Moguqi 58694
+Meilin 23780
+Wangyefu 30059
+Xiaoniuqun 35106
+Xiaochengzi 25208
+Dachengzi 33928
+Sanzuodian 41280
+Dianzi 18375
+Zhanggao 21457
+Shangguandi 13642
+Dashuangmiao 41652
+Huangyangcheng 13449
+Xiangyangyu 27781
 
-Chasuqi 90027
-Chileichuan 23682
-Chengchuan 14070
-Tongchuan 42964
-Longchang 39959
+Naji 66056
+Huo'erqi 41856
 
-Longxingchang 149392
-Xingongzhong 18889
-Wenzhong 29226
-Hongmiaozi 15167
-Yuanbaoshan 35829
-Fengshuigou 16776
-Taipingdi 37598
-Haladaokou 24156
-Wuduntaohai 29380
+Ke'erqin 81780
+E'ergetu 18325
 
-Wudan 138695
-
-Daban 88516
-Xinchengzi 16796
-Tuchengzi 16253
-Gucheng 21356
-Baimiaozi 31478
-Shanghaimiao 11342
-Aolezhaoqi 36142
-Haoletugaole 5541
-Balaga'ergaole 42069
-Jirengaole 7473
-
-Bayangaole 68166
-Dayan 57324
-Bayantuohai 27834
-Ba yantaohai 27239
-Ta'erhu 27262
-Bu'erhantu 33716
-Kebu'er 46347
-Subu'erga 7413
-Bo'erjianghaizi 8787
-Baihaizi 16396
-Huangqihai 19323
+Yinde'er 127998
+Yindingtu 10102
+Wudinghe 20077
+Hongqinghe 11850
 Hongqi 15040
 Xingyao 11829
-Xiangyangyu 27781
 Hongyan 14657
+Hadayang 16579
 
 Dayangshu 98083
-Hadayang 16579
-Tengke 13457
-
-Aletengxire 85777
-Mengxi 16006
-Qianlishan 22966
-
-Wuhai 448567
-Wuhua 20903
-Mangnong 34705
-
-Tianyi 121656
-Daming 48349
-Damiao 21807
-Laofu 27768
-Fuhe 19756
-Mianduhe 37876
-Muyuan 14819
-Chuoheyuan 26878
-Boketu 27255
-Baiyinchaoketu 5072
-Baiyinchagan 62292
-Meiguiying 16541
-Tuguiwula 62033
-Xiwulanbulang 8462
-
-Wulanhua 68322
-Jishengtai 18447
-Xilamuren 2077
+Dayan 57324
+Bayantuohai 27834
 Bayankuren 23993
-Baorixile 16968
-Gaorihan 3829
-Suoboriga 16799
-Jirigalangtu 21581
-Fengtian 28044
-Yuxin 31142
-Mulitu 40813
-Nugusitai 16762
-Qinghe 35520
-Wudinghe 20077
-Angsu 6728
-Xiangshan 18567
-Tianshan 31120
-Tianshankou 30307
 
-Jinshan 77915
-Wanshuiquan 37262
-
-Hedong 68269
-Dongming 41718
-Donglai 19023
-Dongfeng (Tongliao) 21528
-Shuangsheng (Tongliao) 33830
-Bayantala (Tongliao) 33327
-Menda 25637
-Nurimu 17138
+Bayanhushu 89243
+Bayaertu Hushuo 11975
 Jurihe 23842
 Zhurihe 10162
 Saihantala 45716
@@ -398,143 +186,355 @@ Wurigentala 8021
 
 Erlianhaote 71455
 Chagan'aobao 2218
-Baochang 61899
-Luotuoshan 9292
+Chagannao'er 5224
+Hongge'ergaole 4689
+Jirengaole 7473
+Haoletugaole 5541
+Balaga'ergaole 42069
+Balagong 9873
+Dukou 8906
+
+Bayangaole 68166
+Qianlishan 22966
+
+Wuhai 448567
+Wulannao'er 4197
+Gongwusu 26856
+Wusutu 7919
+Gongjitang 17030
+Guangyilong 10829
+Kuluntu 15908
+Kulun 35604
+Baiyinhua 21691
+Bayinhua 1500
+Yinhao 18933
+Xiashihao 27561
+Shihahe 10217
+Xidoupu 17026
+Xingshunxi 14821
+Xingsheng 54481
+Qingfu 41426
+Wangfu 24838
+Kouhezi 36356
+Gaoliban 26388
+Alihe 33022
+Balihan 37972
+Gaorihan 3829
+Baoriwusu 14704
+Chagannuo'er 12206
 Duolunnuo'er 54426
 Luanyuan 10543
-Zhirui 22456
-Yihegong 29297
-Guangdegong 28032
-Gongjitang 17030
-Chengjisihan 46899
-Dahewan 26658
-Daheishatu 20386
-Heishantou 2029
-E'erguna 42435
-Kudu'er 26268
-Wu'erqihan 35179
-
-Yakeshi 147941
-Hake 27315
-Kekeyi Ligeng 52412
-Taigemu 27728
-Jigesitai 12002
-Bainijing 23100
-Xini 59225
+Muyuan 14819
+Chuoheyuan 26878
+Boketu 27255
+Baiyinchaoketu 5072
+Baiyinchagan 62292
+Meiguiying 16541
+Bisiyingzi 25125
+Baiyinwula 10805
+Baiyanhua 7839
+Bayanhua (Chifeng) 23361
+Lindong 58642
+Shisan Aobao 44897
+Alateng Aobao 2220
+Tenggeli Elisi 1888
+Tengke 13457
+Nuomin 17068
+Tawen'aobao 28050
+Bainaobao 21187
+Manhui 20466
 
 Xinhui 119272
-Sidaowanzi 32632
+Xinhua 29443
+Wulantuke 36321
+Tianjitai 10231
+Tuanjie 12176
+Badanjilin 16798
+Yabulai 3379
+Aolun Bulage 4094
+Suolun 17985
+Dashizhai 33130
+Dashetai 32753
+Ming'antu 32753
+Ming'an (Baotou) 1714
+Sha'erqin (Baotou) 52534
+
+Baotou 1563642
+Qiaotou 51878
+Wutonghua 34699
+Huanghuashan 14952
+
+Lubei 98240
+Youbeiping 40752
+
+Youyouban 153429
+Taigemu 27728
+Bikeqi 28493
+Jishengtai 18447
+Shengle 36171
+Gucheng 21356
+Wushijia 10078
+Wushen 21016
+Shandai 29605
+Baoshan 16751
+A'erla 12994
+Xiwa'ertu 23485
+Tumu'ertai 23485
+Tumuji 12596
+
+Mujiayingzi 101427
+Niujiayingzi 45950
+Wujia 16576
+Nailin 32013
+Bailingmiao 38575
+Wukehudong 26484
+Yadong 50677
+
+Hedong 68269
+E'erdong 16045
+
+Chengguan (Wulanchabu) 82611
+Chengguan (Helinge'er) 52284
+Chengguan (Qingshuihe) 39153
+Lamawan 15732
+
+Xuejiawan 183905
+Xiawa 31104
+Niugutu 37833
+Beizifu 45637
+Jinchanggouliang 28421
+Changsheng 49603
+
+Daqintala 115306
+Bayantala (Tongliao) 33327
+Shuangsheng (Tongliao) 33830
+
+Tongliao 588835
+Liaohe 48646
+Huatugula 31953
+Shebotu 50463
+Xibohua 44374
+Xiaojieji 52731
+Jianhua 33974
+
+Kailu 119874
+Hailutu 21360
+Charisu 37877
+Narisong 29258
+Shagedu 63832
+Tieshagai 23478
+Kebu'er 46347
+Subu'erga 7413
+Bu'erhantu 33716
+Hantai 31556
+Jilantai 16083
+Wulantaolegai 9737
+Halahada 12846
+Wanheyong 13941
+Yongxing 8806
+Tongxing 11948
+
+Longxingchang 149392
+Xingongzhong 18889
+Ta'erhu 27262
+Wujiahe 20594
+Ba yantaohai 27239
+Shengfeng 14740
+Xixiaozhao 22333
+Qixiaying 25451
+Lihua 13548
+Zhuozishan 51161
+Heishantou 2029
+Daheishatu 20386
+Shibaqing 16238
+
+Qitai 92336
+Xiaohaizi 21521
+Saiwusu 24109
+Zhasake 17689
+Du'erji 20247
+Dongdu'erji 40061
+Yong'an 22518
+Xinlin (Xing'an) 30859
+Xinlin (Chifeng) 12304
+Tongbu 18353
+Heilongba 21660
+Dayushu 24231
+Bayinhushuo 14591
+Bailang 2449
+Amugulang 18247
+Yiminhe 27601
+Jinhe (Hulunbei'er) 15614
+Genhe 53054
+Tulihe 35957
+Kudu'er 26268
+Wu'erqihan 35179
+Mianduhe 37876
+Mandula 1107
+Mandulatu 19213
+Bieligutai 23027
+A'ershan Baolage 6325
+A'ershan 42325
+Tianchi 4303
+
+Tianyi 121656
+Mangnong 34705
+Mangui 11622
+Mo'erdaoga 17970
+E'erguna 42435
+Hake 27315
+Shaogen 18725
+Chaogewendu'er 7176
+Huhewendu'er 11805
+Wendu'erletu 2425
+Jia'ergale Saihan 6888
+Ji'ergalang 24426
+Jirigalangtu 21581
+Habiriga 11460
+Shangdu 39725
+Baochang 61899
+Longchang 39959
+Tongchuan 42964
+Chengchuan 14070
+Aolezhaoqi 36142
+Wushenzhao 10506
+Tuke 14849
+Yijinhuoluo 10471
+Bainijing 23100
+Xijingzi 22055
+Tunkendui 23974
+Nurimu 17138
+Jiamatu 41123
+
+Baokang 94516
+Dailiji 19459
+Baolongshan 61046
+Alongshan 13768
+Hongshaba 9711
+
+Fengzhen 134396
+Heitutai 15832
+Biliutai 40513
+Hailiutu 53830
+Delingshan 20489
+Xin'an 33950
+
+Wulashan 118694
+Dongfeng (Alashan) 8350
+Dalaihubu 16927
+Dalainuori 4892
+Sanggendalai 10611
+Menda 25637
+
+Dalin 79258
+Qinghe 35520
 Anqing 25481
 
 Ganqika 89451
 Chaolutu 16693
 Eleshun 10346
-Zhi'an 18553
-Yong'an 22518
-Ming'antu 32753
-Ming'an (Baotou) 1714
-Ming'an (Bayannao'er) 15529
-Wulannao'er 4197
-Lasengmiao 14212
-Dashuangmiao 41652
-Huangyangcheng 13449
-Bisiyingzi 25125
-Baiyinwula 10805
+Baxiantong 49373
+Maixin 32830
+Yihetala 29571
+Yihegong 29297
+Damiao 21807
+Daming 48349
+Xizi 53017
+Xiqiao 24959
+Yuanbaoshan 35829
+Haoraoshan 10264
+Moguqi 58694
+Chengjisihan 46899
 
-Wulashan 118694
-Duguitala 19041
-Mangui 11622
-Mo'erdaoga 17970
-E'erdong 16045
+Zhalantun 153000
+Dahewan 26658
+Woniuhe 24964
+Liuhe 36033
 
-Chengguan (Wulanchabu) 82611
+Ni'erji 101408
+Wulubutie 13810
+Ganhe 41377
 
-Wulanchabu 325327
-Tianchi 4303
-A'ershan 42325
-A'ershan Baolage 6325
-
-Xilinhaote 232944
-
-Bayanhaote 94445
-Jia'ergale Saihan 6888
-Ji'ergalang 24426
-Agula 14552
-Amugulang 18247
-Yiminhe 27601
+Yakeshi 147941
 Cuogang 4655
 Xinkaihe 7676
 
 Manzhouli 142391
-Hulun 3322
-Alatan'emole 23206
-Arihashate 2368
-Sharihaolai 20739
-
-Daqintala 115306
-
-Salaqi 104090
-Goumen 30661
-Wuchagou 19234
-Suolun 17985
-Dashizhai 33130
-Baoshi 38276
-Tuliemaodu 28986
-Barenzhelimu 18358
-
-Chifeng 976474
-Dongfeng (Alashan) 8350
-Badanjilin 16798
-
-Qipanjing 74934
+Yuzhoudi 13503
+Linxi 25878
 Dajing 11960
 Jingpeng 23116
-Yuzhoudi 13503
-Tongbu 18353
-Tongxing 11948
-Heitutai 15832
-Biliutai 40513
-Kouhezi 36356
-Huhenuo'er 3921
-Huhemudu 5164
+Zhirui 22456
+Tuchengzi 16253
+Xinchengzi 16796
 
-Youyouban 153429
-Gulubanhao 32894
-Manhan 16213
-Shengle 36171
-Bikeqi 28493
-Hale 16056
-Dalu 4167
-
-Dalin 79258
-
-Baokang 94516
-Jinbaotun 32291
-Tunkendui 23974
-Xijingzi 22055
-Xinyingzi 55437
-Jiangjunyao 30576
-
-Kailu 119874
-Dayushu 24231
-Yihetala 29571
-Dashetai 32753
+Daban 88516
+Guandi 16022
+Guangdegong 28032
+Hailasu 14027
+Shuangsheng (Chifeng) 16292
 Xiaoshetai 7232
-Haoraoshan 10264
-
-Naji 66056
-Shagedu 63832
-Tieshagai 23478
-Wusutu 7919
-Wulubutie 13810
-Wulanmulun 61970
-Yijinhuoluo 10471
-Xizi 53017
-Xiaohaizi 21521
-Beizifu 45637
-Baxiantong 49373
-Sanzuodian 41280
+Baoshi 38276
 Gegenmiao 26872
+Ganzhaomiao 29849
+Meidaizhao 23059
+Chileichuan 23682
+
+Chasuqi 90027
+Goumen 30661
+
+Salaqi 104090
+Jigesitai 12002
+Dalu 4167
+Xinyingzi 55437
+
+Xilinhaote 232944
+Wushijiazi 21499
+Suoboriga 16799
+Fuhe 19756
+Tianshan 31120
+Tianshankou 30307
+
+Jinshan 77915
+Huaishuo 19318
+Shibao 26397
+Xilamuren 2077
+Kekeyi Ligeng 52412
+Hale 16056
+
+Daihai 84148
+Liusumu 25014
+Haoyaosumu 27569
+Wulanmulun 61970
+Hulun 3322
+Alatan'emole 23206
+Galutu 60056
+Angsu 6728
+Xini 59225
+Duguitala 19041
+Zhonghexi 5332
+Xianfeng 30739
+Sijiazi 43973
+Sidaowanzi 32632
+Xindianzi 11909
+Manhan 16213
+Maihutu 20412
+Haolibao 43688
+Hu'erle 35780
+Bayinbaolige 40368
+Jinbaotun 32291
+Agula 14552
+Xin 34671
+Hayehutong 12379
+Chutoulang 25179
+Laofu 27768
+Longkou 30843
+Gahaitu 29801
 Debosi 26042
-Hongshaba 9711
-Gadabuqi 3308
+Haladaokou 24156
+Dabeigou 23528
+Luotuoshan 9292
+Wuhua 20903
+Wuchagou 19234
+Huhemudu 5164
+Huhenuo'er 3921

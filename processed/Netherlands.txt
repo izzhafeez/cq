@@ -6,39 +6,359 @@ Amstelveen 79639
 Ouderkerk aan de Amstel 7955
 Ouderkerk aan den IJssel 4025
 
-Krimpen aan den IJssel 29017
-
 Capelle aan den IJssel 65255
 
-Berkel en Rodenrijs 20189
+Krimpen aan den IJssel 29017
 
-Rijswijk 47299
+Alphen aan den Rijn 70251
+Rijnsaterwoude 1130
+Ferwoude 145
+Luxwoude 285
+Wons 285
+Tersoal 350
+Keersop 45
+Tweede Valthermond 45
+Valthermond 3385
+Tweede Exloermond 2365
+Eerste Exloermond 365
+Het Beijersche 365
+Terschuur 1480
+West-Terschelling 2525
 
-Bleiswijk 10549
-Heeswijk 665
-Heeswijk-Dinther 7985
+Harlingen 16119
+Ingen 1080
+Wemeldinge 2855
+Weerdinge 600
+Kalverdijk 235
+Alverna 1595
+Schoonrewoerd 1595
+Schoonloo 175
+Nieuweschoot 175
+Nieuwe Meer 175
+Oude Meer 175
+Meerland 175
+Stieltjeskanaal 175
 
-Heesch 12810
+Stadskanaal 20000
+Nieuw-Buinen 4705
+Buinen 750
+Achterberg 750
+Berg 3200
+Hulsberg 3215
+Gasselternijveen 1780
+Klimmen 1780
+Limmen 7300
+Feinsum 169
+Rinsumageast 965
+Magele 1020
+
+Geleen 32790
+Munstergeleen 4580
+Hulsel 565
+Hulsen 680
+Heenweg 680
+Hoogenweg 410
+Garmerwolde 410
+Terwolde 1120
+Terwispel 545
+De Haspel 250
+De Haar 175
+Raren 175
+
+Barendrecht 38672
+
+Zwijndrecht 45696
+
+Dordrecht 119260
+
+Papendrecht 31621
+
+Sliedrecht 23854
+Wieldrecht 175
+
+Mijdrecht 15230
+Wilnis 5715
+Diergaarde 380
+Wijngaarden 680
+
+Naarden 17115
+
+Bussum 31334
+Acquoy 365
+Boerakker 365
+Gauw 365
+Purmerland 365
+
+Hoogland 10587
+Hoogmade 1480
+Stoutenburg 365
+Batenburg 520
+Rustenburg 200
+Achterdijk 200
+Oosterdijk 100
+Zuurdijk 100
+Breeveld 100
+Bareveld 325
+Blesdijke 325
+Boompjesdijk 110
+Indijk 110
+Noorddijk 110
+Abbega 110
+Ballum 360
+Geerdijk 360
+Spierdijk 1585
+Spier 170
+De Woude 170
+De Woerd 130
+
+Woerden 48431
+Woerdense Verlaat 670
+Oud Verlaat 380
+Hijum 380
+Herbaijum 210
+Sonnega 210
+Bronneger 110
+Wjelsryp 360
+Lakerveld 360
+De Groeve 360
+Boksum 360
+Saaksum 90
+Haakswold 90
+Lichtaard 90
+Slichtenhorst 450
+Zeerijp 450
+Seerijp 22
+Neerijnen 130
+Bonrepas 130
+Raar 130
+Raard 225
+Paesens 225
+Lioessens 280
+Oosterhesselen 1690
+
+Oosterhout 53107
+Teteringen 7230
+
+Dongen 25464
+'s Gravenmoer 2315
+
+Grave 12999
+Ravenstein 1465
+
+Stein 11290
+Westeind 165
+Westervelde 165
+Barger-Oosterveld 3090
+Zuidbarge 375
+Luinjeberd 425
+Schuddebeurs 375
+Uddel 1865
+Hoog Buurlo 3
+Gerritsflesch 29
 Esch 1820
-Enschot 3865
 
-Oirschot 10393
-Eerschot 2210
-Baarschot 220
-Gietelo 220
-Gieten 4885
-Rolde 3740
-Lucaswolde 200
-Paterswolde 3655
+Boxtel 29511
+Aarle-Rixtel 5125
+Lieshout 3530
+Houtigehage 905
+Schagen 5910
+Schagerbrug 1965
+Vlotbrug 290
+Sint Maartensvlotbrug 715
+Sint Maartensbrug 660
+Gieterveen 660
+Eexterveen 430
+Buinerveen 430
+Markeloschebroek 430
+Marken 1846
+Markvelde 320
+Zuidvelde 80
 Eelde 6450
 Deldeneresch 200
-Delden 6920
-Woolde 1670
+Deldenerbroek 420
+Kerkwijk 420
+Kerkwerve 575
+Tjerkwerd 295
+Feerwerd 165
+Goenga 165
+Goengahuizen 55
+Poortugaal 55
+Weipoort 345
+Earnewald 345
+Suwald 555
+Geesteren 555
+Roosteren 1125
+Eastermar 1310
+Handel 1310
+Andel 2245
+Commandeurs 2595
+Ulestraten 2595
+Moerstraten 390
+Westendorp 390
+Kattendijke 390
+IJzendijke 1785
+Kruisland 1785
+Sint Kruis 120
+Zwingelspaan 120
+Dwingeloo 2430
+Born 2430
+
+Borne 20550
 Oldeholtpade 980
-Nijeholtpade 375
-Nijensleek 425
-Nijega 465
-Ouwster-Nijega 85
+Woolde 1670
+
+Oldenzaal 31410
+Delden 6920
+Elden 2300
+Doorwerth 4370
+Doornenburg 2075
+Vredenburg 4370
+Rheden 7400
+Casteren 990
+
+Dieren 14842
+De Steeg 990
+Haarsteeg 2100
+Haaren 3835
+Hilvarenbeek 7855
+Klarenbeek 565
+Beek 8415
+Neerbeek 2480
+Spaubeek 3360
+Oirsbeek 3600
+Retersbeek 105
+Moerbeek 105
+Loerbeek 325
+
+Eerbeek 10103
+Visvliet 300
+Nieuwvliet 275
+Nieuwveen 1265
+Nieuwenhoorn 1130
+Nieuwenberg 255
+Nieuwe Molen 435
+Foxel 435
+Elahuizen 350
+Eppenhuizen 50
+Oranjeplaat 50
+Oranje 395
+Strijensas 395
+Strijen 9371
+Hushoven 190
+Leermens 190
+Leersum 6385
+Amerongen 5085
+Drongelen 235
+
+Tegelen 20190
+
+Haelen 9935
+Augustinusga 1075
+Brunsting 85
+
+Brunssum 29254
+Schinveld 4685
+Schinnen 1550
+Markenbinnen 305
+Annen 3405
+Kunrade 3405
+Klein-Doenrade 155
+Doenrade 1140
+Tienray 1040
+
+Venray 39047
+Klinkenberg 335
+Vinkeveen 2340
+Veenhuizen 950
+Ceresdorp 950
+Losdorp 150
+Aagtdorp 570
+Geestdorp 165
+Westdorp 60
+Uitwierde 60
+Wittewierum 60
+Wierum 315
+Niawier 315
+Metslawier 885
+Wier 200
+Swier 305
+Fochteloo 305
+Bentelo 730
+Stokkum 730
+
+Dokkum 13145
+Damwald 5560
+Feanwalden 3440
+Aalden 1625
+Baalder 3470
+Haalderen 1850
+Meteren 3855
+
+Geldermalsen 25734
+Buurmalsen 685
+Klijndijk 685
+Lijnden 705
+Ter Heijde 705
+Terheijden 5910
+Altweerterheide 595
+Borkel 595
+Arkel 2980
+Zandstraat 348
+Kruisstraat 550
+Lepelstraat 1425
+Stedum 895
+Bedum 7765
+Alteveer 915
+Walterswald 915
+Paterswolde 3655
+Lucaswolde 200
+Kropswolde 180
+Heesbeen 180
+Esbeek 825
+Giesbeek 2745
+
+Groesbeek 18741
+Middelbeers 2715
+Middelbert 105
+Middel 315
+Middelie 685
+
+Middelburg 46485
+
+Elburg 21844
+Middelbuurt 8
+Ens 3174
+
+Emmeloord 46409
+
+Lemmer 10050
+Hommerts 595
+Hommert 860
+Kommerdijk 155
+Kommerzijl 510
+Weidum 510
+Ruinerweide 20
+Peizerweg 25
+Peize 4295
+Peizermade 115
+Hodenpijl 115
+Roden 7030
+
+Leek 19651
+Oterleek 620
+Bong 620
+Stompetoren 1920
+Stavoren 900
+Boekend 900
+Boekel 5480
+Oude Pekela 7580
+Nieuwe Pekela 3895
+Sondel 410
+Andelst 2990
+
+Veendam 28155
+Wildervank 2990
+Wildervanksterdallen 85
 Hichtum 85
 Wachtum 280
 Achterbroek 280
@@ -46,133 +366,72 @@ Kootwijkerbroek 1690
 Katwijk 280
 Brandwijk 280
 Randwijk 935
-Sumar 935
-Marsum 1185
-Feinsum 169
-Rinsumageast 965
-Magele 1020
-Zwagerbosch 585
-Zwaagdijk-West 585
-Kollumerzwaag 2805
-Kollum 5230
-Oostknollendam 585
+Noordwijk 235
 
-Volendam 22000
-Edam 7380
-Ilpendam 1750
-Monnickendam 2015
+Noordwijkerhout 11875
 
-Zaandam 71708
-Zaandijk 9040
+Noordwijk-Binnen 24363
+Voorhout 4670
 
-Zaanstad 140085
-Bovenstad 160
-Bovenstreek 300
-Veeningen 300
+Voorschoten 22468
 
-Wageningen 35433
+Voorburg 38000
 
-Beuningen 25557
-Keuningswijk 250
-Peursum 250
-Dearsum 130
-Bonrepas 130
-Bong 620
+Ypenburg 30000
 
-Dongen 25464
-Teteringen 7230
-Beringe 1925
-Zegge 1575
-Leggeloo 125
-Wolfhaag 125
-Wolfheze 1505
-Voorst 1505
-Westervoort 5635
-Westervelde 165
-Westeind 165
-Westeinde 205
-Maarland 205
-Waarland 1970
-Uitwijk 290
-Uitwierde 60
-Wittewierum 60
-Wierum 315
-Niawier 315
-Metslawier 885
-Wier 200
-Flieren 200
-Lieren 570
+Rijswijk 47299
 
-Dieren 14842
-Casteren 990
-De Steeg 990
-Haarsteeg 2100
-Haaren 3835
-Haren 9375
-Zuidlaren 3905
-Westlaren 1410
-Welberg 1410
-Distelberg 330
-Wijnaldum 330
-Fijnaart 4855
-Sint Kruis 120
-Kruisland 1785
-Kruisweg 330
-Heelweg 110
-Heel 3980
-Heelsum 3175
-Welsum 575
+Bleiswijk 10549
 
-Twello 13500
-Well 2500
-Wellerlooi 1225
-Overloon 3626
-Oudover 240
+Reeuwijk 12817
+Stolwijk 3730
+Dirksland 4500
+Weijland 380
+Weijpoort 1370
+Montfoort 5500
+Montfort 2815
+Chevremont 3160
+Alphen 3160
+Baarle-Nassau 2585
+Baarlo 5215
+Haarlo 320
+Haarle 1045
+Kedichem 1045
+Erichem 370
+Sibrandabuorren 370
+Donderen 370
+Anderen 245
+Roderesch 245
+
+Goedereede 11597
+Eede 515
+Adorp 515
+Heveadorp 750
+Wilhelminadorp 665
+Wilhelminaoord 780
+IJhorst 780
+Horst 455
 Oventje 455
-Maaskantje 1610
-Boskant 790
-Boskamp 1150
+
+Deventer 97331
+Schalkhaar 4610
+Schalsum 125
+Heelsum 3175
+Jelsum 205
+Welsum 575
 Kloosterburen 575
 Klooster 145
 Oosterleek 285
-Wons 285
-
-Monster 11580
-Honselersdijk 7366
-Maasdijk 5000
-Maasland 4545
-
-Maassluis 32780
-
-Hellevoetsluis 21927
-Sluis 1935
-Oudesluis 760
-Elsen 760
-Elsendorp 560
-Belt-Schutsloot 560
-Schutsboom 3490
-Klaaswaal 3490
-Gaast 180
-Heesbeen 180
-Esbeek 825
-Scharsterbrug 825
-Schagerbrug 1965
-Vlotbrug 290
-Sint Maartensvlotbrug 715
-Sint Maartensbrug 660
-Sint Maarten 915
-Walterswald 915
-Suwald 555
-Geesteren 555
-Roosteren 1125
-Oosterend 910
-Barchem 910
-Hem 1035
-Erichem 370
-Herike 370
-Meterik 705
-Nieuwe Wetering 615
-Darp 615
+Westerlee 1295
+Austerlitz 1440
+Meeden 1440
+Uithuizermeeden 2775
+Uithuizen 4935
+Zandeweer 475
+Cadzand-Bad 185
+Terblijt 185
+Brachterbeek 1220
+Soeterbeek 135
 Harpel 135
 Mensingeweer 135
 Langeweg 630
@@ -180,1925 +439,122 @@ Rimburg 630
 Domburg 1435
 Burgerveen 315
 Dalerveen 315
-Middel 315
-Middelie 685
-Klijndijk 685
-Lijnden 705
-Mijnden 105
-Voldijn 2785
-Waalre 6445
-
-Valkenswaard 31071
-Wanswerd 105
-Moerbeek 105
-Retersbeek 105
-Oirsbeek 3600
-Klarenbeek 565
-Beek 8415
-Neerbeek 2480
-Spaubeek 3360
-Craubeek 195
-Sint Pancras 6050
-Sint Philipsland 2095
-Wijk aan Zee 2095
-
-Beverwijk 37585
-
-Velsen-Zuid 67758
-Ven-Zelderheide 610
-Hasselderheide 310
-Odoornerveen 310
-Heemserveen 310
-Ederveen 3100
-
-Ede 67670
-
-Bennekom 14810
-Bennebroek 5140
-Westerbroek 370
-Donderen 370
-Anderen 245
-Genderen 1645
-Andel 2245
-Commandeurs 2595
-Ulestraten 2595
-Moerstraten 390
-Westendorp 390
-Oostendorp 2985
-
-Oosterbeek 11138
-Westerbeek 335
-Stevensbeek 455
-Oosterbierum 455
-Oostrum 2375
-Marrum 1230
-Parrega 335
-Garrelsweer 495
-Krommeniedijk 495
-
-Ommen 11820
-Ommel 570
-Wommels 2065
-Sint Hubert 995
-Sint Geertruid 935
-
-Geertruidenberg 20941
-Raamsdonksveer 6590
-Gageldonk 4865
-Schagen 5910
-Terheijden 5910
-
-Eijsden 11795
-Rijs 165
-Goenga 165
-Kruiningergors 165
-Bruinisse 3100
-
-Carnisse 11225
-Pernis 4785
-
-Spijkenisse 74988
-Spijk 1220
-Zijldijk 185
-Terblijt 185
-Blije 610
-Heinenoord 610
-Veenoord 2175
-Langenoord 1695
-Noordbroek 1665
-Zuidbroek 2255
-Loosbroek 1295
-Broek 200
-Achterdijk 200
-Oosterdijk 100
-Zuurdijk 100
-Breeveld 100
-Breedeveen 65
-Neede 7730
-Eede 515
-Adorp 515
-Heveadorp 750
-Achterberg 750
-Berg 3200
-Hulsberg 3215
-Huls 345
-Hulst 1405
-Lage Mierde 1405
-Hooge Mierde 1310
-Hoogwoud 3645
-Oudwoude 635
-Midwoud 2280
-Westwoud 1330
-Oostwoud 875
-Roodeschool 875
-Oudeschild 1220
-Oudeschip 120
-Zwingelspaan 120
-Dwingeloo 2430
-Langelo 195
-Broek op Langedijk 5695
-Hensbroek 1345
-Okkenbroek 290
-Berenbroek 45
-Tweede Valthermond 45
-Valthermond 3385
-Tweede Exloermond 2365
-Eerste Exloermond 365
-Acquoy 365
-Het Beijersche 365
-Terschuur 1480
-Hoogmade 1480
-
-Hoogland 10587
-Nijland 775
-
-Nijkerk 38335
-Nijkerkerveen 2905
-Castenray 775
-
-Venray 39047
-Brabander 1680
-Schandelo 240
-Handel 1310
-Sint Joost 1310
-Sint Odilienberg 2810
-Odiliapeel 1390
-Zeeland 4750
-Vreeland 35
-Aasterberg 35
-Overberg 1379
-
-Woudenberg 11305
-Renswoude 3420
-Ravenswoud 260
-Lollum 260
-Ool 280
-Woold 65
-Eursinge 65
-Persingen 105
-Huizinge 105
-Ezinge 680
-Heenweg 680
-Hoogenweg 410
-Garmerwolde 410
-Terwolde 1120
-Merselo 1120
-Weerselo 700
-
-Eersel 18185
-Steensel 1280
-Oensel 105
-Ens 3174
-Middelbuurt 8
-
-Elburg 21844
-Oldebroek 3275
-Oldeholtwolde 30
-Doldersum 30
-Leersum 6385
-Ottersum 1585
-Spierdijk 1585
-Geerdijk 360
-Noorddijk 110
-Indijk 110
-Linde 110
-Abbega 110
-Jubbega 3295
-Ubbena 95
-Napels 95
-Wilhelminapark 300
-Wilhelminadorp 665
-Wilhelminaoord 780
-IJhorst 780
-Horst 455
-Venhorst 1050
-Wirdum 1050
-Reduzum 1000
-Stedum 895
-Dalem 895
-Alem 550
-Walem 150
-Witte Paarden 150
-Spaarnwoude 150
-Berkenwoude 1390
-
-Uden 34601
-Oudendijk 435
-Koedijk 255
-Scheendijk 435
-Scheemdermeer 435
-Scheemda 2395
-Liessel 2395
-Lies 125
-Lieveren 125
-Geverik 395
-Doeveren 70
-Achterste Erm 70
-Achterwetering 70
-Wetering 165
-Vriezekoop 165
-
-Vriezenveen 12310
-Westerhaar-Vriezenveensewijk 4470
-Rheezerveen 635
-Achtmaal 635
-Westmaas 1760
-Westdijk 225
-Raard 225
-Raar 130
-Hidaard 130
-Burdaard 1166
-Ternaard 1165
-Hoornaar 440
-Naardermeer 60
-
-Naarden 17115
-
-Bussum 31334
-
-Hilversum 83640
-Kortenhoef 6250
-Kortenoord 25
-Noordhorn 1375
-Noordhoek 1030
-Noord-Sleen 470
-Est 470
-Westergeest 500
-De Westereen 5030
-De Weere 865
-Abbekerk 2110
-Abbenes 855
-Lennisheuvel 855
-Lindenheuvel 8040
-Eikenheuvel 630
-Reuver 6140
-Den Oever 2145
-Merum 2145
-Jistrum 555
-Swartbroek 555
-Vaartbroek 5200
-Vlokhoven 3570
-
-Eindhoven 209620
-Urkhoven 180
-Veldhoven 5340
-Steenoven 105
-Westerhoven 1635
-Westerhoeven 160
-De Vecht 160
-Vechten 120
-Echten 240
-Vredepeel 240
-Vredenburg 4370
-Doornenburg 2075
-
-Doorn 10330
-Maarn 4618
-
-Baarn 24584
-Baard 185
-Kubaard 170
-De Woude 170
-De Woerd 130
-
-Woerden 48431
-Woerdense Verlaat 670
-Oud Verlaat 380
-Oudewater 9836
-Watergang 410
-Eesterga 45
-Goudseweg 45
-Ofwegen 55
-Gendringen 3880
-Ingen 1080
-Wemeldinge 2855
-Weerdinge 600
-Everdingen 805
-
-Scheveningen 23000
-
-The Hague 474292
-De Haar 175
-De Haspel 250
-De Haukes 155
-Heukelom 305
-
-Breukelen 14498
-
-Maarssen 39675
-Maartensdijk 4925
-Odijk 5480
-Boekel 5480
-Boekend 900
-Boer 45
-Gasselterboerveen 40
-Gasselterboerveenschemond 40
 Veelerveen 560
-Veele 205
-Deelen 130
-Deest 1655
-Noordgeest 3700
-
-Bergen op Zoom 66256
-
-Steenbergen 23582
-Wagenberg 1905
-Wagenborgen 1695
-Ankeveense Rade 1110
-Ankeveen 255
-Vinkeveen 2340
-Klinkenberg 335
-
-Hardenberg 57909
-Ter Lucht 115
-Brucht 285
-Bruchem 1370
-Strucht 380
-Haastrecht 4500
-Nieuw-Dordrecht 1370
-
-Dordrecht 119260
-
-Papendrecht 31621
-
-Zwijndrecht 45696
-Wieldrecht 175
-
-Barendrecht 38672
-
-Hendrik-Ido-Ambacht 21027
-Sandelingen-Ambacht 100
-Laaghalen 100
-Hooghalen 810
-Steggerda 810
-
-Leerdam 20758
-Hindeloopen 810
-Opeinde 1630
-Peins 180
-Platteweg 180
-
-Hattem 11876
-Hattemerbroek 1025
-De Koog 1025
-De Kiel 275
-Posterenk 275
-Berkelaar 275
-Laar 680
-Hilaard 245
-Overschild 245
-Schildwolde 1485
-Colijnsplaat 1485
-Heijplaat 1365
-Wijnandsrade 1365
-Vaesrade 975
-Klein-Doenrade 155
-Kunrade 3405
-Doenrade 1140
-Tienray 1040
-Wissenkerke 1040
-Serooskerke 1605
-Koudekerke 2880
-Echtenerbrug 1200
-Overbrug 100
-Nieuwebrug 205
-Geeuwenbrug 270
-Meeuwen 635
-Leeuwen 1075
-Augustinusga 1075
-Koningslust 1270
-Panningen 6710
-Helden 5530
-Elden 2300
-Doorwerth 4370
-Voorweg 710
-Voorstonden 95
-Bronkhorst 95
-Doniaga 95
-Donk 3580
-Son 4930
-Sondel 410
-Andelst 2990
-
-Elst 20488
-Valburg 1660
-Aalburg 5788
-Olburgen 210
-Sonnega 210
-Bronneger 110
-Wittelte 110
-Witten 65
-Kattendijke 390
-Kats 325
-Lathum 530
-Drouwenermond 530
-Drouwen 425
-Drouwenerveen 250
-Camperduin 250
-Opperduit 625
-
-Uitgeest 11794
-
-Oegstgeest 21149
-Rijnsburg 7990
-Valkenburg 3925
-Oud-Valkenburg 125
-Valkeveen 475
-Zalk 475
-Zandeweer 475
-Eindewege 215
-Kranenburg 215
-Buren 710
-Warken 710
-Warnsveld 9200
-Warns 725
-Eeneind 725
-Geeneind 185
-Wadway 185
-Kwadijk 760
-Dijken 60
-Hijken 640
-Rijkel 75
-De Schiphorst 75
-
-Staphorst 15765
-
-Meppel 30697
-Wanneperveen 295
-Nij Altoenae 295
-Noenes 295
-Oene 630
-
-Hoensbroek 25000
-Oploo 975
-Fochteloo 305
-Bentelo 730
-Beitel 70
-Weite 55
-Weiteveen 1510
-
-Klazienaveen 11919
-Geysteren 425
-Kievitsdel 425
-Diever 2175
-Dieverbrug 260
-Zuidloo 260
-Zuidlaarderveen 265
-Opende-Oost 265
-Oost 705
-Oostvoorne 4635
-Eexterveenschekanaal 245
-Annerveenschekanaal 415
-Herveld 415
-Haule 415
-Haulerwijk 2935
-Norg 3290
-Elkenrade 80
-Benzenrade 200
-Herkenrade 175
-
-Ridderkerk 45189
-Ouwerkerk 450
-Nieuwerkerk 2275
-Nieuwersluis 235
-Nieuwesluis 105
-Nessersluis 105
-Middelbert 105
-Middelbeers 2715
-Almkerk 2715
-Almen 710
-
-Almelo 72725
-
-Hengelo 80809
-
-Borne 20550
-Hernen 700
-Terherne 775
-Zwartebroek 775
-Gebroek 220
-Broekhorn 220
-Broekhem 1960
-Crailo 395
-
-Heiloo 20510
-Loo 680
-Schoonloo 175
-Nieuweschoot 175
-Nieuwe Meer 175
-Oude Meer 175
-Meerland 175
-Oosterland 2060
-Westerland 735
-Langeraar 735
-Wieringerwaard 1795
-Wieringerwerf 3210
-Slootdorp 1350
-Sloten 735
-Kallenkote 290
-Hellendoorn 660
-Gieterveen 660
-Saasveld 660
-Rietveld 290
-Velddriel 820
-Kerkdriel 6580
-Kerkwijk 420
-Kerkwerve 575
-Tjerkwerd 295
-Feerwerd 165
-Ferwert 1935
-Onstwedde 1935
-Wedde 600
-Wedderheide 235
-Heide 1040
-
-Leiden 119713
-
-Leiderdorp 25966
-Zunderdorp 430
-Markeloschebroek 430
-Marken 1846
-Markvelde 320
-Triemen 320
-
-Diemen 24361
-Driemond 1500
-Gemonde 1490
-Onderdijk 1630
-Kinderdijk 867
-
-Alblasserdam 18348
-
-Assen 62237
-Zeyen 737
-Zennewijnen 80
-Dorkwerd 80
-Hoogcruts 80
-Hogebrug 80
-Noorderhoogebrug 285
-Noordzijde 285
-Zuidzijde 655
-
-Bodegraven 19395
-Graafland 380
-Weijland 380
-Weijpoort 1370
-Weipoort 345
-Earnewald 345
-Garnwerd 345
-Cornwerd 90
-Krewerd 90
-Snelrewaard 825
-Bingelrade 825
-Eckelrade 570
-Wijckel 640
-Borkel 595
-Workum 4105
-Renkum 9421
-Soerendonk 1660
-Heteren 4805
-Kesteren 4455
-Dieteren 745
-Meteren 3855
-Haalderen 1850
-Aalden 1625
-Baalder 3470
-
-Rhenen 18061
-
-Veenendaal 61271
-
-Veendam 28155
-Steendam 160
-Steenderen 1950
-Warffum 1950
-Warfhuizen 205
-
-Huizen 45292
-Bijvanck 4560
-
-Cranendonck 19966
-Maarheeze 4715
-Heeze 9110
-Heeg 1995
-Heek 120
-
-Leek 19651
-Roden 7030
-Roderesch 245
-Roderwolde 300
-Kolderwolde 55
-Poortugaal 55
-Tinallinge 55
-Sellingen 1060
-Sellingerbeetse 205
-Fort 205
-Eexterzandvoort 100
-
-Zandvoort 16868
-Vogelenzang 1955
-
-Oldenzaal 31410
-Zuid-Berghuizen 3680
-Berghuizen 145
-Randenburg 145
-Aardenburg 2005
-Lammerenburg 1200
-
-Ypenburg 30000
-
-Voorburg 38000
-
-Voorschoten 22468
-Voorhout 4670
-
-Noordwijkerhout 11875
-
-Noordwijk-Binnen 24363
-Noordwijk 235
-Putkop 235
-Puth 1990
-Cothen 2765
-Rothem 1590
-Houthem 1470
-Schellinkhout 900
-Brinkhoek 595
-Brigdamme 595
-Hommerts 595
-Hommert 860
-Kommerdijk 155
-Ten Esschen 155
-Duin en Bosch 370
-Bosch en Duin 1675
-Wijbosch 1365
-Weebosch 535
+Gasselterboerveenschemond 40
+Gasselterboerveen 40
+Boer 45
+Boerdonk 535
 Midlum 535
-Midlaren 185
-
-Laren 11508
-Blaricum 5060
-
-Castricum 35256
-
-Maastricht 122378
-Amby 6535
-Baambrugge 1010
-Baambrugse Zuwe 460
-Hooge Zwaluwe 1265
-Nieuwenhoorn 1130
-Nieuwoord 1265
-Nieuwveen 1265
-Nieuwvliet 275
-Visvliet 300
-Vlierden 1115
-Lierop 1460
-
-Geldrop 27900
-Kropswolde 180
-Munnekemoer 180
-Munnekeburen 370
-Munnekezijl 405
-Ried 405
-Oude-Niedorp 405
-Nieuwe-Niedorp 2810
-Nieuwediep 250
-Nieuwehorne 1450
-Bakkeveen 1450
-Hollandsch Ankeveen 130
-Olland 580
-Hoek van Holland 9400
-
-'s-Gravenzande 19190
-
-Grave 12999
-Ravenstein 1465
-
-Stein 11290
-Elsloo 7220
-Holsloot 120
-Holysloot 265
-Loon 265
-Stroobos 265
-Stroe 695
-Stroet 355
-
-Harenkarspel 15941
-Oudkarspel 3170
-Noord-Scharwoude 5665
-Zuid-Scharwoude 6165
-Scharwoude 430
-Zuiderwoude 320
-Muiden 6223
-
-Weesp 17802
-Esp 10
-Bolenberg 10
-Kalenberg 190
-Leermens 190
-Leens 1675
-Obergum 1675
-Burgum 9720
-Noardburgum 2385
-Akkrum 3440
-Feanwalden 3440
-Damwald 5560
-Maasdam 585
-Willemsoord 585
-Kootstertille 2180
-Twijzel 1020
-Twijzelerheide 1580
-Ammerstol 1580
-Stoof 585
-Ottoland 500
-Tuil 500
-Tuikwerd 3005
-Farmsum 2185
-Reitsum 135
-Stitswerd 60
-Bitswijk 4030
-Velswijk 285
-Vrouwenakker 285
-Vrouwenpolder 765
-Westenschouwen 235
-Schoonouwen 140
-Schoonebeek 3845
-Nieuw-Schoonebeek 780
-Nieuw-Scheemda 235
-Nieuw-Balinge 765
-Balinge 90
-Lichtaard 90
-
-Lichtenvoorde 19590
-
-Aalten 19141
-
-Raalte 20015
-Heino 6459
-Windesheim 385
-Meedhuizen 385
-Veldhuizen 9460
-Vleuten 6945
-Leuth 1595
-Schoonrewoerd 1595
-Alverna 1595
-Kalverdijk 235
-Moerdijk 1030
-Doonheide 1030
-Valkenheide 170
-Poppenwier 170
-Joppe 440
-Peperga 60
-
-Epe 33385
-Epen 725
-Doezum 725
-Driezum 840
-Nieuw-Dijk 840
-Loil 840
-Ooij 2090
-Beesel 2090
-Ees 310
-Ee 610
-Een 535
-Veen 2595
-Overveen 3685
-
-Haarlem 147590
-Haarle 1045
-Kedichem 1045
-Zuilichem 1245
-
-Woudrichem 14208
-
-Gorinchem 34736
-Bergen aan Zee 415
-Bergenshuizen 210
-Waardhuizen 210
-Schettens 210
-Petten 1640
-Etten 1470
-Itteren 930
-Van Starkenborgh 930
-Stakenborg 185
-Keijenborg 1050
+Klooster-Lidlum 35
+Noordeloos 1560
+Noordeinde 1610
 Heijen 1610
 Wadenoijen 720
 Oijen 745
 Lithoijen 745
 Lith 2895
-
-Uithoorn 26846
-
-Mijdrecht 15230
-Wilnis 5715
-Wilp 970
-Heihoek 970
-Helhoek 40
-Cellemuiden 40
-Arnemuiden 5075
-Muiderberg 1605
-Scherpenisse 1605
-Herpen 2360
-Middelrode 1465
-Nistelrode 6090
-Vorstenbosch 1630
-Herkenbosch 3935
-
-'s-Hertogenbosch 134520
-Molenhoek 3745
-Molenschot 700
-
-Enschede 153655
-
-Losser 22431
-
-Oss 76430
-Rossum 2190
-Hoge Enk 895
-De Engel 645
-Maren-Kessel 645
-Gasselte 1495
-Nederasselt 645
-Overasselt 1715
-Asselt 180
-Hasselt 6959
-Frankhuis 6145
-Lierderholthuis 176
-Heerde 8850
-Wapenveld 3995
-Papenveer 1135
-
-Heerenveen 43094
-Veere 500
-Ubbergen 500
-
-Tubbergen 20334
-Jabeek 700
-Strabeek 160
-Zorgvlied 160
-Vliedberg 4445
-Zandberg 55
-Wolsum 55
-Holst 45
-Olst 4780
-Soestdijk 4780
-
-Soest 45021
-Soestduinen 150
-Geestdorp 165
-Aagtdorp 570
-Losdorp 150
-Ransdorp 290
-Hulhuizen 290
-Idskenhuizen 490
-Hemrik 490
-Azewijn 490
-Zijdewind 290
-Lutjewinkel 490
-Winkel 3460
-Vinkel 60
-Vinkega 130
-Beemte 130
-Beemte-Broekland 1000
-Meerwijck 1000
-Blitterswijck 1105
-Scharendijke 1105
-Schoondijke 1280
-IJzendijke 1785
-IJzendoorn 785
-Wilbertoord 785
-Noorddorp 335
-Noordbeemster 335
-Eemster 145
-Emst 1310
-Wessem 2050
-Kessel 3020
-Kesseleik 715
-Grootschermer 715
-Schermerhorn 1290
-Vierhouten 395
-Houten 1335
-Udenhout 7650
-Bolnes 7650
-Nes 1140
-Renesse 1095
-Horssen 1095
-Gorssel 3530
-Lieshout 3530
-Houtigehage 905
-
-Gemert 15995
-Ophemert 1425
-Lepelstraat 1425
-Zandstraat 348
-Sluiskil 2411
-Spui 258
-Puiflijk 1105
-Weerestein 1105
-Mantgum 1105
-Brantgum 215
-Dedgum 95
-Foudgum 80
-Firdgum 60
-Wirdumerdraai 135
-Oudemirdum 1335
-Koudum 2600
-Woudsend 1375
-Abtswoude 25
-Peizerweg 25
-Ruinerweide 20
-Altweerterheide 595
-Eperheide 125
-Spekholzerheide 3175
-Gracht 2080
-
-Drachten 44537
-Echteld 545
-Terwispel 545
-Nispen 1245
-Zevenbergschen Hoek 1245
-
-Bergschenhoek 16579
-Kamperland 1610
-
-Kampen 48980
-Melderslo 1175
-Eelderwolde 295
-Pieterburen 295
-Uiterburen 320
-Zuiderburen 5790
-Slijkenburg 35
-Pijnenburg 35
-Nijetrijne 50
-Nijehaske 50
-Oranjeplaat 50
-Oranje 395
-Oranjedorp 425
-Luinjeberd 425
-Schuddebeurs 375
-Uddel 1865
-Hoog Buurlo 3
-Otterlo 2230
-Heerle 1320
-
-Heerlen 93084
-Neerlangel 70
-Overlangel 465
-Koekangerveld 140
-Koekange 1085
-Langedijke 295
-Boomhoek 295
-Langenboom 1400
-Tytsjerk 1400
-Ryptsjerk 811
-Garyp 1545
-Warga 1560
-Warstiens 35
-Stiens 7300
-Limmen 7300
-Menaam 2682
-Dronryp 3486
-Wjelsryp 360
-De Groeve 360
-De Hoeve 300
-Hoeven 4895
-Leveroy 770
-Kleverskerke 60
-Meliskerke 1225
-Mamelis 50
-Bruisterbosch 50
-Echterbosch 50
-Exloerveen 50
-Exloo 1525
-Noordeloos 1560
-Noordeinde 1610
-Zuideinde 230
-Barnflair 230
-Jutrijp 230
-Strijp 3955
-Leenderstrijp 415
-Leende 3490
-Stepekolk 1995
-Volkel 3560
-Holkerveen 485
-Rekken 485
-Kekerdom 485
-Aagtekerke 1245
-Niekerk 1390
-Nieuwpoort 1390
-Gulpen 3560
-Urmond 3560
-
-Roermond 44975
-Warmond 4275
-
-Sassenheim 15510
-
-Lisse 22321
-Groessen 1955
-Essen 90
-Ressen 230
-Veessen 465
-Kapel-Avezaath 465
-Kapelle 8670
-Oostkapelle 1505
-Westkapelle 2515
-Zoutelande 1315
-Zoutkamp 1215
-Ekamp 65
-Kamperveen 825
-Kolhorn 825
-Kolham 850
-Zanddijk 850
-Broekerhaven 850
-Donkerbroek 1140
-
-Middelburg 46485
-Nieuw- en Sint Joosland 1140
-Sint Jansklooster 1190
-Vollenhove 3955
-Coldenhove 140
-Oldehove 1330
-Waarder 1330
-Heerewaarden 1005
-Waarde 1080
-Spechtenkamp 1080
-Woensdrecht 1340
-Ossendrecht 3970
-Hoogerheide 5810
-Einighausen 1340
-Reusel 7055
-Heusden 1415
-Someren-Eind 2725
-
-Someren 10690
-Gameren 2200
-Amen 80
-Amerongen 5085
-Eck en Wiel 960
-
-Tiel 40702
-Brielle 2765
-Riel 115
-Driel 2940
-Hoenzadriel 165
-Ossenzijl 480
-Oldenzijl 45
-Nijlande 55
-Rande 115
-Brand 1270
-Maasbree 5045
-Maasbracht 5680
-Brachterbeek 1220
-Soeterbeek 135
-
-Eerbeek 10103
-Beekbergen 2545
-Bikbergen 285
-Vledderveen 285
-Vledder 1815
-Driehuizen 230
-Vierhuizen 130
-Hornhuizen 130
-Veenhuizen 950
-Ceresdorp 950
-Oostwold 950
-Oosterwolde 9245
-Appelscha 4035
-Appel 675
-Sappemeer 8298
-
-Hoogezand 21480
-Breezand 3370
-'t Zand 2485
-De Zandloper 150
-
-Loon op Zand 23000
-Schin op Geul 725
-Keldonk 725
-Borteldonk 155
-Pieterzijl 155
-Houwerzijl 175
-Stieltjeskanaal 175
-Reutje 175
-Lutjegast 735
-Lutjebroek 2120
-Zwaagdijk-Oost 1240
-Oosteind 1005
-Oosteinde 7780
-
-Aalsmeer 22991
-Aalsmeerderbrug 505
-Aalst 1580
-Vaals 6970
-Schalsum 125
-Jelsum 205
-Winsum 1365
-Heiligerlee 1365
-Westerlee 1295
-
-Winschoten 18506
-Linschoten 3435
-Montfoort 5500
-Bunde 5500
-Zundert 6835
-Sprundel 3625
-Klundert 5405
-Ruigahuizen 120
-Goengahuizen 55
-Elahuizen 350
-Eppenhuizen 50
-Oppenhuizen 1060
-Middelsluis 1060
-Middelkoop 370
-Gooi 370
-
-Goor 11460
-Onderdendam 510
-Zenderen 980
-Hoogbraak 980
-Hoogblokland 1090
-Landhorst 415
-Dorst 1965
-De Horst 750
-Horstermeer 750
-Grafhorst 1015
-Margraten 3320
-Ellecom 1015
-Erlecom 165
-Nederland 10
-Walsoorden 165
-Niesoord 140
-Frederiksoord 140
-Rijsoord 3045
-Heerjansdam 3770
-Sirjansland 260
-Dirksland 4500
-Dirkshorn 1480
-Hulshorst 775
-Spankeren 775
-Spanga 65
-Spannum 240
-Wenum 335
-Eenum 90
-Genum 95
-Sevenum 5035
-Wimmenum 195
-Vliegert 195
-Siegerswoude 830
-Wijnjewoude 1245
-Oranjewoud 1580
-Rockanje 1275
-Kantens 650
-Eethen 650
-Middelstum 2105
-Wichmond 475
-Swichum 50
-Swier 305
-Prinsenkamp 305
-
-Prinsenbeek 10720
-
-Breda 167673
-Bredeweg 2500
-Berkhout 1905
-Werkhoven 1990
-Bokhoven 280
-Kleine Meers 280
-Kleine Huisjes 80
-Huisduinen 485
-Ruinen 2610
-Buinen 750
-Buinerveen 430
-Eexterveen 430
-Eext 1225
-Meers 870
-Meerssen 5650
-Oudeschoot 1590
-Oudeschans 100
-Pasop 100
-Keersop 45
-Loppersum 2365
-Opperdoes 1840
-
-Medemblik 41500
-Demen 160
-
-Emmen 57010
-Emmer-Erfscheidenveen 1875
-Emmer-Compascuum 8130
-
-Lemmer 10050
-
-Emmeloord 46409
-
-Bemmel 12020
-Bolsward 9160
-Warder 800
-Numansdorp 4280
-Kortehemmen 190
-Hemmen 130
-Neerijnen 130
-Opijnen 1135
-Rijnsaterwoude 1130
-Oude Wetering 3055
-Weteringbrug 370
-Sibrandabuorren 370
-Sibrandahus 45
-Klein-Ulsda 45
-Klein-Schoot 110
-Budel-Schoot 1860
-Budel 7895
-Britsum 910
-Berltsum 2530
-Sint Annaparochie 3935
-Vrouwenparochie 515
-Sint Jacobiparochie 1380
-Husken 1380
-Breskens 4335
-
-Vlissingen 45273
-Oentsjerk 1790
-Aldtsjerk 520
-Readtsjerk 190
-Hushoven 190
-Zevenhoven 2200
-Papenhoven 730
-Nattenhoven 155
-Achttienhoven 130
-Achthoven 220
-Riethoven 1420
-Ubachsberg 1420
-Etsberg 155
-Beets 525
-Beetsterzwaag 3485
-Hoornsterzwaag 830
-Scheemderzwaag 115
-Hodenpijl 115
-Huns 115
-Hunnerberg 3800
-Pannerden 2085
-Annen 3405
-Onnen 470
-Ulicoten 470
-Ruischerbrug 470
-Burgerbrug 560
-Burgervlotbrug 205
-Neerloon 205
-Meerlo 1605
-Rijpwetering 1605
-Netersel 765
-Netterden 395
-Strijensas 395
-Strijen 9371
-
-Rijen 16230
-Gilze 6300
-
-Tilburg 199613
-
-Goirle 22646
-Baarle-Nassau 2585
-Alphen 3160
-Schenkeldijk 470
-Poeldijk 5800
-Spoelwijk 160
-Helwijk 595
-
-Waalwijk 45610
-Waal 100
-Nieuwaal 515
-
-Leeuwarden 91424
-Goutum 2790
-Scharnegoutum 1540
-Koningsbosch 1540
-Koningshoeven 105
-Sint Antoniusbank 105
-Sint Anthonis 3340
-Sint Agatha 310
-Winthagen 70
-Hagestein 970
-Den Hout 970
-Den Horn 215
-Den Hoorn 435
-Foxel 435
-Herxen 435
-Waaxens 35
-Axel 8149
-Arkel 2980
-Markelo 3785
-Diepenheim 1900
-Heeseind 520
-Hees 325
-Gees 530
-Schipborg 530
-Born 2430
-Bornwird 120
+Collendoorn 350
+Lellens 50
+Hellendoorn 660
+Kallenkote 290
+Stroet 355
+Stroe 695
+Stroobos 265
+Opende-Oost 265
+Oost 705
+Oostvoorne 4635
+Eexterveenschekanaal 245
+Annerveenschekanaal 415
+Haule 415
+Haulerwijk 2935
+Norg 3290
+Elkenrade 80
+Benzenrade 200
+Amstenrade 1740
+Waardenburg 1740
+Aardenburg 2005
+Lammerenburg 1200
+Echtenerbrug 1200
+Echten 240
+Vechten 120
+Heek 120
 Tripscompagnie 120
 Drachtstercompagnie 1500
-Achterdrempt 325
-Blesdijke 325
-Bareveld 325
+Driemond 1500
+Triemen 320
 
-Barneveld 28640
-Voorthuizen 9710
-Oosthuizen 1260
-Oosthem 275
-Westhem 65
-Klein Harkstede 65
-Harkstede 2490
-Engelbert 890
+Diemen 24361
+Diemerbroek 240
+Vredepeel 240
+Attelaken 335
+Parrega 335
+Harenermolen 335
+Warfstermolen 150
+Witte Paarden 150
+Spaarnwoude 150
+Berkenwoude 1390
+Berkelaar 275
+Laar 680
+Hilaard 245
 
-Groningen 181194
-Thesinge 440
-Schore 440
-Dreischor 770
-Schijf 770
+Vlaardingen 73798
+Everdingen 805
 
-Schijndel 23239
-Nijnsel 1405
-Bredevoort 1405
-Hobrede 145
-Ferwoude 145
-Luxwoude 285
-Katwoude 305
-Slijk-Ewijk 305
-Radewijk 625
-Gasselternijveenschemond 625
-Gasselternijveen 1780
-Klimmen 1780
-Glimmen 1065
-Eerde 1065
+Scheveningen 23000
+Veeningen 300
 
-Wierden 23244
-Wiene 520
-Batenburg 520
-Rustenburg 200
-De Punt 200
-Oude Pekela 7580
-Nieuwe Pekela 3895
-Bontebok 410
-Bokt 125
-Kolderveense Bovenboer 125
-Nijeveense Bovenboer 140
-Westerse Bos 140
-Thull 140
-Geulle 185
-Geulhem 55
-Zelhem 5760
+Wageningen 35433
 
-Doetinchem 49906
-Terborg 4425
-Silvolde 4850
+Beuningen 25557
+Soerendonk 1660
+Oostendorp 2985
 
-Wisch 19496
-
-Nunspeet 19496
-Elspeet 2810
-Ospel 2505
-Egmond aan Zee 2505
-Nederweert 7205
-
-Weert 48662
-Keent 4465
-Lent 9160
-
-Deventer 97331
-Schalkhaar 4610
-Het Oostrik 2380
-Gronsveld 2380
-Liesveld 9767
-
-Schoonhoven 12352
-Stolwijk 3730
-
-Reeuwijk 12817
-
-Gouda 71952
-Gouderak 2635
-Nederwoud 1610
-Zoeterwoude-Dorp 4230
-
-Zoetermeer 115845
-
-Benthuizen 18959
-Bakhuizen 1060
-
-Enkhuizen 17365
-Hedikhuizen 275
-Sweikhuizen 565
-Stuifakker 565
-Boerakker 365
-Snakkerburen 220
-Idsegahuizum 220
-Nijhuizum 55
-Surhuizum 925
-Surhuisterveen 5550
-Harkema 4005
-De Glip 1355
-Lippenhuizen 935
-Mheer 935
-Rhee 40
-Rheeze 285
-Milheeze 1400
-Lhee 220
-Lheebroek 110
-Oostbeemster 110
-Westbeemster 400
-Westerbork 4605
-Taarlo 75
-Haarlo 320
-Haanrade 2015
-De Glind 320
-Hantum 320
-Hantumhuizen 100
-Saaxumhuizen 15
-Ronduite 15
-Itens 230
-Kerspel-Goor 230
-Benedenheul 230
-Benedenkerk 260
-Steenenkamer 280
-Tolkamer 2430
-Lopikerkapel 530
-
-Lopik 14013
-Bussloo 90
+Oosterbeek 11138
+Driel 2940
+Riel 115
+Huns 115
 Bussereind 115
 Kloostereind 105
 Veenklooster 105
 Gerkesklooster 730
-Stokkum 730
-
-Dokkum 13145
-Lekkum 400
-Makkum 3285
-Eefde 3285
-Teeffelen 155
-Geffen 3870
-Megen 1520
-
-Nijmegen 158732
-Gendt 5590
-Griendtsveen 490
-Rien 110
-Friens 75
-Barwoutswaarder 75
-Aartswoud 490
-Briltil 490
-Vilt 900
-De Bilt 8945
-Groenekan 1565
-Groede 720
-Gastel 720
-Gasteren 395
-Asten 9535
-Westenesch 175
-Westeneng 1320
-Klein-Zundert 1320
-Wekerom 2540
-Garderen 1320
-Den Dungen 3450
-
-Alphen aan den Rijn 70251
-Katwijk aan den Rijn 5940
-Ruurlo 5940
-
-Borculo 10373
-
-Culemborg 26826
-Beusichem 2750
-Tricht 1850
-
-Geldermalsen 25734
-Buurmalsen 685
-Mildam 685
-Zeldam 510
-Weidum 510
-Heijningen 510
-Arensgenhout 510
-Vroenhout 340
-Elshout 1655
-Wernhout 1030
-Ulvenhout 4520
-
-Oosterhout 53107
-Oosterholt 1175
-Posterholt 3540
-Vlodrop 1860
-Lerop 85
-Teroele 30
-Eagum 30
-Ledeacker 385
-
-Pijnacker 18695
-
-Delft 95060
-
-Delfzijl 28649
-Blokzijl 1110
-Blokland 140
-Kerklaan 140
-Elsenerbroek 140
-Nijbroek 140
-Boesingheliede 140
-
-Veghel 25352
-Ven 4430
-
-Venlo 92403
-Anloo 325
-Loerbeek 325
-Folsgare 325
-IJpecolsga 50
-Sint Nicolaasga 3285
-
-Joure 12902
-Oudehaske 1980
-Haskerdijken 395
-Haskerhorne 570
-Munein 570
-Leunen 2270
-Leur 30
-Leuken 3805
-Breukeleveen 200
-Dieden 200
-Edens 40
-Jouswier 40
-Hazeldonk 40
-Azelo 170
-Zweeloo 345
-Zweins 110
-Kamperzeedijk-West 110
-Honthem 110
-Ritthem 370
-Speuld 370
-Scheulder 310
-Galder 610
-Halder 65
-Gelderswoude 65
-Hiaure 65
-Hantumeruitburen 65
-Oostburg 4410
-Burgwerd 255
-Burgh 730
 Biggekerke 730
-Termaar 730
-Eastermar 1310
-Erm 385
-
-Ermelo 10255
-
-Putten 23168
-Putte 3440
-Guttecoven 1260
-Avenhorn 2945
-
-Hoorn 68852
-Doornspijk 1555
-Enspijk 420
-Ammerzoden 3040
-Kimswerd 485
-Imstenrade 310
-Amstenrade 1740
-Waardenburg 1740
-
-Zaltbommel 26383
-Haaften 2370
-Schaft 155
-Graft 880
-Oost-Graftdijk 265
-West-Graftdijk 670
-Ter Apelkanaal 670
-Ter Apel 3880
-Dokkumer Nieuwe Zijlen 45
-Nieuwe Molen 435
-Nieuwenberg 255
-Mariaparochie 255
-Dinxterveen 255
-
-Waddinxveen 25338
-Boven-Hardinxveld 4500
-Boven-Haastrecht 215
+Koudekerke 2880
+Serooskerke 1605
+Grijpskerke 1040
+Wissenkerke 1040
 Bovenkerk 215
-Schoonbron 215
-Schoonoord 2030
-Aduard 2030
-Dishoek 170
-Egelshoek 115
-Elshof 750
-Vroenhof 405
-Morige 405
-Koufurderrige 65
-Gerritsflesch 29
-Harskamp 3450
-Cruquius 695
-Boelenslaan 695
-Zoelen 1010
-Zoelmond 550
+Boven-Haastrecht 215
+Gaastmeer 215
+Kranenburg 215
+Pijnenburg 35
+Slijkenburg 35
+Valkenburg 3925
+Rijnsburg 7990
 
-Helmond 74740
-Kelmond 145
-Colmont 80
-Beneden-Haastrecht 80
-
-Utrecht 290529
-Oud-Loosdrecht 2035
-Nieuw-Loosdrecht 5970
-Schaijk 5970
-Haiink 170
-Haringhuizen 170
-Ellersinghuizen 75
-Wollinghuizen 40
-Bellingwolde 2290
-Oud-Zuilen 560
-Voskuilen 240
-Beilen 9495
-Deil 1880
-Eiland 150
-Hooilandseweg 115
-Mirns 115
-Tirns 105
-Jirnsum 1255
-Schelluinen 1255
-Hellum 515
-Hallum 2355
-Ballum 360
-Lakerveld 360
-Attelaken 335
-Harenermolen 335
-Eikelhof 335
-Coelhorst 105
-Zandoerle 105
-Oerle 1990
-
-Driebergen-Rijsenburg 18553
-Rijsbergen 4140
-Maarsbergen 815
-Schaarsbergen 230
-
-Haaksbergen 24137
-
-Eibergen 16493
-Beltrum 1285
-De Belt 75
-Orvelte 75
-Zwiggelte 220
-Gellicum 220
-Berlicum 4250
-Sint-Michielsgestel 2580
-
-Sint-Oedenrode 16931
-Afferden 1405
-Uffelte 1235
-Havelte 3060
-Havelterberg 190
-Ganzert 190
-Scherpenzeel 8820
-Dalerpeel 610
-Dalen 3295
-Kasen 280
-Lioessens 280
-Oosterhesselen 1690
+Doesburg 11480
+Burgh 730
+Burgum 9720
+Noardburgum 2385
+Akkrum 3440
+Oranjewoud 1580
+Ammerstol 1580
+Reijmerstok 520
 Haerst 280
-
-Haelen 9935
-Heythuysen 6420
-Eyserheide 75
-Toornwerd 75
-Kornwerderzand 5
-Lauwerzijl 145
-Schouwerzijl 90
-Haakswold 90
-Saaksum 90
-Boksum 360
-Den Ilp 995
+Kleine Meers 280
+Kleine Huisjes 80
+Dorkwerd 80
+Hoogcruts 80
+Hoogwoud 3645
+Hooge Mierde 1310
+Lage Mierde 1405
+Hulst 1405
+Huls 345
+Garnwerd 345
+Cornwerd 90
+Krewerd 90
 Sauwerd 995
 Hauwert 720
-Lauwersoog 130
-Blauwe Keet 50
-Grauwe Kat 35
-Nieuwe Krim 170
-De Krim 250
-De Krosselt 125
-Maasband 125
-Rogat 125
-Drogeham 1530
-Tynaarlo 1530
-Baarlo 5215
-
-Tegelen 20190
-
-Geleen 32790
-Munstergeleen 4580
-Hulsel 565
-Hulsen 680
-Giessendam 5235
-
-Werkendam 26362
-Nieuw-Helvoet 415
-Nieuw-Haamstede 390
-Haamstede 1885
-Meeden 1440
-Heksenberg 2395
-Midwolda 1885
-Nieuwolda 1110
-Woldendorp 920
-Noordwolde 3605
-Bunne 130
-Bunnik 6315
-
-Zeist 60949
-Miste 140
-Vlist 515
-Rhenoy 515
-Bocholtzerheide 515
-Bocholtz 4340
-Simpelveld 2405
-Tempel 200
-Empe 708
-Drempt 965
-Rumpt 575
-Arum 895
-Marum 5170
-Tzummarum 1205
-Tzum 945
-Hitzum 200
-Austerlitz 1440
-Oosterlittens 380
-Hijum 380
-Herbaijum 210
-Terband 270
-Vierbannen 275
-Wogmeer 275
-
-Opmeer 11183
-Ellemeet 275
-Melle 4225
-Lellens 50
-Heensche Molen 50
-Oude Molen 115
-Oudemolen 215
-Molenrij 130
-Rietmolen 525
-Kerkenveld 525
-Boijl 525
-IJlst 3180
-
-Sneek 32811
-Ysbrechtum 654
-Idzega 25
-Zuidzande 435
-Cadzand 445
-Pingjum 445
-
-Harlingen 16119
-Elp 330
-
-Velp 17669
-Rheden 7400
-Hedel 4350
-Nederhemert 1496
-Deldenerbroek 420
-Bornerbroek 970
-Holwierde 970
-Holwerd 1435
-Koolwijk 100
-Kootwijk 115
-Radio Kootwijk 120
-Krooswijk 4130
-Standdaarbuiten 1930
-Buitenkaag 435
-Kaag 465
-Kaakhorn 50
-Baakhoven 30
-Baak 575
-Laak 190
-Oldelamer 190
-Kolderveen 225
-Paesens 225
-De Waal 225
-De Wijk 2495
-
-Steenwijk 17138
-Steenwijkerwold 1720
-Weverwijk 150
-
-Harderwijk 40516
-
-Zeewolde 19022
-Doornsteeg 5400
-Odoorn 1835
-Langweer 1095
-Valthe 1095
-Holthe 135
-Holte 135
-Langenholte 115
-Banholt 1005
-Wijdenes 1005
-Emmerschans 1005
-Sint Laurens 1005
-Oosterblokker 1555
-Kokkelert 50
-Pallert 70
-Allingawier 70
-Offingawier 205
-Offenbeek 4660
-Hilvarenbeek 7855
-Diessen 2815
-Giessen 1375
-Giessenburg 4800
-Hippolytushoef 4800
-Nijswiller 735
-Weerwille 70
-Willemstad 800
-Schuring 190
-Schuilingsoord 305
-Schuwacht 305
-Koewacht 2656
-Zuiddorpe 989
-Westdorpe 2113
-Sas van Gent 3856
-Kop van Zuid 2235
-
-Rotterdam 598199
-
-Schiedam 75438
-Schipluiden 3635
-Sion 805
-
-De Lier 11823
-
-Naaldwijk 17753
-Ter Heijde 705
-Ter Hole 196
-Tholen 7475
-Thorn 2295
-Kornhorn 505
-Zuidhorn 7075
-Daarle 855
-Oldekerk 855
-Grootegast 3350
-Hemelum 505
-Bemelen 355
-Dommelen 1220
-Drimmelen 450
-Zeerijp 450
-Seerijp 22
-West-Terschelling 2525
-Westeremden 330
-
-Franeker 12996
-Tussenlanen 110
-Tussenklappen 85
-Slappeterp 85
-Blessum 85
-De Blesse 710
-Diepswal 710
-Epse 1470
-Meppen 305
-Hoog-Keppel 430
-Laag-Keppel 450
-Laag-Blokland 450
-Laag-Soeren 685
-Hoog Soeren 180
-Hulten 180
-Altena 305
-Alteveer 915
-Zuidwolde 915
-Midsland 915
-Landsmeer 1800
-Kadoelen 1915
-Woezik 430
-Niezijl 410
-De Heen 410
-
-Den Helder 59569
-Den Burg 6485
-Ten Boer 4355
-Breedenbroek 440
-Ospeldijk 440
-Toldijk 385
-Noldijk 385
-Den Andel 385
-Vegelinsoord 385
-Hegelsom 1185
-Gelselaar 310
-Hezelaar 155
-Overslingeland 155
-Langelille 125
-Blauwe Sluis 125
-Blauwkapel 125
-Blauwhuis 590
-Dolphia 590
-Wolphaartsdijk 1595
-Kloetinge 1595
-Mantinge 185
-Tinte 245
-Trintelen 140
-Dinteloord 5105
-Stampersgat 1155
+Gastel 720
 Oud Gastel 5305
 Oud Ootmarsum 340
 Ootmarsum 4450
@@ -2109,751 +565,2295 @@ Nieuw-Beijerland 3510
 
 Oud-Beijerland 23569
 Zuid-Beijerland 2740
-De Goorn 3510
+Numansdorp 4280
+Ransdorp 290
+Hulhuizen 290
+Idskenhuizen 490
+Hemrik 490
+Bemelen 355
+Dommelen 1220
+Drimmelen 450
+Laag-Blokland 450
+Laag-Keppel 450
+Hoog-Keppel 430
 
-Rhoon 18250
-Hoogeloon 1790
-West-Souburg 1790
-
-Doesburg 11480
-Giesbeek 2745
-
-Groesbeek 18741
-Mook 2715
-Mookhoek 445
-Witmarsum 1585
-Woltersum 320
-Olterterp 80
-Erp 3600
-Herpt 720
-Zuidbuurt 720
-Ridderbuurt 115
-Peizermade 115
-Peize 4295
-Duizel 1460
-Uithuizen 4935
-Uithuizermeeden 2775
-Huizerhoogt 135
-Oosterhuizen 850
-Grosthuizen 390
-Teuge 390
-Breugel 1055
-Ommelanderwijk 1055
-Leest 2840
-Kaalheide 2840
-Zijtaart 1055
-Kuitaart 100
-Kudelstaart 9250
-Leimuiden 1035
-Leimuiderbrug 45
-Tonnekreek 45
-Kreek 175
-Reek 1495
-Boerenstreek 85
-Oosterstreek 555
-Stramproy 4510
-Hurdegaryp 4510
-Oudega 1715
-Cuijk 3610
-Nieuwkuijk 2140
-Nieuwkoop 1410
-Piershil 1410
-Spier 170
-Rijt 170
-Oldetrijne 170
-Eenigenburg 170
-Wezuperbrug 170
-Wezup 160
-Terdiek 160
-Jipsingboertange 160
-Jipsingboermussel 5
-Mussel 985
-Pietersbierum 55
-Bierum 605
-Steenwijksmoer 605
-Ballast 1710
-
-Coevorden 14600
-Vorden 4900
-Gaastmeer 215
-Rotstergaast 195
-Rotsterhaule 575
-Ouwsterhaule 365
-Gauw 365
-Cabauw 730
-Hoenderloo 730
-Mierlo 9405
-Lemiers 720
-Nijemirdum 545
-Gorredijk 7040
-Noordijk 250
-Ter Idzard 250
-Ter Aard 80
-Kijfhoek 80
-Vijfhuizen 1895
-Obbicht 1895
-Grevenbicht 2355
-Markenbinnen 305
-Schinnen 1550
-Linne 3645
-Egmond-Binnen 2575
-
-Sittard 48400
-Broeksittard 1550
-Lisserbroek 3360
-Diemerbroek 240
-De Falom 240
-De Klomp 580
-Smitshoek 580
-Grashoek 1355
-Martenshoek 610
-Zwaanshoek 1455
-Spaansehoek 215
-Spaanshuisken 35
-Sandebuur 35
-Siddeburen 2910
-Waubach 2910
-Raerd 630
-Aerdt 540
-Zondveld 540
-Zuidveld 75
-Zuidvelde 80
-Zuidveen 570
-Tuk 1615
-Kopstukken 140
-Jellum 140
-Hollum 1160
-Kollumerpomp 340
-Sebaldeburen 340
-Scheerwolde 340
-Tonden 340
-Tongeren 30
-Angeren 2275
-Angerlo 1130
-Bangert 1470
-Gouwsluis 1470
-Gouwe 200
-Goudswaard 1530
-Ravenswaaij 200
-Zeegse 200
-Beegden 1765
-De Rijp 3980
-De Rips 875
-De Rietschoof 160
-Bosschenhoofd 1925
-Froombosch 770
-
-Roosendaal 77725
-Rozendaal 1485
-
-Rozenburg 12420
-Megchelen 615
-Egchel 1115
-Oostelbeers 1115
-Beers 1275
-Usquert 1275
-Rasquert 165
-Herten 3305
-Warten 815
-Zwartewaal 615
+Meppel 30697
+Pieterburen 295
+Uiterburen 320
+Zuiderburen 5790
+Aasterberg 35
+Bruisterbosch 50
+Echterbosch 50
+Foxholsterbosch 140
+Koekangerveld 140
+Overlangel 465
+Neerlangel 70
+Achterste Erm 70
+Achterwetering 70
+Wetering 165
+Weteringbrug 370
+Oude Wetering 3055
+Nieuwe Wetering 615
+Darp 615
 Langezwaag 615
-Boornzwaag 105
-Snikzwaag 65
-Euvelgunne 65
-Benneveld 140
-Genne-Overwaters 140
+Langelo 195
+Broek op Langedijk 5695
+Hensbroek 1345
+Okkenbroek 290
+Berenbroek 45
+Goudseweg 45
+Hooilandseweg 115
+Eiland 150
+Olland 580
+Hoek van Holland 9400
 
-Gennep 16642
-Broekhuizen 610
-Broekhuizenvorst 870
-Swolgen 870
-De Wilgen 675
-Wildervank 2990
-Wildervanksterdallen 85
-Bilderdam 95
-Kilder 980
-Abcoude 6920
-Abcoven 1325
-Hollandsche Rading 1325
-Meijel 5180
-Meije 370
-Reijerscop 145
-Gerverscop 225
-Ermerveen 15
-Starnmeer 205
-Middenmeer 3155
-Middenbeemster 4070
-Anjum 880
-Zuidschermer 625
-Scharmer 895
-Schardam 105
-Nijelamer 105
-America 1175
-Babberich 1445
+'s-Gravenzande 19190
 
-Zevenaar 26063
-Ooy 1070
-Ooyerhoek 2305
-Herwijnen 2305
+Monster 11580
+Hoornsterzwaag 830
+Beetsterzwaag 3485
+Kootstertille 2180
+Willemsoord 585
+Willemstad 800
+Warder 800
+Waarder 1330
+Heerewaarden 1005
+Waarde 1080
+Spechtenkamp 1080
+Yerseke 6541
+
+Eersel 18185
+Steensel 1280
+Oensel 105
+Nijnsel 1405
+Terwinselen 3820
+Weerwille 70
+Meerwijck 1000
+Wijckel 640
+Hijken 640
+Dijken 60
+Haskerdijken 395
+Haskerhorne 570
+Lieren 570
+Flieren 200
+Lierop 1460
+Vlierden 1115
+
+Wierden 23244
+Onderdendam 510
+Onderdijk 1630
+Kinderdijk 867
+
+Ridderkerk 45189
+Ouwerkerk 450
+Nieuwerkerk 2275
+Nieuwersluis 235
+Nieuw-Scheemda 235
+Nieuw-Balinge 765
+Nieuw- en Sint Joosland 1140
+Sint Joost 1310
+Sint Odilienberg 2810
+Wagenberg 1905
+Wagenborgen 1695
+Stakenborg 185
+Van Starkenborgh 930
+Keijenborg 1050
+Wirdum 1050
+Wirdumerdraai 135
+Oudemirdum 1335
+Nijemirdum 545
+Echteld 545
+
+Drachten 44537
+De Glip 1355
+De Glind 320
+Linde 110
+Linden 225
+Terlinden 125
+Wolfhaag 125
+Wolfheze 1505
+Voorst 1505
+Westervoort 5635
+
+Duiven 25469
+Duivendrecht 4720
 's-Heerenberg 4720
 Sterrenberg 845
 Bunschoten 3015
 Eemdijk 845
-Stoutenburg 365
-Purmerland 365
+Soestdijk 4780
 
-Purmerend 76745
-Buchten 2015
-Ochten 4185
-Slochteren 2055
-Vorchten 60
-Slichtenhorst 450
-Baneheide 135
-Theereheide 4045
+Soest 45021
+Soestduinen 150
+Reuzenhoek 150
+Veldhoek 150
+Veldhoven 5340
 
-Vught 25043
-Vuren 1880
-Maren 210
-Cortenoever 210
-Cillaarshoek 210
-Kanis 415
-Helkant 260
-Vriescheloo 260
-Mesch 345
-Uitwellingerga 345
-Uitweg 525
+Eindhoven 209620
+Vlokhoven 3570
+Urkhoven 180
+Werkhoven 1990
+Puth 1990
+Odijk 5480
+Bunnik 6315
+Bunne 130
+Hunnerberg 3800
+Pannerden 2085
+Ooy 1070
 
-Nieuwegein 61489
-
-IJsselstein 33886
-
-Vianen 19931
-Burum 525
-Leeuwte 90
-Oud-Reeuwijk 90
-Oud-Roosteren 80
-Hieslum 80
-Vries 3915
-Sexbierum 1530
-Engwierum 410
-Loenga 85
-Eesergroen 85
-Remmerden 85
-Oostmahorn 85
-Mariahout 1130
-Mariaheide 1000
-Grou 5535
-Groeze 200
-Grolloo 635
-Bantega 635
-Barger-Erfscheidenveen 115
-Barger-Oosterveen 305
-Barger-Oosterveld 3090
-Zuidbarge 375
-Koudhoorn 375
-Tweede Tol 375
-De Tike 310
-Kruishaar 310
-Kruisstraat 550
-Marle 550
-Harles 65
-Diphoorn 65
-Giethoorn 2130
-Niftrik 295
-Maaldrift 130
-Kostvlies 130
-Poortvliet 1220
-Gnephoek 185
-Ophoven 25
-Tjalhuizum 25
-Sandfirden 25
-Roodehaan 25
-Ekehaar 255
-Kerkehout 1045
+Zevenaar 26063
 
 Wassenaar 25353
 
+Sassenheim 15510
+
+Assen 62237
+
 Vaassen 12719
-Laude 30
-Oudehorne 815
-Tjalleberd 815
 
-Zwolle 111805
-Follega 160
+Epe 33385
+Eagum 30
+Leur 30
+Teroele 30
+Zoelen 1010
+Kadoelen 1915
+Landsmeer 1800
 
-Hillegom 18419
-Rinnegom 180
-Lambertschaag 180
-Chaam 2805
-Raam 2965
-Braamt 675
-Kiel-Windeweer 675
-Winde 75
-Zwinderen 260
-Sinderen 145
-Wieksloot 145
-Gersloot 110
-Greup 110
-Keup 140
-Foxholsterbosch 140
-Foxhol 840
-Foxwolde 150
-Nijeholtwolde 150
-Niehove 150
-Reuzenhoek 150
-Veldhoek 150
-Warfstermolen 150
+Aalsmeer 22991
+Duin en Bosch 370
+Speuld 370
+Munnekeburen 370
+Gooi 370
+Herike 370
+Westerbroek 370
+Westerbeek 335
+Oosterbierum 455
+Bierum 605
+Sexbierum 1530
+Tynaarlo 1530
+Goudswaard 1530
+Ravenswaaij 200
+Ravenswoud 260
+Renswoude 3420
+
+Woudenberg 11305
+
+Hardenberg 57909
+Ter Lucht 115
+Brucht 285
+Bruchem 1370
+Strucht 380
+Oostrum 2375
+Jistrum 555
+Swartbroek 555
+Vaartbroek 5200
+Son 4930
+Bredevoort 1405
+Hobrede 145
+Randenburg 145
+Rande 115
+Brand 1270
+Koningslust 1270
+Panningen 6710
+Helden 5530
+
+Den Helder 59569
+Den Burg 6485
+Giessenburg 4800
+Giessen 1375
+Noordhorn 1375
+Kortenoord 25
+Veenoord 2175
+Langenoord 1695
+Noordbroek 1665
+Zuidbroek 2255
+Loosbroek 1295
+Broek 200
+Gebroek 220
+Broekhorn 220
+Broekhem 1960
+Crailo 395
+Gasteren 395
+Kesteren 4455
+Heteren 4805
+
+Lunteren 12510
+Garderen 1320
+Heerle 1320
+
+Heerlen 93084
+Oerle 1990
+Zandoerle 105
+Erlecom 165
+Ellecom 1015
+Melle 4225
+Kapelle 8670
+Oostkapelle 1505
+Westkapelle 2515
+Zoutelande 1315
+Ommelanderwijk 1055
+
+Harderwijk 40516
+
+Ermelo 10255
+
+Putten 23168
+Putte 3440
+Guttecoven 1260
+Oosthuizen 1260
+Oosthem 275
+Posterenk 275
+Oosterend 910
+Barchem 910
+
+Lochem 12360
+Baflo 1730
+Asenray 755
 Harfsen 755
 
 Dalfsen 26575
 Laag Zuthem 281
+Houthem 1470
+Rothem 1590
+Oudeschoot 1590
+Oudeschip 120
+Oudeschild 1220
+Roodeschool 875
+De Rips 875
+De Rijp 3980
+Heel 3980
+Heelweg 110
+Wittelte 110
+Witten 65
+Eursinge 65
+Persingen 105
+Ellersinghuizen 75
+Haringhuizen 170
+Wollinghuizen 40
+Cellemuiden 40
+Muiden 6223
+Zuiderwoude 320
+Scharwoude 430
+Zuid-Scharwoude 6165
+Noord-Scharwoude 5665
+Oudkarspel 3170
+
+Harenkarspel 15941
+Sijbekarspel 345
+Zweeloo 345
+Leggeloo 125
+Oud-Valkenburg 125
+Maasband 125
+Maasbree 5045
+Maasbracht 5680
+Wessem 2050
+Kessel 3020
+Reuver 6140
+Offenbeek 4660
+
+Prinsenbeek 10720
+Prinsenkamp 305
+Steenenkamer 280
+Steenwijksmoer 605
+
+Steenwijk 17138
+Steenwijkerwold 1720
+Spijkerboor 150
+Spijk 1220
+Enspijk 420
+Doornspijk 1555
+
+Hoorn 68852
+
+Uithoorn 26846
+Oosteinde 7780
+Oosteind 1005
+Oosterblokker 1555
+Oldehove 1330
+Oldeholtwolde 30
+Doldersum 30
+Vierpolders 1215
+De Kieviet 1300
+De Kiel 275
+De Krim 250
+Nieuwe Krim 170
+Poppenwier 170
+Oppenhuizen 1060
+Middelsluis 1060
+Middelkoop 370
+Burgemeester Beinsdorp 370
+Eesterga 45
+Westergeest 500
+De Westereen 5030
+Kreileroord 585
+Lerop 85
+Blessum 85
+De Blesse 710
+Warken 710
+Diepswal 710
+Hefswal 145
+Westeremden 330
+Wijnaldum 330
+Wijnandsrade 1365
+Vaesrade 975
+
+Hoensbroek 25000
+Oploo 975
 Nuth 4585
-Nuis 685
-Huisseling 310
-Gelkenes 310
-Jaarsveld 310
-Varsseveld 5450
-Maarsseveen 580
-Mijnsheerenland 1775
-Linden 225
-Terlinden 125
-Hartwerd 125
-Westerwijtwerd 100
-Oosterwijtwerd 175
-Raren 175
-Macharen 625
-Bergharen 1370
-Borgharen 1735
-Gerwen 1735
-Herwen 750
-Hurwenen 670
-Loenen 2135
-Bobeldijk 300
-Asch 300
-Spoolde 300
+Altena 305
+
+Aalten 19141
+
+Raalte 20015
+Heino 6459
+Lierderholthuis 176
+Heerde 8850
+Eerde 1065
+Haren 9375
+Zuidlaren 3905
+Westlaren 1410
+Welberg 1410
+Distelberg 330
+Elp 330
+Kruisweg 330
+Kruishaar 310
+Odoornerveen 310
+Heemserveen 310
+Ederveen 3100
+Kolderveen 225
+Kolderveense Bovenboer 125
+Nijeveense Bovenboer 140
+Westerse Bos 140
+Niesoord 140
+Frederiksoord 140
+Rijsoord 3045
+Rijs 165
+Vriezekoop 165
+
+Vriezenveen 12310
+Westerhaar-Vriezenveensewijk 4470
+Vroomshoop 8480
+Froombosch 770
+Schijf 770
+
+Schijndel 23239
+Heeswijk-Dinther 7985
+Bitswijk 4030
+Heeswijk 665
 Spoordonk 665
-Boerdonk 535
-De Cocksdorp 535
-Catsop 535
-Catrijp 305
-Akmarijp 115
-Drijber 115
-Huijbergen 1655
-Ekenrooi 3970
-Wanroij 2340
-Poederoijen 630
-Makkinga 630
-Smakt 220
-Smalle Ee 40
+Donkerbroek 1140
+Broekerhaven 850
+Zanddijk 850
+Kolham 850
+Kolhorn 825
+Scharsterbrug 825
+Overbrug 100
+Dieverbrug 260
+Diever 2175
+Lieveren 125
+Geverik 395
+Doeveren 70
+Den Oever 2145
+Merum 2145
+Formerum 170
+Rijt 170
+Eenigenburg 170
+
+Rozenburg 12420
+
+Maassluis 32780
+Maasland 4545
+Maasdijk 5000
+Honselersdijk 7366
+Poeldijk 5800
+Ospeldijk 440
+Ospel 2505
+Egmond aan Zee 2505
+Wijk aan Zee 2095
+
+Beverwijk 37585
+
+Velsen-Zuid 67758
+Elsen 760
+Elsendorp 560
+Belt-Schutsloot 560
+Schutsboom 3490
+Klaaswaal 3490
+Waal 100
+Waalre 6445
+Voldijn 2785
+Toldijk 385
+Noldijk 385
+Meedhuizen 385
+
+Huizen 45292
+Bijvanck 4560
+Blaricum 5060
+Ouwsterhaule 365
+Terherne 775
+Zwartebroek 775
+Castenray 775
+Asten 9535
+Westenesch 175
+Westeneng 1320
+Klein-Zundert 1320
+Zundert 6835
+Sprundel 3625
+Klundert 5405
+Ruigahuizen 120
+Idsegahuizum 220
+Surhuizum 925
+Surhuisterveen 5550
+Harkema 4005
+Markelo 3785
+Diepenheim 1900
+
+Goor 11460
+De Goorn 3510
+
+Doorn 10330
+Odoorn 1835
+Langweer 1095
+
+Weert 48662
+Nederweert 7205
+Nederwetten 700
+Hernen 700
+Cromvoirt 700
+Helvoirt 3625
+Sint Willebrord 8655
 Smallebrugge 20
 Venebrugge 115
 Driebruggen 1485
-Woubrugge 1060
-Roelofarendsveen 2710
-Eesveen 370
-Burgemeester Beinsdorp 370
-Legemeer 40
-Waskemeer 550
-De Moer 550
-De Mortel 905
-Gortel 35
-Korteraar 630
-Hopel 2240
-Budschop 1550
-Noordschans 180
-Noordse Dorp 60
-Westdorp 60
-Wateringskant 60
-Neerkant 1325
-Terkaple 230
-Anna Jacobapolder 230
-Vierpolders 1215
-De Kieviet 1300
-Nieuw-Roden 1300
-Nieuw-Buinen 4705
+Colijnsplaat 1485
+Heijplaat 1365
+Hoofdplaat 545
 
-Stadskanaal 20000
-Scheepstal 85
-Rha 85
-Brunsting 85
-
-Brunssum 29254
-Schinveld 4685
-Hingen 625
-Raamsdonk 1920
-Oterleek 620
-Stompetoren 1920
-Wijthmen 625
-
-Alkmaar 94853
-Balk 3915
-Valkkoog 130
-Schiermonnikoog 835
-Onna 100
-Bonnerveen 95
-Oud Annerveen 120
-Nieuw-Annerveen 105
-Vrilkhoven 105
-Vlagtwedder-Veldhuis 105
+Hoofddorp 132734
+Zwaanshoek 1455
+Bennebroek 5140
+Vogelenzang 1955
 Vlagtwedde 1955
-Wedderveer 135
-Overlangbroek 135
-Broek in Waterland 2655
-Waterlandkerkje 255
-Molkwerum 255
-De Veenhoop 255
+Vlagtwedder-Veldhuis 105
+Veldhuizen 9460
+Vleuten 6945
+Beutenaken 40
+Etenaken 260
+Lollum 260
+Kollum 5230
+Kollumerzwaag 2805
+Zwaagdijk-West 585
+Zwaagdijk-Oost 1240
+Westwoud 1330
+Midwoud 2280
+Midwolda 1885
+Nieuwolda 1110
+Nieuwoord 1265
+Nieuwaal 515
+Rhenoy 515
 
-Hoogeveen 38754
-Witteveen 400
-Rottevalle 1355
-Rottum 660
-Lottum 1170
-Kelpen-Oler 1170
-Arcen 8793
-Holtum 1170
-Nietap 870
-Tappersheul 140
-Kwintsheul 3560
+Rhenen 18061
 
-Winterswijk 29623
-Zwiep 65
-Exmorra 390
-Morra 160
-Moorveld 495
-Wapse 495
-Haps 2165
-Hapert 4955
-Bladel 9785
-
-Made 11795
-
-Kerkrade 49777
-Terwinselen 3820
-
-Oisterwijk 25980
-
-Boxtel 29511
-
-Boxmeer 12407
-Geer 115
-Geersdijk 265
-Bloemendaal 3905
+Veenendaal 61271
+Rozendaal 1485
 Voerendaal 3035
-Exel 155
-Jislum 70
-Jisp 475
-Cadzand-Bad 185
-Zandpol 465
-Harich 465
-Zurich 145
-Limbricht 2575
-Schimmert 2310
-Stavoren 900
-Stavenisse 1505
+Schaft 155
+Ten Esschen 155
+Bosschenhoofd 1925
+Vroenhout 340
+Elshout 1655
+Wernhout 1030
+Ulvenhout 4520
 
-Arnhem 141674
-Panheel 215
-Jonkersvaart 215
-Moddergat 215
-Diergaarde 380
-Wijngaarden 680
-Oude Bildtzijl 680
-De Birkt 180
-Oldemarkt 2435
-Mennonietenbuurt 480
-Kuinre 795
-Oudijk 165
-Emmaberg 165
-Berghem 6500
+Breda 167673
+Gageldonk 4865
+Raamsdonksveer 6590
+Raamsdonk 1920
+Raam 2965
+Braamt 675
+De Wilgen 675
+De Wijk 2495
+Koekange 1085
+Langedijke 295
+Nij Altoenae 295
+Noenes 295
+Oene 630
+Loenen 2135
+Wilhelminapark 300
+Asch 300
+Spoolde 300
+Roderwolde 300
+Kolderwolde 55
+Eelderwolde 295
+Wanneperveen 295
+Kamperveen 825
+Kamperland 1610
+Nederwoud 1610
+Zoeterwoude-Dorp 4230
 
-Bergeijk 18181
-Luyksgestel 2465
-Zesgehuchten 3460
-Genoenhuis 3815
-Schraard 180
+Zoetermeer 115845
+Horstermeer 750
+De Horst 750
+Grafhorst 1015
+Sibbe 1015
+Schellinkhout 900
+Vilt 900
+Bangert 1470
+Angeren 2275
+Tongeren 30
+Longerhouw 50
+Barsingerhorn 770
+Beringe 1925
+Zegge 1575
+Steggerda 810
 
-Nuenen 23223
-Tjoene 195
-Sintjohannesga 1290
-Vijlen 1290
-Wijlre 1960
-Termunten 395
-Termunterzijl 245
-Oosterzij 2095
+Leerdam 20758
+Hindeloopen 810
+Schandelo 240
+Brabander 1680
+Leunen 2270
+Oirlo 1230
+
+Goirle 22646
+
+Tilburg 199613
+Aalburg 5788
+Olburgen 210
+Schettens 210
+Petten 1640
+
+Woudrichem 14208
+
+Gorinchem 34736
+Zuilichem 1245
+Zevenbergschen Hoek 1245
+
+Bergschenhoek 16579
+
+Berkel en Rodenrijs 20189
+Molenrij 130
+Molenhoek 3745
+Berlicum 4250
+Gellicum 220
+Gietelo 220
+Gieten 4885
+Rolde 3740
+Dieden 200
+Edens 40
+Jouswier 40
+Hazeldonk 40
+Keldonk 725
+Eeneind 725
+Geeneind 185
+Wadway 185
+Mantinge 185
+Kloetinge 1595
+
+Doetinchem 49906
+Zelhem 5760
+Geulhem 55
+Tinallinge 55
+Sellingen 1060
+Sellingerbeetse 205
+Sandelingen-Ambacht 100
+
+Hendrik-Ido-Ambacht 21027
+
+Alblasserdam 18348
+Nieuw-Lekkerland 9535
+Nieuw-Loosdrecht 5970
+Schaijk 5970
+Herpen 2360
+Middelrode 1465
+Nistelrode 6090
+
+Heesch 12810
+Hees 325
+Heesselt 170
+Asselt 180
+Hasselt 6959
+Frankhuis 6145
+
+Zwolle 111805
+Vollenhove 3955
+Strijp 3955
+Leenderstrijp 415
+Genderen 1645
+Zenderen 980
+Steenderen 1950
+Warffum 1950
+Warfhuizen 205
+Hantumhuizen 100
+Saaxumhuizen 15
+Ronduite 15
+Opperduit 625
+Opperdoes 1840
+
+Medemblik 41500
+Abbekerk 2110
+De Weere 865
+Weerestein 1105
+Scharendijke 1105
+Mantgum 1105
+Brantgum 215
+Eindewege 215
+Kiel-Windeweer 675
+Winde 75
+De Schiphorst 75
+Barwoutswaarder 75
+Taarlo 75
+Paarlo 20
+Woudsend 1375
+Abtswoude 25
+Aartswoud 490
+Azewijn 490
+Zennewijnen 80
+Herwijnen 2305
+Ooyerhoek 2305
+Dortherhoek 220
+Dishoek 170
+Grashoek 1355
+Egelshoek 115
+Elshof 750
+Hulshorst 775
+Dirkshorn 1480
+Stootshorn 95
+Doniaga 95
+Bronkhorst 95
+Ubbena 95
+Abbenes 855
+Krabbendam 140
+Steendam 160
+De Vecht 160
+Bovenstad 160
+Bovenstreek 300
+Boerenstreek 85
+Oosterstreek 555
+Reek 1495
+Gasselte 1495
+Nederasselt 645
+Overasselt 1715
+Hasselderheide 310
+Ven-Zelderheide 610
+Galder 610
+Scheulder 310
+Halder 65
+Gelderswoude 65
+Siegerswoude 830
+Wijnjewoude 1245
+Tijnje 1120
+Merselo 1120
+Weerselo 700
+Netersel 765
+Rijpwetering 1605
+Scherpenisse 1605
+Scherpenzeel 8820
+Overberg 1379
+Muiderberg 1605
+Arnemuiden 5075
+Nes 1140
+Oentsjerk 1790
+West-Souburg 1790
+West-Graftdijk 670
+Oost-Graftdijk 265
+Graft 880
+Anjum 880
+Zuidschermer 625
+Schermerhorn 1290
+Vierhouten 395
+Houten 1335
+Druten 6270
+Ochten 4185
+Buchten 2015
+Haanrade 2015
+Monnickendam 2015
+
+Volendam 22000
+Ilpendam 1750
+
+Zaandam 71708
+
+Zaanstad 140085
+Zaandijk 9040
+Langeheit 1180
+
+Uitgeest 11794
 
 Heemskerk 36170
 
 Heemstede 25562
 
-Hoofddorp 132734
-Ouddorp 5930
+Haarlem 147590
+Overveen 3685
+Ermerveen 15
+Bosch en Duin 1675
+Wijbosch 1365
+Weebosch 535
+Een 535
+De Cocksdorp 535
+Catsop 535
+Luyksgestel 2465
+Westerhoven 1635
+Westerhoeven 160
+Hoeven 4895
+Koningshoeven 105
+Koningsbosch 1540
+Budel-Dorplein 1540
+Budel 7895
+Budel-Schoot 1860
+Posterholt 3540
+Oosterholt 1175
+Sint Jansklooster 1190
+Sint Jacobiparochie 1380
+Sint Annaparochie 3935
+Vrouwenparochie 515
+Vrouwenpolder 765
+Westenschouwen 235
+Putkop 235
+Wedderheide 235
+Heide 1040
+Eperheide 125
+Spekholzerheide 3175
+Bocholtzerheide 515
+Bocholtz 4340
+Simpelveld 2405
+Tempel 200
+Empe 708
+Napels 95
+Appelscha 4035
+Appel 675
+Sappemeer 8298
 
-Goedereede 11597
-Zonnemaire 600
-Katlijk 600
-Blijham 2060
-Wijhe 5640
-
-Wijchen 32693
-Rijckholt 665
-Helenaveen 665
-
-Goes 36931
-Yerseke 6541
-Oud-Vossemeer 2400
-Nieuw-Vossemeer 1975
-Halsteren 9850
-Wouw 4600
-Wouwse Plantage 590
-Callantsoog 2420
+Hoogezand 21480
+Breezand 3370
+'t Zand 2485
 Ruinerwold 2485
-Biezenmortel 715
-'s Gravenmoer 2315
-Waspik 5120
-Spijkerboor 150
-Tjuchem 150
+Oudesluis 760
+Sluis 1935
+Sluiskil 2411
+Spui 258
+Zaamslag 2980
+Haamstede 1885
+Nieuw-Haamstede 390
+Nieuw-Dijk 840
+Nieuw-Dordrecht 1370
+Bergharen 1370
+Borgharen 1735
+Gerwen 1735
+Herwen 750
+Hurwenen 670
+Ter Apelkanaal 670
+Ter Apel 3880
+Gendringen 3880
+Hingen 625
+Radewijk 625
+Slijk-Ewijk 305
+Katlijk 600
+Puiflijk 1105
+Blitterswijck 1105
 
-Lochem 12360
-Baflo 1730
-Asenray 755
-Weustenrade 220
+Winterswijk 29623
+Snikzwaag 65
+Boornzwaag 105
+Boornbergum 1660
+Valburg 1660
+
+Elst 20488
+Middelstum 2105
+Eethen 650
+Cothen 2765
+Rothenbach 75
+Waubach 2910
+Ubachsberg 1420
+Etsberg 155
+Pieterzijl 155
+Oosterzij 2095
+Sint Philipsland 2095
+Sint Pancras 6050
+
+Alkmaar 94853
+Maarn 4618
+
+Baarn 24584
+Olst 4780
+Holst 45
+Klein-Ulsda 45
+Klein-Schoot 110
+Oostbeemster 110
+Westbeemster 400
+Westerbork 4605
+Terborg 4425
+Schipborg 530
+Drouwenermond 530
+Drouwenerveen 250
+Drouwen 425
+Koudhoorn 375
+Tweede Tol 375
+Nijeholtpade 375
+Nijensleek 425
+Nijega 465
+Ouwster-Nijega 85
+Remmerden 85
+Eesergroen 85
+Groenekan 1565
+De Bilt 8945
+Oude Bildtzijl 680
+Houwerzijl 175
+Schouwerzijl 90
+Lauwerzijl 145
+Lauwersoog 130
+Beemte 130
+Beemte-Broekland 1000
+Reduzum 1000
+Venhorst 1050
+Avenhorn 2945
+Hedikhuizen 275
+Sweikhuizen 565
+Stuifakker 565
+Snakkerburen 220
+Smakt 220
 Van Ewijcksluis 220
 Tiendweg-West 220
-Zuidwending 410
-Biddinghuizen 5010
+Kamperzeedijk-West 110
 
-Dronten 28073
-Drongelen 235
-Grijpskerke 1040
-Grijpskerk 2520
-Goingarijp 250
-Ansen 250
-Wanssum 1905
-Oirlo 1230
-Helvoirt 3625
-Cromvoirt 700
-Nederwetten 700
-Zetten 2985
-Boornbergum 1660
-Kronenberg 670
-Sleen 2200
-Slenaken 380
-Etenaken 260
-Beutenaken 40
-Druten 6270
-Opheusden 5460
-Lienden 3470
-Maurik 3270
-Varik 895
-
-Zierikzee 10483
-
-Middelharnis 17554
-Binnenwijzend 245
-IJzeren 295
-Oud-Sabbinge 295
-Krabbendam 140
-Sibbe 1015
-Sijbekarspel 345
-Formerum 170
-Heesselt 170
-Westernieland 170
-Oosternieland 95
-Oosternijkerk 810
-Achlum 525
+Kampen 48980
+Melderslo 1175
+Gersloot 110
+Holsloot 120
+Elsloo 7220
+Bussloo 90
+Balinge 90
+Oud-Reeuwijk 90
 Kromwijk 90
-Fromberg 35
-Klooster-Lidlum 35
-Greonterp 35
-Ureterp 3810
-Hoofdplaat 545
-Tijnje 1120
-Aldeboarn 1525
-Tersoal 350
-Collendoorn 350
-Budel-Dorplein 1540
-Amsteleind 780
-Amsterdamscheveld 190
-Goidschalxoord 190
-Halle 725
-Geesbrug 725
-De Noord 1335
-Mechelen 1375
-Paarlo 20
-Ketelhaven 595
-Oldenhave 60
-Brouwershaven 1275
-Oldeouwer 80
-Garminge 80
-Gapinge 380
+Krommeniedijk 495
 
-Appingedam 12364
-Zeddam 2305
-Meddo 530
-Oostdijk 530
-Duivendrecht 4720
-
-Duiven 25469
-Bedum 7765
-Eenrum 1365
-
-Brummen 21344
-Hummelo 1010
-Heumen 1010
-
-Wijk bij Duurstede 17465
+Ommen 11820
+Den Ham 1830
+Den Horn 215
+Katwijk aan den Rijn 5940
 
 Katwijk aan Zee 20010
-Twisk 1115
-Broeksterwald 1115
-Ysselsteyn 2260
-Godlinze 240
-Sluipwijk 335
-Babylonienbroek 335
-Broekdijk 825
-Muisbroek 125
-Bouwberg 125
-Boukoul 935
-Oukoop 50
+Bergen aan Zee 415
+Bergenshuizen 210
+Waardhuizen 210
+Cortenoever 210
+Kortenhoef 6250
+Maartensdijk 4925
 
-Boskoop 15222
-Oldeberkoop 1190
-Nijeberkoop 45
-Niebert 520
-Reijmerstok 520
-Veulen 520
-Kommerzijl 510
+Maarssen 39675
+Maarsseveen 580
+Smitshoek 580
+De Klomp 580
+De Koog 1025
+Valkkoog 130
+Valkeveen 475
+Jisp 475
+Zalk 475
+Kantens 650
+Itens 230
+Barnflair 230
 
-Almere Stad 176432
+Barneveld 28640
+Benneveld 140
+Genne-Overwaters 140
 
-Lelystad 70741
-
-Urk 17345
-Sterksel 910
-Wijster 780
-Dwarsgracht 130
-Bleskensgraaf 2800
-Graaf 615
-Graetheide 260
-Nieuw Moscou 547
-Nieuwe-Wetering 200
-
-Amersfoort 139914
-Lingsfort 160
-Montfort 2815
-Chevremont 3160
-Beek gem Montferland 1315
-Nieuw-Lekkerland 9535
-Ten Post 680
-Buitenpost 5120
-Uitdam 125
-Borgsweer 125
-Borger 4570
-Durgerdam 500
-Haghorst 500
-Kreileroord 585
-Noordwelle 195
-Noordgouwe 315
-Deinum 885
-Ulrum 1300
-Hilleshagen 100
-Wahlwiller 395
-Sint Willebrord 8655
-Rucphen 3660
-
-Zutphen 36188
-Stootshorn 95
-Basse 95
-Portengense Brug 95
-Tungelroy 710
-Hengevelde 1510
-Bourtange 425
-Gytsjerk 2175
-Tjerkgaast 380
-
-Apeldoorn 136670
-
-Vlaardingen 73798
-
-Heerhugowaard 47580
-Obdam 5690
-Kwartier 275
-Aalbeek 275
-Merkelbeek 1720
-Wilp-Achterhoek 150
-Dortherhoek 220
-Rothenbach 75
-Leegkerk 75
-
-Leusden 29215
-De Knipe 1480
-Yde 775
-Zeldert 365
-Zijderveld 810
-Hellouw 790
-Hellebeuk 75
-
-Best 29074
-Liempde 4170
-
-Sliedrecht 23854
-Retranchement 175
-Lobith 3045
-
-Terneuzen 27930
-Beesd 2980
-Zaamslag 2980
-Drogteropslagen 290
-Hertme 290
-Herfte 390
-Noordlaren 390
-Noorbeek 750
-Milsbeek 2055
-Wilsum 815
-Dongjum 295
-Longerhouw 50
-Sint Anna ter Muiden 50
+Gennep 16642
+Dalerpeel 610
+Heinenoord 610
+Broekhuizen 610
+Broekhuizenvorst 870
+Meers 870
+Meerssen 5650
+Horssen 1095
+Gorssel 3530
 
 Borssele 22285
 Driewegen 574
+Ofwegen 55
+Megen 1520
+Dieteren 745
+Itteren 930
+Amby 6535
 
-Wolvega 12730
-Vierverlaten 130
+Maastricht 122378
+Tricht 1850
+Limbricht 2575
+Egmond-Binnen 2575
+
+Sittard 48400
+Broeksittard 1550
+Lisserbroek 3360
+
+Lisse 22321
+
+Hillegom 18419
+Hilleshagen 100
+Laaghalen 100
+Hooghalen 810
+Dalen 3295
+Dalem 895
+Alem 550
+Walem 150
+Eikelhof 335
+Noordbeemster 335
+Noorddorp 335
+Ouddorp 5930
+Zuiddorpe 989
+Westdorpe 2113
+Sas van Gent 3856
+Kop van Zuid 2235
+
+Carnisse 11225
+Pernis 4785
+
+Schiedam 75438
+Schipluiden 3635
+Sion 805
+
+Delft 95060
+
+Delfzijl 28649
+Blokzijl 1110
+Blokland 140
+Hoogblokland 1090
+Landhorst 415
+Herveld 415
+Zijderveld 810
+Oosternijkerk 810
+
+Nijkerk 38335
+Nijkerkerveen 2905
+Holkerveen 485
+Veen 2595
+Eesveen 370
+Roelofarendsveen 2710
+Griendtsveen 490
+Rien 110
+Friens 75
+Stiens 7300
+Warstiens 35
+Sandebuur 35
+Vreeland 35
+Zeeland 4750
+Oosternieland 95
+Westernieland 170
+Westerland 735
+Oosterland 2060
+
+Zierikzee 10483
+Meterik 705
+
+Naaldwijk 17753
+
+De Lier 11823
+Graaf 615
+Graafland 380
+Bleskensgraaf 2800
+Ezinge 680
+Huizinge 105
+Mijnden 105
+Tonden 340
+Voorstonden 95
+Voorweg 710
+Buren 710
+Siddeburen 2910
+Sebaldeburen 340
+Kollumerpomp 340
+Hollum 1160
+Hallum 2355
+Hellum 515
+Jellum 140
+Thull 140
+Elsenerbroek 140
+Nijbroek 140
+Oldebroek 3275
+Warten 815
+Zwartewaal 615
+De Waal 225
+Westdijk 225
+Westmaas 1760
+Achtmaal 635
+Meeuwen 635
+Leeuwen 1075
+Nieuwe-Niedorp 2810
+Oude-Niedorp 405
+Ried 405
+Munnekezijl 405
+Munnekemoer 180
+Platteweg 180
+
+Hattem 11876
+Hattemerbroek 1025
+Bornerbroek 970
+Heihoek 970
+Helhoek 40
+Coelhorst 105
+Haghorst 500
+Tuil 500
+Ubbergen 500
+
+Tubbergen 20334
+Jabeek 700
+Strabeek 160
+Zorgvlied 160
+Vliedberg 4445
+Zandberg 55
+Wolsum 55
+Wilsum 815
+Tjalleberd 815
+Oldeberkoop 1190
+Nijeberkoop 45
+Oukoop 50
+Boukoul 935
+Sumar 935
+Lippenhuizen 935
+Mheer 935
+
+Heerenveen 43094
+Oudehaske 1980
+Nijehaske 50
+Nijetrijne 50
+Oldetrijne 170
+Kubaard 170
+Baard 185
+Baarschot 220
+Eerschot 2210
+
+Oirschot 10393
+
+Best 29074
+Liempde 4170
+Gemonde 1490
+Sint-Michielsgestel 2580
+
+Sint-Oedenrode 16931
+Afferden 1405
+Netterden 395
+
+Rotterdam 598199
+Otterlo 2230
+Ottersum 1585
+Woltersum 320
+Hantum 320
+Hantumeruitburen 65
+Woold 65
+Klein Harkstede 65
+Harkstede 2490
+Engelbert 890
+
+Hengelo 80809
+De Engel 645
+Maren-Kessel 645
+Maren 210
+
+Laren 11508
+Midlaren 185
+Noordlaren 390
+Grosthuizen 390
+Teuge 390
+Breugel 1055
+
+Breukelen 14498
+Breukeleveen 200
+Heukelom 305
+Leuken 3805
+Keent 4465
+Stramproy 4510
+Hurdegaryp 4510
+Garyp 1545
+Sint Geertruid 935
+
+Geertruidenberg 20941
+
+Eijsden 11795
+Heusden 1415
+Someren-Eind 2725
+
+Someren 10690
+Gameren 2200
+Zevenhoven 2200
+Papenhoven 730
+Nattenhoven 155
+Achttienhoven 130
+Coldenhove 140
+Oldenhave 60
+Oldenzijl 45
+Ossenzijl 480
+Mennonietenbuurt 480
+Zuidbuurt 720
+Herpt 720
+Groede 720
+Groeze 200
+Groessen 1955
+Essen 90
+Ressen 230
+Jutrijp 230
+Catrijp 305
+Katwoude 305
+Oostwoud 875
+Oostwold 950
+Cuijk 3610
+Nieuwkuijk 2140
+Nieuwkoop 1410
+Piershil 1410
+Lemiers 720
+Mierlo 9405
+Meerlo 1605
+Neerloon 205
+Maarland 205
+Waarland 1970
+Uitwijk 290
+Hertme 290
+Herten 3305
+Olterterp 80
+Holte 135
+Holthe 135
+Valthe 1095
+
+Emmen 57010
+Emmer-Erfscheidenveen 1875
+Emmer-Compascuum 8130
+Emmerschans 1005
+Oudeschans 100
+Pasop 100
+Westerwijtwerd 100
+Oosterwijtwerd 175
+
+Oisterwijk 25980
+Enschot 3865
+Molenschot 700
+
+Enschede 153655
+
+Losser 22431
+Zuid-Berghuizen 3680
+Berghuizen 145
+Eemster 145
+Middenbeemster 4070
+
+Purmerend 76745
+Edam 7380
+
+Appingedam 12364
+Tuikwerd 3005
+Farmsum 2185
+Woldendorp 920
+Schildwolde 1485
+Overschild 245
+Gerverscop 225
+Reijerscop 145
+Meije 370
+Ritthem 370
+Westhem 65
+Honthem 110
+Lheebroek 110
+Lhee 220
+Milheeze 1400
+Tytsjerk 1400
+Ryptsjerk 811
+Gytsjerk 2175
+Aldtsjerk 520
+Readtsjerk 190
+Kalenberg 190
+Bolenberg 10
+Emmaberg 165
+Rasquert 165
+Usquert 1275
+Brouwershaven 1275
+Beers 1275
+Oostelbeers 1115
+Egchel 1115
+Megchelen 615
+Mechelen 1375
+Helenaveen 665
+
+Klazienaveen 11919
+Weiteveen 1510
+Weite 55
+Beitel 70
+Allingawier 70
+Offingawier 205
+Fort 205
+Lingsfort 160
+Schuilingsoord 305
+Schuwacht 305
+Koewacht 2656
+Axel 8149
+Beesd 2980
+Beesel 2090
+Heeseind 520
+Veulen 520
+Niebert 520
+
+Driebergen-Rijsenburg 18553
+
+Eibergen 16493
+
+Haaksbergen 24137
+Rijsbergen 4140
+Maarsbergen 815
+Schaarsbergen 230
+Kerspel-Goor 230
+Benedenheul 230
+Benedenkerk 260
+Zuidloo 260
+Zuidlaarderveen 265
+Holysloot 265
+Slootdorp 1350
+Wieringerwerf 3210
+Wieringerwaard 1795
+Kwadijk 760
+Oudijk 165
+Kruiningergors 165
+Uitwellingerga 345
+Uitweg 525
+Rietmolen 525
+Kerkenveld 525
+Wapenveld 3995
+Papenveer 1135
+Hooge Zwaluwe 1265
+
+Hoogeveen 38754
+Witteveen 400
+Wezuperbrug 170
+Wezup 160
+Terdiek 160
+Moerdijk 1030
+Doonheide 1030
+Noordhoek 1030
+Noord-Sleen 470
+Sleen 2200
+Leens 1675
+Obergum 1675
+Eenrum 1365
+Heiligerlee 1365
+Heilig Landstichting 695
+Nijland 775
+Nijlande 55
+Pietersbierum 55
+Nijhuizum 55
+Tjalhuizum 25
+Idzega 25
+Sandfirden 25
+Firdgum 60
+Dedgum 95
+Foudgum 80
+Hogebrug 80
+Noorderhoogebrug 285
+Noordzijde 285
+Zuidzijde 655
+
+Bodegraven 19395
+Gapinge 380
+Pingjum 445
+Dongjum 295
+Boomhoek 295
+Langenboom 1400
+Langenholte 115
+Mirns 115
+Tirns 105
+Jirnsum 1255
+Schelluinen 1255
+
+Werkendam 26362
+Giessendam 5235
+Diessen 2815
+Nessersluis 105
+Nieuwesluis 105
+Sint Antoniusbank 105
+Sint Anthonis 3340
+Sint Agatha 310
+Ees 310
+Gelselaar 310
+Hezelaar 155
+Borteldonk 155
+Gortel 35
+De Mortel 905
+Biezenmortel 715
+Grootschermer 715
+Kesseleik 715
+Liessel 2395
+Lies 125
+Liesveld 9767
+Boven-Hardinxveld 4500
+
+Waddinxveen 25338
+
+Boskoop 15222
+Boskant 790
+Boskamp 1150
+Harskamp 3450
+Den Dungen 3450
+Tungelroy 710
+Bingelrade 825
+Eckelrade 570
+Ommel 570
+Wommels 2065
+Sint Hubert 995
+Sint Maarten 915
+Zuidwolde 915
+Noordwolde 3605
 Leutingewolde 130
 
-Lunteren 12510
-Heilig Landstichting 695
-Doodstil 65
-Koedood 40
-Vroomshoop 8480
-Den Ham 1830
-Berg en Dal 1949
-Aarle-Rixtel 5125
-Bakel 4140
-Brakel 2555
+Zeewolde 19022
+Foxwolde 150
+Nijeholtwolde 150
+Niehove 150
+Ophoven 25
+Bokhoven 280
+Baakhoven 30
+Baak 575
+Rotsterhaule 575
+Rotstergaast 195
+Craubeek 195
+Vliegert 195
+Tjoene 195
+Noordwelle 195
+Well 2500
+Wellerlooi 1225
+Overloon 3626
+Oudover 240
+Voskuilen 240
+Babylonienbroek 335
+Breedenbroek 440
+Schore 440
+Dreischor 770
+
+Wisch 19496
+
+Nunspeet 19496
+Elspeet 2810
 Melick 3650
-Groot-Ammers 3305
-Halfweg 2350
+Mamelis 50
+Meliskerke 1225
+Eext 1225
+Eexterzandvoort 100
+
+Zandvoort 16868
+Voorthuizen 9710
+Boelenslaan 695
+Kerklaan 140
+Niekerk 1390
+Oldekerk 855
+Grijpskerk 2520
+Daarle 855
+Lennisheuvel 855
+Eikenheuvel 630
+Lindenheuvel 8040
+Euvelgunne 65
+Hiaure 65
+Sint Laurens 1005
+Wijdenes 1005
+Renesse 1095
+Loppersum 2365
+Tappersheul 140
+Kwintsheul 3560
+Urmond 3560
+Warmond 4275
+
+Oegstgeest 21149
+Gees 530
+Geesbrug 725
+Doezum 725
+Driezum 840
+Loil 840
+Foxhol 840
+Achterdrempt 325
+Drempt 965
+Burdaard 1166
+Ternaard 1165
+Hoornaar 440
+Naardermeer 60
+Vinkel 60
+Winkel 3460
+Lutjewinkel 490
+Zijdewind 290
+Rietveld 290
+Saasveld 660
+Warnsveld 9200
+Warns 725
+Schin op Geul 725
+
+Loon op Zand 23000
+
+Bergen op Zoom 66256
+Huijbergen 1655
+
+Steenbergen 23582
+Dinteloord 5105
+Stampersgat 1155
+Fijnaart 4855
+
+Pijnacker 18695
+Ledeacker 385
+Den Andel 385
+Erm 385
+Vegelinsoord 385
+Walsoorden 165
+Vorden 4900
+
+Coevorden 14600
+Ballast 1710
+Callantsoog 2420
+Dorst 1965
+Rottum 660
+Lottum 1170
+Kelpen-Oler 1170
+Gulpen 3560
+Volkel 3560
+
+Uden 34601
+Udenhout 7650
+Bolnes 7650
+
+Waalwijk 45610
+Helwijk 595
+Spoelwijk 160
+Koolwijk 100
+Holwierde 970
+Wilp 970
+Wilp-Achterhoek 150
+Tjuchem 150
+De Zandloper 150
+Cadzand 445
+Kornwerderzand 5
+Wieksloot 145
+Sinderen 145
+Zwinderen 260
+Vriescheloo 260
+Mesch 345
+Lekkum 400
+Makkum 3285
+Eefde 3285
+
+Joure 12902
+Sint Nicolaasga 3285
+IJlst 3180
+
+Sneek 32811
+Ysbrechtum 654
+
+Utrecht 290529
+Oud-Loosdrecht 2035
+Woensdrecht 1340
+Ossendrecht 3970
+
+Roosendaal 77725
+Scheerwolde 340
+Oosterwolde 9245
+De Rietschoof 160
+Nieuw-Schoonebeek 780
+Schoonebeek 3845
+Schoonouwen 140
+Schoonoord 2030
+Aduard 2030
+Haiink 170
+Azelo 170
+Valkenheide 170
+Eyserheide 75
+Hoogerheide 5810
+Einighausen 1340
+Ekenrooi 3970
+Herkenrade 175
+Herkenbosch 3935
+Vorstenbosch 1630
+Opeinde 1630
+Westeinde 205
+Hagestein 970
+Den Hout 970
+Den Hoorn 435
+Buitenkaag 435
+Buitenpost 5120
+Waspik 5120
+
+Made 11795
+
+Rijen 16230
+Gilze 6300
+Onnen 470
+Est 470
+Ulicoten 470
+Sloten 735
+Langeraar 735
+Nijswiller 735
+Wahlwiller 395
+Pallert 70
+Halle 725
+Smalle Ee 40
+Rottevalle 1355
+Kotten 125
+Etten 1470
+Epse 1470
+Gouwsluis 1470
+Gouwe 200
+Noordgouwe 315
+Noordgeest 3700
+Deest 1655
+Peest 80
+Leest 2840
+Kaalheide 2840
+
+Veghel 25352
+Boesingheliede 140
+Thesinge 440
+
+Groningen 181194
+Midsland 915
+Sirjansland 260
+Heerjansdam 3770
+Mijnsheerenland 1775
+Tussenlanen 110
+Tussenklappen 85
+Slappeterp 85
+Ureterp 3810
+Greonterp 35
+
+Dronten 28073
+Biddinghuizen 5010
+
+Lelystad 70741
+
+Almere Stad 176432
+Almen 710
+
+Almelo 72725
+Kilder 980
+Bilderdam 95
+Durgerdam 500
+Ottoland 500
+Veere 500
+Wedderveer 135
+Vledderveen 285
+Vledder 1815
+Zuideinde 230
+Amsteleind 780
+Wijster 780
+Anna Jacobapolder 230
+Sint Anna ter Muiden 50
+Exloerveen 50
+Heensche Molen 50
+Oude Molen 115
+Oudwoude 635
+Bantega 635
+Grootegast 3350
+Lutjegast 735
+Lutjebroek 2120
+
+Enkhuizen 17365
+Bakhuizen 1060
+Woubrugge 1060
+Baambrugge 1010
+Baambrugse Zuwe 460
+Burgerbrug 560
+Oud-Zuilen 560
+Beilen 9495
+Zwiggelte 220
+Orvelte 75
+Havelte 3060
+Uffelte 1235
+Diffelen 130
+Deelen 130
+Veele 205
+Burgervlotbrug 205
+Nieuwebrug 205
+
+Nieuwegein 61489
+
+IJsselstein 33886
+Ysselsteyn 2260
+Halsteren 9850
+Tholen 7475
+Ter Hole 196
+Ter Aard 80
+Beneden-Haastrecht 80
+Haastrecht 4500
+Tjerkgaast 380
+Gaast 180
+Hulten 180
+Peins 180
+Zweins 110
+Greup 110
+Dronryp 3486
+Menaam 2682
+Berltsum 2530
+Britsum 910
+Reitsum 135
+Huizerhoogt 135
+
+Rhoon 18250
+Schoonbron 215
+
+Schoonhoven 12352
+
+Lopik 14013
+Lopikerkapel 530
+Terkaple 230
+Sterksel 910
+Heeze 9110
+Maarheeze 4715
+Rheeze 285
+Vrouwenakker 285
+Bikbergen 285
+Beekbergen 2545
+
+Apeldoorn 136670
+IJzendoorn 785
+Wilbertoord 785
+Wanroij 2340
+Poederoijen 630
+Makkinga 630
+Goingarijp 250
+Peursum 250
+Dearsum 130
+Marsum 1185
+Witmarsum 1585
+Mookhoek 445
+Mook 2715
+Almkerk 2715
+
+Kerkrade 49777
+Gracht 2080
+Dwarsgracht 130
+Hidaard 130
+Hornhuizen 130
+Vierhuizen 130
+Oosterhuizen 850
+Hoogeloon 1790
+Loon 265
+Bloemendaal 3905
+Demen 160
+Retranchement 175
+Reutje 175
+Kreek 175
+Tonnekreek 45
+
+Bennekom 14810
+
+Ede 67670
+Bruinisse 3100
+Stavenisse 1505
+
+Spijkenisse 74988
+Rijkel 75
+Toornwerd 75
+Zuidveld 75
+Zuidveen 570
+Munein 570
+Tuk 1615
+Weverwijk 150
+Leveroy 770
+Kleverskerke 60
+Stitswerd 60
+Wanswerd 105
+Kimswerd 485
+Rekken 485
+Kopstukken 140
+Keup 140
+Trintelen 140
+Tinte 245
+Binnenwijzend 245
+Twijzel 1020
+Twijzelerheide 1580
+Aalst 1580
+Vaals 6970
+Uitdam 125
+Rogat 125
+Blauwe Sluis 125
+Blauwkapel 125
+Blauwhuis 590
+Dolphia 590
+Wolphaartsdijk 1595
+Geersdijk 265
+Geer 115
+Barger-Erfscheidenveen 115
+Barger-Oosterveen 305
+Dinxterveen 255
+Ankeveen 255
+Mariaparochie 255
+Mariahout 1130
+Mariaheide 1000
+Baneheide 135
+Theereheide 4045
+
+Vught 25043
+
+'s-Hertogenbosch 134520
+Hedel 4350
+Ammerzoden 3040
+Kekerdom 485
+Aagtekerke 1245
+Nispen 1245
+Brakel 2555
+Deil 1880
+Vuren 1880
+Kanis 415
+Cillaarshoek 210
+Martenshoek 610
+Ee 610
+Blije 610
+Blijham 2060
+Wedde 600
+Onstwedde 1935
+Scheendijk 435
+Oudendijk 435
+Koedijk 255
+Gorredijk 7040
+Noordijk 250
+Camperduin 250
+Keuningswijk 250
+Velswijk 285
+Krooswijk 4130
+Standdaarbuiten 1930
+Radio Kootwijk 120
+Kootwijk 115
+Drijber 115
+Scheemderzwaag 115
+Scheemdermeer 435
+Scheemda 2395
+Scheepstal 85
+Loenga 85
+Oostmahorn 85
+Thorn 2295
+Zuidhorn 7075
+Kornhorn 505
+Aalsmeerderbrug 505
+Leimuiderbrug 45
+Leimuiden 1035
+
+Leiden 119713
+
+Leiderdorp 25966
+Zunderdorp 430
 Calfven 430
-Langeheit 1180
-Minnertsga 1625
-Bergstoep 1205
-Boompjesdijk 110
+Woezik 430
+Broek in Waterland 2655
+Waterlandkerkje 255
+Nederland 10
+Hoenzadriel 165
+Kerkdriel 6580
+Velddriel 820
+Rossum 2190
+Hoge Enk 895
+Varik 895
+Arum 895
+Marum 5170
+Mildam 685
+Zeldam 510
+Zeldert 365
+
+Amersfoort 139914
+
+Leusden 29215
+Opheusden 5460
+Ophemert 1425
+Nederhemert 1496
+
+Gemert 15995
+Donk 3580
+Zondveld 540
+Zijtaart 1055
+Kuitaart 100
+Kudelstaart 9250
+Hem 1035
+Angerlo 1130
+Hoenderloo 730
+Termaar 730
+Cabauw 730
+Jislum 70
+Hieslum 80
+Kijfhoek 80
+Vijfhuizen 1895
+Obbicht 1895
+Grevenbicht 2355
+Vlist 515
+
+Vlissingen 45273
+Breskens 4335
+Husken 1380
+Spaanshuisken 35
+Spaansehoek 215
+Ansen 250
+Ter Idzard 250
+Zuidzande 435
+Herxen 435
+Oostburg 4410
+Burgwerd 255
+Holwerd 1435
+Hartwerd 125
+Langelille 125
+Muisbroek 125
+Bokt 125
+Bouwberg 125
+Berghem 6500
+
+Oss 76430
+Geffen 3870
+Teeffelen 155
+Overslingeland 155
+De Haukes 155
+De Heen 410
+Niezijl 410
+Zijldijk 185
+Bobeldijk 300
+Schenkeldijk 470
+Ruischerbrug 470
+Bakel 4140
+Rucphen 3660
+
+Zutphen 36188
+Basse 95
+Genum 95
+Wenum 335
+Eenum 90
+Sevenum 5035
+Wimmenum 195
+Glimmen 1065
+Hemmen 130
+Kortehemmen 190
+Korteraar 630
+Raerd 630
+Aerdt 540
+Ven 4430
+Odiliapeel 1390
+Nieuwpoort 1390
+Poortvliet 1220
+Kostvlies 130
 Oost-Vlieland 1025
-Hefswal 145
+Zurich 145
+Harich 465
+Kapel-Avezaath 465
+Veessen 465
+Zandpol 465
+Miste 140
+Kaag 465
+Jubbega 3295
+Ool 280
+Kasen 280
+Helkant 260
+Neerkant 1325
+Abcoven 1325
+Abcoude 6920
+Oudega 1715
+Gouderak 2635
+
+Gouda 71952
+Slenaken 380
+Oosterlittens 380
+Oudewater 9836
+Watergang 410
+Wateringskant 60
+Nieuwe-Wetering 200
+De Punt 200
+Hitzum 200
+Tzum 945
+Tzummarum 1205
+Bergstoep 1205
+Minnertsga 1625
+Linne 3645
+Rinnegom 180
+Scharnegoutum 1540
+Goutum 2790
+
+Leeuwarden 91424
+Leeuwte 90
+Geeuwenbrug 270
+Nieuwehorne 1450
+Nieuwediep 250
+
+Wolvega 12730
+Oldemarkt 2435
+Merkelbeek 1720
+Aalbeek 275
+Wogmeer 275
+
+Opmeer 11183
+Obdam 5690
+Ellemeet 275
+Legemeer 40
+Waskemeer 550
+Zoelmond 550
+
+Helmond 74740
+Leende 3490
+Heeg 1995
+Stepekolk 1995
+
+Nuenen 23223
+Noordschans 180
+Noordse Dorp 60
+De Noord 1335
+Koudum 2600
+Epen 725
+Workum 4105
+Brinkhoek 595
+Brigdamme 595
+Groot-Ammers 3305
+
+Roermond 44975
+Beegden 1765
+Heythuysen 6420
+Meijel 5180
+Hollandsche Rading 1325
+Hollandsch Ankeveen 130
+Ankeveense Rade 1110
+Bakkeveen 1450
+Breedeveen 65
+Neede 7730
+
+Borculo 10373
+Ruurlo 5940
+Oudemolen 215
+Jonkersvaart 215
+Spankeren 775
+Spanga 65
+Spannum 240
+De Falom 240
+Godlinze 240
+Sluipwijk 335
+Stevensbeek 455
+Milsbeek 2055
+Peperga 60
+Moddergat 215
+Ridderbuurt 115
+Grolloo 635
+Rheezerveen 635
+Rhee 40
+Koedood 40
+Doodstil 65
+Koufurderrige 65
+Morige 405
+Schimmert 2310
+Vroenhof 405
+Genoenhuis 3815
+Zesgehuchten 3460
+
+Geldrop 27900
+Vlodrop 1860
+Emst 1310
+Erp 3600
+Budschop 1550
+Goidschalxoord 190
+Ganzert 190
+Havelterberg 190
+Oldelamer 190
+Nijelamer 105
+America 1175
+Babberich 1445
+Tolkamer 2430
+Oostdijk 530
+Lathum 530
+Meddo 530
+Kats 325
+Folsgare 325
+IJpecolsga 50
+Kaakhorn 50
+Blauwe Keet 50
+Grauwe Kat 35
+Waaxens 35
+Fromberg 35
+Lambertschaag 180
+Chaam 2805
+Maasdam 585
+Stoof 585
+Oostknollendam 585
+Zwagerbosch 585
+
+The Hague 474292
+Kerkehout 1045
+Berkhout 1905
+Wanssum 1905
+Bredeweg 2500
+Marrum 1230
+Swolgen 870
+Holtum 1170
+Banholt 1005
+Rijckholt 665
+
+Goes 36931
+Leuth 1595
+
+Nijmegen 158732
+Bolsward 9160
+
+Bemmel 12020
+Lent 9160
+Ooij 2090
+Gendt 5590
+Berg en Dal 1949
+Eck en Wiel 960
+Maurik 3270
+Hummelo 1010
+
+Zaltbommel 26383
+Haaften 2370
+Hellouw 790
+
+Twello 13500
+Het Oostrik 2380
+Gronsveld 2380
+Jaarsveld 310
+Gelkenes 310
+
+Valkenswaard 31071
+
+Bergeijk 18181
+Schoondijke 1280
+Steenoven 105
+Vrilkhoven 105
+Riethoven 1420
+Achthoven 220
+Weustenrade 220
+Imstenrade 310
+De Tike 310
+Haps 2165
+Huisseling 310
+Mussel 985
+Jipsingboermussel 5
+Jipsingboertange 160
+Bourtange 425
+Kievitsdel 425
+Geysteren 425
+Oud-Roosteren 80
+Colmont 80
+Kelmond 145
+Wichmond 475
+Swichum 50
+Kokkelert 50
+Warga 1560
+Piaam 50
+Grou 5535
+Exloo 1525
+Rohel 270
+Terband 270
+Vierbannen 275
+Kwartier 275
+
+Heerhugowaard 47580
+Snelrewaard 825
+Bunde 5500
+Linschoten 3435
+
+Winschoten 18506
+Heksenberg 2395
+Kronenberg 670
+Opijnen 1135
+
+Arnhem 141674
+
+Velp 17669
+De Hoeve 300
+
+Brummen 21344
+Portengense Brug 95
+Bonnerveen 95
+Oud Annerveen 120
+Nieuw-Annerveen 105
+Schardam 105
+Scharmer 895
+Macharen 625
+Gasselternijveenschemond 625
+
+Heiloo 20510
+Eekt 195
+
+Castricum 35256
+Wijthmen 625
+
+Venlo 92403
+Arcen 8793
+Nietap 870
+
+Hilversum 83640
+
+Weesp 17802
+
+Zeist 60949
+Brielle 2765
+
+Wijk bij Duurstede 17465
+Beusichem 2750
+
+Culemborg 26826
+Borger 4570
+Borgsweer 125
+Garrelsweer 495
+Wapse 495
+Moorveld 495
+Driehuizen 230
+
+Benthuizen 18959
+Maaskantje 1610
+
+Tiel 40702
+Heumen 1010
+Lienden 3470
+Zetten 2985
+Renkum 9421
+Wekerom 2540
+
+Franeker 12996
+
+Cranendonck 19966
+
+Vianen 19931
+Burum 525
+Boijl 525
+Beets 525
+Broekdijk 825
+Achlum 525
+
+Wijchen 32693
+
+Terneuzen 27930
+De Veenhoop 255
+Ekehaar 255
+Roodehaan 25
+Ketelhaven 595
+
+Middelharnis 17554
+
+Hellevoetsluis 21927
+Hellebeuk 75
+De Belt 75
+Beltrum 1285
+Diphoorn 65
+Giethoorn 2130
+Niftrik 295
+IJzeren 295
+Oud-Sabbinge 295
+Oud-Vossemeer 2400
+Nieuw-Vossemeer 1975
+Nieuw-Roden 1300
+Zoutkamp 1215
+Ekamp 65
+Zwiep 65
+Harles 65
+Marle 550
+De Moer 550
+De Maten 160
+Vierverlaten 130
+Overlangbroek 135
+Vorchten 60
+Slochteren 2055
+Ten Boer 4355
+Ten Post 680
+Loo 680
+Lobith 3045
+
+Lichtenvoorde 19590
+Varsseveld 5450
+Exmorra 390
+Morra 160
+Follega 160
+
+Urk 17345
+Kuinre 795
+Esp 10
+
+Staphorst 15765
+Ruinen 2610
+Huisduinen 485
+
+Boxmeer 12407
+Starnmeer 205
+Middenmeer 3155
+Briltil 490
+Drogteropslagen 290
+Drogeham 1530
+Zeegse 200
+Balk 3915
+Vries 3915
+Frieschepalen 785
+Amsterdamscheveld 190
+Schuring 190
+Laak 190
+Bornwird 120
+Bladel 9785
+Hapert 4955
+Reusel 7055
+Wijhe 5640
+Rumpt 575
+Laude 30
+Windesheim 385
+Oudehorne 815
+Doornsteeg 5400
+Yde 775
+De Knipe 1480
+De Krosselt 125
+Sintjohannesga 1290
+Vijlen 1290
+Dokkumer Nieuwe Zijlen 45
+Sibrandahus 45
+Silvolde 4850
+Herfte 390
+Zeddam 2305
+Anloo 325
+Hippolytushoef 4800
+Wouw 4600
+Wouwse Plantage 590
+Margraten 3320
+Wijlre 1960
+Termunten 395
+Termunterzijl 245
+Zonnemaire 600
+Halfweg 2350
+Bellingwolde 2290
+Bontebok 410
+Engwierum 410
+Zuidwending 410
+Deurze 85
+Rha 85
+Hopel 2240
+Eemnes 630
+Exel 155
+Meppen 305
+Winthagen 70
+Ferwert 1935
+Molkwerum 255
+Beek gem Montferland 1315
+Noorbeek 750
+Aldeboarn 1525
+Hengevelde 1510
+Oranjedorp 425
+Rockanje 1275
+Geulle 185
+Gnephoek 185
+Duizel 1460
+Twisk 1115
+Broeksterwald 1115
+Ransdaal 910
+De Birkt 180
+Hoog Soeren 180
+Laag-Soeren 685
+Hemelum 505
+Nuis 685
+Amen 80
+Garminge 80
+Oldeouwer 80
+Zeyen 737
+Winsum 1365
+Onna 100
+Ulrum 1300
+Hegelsom 1185
+Wyns 191
+Den Ilp 995
+Hoogbraak 980
+Arensgenhout 510
+Heijningen 510
+Wiene 520
+Deinum 885
+Schiermonnikoog 835
+Biest-Houtakker 750
+Cruquius 695
+Nieuw Moscou 547
+Graetheide 260
+Joppe 440
+Nieuw-Helvoet 415
+Panheel 215
+Schraard 180
 Holset 145
 Absdale 145
-Ransdaal 910
-Frieschepalen 785
-Barsingerhorn 770
-Biest-Houtakker 750
-Eemnes 630
-Peest 80
-Rohel 270
-Eekt 195
-Wyns 191
-Piaam 50
-De Maten 160
-Diffelen 130
-Kotten 125
-Deurze 85
+Vinkega 130
+Maaldrift 130
+Akmarijp 115
+Leegkerk 75

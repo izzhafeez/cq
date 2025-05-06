@@ -4,120 +4,256 @@ Santa Cruz de la Sierra 1722480
 
 Cotoca 54851
 Calacoto 10203
-Callapa 6939
-Challapata 31259
-Llallagua 42861
-Malla 6195
-Luribay 12313
-
-Yacuiba 103723
-Boyuibe 6154
-Cabezas 31942
-Camiri 36485
-Urmiri 3529
-Zudanez 12467
-Santivanez 7295
-
-Sipe Sipe 47135
-
-Vinto 62131
-Todos Santos 1069
-Santos Mercado 2506
-Santa Rosa del Abuna 2506
-Santa Rosa del Sara 23834
-General Saavedra 14065
-Mineros 27261
-
-Montero 135931
-
-Villamontes 51916
-Monteagudo 27119
-Muyupampa 10457
-Arampampa 3761
-Acasio 6435
-Villa de Sacaca 19118
-Caripuyo 8503
-Carapari 17279
-Tapacari 25852
-
-Yapacani 77152
-San Juan de Yapacani 10692
-
-San Julian 67701
-San Javier 16027
-El Puente 16977
-Papel Pampa 7402
-San Pedro Curahuara 9016
-San Pedro 24077
-San Pedro de Totora 5726
-San Pedro de Tiquina 5789
-Santiago de Huata 9158
-Santiago de Machaca 4522
-San Andres de Machaca 6114
-Jesus de Machaca 15416
-Nazacara de Pacajes 699
 Caquiaviri 15427
 Guaqui 7313
-Chaqui 10134
-Sapahaqui 12917
-Palca 17707
-Mecapaca 19014
-Achocalla 22883
-
-La Paz 816044
-Pazna 6054
-Padcaya 18582
-Huacaya 2650
-Huachacalla 1011
-Esmeralda 2854
-La Rivera 581
-Villa Rivero 9034
-Vacas 9154
-Tacachi 1424
-
-Achacachi 47186
+Puerto Perez 8502
 Huarina 8276
 Huari 16633
 Pampa Aullagas 2852
 Quillacas 4474
 
 Quillacollo 169360
-Caracollo 23933
+
+Vinto 62131
+
+Sipe Sipe 47135
+Yanacachi 8203
+Chulumani 21619
+Humanata 5262
+Chuma 11256
+Ayata 8693
+Charazani 13482
+Charana 3466
+Catacora 3891
+Tacopaya 10582
+Bolivar 7370
+Caripuyo 8503
+Tapacari 25852
+
+Yapacani 77152
+San Juan de Yapacani 10692
+Santa Rosa del Sara 23834
+General Saavedra 14065
+
+Riberalta 101755
+Villa Nueva-Loma Alta 3209
+Villa Alcala 5196
+Villa Serrano 11711
+Pucara 1887
+Pucarani 29799
+Arani 10046
+Tacachi 1424
+Cuchumuela 2951
+Tarata 8722
+Toko 7420
+Cliza 23987
+Tolata 6183
+Arbieto 23940
+Santivanez 7295
+Santiago de Machaca 4522
+San Andres de Machaca 6114
+Jesus de Machaca 15416
+
+Viacha 90880
+
+Achacachi 47186
 Soracachi 11598
+Villa de Sacaca 19118
+Villa Rivero 9034
+Vacas 9154
+Acasio 6435
+Arampampa 3761
+Muyupampa 10457
+Cuevo 5358
+Machareti 7735
 Machacamarca 5082
 Cruz de Machacamarca 3280
-Belen de Andamarca 2127
-Santiago de Andamarca 5380
-Chipaya 2090
-Salinas de Garcia Mendoza 14020
+Huachacalla 1011
+Esmeralda 2854
+Yunguyo de Litoral 546
+San Pablo de Lipez 4118
+San Pedro de Quemes 1289
+San Agustin 1712
+San Antonio de Esmoruco 2828
+San Antonio de Lomerio 6926
+Cuatro Canadas 28855
+
+Pailon 47473
+Yaco 7557
+Curahuara de Carangas 3435
+San Pedro de Totora 5726
+San Pedro de Tiquina 5789
+Santiago de Huata 9158
+Chua Cocani 4475
+Cocapata 20406
 Independencia 24898
-Uncia 24686
+Ichoca 8368
+Malla 6195
+Callapa 6939
+Ayo Ayo 7992
+Umala 8103
+Patacamaya 23665
+Waldo Ballivian 5569
+Anzaldo 7415
+Nueva Esperanza 2422
+San Lorenzo 8710
+Puerto Gonzales Moreno 9090
+Puerto Rico 7247
+Sena 11338
+Filadelfia 6149
+Ixiamas 9916
+Desaguadero 7708
+Huacareta 8351
+Chacarilla 2282
+Quirusillas 4092
+Colquiri 20835
+Colquencha 10674
+Calamarca 12352
+Huayllamarca 5715
+Papel Pampa 7402
+San Pedro Curahuara 9016
+San Pedro 24077
+
+San Julian 67701
+San Javier 16027
+El Puente 16977
+Mineros 27261
+Fernandez Alonso 19808
+Vallegrande 18472
+Postrer Valle 2400
+Trigal 2243
+Moro Moro 2541
+Mojocoya 8421
+Presto 14088
+
+Sucre 295476
+Yotala 10017
+Yamparaez 10929
+Tarabuco 17027
+Puerto Carabuco 13869
+Puerto Acosta 11052
+Mocomoco 16175
+Escoma 7168
+Tacacoma 8847
+Quiabaya 2640
+Combaya 4020
+Sorata 26065
+Pasorapa 7284
+Comarapa 17511
+Saipina 9702
+Culpina 18801
+Incahuasi 14293
+Villa Charcas 17879
+Villa San Lorenzo 25796
+
+Tarija 268387
+Uriondo 15595
 Yunchara 5621
 
 Villazon 50004
-Villa San Lorenzo 25796
-Villa Charcas 17879
-Incahuasi 14293
-Tahua 1441
-Uyuni 39494
-Huanuni 27975
-Tiahuanacu 12757
-Guanay 16011
-Tipuani 10449
-Arani 10046
-Pucarani 29799
-Puerto Perez 8502
-Puerto Suarez 24409
-Puerto Quijarro 20068
+El Villar 4644
+Padilla 11067
+Tomina 8727
+Icla 7777
+Tarvita 14688
+Ckochas 15121
+Atocha 12543
+Tomave 16329
+Bermejo 40404
+Carapari 17279
+
+Yacuiba 103723
+
+Villamontes 51916
+Monteagudo 27119
+
+Montero 135931
+
+Warnes 214246
+Okinawa Uno 14167
+Portachuelo 19735
+Sopachuy 7870
+Apolo 22046
+Pampa Grande 10558
+Batallas 16482
+Yocalla 9674
+Tinguipaya 31591
+
+Tiquipaya 65881
+Poopo 8032
+San Ramon 9295
+San Rafael 7444
+Huatajata 4450
+Collana 4777
+Caracollo 23933
+Eucaliptus 4972
+Sica Sica 32098
+Sicaya 5789
+Huacaya 2650
+Huacaraje 4577
+Magdalena 13077
+San Joaquin 8038
+San Jose de Chiquitos 44739
+Mairana 13197
+
+Caranavi 53622
+Alto Beni 12123
+
+El Alto 943558
+
+La Paz 816044
+Achocalla 22883
+Mecapaca 19014
+Palca 17707
+Sapahaqui 12917
+Chaqui 10134
+
+Potosi 220260
+Puna 21225
+Punata 33011
+San Benito 17085
+San Borja 44657
+San Buenaventura 9453
+Rurrenabaque 25035
+Tiraque 21913
+Sabaya 8461
+Mojinete 1660
+Porco 11395
+
+Cobija 78555
+Ingavi 1840
+Guayaramerin 44446
+Exaltacion 6607
+Reyes 14539
+Santa Rosa 10379
+Santa Ana del Yacuma 18216
+Santa Rosa del Abuna 2506
+Ancoraimes 12864
+Villa Abecia 4022
+Santos Mercado 2506
+Todos Santos 1069
+La Rivera 581
 Carmen Rivero Torrez 8056
-Toro Toro 11088
-Poroma 18947
-Cairoma 10870
-Villa Libertad Licoma 5819
-Quime 8972
-Inquisivi 15198
-Tito Yupanqui 6580
-Copacabana 15374
+Puerto Quijarro 20068
+Puerto Suarez 24409
+Puerto Siles 999
+Colpa Belgica 6132
+Bella Flor 4092
+Bolpebra 2368
+Zudanez 12467
+Urmiri 3529
+Camiri 36485
+Gutierrez 13644
+Cabezas 31942
+Boyuibe 6154
+Azurduy 10948
+San Lucas 33632
+Camargo 17662
+Vitichi 10332
+Caiza D 11707
+Betanzos 31922
+Tacobamba 11251
+Sacabamba 4508
 
 Sacaba 208913
 
@@ -125,23 +261,17 @@ Cochabamba 724126
 
 Colcapirhua 59172
 Capinota 21644
-Mapiri 14854
-Aucapata 5771
-Ayata 8693
-Quiabaya 2640
-Combaya 4020
-Tacacoma 8847
-Escoma 7168
-Mocomoco 16175
-Mojocoya 8421
-Moro Moro 2541
-Morochata 13009
-Cocapata 20406
-Coripata 18873
-Coroico 20691
-Coro Coro 9498
-Comanche 3968
-Colquencha 10674
+Arque 10947
+Corque 9329
+Choque Cota 1946
+Cotagaita 34088
+Las Carreras 4412
+San Carlos 23629
+Buena Vista 13184
+Porongo 17047
+Poroma 18947
+Ravelo 20939
+Ocuri 14666
 Colquechaca 35997
 Pocoata 31517
 Pocona 10945
@@ -149,221 +279,91 @@ Totora 17372
 Alalay 3457
 Vila Vila 6680
 Omereque 5850
-Mizque 29059
-Arque 10947
-Corque 9329
-Choque Cota 1946
-El Choro 11199
-Toledo 11653
-Tolata 6183
-Tarata 8722
-Punata 33011
-Puna 21225
-Caiza D 11707
-Cliza 23987
-Anzaldo 7415
-Waldo Ballivian 5569
-
-Viacha 90880
-Laja 26225
-Huatajata 4450
-Collana 4777
-San Rafael 7444
-San Ramon 9295
-Colpa Belgica 6132
-Sica Sica 32098
-Ichoca 8368
-Colquiri 20835
-Eucaliptus 4972
-Pucara 1887
-Villa Serrano 11711
-Villa Alcala 5196
-El Villar 4644
-Padilla 11067
-Chacarilla 2282
-Quirusillas 4092
-Bella Flor 4092
-Loreto 4035
-Chimore 26855
-
-Puerto Villarroel 52357
-Pojo 10419
-Entre Rios 36351
-Uriondo 15595
-Ocuri 14666
-Curva 3760
-Charazani 13482
-Charana 3466
-Catacora 3891
-Taraco 6700
-Tarabuco 17027
-Puerto Carabuco 13869
-Puerto Acosta 11052
-Puerto Rico 7247
-Puerto Gonzales Moreno 9090
-Puerto Siles 999
-
-Tiquipaya 65881
-Tinguipaya 31591
-Yocalla 9674
-
-Potosi 220260
-Yotala 10017
-Yamparaez 10929
-Betanzos 31922
-San Lorenzo 8710
-Sabaya 8461
-Mojinete 1660
-Porco 11395
-Porvenir 10967
-San Buenaventura 9453
-San Borja 44657
-Rurrenabaque 25035
-Tiraque 21913
-Mairana 13197
-Samaipata 11731
-Patacamaya 23665
-Umala 8103
-Calamarca 12352
-Huayllamarca 5715
-Camargo 17662
-Culpina 18801
-Saipina 9702
-Comarapa 17511
-Pasorapa 7284
-Sorata 26065
-Chuma 11256
-Humanata 5262
-Chulumani 21619
-Irupana 19355
-Yanacachi 8203
-
-El Alto 943558
-Alto Beni 12123
-San Benito 17085
-San Jose de Chiquitos 44739
-San Joaquin 8038
-Magdalena 13077
-Sena 11338
-Filadelfia 6149
-Ixiamas 9916
-Reyes 14539
-Santa Rosa 10379
-Santa Ana del Yacuma 18216
-Exaltacion 6607
-
-Riberalta 101755
-Villa Nueva-Loma Alta 3209
-Ingavi 1840
+Antequera 3070
+Pazna 6054
+Padcaya 18582
+Huanuni 27975
+Tiahuanacu 12757
+Tahua 1441
+Uyuni 39494
+Salinas de Garcia Mendoza 14020
+Belen de Andamarca 2127
+Santiago de Andamarca 5380
+Chipaya 2090
+Coipasa 951
 Carangas 891
 Escara 4463
-Yunguyo de Litoral 546
-San Pablo de Lipez 4118
-San Pedro de Quemes 1289
-San Antonio de Esmoruco 2828
-San Antonio de Lomerio 6926
-Cuatro Canadas 28855
+Turco 5812
+Toledo 11653
+El Choro 11199
 
-Pailon 47473
-Fernandez Alonso 19808
-Vallegrande 18472
-Postrer Valle 2400
-Trigal 2243
+Oruro 302643
+Llallagua 42861
+Charagua 40476
+Samaipata 11731
+Coripata 18873
+Coroico 20691
+Coro Coro 9498
+Comanche 3968
+Villa Libertad Licoma 5819
+Quime 8972
+Cairoma 10870
+Luribay 12313
+Irupana 19355
+Tito Yupanqui 6580
+Copacabana 15374
+Taraco 6700
+Laja 26225
+Nazacara de Pacajes 699
 
-Trinidad 130657
-San Andres 13358
+La Guardia 177735
 Ascension de Guarayos 36383
+Urubicha 10233
 Concepcion 24070
 
 San Ignacio de Velasco 63186
 San Miguel de Velasco 12568
 San Matias 15960
 Robore 16308
-Charagua 40476
-Desaguadero 7708
-Tomave 16329
-Ravelo 20939
-Portachuelo 19735
-Porongo 17047
-Buena Vista 13184
-San Pedro de Buena Vista 31718
-Chayanta 17470
-Chuquihuta 9280
-Sopachuy 7870
-Apolo 22046
-Colomi 22514
-Tomina 8727
-Icla 7777
-Tarvita 14688
-Ckochas 15121
-Atocha 12543
-Huacareta 8351
-Bolpebra 2368
-Bolivar 7370
-Tacopaya 10582
-Yaco 7557
-Curahuara de Carangas 3435
 
-Caranavi 53622
+Trinidad 130657
+San Andres 13358
+Loreto 4035
+San Ignacio 22564
+La Asunta 42644
 Palos Blancos 26809
-Ancoraimes 12864
-Villa Abecia 4022
-
-Villa Tunari 79253
-Shinahota 24264
-Cotagaita 34088
-Vitichi 10332
-San Lucas 33632
-Azurduy 10948
-
-La Guardia 177735
+Teoponte 10063
+Guanay 16011
+Tipuani 10449
+Mapiri 14854
+Aucapata 5771
+Challapata 31259
+Chuquihuta 9280
+Uncia 24686
+Chayanta 17470
+San Pedro de Buena Vista 31718
+Toro Toro 11088
 
 El Torno 63298
 
-Warnes 214246
-Okinawa Uno 14167
-Toko 7420
-Sacabamba 4508
-Cuchumuela 2951
-Pelechuco 7081
-Chua Cocani 4475
-Sicaya 5789
-Llica 5301
-Coipasa 951
-Turco 5812
+Villa Tunari 79253
+Colomi 22514
+Shinahota 24264
+
+Puerto Villarroel 52357
+Chimore 26855
+Pojo 10419
+Entre Rios 36351
 
 Tupiza 48591
-Las Carreras 4412
-Batallas 16482
-Pampa Grande 10558
-
-Oruro 302643
-Urubicha 10233
-Baures 6247
-Presto 14088
-
-Sucre 295476
-La Asunta 42644
-Cajuata 12283
-Huacaraje 4577
-San Ignacio 22564
-San Carlos 23629
-
-Tarija 268387
-
-Cobija 78555
-Tacobamba 11251
-Guayaramerin 44446
-Bermejo 40404
-Machareti 7735
-Cuevo 5358
-Nueva Esperanza 2422
-Antequera 3070
-Teoponte 10063
-Poopo 8032
-Aiquile 24676
-Arbieto 23940
-Gutierrez 13644
-San Agustin 1712
 Colcha K 15977
-Ayo Ayo 7992
+Llica 5301
+Mizque 29059
+Aiquile 24676
+Inquisivi 15198
+Cajuata 12283
+Morochata 13009
+Porvenir 10967
+Pelechuco 7081
+Curva 3760
+Baures 6247

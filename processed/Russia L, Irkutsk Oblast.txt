@@ -2,44 +2,44 @@
 
 Irkutsk 587891
 Markova 9894
+Meget 8828
+
+Angarsk 233567
+Khomutovo 7528
+Biryusinsk 8981
+Tayshet 35485
+Yurty 5301
+Alzamay 6730
+Lesogorsk 5511
+Zheleznogorsk-Ilimskiy 26079
+
+Ust'-Ilimsk 86610
+Zheleznodorozhnyy 7032
 Shelekhov 47943
 Mishelevka 7789
 Svirsk 13650
-
-Angarsk 233567
-Meget 8828
-Khomutovo 7528
-
-Cheremkhovo 52647
-Sredniy 5352
-Kirensk 12640
-Magistral'nyy 7067
-Baykal'sk 13583
-Slyudyanka 18574
-Sayansk 40800
+Zalari 9600
 Zima 32508
-
-Ust'-Ilimsk 86610
-Zheleznogorsk-Ilimskiy 26079
-Zheleznodorozhnyy 7032
-Novaya Igirma 10161
-Zhigalovo 5369
-Kachug 7011
+Sayansk 40800
+Kuytun 10097
+Tulun 44611
+Nizhneudinsk 36999
 Chunskiy 14996
 Ust'-Ordynskiy 14891
 Ust'-Kut 45375
 Ust'-Uda 5173
-Zalari 9600
-Alzamay 6730
-Tayshet 35485
-Biryusinsk 8981
-Nizhneudinsk 36999
-Lesogorsk 5511
-Vikhorevka 22520
+
+Cheremkhovo 52647
+Sredniy 5352
+Bokhan 5169
 
 Bratsk 246319
-Tulun 44611
-Kuytun 10097
+Vikhorevka 22520
+Magistral'nyy 7067
+Kirensk 12640
+Novaya Igirma 10161
+Slyudyanka 18574
+Baykal'sk 13583
 Bodaybo 15340
-Bokhan 5169
-Yurty 5301
+Kachug 7011
+Zhigalovo 5369

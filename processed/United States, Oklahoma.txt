@@ -12,118 +12,22 @@ Lexington 2010
 McAlester 18171
 Sterling 668
 Billings 578
-Welling 781
-Blanco 105
-
-Blanchard 8879
-
-Newcastle 10984
-
-Tuttle 7413
-
-Mustang 19879
-Strang 64
-Stratford 1405
-
-Ada 16481
-Davis 2823
-Davidson 241
-Randlett 289
-Chandler 2858
-Stringtown 419
-Cowlington 109
-Dacoma 109
-Macomb 22
-Comanche 1378
-Manchester 90
-Chester 176
+Bison 56
+River Bottom 248
+Cottonwood 117
 Pumpkin Hollow 176
 Hollis 1795
-Hollister 35
-Wister 1031
-Heavener 2985
-Beaver 1280
-Barnsdall 1034
-Hillsdale 75
-Dale 175
-Rosedale 62
-Roosevelt 254
-Rose 225
-Boswell 579
-Red Oak 537
-Hochatown 242
-Notchietown 302
-Etowah 159
-Platter 159
-Latta 1465
-
-Henryetta 5640
-Yeager 45
-Gage 433
-Gans 251
-Gate 60
-Coalgate 1667
-White Water 79
-Foster 246
-Foss 101
-Pensacola 101
-Indianola (Pittsburg County) 148
-Indianola (Delaware County) 51
-Nashoba 51
-Nash 192
-Zena 181
-Goldsby 2694
-Golden 71
-Cole 624
-Coleman 290
-Short 290
-North Miami 290
-
-Miami 12969
-Copeland 1511
-
-Grove 6956
-
-Verdigris 5256
-Limestone 804
-Preston 169
-Rosston 52
-Lotsee 6
-Tullahassee 83
-Pocasset 183
-Fitzhugh 183
-Hulbert 483
-Carter 183
-Carlisle 483
-Earl 44
-Earlsboro 594
-Calera 2916
-Vera 334
-Leach 249
-Achille 398
-
-Vinita 5193
-Titanic 259
-Thomas 1143
-Lahoma 539
-Valley Brook 665
-Hooker 1802
-
-Guymon 12965
-Mangum 2762
-Blackgum 47
-Bluejacket 235
-Tiawah 235
-Konawa 1288
-Mazie 74
-Zion 30
-Dwight Mission 76
-Chewey 548
-Dewey 3372
-
-Bartlesville 37290
-
-Collinsville 7881
+Chester 176
+Manchester 90
+Nescatunga 90
+Marland 184
+Orlando 130
+Rentiesville 103
+Gould 103
+Briartown 185
+Longtown 2659
+Bennington 282
+Burneyville 815
 Mannsville 728
 Colcord 728
 McCord 1418
@@ -131,30 +35,392 @@ McCord 1418
 Ponca City 24424
 
 Blackwell 6085
-Blackburn 70
-Shady Grove (Cherokee County) 519
-Clarita 135
-Teresita 188
-Kenefic 147
-Okeene 1090
-Okay 505
-Wewoka 3133
+Blackgum 47
+Crescent Springs 184
+Dripping Springs 54
+
+Sand Springs 19874
+Rush Springs 997
+Grandfield 919
 Fairfield 626
 Fairfax 1136
 Meno 198
-Ames 193
-Camargo 193
-Fargo 312
-Fay 32
-Watova 32
-Watonga 2690
+Vanoss 146
+Butler (Delaware County) 146
+Indianola (Delaware County) 51
+Nashoba 51
+Nash 192
+Zena 181
+Goldsby 2694
+Golden 71
 
-El Reno 16989
-Union City 1794
+Holdenville 5934
+
+Seminole 7146
+Inola 1890
+Commerce 2271
+Washington 673
+Covington 472
+Addington 83
+Tullahassee 83
+Pocasset 183
+Fitzhugh 183
+Preston 169
+Rosston 52
+Lotsee 6
+Enterprise 170
+Carter 183
+Manitou 171
+Granite 1628
+Grant 190
+
+Durant 18589
+Madill 3914
+
+Ardmore 24725
+Sycamore 65
+Bessie 182
+Salem 112
+Colony 112
+Sasakwa 80
+Etta 80
+Marietta 2719
+Stroud 2719
+Armstrong 113
+Stoney Point 176
+Honey Hill 160
+Woodlawn Park 160
+Mountain Park 320
+Mountain View 740
+Corn 592
+
+Clinton 8521
+
+Hinton 4917
+Lebanon 210
+Middleberg 99
+Loco 99
+Marshall 210
+Hallett 105
+Blanco 105
+
+Blanchard 8879
+
+Newcastle 10984
+Castle 169
+Dale 175
+Longdale 186
+Long 408
+Liberty (Sequoyah County) 214
+Marietta (Adair County) 82
+Adair 732
+Tishomingo 3101
+Wynnewood 1927
+Atwood 85
+Kenwood 904
+
+Pauls Valley 5992
+Cedar Valley 405
+Akins 405
+Perkins 3205
+Cleveland 3205
+Loveland 13
+Ashland 35
+Roland 3316
+Muldrow 3272
+Drowning Creek 174
+Taft 174
+Freedom 174
+Big Cabin 174
+Byars 184
+Scipio 53
+Hoot Owl 0
+Wardville 53
+Connerville 59
+IXL 59
+Cloud Creek 319
+Pond Creek 885
+Wickliffe 1026
+Caddo 1017
+Tyrone 729
+Byron 37
+Le Flore 150
+Haywood 150
+Baker 37
+Foraker 18
+Whitesboro 172
+Earlsboro 594
+Earl 44
+Temple 862
+Twin Lakes 178
+Arnett 495
+Carney 545
+Carnegie 1430
+Old Green 310
+Greenville 167
+West Peavine 167
+Peavine 372
+Arcadia 169
+Canadian 143
+Canadian Shores 233
+May 29
+Dry Creek 233
+Deer Creek 78
+
+Pryor Creek 9444
+Chouteau 2059
+
+Poteau 8807
+Wister 1031
+Heavener 2985
+Beaver 1280
+Barnsdall 1034
+Woodall 816
+Arapaho 668
+Lenapah 272
+Helena 1537
+
+Enid 51308
+North Enid 1003
+North Miami 290
+Osage 177
+Garvin 177
+Clearview 41
+Fairview 2740
+Watonga 2690
+Watova 32
+Douglas 51
+Dougherty 199
+Hough 20
+Picher 20
+Cherokee 1476
+Cherry Tree 703
+
+Perry 4484
+
+Stillwater 48394
+Sweetwater 102
+Hitchcock 102
+Hitchita 60
+Washita 83
+Cashion 850
+Colbert 1027
+Hulbert 483
+Carlisle 483
+Carlton Landing 94
+Duchess Landing 157
+
+Guymon 12965
+Hooker 1802
+Lookeba 78
+Bradley 78
+Bowring 78
+Springer 685
+Pump Back 160
+Braman 160
+Cayuga 160
+Ballou 155
 Cimarron City 155
-Hodgen 62
+Union City 1794
+Minco 1500
+
+Tuttle 7413
+
+Mustang 19879
+
+Yukon 23630
+
+Bethany 20831
+Bethel Acres 3029
+
+Warr Acres 10452
+Pin Oak Acres 321
+Milburn 252
+Wilburton 2285
+Walters 2412
+Schulter 422
+Bernice 422
+Fanshawe 317
+Fort Supply 317
+Fort Cobb 518
+Fort Coffee 335
+Fort Towson 492
+Cartwright 492
+Wainwright 93
+Devol 93
+Eagle City 40
+Little City 136
+Empire City 703
+Elmore City 738
+Hydro 927
+Copan 710
+Brush Creek 14
+Brushy 811
+Quapaw 811
+New Cordell 2775
+Oakland 831
+Krebs 2083
+Westville 1364
+Smithville 77
+Smith Village 49
+Shady Point 972
+Ravia 464
+Fay 32
+Utica 51
+Proctor 180
+Pittsburg 180
+Indianola (Pittsburg County) 148
+Adams 148
+Adamson 69
+Bokoshe 396
+Moodys 854
+Lake Ellsworth Addition 223
+Haworth 291
+Arpelar 291
+Copeland 1511
+
+Grove 6956
+Oak Grove 22
+Macomb 22
+Dacoma 109
+Rattan 276
+Cedar Crest 276
+Cedar Lake 404
+Eagletown 404
+White Eagle 520
+White Oak 208
+White Water 79
+Foster 246
+Konawa 1288
+Mazie 74
+Headrick 74
+Kendrick 87
+Hendrix 61
+Bull Hollow 61
+Steely Hollow 292
+Buffalo 1039
+Notchietown 302
+Etowah 159
+Platter 159
+Latta 1465
+Katie 332
+
+Henryetta 5640
+Taylor Ferry 819
+Sperry 1115
+Albion 58
+Hanson 58
+Johnson 457
+Johnson Prairie 94
+Iron Post 65
+Swink 65
+Shamrock 65
+Rocky 128
+McBride 128
+Bridgeport 97
+Bridge Creek 336
+Snake Creek 255
+Jennings 280
+Dennis 221
+Rock Island 717
+Little Rock 197
+Little Ponderosa 438
+Binger 438
+Blue 200
+Bluejacket 235
+Tiawah 235
+Lehigh 272
+Central High 1181
+
+Duncan 22692
+Elgin 3656
+
+Lawton 90381
+Lawtonka Acres 187
+New Alluwe 89
+New Eucha 400
+Chattanooga 400
+Dover 400
+Thackerville 400
+
+Slaughterville 4163
+
+Noble 6985
+
+Norman 128026
+
+Moore 62793
+Mooreland 1178
+Cumberland 315
+Lane 300
+Forest Park 1049
+Elm Grove 192
+Ingalls 192
+Webbers Falls 338
+Gotebo 174
+Antlers 2221
+Butler 208
+Foss 101
+Pensacola 101
+
+Pocola 4255
+Goodwell 951
+
+Woodward 12133
+Seward 26
+Calumet 443
+Lake Aluma 87
+Grand Lake Towne 80
+Grandview 1321
+Redbird Smith 526
+Redbird 89
 Dodge 89
-Dotyville 89
+Hodgen 62
+Skedee 62
+Haileyville 716
+Rosedale 62
+Rose 225
+Soper 225
+Cooperton 3
+Millerton 215
+Mill Creek 293
+Flint Creek 741
+Chance 215
+Chandler 2858
+Randlett 289
+Davidson 241
+Davis 2823
+
+Sulphur 5065
+Stratford 1405
+
+Ada 16481
+Coalgate 1667
+Gate 60
+Moyers 60
+New Woodville 60
+Maysville 1087
+Brooksville 71
+Nelagoney 71
+
+Wagoner 7621
+Norwood 1679
+Park Hill 3193
+Keys 1030
+
+Tahlequah 16209
+Lequire 127
+Grayson 127
+Beggs 1179
+Peggs 789
+Barber 303
+Afton 734
+Glencoe 499
+
+Glenpool 13691
+Kiefer 2187
+
+Sapulpa 21929
 Kellyville 1019
 Haskell 1626
 
@@ -165,634 +431,122 @@ Broken Arrow 113540
 Broken Bow 4228
 
 Hugo 5166
-
-Sulphur 5065
-
-Durant 18589
-Grant 190
-Mulberry 96
-Belfonte 298
-Bell 191
-Isabella 114
-Greenfield 114
-Grandfield 919
-Rush Springs 997
+Wilson 1399
+Wellston 679
+Ralston 266
+Locust Grove 1371
+Dotyville 89
 Erin Springs 89
 Flute Springs 87
-Canute 494
-Talala 258
-Lake Aluma 87
-New Alluwe 89
-Hallett 105
-Allen 805
-Healdton 2328
-Little Rock 197
-Little Ponderosa 438
-Binger 438
-Springer 685
-Pump Back 160
-Ballou 155
-Willow 119
-Bull Hollow 61
-Steely Hollow 292
-Buffalo 1039
-Fallis 21
-Durham 21
-Welty 131
-Felt 77
-Terlton 77
-Carlton Landing 94
-Duchess Landing 157
-Winchester 546
-Picher 20
-Cherokee 1476
-Cherry Tree 703
+Cave Spring 74
+Milfay 74
+Oakwood 74
+Ringwood 401
+Fletcher 1204
+Ketchum 471
+Gideon 229
+Chewey 548
+Dewey 3372
 
-Perry 4484
-Perkins 3205
-Akins 405
-Newkirk 2172
-Cedar Valley 405
-Cedar Crest 276
-Cedar Lake 404
-Eagletown 404
-Eagle City 40
-Wainwright 93
-Bowring 78
-Bradley 78
+Bartlesville 37290
+
+Collinsville 7881
+
+Owasso 38240
+Limestone 804
+
+Verdigris 5256
+Verden 508
+Lowrey 286
+Nicut 286
+Turpin 442
+Mounds 932
+Medford 932
+Mannford 3262
+Francis 244
 Bray 952
 Spaulding 149
 Wauhillau 307
 Nichols Hills 3870
 Tryon 378
-Goltry 251
-Yale 1059
-Loyal 71
-Nelagoney 71
-
-Wagoner 7621
-Norwood 1679
-Woodall 816
-Atwood 85
-Kenwood 904
-
-Pauls Valley 5992
-Ripley 346
-Temple 862
-Kemp 126
-Peoria 126
-Keota 437
-Checotah 3018
-
-Tahlequah 16209
-Lequire 127
-Grayson 127
-Agra 311
-Wakita 311
-Washita 83
-Hitchita 60
-Whitefield 371
-Shattuck 1249
-Chattanooga 400
-Rattan 276
-Keyes 276
-Keys 1030
-Park Hill 3193
-Paradise Hill 73
-Madill 3914
-Dill City 420
-Mill Creek 293
-Flint Creek 741
-Deer Creek 78
-
-Pryor Creek 9444
-Chouteau 2059
-
-Poteau 8807
-Eufaula 2766
-Morris 1299
-Morrison 723
-
-Stillwater 48394
-Stilwell 3700
-Wellston 679
-Wilson 1399
-Wilburton 2285
-Milburn 252
-Pin Oak Acres 321
-Twin Lakes 178
-Twin Oaks 328
-Fair Oaks 73
-Oaks 267
-Delaware 267
-Butler (Delaware County) 146
-Savanna 623
-Vanoss 146
-Avant 301
-Tupelo 327
-Soper 225
-Alderson 220
-Jefferson 9
-Ringling 869
-Cleo Springs 287
-Hammon 479
-Drummond 455
-Cloud Creek 319
-
-McLoud 4351
-
-Harrah 6245
-
-Warr Acres 10452
-Bethel Acres 3029
-
-Bethany 20831
-Martha 162
-Haworth 291
-Arpelar 291
-Shady Grove (McIntosh County) 487
-Geronimo 1158
-Sequoyah 730
-Liberty (Sequoyah County) 214
-Marietta (Adair County) 82
-Marietta 2719
-Etta 80
-Sasakwa 80
-Salem 112
-Colony 112
-Long 408
-Longtown 2659
-Bennington 282
-Jennings 280
-Mallard Bay 280
-Mountain Park 320
-Mountain View 740
-Corn 592
-
-Clinton 8521
-
-Hinton 4917
-Lebanon 210
-Middleberg 99
-Shidler 328
-Wetumka 1135
-Tatums 111
-Sand Hill 339
-Sand Point 251
-Stoney Point 176
-Honey Hill 160
-Woodlawn Park 160
+Indiahoma 275
+Evening Shade 378
+Coleman 290
+Cole 624
+Dickson 1331
+Cookson 826
+Hollister 35
+Sumner 35
+Capron 27
 Valley Park 19
-Bryant 19
-Ryan 667
-Dry Creek 233
-Canadian Shores 233
-Canadian 143
-Arcadia 169
-Caddo 1017
-Eldorado 317
-Eldon 347
-Reydon 137
-Lowrey 286
-Nicut 286
-Bernice 422
-Cornish 110
-Gene Autry 154
-Hunter 145
-Enterprise 170
-Adamson 69
-Adams 148
-Adair 732
-Tishomingo 3101
-Hominy 3329
-Pawhuska 2984
-
-Skiatook 8450
-
-Catoosa 7440
-
-Tulsa 413066
-
-Sapulpa 21929
-Kiefer 2187
-
-Glenpool 13691
-Davenport 809
-Smith Village 49
-Shady Point 972
-Marshall 210
-Mulhall 212
-Blue 200
-Prue 374
-Lima 68
-South Coffeyville 683
-Haywood 150
-Baker 37
-Foraker 18
-Bridgeport 97
-Bridge Creek 336
-Snake Creek 255
-Terral 280
-Sperry 1115
-Albion 58
-Kiowa 595
-Webb City 58
-Hanson 58
-Johnson 457
-Proctor 180
-Rocky Point 946
-Rocky 128
-McBride 128
-Bromide 123
-Whippoorwill 75
-White Oak 208
-Butler 208
-Antlers 2221
-Taft 174
-Afton 734
-Canton 468
-Kenton 31
-Grainola 31
-Inola 1890
-Commerce 2271
-
-Purcell 6651
-
-Slaughterville 4163
-
-Noble 6985
-
-Norman 128026
-Norge 129
-Forgan 450
-Byng 1393
-Dripping Springs 54
-Crescent Springs 184
-Crescent 1299
-
-Okmulgee 11322
-
-Muskogee 36878
-Tuskahoma 102
-Hitchcock 102
-Hanna 102
-Texanna 2293
-Tribbey 337
-Amber 413
-Tushka 413
+Valley Brook 665
+Clarksville 17
+Stidham 17
+Mangum 2762
 
 Altus 18729
-Walters 2412
-Schulter 422
-Fanshawe 317
-Fort Supply 317
-Fort Cobb 518
-Fort Coffee 335
-Fort Towson 492
-Fort Gibson 3814
-Forest Park 1049
-Elm Grove 192
-Ingalls 192
-Stuart 192
-Hartshorne 1947
-Chelsea 1991
-Ochelata 427
-Christie 427
-
-Bristow 4248
-Briartown 185
-Cleora 1220
-Leon 74
-Gideon 229
-Leonard 262
-Edgewater Park 262
-Calvin 309
-
-Alva 5028
-Valliant 819
-Taylor Ferry 819
-Elohim City 45
-
-Elk City 11561
-May 29
-Maysville 1087
-Bison 56
-River Bottom 248
-Olive 110
-Paoli 583
-Pink 2091
-Swink 65
-Lyons Switch 518
-Little City 136
-Empire City 703
+Frederick 3468
+Erick 1000
+Jay 2425
+West Siloam Springs 1000
+Cleo Springs 287
+Ringling 869
+Felt 77
+Terlton 77
+Oilton 885
+Stigler 2703
+Achille 398
+Paradise Hill 73
+Panola 73
+Grainola 31
+Lamar 118
+Albany 118
+Kenton 31
+Canton 468
+Gracemont 279
+Wanette 279
+Olustee 468
 Custer City 367
 
 Idabel 6961
-Lone Wolf 373
-
-Lone Grove 4993
-Pickett 774
-Wanette 279
-Arnett 495
-Moffett 38
-Finley 38
-Quinlan 28
-Langley 606
-Spencer 3978
-Okarche 1141
-Apache 1034
-Cache 2930
-
-Lawton 90381
-Lawtonka Acres 187
-Tonkawa 3015
-Tonkawa Tribal Housing 310
-Carnegie 1430
-Old Green 310
-Greenville 167
-West Peavine 167
-Peavine 372
-Avard 11
-Cardin 3
-Nardin 43
-Narcissa 92
-Fox 92
-Box 153
-Boley 1091
-
-Seminole 7146
-
-Holdenville 5934
-Okemah 3074
-Stroud 2719
-Armstrong 113
-Strong City 33
-Rocky Ford 283
-Red Rock 245
-Byron 37
-Tyrone 729
-Baron 243
-Sharon 133
-Shamrock 65
-Iron Post 65
-Spiro 2102
-Muldrow 3272
-Gould 103
-Orlando 130
-Marland 184
-Fairland 1106
-Ninnekah 775
-Hennepin 143
-Hennessey 2151
-Jones 2885
-
-Choctaw 12182
-Nicoma Park 2313
-Arkoma 1806
-Bokchito 574
-Bokoshe 396
-Asher 370
-Wynona 370
-Wynnewood 1927
-New Eucha 400
-Old Eucha 23
-Elmer 65
-Velma 554
-Selman 12
-Lamar 118
-Maramec 66
-Braman 160
-Panama 1269
-Brushy 811
-Quapaw 811
-Pawnee 1936
-Westville 1364
-Snyder 1301
-Crowder 306
-Cromwell 238
-Grandview 1321
-Redbird Smith 526
-Medford 932
-Mannford 3262
-Francis 244
-Chance 215
-Millerton 215
-Cooperton 3
+Isabella 114
+Greenfield 114
+Faxon 114
+Council Hill 108
+Summit 108
+Caney 185
+Caney Ridge 120
+Toppers 911
 Pershing 42
 
 Cushing 8327
 Drumright 2560
 Wright City 616
 Badger Lee 63
-Deer Lick 34
-Mehan 34
-Scraper 202
-Carney 545
-Reagan 67
-Hardesty 205
-Bearden 135
-Verden 508
-Turpin 442
-Turley 2607
-Burlington 124
-Grand Lake Towne 80
-Bessie 182
-Silo 384
-Simms 261
-Bache 105
-Sportmans Shores 239
-Sportsmen Acres 317
-Porter 561
-Westport 448
-Carrier 90
-Nescatunga 90
-Caney 185
-Disney 222
-Piney 101
-Oak Hill-Piney 191
-Phillips 122
-Sams Corner 132
-Coyle 350
-Spavinaw 350
-Sparks 122
-Clarksville 17
-Stidham 17
-Hastings 104
-White Eagle 520
-Ratliff City 64
-Zeb 520
-Krebs 2083
-Kremlin 247
-Kinta 285
-Liberty (Tulsa County) 153
-Gerty 92
-Dougherty 199
-Hough 20
-Quay 39
-Wann 95
-Connerville 59
-Wardville 53
-New Woodville 60
-Moyers 60
-Boynton 161
-Breckenridge 199
-Caney Ridge 120
-Toppers 911
-Watts 227
-Mead 227
-Homestead 41
-Johnson Prairie 94
-Whitesboro 172
-Clearview 41
-Fairview 2740
-Helena 1537
-Lenapah 272
-Arapaho 668
-Wapanucka 386
-Waurika 1837
-Glencoe 499
-Minco 1500
-
-Chickasha 16051
-Hickory 86
+Mutual 63
 Kildare 86
-Tenkiller 390
-Tamaha 152
-Oktaha 343
-Bee 135
-Bunch 70
-
-Duncan 22692
-Central High 1181
-Centrahoma 81
-Hoffman 81
-Roff 632
-Braggs 270
-Briggs 1028
-
-Kingfisher 4903
-Kingston 1431
-Stonewall 414
-Ralston 266
-Locust Grove 1371
-Oak Grove 22
-Hopeton 22
-Pettit 829
-Dickson 1331
-Cookson 826
-Loveland 13
-Ashland 35
-Sumner 35
-Sugden 22
-Paden 419
-Dennis 221
-Rock Island 717
-Roland 3316
-Oakland 831
-New Cordell 2775
-Kaw City 325
-Marble City 186
-Longdale 186
-Redbird 89
-Frederick 3468
-Erick 1000
-Kendrick 87
-Hendrix 61
-Headrick 74
-Milfay 74
-Cave Spring 74
-
-Sand Springs 19874
-
-Jenks 25949
-
-Bixby 28609
-IXL 59
-Byars 184
-Scipio 53
-Hoot Owl 0
-Knowles 6
-Bowlegs 357
-Indiahoma 275
-Evening Shade 378
-Drowning Creek 174
-Big Cabin 174
-Freedom 174
-Leedey 415
-Skedee 62
-Haileyville 716
-Burneyville 815
-Burns Flat 1948
-Tagg Flats 12
-Le Flore 150
-Gore 951
-Goodwell 951
-
-Woodward 12133
-Laverne 1223
-Warner 1593
-Kansas 711
-
-Sallisaw 8510
-Salina 1085
-Oologah 1305
-Taloga 288
-Foyil 368
-Hoyt 82
-Clayton 555
-
-Claremore 19580
-
-Ardmore 24725
-
-Moore 62793
-Mooreland 1178
-Vian 1374
-Ravia 464
-Loco 99
-
-Pocola 4255
-Thackerville 400
-Dover 400
-Lovell 28
-Colbert 1027
-Cashion 850
-Washington 673
-Covington 472
-Whitehorn Cove 1201
-Jet 197
-Emet 69
-Cement 436
-Sweetwater 102
-Weleetka 806
-Welch 622
-Lehigh 272
-Cartwright 492
-Langston 1619
-Lane 300
-Cumberland 315
-Lambert 5
-East Duke 394
-Greasy 248
-Gregory 377
-Cyril 827
-Brent 760
-Rentiesville 103
-Brooksville 71
-Sour John 71
-Sawyer 340
-Cheyenne 771
-Gracemont 279
+Waynoka 708
+Wayne 625
+Howe 625
+Texhoma 856
+Lahoma 539
+Tuskahoma 102
+Hanna 102
+Savanna 623
+Avant 301
+Tupelo 327
 Lamont 301
 Ramona 524
-Amorita 38
-Peckham 38
-Quinton 863
-Moodys 854
-Lake Ellsworth Addition 223
-North Enid 1003
+Lone Wolf 373
 
-Enid 51308
+Lone Grove 4993
+Pickett 774
+Clayton 555
+Waurika 1837
+Wapanucka 386
+Cheyenne 771
+Hennepin 143
+Hennessey 2151
 
 Guthrie 10749
 
@@ -803,132 +557,378 @@ Piedmont 7402
 The Village 9538
 Lakeside Village 162
 Lawrence Creek 121
+Martha 162
+St. Louis 121
 Vici 611
-Medicine Park 411
-Lucien 66
-Friendship 23
-Mounds 932
-Lindsay 2864
+Geronimo 1158
+Cameron 323
+Kiowa 595
+Webb City 58
+
+Elk City 11561
+Kaw City 325
+Marble City 186
+Boise City 1166
+Dewar 763
+Sentinel 763
+Terral 280
+Mallard Bay 280
+Hochatown 242
+Red Oak 537
+Red Rock 245
+Rocky Ford 283
+Rocky Point 946
+Slick 151
+Deer Lick 34
+Mehan 34
+Scraper 202
+Reagan 67
+Hardesty 205
+Bearden 135
+Clarita 135
+Amorita 38
+Finley 38
+Peckham 38
+Moffett 38
+South Coffeyville 683
+Prue 374
+Lima 68
+Byng 1393
+Mead 227
+Forgan 450
+Watts 227
+Rocky Mountain 471
+Dwight Mission 76
+Calvin 309
+Cornish 110
+Sams Corner 132
+Pinhook Corner 139
+Roff 632
+Braggs 270
+Panama 1269
+Snyder 1301
+Sunray 853
+Pawnee 1936
+
+Shawnee 31377
+
+McLoud 4351
+
+Harrah 6245
+
+Choctaw 12182
+Nicoma Park 2313
+Jones 2885
+Meeker 1004
+Boley 1091
+Okemah 3074
+
+Okmulgee 11322
+Morris 1299
+Morrison 723
+Hominy 3329
+Pawhuska 2984
+
+Skiatook 8450
+
+Catoosa 7440
+
+Tulsa 413066
+Liberty (Tulsa County) 153
+Box 153
+Kinta 285
+Kremlin 247
+Putnam 30
+Christie 427
+
+Bristow 4248
+Warner 1593
+Kansas 711
+Burlington 124
+Cowlington 109
+Camargo 193
+Fargo 312
+Willow 119
+Whippoorwill 75
+Hillsdale 75
+Burbank 123
+Bromide 123
+Kemp 126
+Peoria 126
+Piney 101
+Oak Hill-Piney 191
+Phillips 122
+Fairmont 132
+Coyle 350
+Spavinaw 350
+Sparks 122
+Bell 191
+Shady Grove (McIntosh County) 487
+Shady Grove (Pawnee County) 2
+Shady Grove (Cherokee County) 519
+Bee 135
+Blackburn 70
+Burns Flat 1948
+Tagg Flats 12
+Selman 12
+Velma 554
+Waukomis 1349
+Tribbey 337
+Tonkawa Tribal Housing 310
+Tonkawa 3015
+Davenport 809
+Porter 561
+Winchester 546
+Quay 39
+Wann 95
+Zeb 520
+Strang 64
+Ratliff City 64
+Lambert 5
+East Duke 394
+Newkirk 2172
+Disney 222
+Cleora 1220
+Hastings 104
+Dustin 327
+Justice 1424
+Carmen 360
+Taloga 288
+Oologah 1305
+Salina 1085
+Aline 168
+Dixon 168
+Prague 2356
+Optima 338
+Cromwell 238
+Welling 781
+Seiling 850
+Blair 727
+Amber 413
+Tushka 413
+Cache 2930
+Bache 105
+Apache 1034
+Okarche 1141
+Spencer 3978
+Langley 606
+Langston 1619
+Kingston 1431
+
+Kingfisher 4903
+Asher 370
+Wynona 370
+Texanna 2293
+Monroe 164
+Warwick 164
+Valliant 819
+Fallis 21
+
+Sallisaw 8510
+Spiro 2102
+Stilwell 3700
+Boswell 579
+Westport 448
+Carrier 90
+Ripley 346
+Atoka 3195
+Gowen 244
+Short 290
+Hartshorne 1947
+Chelsea 1991
+Ochelata 427
+Knowles 6
+Bowlegs 357
+Kenefic 147
+Teresita 188
+Bunch 70
+Oktaha 343
+Baron 243
+Breckenridge 199
+Boynton 161
+Quinton 863
+Quinlan 28
+Lovell 28
 
 Sayre 4809
 Hobart 3413
-Barber 303
-Garber 725
-Slick 151
-Texola 43
-Texhoma 856
-Howe 625
-Gowen 244
-Atoka 3195
-Waynoka 708
-Wayne 625
-Jay 2425
-West Siloam Springs 1000
-Nowata 3517
-
-Owasso 38240
-Castle 169
-Devol 93
-Cleveland 3205
-Meeker 1004
-
-Shawnee 31377
-Shady Grove (Pawnee County) 2
-Sycamore 65
-Elmore City 738
-Hydro 927
-Copan 710
-Brush Creek 14
-Pond Creek 885
-Wickliffe 1026
-Warwick 164
-Waukomis 1349
-
-Yukon 23630
-Cayuga 160
-Douglas 51
-Utica 51
-Justice 1424
-Carmen 360
-Smithville 77
-Sunray 853
-Monroe 164
-Fairmont 132
-Blair 727
-Seiling 850
-Aline 168
-Dixon 168
-Faxon 114
-Council Hill 108
-Summit 108
-Beggs 1179
-Peggs 789
-Murphy 140
-Fletcher 1204
-Ringwood 401
-Oakwood 74
-Cottonwood 117
-Pontotoc 81
-Horntown 92
-Fittstown 78
-Lookeba 78
-Pinhook Corner 139
-Wyandotte 488
-Gotebo 174
-Optima 338
-Webbers Falls 338
-Prague 2356
-Osage 177
-Garvin 177
-Mutual 63
-Luther 1492
-Calumet 443
-Cameron 323
-Capron 27
-Meridian (Logan County) 14
-Meridian (Stephens County) 1493
-Dustin 327
-Olustee 468
-
-Weatherford 12076
 
 Anadarko 5745
-Elgin 3656
-Sentinel 763
-Boise City 1166
-Dewar 763
-Seward 26
-Depew 411
-Albany 118
-Burbank 123
-Pittsburg 180
-Putnam 30
-Ketchum 471
-Porum 602
-Manitou 171
-Granite 1628
-Addington 83
+Arkoma 1806
+Bokchito 574
+Dibble 867
+Maud 867
+Stuart 192
+Keefton 732
+Calera 2916
+Gore 951
+Hoyt 82
+Thomas 1143
+Titanic 259
+Whitehorn Cove 1201
+Allen 805
+Healdton 2328
+Jet 197
+Sand Hill 339
+Sand Point 251
+Goltry 251
+Gans 251
+Yale 1059
+Silo 384
+Dill City 420
+Gage 433
+Whitefield 371
+Shattuck 1249
+Hickory 86
 
-Tecumseh 6302
-Stigler 2703
-Oilton 885
-Panola 73
+Chickasha 16051
+Lindsay 2864
+
+Purcell 6651
+
+Muskogee 36878
+Checotah 3018
+Eufaula 2766
+Crescent 1299
+Centrahoma 81
+Hoffman 81
+Simms 261
+Sportmans Shores 239
+Sportsmen Acres 317
+Ames 193
+Eldon 347
+Eldorado 317
+Delaware 267
+Porum 602
+Oaks 267
+Twin Oaks 328
+Fair Oaks 73
+Fairland 1106
+Ninnekah 775
+Bushyhead 1292
 
 Marlow 4385
-Bushyhead 1292
+Elohim City 45
+Yeager 45
+
+Bixby 28609
+
+Jenks 25949
+Turley 2607
+
+Claremore 19580
+Nowata 3517
+
+Miami 12969
+
+El Reno 16989
+
+Weatherford 12076
+Luther 1492
+Drummond 455
+Hammon 479
+Foyil 368
+Jefferson 9
+Alderson 220
+Roosevelt 254
 Bug Tussle 220
-St. Louis 121
-Oakhurst 2262
-Remy 505
-McCurtain 355
-Rocky Mountain 471
+Sequoyah 730
+Pettit 829
+Norge 129
+Crowder 306
+Loyal 71
+Sour John 71
+Sawyer 340
+Meridian (Stephens County) 1493
+Meridian (Logan County) 14
 Talihina 925
-Maud 867
-Keefton 732
+Garber 725
+Hopeton 22
+Narcissa 92
+Fox 92
+Gerty 92
+Texola 43
+Horntown 92
+Fittstown 78
+Stringtown 419
+Paden 419
+Sharon 133
+Keyes 276
+Lyons Switch 518
+Tamaha 152
+Tenkiller 390
+Emet 69
+
+Tecumseh 6302
+Pink 2091
+Paoli 583
+
+Vinita 5193
+Shidler 328
+Wetumka 1135
+Brent 760
+Comanche 1378
+Cyril 827
+Gregory 377
+Stonewall 414
+Briggs 1028
+Okeene 1090
+Remy 505
+Okay 505
+Oakhurst 2262
+McCurtain 355
+Vian 1374
+Mulhall 212
+
+Alva 5028
+Ryan 667
+Bryant 19
+Weleetka 806
+Fort Gibson 3814
+Wewoka 3133
+Cement 436
+Leedey 415
+Agra 311
+Wakita 311
+Laverne 1223
 Tipton 864
 Renfrow 15
-Dibble 867
+Welch 622
+Medicine Park 411
+Lucien 66
+Maramec 66
+Strong City 33
+Depew 411
+Canute 494
+Talala 258
+Wyandotte 488
 Alex 482
-Katie 332
+Vera 334
+Leach 249
+Keota 437
+Pontotoc 81
+Belfonte 298
+Mulberry 96
+Cardin 3
+Nardin 43
+Leonard 262
+Leon 74
+Gene Autry 154
+Hunter 145
+Olive 110
+Edgewater Park 262
 Eakly 293
+Greasy 248
+Murphy 140
+Reydon 137
+Welty 131
+Durham 21
+Avard 11
+Homestead 41
+Tatums 111
+Elmer 65
+Friendship 23
+Old Eucha 23
 Bentley 42
+Zion 30
+Sugden 22

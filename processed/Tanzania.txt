@@ -1,58 +1,31 @@
 
 
 Dar es Salaam 4364541
-Hedaru 14179
-
-Arusha 416442
-Usa River 13542
-Same 25794
-Kilosa 34425
-Dumila 9650
-Mikumi 11778
-Nyalikungu 17384
-Shinyanga 103795
-
-Tanga 221127
-Wete 31872
-Korogwe 56282
-Nungwi 10392
-Misungwi 12127
-Ngudu 27630
-Magu 23822
-Bagamoyo 28368
-Kibaha 128488
-
-Zanzibar 501459
-
-Mwanza 706453
-Mwanhuzi 12372
-Sumbawanga 124204
-Vwawa 56256
-Mlowo 21600
 Chiwezi 14176
 Tunduma 97562
 Tunduru 30761
-Ndanda 9234
+Nangomba 8004
 Masasi 58314
+Itigi 14362
+Hedaru 14179
+Kihurio 8072
+Lushoto 28190
+Korogwe 56282
+
+Morogoro 305840
+Kilosa 34425
+Dumila 9650
+Gairo 22948
+Mpwapwa 18992
+Karatu 14843
+Kibaoni 7868
+Mto wa Mbu 9320
 Kilwa Masoko 13601
 Kilindoni 12141
 Lindi 78841
 Mtama 8503
 Kitama 8413
-Mahuta 9460
 Nanyamba 9872
-Nangomba 8004
-
-Kigoma 215458
-Kasulu 67704
-Mbulu 36408
-Mto wa Mbu 9320
-Mbuguni 27071
-Igunga 15553
-Igurusi 7635
-
-Mbeya 385279
-Njombe 64122
 Makambako 57288
 Mlimba 13740
 Iringa 151345
@@ -61,48 +34,75 @@ Mbinga 15359
 Songea 203309
 Sikonge 9331
 Tabora 160608
-
-Morogoro 305840
-Gairo 22948
-Mpwapwa 18992
-Mtwara 100626
-Karatu 14843
-Kibaoni 7868
-Babati 57909
-Shirati 9794
-Sirari 16795
-Bariadi 15462
-Bunda 58390
-Musoma 134327
-Mugumu 16851
-Biharamulo 11700
+Igunga 15553
+Kiomboi 11350
+Ushirombo 16016
 Bugarama 9248
+Biharamulo 11700
 Geita 99795
 Sengerema 76914
-Namanyere 38362
-Kirando 9936
-Mpanda 81540
+
+Mwanza 706453
+Misungwi 12127
+Nungwi 10392
+
+Zanzibar 501459
+Bagamoyo 28368
+Kibaha 128488
+
+Arusha 416442
+Usa River 13542
+Mbuguni 27071
+Bariadi 15462
+Nyalikungu 17384
+Ngudu 27630
+Magu 23822
+Nansio 28341
+Bunda 58390
+Musoma 134327
+Shirati 9794
+Sirari 16795
+Mugumu 16851
+
+Mbeya 385279
+Igurusi 7635
 Nguruka 20413
+Kasulu 67704
+
+Kigoma 215458
 Kibondo 13241
 Kondoa 27383
+Katesh 16317
+Babati 57909
+Mbulu 36408
+Mwanhuzi 12372
+Shinyanga 103795
+
+Tanga 221127
+Wete 31872
+Chake Chake 27700
 
 Dodoma 213636
-Itigi 14362
-Singida 85242
-Katesh 16317
+Ilula 17065
+Ifakara 41606
+Mikumi 11778
 
 Moshi 184292
 Bomang'ombe 34098
-Kiomboi 11350
-Ushirombo 16016
-Lushoto 28190
-Kihurio 8072
-Nansio 28341
-Bukoba 128796
-Tukuyu 41676
+Njombe 64122
 Rujewa 29473
-Ruangwa 13421
-Ifakara 41606
-Ilula 17065
+Tukuyu 41676
+Mlowo 21600
+Vwawa 56256
 Laela 9745
-Chake Chake 27700
+Sumbawanga 124204
+Namanyere 38362
+Kirando 9936
+Mpanda 81540
+Ndanda 9234
+Ruangwa 13421
+Mahuta 9460
+Mtwara 100626
+Bukoba 128796
+Singida 85242
+Same 25794

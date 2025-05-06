@@ -1,153 +1,115 @@
 
 
 Ekaterinburg 1349977
-Ekaterininka 381
-Zobnina 101
-Langur 101
-Kungurka 196
-Krasnaya Gorka 402
-Krasnogorka 123
-Krasnopolyanskoe 530
-Krasnopol'e 439
-Dryagunovo 59
-Guni 133
-Kirga 614
-Gaeva 535
-Kargaeva 7
-Gasheneva 23
-Druzhba 23
-V'yuzhnyy 251
-V'yukhino 162
+Zales'e 187
+Aleshina 14
+Vekshina 3
+Kashina 147
 Kashino 2199
-Kadnikovo 279
-Maloe Sedel'nikovo 61
-Bol'shoe Sedel'nikovo 1965
+V'yukhino 162
+Kosulino 2644
+Borodulino 1274
 
-Bol'shoy Istok 7281
-
-Istok 5962
+Aramil' 14224
 Asbestovskiy 1274
 
 Berezovskiy 51651
 Koksharovskiy 52
-Koksharova 251
-Zakharovskoe 763
-Zakharova 220
-Klyuchevaya 126
-Kamennye Klyuchi 13
-Klyuchi 608
-Klyuchiki 43
-Klyuchevskoy 186
-Vogulka 186
-Volkovo 259
-Volkovskoe 675
-Lebedkino 675
-Klevakino 371
-Bol'shaya Vyya 221
-Butakova 221
-Butka 3077
-Butkinskoe Ozero 168
+Krutoy 52
+Krutoyarskiy 14
 
-Novoutkinsk 5360
+Beloyarskiy 12615
+Boyarka 222
+Gagarka 391
+Gagarskiy 1786
+Malobrusyanskoe 372
+Bol'shebrusyanskoe 1825
+Kolyutkino 97
+Bil'kino 20
+Maramzino 65
+Maramzina 20
+Belenichnoe 65
+Kazanka 65
+Kurmanka 875
+Burmantovo 42
+Loz'vinskiy 481
 
-Pervoural'sk 124528
-
-Novoural'sk 85522
-Kalinovo 2554
-Kalinovka 106
-Malinovka 90
-Malygino 37
-Andreevka 37
-Andronova 238
-Mironovo 790
-Maloe Trifonovo 206
-Bol'shoe Trifonovo 753
-Bol'shaya Serkova 46
-Bol'shaya Erzovka 104
-Erzovka 40
-Erzovskoe 287
-Kibireva 215
-Kosareva 14
-Bochkarevo 14
-Bochkareva 94
-Krasnogorskoe 441
-Lebedeva 48
-Bratchikovo 48
-Kalachik 418
-Kalachiki 98
-Malaya Menshchikova 193
-Menshchikova 144
-Bubenshchikova 35
-Zemlyanoe 35
-Lobanova 35
-Barabanovskoe 181
-Klyuchevoy 181
-klyuchevsk 2013
-
-Monetnyy 5633
-Krasnyy 1850
-Krasnyy Aduy 108
-Kedrovoe 2347
-Kedrovka 2486
-Verkhoturka 24
-
-Verkhnyaya Pyshma 59749
-Baltym 2837
-Altynay 1416
-Znamenskoe 1427
-Kamenskiy 52
-
-Kamensk-Ural'skiy 174689
-Martyush 3994
-Martynova 336
-Komarova 259
-Komarovo 4
-Matyushino 4
-Andryushino 284
-Krutorechka 54
-Belorechka 319
+Verkh-Neyvinskiy 5098
 
 Verkhniy Tagil 11843
 Verkhnie Tavolgi 142
 Verkhnemakarovo 142
-Makhnevo 3399
-Maka 107
-Ermaki 67
-Ermakova 280
-Ermakovo 20
-Vasenina 20
-Denisova 20
-Borisova 32
-Borisovskiy 1
-Mesed 1
-Veselovka 167
-Kostyleva 123
-Korosteleva 141
-Koroli 6
-Krutikova 6
-Borzikova 47
+
+Verkhnee Dubrovo 4791
+Dubrovina 75
+Markova 75
+Bun'kova 100
+Bol'shaya Mil'kova 40
+Bol'shaya Vyya 221
+Malaya Vyya 3
+Malaya Pustyn' 3
+Volchevka 3
+Kochevka 39
+Klyuchevskoy 186
+Klyuchiki 43
+Klyuchi 608
+Garashkinskoe 608
+Kishkinskoe 394
+Galkinskoe 820
+Galkino 12
+Vaganova 12
+Vaganovo 49
+Kondrashina 49
+Zhukovo 49
+Zhukovskoe 11
+Kalugina 11
+Vetlugina 51
+Berdyugina 635
+Glyadeny-Sanatoriy 80
+Malaya Rechkalova 80
+Malaya Zvereva 35
+Belaya Elan' 683
+Beloyarskaya Zastava 35
+Dubskaya 879
+Dvinskaya 29
+
+Turinskaya Sloboda 5955
+Krasnoslobodskoe 720
+Gasheneva 23
+Druzhba 23
+Koksharovo 23
+Koksharova 251
+Zakharovskoe 763
+Ermolina 50
+Kalina 227
+Kalinovskoe 358
+Kalinovo 2554
+
+Novoural'sk 85522
+
+Sredneural'sk 20449
+Koptyaki 217
+Koptelovo 1292
+Aramashevo 713
+Aramashka 702
+Glinskoe 1187
+Klevakinskoe 1202
+Lenevskoe 587
+Lipovskoe 1103
+Krasnyy Bor 62
+Zelenyy Bor 264
+Zelenyy 3
+Zelenyy Log 21
+Elovka 47
 Inisheva 47
 Galisheva 139
 Bol'shoy Kamysh 201
-Bol'shaya Kochevka 421
-Kochevka 39
-Bolotovskoe 39
-Kuyarovskoe 202
-Kokuy 137
-Kurovskoe 476
-Zavodskoy 43
-Zavodouspenskoe 1285
-Mal'tsevo 175
-Kershal' 1
-Vershina 1
-Baklushina 1
-Makushina 203
-Gorodishche 700
-Verkhnyaya Ilenka 231
-
-Verkhnyaya Tura 9461
-
-Baranchinskiy 9461
+Bol'shoy Ramyl 93
+Malyy Ramyl 19
+Karaul'skoe 19
+Karabashka 705
+Bashkarka 568
+Elovyy Padun 75
 Verkhnyaya Barancha 75
 Verkhnyaya Boevka 233
 Verkhnyaya Sysert' 1138
@@ -155,635 +117,673 @@ Verkhnyaya Sysert' 1138
 Sysert' 20465
 Luch 140
 Luchinkino 35
-Buchino 27
-Buchina 59
-Brodovo 598
-Dubrovina 75
-Dubrovnyy 14
-Aleshina 14
-Vekshina 3
-Volchevka 3
+Bubenshchikova 35
+Menshchikova 144
+Malaya Menshchikova 193
+Krasnopolyanskoe 530
+Krasnogorka 123
+Krasnogorskoe 441
+Lebedeva 48
+Medvedeva 96
 
-Volchansk 10010
-
-Karpinsk 29113
-Karpikhina 33
-Lepikhina 9
-Bukharovskiy 9
-Lesorazrabotki 9
-Zabor 49
-Zabolotnyy 82
-Zabolot'e 28
-Belovod'e 121
-Belonosova 198
-Bessonova 176
-Bubnova 36
-Mazulya 36
-Gulyaeva 191
-Vikhlyaeva 393
-Levikha 2881
-Karpushikha 1192
-Karpunina 8
-Larina 167
-Bochkari 8
-Bakhtiyarova Yurta 8
-Kotyurova 50
-Borovikova 50
-Korovyakova 114
-Kosyakova 95
-Kosmakova 85
-Dorozhnyy 85
-Lozhkina 40
-Kishkinskoe 394
-Gorushki 9
-Matushkina 12
-Vaganova 12
-Vaganovo 49
-Kondrashina 49
-Kondrakhino 115
-Blagoveshchenskoe 668
-Lenskoe 661
-Bushlanovo 110
-Bezrechnyy 110
-
-Zarechnyy 26820
-Boyarka 222
-Gagarka 391
-Gagarskiy 1786
-
-Beloyarskiy 12615
-Beloyarka 2
-Verkhniy Pelym 2
+Pyshma 9806
+Bolotovskoe 39
+Kuyarovskoe 202
+Bol'shaya Imennaya 151
+Malaya Imennaya 44
+Borovoy 44
+Komarovo 4
+Matyushino 4
+Andryushino 284
+Krutorechka 54
+Belorechka 319
+Belorechenskiy 641
+Gorbunovskoe 641
+Kremlevka 285
+Lugovaya 285
+Beregovaya 125
 Verkhniy Yar 125
-
-Verkhnyaya Sinyachikha 9999
-Zarya 979
-Zyryanovskiy 876
+Kirovskoe 936
+Kurovskoe 476
+Zavodskoy 43
+Kaygorodskoe 461
+Gorodok 17
+Gorodishche 700
+Kadochnikova 79
+Vyazovka 531
+Bol'shaya Gryaznukha 531
+Bol'shaya Serkova 46
+Bol'shaya Erzovka 104
 Gryaznovskaya 104
 Gryaznovskoe 1486
-Kazakovskoe 533
-Kamennoozerskoe 533
-Kunarskoe 733
-Bileyka 276
-Zykova 81
-Bykova 315
+Kirillova 228
+Zaimka 228
+Gurina 90
+Gurino 4
 
-Bogdanovich 30670
+Turinsk 17925
+Korkinskoe 703
+Kibireva 215
+Erzovskoe 287
+Kuminovskoe 255
+Bobrovskoe 270
+
+Bobrovskiy 5247
+Kiseleva 112
+Korosteleva 141
+Koroli 6
+Koroleva 2
+Verkhniy Pelym 2
+Verkhnyaya Lobva 9
+
+Verkhnyaya Tura 9461
+
+Baranchinskiy 9461
+Lipchinskoe 520
+Anokhinskoe 163
+Bobrovka 163
+
+Tsementnyy 5808
+
+Monetnyy 5633
+klyuchevsk 2013
+Losinyy 2355
+Lubyanoy 232
+Bayanovka 437
 Ivanovka 147
-Iva 30
-Maslova 183
-Kopylova 41
-Albycheva 41
+Kondrat'eva 38
+Kornilova 74
+Mel'nichnaya 74
+El'nichnaya 292
+Bubchikovo 887
+Bratchikovo 48
+Kalachik 418
+Kalachiki 98
+Indra 98
+Burmakina 98
+Ermaki 67
+Ermakova 280
+Zhiryakova 118
+Golyakova 145
+Belyakovskoe 283
+Malaya Kodinka 19
+Kodinka 368
+Borodinka 18
+Kumar'inskoe 18
+Lenskoe 661
+Blagoveshchenskoe 668
+Guzeevo 115
+Deevo 938
+Kosyakova 95
 Kraychikova 95
 Afonchikova 22
 Glukharevo 22
 Glukharnyy 38
 Zubrilina 38
-Kondrat'eva 38
-Kashina 147
-Devyashina 87
+Zaselina 33
+Karpikhina 33
+Lepikhina 9
+Bukharovskiy 9
+Lesorazrabotki 9
+Boksity 81
+Zykova 81
+Bykova 315
+
+Bogdanovich 30670
+Andrianovichi 551
+Barabanovskoe 181
+Klyuchevoy 181
+Dukhovaya 181
+Krivaya 26
+Borovaya 89
+Bol'shedvorova 106
+Evstyunikha 106
+Likhanova 23
+Makhanovo 45
+Mayak 76
+Borovki 76
+Borovikova 50
+Barannikova 775
+Zarechnaya 369
+
+Zarechnyy 26820
+Bezrechnyy 110
+Dachnyy 328
+Balair 155
+Krasnodol'skiy 155
+
+Krasnoural'sk 24980
+Gornoural'skiy 3972
+Laya 1800
+Malaya Laya 288
+Katarach 214
+Medvedevo 90
+Malinovka 90
+Kalinovka 106
+Korzhavina 106
+Bochkareva 94
+Bochkarevo 14
+Kosareva 14
+Kosari 61
+Buzina 61
+Grozina 88
+Gaeva 535
+Kargaeva 7
+Kostroma 7
+Kostino 1083
+Kostyleva 123
+Gileva 368
+Dyagileva 19
+Zhuravleva 145
+Burleva 1
+Mesed 1
+Verkhnyaya Postnikova 1
+Verkhnyaya Poldnevaya 161
+Bayny 2562
+Dobrino 76
+Krutikha 74
+Vagranskaya 74
+Zyryanskaya 50
+Zyryanka 146
+Malakhova 69
+Vakhova 24
+Verkhoturka 24
+
+Verkhnyaya Pyshma 59749
+Baltym 2837
+Altynay 1416
+Znamenskoe 1427
+Brusyana 178
+Brusnyatskoe 1370
+Izmodenova 375
+Izmodenovo 584
+Bazhenovskoe 191
+Basmanovskoe 738
+Bor 237
+Gorskino 237
+Ertarskiy 1185
+Kunarskoe 733
+Kamennoozerskoe 533
+Belokamennyy 1932
+Kamennye Klyuchi 13
+Malkova 13
+Isakova 82
+Elkina 82
+Elkino 247
+
+Lesnoy 50363
+Krasnoyarka 1608
+
+Krasnotur'insk 59633
 Kur'inskiy 296
 
 Kur'i 4810
 Kur'inka 25
 Verkh-Is 25
-
-Verkh-Neyvinskiy 5098
 Verkhovino 1027
-
-Verkhotur'e 8820
-Kosolmanka 116
-Kurmanka 875
-Burmantovo 42
-Burmakina 98
-Indra 98
-Gost'kovo 98
-Zhukovo 49
-Zhukovskoe 11
-Kalugina 11
-Vetlugina 51
-Berdyugina 635
-Mel'nikova 486
-
-Irbit 38357
-Barbashina 196
-Krylatovskiy 322
-Antonovskiy 62
-Antonova 112
-Berezit 112
-Berezovka 132
-Berezhok 45
-
-Rezh 38215
-Golendukhino 294
-Glinskoe 1187
-Klevakinskoe 1202
-Lenevskoe 587
-Lenevka 330
-Kostousovo 330
-Istour 69
-Bol'shaya Pustyn' 192
-Bol'shoe Pul'nikovo 144
-Bichur 144
-Zhuravleva 145
-Burleva 1
-Gileva 368
-Kodinka 368
-Brod 669
-Kosoy Brod 1055
-Karpuninskiy 402
-Leninskiy 392
-Belenichnoe 65
-Kazanka 65
-Azanka 2587
-Krutoe 291
-Krutoyarskiy 14
-Krutoy 52
-Vakhova 24
-Malakhova 69
-Galashova 41
-Vlasova 54
-Dubasova 9
-Dubskaya 879
-Dvinskaya 29
-
-Turinskaya Sloboda 5955
-Krasnoslobodskoe 720
-Krasnoyarskoe 146
-Krasnoyarka 1608
-
-Krasnotur'insk 59633
-Vorontsovka 870
-Voronino 37
-Voronskaya 27
-Lobazikha 27
-Likhanova 23
-Makhanovo 45
-Mayak 76
-Borovki 76
-Borovaya 89
-Bol'shedvorova 106
-Evstyunikha 106
-Korzhavina 106
-Korkinskoe 703
-Gorki 860
-Kilachevskoe 1111
-Kalach 53
-Berezniki 53
-Eremina 160
-Eremino 49
-Demino 62
-Krasnyy Bor 62
-Zelenyy Bor 264
-Lipovskoe 1103
-Lipovka 378
-
-Baykalovo 5789
-
-Zaykovo 4344
-Belosludskoe 298
-Kolos 159
-Kolyutkino 97
-Kolyutkinskiy 22
-Zadanie 22
-Anik 3
-Garaninka 111
-Garashkinskoe 608
-Galkinskoe 820
-Galkino 12
-Malkova 13
-Isakova 82
-Lisava 103
-Lis'e 14
-Zales'e 187
-
-Lesnoy 50363
-
-Nizhnyaya Tura 22006
-Malaya Imennaya 44
-Bol'shaya Imennaya 151
-Bol'shaya Zvereva 161
-Verkhnyaya Poldnevaya 161
-Verkhnyaya Postnikova 1
-Voinkova 1
-Kozonkova 4
-Zenkovka 2
-Bogatenkova 261
-Gat' 51
-Ayat' 904
-Iset' 3215
-Koptyaki 217
-
-Sredneural'sk 20449
-Mednyy 352
-
-Gornyy Shchit 6299
-Gornyy 275
-Malaya Belonosova 176
-Malaya Laya 288
-Laya 1800
-Katarach 214
-Dachnyy 328
-Balair 155
-Galaktionovka 155
-Krasnodol'skiy 155
-
-Krasnoural'sk 24980
-Gornoural'skiy 3972
-
-Severoural'sk 29263
-
-Kal'ya 5604
-Emel'yashevka 20
-Boevka 20
-Maevka 25
-Zamotaeva 43
-Kvashnina 43
-Kvashninskoe 711
-Malaya Pul'nikova 25
-Malaya Pustyn' 3
-Malaya Vyya 3
-Zelenyy 3
-Lenino 269
-
-Tavda 35421
-Gazeta 3
-Azeva 47
-Elovka 47
-Elovka Novaya 53
-Bayanovka 437
-
-Cheremukhovo 5988
-Dukhovaya 181
-Krivaya 26
-Magina 26
-Mirnyy 26
-Lar'kovka 1395
-Andrianovichi 551
-Valerianovsk 2198
-Imennovskiy 55
-
-Kachkanar 41426
-Kanal 12
-Kanava 13
-Anatol'skaya 160
-Zapol'skaya 4
-Lapotkova 4
-Lapteva 242
-Koptelovo 1292
-Aramashevo 713
-Aramashka 702
-Karabashka 705
-Bashkarka 568
-Markova 75
-Malaya Serkova 21
-Malaya Koynova 98
-Malaya Kodinka 19
-Karaul'skoe 19
-Malyy Ramyl 19
-Bol'shoy Ramyl 93
-Dyagileva 19
-
-Nizhniy Tagil 361811
-Dal'niy 83
-Zonal'nyy 436
-Zabel'nyy 163
-Artel'nyy 12
-Davydkova 12
-Davydova 23
-Koksharovo 23
-Koksharikha 88
-Grozina 88
-Buzina 61
-Kosari 61
-Aksarikha 65
-Komaritsa 20
-Maramzina 20
-Maramzino 65
-
-Aramil' 14224
-Bol'shaya Mil'kova 40
-Zelenyy Dol 40
-Zelenyy Log 21
-Byn'govskiy 47
-Byn'gi 2277
-
-Nev'yansk 24567
-Zav'yalovskoe 420
-Kislovskoe 920
-Lebyazh'e 132
-Lubyanoy 232
-Losinyy 2355
-Kinya 3
-Likino 33
-Kuliki 113
-Baraba 1153
-Kabakova 146
-Lopatkina 146
-Lukina 192
-Elkina 82
-Elkino 247
-Malomal'skiy 5
-Labazka 5
-Antonovka 5
-Antonovo 119
-
-Krasnogvardeyskiy 4369
-Krasnoarmeyskiy 490
-Izumrud 1440
-Zolotoruda 15
-Verkhnyaya Alapaikha 15
-
-Reftinskiy 16496
-Antipinskiy 46
-Lipino 104
-Lipchinskoe 520
-Kostroma 7
-Kostino 1083
-Kosulino 2644
-Borodulino 1274
-Borodinka 18
-Kumar'inskoe 18
-Il'inskoe 780
-Ermolina 50
-Kalina 227
-Kalinovskoe 358
-
-Elanskiy 10038
-Elan' 1101
-Belaya Elan' 683
-Beloyarskaya Zastava 35
-Malaya Zvereva 35
-Malaya Rechkalova 80
-Kekur 361
-Kurganovo 748
-Zyuzel'skiy 1371
-
-Polevskoy 64220
-Koroleva 2
-Linty 2
-Zaselina 33
-Krasnoglinnyy 1372
-Kuropashkina 30
-Golyshkina 242
-Golysheva 49
-
-Malysheva 9544
-
-Asbest 68893
-Belokamennyy 1932
-Kamenka 587
-Komenki 900
-Komsomol'skiy 717
-Komleva 71
-Kremlevka 285
-Lugovaya 285
-Lugovskoy 2726
-Karmak 265
-
-Tugulym 6001
-Golyakova 145
-Belyakovskoe 283
-Belyakovka 318
-Bun'kova 100
-Vas'kovo 17
-Gorodok 17
-Kaygorodskoe 461
-Byzovo 335
-Kokuzovo 128
+Mal'tsevo 175
 Kal'tyukova 230
 Kordyukovo 562
 Belaya Glina 57
 Kirpichnyy 67
 
 Vostochnyy 4673
-Verkhnyaya Lobva 9
-
-Lobva 8372
-Lopaevo 200
-Lopatkovo 470
-Leont'evskoe 321
-
-Turinsk 17925
-Gurino 4
-Gurina 90
-Medvedevo 90
-Medvedeva 96
-
-Pyshma 9806
-Kislyanka 39
-Zyryanka 146
-Zyryanskaya 50
-Vagranskaya 74
-Mel'nichnaya 74
-El'nichnaya 292
-Bubchikovo 887
-Izmodenovo 584
-Izmodenova 375
-Brusnyatskoe 1370
-Ayatskoe 746
-Konevo 647
-Kunara 143
-
-Tsementnyy 5808
-Anokhinskoe 163
-Krutikhinskoe 174
-Krutikha 74
-Kornilova 74
-Kirillova 228
-Kirovskoe 936
-Beregovaya 125
-
-Novaya Lyalya 12734
-Lyalya-Titova 16
-
-Shalya 6433
-
-Bisert' 10233
-Kiseleva 112
-Dolmatova 14
-Bushuevka 14
-Koshuki 448
-Averinskoe 448
-Elizavetinskoe 48
-Kazakova 48
-Gosdorogi 16
-Kordon 16
+Dubasova 9
+Vlasova 54
+Borisova 32
+Bakhmetskoe 32
+Isetskoe 173
+Kamyshevo 1066
+Emel'yashevka 20
+Boevka 20
+Ermakovo 20
+Vasenina 20
+Lenino 269
+Leninskiy 392
+Maminskoe 1173
+Il'inskoe 780
 Korely 50
-Karelino 174
+Kuvaeva 120
+Gulyaeva 191
+Vikhlyaeva 393
+Levikha 2881
+Karpushikha 1192
+Karpunina 8
+Bakhtiyarova Yurta 8
+Komarova 259
+Volkovo 259
+Volkovskoe 675
+Lebedkino 675
+Klevakino 371
+Balakino 233
+Abramovskoe 216
+Kosmakova 85
+Dorozhnyy 85
+V'yuzhnyy 251
+
+Elanskiy 10038
+Elan' 1101
+Veselovka 167
+Elovka Novaya 53
+Berezniki 53
+Berezit 112
+Berezhok 45
+
+Rezh 38215
+Golendukhino 294
+Kondrakhino 115
+Dymkovskoe 428
+Kazakovskoe 533
+Kazakova 48
+Elizavetinskoe 48
+
+Verkhotur'e 8820
+Kosolmanka 116
+Azanka 2587
+Krutoe 291
+
+Tavda 35421
+Gazeta 3
+Ezhevichnyy 95
+Mezhen' 4
+Gasheni 4
+Lapotkova 4
+Kozonkova 4
+Voinkova 1
+Bogatenkova 261
+Zenkovka 2
+Linty 2
+Vysokiy 2
+Golubeva 2
+Golubkovskoe 928
+Glazunovka 51
+Antonovka 5
+Antonovo 119
+Antonova 112
+Antonovskiy 62
+Demino 62
+Eremino 49
+Eremina 160
+Anatol'skaya 160
+Zapol'skaya 4
+Litovskaya 9
+Gorushki 9
+Matushkina 12
+Golyshkina 242
+Golysheva 49
+
+Malysheva 9544
+Izumrud 1440
+
+Asbest 68893
+Krasnoarmeyskiy 490
+
+Krasnogvardeyskiy 4369
 Bulanova 189
 
 Bulanash 12504
 
 Artemovskiy 33160
+Bol'shoe Trifonovo 753
+Maloe Trifonovo 206
+Mironovo 790
+Andronova 238
+Makuy 225
+Makushina 203
+Merkushino 107
+Baklushina 1
+Kershal' 1
 
-Bobrovskiy 5247
-Bobrovskoe 270
-Zvezda 218
+Shalya 6433
+
+Bisert' 10233
+
+Novoutkinsk 5360
+Kolyutkinskiy 22
+Butkinskoe Ozero 168
+Butka 3077
+Borovskoy 179
+Lugovskoy 2726
+Karmak 265
+
+Tugulym 6001
+Kolobova 156
+Kolos 159
+Katyshka 159
+
+Dvurechensk 4935
+Lechebnyy 17
+Vas'kovo 17
+Gost'kovo 98
+Lar'kovka 1395
+Mirnyy 26
+Gornyy 275
+Malaya Belonosova 176
+Belonosova 198
+Berezovka 132
+Bessonova 176
+Bubnova 36
+Mazulya 36
+
+Kamensk-Ural'skiy 174689
+Kamenskiy 52
+Kamenka 587
+Komenki 900
+
+Sukhoy Log 34554
+
+Cheremukhovo 5988
+
+Kal'ya 5604
+
+Severoural'sk 29263
+
+Pervoural'sk 124528
+
+Bilimbay 6044
 
 Revda 61875
 
-Bilimbay 6044
-Bil'kino 20
-Glubokaya 20
-Golubeva 2
-Golubkovskoe 928
-Zubkovo 356
-Verkhniy Talman 134
-Kuznetsovskiy 745
-Kuznetsova 4
-Kuznetsovo 415
-Isetskoe 173
-Kamyshevo 1066
+Mikhaylovsk 9852
+Kislovskoe 920
+Lebyazh'e 132
+Kochnevskoe 1508
+Kilachevskoe 1111
+Belosludskoe 298
 
-Kamyshlov 26870
-Butyrki 210
-Barannikova 775
-Zarechnaya 369
-Voskhod 1042
-Kuvaeva 120
-
-Alapaevsk 38192
-Zapadnyy 1159
-
-Svobodnyy 8198
+Zaykovo 4344
+Bol'shaya Kochevka 421
+Bol'shaya Pustyn' 192
+Bol'shoe Pul'nikovo 144
+Bichur 144
+Kar'er 167
+Larina 167
+Golovyrina 31
+Zabor 49
+Zabolotnyy 82
+Zabolot'e 28
+Zolotoruda 15
+Verkhnyaya Alapaikha 15
 
 Verkhnyaya Salda 46221
 
 Nizhnyaya Salda 17619
-Bas'yanovskiy 1454
-Kos'ya 325
+
+Nizhnyaya Tura 22006
+Gomzikova 44
+Borzikova 47
+Krutikova 6
+Krutikhinskoe 174
+Kvashninskoe 711
+Kvashnina 43
+Zobnina 101
+Langur 101
+Kungurka 196
+Barbashina 196
+Krylatovskiy 322
+Krasnaya Gorka 402
+Kosoy Brod 1055
+Brod 669
+Martyush 3994
+Martynova 336
+Borovlyanskoe 685
+Buldakova 259
+Korovyakova 114
+Voskhod 1042
+Vogulka 186
+Zamotaeva 43
+Kurort-Samotsvet 651
+Kuliga 95
+Kuliki 113
+Likino 33
+Krasnoglinnyy 1372
+Maslova 183
+Kopylova 41
+Albycheva 41
+Klyuchevaya 126
+Zakharova 220
+Komleva 71
+Gora Korobeynikova 13
+Mel'nikova 486
+Malaya Pul'nikova 25
+Maevka 25
+Lenevka 330
+Kostousovo 330
+Istour 69
+
+Istok 5962
+
+Bol'shoy Istok 7281
+Bol'shoe Sedel'nikovo 1965
+Maloe Sedel'nikovo 61
+Kadnikovo 279
+Kolyasnikova 130
+Ignat'eva 130
+Leont'evskoe 321
+Kokuzovo 128
+Kokuy 137
+Vnov'-Yurmytskoe 783
+Ayatskoe 746
+Konevo 647
+Makhnevo 3399
+Erzovka 40
+Zelenyy Dol 40
+Krasnyy Yar 255
+Krasnyy 1850
+Krasnyy Aduy 108
+Kedrovoe 2347
+Kedrovka 2486
+Lipovka 378
+
+Baykalovo 5789
+Maslovo 509
+Marsyaty 497
+Denezhkino 277
+Lozhkina 40
+Kuropashkina 30
+Galashova 41
+Iva 30
+Lyalya-Titova 16
+
+Novaya Lyalya 12734
+
+Lobva 8372
+Lopaevo 200
+
+Alapaevsk 38192
+Zarya 979
+Zapadnyy 1159
+Mednyy 352
+
+Gornyy Shchit 6299
+Kurganovo 748
+Bushlanovo 110
+Bushuevka 14
+Dolmatova 14
+Dubrovnyy 14
+Koshuki 448
+Koshay 811
 
 Sos'va 9634
-Koshay 811
-Litovskaya 9
+Gari 2472
+Beloyarka 2
+Krapivnaya 2
+
+Nizhniy Tagil 361811
+Zonal'nyy 436
+Zabel'nyy 163
+Artel'nyy 12
+Davydkova 12
+Davydova 23
+Gabievskiy 11
+Valuevskiy 4
+Imennovskiy 55
+Zyryanovskiy 876
+Melkozerovo 420
+
+Serov 99373
+Magina 26
+Vorontsovka 870
+Voronino 37
+Andreevka 37
+Bas'yanovskiy 1454
+Malygino 37
+Loginovo 818
+Komaritsa 20
 
 Talitsa 16225
 
 Troitskiy 10467
-Belorechenskiy 641
-Gorbunovskoe 641
-Kuminovskoe 255
-Makuy 225
-Krasnyy Yar 255
-Krasnyy Mayak 228
-Zaimka 228
-Dymkovskoe 428
-Guzeevo 115
-Deevo 938
-Matveeva 100
-Ignat'eva 130
-Elovyy Padun 75
-Vereskovyy 393
-Glyadeny 191
-Glyadeny-Sanatoriy 80
-Kurort-Samotsvet 651
-Kuliga 95
-Ezhevichnyy 95
-Mezhen' 4
-Gasheni 4
-Valuevskiy 4
-Zueva 155
-Volodinskoe 155
-Vsevolodo-Blagodatskoe 177
+Medvedkova 12
+Ivanishcheva 12
+Beklenishcheva 55
 
-Ivdel' 17775
-Loz'vinskiy 481
-Denezhkino 277
-Maslovo 509
-Marsyaty 497
-Barkhaty 7
-Gabievskiy 11
-Zhiryakova 118
-Lechebnyy 17
-
-Dvurechensk 4935
-Katyshka 159
-
-Verkhnee Dubrovo 4791
-Malobrusyanskoe 372
-Bol'shebrusyanskoe 1825
-Loginovo 818
-
-Sukhoy Log 34554
-Boksity 81
-Iksa 49
+Kachkanar 41426
+Kanal 12
+Kanava 13
 Lyubina 31
-Golovyrina 31
-Kolobova 156
-Zimniy 1
-Granevoe 1
-
-Kirovgrad 21035
-Bobrovka 163
-Dobrino 76
-Deryabino 358
 Zarubina 191
-Bor 237
-Borovskoy 179
-Borovoy 44
-Gomzikova 44
-Kolyasnikova 130
-Kadochnikova 79
-Vyazovka 531
-Bol'shaya Gryaznukha 531
-Kar'er 167
+Glyadeny 191
+Vereskovyy 393
+Bol'shaya Zvereva 161
+Kolchedan 2318
 
-Serov 99373
-Melkozerovo 420
-Melekhina 81
-Brusyana 178
-Borovlyanskoe 685
-Buldakova 259
+Volchansk 10010
+
+Karpinsk 29113
+Antipinskiy 46
+Lipino 104
+Lisava 103
+
+Reftinskiy 16496
+Karpuninskiy 402
+Zyuzel'skiy 1371
+
+Polevskoy 64220
+Kladovka 105
+
+Degtyarsk 15522
+Krasnoyarskoe 146
+Lopatkina 146
+Lukina 192
+Vyatkina 1
+Gorstkina 3
+Anik 3
+Kinya 3
+
+Verkhnyaya Sinyachikha 9999
+Verkhnyaya Ilenka 231
+Zvezda 218
 
 Krasnoufimsk 39765
 
 Arti 12881
-
-Mikhaylovsk 9852
+Lis'e 14
+Averinskoe 448
+Volodinskoe 155
+Galaktionovka 155
+Zueva 155
+Dyatlovka 4
+Kuznetsova 4
+Kuznetsovo 415
+Kuznetsovskiy 745
+Verkhniy Talman 134
+Komsomol'skiy 717
+Malomal'skiy 5
+Labazka 5
+Is 4229
+Valerianovsk 2198
+Kos'ya 325
+Aziatskaya 859
 
 Kushva 30167
-Merkushino 107
-
-Degtyarsk 15522
-Ertarskiy 1185
-Gorskino 237
-Gorstkina 3
-Vyatkina 1
-Dyatlovka 4
-Kladovka 105
-Glazunovka 51
-Lyapunovo 908
-Is 4229
-Beklenishcheva 55
-Ivanishcheva 12
-Anisimova 51
 Gerasimovka 288
-Abramovskoe 216
-Balakino 233
-Maminskoe 1173
+Anisimova 51
+Gat' 51
+Garaninka 111
+Ekaterininka 381
+
+Ivdel' 17775
+Vsevolodo-Blagodatskoe 177
+Kakvinskie Pechi 150
+Kytlym 1374
+Kiprino 325
+
+Irbit 38357
+Kekur 361
+Koksharikha 88
+Aksarikha 65
+Lobazikha 27
+Lobanova 35
+Zemlyanoe 35
+Kislyanka 39
+
+Kamyshlov 26870
+Butyrki 210
+Deryabino 358
+Kotyurova 50
 Zlatogorova 359
-Gora Korobeynikova 13
-Medvedkova 12
-Kolchedan 2318
-Bayny 2562
-Gari 2472
-Vysokiy 2
-Krapivnaya 2
-Kochnevskoe 1508
+Glubokaya 20
+Voronskaya 27
+Buchino 27
+Buchina 59
+Krasnopol'e 439
+Dryagunovo 59
+Lyapunovo 908
+Malaya Serkova 21
+Malaya Koynova 98
+Iksa 49
+Bochkari 8
+Melekhina 81
+Bileyka 276
+Baraba 1153
+Krasnyy Mayak 228
+
+Nev'yansk 24567
+Byn'gi 2277
+Byn'govskiy 47
+Borisovskiy 1
+Granevoe 1
+Zimniy 1
+Zavodouspenskoe 1285
 Mezenskoe 1457
 Guseva 205
-Kytlym 1374
-Kakvinskie Pechi 150
-Aziatskaya 859
-Bakhmetskoe 32
-Malyy Taushkan 22
-Atym'ya 793
-Vnov'-Yurmytskoe 783
-Basmanovskoe 738
-Bazhenovskoe 191
-Kiprino 325
-Akinfievo 219
+Denisova 20
+
+Kirovgrad 21035
+Kunara 143
+Matveeva 100
+Brodovo 598
+Belyakovka 318
+Byzovo 335
 Koltashi 135
+Devyashina 87
+Vershina 1
+Barkhaty 7
+
+Svobodnyy 8198
 Vilyuy 129
+Iset' 3215
+Ayat' 904
+Gorki 860
+Karelino 174
+Lapteva 242
+Atym'ya 793
+Kirga 614
+Guni 133
+Lopatkovo 470
 Veterok 34
+Zav'yalovskoe 420
+Zubkovo 356
+Butakova 221
+Kabakova 146
+Azeva 47
+Akinfievo 219
+Belovod'e 121
+Maka 107
+Dal'niy 83
+Kalach 53
+Malyy Taushkan 22
+Zadanie 22
+Kordon 16
+Gosdorogi 16

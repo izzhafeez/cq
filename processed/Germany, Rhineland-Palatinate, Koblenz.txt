@@ -1,800 +1,194 @@
 
 
 Mainz 184997
-Maisborn 127
-Borsborn 388
-Spabrucken 1218
-Brucken 2422
-Dittweiler 929
-Ehweiler 206
-Rehweiler 462
-Niedermohr 1523
-Niedermoschel 583
-Niederrossbach 844
-Oberrossbach 381
-Obererbach 583
-Niedererbach 1026
-Dreikirchen 1044
 
-Kirchen 9342
+Bodenheim 6907
 
-Betzdorf 10560
-Alsdorf 1765
-
-Herdorf 7239
-
-Dierdorf 6023
-Raubach 1944
-
-Braubach 3192
-Fachbach 1332
-Brachbach 2458
-
-Niederfischbach 5035
-Niederdreisbach 1003
-Dreisbach 606
-Dreifelden 314
-Reifenberg 840
-Reiferscheid 389
-Reifferscheid 609
-Oberkail 609
-Kail 301
-Gondorf 301
-Lissendorf 1130
-Hochstatten 698
-Hochstadt 2461
-
-Lustadt 3291
-
-Neustadt 53984
-Lindenberg 1178
-
-Lambrecht 3991
-Brecht 256
-Breitenheim 443
-
-Meisenheim 2887
-Senheim 606
-
-Essenheim 3161
-Bubenheim 841
-Schwabenheim 2555
-Ockenheim 2295
-Wackernheim 2652
-
-Klein-Winternheim 3485
-
-Zornheim 3559
-Kongernheim 1398
-
-Gau-Odernheim 3740
-Biebelnheim 704
-Bechtolsheim 1489
-Bechtheim 1876
-Eimsheim 620
-Alsheim 2691
-Eppelsheim 1265
-Hangen-Weisheim 513
-Albisheim 1717
-Bischheim 747
-Morschheim 756
-
-Kirchheimbolanden 8006
-Bolanden 2412
-Standenbuhl 220
-Hatzenbuhl 2693
-Kratzenburg 412
-Ney 371
-Brey 1596
-Breit 270
-Weitersbach 85
-Waldrohrbach 429
-Erbach 236
-Gerbach 577
-Dierbach 572
-Nannhausen 515
-Bennhausen 138
-Talling 220
-Welling 904
-Bell 1534
-
-Bellheim 8494
-Ottersheim 1798
-Freimersheim 941
-Gommersheim 1313
-
-Germersheim 20972
-Leimersheim 2624
-Insheim 2203
-Weinsheim 1893
-Huffelsheim 1305
-Biebelsheim 576
-Eckelsheim 547
-Wendelsheim 1453
-Friedelsheim 1499
-Briedel 1058
-Briedern 360
-Brieden 135
-Wiesweiler 484
-Hesweiler 151
-Heuzert 151
-Ratzert 240
-Fluterschen 755
-Walterschen 137
-
-Altenkirchen 6385
-Enkirch 1662
-Reil 1126
-Reich 374
-Reichenbach 675
-Ruschberg 857
-Bruschied 308
-Morschied 909
-Olmscheid 163
-Scheid 115
-Berscheid 61
-Perscheid 383
-Dorscheid 455
-Horscheid 141
-Mauchenheim 983
-Krummenau 141
-Krummel 394
-Schuller 367
-Tiefenbach 793
-Obertiefenbach 382
-Weidenbach 273
-Neidenbach 917
-Neuheilenbach 253
-Murlenbach 631
-Erlenbach 733
-Barenbach 546
-Berenbach 180
-Horschhausen 177
-Beinhausen 83
-Kleinsteinhausen 875
-Martinstein 329
-Hausten 329
-Baustert 540
-Echtershausen 115
-Kickeshausen 36
-Ergeshausen 148
-Ebertshausen 135
-Mudershausen 491
-Giershausen 110
-Untershausen 505
-Nentershausen 2048
-Eppenrod 713
-Eppenberg 244
-Gerach 244
-Retterath 365
-Reimerath 71
-Greimerath 1019
-Gusterath 1909
-Pluwig 1237
-Igel 2003
-Pellingen 1027
-Bellingen 570
-Weidingen 207
-Kliding 223
-
-Kaisersesch 3001
-Kaifenheim 833
-
-Munstermaifeld 3435
-Gierschnach 302
-Hirz-Maulsbach 302
-Alsbach 582
-
-Ransbach-Baumbach 7327
-Raumbach 470
-Grumbach 539
-Rumbach 521
-Piesport 2001
-Lieser 1185
-Mulheim 921
-
-Mulheim-Karlich 10451
-Dieblich 2481
-Oberdiebach 920
-Dorrebach 754
-Dorrenbach 1002
-
-Bad Bergzabern 7641
-Bad Bertrich 960
-Punderich 953
-Alf 923
-Alflen 850
-Mullenbach 701
-Allenbach 711
-Gollenberg 129
-Ellenberg 109
-Buhlenberg 535
-Rinzenberg 310
-Oberhambach 300
-Niederhambach 292
-Niederbrombach 523
-Oberbrombach 526
-Kapellen-Drusweiler 888
-Hausweiler 65
-Ginsweiler 338
-Hoffeld 338
-Offenbach-Hundheim 1310
-Adenbach 191
-Kadenbach 1494
-Eitelborn 2558
-Esselborn 339
-Meinborn 466
-Bretthausen 208
-Thalhausen 746
-Gipperath 263
-Immerath 263
-Immert 185
-Dohm-Lammersdorf 185
-Walsdorf 876
-Berndorf 547
-Oberndorf 255
-Sitters 130
-Sonnschied 130
-Sonnenberg-Winnenberg 535
-Utscheid 535
-Plutscheid 319
-Struth 319
-Ruthweiler 537
-Zeiskam 2283
-Weisel 1161
-Schweppenhausen 890
-Keppeshausen 25
-Dauwelshausen 89
-Walshausen 356
-Walsheim 550
-Hundsangen 2103
-Hundsbach 396
-Deudesfeld 396
-Orsfeld 161
-Balesfeld 214
-Pintesfeld 41
-Pronsfeld 962
-Lierfeld 77
-Dierfeld 7
-Laufeld 497
-Bettenfeld 741
-Gillenfeld 1493
-Gillenbeuren 247
-Beuren 992
-Buchenbeuren 1647
-Patersberg 431
-Heltersberg 2214
-Hermersberg 1738
-Langenscheid 567
-Senscheid 93
-Wirscheid 307
-Irsch 2400
-Morscheid 891
-Waldrach 2015
-Baldringen 243
-Horingen 750
-Knoringen 488
-Herresbach 488
-Oberworresbach 163
-Niederworresbach 993
-Niederhosenbach 369
-Waldmuhlen 369
-Uhler 405
-Udersdorf 1176
-Steinebach 744
-Steinborn 233
-Kottenborn 189
-Kottenheim 2780
-Thur 1450
-
-Weissenthurm 7639
-
-Urmitz 3480
-Kaltenengers 1932
-Kalt 516
-Kaltenborn 420
-Wallenborn 493
-Bollenborn 296
-Bollenbach 155
-Sulzbach 325
-Breitscheid 155
-Breitscheidt 1041
-Mertesheim 402
-Ilbesheim 1234
-Schurdt 248
-Kempfeld 850
-Leuterod 850
-Leutesdorf 1894
-Rengsdorf 2671
-Hardert 843
-Badenhard 164
-Medard 526
-
-Boppard 16215
-Spay 2056
-Osterspai 1351
-Filsen 602
-
-Emmelshausen 4889
-Dommershausen 1155
-Morshausen 368
-Gondershausen 1332
-Lykershausen 218
-Reckershausen 402
-Niederweis 197
-Ruppertshofen 402
-Ruppertsberg 1416
-Ruppertsweiler 1449
-Massweiler 1158
-Essweiler 460
-Ransweiler 296
-Harbach 578
-Arbach 156
-Oberfischbach 176
-Oberelz 176
-Bereborn 124
-Sassen 97
-Weiden 97
-Weidenthal 2018
-Esthal 1567
-Eusserthal 926
-Messerich 494
-Haserich 224
-Helmeroth 224
-Roth 1554
-
-Zell 4402
-Lollschied 205
-Alsenz 1815
-Halsenbach 1301
-Wasenbach 359
-Sessenbach 548
-Rockeskyll 288
-Dockendorf 197
-Dickendorf 375
-Molzhain 616
-Gebhardshain 1869
-Waigandshain 218
-Rehe 1013
-Rehbach 36
-Rehborn 790
-Seelbach 470
-Callbach 395
-Lollbach 243
-Selbach 829
-Quiddelbach 308
-Quirnbach 527
-Quirnheim 724
-Marnheim 1642
-Bornheim 1302
-Essingen 2043
-Bochingen 771
-Bobingen 669
-Binningen 691
-Dunfus 294
-Dungenheim 1362
-Musch 226
-Muschenbach 1057
-Mudenbach 831
-Spangdahlem 831
-Gehlert 559
-Astert 259
-Hattert 1767
-Bruchweiler-Barenbach 1767
-Bruchweiler 550
-Bruch 506
-Trimport 298
-Trimbs 658
-
-Ettringen 2851
-Gering 380
-Einig 147
-Maitzborn 147
-
-Polch 6590
-Polich 379
-Biedesheim 649
-
-Heidesheim 6976
-Kleinniedesheim 922
-Grossniedesheim 1392
-Grosskarlbach 1157
-Laumersheim 889
-
-Beindersheim 2923
-Kindenheim 1028
-Bockenheim 2251
-Dackenheim 411
-
-Wachenheim 4678
-
-Meckenheim 3376
-Niederkirchen bei Deidesheim 2378
-
-Deidesheim 3779
-Idesheim 390
-Vendersheim 561
-Gundersheim 1668
-Brimingen 74
-Merschbach 52
-Herschbroich 290
-Herschberg 936
-Meisburg 259
-Kyllburg 1054
-Kyllburgweiler 107
-Schutz 161
-Schutzbach 453
-Etzbach 1289
-Furthen 1276
-Bachenberg 127
-Korborn 351
-Herborn 530
-Winterborn 193
-Steiningen 193
-Leiningen 792
-Neuleiningen 883
-Altleiningen 1950
-Wattenheim 1632
-Battenberg 396
-Dattenberg 1579
-
-Linz am Rhein 6008
-
-Rheinbreitbach 4598
-
-Rheinbrohl 4017
-Brohl-Lutzing 2654
-
-Burgbrohl 3332
-Wassenach 1174
-Oberzissen 1069
-Niederzissen 2791
-Rieden 1307
-Dedenbach 426
-Niederdurenbach 1056
-Oberdurenbach 628
-Hinzweiler 426
-Benzweiler 228
-Rayerschied 123
-Lierschied 508
-Schlierschied 190
-Schiersfeld 265
-Schiesheim 258
-Spiesheim 1012
-
-Hillesheim 3210
-Gullesheim 670
-Rommersheim 617
-Schindhard 634
-
-Windhagen 4433
-
-Remagen 16280
-Erpel 2635
-Kerpen 463
-Winterspelt 826
-Harspelt 84
-Harscheid 160
-Eilscheid 41
-Merlscheid 35
-Kinzenburg 37
-Hinzenburg 133
-Osburg 2327
+Oppenheim 6789
+Dienheim 1981
+Mettenheim 1551
+Kettenheim 273
+Dasburg 273
 Burg 26
 Niehl 66
+Miehlen 2070
 Ehlenz 451
 Schleid 387
 Oberweiler 148
 Oberweis 578
 Feilsdorf 36
 Olsdorf 108
-Biersdorf 554
-Bickendorf 524
-Neunkirchen am Potzberg 489
-Neunkirchen 551
-Elsoff 996
-Hof 1284
-Obernhof 438
-Frohnhofen 600
-Fronhofen 213
-Biebern 343
-Biebrich 372
-Bremberg 290
-Cramberg 500
-Ramberg 1018
-Nister 1018
-Nisterberg 449
-Rohl 449
-Nohn 449
-
-Hohn 3238
-Pottum 1033
-Neupotz 1713
-Neuburg 2549
-
-Hagenbach 5495
-
-Worth am Rhein 17272
-
-Rheinzabern 4620
-
-Jockgrim 6970
-Grimburg 522
-Isenburg 673
-Gusenburg 1187
-Gonbach 519
-Schonbach 280
-Schonberg 238
-Unzenberg 449
-Heinzenberg 31
-Etteldorf 31
-Dudeldorf 1065
-Gindorf 308
-
-Bendorf 17495
-Ingendorf 245
-Eisighofen 245
-Dessighofen 182
+Biesdorf 268
+Kruchten 401
+Frucht 609
+Nievern 982
 Geisig 377
-
-Bad Breisig 8959
-
-Bad Honningen 5772
-Winningen 2457
-
-Kobern-Gondorf 3306
-Lehmen 1470
-
-Mendig 8813
-Altendiez 2332
-
-Diez 10822
-Aull 477
-Bauler 45
-Barweiler 484
-Merzweiler 212
-Hergersweiler 212
-Albersweiler 1929
-Birkweiler 729
-Weiler 2712
-
-Weilerbach 4476
-Girod 1262
-Girkenroth 637
-Birkenhordt 653
-Norken 1000
-
-Birkenheide 3309
-Hanhofen 2304
-Orenhofen 1326
-Preist 768
-Dreis 1355
-Dreisen 1027
-Oberdreis 917
-Pantenburg 253
-Paschel 253
-Plascheid 67
-Lascheid 74
-Langscheid 95
-Sankt Thomas 320
-Sankt Alban 363
-Sankt Aldegund 688
-Stein-Bockenheim 688
-Schweix 388
-Wirschweiler 384
-Kirschweiler 1169
-Westheim 1720
-
-Westhofen 3268
-Singhofen 1895
-
-Dudenhofen 5709
-Udenheim 1327
-Dienheim 1981
-Friesenheim 647
-Friesenhagen 1692
-Katzwinkel 2005
-Scheuerfeld 2166
-Mittelhof 1130
-Nittel 1920
-Temmels 649
-Oberbillig 851
-Welschbillig 2606
-Hauroth 283
-Eisenach 283
-Kirchweiler 405
-Ferschweiler 851
-Bollendorf 1552
-Allendorf 694
 Bettendorf 379
-Mettendorf 1119
-Bausendorf 1339
-Kinderbeuern 1119
-Neuerburg 1545
-Niederburg 699
-Niedert 132
-Niederlauch 53
-Oberlauch 67
-Oberlahr 749
-Burglahr 538
-Lahr 181
-Freudenburg 1512
-Heidenburg 724
-Burtscheid 121
-Bescheid 407
-Kescheid 140
-Hecken 140
-Heckenbach 247
-Ahrbruck 1228
+Allendorf 694
+Katzenelnbogen 2227
+Katzenbach 570
+Eichenbach 63
+Reichenbach 675
+Ruschberg 857
+Bruschied 308
+Morschied 909
+Olmscheid 163
+Racksen 163
+Waldhambach 369
+Waldmuhlen 369
+Buhlenberg 535
+Ellenberg 109
+Gollenberg 129
+Rinzenberg 310
+Wilzenberg-Hussweiler 308
+Essweiler 460
+Ransweiler 296
+Ginsweiler 338
+Hausweiler 65
+Rathsweiler 192
+Erdesbach 664
+Bedesbach 764
+
+Altenglan 3048
 Altenahr 1707
 
 Bad Neuenahr-Ahrweiler 27823
-Weinahr 482
-Peterslahr 331
-Rosenkopf 329
-Kopp 197
-Schopp 1520
-Krickenbach 1188
-Kellenbach 264
-Lautert 264
-Krautscheid 264
+Dernau 1907
+Obernau 144
+Oberhosenbach 144
+Niederhosenbach 369
+Bosenbach 846
+Jettenbach 884
+Hottenbach 677
+Odenbach 926
 
-Hutschenhausen 4039
-Hettenhausen 264
-Kettenhausen 247
-Attenhausen 403
-Betteldorf 310
-Metterich 469
-Kotterichen 113
-Kaperich 195
-Korperich 1089
-Horperath 134
-Kordel 2205
-Treis-Karden 2332
-Pfalzfeld 572
-Arzfeld 1276
-Herzfeld 42
-Leidenborn 167
-Daleiden 885
-Reipeldingen 87
-Winringen 68
-Wincheringen 1499
-Palzem 1269
+Rodenbach 3485
+Ebertsheim 1423
+Biedesheim 649
 
-Alzey 18241
-Albig 1672
-Ensheim 430
-Schornsheim 1590
-
-Ober-Saulheim 7325
-Ober-Hilbersheim 990
-Nieder-Hilbersheim 627
-
-Nieder-Olm 8511
-
-Ober-Olm 4133
-
-Idar-Oberstein 31610
-Darstein 224
-
-Hauenstein 4148
-Auen 245
-Manubach 368
-Gappenach 368
-Gau-Heppenheim 558
-
-Oppenheim 6789
-
-Nackenheim 5054
-
-Bodenheim 6907
-
-Budenheim 8598
-Appenheim 1393
-Badenheim 544
-Hackenheim 2037
-Frei-Laubersheim 1039
-Pleitersheim 361
-Siefersheim 1287
-Neu-Bamberg 936
-Altenbamberg 753
-Feilbingert 1739
-Kolbingen 1129
-Staudernheim 1601
-Monzernheim 633
-Kumbdchen 493
-Niederkumbd 309
-Alterkulz 446
-Kulz 492
-Neuerkirch 285
-
-Kirchberg 3797
-Nieder Kostenz 234
-Ober Kostenz 275
-Hosten 184
-Kesten 343
-Kestert 745
-Hinzert-Polert 277
-Reinsfeld 2341
-Seinsfeld 165
-Kesfeld 102
-Miellen 453
-Wierschem 323
-Winterscheid 165
-Wintersheim 312
-Winterbach 554
-Winterwerb 183
-
-Lingenfeld 5433
-Langenfeld 761
-Enspel 277
-Sinspelt 451
-Spessart 781
-Spesenroth 166
-Gosenroth 301
-Godenroth 502
-Kemmenau 502
-Einollen 502
-Hohenollen 372
-Weinolsheim 714
-Mannebach 345
-Langenbach 487
-Berglangenbach 488
-Watzerath 447
-Matzerath 54
-Utzerath 204
-Lutzerath 1463
-Auderath 632
-Demerath 318
-Fisch 318
-Filz 91
-Kirsbach 91
-Niersbach 681
-Dierscheid 166
-Sierscheid 104
-Reichsthal 104
-Dorrmoschel 173
-Obermoschel 1183
-Nauroth 1183
-Elkenroth 1900
-Eckenroth 233
-Reckenroth 191
-Berndroth 411
-Mittelfischbach 131
+Heidesheim 6976
+Grossniedesheim 1392
+Kleinniedesheim 922
+Edesheim 2294
+Roschbach 841
+Eschbach 707
 Fischbach 1672
 Wallmenroth 1261
-Hergenroth 434
-Hungenroth 266
-Sargenroth 515
-Spall 153
-Riedelberg 515
-Idelberg 58
-Eichelhardt 496
-Scheibenhardt 731
-Gerhardsbrunn 170
-Mittelbrunn 731
-Obernheim-Kirchenarnbach 1831
-Weselberg 1402
+Willmenrod 690
+Wallmerod 1341
+Berod bei Wallmerod 541
+Hahn bei Wallmerod 171
+Wollmerath 230
+Schnorbach 230
+Horbach 720
+Giershausen 110
+Untershausen 505
+Nentershausen 2048
+Eppenrod 713
+Alpenrod 1664
+Gehlert 559
+Ailertchen 653
+Gielert 159
+Gieleroth 709
+Gevenich 709
+Liesenich 361
+Mesenich 355
+Hammerstein 355
 
-Oberwesel 3128
-Oberwallmenach 208
-Niederwallmenach 411
-Irmenach 748
-Kausen 785
-Hausen 2009
-Anhausen 1324
-Ellenhausen 317
-Sessenhausen 922
-Busenhausen 351
-Lautzenhausen 351
-Metzenhausen 130
-Erzenhausen 740
-Heinzenhausen 298
-Luxem 298
-Muxerath 52
-Nasingen 43
-Gentingen 61
-Geichlingen 360
+Nierstein 7729
+Dexheim 1547
+Dalheim 1007
+Alsheim 2691
+Dittelsheim-Hessloch 2171
+Eppelsheim 1265
+Monsheim 2624
+Lonsheim 606
+Dreisbach 606
+Freisbach 1040
+Weingarten 1532
+Hargarten 92
+Oberpierscheid 385
+Niederpierscheid 50
+Feuerscheid 349
+Harscheid 160
+Eilscheid 41
+Merlscheid 35
+Plascheid 67
+Lascheid 74
+Oberlascheid 140
+Wirft 155
+Gutweiler 679
+Schmittweiler 252
+Schmitt 177
+Mittelstrimmig 432
+Altstrimmig 348
+Beilstein 160
+
+Wollstein 4516
+Gumbsheim 540
+Wonsheim 903
+Armsheim 2645
+Ensheim 430
+Schornsheim 1590
+Insheim 2203
+Ottersheim 1798
+Freimersheim 941
+Gommersheim 1313
+
+Germersheim 20972
+Leimersheim 2624
+Neupotz 1713
+Neunkirchen am Potzberg 489
+Neunkirchen 551
+Elsoff 996
+Erden 379
+Limbach 379
+Wimbach 475
+Krunkel 671
+
+Unkel 4938
+Erpel 2635
+
+Remagen 16280
+
+Windhagen 4433
+
+Hagenbach 5495
+Neuburg 2549
+Berg 2104
+Bergen 489
+Hahnenbach 653
+Bollenbach 155
+Allenbach 711
+Leisel 590
+Weisel 1161
+Merkelbach 381
+Mulbach 125
+Kehlbach 157
+Aremberg 254
+Bremberg 290
+Cramberg 500
+Dornberg 600
+Charlottenberg 161
+Grosskampenberg 161
+Eppenberg 244
+Eppenbrunn 1530
+Hilst 371
+Hilscheid 291
+Kirschroth 291
+Duchroth 584
+Oberhausen 472
+Niederhausen 615
+Niederhambach 292
+Oberhambach 300
+Niederbrombach 523
+Insul 473
+Kollig 473
+Pillig 501
+Gering 380
+
+Ettringen 2851
+Horingen 750
 
 Mehlingen 3882
 Mehlbach 1193
@@ -807,595 +201,197 @@ Hettenleidelheim 3049
 
 Gollheim 3773
 Kerzenheim 2271
-
-Rodenbach 3485
-Ebertsheim 1423
-Hellertshausen 193
-Stipshausen 970
-Rhaunen 2287
-Hahnenbach 653
-Irrel 1324
-
-Kirn 8762
-Bergen 489
-Berg 2104
-Kelberg 2031
-Kirburg 628
-Burgen 828
-Oberotterbach 1275
-
-Otterbach 4087
-
-Otterberg 5215
-Schneckenhausen 639
-
-Rockenhausen 5744
-Mannweiler-Colln 438
-
-Winnweiler 4850
-Hennweiler 1324
-Dennweiler-Frohnbach 293
-Kronweiler 363
-Berschweiler 296
-Herchweiler 517
-Kappeln 175
-Kappel 530
-Detzem 530
-Bitzen 829
-Reitzenhain 362
-Rotenhain 572
-Utzenhain 123
-Bergenhausen 128
-Scheidt 309
-Roscheid 68
-Roschbach 841
-Eschbach 707
-Klingenmunster 2432
-Heuchelheim-Klingen 913
-
-Billigheim-Ingenheim 4038
-Rohrbach 1699
-Niederhorbach 526
-Niederotterbach 312
-Niederschlettenbach 376
-Bundenthal 1137
-Hinterweidenthal 1727
-Rinnthal 659
-Spirkelbach 709
-Merkelbach 381
-Mulbach 125
-Kehlbach 157
-Aremberg 254
-
-Lemberg 4317
-
-Eisenberg 10006
-Busenberg 1418
-Reichenberg 231
-Munchweiler am Klingbach 231
-
-Annweiler am Trifels 7316
-Munchweiler an der Alsenz 1264
-
-Munchweiler an der Rodalbe 3040
-
-Rodalben 7638
-Merzalben 1272
-
-Waldfischbach-Burgalben 5111
-Wallhalben 875
-Wallhausen 1617
-Dalberg 249
-Geiselberg 868
-Seibersbach 1457
-Weibern 1585
-Kempenich 1903
-
-Nickenich 3582
-Mesenich 355
-Hammerstein 355
-
-Hamm 3406
-Hambach 527
-Herl 261
-Hergenfeld 454
-Burgsponheim 217
-Sponheim 901
-Kinheim 828
-Franzenheim 331
-Enzen 49
-Kaschenbach 49
-Eichenbach 63
-Braunweiler 611
-Brauweiler 70
-Simmertal 2009
-
-Simmern 7979
-Riesweiler 716
-Holzbach 533
-Holzheim 913
-Illerich 758
-Gocklingen 972
-Klingelbach 762
-Kleinfischlingen 306
-Hundsdorf 417
-Dorsdorf 409
-Morsdorf 699
-Halsdorf 83
-Diefenbach 83
-Flussbach 475
-Nussbach 643
-Nussbaum 491
-Nusbaum 458
-Wiesbaum 600
-Streithausen 600
-Trechtingshausen 1053
-Uppershausen 84
-Nortershausen 1145
-Bengel 891
-Engelstadt 730
-
-Worrstadt 7668
-Borrstadt 964
-Hoppstadten 343
-Hoppstadten-Weiersbach 2749
-Dienstweiler 326
-Ellweiler 289
-Elchweiler 96
-Welchweiler 201
-Heidweiler 190
-Oberscheidweiler 204
-Niederscheidweiler 254
-Schleich 204
-Schladt 119
-Gladbach 336
-Heilenbach 131
-Heckenmunster 131
-Fohren 2649
-Fohren-Linden 344
-Eckersweiler 159
-Gielert 159
-Gimbweiler 448
-Ruckweiler 447
-Hockweiler 198
-Dockweiler 642
-Dreis-Bruck 925
-Mosbruch 170
-Brucktal 95
-Boos 643
-Bosenbach 846
-Oberhosenbach 144
-Obernau 144
-Dernau 1907
-
-Andernach 29599
-Mandern 947
-Waldweiler 924
-Heddert 271
-Niedertiefenbach 219
-Niederstedem 219
-Oberstedem 79
-Dorn-Durkheim 919
-
-Bad Durkheim 18698
-Birkheim 129
-Buborn 164
-Bubach 295
-Laubach 1073
-Lautersheim 615
-Lauterecken 2292
-Cronenberg 172
-
-Schonenberg-Kubelberg 5957
-Schoneberg 661
-Volkersweiler 661
-Vollmersweiler 221
-Vollmersbach 582
-Almersbach 448
-Fiersbach 270
+Wattenheim 1632
+Battenberg 396
+Dattenberg 1579
+Kasbach-Ohlenberg 1406
 
 Asbach 7060
-Rossbach 937
+Fiersbach 270
+Almersbach 448
+Vollmersbach 582
 
-Sankt Katharinen 3534
-Steinen 259
+Idar-Oberstein 31610
 Obersteinebach 259
 Niedersteinebach 179
-Niederwambach 531
-Oberwambach 445
-Jakobsweiler 236
-Norath 445
-Winnerath 201
-Winnen 465
-
-Rennerod 3891
-Oberrod 736
-Rivenich 736
-Riveris 395
-Schomerich 138
-Gemmerich 580
-
-Zemmer 2900
-Hemmelzen 219
-Eschfeld 175
-Hirschfeld 342
-Lochum 342
-Desloch 409
-
-Hassloch 20779
-
-Hochdorf-Assenheim 3041
-
-Rodersheim-Gronau 2903
-Rodershausen 202
-Biedershausen 283
-Kleinbundenbach 441
-Bundenbach 1012
-
-Speyer 50343
-
-Lachen-Speyerdorf 5470
-Kirrweiler 2034
-Burrweiler 898
-Horrweiler 799
-Hirschhorn 799
-Horn 372
-Hornbach 1717
-Althornbach 789
-Rimschweiler 1930
-Nunschweiler 827
-Hoheischweiler 1018
-
-Thaleischweiler-Froschen 3515
-Rieschweiler-Muhlbach 2201
-
-Bruchmuhlbach-Miesau 7800
-
-Ramstein-Miesenbach 8078
-Ramsen 1863
-Imsbach 1049
-Neuhemsbach 828
-Sembach 1199
-Leimbach 79
-Oberheimbach 705
-Niederheimbach 813
-Bacharach 2105
-Sienhachenbach 230
-Sien 611
-
-Bad Marienberg 5838
-Langenbach bei Marienberg 1052
-Langenhahn 1454
-Berzhahn 495
-Hellenhahn-Schellenberg 1315
-Neustadt/Westerwald 583
-Westernohe 907
-
-Westerburg 5863
-Willmenrod 690
-Wallmerod 1341
-Berod bei Wallmerod 541
-Hahn bei Wallmerod 171
-Wollmerath 230
-Wolmersen 431
-Niederweiler 431
-Niederwerth 1391
-Niederelbert 1642
-Oberelbert 1072
-Daubach 481
-Horbach 720
-
-Morbach 11149
-Ubereisenbach 59
-Leisel 590
-Wilzenberg-Hussweiler 308
-Stelzenberg 1291
-
-Trippstadt 3085
-
-Altrip 7802
-
-Neuhofen 7326
-
-Limburgerhof 10753
-
-Mutterstadt 12383
-Ellerstadt 2304
-Kallstadt 1148
-
-Grunstadt 13424
-Wahlrod 883
-Wahlbach 173
-Stahlberg 198
-Stahlhofen 369
-Wahlheim 579
-Wahlenau 210
-Warmsroth 426
-Hanroth 685
-Riegenroth 199
-Pleizenhausen 247
-Pleckhausen 785
-Bleckhausen 331
-Isert 204
-Kisselbach 598
-Hasselbach 297
-Isselbach 402
-Hirschberg 402
-Liebshausen 514
-Gorgeshausen 821
-Bruchertseifen 766
-Uelversheim 1162
-Kolverath 142
-Prath 327
-Pracht 1562
-Acht 106
-Nachtsheim 606
-Schalkenmehren 606
-Anschau 284
-Ranschbach 687
-Horschbach 285
-Morschbach 350
-Harschbach 446
-Niederhofen 347
-Puderbach 2259
-Budenbach 193
-Neitersen 873
-Rettersen 330
-Oberirsen 754
-Niederirsen 106
-Olsen 99
-Molsheim 604
-Grolsheim 1080
-Rummelsheim 1435
-Dorsheim 690
-
-Munster-Sarmsheim 2952
-Armsheim 2645
-Wallertheim 1826
-Gau-Bickelheim 2122
-Gau-Bischofsheim 1977
-Willroth 821
-Lutzkampen 392
-Lutz 386
-Waldgrehweiler 261
-Ellern 872
-Kell 1953
-Schwollen 456
-Holler 1191
-Grossholbach 1008
-Ruppach-Goldhausen 1155
-Duppach 300
-Kroppach 668
-Kroppen 771
-Sosberg 200
-Kamp-Bornhofen 1632
-Mertesdorf 1658
-Biesdorf 268
-Kruchten 401
-Echternacherbruck 546
-Ziegenhain 135
-Minden 135
-Linden 1230
-Lind 47
-Oberstaufenbach 272
-Niederstaufenbach 290
-Fockelberg 400
-Rothselberg 726
-Rutsweiler an der Lauter 390
-Wolfstein 2060
-Oberweiler-Tiefenbach 298
-Relsberg 214
-Oelsberg 524
-Endlichhofen 142
-Budlich 198
-Berglicht 498
-Thallichtenberg 593
-Breitenthal 328
-Langenthal 97
-Argenthal 1645
-Argenschwang 385
-Munchwald 297
-Kirchwald 1043
-Rittersdorf 1307
-Gonnersdorf 650
-Waldorf 948
-Wallendorf 381
-Salzburg 238
-Salz 963
-Hattgenstein 266
-Niederfell 1091
-Oberfell 1165
-Alken 687
-Moselkern 705
-Welkenbach 144
-Schalkenbach 878
-Linkenbach 486
-Unkenbach 242
+Steinen 259
+Steinebach 744
+Steinborn 233
+Kottenborn 189
+Kaltenborn 420
+Wallenborn 493
+Bollenborn 296
+Selchenbach 396
 Meckenbach 422
 Kommen 284
 
 Mommenheim 3053
-Selzen 1557
-Hahnheim 1619
-Hahn 542
-Altlay 515
-Bullay 1531
-Neef 520
-Nehren 102
-Mehren 1385
-Forstmehren 163
-Ersfeld 55
-Flammersfeld 1068
-Dottesfeld 708
-Eichen 616
-Neichen 152
-Oberehe-Stroheich 358
-Strohn 493
-Urmersbach 493
-Sarmersbach 188
-Oberwies 188
-Oberwiesen 474
-Nieder-Wiesen 653
-Wied 509
 
-Neuwied 66805
+Essenheim 3161
+Bubenheim 841
+Schwabenheim 2555
+Appenheim 1393
+Ockenheim 2295
+Badenheim 544
+Hackenheim 2037
 
-Kettig 3325
-Kettenheim 273
-Mettenheim 1551
-Frettenheim 334
-Giesenhausen 334
-Giesdorf 136
-Schonecken 1625
-Dhronecken 145
-Grafendhron 109
-Huttingen 109
-Bettingen 1013
+Nackenheim 5054
+
+Budenheim 8598
+Jugenheim 1673
+Partenheim 1581
+Engelstadt 730
+
+Worrstadt 7668
+
+Stadecken-Elsheim 4438
+Biebelsheim 576
+Eckelsheim 547
+Wendelsheim 1453
+Friedelsheim 1499
+Gonnheim 1478
+
+Meckenheim 3376
+
+Birkenheide 3309
+Dackenheim 411
+Bockenheim 2251
+Kindenheim 1028
+Undenheim 2525
+Bellingen 570
+Pellingen 1027
+Pluwig 1237
+Riveris 395
+Rivenich 736
+Westernohe 907
+Neustadt/Westerwald 583
+
+Westerburg 5863
+Winterburg 226
+Musch 226
+Usch 76
 Wettlingen 54
 Birtlingen 82
 Esslingen 59
-Beilingen 375
-Herforst 1009
-Forst 840
-Kammerforst 251
-
-Maikammer 4066
-Sankt Martin 1872
-
-Edenkoben 6668
-Edesheim 2294
-Hainfeld 686
-Weyher 570
-Herxheimweyher 468
-Merxheim 1514
-Harxheim 2025
-Herxheim 754
-Roxheim 2375
-
-Hargesheim 2991
-Windesheim 1951
-Rudesheim 2408
-Budesheim 638
-Atzelgift 638
-Belg 167
-Belgweiler 205
-Allenfeld 205
-Krahenberg 171
-Oberahr 587
-Niederahr 862
-Niedersayn 227
-Helferskirchen 1174
-
-Mengerskirchen 6116
-Rathskirchen 219
-Horath 476
-Naurath 219
-Mehring 2171
-Ehr 80
-Ruber 877
-Schneppenbach 221
-Lindenschied 238
-Falkenstein 236
-Waldhof-Falkenstein 44
-Zweifelscheid 44
-Ellscheid 268
-Wallscheid 366
-Hillscheid 2691
-Hilscheid 291
-Kirschroth 291
-Duchroth 584
-Oberhausen 472
-Niederhausen 615
-Norheim 1438
-Nordhofen 536
-Wershofen 902
-
-Sohren 3551
-Schauren 547
-Lotzbeuren 484
-Schonau 461
-Obersimten 679
-Oberschlettenbach 135
-Pittenbach 108
-Hottenbach 677
-Odenbach 926
-Schoden 722
-Prumzurlay 567
-
-Prum 5471
-Gondenbrett 503
-Sellerich 342
-Buchet 264
-Buch 943
-Buchel 1143
-Steinefrenz 753
-Wallersheim 753
-Gehlweiler 254
-Lorscheid 623
-Konigsfeld 623
-Konigsau 69
-Schwarzerden 243
-Schwarzen 146
-Schwerbach 62
-Dill 214
-Dillendorf 604
-Dornholzhausen 214
-Kaltenholzhausen 613
-Holzhausen an der Haide 1291
-Oberhausen an der Appel 171
-Schweinschied 187
-Mutterschied 442
-Bisterschied 283
+Ralingen 1997
+Ziegenhain 135
+Minden 135
+Linden 1230
+Langenscheid 567
+Senscheid 93
+Wirscheid 307
+Scheid 115
+Scheidt 309
+Niederkumbd 309
+Klosterkumbd 286
+Pomster 195
 Mengerschied 800
-Matzenbach 700
-Katzenbach 570
-Katzenelnbogen 2227
-Bogel 792
-Mogendorf 1204
+Lierschied 508
+Schlierschied 190
+Schiersfeld 265
+Schiesheim 258
+Spiesheim 1012
 
-Siershahn 2879
-Ebernhahn 1266
-Weidenhahn 542
-Reidenhausen 211
-Blankenrath 1812
-Arenrath 354
-Zusch 681
-Usch 76
-Euscheid 162
-Ruscheid 786
-Oberraden 645
-Oberhonnefeld-Gierend 999
-Bonefeld 1052
-Ehlscheid 1237
-Datzeroth 230
-Karl 230
+Hillesheim 3210
+Gullesheim 670
+Gabsheim 776
+Rommersheim 617
+Schindhard 634
+Sohrschied 91
+Ruthweiler 537
+Zeiskam 2283
+Manubach 368
+Gerbach 577
+Dierbach 572
+Erbach 236
+Waldrohrbach 429
+Rohrbach 1699
+Niederhorbach 526
+Niederotterbach 312
+Wintersheim 312
+Winterscheid 165
+Berscheid 61
+Perscheid 383
+Dorscheid 455
+Damscheid 692
+
+Oberwesel 3128
+Oberwallmenach 208
+Niederwallmenach 411
+Irmenach 748
+Kausen 785
+Zilshausen 343
+Walshausen 356
 Karlshausen 353
 Krottelbach 783
-Herren-Sulzbach 174
-Hohen-Sulzen 582
-Offstein 1891
+Dichtelbach 715
+Kalenborn 715
+Kalenborn-Scheuern 490
+Lipporn 300
+Ormont 378
+Hallschlag 597
+Wallscheid 366
+Ellscheid 268
+Darscheid 865
+Nerdlen 223
+Gefell 93
+Retterath 365
+Reimerath 71
+Greimerath 1019
+Gusterath 1909
+Kestert 745
+Kesten 343
+Hosten 184
+Ober Kostenz 275
+Nieder Kostenz 234
+Niedersohren 440
+Niederweiler 431
+Wolmersen 431
+Rettersen 330
+Neitersen 873
+Oberirsen 754
+Niederirsen 106
+Olsen 99
+Alsenz 1815
+Munchweiler an der Alsenz 1264
 
-Dirmstein 3080
+Winnweiler 4850
+Mannweiler-Colln 438
+Hennweiler 1324
+Irrel 1324
+Birresborn 1299
+Densborn 601
+Neuheilenbach 253
+Murlenbach 631
+Neidenbach 917
+Weidenbach 273
+Niederbachheim 273
+Oberbachheim 228
+Sauerthal 228
+Eusserthal 926
+Messerich 494
+Haserich 224
+Helmeroth 224
+Neroth 973
+Zotzenheim 646
+Oberstadtfeld 646
+Niederstadtfeld 498
+Wiebelsheim 498
+Rummelsheim 1435
+Grolsheim 1080
+Dorsheim 690
+Waldlaubersheim 804
 
-Worms 81099
+Waldalgesheim 3676
+Windesheim 1951
+Rudesheim 2408
 
-Bobenheim-Roxheim 10106
-Bobenheim am Berg 848
+Hargesheim 2991
+Welgesheim 596
 
-Herxheim am Berg 10424
-Kirchheim an der Weinstrasse 1734
-Trassem 1178
-Liessem 97
-Fliessem 684
-Wiesemscheid 282
-Ludwigswinkel 907
-Winkel 179
-Kasdorf 268
-Saxler 81
-Waxweiler 1128
-Daxweiler 868
-Weitersweiler 490
-Gabsheim 776
+Gau-Algesheim 6553
+Dolgesheim 967
+Eimsheim 620
 
 Gimbsheim 3066
 
@@ -1403,520 +399,1182 @@ Lambsheim 6104
 
 Hessheim 3044
 
-Frankenthal 47438
-Frankenstein 1108
-Elmstein 2786
-Pelm 1047
+Beindersheim 2923
+Laumersheim 889
 
-Gerolstein 7664
-Gerolsheim 1684
-Lonnig 1170
-Venningen 956
-Wolsfeld 801
-Uersfeld 717
-Kriegsfeld 1111
-Herrstein 1000
-
-Nierstein 7729
-Dexheim 1547
-Dalheim 1007
-Dahlheim 935
-Dahlem 235
-Idenheim 444
-Undenheim 2525
-Wirfus 207
-Wirft 155
-Wiersdorf 209
-Gutweiler 679
-Schmittweiler 252
-Schmitt 177
-Mittelstrimmig 432
-Altstrimmig 348
-Himmighofen 347
-Schweighofen 576
-Schweigen-Rechtenbach 1472
-Rech 580
-Lof 1519
+Dirmstein 3080
+Offstein 1891
+Wolfstein 2060
+Oberweiler-Tiefenbach 298
+Offenbach-Hundheim 1310
+Adenbach 191
+Hoffeld 338
 Peterswald-Loffelscheid 810
+Belg 167
 Wurrich 160
-Serrig 1580
-Wasserliesch 2265
-Sehlem 851
-Langsur 1634
+Altrich 1579
+Platten 894
+Mettendorf 1119
+Bausendorf 1339
+Kinderbeuern 1119
+Neuerburg 1545
+Niederburg 699
+Morsdorf 699
+Halsdorf 83
+Alsdorf 1765
 
-Trierweiler 3424
+Herdorf 7239
 
-Trier 100129
-Aach 1151
-
-Newel 2849
-Wellen 762
-Mandel 817
-Birlenbach 1587
-Orlenbach 225
-Morlen 588
-Morsbach 502
+Betzdorf 10560
 Fensdorf 442
 Onsdorf 151
 Seiwerath 151
-Leiwen 1460
-Michelbach 585
-Frankweiler 931
-Schankweiler 198
-Honerath 196
-Ohlweiler 338
-Siesbach 434
-Kerben 418
-Oberbettingen 717
-Wiltingen 1349
+Matzerath 54
+Watzerath 447
+Utzerath 204
+Lutzerath 1463
+Auderath 632
+Demerath 318
+Fisch 318
+Filz 91
+Kirsbach 91
+Morsbach 502
+Gebhardshain 1869
+Molzhain 616
+Dornholzhausen 214
+Kaltenholzhausen 613
+Holzhausen an der Haide 1291
+Oberhausen an der Appel 171
+Schweinschied 187
+Mutterschied 442
+Rockeskyll 288
+Dockendorf 197
+Nister Mohrendorf 331
+Peterslahr 331
+Lahr 181
+Kastel-Staadt 378
+
+Bernkastel-Kues 6880
+Graach 738
+Aach 1151
+
+Newel 2849
+Polich 379
+Budlich 198
+Berglicht 498
+Eulenberg 62
+Eulenbis 514
+Liebshausen 514
+Gorgeshausen 821
+Bruchertseifen 766
+Bruch 506
+Horbruch 362
+Freudenburg 1512
+Hinzenburg 133
+Osburg 2327
+Schlossbockelheim 395
+Waldbockelheim 2333
+Bockenau 1209
+Stein-Bockenheim 688
+Schweix 388
+Wirschweiler 384
+Kirschweiler 1169
+Westheim 1720
+Udenheim 1327
+Sosberg 200
+Kamp-Bornhofen 1632
+
+Dudenhofen 5709
+
+Westhofen 3268
+Singhofen 1895
+Eisighofen 245
+Dessighofen 182
+Endlichhofen 142
+
+Sprendlingen 4014
 Willingen 293
 Schillingen 1334
-Sefferweich 247
-Seffern 317
-Lunebach 573
-Schmalenberg 814
-Galenberg 221
-Volxheim 1056
-Siebeldingen 1056
-Siebenbach 205
-Liebenscheid 932
-Heilberscheid 687
-Zerf 1683
-Erfweiler 1250
-Trierscheid 60
-Kleinkarlbach 900
-Kleinich 741
-Hollnich 292
-Habscheid 569
-Griebelschied 201
-Wiebelsheim 498
-Zotzenheim 646
-Oberstadtfeld 646
-Niederstadtfeld 498
+Ingendorf 245
+Mogendorf 1204
 
-Otterstadt 3282
+Siershahn 2879
+Ebernhahn 1266
+Biebern 343
+Fronhofen 213
+Hanhofen 2304
 
-Schifferstadt 19209
+Neuhofen 7326
 
-Dannstadt-Schauernheim 7228
-Fussgonheim 2436
-Gonnheim 1478
-Flonheim 2618
+Limburgerhof 10753
+Grimburg 522
+Isenburg 673
+Gusenburg 1187
+Gonbach 519
+Schonbach 280
+Schonberg 238
+Unzenberg 449
+Rohl 449
+
+Burgbrohl 3332
+Brohl-Lutzing 2654
+
+Rheinbrohl 4017
+
+Linz am Rhein 6008
+
+Rheinbreitbach 4598
+Niederbreitbach 1459
+Waldbreitbach 1956
+Gutenberg 1001
+
+Eisenberg 10006
+Busenberg 1418
+Reichenberg 231
+Munchweiler am Klingbach 231
+
+Annweiler am Trifels 7316
+Albersweiler 1929
+Gossersweiler-Stein 1445
+Pleisweiler-Oberhofen 817
+Gleisweiler 530
+Schweisweiler 370
+Strotzbusch 370
+Weyerbusch 1456
+Mauschbach 270
+Ersfeld 55
+Flammersfeld 1068
+Dottesfeld 708
+Pintesfeld 41
+Pronsfeld 962
+Lierfeld 77
+Arzfeld 1276
+Herzfeld 42
+Leidenborn 167
+Daleiden 885
+Reipeldingen 87
+Winringen 68
+Fleringen 334
+Wincheringen 1499
+Baldringen 243
+Schomerich 138
+Gemmerich 580
+Hainau 189
+Pohl 377
+Obertiefenbach 382
+Niedertiefenbach 219
+Niederstedem 219
+Oberstedem 79
+Dorn-Durkheim 919
+
+Bad Durkheim 18698
+
+Wachenheim 4678
 Bechenheim 456
 Offenheim 602
 Schwanheim 602
-Schwall 328
-Wuschheim 328
-Moschheim 732
-Bannberscheid 636
-Staudt 999
-Meudt 1783
-Hartlingen 464
-Guckheim 895
-Guckingen 1041
+Flonheim 2618
+Sponheim 901
+Kinheim 828
+Franzenheim 331
+Hontheim 823
+Beltheim 2075
+Leimbach 79
+Oberheimbach 705
+Niederheimbach 813
+Oberdiebach 920
+Dorrebach 754
+Dorrenbach 1002
+Barenbach 546
+Erlenbach 733
+Orlenbach 225
+Birlenbach 1587
+Mandel 817
+Wellen 762
+Miellen 453
+Wierschem 323
+Dierscheid 166
+Sierscheid 104
+Reichsthal 104
+Reich 374
+Neuerkirch 285
 
-Gensingen 3355
+Kirchberg 3797
+Herschberg 936
+Meisburg 259
+Kyllburg 1054
+Kyllburgweiler 107
+Schutz 161
+Beilingen 375
+Freilingen 725
+Klingelbach 762
+Hinterweiler 229
+Hinterweidenthal 1727
+Bundenthal 1137
+Rinnthal 659
+Argenthal 1645
+Bergenhausen 128
+Walhausen 230
+Thalhausen 746
+Irrhausen 239
+Hausen 2009
+Horhausen 1908
+Anhausen 1324
+Ellenhausen 317
+Sessenhausen 922
+Busenhausen 351
+Lautzenhausen 351
+Metzenhausen 130
+Lollschied 205
+Griebelschied 201
+Meuspath 153
+Herchweiler 517
+Berschweiler 296
+Ferschweiler 851
+Kirchweiler 405
+Kollweiler 405
+Ellweiler 289
+Elchweiler 96
+Welchweiler 201
+Wilsecker 201
+Seck 1309
+Winnen 465
+Sonnenberg-Winnenberg 535
+Utscheid 535
+Plutscheid 319
+Struth 319
+Hundsdorf 417
+Hundsbach 396
+Kindsbach 2521
 
-Langenlonsheim 3673
-Lonsheim 606
-Monsheim 2624
-Wonsheim 903
+Landstuhl 8989
+Hauptstuhl 1325
 
-Wollstein 4516
-Beilstein 160
-Hilst 371
-Eppenbrunn 1530
+Hutschenhausen 4039
+Hettenhausen 264
+Kettenhausen 247
+Attenhausen 403
+Betteldorf 310
+Metterich 469
+Kotterichen 113
+Kaperich 195
+Korperich 1089
+Lautersheim 615
+Sinspelt 451
+Enspel 277
+Oberkirn 364
+Oberwies 188
+Oberwiesen 474
+Uelversheim 1162
+Rittersheim 202
+Gauersheim 651
+Ober-Florsheim 1187
+Framersheim 1682
 
-Pirmasens 43582
+Gau-Odernheim 3740
+Kongernheim 1398
+
+Zornheim 3559
+
+Klein-Winternheim 3485
+Wackernheim 2652
+Odernheim 1776
+Imsweiler 584
+Weiler 2712
+
+Weilerbach 4476
+Girod 1262
+Dickendorf 375
+Bickendorf 524
+Kickeshausen 36
+Echtershausen 115
+Altscheid 102
+Biersdorf 554
+Wiersdorf 209
+Leubsdorf 1724
+Hublingen 328
+Finkenbach-Gersweiler 328
+Welkenbach 144
+Schalkenbach 878
+Linkenbach 486
+Unkenbach 242
+Dennweiler-Frohnbach 293
+Kronweiler 363
+Kalt 516
+Mermuth 313
+Ollmuth 162
+Hummel 553
+Krummel 394
+Schuller 367
+Schuld 847
+Fuchshofen 108
+Antweiler 573
+Barweiler 484
+Elzweiler 162
+Otzweiler 227
+Katzweiler 1727
+Leitzweiler 127
+Maisborn 127
+Hasborn 571
+Hirten 312
+Heupelzen 312
+Selzen 1557
+Hahnheim 1619
+Hahn 542
+Altlay 515
+Altleiningen 1950
+Neuleiningen 883
+Leiningen 792
+Mauel 74
+Auel 233
+Bogel 792
+Kolverath 142
+Oelsberg 524
+Relsberg 214
+Godenroth 502
+Kemmenau 502
+Krummenau 141
+Horscheid 141
+Morscheid 891
+Waldrach 2015
 Kasel 1219
 Lasel 355
 Meerfeld 355
-Leitzweiler 127
-Otzweiler 227
-Katzweiler 1727
-Elzweiler 162
-Drees 162
-Deesen 672
-Seesbach 584
-Erdesbach 664
-Bedesbach 764
+Dierfeld 7
+Laufeld 497
+Laufersweiler 847
+Hefersweiler 501
+Lingerhahn 501
+Stein-Wingert 215
+Kuhnhofen 156
+Frohnhofen 600
+Obernhof 438
+Sommerloch 438
+Sommerau 77
+Immerath 263
+Meinborn 466
+Bretthausen 208
 
-Altenglan 3048
+Harthausen 3061
+
+Schwegenheim 2996
+Dungenheim 1362
+Senheim 606
+Nachtsheim 606
+Acht 106
+Willwerscheid 56
+Euscheid 162
+Ruscheid 786
+Ehlscheid 1237
+Bonefeld 1052
+Oberhonnefeld-Gierend 999
+Niederhofen 347
+Niederwambach 531
+Oberwambach 445
+Hambach 527
+Herl 261
+Burgsponheim 217
+Rhodt unter Rietburg 1088
+Winterborn 193
+Winterbach 554
+Biedershausen 283
+Rodershausen 202
+Mudershausen 491
+Ebertshausen 135
+Ergeshausen 148
+Kordorf 635
+Feusdorf 600
+Kasdorf 268
+Saxler 81
+Gillenfeld 1493
+Gillenbeuren 247
+Mullenbach 701
+Ewighausen 244
+Gerach 244
+Pracht 1562
+
+Hamm 3406
+Etzbach 1289
+Schutzbach 453
+Niederdreisbach 1003
+Waldleiningen 453
+Elkenroth 1900
+Nauroth 1183
+Hauroth 283
+Eisenach 283
+Echternacherbruck 546
+
+Andernach 29599
+Wassenach 1174
+Niederzissen 2791
+Oberzissen 1069
+Niederdurenbach 1056
+Oberdurenbach 628
+Dedenbach 426
+Heckenbach 247
+Ahrbruck 1228
+Brucken 2422
+Olsbrucken 1187
+Spabrucken 1218
+Borsborn 388
+Weitersborn 256
+Panzweiler 256
+Hesweiler 151
+Wiesweiler 484
+Riesweiler 716
+Holzbach 533
+Sulzbach 325
+Breitscheid 155
+Breitscheidt 1041
+Mertesheim 402
+Ilbesheim 1234
+Schurdt 248
+Kempfeld 850
+Leuterod 850
+Welterod 529
 Weltersburg 270
 Weitersburg 2152
-Wernersberg 1120
+Stadtkyll 1600
 Tawern 2345
-Wawern 610
-Ockfen 655
+Wernersberg 1120
+Niederkirchen 2067
+Niederalben 356
+Oberalben 270
+Albessen 130
+Ehweiler 206
+Rehweiler 462
+Nanzdietschweiler 1276
+Herschweiler-Pettersheim 1368
+Meddersheim 1368
+Gundersheim 1668
+Vendersheim 561
+Idesheim 390
+Valwig 430
+Niederschlettenbach 376
+Oberschlettenbach 135
+Pittenbach 108
+Bottenbach 746
+Vorderweidenthal 680
+Laubach 1073
+Harbach 578
+Arbach 156
+Oberfischbach 176
+Oberelz 176
+Bereborn 124
+Berenbach 180
+Horschhausen 177
+Beinhausen 83
+Kleinsteinhausen 875
+Martinstein 329
+Hausten 329
+Baustert 540
+Hisel 16
+Geiselberg 868
+Dalberg 249
+Malberg 625
+Riedelberg 515
+Nannhausen 515
+Bennhausen 138
 
-Saarburg 6222
-Nurburg 169
-Zehnhausen bei Wallmerod 169
-Nitz 45
-Ditscheid 251
-Altscheid 102
-Fischbach-Oberraden 58
-Niederraden 44
-Niedergeckler 42
-Obergeckler 170
-Uess 48
-Gefell 93
-Fell 2342
-Riol 1129
-
-Schweich 6533
-Kenn 2550
-Menningen 187
-Vinningen 1723
-Mertloch 1534
-Sommerloch 438
-Charlottenberg 161
-Dornberg 600
-Feusdorf 600
-Kordorf 635
-Hordt 2413
-
-Rulzheim 7917
-Sulzheim 1059
-Olzheim 533
-Ormont 378
-Hallschlag 597
-Steinbach 115
-Heistenbach 1145
-Hochstenbach 705
-Mauel 74
-Mammelzen 1056
-Lieg 431
-Barbelroth 598
-Maroth 257
-Neroth 973
-Steineroth 684
-Ruppertsecken 406
-Seck 1309
-Wilsecker 201
-Rodern 201
-Odernheim 1776
-Imsweiler 584
-Oberstreit 257
-Waldbockelheim 2333
-Bockenau 1209
-Henau 170
-
-Adenau 2995
-Kaden 655
-Brandscheid 519
-Landscheid 2067
+Rockenhausen 5744
+Schneckenhausen 639
+Erzenhausen 740
+Heinzenhausen 298
+Heinzenbach 432
+Heinzenberg 31
+Etteldorf 31
+Dudeldorf 1065
+Gindorf 308
+Mettweiler 324
 Musweiler 65
-Bergweiler 880
-Malbergweich 399
-Grossbundenbach 399
-Bodenbach 244
-Boden 575
-Brodenbach 698
-Brenk 204
-Bremm 853
-Obersulzen 520
-Ediger-Eller 1079
-Dohr 688
-Faid 1143
-Bruttig-Fankel 1208
-Ellenz-Poltersdorf 857
-Neuendorf 102
-Moritzheim 177
-Fehl-Ritzhausen 862
-Emmerzhausen 779
-Mauden 116
-Laudert 399
-Lautzenbrucken 364
-Lichtenborn 364
-Hentern 399
-Kleinmaischeid 1295
-Grossmaischeid 2503
-Nauort 2299
-Breitenau 732
+Grosslittgen 1033
+Minderlittgen 699
 Wittgert 624
 Hilgert 1448
 Hilgenroth 312
-Heupelzen 312
-Hasborn 571
-Hirten 312
-Partenheim 1581
-Jugenheim 1673
-
-Stadecken-Elsheim 4438
-Sorgenloch 1197
-Sorth 238
-Dorth 526
-Muhlpfad 69
-Bickenbach 341
-Mackenbach 2119
-Macken 346
-Gutenacker 415
-Gutenberg 1001
-Waldbreitbach 1956
-Niederbreitbach 1459
-Niederbachheim 273
-Oberbachheim 228
-Sauerthal 228
-Auel 233
-Nochern 545
-Sankt Goarshausen 1511
+Hergenroth 434
+Hungenroth 266
+Sargenroth 515
+Spall 153
+Gappenach 368
+Gau-Heppenheim 558
+Gamlen 558
+Sankt Thomas 320
 
 Sankt Goar 3083
-Weyer 513
-Weyerbusch 1456
-Mauschbach 270
-Orfgen 278
-Berzhausen 193
-Marzhausen 258
-Marienhausen 491
-Marienrachdorf 1024
-Freirachdorf 679
-Brachtendorf 271
-Roes 574
-Esch 561
-Teschenmoschel 115
-Heiligenmoschel 666
-Freilingen 725
-Ralingen 1997
-Kollweiler 405
-Schellweiler 538
-Leinsweiler 403
-Steffeln 685
-Pfeffelbach 1001
-Albessen 130
-Oberalben 270
-Niederalben 356
-Niederkirchen 2067
-Kottweiler-Schwanden 1435
-Lettweiler 242
-Mettweiler 324
-Battweiler 781
-Antweiler 573
-Dorsel 212
-Selters 2711
-Goddert 433
-Rodder 256
-Panzweiler 256
-Dunzweiler 949
-Meddersheim 1368
-Wahnwegen 728
-Steinwenden 2535
-Steinweiler 1843
-Impflingen 835
-Flemlingen 437
-Fleringen 334
-Lipporn 300
-Philippsheim 117
-Ippenschied 150
-Dickenschied 678
-Sohrschied 91
-Burdenbach 577
-Bobenthal 330
-Tiefenthal 848
-Glan-Munchweiler 1200
-Lohnsfeld 999
+Sankt Goarshausen 1511
+Lykershausen 218
+Reckershausen 402
+Niederweis 197
+Ruppertshofen 402
+Ruppertsberg 1416
+
+Deidesheim 3779
+Niederkirchen bei Deidesheim 2378
+Forst 840
+Herforst 1009
 Binsfeld 1110
-Theisbergstegen 681
-Steinsberg 276
+Orsfeld 161
+Balesfeld 214
+Kesfeld 102
+Seinsfeld 165
+Reinsfeld 2341
+Hinzert-Polert 277
+Ratzert 240
+Reiferscheid 389
+Rascheid 531
+Puderbach 2259
+Harschbach 446
+Merschbach 52
+Herschbroich 290
+Hutterscheid 211
+Longkamp 1182
+Longen 84
+Harspelt 84
+Winterspelt 826
+Mittelreidenbach 826
+Oberreidenbach 640
+Schmidthachenbach 413
+Sienhachenbach 230
+
+Hachenburg 5690
+Muschenbach 1057
+Mudenbach 831
+Spangdahlem 831
+Dahlem 235
+Preist 768
+Dreis 1355
+Dreisen 1027
+Talling 220
+Welling 904
+Trimbs 658
+
+Polch 6590
+Einig 147
+Maitzborn 147
+Buborn 164
+Bornheim 1302
+Essingen 2043
+Bobingen 669
+Altdorf 745
+
+Bendorf 17495
+Sankt Sebastian 2508
+Kaltenengers 1932
+
+Mengerskirchen 6116
+Oberrod 736
+Oberrossbach 381
+Niederrossbach 844
+Niedermoschel 583
+Obermoschel 1183
+Vielbach 588
+Selbach 829
+Quiddelbach 308
+Bengel 891
+Nortershausen 1145
+Uppershausen 84
+Trechtingshausen 1053
+Hochstenbach 705
+Berod bei Hochstenbach 626
+Neuhutten 831
+Hutten 54
+Huttingen 109
+Bettingen 1013
+Nasingen 43
+Koxhausen 106
+Schwarzenborn 52
+Muxerath 52
+Niedergeckler 42
+Niederraden 44
+Fischbach-Oberraden 58
+Oberraden 645
+Oberlahr 749
+Burglahr 538
+Eichen 616
+Walterschen 137
+Fluterschen 755
+Derschen 1086
+Manderscheid 1323
+Marienrachdorf 1024
+Marienhausen 491
+Volkesfeld 563
+Volkerzen 101
+Lutz 386
+Waldgrehweiler 261
+Gaugrehweiler 558
+Trimport 298
+Piesport 2001
+Rumbach 521
+Grumbach 539
+Raumbach 470
+Dorsdorf 409
+Udersdorf 1176
+Uhler 405
+Herbstmuhle 29
+Holsthum 544
+
+Gerolstein 7664
+Pelm 1047
+Hohenfels-Essingen 381
+Dockweiler 642
+Dreis-Bruck 925
+Oberehe-Stroheich 358
+Neichen 152
+Boxberg 190
+Zendscheid 152
+Landscheid 2067
+Brandscheid 519
+Kaden 655
+Kadenbach 1494
+Eitelborn 2558
+Esselborn 339
+Malborn 1408
+Burtscheid 121
+Bescheid 407
+Kescheid 140
+Hecken 140
+Dillendorf 604
+Dill 214
+Schwerbach 62
+Oberarnbach 440
+Hornbach 1717
+Althornbach 789
+Obernheim-Kirchenarnbach 1831
+Weselberg 1402
+Misselberg 100
+Homberg 327
+
+Stromberg 3221
+Caan 717
+Nauort 2299
+Alsbach 582
+
+Ransbach-Baumbach 7327
+
+Waldfischbach-Burgalben 5111
+
+Rodalben 7638
+
+Munchweiler an der Rodalbe 3040
+Hoheischweiler 1018
+Nunschweiler 827
+Rimschweiler 1930
+Rieschweiler-Muhlbach 2201
+
+Thaleischweiler-Froschen 3515
+Massweiler 1158
+Reifenberg 840
+Maxsain 1158
+Dellfeld 1472
+Monzelfeld 1301
+Osann-Monzel 1655
+Brauneberg 1173
 Steineberg 252
 Starkenburg 252
 Luckenburg 97
 Luckenbach 636
+Atzelgift 638
+Budesheim 638
+Erbes-Budesheim 1385
+Dintesheim 152
+Flomborn 1045
+Hochborn 447
+Rehborn 790
+Rehbach 36
+Allenfeld 205
+
+Lingenfeld 5433
+Langenfeld 761
+Saalstadt 359
+Kallstadt 1148
+Ellerstadt 2304
+
+Mutterstadt 12383
+
+Schifferstadt 19209
+
+Otterstadt 3282
+
+Lustadt 3291
+Hochstadt 2461
+
+Neustadt 53984
+Lindenberg 1178
+
+Lambrecht 3991
+Brecht 256
+Rech 580
+Lof 1519
+Schwall 328
+Wuschheim 328
+Moschheim 732
+Bischheim 747
+
+Kirchheimbolanden 8006
+Bolanden 2412
+Standenbuhl 220
+Hatzenbuhl 2693
+Kratzenburg 412
+Ney 371
+Morshausen 368
+Dommershausen 1155
+Gondershausen 1332
+
+Emmelshausen 4889
+Dauwelshausen 89
+Keppeshausen 25
+Gemund 24
+Gemunden 1323
+Gunderath 111
+Kludenbach 111
+Budenbach 193
+Orfgen 278
+Berzhausen 193
+Emmerzhausen 779
+Fehl-Ritzhausen 862
+Hof 1284
+Wallendorf 381
+Bollendorf 1552
+Peffingen 212
+Kaschenbach 49
+Welschenbach 56
+Bubach 295
+Raubach 1944
+
+Braubach 3192
+Brey 1596
+Spay 2056
+Osterspai 1351
+Filsen 602
+Kanzem 602
+
+Boppard 16215
+Kroppach 668
+Marzhausen 258
+Astert 259
+Hattert 1767
+Bruchweiler-Barenbach 1767
+Bruchweiler 550
+Dickenschied 678
+Sien 611
+
+Queidersbach 2834
+
+Mudersbach 6358
+Brachbach 2458
+
+Niederfischbach 5035
+
+Kirchen 9342
+Grunebach 574
+Lunebach 573
+Schmalenberg 814
+Galenberg 221
+Volxheim 1056
+Roxheim 2375
+Norheim 1438
+Traisen 557
+Huffelsheim 1305
+Weinsheim 1893
+
+Langenlonsheim 3673
+
+Gensingen 3355
+Russingen 508
+Ravengiersburg 508
+Greimersburg 739
+Faid 1143
+Dohr 688
+Ediger-Eller 1079
+Ellenz-Poltersdorf 857
+Rittersdorf 1307
+Gonnersdorf 650
+Waldorf 948
+Kirchwald 1043
+Munchwald 297
+Argenschwang 385
+Ensch 457
+Thornich 178
+Bornich 1093
+Beuren 992
+Lotzbeuren 484
+Schauren 547
+Anschau 284
+Schalkenmehren 606
+Mehren 1385
+Forstmehren 163
+Nehren 102
+Neuendorf 102
+Briedern 360
+Briedel 1058
+Reil 1126
+Punderich 953
+Alf 923
+Bullay 1531
+Neef 520
+Obersulzen 520
+Hohen-Sulzen 582
+Herren-Sulzbach 174
+Molsheim 604
+Rosenkopf 329
 Rosenheim 757
 Bassenheim 2787
-Saffig 2184
-Affler 30
-Huffler 591
-Herschweiler-Pettersheim 1368
-Rittersheim 202
-Gauersheim 651
-Wurzweiler 202
-Nerzweiler 134
-Lorzweiler 2085
-Korweiler 79
-Beltheim 2075
-Einselthum 864
-Stetten 644
-Hochstetten-Dhaun 1648
-Hochstberg 410
-Hochscheid 255
-Schweighausen 260
-Ewighausen 244
-Berghausen 328
+
+Mulheim-Karlich 10451
+Dieblich 2481
+
+Kobern-Gondorf 3306
+Gondorf 301
+Lissendorf 1130
+Hochstatten 698
 Sankt Johann 949
 Sankt Julian 1260
 Deimberg 99
-Dodenburg 99
+Ramberg 1018
+Nister 1018
+Nisterberg 449
 
-Hachenburg 5690
-Laurenburg 326
+Otterberg 5215
 
-Birkenfeld 6947
-Birkenbeul 492
-Ettinghausen 329
-Zettingen 258
-Sturzelbach 258
-Reiffelbach 262
-Reiff 57
-Wimbach 475
-Krunkel 671
-
-Unkel 4938
-Bruchhausen 929
-Kasbach-Ohlenberg 1406
+Otterbach 4087
+Oberotterbach 1275
+Burgen 828
+Kirburg 628
+Nurburg 169
+Zehnhausen bei Wallmerod 169
+Brucktal 95
+Mosbruch 170
+Obergeckler 170
+Weiden 97
+Weidenthal 2018
+Neidenfels 979
 Ockenfels 1101
 Freckenfeld 1597
 Minfeld 1637
 Steinfeld 1998
-Udler 312
-Nerdlen 223
-Darscheid 865
+Darstein 224
 
-Daun 8523
-Dausenau 1353
-Dachsenhausen 1059
-Becheln 658
-Frucht 609
-Nievern 982
-Gevenich 709
-Liesenich 361
-Montenich 154
-Pillig 501
-Naunheim 428
-Unnau 1932
-Alpenrod 1664
-Hettenrodt 729
-Veitsrodt 727
+Hauenstein 4148
+Falkenstein 236
+Waldhof-Falkenstein 44
+Frankenstein 1108
+Elmstein 2786
+Esthal 1567
+Thalfang 1779
+Etgert 62
+Ubereisenbach 59
 Rorodt 59
 Borod 591
 Ingelbach 591
-Neuhutten 831
-Hutten 54
-Hutterscheid 211
-Hefersweiler 501
-Lingerhahn 501
-Longkamp 1182
-Dambach 156
-Kleinlangenfeld 156
-Stein-Wingert 215
-Kuhnhofen 156
-Ruckeroth 494
-Olsbrucken 1187
-Ober-Florsheim 1187
-Flomborn 1045
-Hochborn 447
-Dittelsheim-Hessloch 2171
-Dintesheim 152
-Immesheim 150
-Mutzenich 132
-Grosslangenfeld 150
-Grosslittgen 1033
-Minderlittgen 699
+Seelbach 470
+Callbach 395
+Lollbach 243
+Sankt Aldegund 688
+Sankt Alban 363
+Wirfus 207
+Weidingen 207
+Kliding 223
 
-Wittlich 17887
-Altrich 1579
-Platten 894
-Osann-Monzel 1655
-Monzelfeld 1301
+Kaisersesch 3001
 
-Bernkastel-Kues 6880
-Kastel-Staadt 378
-
-Kastellaun 5285
-Braunshorn 604
-Brauneberg 1173
-Rothenbach 921
-Veldenz 939
-Gornhausen 209
-Graach 738
-Kraam 189
-Kradenbach 146
-Ernzen 435
-Laubenheim 844
-Waldlaubersheim 804
-
-Waldalgesheim 3676
-Welgesheim 596
-
-Gau-Algesheim 6553
-Dolgesheim 967
-
-Guntersblum 3702
-Gundheim 985
-Morstadt 943
-
-Osthofen 8758
-Kashofen 747
-Arnshofen 154
-Wolken 1093
-Volkerzen 101
-Hallgarten 727
-Hargarten 92
-Dackscheid 160
-Strickscheid 37
-Masthorn 73
-Thornich 178
-Ensch 457
-Gleisweiler 530
-Schweisweiler 370
-Strotzbusch 370
-
-Stromberg 3221
-Caan 717
-Sankt Sebastian 2508
-
-Vallendar 8959
-
-Urbar 3152
-Burbach 620
-Nimshuscheid 283
-Nimsreuland 116
+Kaiserslautern 98732
+Lautert 264
+Kellenbach 264
+Krautscheid 264
+Wallhalben 875
+Wallhausen 1617
+Eckenroth 233
+Reckenroth 191
+Berndroth 411
+Mittelfischbach 131
+Morschbach 350
+Benzweiler 228
+Rayerschied 123
+Bisterschied 283
+Kleinbundenbach 441
+Bundenbach 1012
+Grossbundenbach 399
+Bodenbach 244
+Wiesbaum 600
+Lautzenbrucken 364
+Lichtenborn 364
+Thallichtenberg 593
+Reitzenhain 362
+Rotenhain 572
+Pfalzfeld 572
+Eckfeld 359
+Virneburg 427
+Erpolzheim 1208
+Olzheim 533
+Gondenbrett 503
+Frettenheim 334
+Giesenhausen 334
+Giesdorf 136
+Niederlauch 53
+Oberlauch 67
 Dingdorf 94
-Feuerscheid 349
-Oberpierscheid 385
-Niederpierscheid 50
-Lauperath 118
-Hupperath 596
-Plein 665
-Pleisweiler-Oberhofen 817
-Gossersweiler-Stein 1445
-Silz 820
-Gilzem 405
-Kanzem 602
+Siebeldingen 1056
+Siebenbach 205
+Knoringen 488
+Herresbach 488
+Oberworresbach 163
+Niederworresbach 993
+Dickesbach 463
+Kerpen 463
 
-Kandel 8385
-Manderscheid 1323
-Kaub 1024
-Hubingen 552
-Hambuch 683
-Gau-Weinheim 683
-Bornich 1093
-Gleiszellen-Gleishorbach 847
-Laufersweiler 847
-Vorderweidenthal 680
-Bottenbach 746
-Jettenbach 884
-Reichenbach-Steegen 1474
-Kreimbach-Kaulbach 971
-Limbach 379
-Dimbach 187
-Hohenleimbach 370
-Arft 295
-Scharfbillig 68
-Longen 84
-Longuich 1233
-Beulich 528
-Eulenberg 62
-Eulenbis 514
-Orbis 745
-Bissersheim 465
-Abentheuer 465
-Achtelsbach 525
+Kirn 8762
+Hochstetten-Dhaun 1648
+Stetten 644
+Albisheim 1717
+Hangen-Weisheim 513
+Aspisheim 973
+Ober-Hilbersheim 990
+Nieder-Hilbersheim 627
+
+Nieder-Olm 8511
+
+Ober-Olm 4133
+
+Ober-Saulheim 7325
+Gau-Bickelheim 2122
+Wallertheim 1826
+Wallersheim 753
+Gehlweiler 254
+Lorscheid 623
+Konigsfeld 623
+Konigsau 69
+Schwarzerden 243
+Seesbach 584
+Siesbach 434
+Kerben 418
+Wahlbach 173
+Spesenroth 166
+Spessart 781
+Heckhuscheid 153
+Nimshuscheid 283
+Burbach 620
+Urbach-Uberdorf 1577
+Lohnsfeld 999
+Glan-Munchweiler 1200
+Tiefenthal 848
+Tiefenbach 793
+Diefenbach 83
+Flussbach 475
+Nussbach 643
+Nussbaum 491
+Nusbaum 458
+Enzen 49
+Helmenzen 788
+Korlingen 788
+Thorlingen 146
+Wolferlingen 569
+Landkern 853
+Moselkern 705
+Muden 689
+Mauden 116
+Heuchelheim bei Frankenthal 1198
+
+Frankenthal 47438
+Frankeneck 879
+Langweiler 279
+Schellweiler 538
+Niederfell 1091
+Oberfell 1165
+Alken 687
+Lehmen 1470
+Winningen 2457
+Binningen 691
+Dunfus 294
+Brachtendorf 271
+Kaifenheim 833
+Roes 574
+Montenich 154
+Naunheim 428
+Gierschnach 302
+Hirz-Maulsbach 302
 Melsbach 2139
 Rammelsbach 1783
-Schwedelbach 1119
-Steinalben 460
+Achtelsbach 525
+Bissersheim 465
+Abentheuer 465
+Bobenthal 330
+Schweppenhausen 890
+Wagenhausen 57
+Reiff 57
+Reiffelbach 262
+Pfeffelbach 1001
+Wartenberg-Rohrbach 565
+Eckersweiler 159
+Volkersweiler 661
+Weitersweiler 490
+Weitersbach 85
+Warmsroth 426
+Hanroth 685
+Riegenroth 199
+Pleizenhausen 247
+Sefferweich 247
+Seffern 317
+Steffeln 685
+Leinsweiler 403
+Sensweiler 553
+Weinolsheim 714
+Mannebach 345
+Reipoltskirchen 418
+Rettershain 349
+Rettert 496
+Hohfroschen 977
+Kumbdchen 493
+Monzernheim 633
+Staudernheim 1601
+Kolbingen 1129
+Feilbingert 1739
+Altenbamberg 753
+Neu-Bamberg 936
+Frei-Laubersheim 1039
+Siefersheim 1287
+Pleitersheim 361
+Pfaffen-Schwabenheim 1310
+Laubenheim 844
+Ernzen 435
+Kradenbach 146
+Lirstal 262
+Morstadt 943
+Gundheim 985
+Gundersweiler 568
+Sessenbach 548
+Wasenbach 359
+Halsenbach 1301
+
+Enkenbach-Alsenborn 7189
+Steinbach am Donnersberg 828
+
+Carlsberg 3536
+Ramsen 1863
+
+Ramstein-Miesenbach 8078
+Steinwenden 2535
+Steinweiler 1843
+
+Billigheim-Ingenheim 4038
+Heuchelheim-Klingen 913
+Klingenmunster 2432
+Impflingen 835
+Flemlingen 437
+Grossfischlingen 691
+Kleinfischlingen 306
+Geichlingen 360
+Zweifelscheid 44
+Hillscheid 2691
+Neuhausel 2081
+
+Kusel 5134
+Haschbach am Remigiusberg 731
+Fockelberg 400
+Rothselberg 726
+Rutsweiler an der Lauter 390
+Lauterecken 2292
+Cronenberg 172
+
+Schonenberg-Kubelberg 5957
+Dittweiler 929
+Dunzweiler 949
+Hinzweiler 426
+Merzweiler 212
+Hergersweiler 212
+Dorsel 212
+Dankerath 105
+Bauler 45
+
+Adenau 2995
+Henau 170
+Gerhardsbrunn 170
+Mittelbrunn 731
+Mittelhof 1130
+Scheuerfeld 2166
+Katzwinkel 2005
+Winkel 179
+Ludwigswinkel 907
+Wiesemscheid 282
+Dienethal 278
+Diethardt 311
+Kuhardt 1927
+Ehr 80
+Ruber 877
+Vollmersweiler 221
+Jakobsweiler 236
+Norath 445
+Winnerath 201
+Honerath 196
+Ohlweiler 338
+Schankweiler 198
+Stahlberg 198
+Stahlhofen 369
+Kashofen 747
+Wershofen 902
+
+Sohren 3551
+Fohren 2649
+Bitzen 829
+Bekond 829
+Klusserath 1099
+Herborn 530
+Kappel 530
+Kappeln 175
+Holzappel 1106
+Geilnau 382
+Lohnweiler 500
+Balduinstein 578
+
+Lahnstein 18749
+Hattgenstein 266
+Salz 963
+Salzburg 238
+Sorth 238
+Dorth 526
+Medard 526
+Muhlpfad 69
+Bickenbach 341
+Krickenbach 1188
+Schopp 1520
+Hoppstadten 343
+Borrstadt 964
+Kraam 189
+Ruppertsecken 406
+Steineroth 684
+Steinefrenz 753
+Gau-Bischofsheim 1977
+Willroth 821
+Roth 1554
+
+Zell 4402
+Gleiszellen-Gleishorbach 847
+
+Morbach 11149
+Deuselbach 288
+Isselbach 402
+Kisselbach 598
+Hasselbach 297
+Wahlheim 579
+Wahlenau 210
+Wahlrod 883
+Bobenheim am Berg 848
+
+Herxheim am Berg 10424
+Kirchheim an der Weinstrasse 1734
+Trassem 1178
+Liessem 97
+Fliessem 684
+Breit 270
+Breitenau 732
+Breitenheim 443
+
+Meisenheim 2887
+Desloch 409
+
+Hassloch 20779
+
+Bohl-Iggelheim 10797
 
 Ingelheim am Rhein 24998
 
@@ -1924,422 +1582,764 @@ Bingen am Rhein 24657
 
 Ludwigshafen am Rhein 163196
 
-Waldsee 5384
-Seelen 171
-Glees 564
-Lirstal 262
-Nister Mohrendorf 331
-Gundersweiler 568
-Gunderath 111
-Kludenbach 111
-Ulmet 799
+Altrip 7802
 
-Ulmen 3265
-Sulm 486
-Stockhausen-Illfurth 486
-Stockem 76
-Stockum-Puschen 722
-Ailertchen 653
-Derschen 1086
-Heuchelheim bei Frankenthal 1198
+Trippstadt 3085
+Stelzenberg 1291
+Heltersberg 2214
+Hermersberg 1738
+Patersberg 431
+Buchenbeuren 1647
+Raversbeuren 177
+Heuzert 151
+Moritzheim 177
+Holzheim 913
+Illerich 758
+Sellerich 342
+Buchet 264
+Buchel 1143
+Buch 943
+Zettingen 258
+Sturzelbach 258
+Hohenollen 372
+Einollen 502
+Luxem 298
+Welcherath 134
+Nerzweiler 134
+Lorzweiler 2085
+Wurzweiler 202
+Marnheim 1642
+Quirnheim 724
 
-Daaden 4499
-Friedewald 1198
-Waldleiningen 453
-Weitefeld 2451
-Neunkhausen 1148
-Vielbach 588
-Deuselbach 288
-Heilbach 129
-Woppenroth 300
-Oberofflingen 300
-Niederofflingen 471
-Womrath 222
-Muckeln 222
-Jucken 178
-Emmelbaum 67
-Berkoth 97
-Oberkirn 364
-Kirf 728
-Pomster 195
-Pommern 484
-Sommerau 77
-Schlossbockelheim 395
-Farschweiler 745
-Nothweiler 180
-Hirschthal 114
+Grunstadt 13424
 
-Dahn 4994
-Dahnen 358
-Tellig 311
-Knopp-Labach 471
-Oppertshausen 125
-Reuth 224
-Mermuth 313
-Ollmuth 162
-Hummel 553
-Fuchshofen 108
-Schuld 847
-Dumpelfeld 694
-Dellfeld 1472
-
-Contwig 5029
-
-Zweibrucken 35221
-Dietrichingen 357
-Grosssteinhausen 644
-Grossseifen 577
-Gackenbach 572
-Jeckenbach 281
-Unterjeckenbach 105
-Hintertiefenbach 427
-Volkesfeld 563
-Meckel 373
-Kowerich 325
-Mackenrodt 472
-Wickenrodt 158
-Landkern 853
-Wolferlingen 569
-Korlingen 788
-Thorlingen 146
-Oberarnbach 440
-Niedersohren 440
-Weitersborn 256
-Densborn 601
-Birresborn 1299
-Kalenborn-Scheuern 490
-Kalenborn 715
-
-Rheinbollen 4218
-Dichtelbach 715
-Walhausen 230
-Schnorbach 230
-Karbach 544
-Herbstmuhle 29
-Holsthum 544
-Marienfels 348
-Halbs 361
-Malberg 625
-Ernst 625
-Mastershausen 1202
-Winden 1054
-Rettert 496
-Rettershain 349
-Reipoltskirchen 418
-Kircheib 555
-Dielkirchen 594
-Urschmitt 276
-Eisenschmitt 333
-Gransdorf 324
-Gehrweiler 333
-Wehr 1152
-Borler 91
-Auw 677
-Otzingen 1363
-Monzingen 1823
-
-Sinzig 17880
-Urzig 914
-Zeltingen-Rachtig 2321
-Maring-Noviand 1518
-
-Traben-Trarbach 6018
-Traisen 557
-
-Bad Kreuznach 43213
-
-Bad Ems 9735
-Badem 1135
-Nattenheim 489
-Trittenheim 1146
-Neumagen-Dhron 2355
-Minheim 521
-Klausen 1335
-Clausen 1626
-Donsieders 994
-Maxsain 1158
+Dannstadt-Schauernheim 7228
+Fussgonheim 2436
 
 Maxdorf 6882
 
 Freinsheim 4989
-Freisbach 1040
-Weingarten 1532
+Grosskarlbach 1157
+Kleinkarlbach 900
+Schoden 722
+Prumzurlay 567
 
-Harthausen 3061
+Prum 5471
+Schonecken 1625
+Dhronecken 145
+Grafendhron 109
+Neumagen-Dhron 2355
+Minheim 521
+Gau-Weinheim 683
+Hubingen 552
+Hambuch 683
+Kaub 1024
+Hochscheid 255
+Schweighausen 260
+Schweighofen 576
+Schweigen-Rechtenbach 1472
 
-Schwegenheim 2996
-Altdorf 745
-Grossfischlingen 691
+Bad Bergzabern 7641
+Bad Bertrich 960
+Niederscheidweiler 254
+Oberscheidweiler 204
+Heidweiler 190
+Rodern 201
 
-Offenbach an der Queich 6097
+Rodersheim-Gronau 2903
 
-Landau in der Pfalz 41612
+Hochdorf-Assenheim 3041
+Friesenheim 647
+Friesenhagen 1692
+Birken-Honigsessen 2678
 
-Landstuhl 8989
-Hauptstuhl 1325
-Lambsborn 753
+Wissen 8547
+Furthen 1276
+Stockhausen-Illfurth 486
+Bleckhausen 331
+Pleckhausen 785
+Masburg 1037
+Matzenbach 700
+Kirf 728
+Steiningen 193
+Ellern 872
+Hellertshausen 193
+Stipshausen 970
+Rhaunen 2287
+Schwarzen 146
+Burgschwalbach 1142
+
+Hahnstatten 2900
+
+Nastatten 4310
+Nattenheim 489
+Kottenheim 2780
+Thur 1450
+
+Mendig 8813
+Altendiez 2332
+
+Diez 10822
+Aull 477
+Guckingen 1041
+Heistenbach 1145
+Niedererbach 1026
+Niederelbert 1642
+Oberelbert 1072
+Daubach 481
+Holler 1191
+Hollnich 292
+Kleinich 741
 Lambertsberg 356
-Erden 379
-Kundert 284
-Mundersbach 806
+Habscheid 569
+Roscheid 68
+Sengerich 17
+Kowerich 325
+Meckel 373
+Unterjeckenbach 105
+Jeckenbach 281
+Wissmannsdorf 812
+Hunzel 281
+Isert 204
+Woldert 695
 
-Mudersbach 6358
-Muden 689
-Reudelsterz 422
-Rimsberg 129
-Nohen 422
-Hoheinod 1253
-Bretzenheim 2455
-Geisfeld 563
-Taben-Rodt 912
+Baumholder 4106
+Fohren-Linden 344
+Berglangenbach 488
+Langenbach 487
+Langenbach bei Marienberg 1052
+Langenhahn 1454
+Hellenhahn-Schellenberg 1315
+Obererbach 583
+
+Rennerod 3891
+Waigandshain 218
+Rehe 1013
+Pottum 1033
+
+Hohn 3238
+Birkenhordt 653
+Norken 1000
+
+Birkenfeld 6947
+Heisdorf 109
+Heilbach 129
+Heilberscheid 687
+Zerf 1683
+Kurtscheid 955
+Ditscheid 251
+Kammerforst 251
+
+Maikammer 4066
+Sankt Martin 1872
+
+Edenkoben 6668
+Rieden 1307
+Brieden 135
+Pommern 484
+
+Simmern 7979
+Simmertal 2009
+Brauweiler 70
+Abtweiler 256
+Lettweiler 242
+Rodelhausen 172
+Schwirzheim 439
+Sulzheim 1059
+
+Rulzheim 7917
+Hordt 2413
+
+Bellheim 8494
+Bell 1534
+
+Mayen 19414
+Kehrig 1139
+Mehring 2171
+Detzem 530
+Hetzerath 2005
 Steimel 1349
 Leimen 993
-Greimersburg 739
-
-Cochem 5215
-Klotten 1401
-Eulgem 223
-Gemund 24
-Gemunden 1323
-Munk 272
-Junkerath 1799
-Dankerath 105
-Zendscheid 152
-Boxberg 190
-Bolsberg 300
-
-Carlsberg 3536
+Merzalben 1272
+Clausen 1626
+Klausen 1335
+Salmtal 2316
+Salm 373
+Sarmersbach 188
+Urmersbach 493
+Niersbach 681
+Theisbergstegen 681
 Basberg 68
 Birgel 510
 Lampaden 549
-Grosskampenberg 161
-Holzappel 1106
-Geilnau 382
-Lohnweiler 500
-Balduinstein 578
+Junkerath 1799
+Esch 561
+Teschenmoschel 115
+Heiligenmoschel 666
+Heiligenroth 1435
+Kottweiler-Schwanden 1435
+Battweiler 781
+Mertesdorf 1658
+Leutesdorf 1894
+Rengsdorf 2671
+Hardert 843
+Niedert 132
+Grosslangenfeld 150
+Ippenschied 150
+Lindenschied 238
+Schneppenbach 221
+Knopp-Labach 471
+Tellig 311
 
-Lahnstein 18749
+Kastellaun 5285
+Korweiler 79
+Horrweiler 799
+Hirschhorn 799
+Irsch 2400
+Farschweiler 745
+Fell 2342
+Riol 1129
 
-Hahnstatten 2900
-Burgschwalbach 1142
+Schweich 6533
+Kenn 2550
+
+Trier 100129
+
+Trierweiler 3424
+Igel 2003
+Wasserliesch 2265
+Sehlem 851
+Langsur 1634
+Langscheid 95
+Konken 792
+Blankenrath 1812
+Reidenhausen 211
+Weidenhahn 542
+Idenheim 444
+Gilzem 405
+Palzem 1269
+
+Alzey 18241
+Albig 1672
+Biebelnheim 704
+Bechtolsheim 1489
+Bechtheim 1876
+
+Osthofen 8758
+Orenhofen 1326
+
+Zemmer 2900
+Temmels 649
+Oberbillig 851
+Welschbillig 2606
+Scharfbillig 68
+Bacharach 2105
+Freirachdorf 679
+Halbs 361
+Marienfels 348
+Hartenfels 871
+Bettenfeld 741
+Deudesfeld 396
+Eisenschmitt 333
+Urschmitt 276
+Kopp 197
+Steinsberg 276
+Himmighofen 347
+Kretz 783
+Bretzenheim 2455
+Hoheinod 1253
+Gocklingen 972
+Wolsfeld 801
+Venningen 956
+Menningen 187
+Vinningen 1723
+Kroppen 771
+Woppenroth 300
+Oberofflingen 300
+Niederofflingen 471
+Womrath 222
+Prath 327
+Dahlheim 935
+Mulheim 921
+Lieser 1185
+Rothenbach 921
+Veldenz 939
+Dreifelden 314
+Schenkelberg 692
+Stockum-Puschen 722
+Stockem 76
+Rotsweiler-Nockenthal 525
+Hettenrodt 729
+Veitsrodt 727
+Mackenrodt 472
+Ayl 1479
+Quirnbach 527
+Birnbach 642
+Dernbach 2537
+
+Wirges 5201
+Staudt 999
+Bannberscheid 636
+Boden 575
+Niederahr 862
+Oberahr 587
+Meudt 1783
+Hartlingen 464
+Guckheim 895
+Kesseling 637
+Lug 637
+Berzhahn 495
+Girkenroth 637
+Todenroth 93
+Brodenbach 698
+Brenk 204
+Kundert 284
+Sulm 486
+Langenthal 97
+Breitenthal 328
+Berghausen 328
+Ettinghausen 329
+Birkenbeul 492
+Beulich 528
+
+Wittlich 17887
+Hupperath 596
+Gipperath 263
+Oppertshausen 125
+Schmitshausen 448
+Steinbach 115
+Herrstein 1000
+Kriegsfeld 1111
+Uersfeld 717
+Oberbettingen 717
+Wiltingen 1349
+Zeltingen-Rachtig 2321
+Maring-Noviand 1518
+Urzig 914
+
+Traben-Trarbach 6018
+Enkirch 1662
+
+Altenkirchen 6385
+Bachenberg 127
+Korborn 351
+Scheitenkorb 25
+Gelenberg 89
+Affler 30
+Huffler 591
+Wahnwegen 728
+Reichenbach-Steegen 1474
+Niederstaufenbach 290
+Oberstaufenbach 272
+Lind 47
+Boos 643
+Nitz 45
+Drees 162
+Munk 272
+Bermel 419
+
+Hermeskeil 5710
+Damflos 695
+Brockscheid 216
+Dackscheid 160
+Strickscheid 37
+Masthorn 73
+Horn 372
+Breunigweiler 422
+Bergweiler 880
+Malbergweich 399
+Laudert 399
+Kleinmaischeid 1295
+Grossmaischeid 2503
+Preischeid 168
+Bleialf 1179
+Schmissberg 236
+Wintrich 941
+Dietrichingen 357
+Grosssteinhausen 644
+Grossseifen 577
+Gackenbach 572
+Mackenbach 2119
+Leiwen 1460
+Michelbach 585
+Frankweiler 931
+Ruckweiler 447
+Hockweiler 198
+Weyer 513
+Kapsweyer 1021
+Trulben 1338
+Steinalben 460
+Horschbach 285
+Ranschbach 687
+Gosenroth 301
+Kail 301
+Oberkail 609
+Berkoth 97
+Lauperath 118
+Waxweiler 1128
+Daxweiler 868
+Seibersbach 1457
+Herxheim 754
+Merxheim 1514
+Herxheimweyher 468
+Harxheim 2025
+
+Worth am Rhein 17272
+
+Rheinzabern 4620
+
+Jockgrim 6970
+
+Kandel 8385
+Mandern 947
+Waldweiler 924
+Heddert 271
+Goddert 433
+Selters 2711
+Deesen 672
+
+Dierdorf 6023
+
+Lachen-Speyerdorf 5470
+
+Speyer 50343
+
+Hochspeyer 4877
+Sembach 1199
+Neuhemsbach 828
+Imsbach 1049
+Sippersfeld 1217
+Morsfeld 536
+Furfeld 1553
+Nordhofen 536
+Nieder-Wiesen 653
+Nack 621
+Gutenacker 415
+Macken 346
+Weinahr 482
+Lutzkampen 392
+Kempenich 1903
+Hohenleimbach 370
+Arft 295
+Weibern 1585
+
+Zweibrucken 35221
+
+Contwig 5029
+Lambsborn 753
+
+Bruchmuhlbach-Miesau 7800
+Bruchhausen 929
+
+Sinzig 17880
+
+Bad Breisig 8959
+
+Bad Honningen 5772
+Lonnig 1170
+Gerolsheim 1684
+Erfweiler 1250
+Trierscheid 60
+Taben-Rodt 912
+Geisfeld 563
+Krov 2318
+Hemmelzen 219
+Mammelzen 1056
+Lieg 431
+Barbelroth 598
+Maroth 257
+Streithausen 600
+Oberstreit 257
+Obersimten 679
+Schonau 461
+Schonborn 725
+Biebrich 372
+Grenderich 431
+Bongard 273
+Hentern 399
+Mauchenheim 983
+Auw 677
+Otzingen 1363
+Monzingen 1823
+Belgweiler 205
+Krahenberg 171
+Schoneberg 661
+Mayschoss 971
+Dannenfels 971
+Hergenfeld 454
+Kleinlangenfeld 156
+Dambach 156
+Ruckeroth 494
+Brimingen 74
+Herold 499
+Hirschfeld 342
+Eschfeld 175
+Hainfeld 686
+Weyher 570
+Burrweiler 898
+Kirrweiler 2034
+Gehrweiler 333
+Reifferscheid 609
+Gransdorf 324
+Walsdorf 876
+Dohm-Lammersdorf 185
+Berndorf 547
+Oberndorf 255
+Sitters 130
+Sonnschied 130
 Lauschied 613
 Lohrheim 581
 Niederneisen 1462
 Flacht 1189
 Merzkirchen 613
-Schonborn 725
-Schwarzenborn 52
-Koxhausen 106
-Gelenberg 89
-Scheitenkorb 25
-Dasburg 273
-Masburg 1037
-Hontheim 823
-Woldert 695
-Bilkheim 472
-Ayl 1479
-Hausbay 211
-Valwig 430
-Wintrich 941
-Schmissberg 236
-Misselberg 100
-
-Nassau 5015
-Homberg 327
-Arzbach 1874
-Neuhausel 2081
-
-Kusel 5134
-Haschbach am Remigiusberg 731
-Steinbach am Donnersberg 828
-Sippersfeld 1217
-Morsfeld 536
-Munsterappel 535
-Furfeld 1553
-Gumbsheim 540
-Pfaffen-Schwabenheim 1310
-
-Sprendlingen 4014
-Aspisheim 973
-
-Koblenz 107319
-
-Hohr-Grenzhausen 9794
-Horhausen 1908
-Irrhausen 239
-Hublingen 328
-Finkenbach-Gersweiler 328
-Leubsdorf 1724
-Heisdorf 109
-Brockscheid 216
-Racksen 163
-Nack 621
-Erbes-Budesheim 1385
-Framersheim 1682
-
-Kaiserslautern 98732
-
-Hochspeyer 4877
-
-Enkenbach-Alsenborn 7189
-Neidenfels 979
-Dannenfels 971
-Hartenfels 871
-Schenkelberg 692
-Berod bei Hochstenbach 626
-Rascheid 531
-Oberlascheid 140
-Stein-Neukirch 490
-Gieleroth 709
-Hatzenport 673
-
-Queidersbach 2834
-Oberreidenbach 640
-Mittelreidenbach 826
-Schmidthachenbach 413
-Dickesbach 463
-Waldhambach 369
-Ohmbach 864
-Monreal 864
-Winterburg 226
-Kehrig 1139
-Obrigheim 2809
-
-Mayen 19414
-Mayschoss 971
-
-Vettelschoss 3510
-Welschenbach 56
-Willwerscheid 56
-Bermel 419
-
-Hermeskeil 5710
-Damflos 695
-Malborn 1408
-Thalfang 1779
-Etgert 62
-Borfink 216
-Peffingen 212
-Hisel 16
-Selchenbach 396
-Welcherath 134
-Rathsweiler 192
-Sensweiler 553
-Breunigweiler 422
-Langweiler 279
-Frankeneck 879
-
-Speicher 2970
-Sengerich 17
-Grenderich 431
-Bongard 273
-Kuhardt 1927
-Diethardt 311
-Dienethal 278
-Zilshausen 343
-Schmitshausen 448
-
-Bitburg 12908
-Werkhausen 237
-Birnbach 642
-Dernbach 2537
-
-Wirges 5201
-
-Montabaur 12345
+Dreikirchen 1044
+Walsheim 550
+Hundsangen 2103
 Nomborn 715
-Kesseling 637
-Lug 637
-Gaugrehweiler 558
-Gamlen 558
-Konken 792
+Grossholbach 1008
+Ruppach-Goldhausen 1155
+Duppach 300
+Immert 185
+Zimmerschied 93
+Wolken 1093
+Arnshofen 154
+Braunshorn 604
+Braunweiler 611
+Treis-Karden 2332
+Bolsberg 300
+Rimsberg 129
+Nohen 422
+Reudelsterz 422
+Hoppstadten-Weiersbach 2749
+Dienstweiler 326
+Laurenburg 326
+Dodenburg 99
+Heidenburg 724
+Trittenheim 1146
+Horath 476
+Naurath 219
+Rathskirchen 219
+Helferskirchen 1174
+Niedersayn 227
+Donsieders 994
 
-Konz 17879
-Bekond 829
-Klusserath 1099
-Hetzerath 2005
-Krov 2318
-Heinzenbach 432
-Heckhuscheid 153
-Meuspath 153
-Wagenhausen 57
-Ravengiersburg 508
-Raversbeuren 177
+Pirmasens 43582
+Ruppertsweiler 1449
 
-Bohl-Iggelheim 10797
-Pohl 377
+Dahn 4994
+Dahnen 358
+Wickenrodt 158
 
-Nastatten 4310
-Hainau 189
-
-Wissen 8547
-Birken-Honigsessen 2678
-Grunebach 574
-Stebach 348
-Kretz 783
-Saalstadt 359
-Stadtkyll 1600
-Heiligenroth 1435
-Miehlen 2070
-
-Rhens 3016
-Urbach-Uberdorf 1577
-Gries 1044
-Wilgartswiesen 1164
-Thomm 1036
-Hommerdingen 61
-Langwieden 273
-
-Plaidt 5797
+Nickenich 3582
 
 Kruft 3854
 
+Plaidt 5797
+Saffig 2184
+
+Kettig 3325
+
+Weissenthurm 7639
+
+Neuwied 66805
+Wied 509
+Langwieden 273
+Jucken 178
+Emmelbaum 67
+Kinzenburg 37
+Welschneudorf 962
+
+Vettelschoss 3510
+
+Sankt Katharinen 3534
+Rossbach 937
+Datzeroth 230
+Karl 230
+
+Urmitz 3480
+Niederwerth 1391
+
+Vallendar 8959
+
+Urbar 3152
+
+Koblenz 107319
+Fachbach 1332
+
+Bad Ems 9735
+Dausenau 1353
+
+Nassau 5015
+Becheln 658
+Dachsenhausen 1059
+Gornhausen 209
+
+Worms 81099
+
+Bobenheim-Roxheim 10106
+Obrigheim 2809
+Einselthum 864
+Morschheim 756
+Orbis 745
+Munsterappel 535
+Heckenmunster 131
+Gladbach 336
+Zusch 681
+Arenrath 354
+Heilenbach 131
+Philippsheim 117
+Badem 1135
+Badenhard 164
+Birkheim 129
+Bilkheim 472
+Ulmet 799
+
+Ulmen 3265
+Hochstberg 410
+Sassen 97
+Uess 48
+
+Daun 8523
+
+Bad Kreuznach 43213
+
+Bad Marienberg 5838
+Burdenbach 577
+Schallodenbach 942
+Kreimbach-Kaulbach 971
+Dimbach 187
+Oberbrombach 526
+Kapellen-Drusweiler 888
+Udler 312
+Silz 820
+Spirkelbach 709
+Schwedelbach 1119
+Kordel 2205
+Horperath 134
+Kelberg 2031
+Idelberg 58
+Eichelhardt 496
+
+Speicher 2970
+Nochern 545
+
+Cochem 5215
+Klotten 1401
+Bruttig-Fankel 1208
+Bremm 853
+Alflen 850
+Wolfsheim 701
+Eulgem 223
+Monreal 864
+
+Landau in der Pfalz 41612
+
+Offenbach an der Queich 6097
+Hintertiefenbach 427
+Hallgarten 727
+Martinshohe 1757
+Schwollen 456
+Kell 1953
+
+Konz 17879
+Wawern 610
+Ockfen 655
+
+Saarburg 6222
+Serrig 1580
+Nittel 1920
+Knittelsheim 1026
+Mertloch 1534
+Lochum 342
+Sorgenloch 1197
+
+Guntersblum 3702
+Winterwerb 183
+Hirschberg 402
+Hirschthal 114
+Nothweiler 180
+Birkweiler 729
+Bochingen 771
+Gentingen 61
+Hommerdingen 61
+Thomm 1036
+Wilgartswiesen 1164
+
+Lemberg 4317
+Liebenscheid 932
+
+Rhens 3016
+
+Waldsee 5384
+Friedewald 1198
+
+Daaden 4499
+Weitefeld 2451
+Neunkhausen 1148
+Morlen 588
+Borler 91
+Wehr 1152
+Karbach 544
+
+Bitburg 12908
+Werkhausen 237
+
+Montabaur 12345
+Arzbach 1874
+
+Hohr-Grenzhausen 9794
+
 Ochtendung 5207
 
-Baumholder 4106
-Herold 499
-Kapsweyer 1021
-Trulben 1338
-Helmenzen 788
-Hunzel 281
-Wissmannsdorf 812
-Bann 2390
-Kindsbach 2521
-Nanzdietschweiler 1276
-Blaubach 463
-Wartenberg-Rohrbach 565
-Kollig 473
-Insul 473
-Rotsweiler-Nockenthal 525
-Frauenberg 473
-Salmtal 2316
-Salm 373
-Preischeid 168
-Bleialf 1179
-Wolfsheim 701
-Martinshohe 1757
-Erpolzheim 1208
-Virneburg 427
-Eckfeld 359
-Hinterweiler 229
-Rodelhausen 172
-Schwirzheim 439
-Welterod 529
-Kalkofen 189
-Rhodt unter Rietburg 1088
-Klosterkumbd 286
-Losnich 429
-Knittelsheim 1026
-Hohfroschen 977
-Hohenfels-Essingen 381
-Russingen 508
-Zimmerschied 93
-Todenroth 93
-Gebroth 171
-Welschneudorf 962
-Kurtscheid 955
-Schallodenbach 942
-Damscheid 692
+Munstermaifeld 3435
+
+Munster-Sarmsheim 2952
+Immesheim 150
+Mutzenich 132
+Utzenhain 123
+
+Rheinbollen 4218
+Kulz 492
+Alterkulz 446
 Bayerfeld-Steckweiler 446
-Horbruch 362
-Abtweiler 256
+Rodder 256
+Bann 2390
+Scheibenhardt 731
+Kircheib 555
+Seelen 171
+Stebach 348
+Strohn 493
+Glees 564
+Unnau 1932
+Nohn 449
+Niedermohr 1523
+Blaubach 463
+Ohmbach 864
+Longuich 1233
+Kalkofen 189
+Mastershausen 1202
+Ernst 625
+Winden 1054
+Hausbay 211
+Auen 245
+Frauenberg 473
+Gimbweiler 448
+Borfink 216
+Gries 1044
+Oberdreis 917
+Pantenburg 253
+Paschel 253
+Dorrmoschel 173
+Mundersbach 806
+Dumpelfeld 694
+Hatzenport 673
+Stein-Neukirch 490
+Dielkirchen 594
+Plein 665
+Schladt 119
+Schleich 204
+Muckeln 222
+Losnich 429
+Reuth 224
+Gebroth 171
+Nimsreuland 116

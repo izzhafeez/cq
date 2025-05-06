@@ -1,10 +1,40 @@
 
 
 Tlaxcala 84670
+Santa Maria Ixtulco 5293
+Santa Maria Ixcotla 721
+Jose Maria Morelos 1227
+Colonia Jose Maria Morelos 592
+Colonia Ignacio Allende 1693
+Ignacio Zaragoza 6916
+Zaragoza 1548
+Santiago Tepeticpac 1512
+Santiago Tlalpan 728
+San Marcos Jilotepec 553
+San Marcos Contla 3875
+Santa Catarina Ayometla 7992
+Santa Cruz Quilehtla 4455
+Santa Cruz Tetela 2668
 
-Tlaxco 14806
+La Magdalena Tlaltelulco 16834
+La Magdalena Soltepec 584
+San Lorenzo Soltepec 1019
+San Lorenzo Xaltelulco 1012
+Guadalupe Cuauhtemoc 560
+Colonia Cuauhtemoc 1022
+Topilco de Juarez 2316
+Olextla de Juarez 869
+Acxotla del Monte 2136
+Acxotla del Rio 2455
+Panotla 7356
+Tecolotla 829
+Colonia el Valle 710
+Colonia Velazco 858
+Colonia San Isidro 2419
+San Luis Apizaquito 6099
 
-Tetla 15161
+Apizaco 49506
+Zimatepec 7378
 San Jose Tetel 5884
 San Jose Teacalco 5381
 San Jose Aztatla 2586
@@ -14,61 +44,45 @@ San Bartolome Cuahuixmatlac 3774
 San Bartolome Tenango 1807
 San Lucas Tecopilco 2642
 Tecomaluca 602
-San Simon Tlatlahuquitepec 2817
-Tetlatlahuca 4218
-Santa Cruz Aquiahuac 3896
+Santa Ana Nopalucan 6848
+Santa Apolonia Teacalco 4261
+Jesus Tepactepec 1035
+Jesus Huitznahuac 1216
 Santa Maria Aquiahuac 541
-Santa Isabel Xiloxoxtla 4436
-Casa Blanca 696
-Atlzayanca 3826
-Altzayanca 3353
-Lazaro Cardenas 2389
+Santa Cruz Aquiahuac 3896
+Tetlatlahuca 4218
+
+Tetla 15161
+
+Tetlanohcan 9832
+
+San Francisco Tetlanohcan 9858
+San Francisco Tenexyecac 815
+San Damian Texoloc 5033
+Ocotlan Tepatlaxco 675
+San Rafael Tepatlaxco 2003
+San Rafael Tenanyecac 2699
+San Miguel Tlamahuco 1010
+San Miguel Contla 5761
+San Jose Xicohtencatl 5761
+Concepcion Hidalgo 2367
+Concepcion Chimalpa 1747
+Guadalupe Hidalgo 1270
+Guadalupe Tlachco 3350
+Guadalupe Texcalac 1188
+Colonia Venustiano Carranza 2665
+San Matias Tepetomatitlan 2338
+Tepetitla 8316
+San Miguel Xochitecatitla 2124
+San Jose Atoyatenco 1672
+Santiago Michac 3533
+Santiago Xochimilco 577
+Acuamanala 1825
+San Jose Cuamantzingo 1237
 Mazapa 1972
 Mazatecochco 9671
 
 Papalotla 22969
-Tecolotla 829
-Xaltocan 705
-
-Xaloztoc 10191
-San Benito Xaltocan 5367
-Hualcaltzinco 2599
-San Pedro Xalcaltzinco 2025
-El Carmen Aztama 2612
-El Carmen Xalpatlahuaya 1907
-Tocatlan 5564
-San Pedro Tlacotepec 3523
-San Pedro Ecatepec 1335
-San Juan Bautista Mier 699
-San Juan Huactzinco 6687
-San Lorenzo Axocomanitla 5007
-San Lorenzo Soltepec 1019
-San Lorenzo Xaltelulco 1012
-Guadalupe Cuauhtemoc 560
-Colonia Cuauhtemoc 1022
-Topilco de Juarez 2316
-Tzompantepec 1869
-Zitlaltepec 6280
-Tepetitla 8316
-San Miguel Xochitecatitla 2124
-San Jose Atoyatenco 1672
-San Jose Xicohtencatl 5761
-
-Xicohtzinco 12255
-Santa Catarina Ayometla 7992
-San Marcos Contla 3875
-San Marcos Jilotepec 553
-Santiago Tlalpan 728
-Santiago Tlacochcalco 1082
-
-Acuitlapilco 13386
-
-Apizaco 49506
-San Luis Apizaquito 6099
-Colonia San Isidro 2419
-San Isidro Buen Suceso 8769
-
-Villa Vicente Guerrero 60001
 
 Tenancingo 11636
 Barrio de Atencingo 505
@@ -76,154 +90,140 @@ Unidad Habitacional II 569
 La Trinidad Chimalpa 1193
 San Hipolito Chimalpa 2538
 Totolac 6989
-Panotla 7356
-Zaragoza 1548
-Santiago Tepeticpac 1512
-La Candelaria Teotlalpan 1585
-Acxotla del Rio 2455
-Acxotla del Monte 2136
+Francisco I. Madero 1265
+Francisco Villa 3078
+San Francisco Mitepec 925
+Toluca de Guadalupe 3133
+Guadalupe Victoria 954
+San Jose Villarreal 1444
+Terrenate 4967
+Amaxac de Guerrero 9114
+Belen Atzitzimititlan 3232
+Xaltitla 564
+El Capulin 568
+Capula 1373
+San Jose Tepoxtla 638
+NCP Alvaro Obregon 518
+San Juan Quetzalcoapan 1262
+San Juan Huactzinco 6687
+San Pedro Xalcaltzinco 2025
+Hualcaltzinco 2599
+San Benito Xaltocan 5367
+Xaltocan 705
+Tocatlan 5564
+San Pedro Tlacotepec 3523
+San Pedro Ecatepec 1335
+San Juan Bautista Mier 699
+San Jose Tepeyahualco 1074
+La Magdalena Cuextotitla 924
 Ayometitla 1841
 Felipe Carrillo Puerto 1081
 San Felipe Sultepec 1117
 
 Calpulalpan 33263
-Capula 1373
-Santa Maria Ixcotla 721
-Jose Maria Morelos 1227
-Colonia Jose Maria Morelos 592
-
-Villa de El Carmen Tequexquitla 14249
-Rancheria de Pocitos 1284
-Santa Cruz Pocitos 1363
-Santa Ana Portales 761
-Santa Ana Nopalucan 6848
-Santa Justina Ecatepec 4616
-Xocoyucan 3628
-San Lucas Tlacochcalco 2257
-San Juan Quetzalcoapan 1262
-Huiloapan 2877
-San Francisco Temetzontla 2260
-La Trinidad Tenexyecac 2863
-San Francisco Tenexyecac 815
-
-San Francisco Tetlanohcan 9858
-
-Tetlanohcan 9832
-San Francisco Tlacuilohcan 1992
-Yauhquemehcan 4204
-Zimatepec 7378
-Atlangatepec 480
-Zumpango 1304
-Tlatempan 2837
+La Candelaria Teotlalpan 1585
 San Buenaventura Atempan 2068
+Tlatempan 2837
 
 Santa Ana Chiautempan 48030
-Santa Cruz Tetela 2668
-Santa Cruz Tlaxcala 4848
-Amaxac de Guerrero 9114
-Belen Atzitzimititlan 3232
-Santa Maria Atlihuetzian 2691
-Santa Maria Texcalac 6279
-Santa Maria Ixtulco 5293
-Santa Maria las Cuevas 861
-La Aurora 1192
-Villa Alta 5974
-Francisco Villa 3078
-San Francisco Mitepec 925
-Toluca de Guadalupe 3133
-Guadalupe Texcalac 1188
-Colonia Venustiano Carranza 2665
-San Matias Tepetomatitlan 2338
-Apetatitlan Antonio Carbajal 7026
-San Antonio Tecoac 875
-San Ambrosio Texantla 867
-
-Huamantla 51996
-Acuamanala 1825
-San Jose Cuamantzingo 1237
-Espanita 2445
-Santa Anita Huiloac 7183
-
-San Andres Ahuashuatepec 10114
-San Jose Tepeyahualco 1074
-La Magdalena Cuextotitla 924
-Olextla de Juarez 869
-Santa Barbara Acuicultzcatepec 838
+Santa Ana Portales 761
 Los Pilares 1280
 Los Reyes Quiahuixtlan 2342
 Atexcatzingo 4504
 Nicolas Bravo 1674
+Santa Cruz Pocitos 1363
+Santa Cruz Tlaxcala 4848
+Santa Maria Atlihuetzian 2691
+San Francisco Tlacuilohcan 1992
+Yauhquemehcan 4204
+Rancheria de Pocitos 1284
+
+Villa de El Carmen Tequexquitla 14249
+El Carmen Aztama 2612
+El Carmen Xalpatlahuaya 1907
+Ixtlahuaca 632
+San Antonio Tecoac 875
+San Ambrosio Texantla 867
+
+Huamantla 51996
+Ixtenco 6741
+Zitlaltepec 6280
+Tzompantepec 1869
+Atlangatepec 480
+Zumpango 1304
+Munoz 2034
+San Simeon Xipetzingo 2898
+Hueyotlipan 4911
+San Jorge Tezoquipan 4438
+La Trinidad Tenexyecac 2863
+San Francisco Temetzontla 2260
+Fraccionamiento la Virgen 1518
+
+Villa Vicente Guerrero 60001
+Villa Alta 5974
+Xocoyucan 3628
+Santa Justina Ecatepec 4616
+Santa Barbara Acuicultzcatepec 838
+
+San Andres Ahuashuatepec 10114
+Xaltianquisco 884
+Santa Anita Huiloac 7183
+Huiloapan 2877
+Nativitas 1421
+La Soledad 1107
 Jose Maria Morelos y Pavon 702
-Mariano Matamoros 812
 Cuaxinca 514
 Cuaxomulco 2755
 Plan de Ayala 501
+Apetatitlan Antonio Carbajal 7026
+Nexnopala 695
+Espanita 2445
+San Lorenzo Axocomanitla 5007
+
+Zacatelco 38466
+Santa Cruz Zacatzontetla 758
+San Miguel Buenavista 710
+Mariano Matamoros 812
+Emiliano Zapata 2843
+San Jeronimo Zacualpan 3485
+Tepeyanco 3223
+Altzayanca 3353
+Atlzayanca 3826
+Casa Blanca 696
+Santa Isabel Xiloxoxtla 4436
+El Rosario 2368
+San Francisco Cuexcontzi 1025
+
+Contla 27610
+La Luz [Barrio] 762
 Barrio de Cuatla 897
 Union Ejidal Tierra y Libertad 2210
 Benito Juarez 5674
 Sanctorum 4731
 
 Ciudad de Nanacamilpa 12177
-Hueyotlipan 4911
-San Simeon Xipetzingo 2898
-Munoz 2034
-Lagunilla 1567
-Acopinalco del Penon 2382
-
-Zacatelco 38466
-Santa Cruz Zacatzontetla 758
-San Miguel Buenavista 710
-Colonia el Valle 710
-Colonia Ignacio Allende 1693
-Ignacio Zaragoza 6916
-Ixtenco 6741
-Ixtlahuaca 632
-Cuapiaxtla 8398
-San Miguel Contla 5761
-San Miguel Tlamahuco 1010
-San Rafael Tenanyecac 2699
-San Rafael Tepatlaxco 2003
-Ocotlan Tepatlaxco 675
-La Luz [Barrio] 762
-Guadalupe Tlachco 3350
-Guadalupe Hidalgo 1270
-Concepcion Chimalpa 1747
-Concepcion Hidalgo 2367
-
-Contla 27610
-San Francisco Cuexcontzi 1025
-Francisco I. Madero 1265
-Xaltitla 564
-Xaltianquisco 884
-
-La Magdalena Tlaltelulco 16834
-La Magdalena Soltepec 584
-La Soledad 1107
-Nativitas 1421
-Terrenate 4967
-San Jose Villarreal 1444
-Guadalupe Victoria 954
-Colonia Velazco 858
-Santa Apolonia Teacalco 4261
-Jesus Tepactepec 1035
-Jesus Huitznahuac 1216
-El Capulin 568
-El Rosario 2368
 
 Teolocholco 16240
-San Damian Texoloc 5033
-San Jeronimo Zacualpan 3485
-Tepeyanco 3223
-Santa Cruz Quilehtla 4455
-San Esteban Tizatlan 6114
+Santiago Tlacochcalco 1082
+
+Acuitlapilco 13386
+
+Tlaxco 14806
+Santa Maria Texcalac 6279
+Santa Maria las Cuevas 861
+La Aurora 1192
 Colonia Jose Lopez Portillo 837
-San Jose Tepoxtla 638
-NCP Alvaro Obregon 518
-Nexnopala 695
-Santiago Xochimilco 577
-Santiago Michac 3533
-San Jorge Tezoquipan 4438
-Fraccionamiento la Virgen 1518
-Santo Tomas la Concordia 2798
-Emiliano Zapata 2843
+San Esteban Tizatlan 6114
 San Cosme Atlamaxac 2364
+
+Xicohtzinco 12255
+
+Xaloztoc 10191
+Santo Tomas la Concordia 2798
+San Isidro Buen Suceso 8769
+Cuapiaxtla 8398
+San Simon Tlatlahuquitepec 2817
+Lagunilla 1567
+Acopinalco del Penon 2382
+Lazaro Cardenas 2389
+San Lucas Tlacochcalco 2257

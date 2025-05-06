@@ -1,5665 +1,5665 @@
 
 
 Prague 1324277
-Pravice 322
-Svepravice 118
-Zaravice 143
-Semnevice 143
-Neveklovice 38
 
-Neveklov 2357
-Netvorice 1060
-Skuhrov nad Belou 1060
-Skuhrov 507
-Uhrice 701
-Sazovice 701
-Lazovice 72
-Blazkov 307
+Horomerice 2212
+Jaromerice 1242
 
-Blatna 6735
-Destna 696
-Hradesice 418
-Hradesin 176
-Dresin 261
-Otesice 152
-Chotesice 323
-Ctidruzice 323
-Bezdruzice 1004
-Nezdice 186
-Prehvozdi 186
-Hvozd 654
-Hvozdec 216
-Rasov 216
-Rasovice 651
-Hostasovice 685
+Jaromer 12831
+Novy Poddvorov 169
+Stary Poddvorov 932
+Stary Petrin 250
+Stary Parezov 130
+Novy Parezov 125
+Novy Ples 291
+Novy Prerov 319
+
+Prerov 47311
+Grymov 138
+Nupaky 138
+Zitovlice 138
+Hlasnice 138
+Dasnice 361
+Basnice 205
+Kasnice 222
+Horni Rasnice 228
+Dolni Rasnice 519
 Dolni Radechova 685
 Horni Radechova 458
+Horni Radoun 257
+Kostelni Radoun 261
+Kostelni Vydri 152
+Zadni Vydri 50
+Vydri 113
+Samopse 113
+Kunemil 113
+Uhlejov 113
+Veznicka 113
+Veznice 149
+
+Breznice 3662
+Breznik 635
+
+Namest nad Oslavou 5192
+Vchynice 317
+Urbanice 317
+Dzbanice 160
+Nebanice 291
+Kanice 555
+Kanicky 34
+Hermanicky 673
+Hermanice 229
+Jermanice 346
+Zermanice 235
+Dolni Hermanice 460
+Horni Hermanice 493
+Ceske Hermanice 528
+Svobodne Hermanice 519
+Herman 219
+Hermanov 485
+Hermanovice 379
+Manovice 45
+Domanovice 132
+Janovice 1693
+
+Trojanovice 2114
+Bojanovice 377
+Bojanov 655
+
+Dolni Bojanovice 2859
+Horni Bojanovice 598
+Hojanovice 92
+Janov 781
+Janova 726
+Vranova 333
+Vranov 878
+Vranovice 1934
+Boranovice 483
+Zeranovice 759
+Vanovice 548
+Zvanovice 331
+Radvanovice 250
+Radvanec 118
+Stropesin 118
+Nezdrev 118
+Unehle 118
+Stichovice 118
+Stichov 81
+Tichov 336
+Litichovice 47
+Zichovice 681
+Kozichovice 380
+Prichovice 981
+Oldrichovice 373
+Oldrichov 225
+Novy Oldrichov 660
+Oldrichov v Hajich 501
+Bedrichov 271
+Jindrichov 1504
+Jindrichovice 439
+Jindrichovice pod Smrkem 624
+
+Nove Mesto pod Smrkem 3915
+Nove Mesto 376
+
+Nove Mesto nad Metuji 10126
+
+Nove Mesto na Morave 10537
+Moravec 551
+Moravecke Pavlovice 28
+
+Velke Pavlovice 3078
+Slezske Pavlovice 176
+Pavlovice 173
+Pavlov 592
+Pavlovice u Prerova 790
+Brodek u Prerova 1972
+Verovany 1306
+
+Borovany 3739
+Borova 917
+Borova Lada 276
+Zborov 219
+Zborovy 139
+Borovy 234
+
+Vnorovy 3062
+
+Vrdy 3062
+
+Veseli nad Moravou 12081
+Kostelany nad Moravou 884
+Kostelany 467
+Kostelec 835
+
+Kostelec nad Labem 3052
+
+Kostelec nad Orlici 6184
+Belec nad Orlici 226
+
+Tyniste nad Orlici 6342
+Tyniste 51
+Pecnov 51
+Tresnovy Ujezdec 51
+Krizkovy Ujezdec 146
+Ujezdec 222
+Zajezdec 104
+Zajeci 1435
+Kovarov 1435
+Sukorady 279
+Kbel 279
+Slatina nad Upou 279
+Slatina nad Zdobnici 816
+Rybna nad Zdobnici 440
+Trpin 440
+Svebohov 440
+Hrejkovice 440
+
+Cejkovice 2527
+Ujkovice 102
+Vojkovice 1032
+Svojkovice 358
+Svojkov 124
+Kunejovice 124
+Unejovice 72
+Chocnejovice 399
+Radejovice 204
+Radejov 830
+Nadejov 217
+Mladejov 479
+Mladejovice 637
+Hrdejovice 1560
+Kurdejov 353
+Radimovice u Zelce 353
+Radimovice 233
+Radimovice u Tabora 63
+Rimovice 185
+Rimov 721
+Krimov 189
+Roblin 189
+Kolomuty 189
+Vodice 189
+Vezna 189
+Labska Stran 189
+Dlouha Stran 62
+Dlouha Ves 804
+Dlouha Lhota 314
+Dlouha Loucka 572
+Loucka 742
+Mlady Smolivec 742
+Kostelni Lhota 742
+Dolni Lhota 1308
+Horni Lhota 592
+Komorni Lhotka 1119
+Lhotka 458
 Drevcice 458
+Vevcice 77
+Volevcice 95
+Lovcice 804
+Lovcicky 563
+Pisecne 563
+Zalkovice 563
+
+Palkovice 2751
+Chvalkovice 647
+Vlkovice 130
+Vlkov 341
+Vlkos 1052
+
+Kyjov 12191
+Vez 792
+Opocnice 389
+Kochanky 389
+Letkov 389
+Petkovy 215
+Horni Netcice 215
+Dolni Netcice 270
+
+Dolni Nemci 2957
+Horni Nemci 854
+Horni Nemcice 91
+Nemcice 899
+Semcice 502
+Pavlice 502
+Pavlikov 1013
+Pavlinov 249
+Vlachova Lhota 249
+Nova Lhota 771
+Hroznova Lhota 1253
+Vranova Lhota 486
+Smetanova Lhota 263
+Vrbova Lhota 377
+Kralova Lhota 205
+Radkova Lhota 199
+Piskova Lhota 580
+Balkova Lhota 122
+Kacakova Lhota 132
+Cakova 300
+Cakov 214
+Cakovicky 321
+Dyjakovicky 427
+Dyjakovice 836
+Rakovice 208
+Rakov 394
+Mrakov 1144
+Rakova 176
+Krakovany 768
+Krakov 98
+Krakovec 78
+Bukovec 1364
+Loukovec 264
+Loukov 941
+Loukovice 124
+Bukovice 380
+Bukov 190
+Bukova 363
+Bukovany 1808
+Lukovany 524
+Lukova 683
+Lukov 1725
+Zlukov 230
+Tene 230
+Vinare 230
+Svinare 285
+Udrnice 285
+Hornice 77
+Chornice 832
+Zahornice 319
+Zahori 500
+Dolni Zahori 737
+Dolni Zandov 1204
+Zandov 1907
+Horni Police 668
+Police 544
+
+Police nad Metuji 4316
+Teplice nad Metuji 1805
+Teplice nad Becvou 342
+Milotice nad Becvou 247
+Milotice 1941
+Malotice 258
+Otice 1292
+
+Votice 4461
+Zivotice 53
+Dolni Zivotice 1143
+Horni Zivotice 321
+Hladke Zivotice 933
+Kujavy 548
+Svojsice 548
+Pravonin 548
+Skalice 548
+Skalicka 549
+
+Ceska Skalice 5402
+Stribrna Skalice 935
+Stribrna 459
+Hrusice 459
+Prusice 55
+Horusice 193
+Chorusice 458
+Vetrusice 388
+
+Susice 11483
+Tousice 279
+Domousice 622
+Domousnice 233
+Horni Brusnice 437
+Dolni Brusnice 328
+Dolni Branna 938
+Horni Branna 1798
+Branna 341
+
+Hanusovice 3556
+Busovice 502
+Tusovice 100
+Krusovice 576
+Hlusovice 369
+
+Slusovice 2904
+Usov 1186
+Hrusov 189
+Hrusova 343
+Hrusovany 272
+
+Hrusovany u Brna 2941
+
+Hrusovany nad Jevisovkou 3209
+Jevisovka 561
+Drnholec 1676
+Brod nad Dyji 494
+Pasohlavky 735
+Ivan 695
+Skrivany 994
+Pribice 994
+
+Pohorelice 4409
+
+Strelice 2578
+Prelic 305
+Umyslovice 305
+Myslovice 108
+Nemyslovice 137
+Premyslovice 1268
+Maslovice 277
+Kraslovice 144
+Hoslovice 181
+Oslov 334
+Slovec 521
+Kralovec 169
+
+Dvur Kralove nad Labem 16150
+
+Opatovice nad Labem 2218
+Predmerice nad Labem 1638
+Predmerice nad Jizerou 650
+Horky nad Jizerou 429
+
+Benatky nad Jizerou 6818
+Paseky nad Jizerou 253
+
+Bakov nad Jizerou 4417
+Vysoke nad Jizerou 1363
+
+Rokytnice nad Jizerou 3281
+Mohelnice nad Jizerou 67
+
+Mohelnice 9742
+Mohelno 1424
+Lisany 647
+Sany 466
+Lesany 575
+Zalesany 106
+Vratno 106
+Starkoc 106
+Hrabesice 106
+Hrabesin 120
+Sebestenice 120
+Prestenice 296
+Kostenice 494
+Hostenice 488
+Rosteni 699
+Horni Mostenice 1581
+Zadni Mostek 1350
+Mostek 1360
+Strazisko 437
+Straziste 86
+Laziste 306
+Vsestudy 306
+Vykan 306
+Pikarec 306
+Vidov 306
+Repice 306
+Krepice 1254
+Nikolcice 776
 Vlcice 458
 Vlci 59
 Velka Chmelistna 59
-Chmelik 191
-Dobelice 273
-Soberaz 85
-Paracov 85
+Celistna 103
+Ceske Lhotice 103
+Lhotice 151
+Malhotice 332
+Lechotice 394
+Strachotice 974
+Strachotin 778
+Cachotin 175
+Zachotin 223
+Otin 265
+Zerotin 454
+Merotin 291
+Vratenin 291
+Ratenice 513
+Tatenice 853
+Statenice 710
+
+Mutenice 3647
+Mutenin 252
+Hlavecnik 252
+Rendejov 252
+Sudejov 63
+
+Ceske Budejovice 96053
+
+Moravske Budejovice 7971
+Moravske Branice 893
+Nove Branice 717
+Branice 303
+Sebranice 870
+
+Hranice 19582
+Karanice 176
+Karany 496
+Kounov 496
+Okounov 287
+Velka Skrovnice 287
+Borovnice 443
+Borovnicka 189
+Borovnik 84
+Borovna 86
+Rovna 619
+Bratcice 676
+Zelizy 472
+Holasice 872
+Dasice 1797
+Prodasice 90
+
+Kvasice 2282
+Kvasiny 1349
+
+Solnice 2099
+Smolnice 371
+Sokolnice 1761
+
+Sokolov 24901
+Dolni Sokolovec 93
+Kolovec 984
+Kolova 622
+Olovi 1909
+Castolovice 1614
+
+Blovice 3901
+Zblovice 44
+Dublovice 988
+Stablovice 585
+Dalovice 1880
+Bohdalovice 276
+Bohdalov 1074
+Bohdalec 297
+Bohdalin 230
+
+Kamenice nad Lipou 4148
+
+Kamenice 3011
+Kamenicky 775
+
+Kamenicky Senov 3982
+Velky Senov 1978
+
+Senov 5462
+Mseno 1417
+Kanina 39
+Karizek 39
+Vysoka 763
+Vysoka Lhota 23
+Vysoka Libyne 237
+Skalka 237
+Novy Kramolin 237
+Racetice 237
+Bacetin 364
+Ostrolovsky Ujezd 110
+Bily Ujezd 615
+Maly Ujezd 819
+Velky Ujezd 1068
+Vysoky Ujezd 532
+Svijansky Ujezd 371
+Svatojansky Ujezd 83
+Ujezd 1341
+Horni Ujezd 443
+Dolni Ujezd 1963
+Panosi Ujezd 261
+Dlouhy Ujezd 294
+Dlouhy Most 627
+Kamenny Most 394
+Kamenny Malikov 61
+Malikov 107
+Malikovice 346
+Chvalikovice 680
+Rikovice 461
+Jirikovice 871
+
+Jirikov 3926
+Rikov 169
+Dobrikov 457
+Dobric 383
+Dobrichov 713
+
+Dobrichovice 2874
+Jetrichovice 390
+Jetrichov 438
+Detrichov 622
+Detrichov nad Bystrici 484
+Domasov nad Bystrici 482
+Domasov 591
+Markvartice 591
+Markvartovice 1766
+Jakartovice 1054
+Otovice 598
+Kotovice 272
+Troskotovice 598
+Troskovice 134
+
+Boskovice 11121
+Kninice u Boskovic 784
+Kninice 200
+Moravske Kninice 775
+Miroslavske Kninice 327
+
+Miroslav 3017
+Jaroslav 213
+Jaroslavice 1250
+Oslavice 601
+Lavice 25
+Caslavice 557
+
+Caslav 10025
+Chotusice 677
+Utusice 546
+Katusice 777
+Kratusin 54
+Modrava 54
+Xaverov 54
+Kamenec 54
+Kamen 376
+Kamenna 583
+Kamenne 10
+Kamenne Zbozi 528
+Kamenne Zehrovice 1606
+Msecke Zehrovice 429
+Msec 828
+Brodec 62
+Dedice 138
+Libedice 202
+Nedvedice 1330
+Steborice 1330
+Borice 169
+Liborice 335
+Mysliborice 709
+Myslibor 227
+Myslin 89
+Myslinka 161
+Hlinka 234
+
+Karolinka 2916
+
+Velke Karlovice 2651
+Karlovice 1128
+Karlov 73
+Karlova Ves 116
+Nova Ves 827
+
+Moravska Nova Ves 2517
+Tisnovska Nova Ves 67
+Kurimska Nova Ves 123
+
+Ostrozska Nova Ves 3360
+Ostrozska Lhota 1633
+Chodska Lhota 401
+Velka Lhota 424
+Zarecka Lhota 167
+Zelenecka Lhota 169
+Zelenec 1615
+Klenec 417
+Sklene 222
+Ptenin 222
+Pteni 1093
+Lsteni 296
+Lustenice 1447
+Chrustenice 659
+Trstenice 569
+Zitenice 1407
+Detenice 736
+Trtenice 315
+Libotenice 405
+Libotov 175
+Pricina 175
+Hurky 175
+Dobriv 1110
+Dobrin 488
+Dobrinsko 369
+Borotice 369
+Skorotice 145
+Zerotice 297
+Zverotice 361
+Mirotice 1114
+Mirov 418
+Mirovice 1658
+Vernirovice 184
+Brnirov 345
+Dolni Krupa 345
+Horni Krupa 464
+Horni Kruty 514
+Horni Kalna 318
+Dolni Kalna 619
+Skalna 1950
+
+Frantiskovy Lazne 5355
+Frantiskov nad Ploucnici 379
+
+Benesov nad Ploucnici 4043
+Benesov nad Cernou 1259
+
+Benesov 16257
+Benesovice 173
+Nesovice 1152
+Tesovice 255
+Tresovice 228
+Tresov 89
+Vresova 504
+Vresovice 622
+Presovice 136
+Horesovice 243
+Horesovicky 111
+Horovicky 478
+
+Horovice 6431
+Zahorovice 1058
+Tchorovice 223
+Pohorovice 73
+Vysehorovice 544
+Vysehori 203
+Zitkova 203
+
+Vitkov 6202
+Kvitkov 159
+Hermanky 159
+Hermankovice 498
+Mankovice 604
+Jankovice 462
+Jankov 903
+
+Stankov 3026
+Stankovice 874
+Dankovice 136
+Cankovice 331
+Brankovice 913
+Unkovice 642
+Kunkovice 60
+Cenkovice 186
+Cenkov 361
+Venkov 10
+Zdenkov 75
+Nenkovice 442
+Plenkovice 341
+Halenkovice 1701
+
+Halenkov 2367
+
+Novy Hrozenkov 2714
+Stary Hrozenkov 886
+
+Stary Jicin 2405
+
+Novy Jicin 26547
+
+Jicin 16328
+Kbelnice 143
+Telnice 1296
+
+Nova Vcelnice 2449
+Vcelnicka 195
+Polnicka 618
+Senicka 334
+Prosenicka Lhota 438
+Uhreticka Lhota 217
+Uhretice 462
+Boretice 1297
+Boretin 106
+Kretin 509
+Charvatce 184
+Brnenec 1405
+Brezova nad Svitavou 1518
+Hradec nad Svitavou 1584
+
+Bilovice nad Svitavou 2600
+Babice nad Svitavou 861
+Skalice nad Svitavou 615
+Doubravice nad Svitavou 1222
+Doubravice 372
+Doubravicka 98
+Doubrava 1744
+Doubravy 450
+Doubravnik 819
+Bukovina u Ciste 186
+Bukovina 317
+Velka Bukovina 405
+Velka Bukova 256
+Nova Bukova 90
+
+Nova Bystrice 3371
+
+Bystrice 5076
+Bystricka 956
+
+Valasska Bystrice 2240
+
+Velka Bystrice 2913
+Mala Bystrice 344
+
+Bystrice pod Hostynem 8727
+Slavkov pod Hostynem 546
+Slavkov 1686
+Bestvina 508
+
+Tremosnice 3273
+
+Tremosna 4654
+Ceska Briza 431
+
+Horni Briza 4463
+Briza 369
+Lechovice 424
+Zelechovice 203
+Celechovice 96
+Celechovice na Hane 1220
+
+Ivanovice na Hane 2884
+Klenovice na Hane 824
+Kralice na Hane 1427
+
+Kostelec na Hane 2851
+Senice na Hane 1824
+Namest na Hane 1872
+Hodslavice 1699
+Radslavice 1110
+Radslav 250
+Nevcehle 250
+Krenice 250
+Drenice 310
+Korenice 563
+Skorenice 420
+Horenice 169
+Strenice 174
+Stren 539
+Bystre 1681
+Bystrec 1084
+Bystra 84
+Bystrany 1840
+
+Strani 3803
+Stranka 222
+Stranny 123
+Strancice 1505
+Vrancice 136
+
+Ivancice 9354
+Vlkancice 84
+Vohancice 131
+Kuncice 274
+Kuncice pod Ondrejnikem 1995
+
+Stara Ves nad Ondrejnici 2450
+Stara Ves 602
+Stara Lysa 470
+Stara Hut 1158
+Stara Voda 475
+Dobra Voda 331
+
+Dobra 3032
+Dobratice 1047
+Jiratice 83
+Saratice 889
+Choratice 59
+Ondratice 349
+Kundratice 196
+Nevratice 147
+Kunratice 384
+Velatice 586
+
+Bolatice 4186
+Sedlatice 67
+Chvalatice 122
+Chvalec 569
+Valec 568
+Malec 689
+Malecov 649
+Herspice 649
+Zdechov 649
+Zdechovice 667
+Pozdechov 574
+Pozden 390
+Stary Bydzov 390
+
+Novy Bydzov 7160
+Nove Mitrovice 323
+Mitrovice 100
+Petrovice Druha 100
+Petrovice 1362
+Petrovicky 40
+Petrov 1354
+Petrovice Predni 301
+Opatovice Predni 105
+Opatovice 962
+Opatov 1124
+Opatovec 592
+Klatovec 64
+Velecin 64
+Teleci 407
+Zelec 791
+Belec 317
+Bratronice 777
+Skoronice 527
+Skorosice 787
+
+Rosice 5287
+Zarosice 968
+Osice 409
+Kosice 690
+Prikosice 346
+Kosicky 361
+Osicky 132
+Osicko 462
+Rosicka 47
+Prosicka 107
+Hadravova Rosicka 61
+
+Nova Role 4047
+Nova Rise 827
+Stara Rise 674
+Rudikov 674
+Budikov 251
+Bilcice 251
+Milcice 270
+Prostredni Porici 270
+Prostredni Becva 1661
+
+Horni Becva 2420
+Dolni Becva 1805
+Dolni Bela 466
+Horni Bela 543
+
+Horni Benesov 2460
+
+Dolni Benesov 4314
+Dolni Berkovice 1298
+Horni Berkovice 926
+Serkovice 202
+Zverkovice 218
+Borkovice 237
+Borkovany 733
+Kovan 135
+Kovanec 129
+Klokocov 129
+Puchlovice 129
+
+Tuchlovice 2141
+
+Buchlovice 2487
+Techlovice 489
+Tachlovice 513
+Rehlovice 1129
+Stehlovice 97
+Bilovice 1634
+
+Milovice 5461
+Smilovice 612
+Jilovice 870
+Jiloviste 572
+Stanoviste 317
+Stanovice 495
+Kristanovice 285
+Kristanov 132
+Bristany 215
+Pistany 185
+Ohnistany 318
+Dynin 318
+Koldin 318
+Zbytiny 318
+Ves Touskov 318
+Milesov 318
+Milesovice 630
+Velesovice 951
+Selesovice 308
+Nelesovice 194
+Kolesovice 825
+Kolesov 98
+
+Holesov 12384
+Kostelec u Holesova 971
+Kostelec u Krizku 436
+Kostelec u Hermanova Mestce 278
+Hermanova Hut 1794
+Kubova Hut 100
+Litosice 100
+Kratosice 129
+Bosice 291
+Trebosice 152
+
+Trebon 8862
+
+Chlum u Trebone 2183
+Trebonin 128
+Dolni Trebonin 827
+Zadni Treban 607
+Hlasna Treban 533
+Cervena Tremesna 143
+Bila Tremesna 1345
+Tremesna 979
+Tremesne 404
+Vysokov 404
+Vysoke 119
+Vysoke Pole 787
+Vysoke Popovice 602
+Velke Popovice 1926
+Popovice 1091
+Volduchy 995
+Hradcovice 995
+Lcovice 115
 Racovice 105
-Hnacov 88
-Pohnanec 62
-Zvestovice 62
-Katovice 1279
-Strachujov 152
-Drachkov 152
-Lichkov 573
+Vracovice 372
+
+Vracov 4491
+Oracov 375
+Stracov 310
+Paracov 85
+Soberaz 85
+Hvezdonovice 85
+Hvezdonice 319
+Radonice 1190
+Stradonice 98
+Radonin 74
+Horni Pohled 74
+Pohledy 334
+Lahovice 334
+Strahovice 895
+Nedrahovice 470
+Drahov 168
+Drahous 65
+Mahous 154
+Naloucany 154
+Pokojov 154
+Trpisovice 154
+Nisovice 208
+Jenisovice 850
+Prisovice 1277
+Prisov 236
+Hostovice 236
+Postovice 197
+Oprostovice 114
+Malhostovice 834
+Milhostov 344
+Jedomelice 344
+Cimelice 1045
+Ocelice 244
+Cecelice 589
+Cecelovice 159
+Kocelovice 184
+Prelovice 192
+Krelovice 362
+Kyselovice 484
+Trebelovice 460
+Belov 258
+Beloky 120
+Stredokluky 838
+Vavrinec 838
+Svratouch 901
+Hrebec 1364
+Primda 1364
+
+Bustehrad 2295
+Recany nad Labem 1364
+
+Usti nad Labem 94105
+
+Usti nad Orlici 15151
+Brandys nad Orlici 1435
+Zdar nad Orlici 427
 Jamne nad Orlici 693
 
 Jablonne nad Orlici 3147
 Klasterec nad Orlici 913
 
-Usti nad Orlici 15151
-Brandys nad Orlici 1435
-Doudleby nad Orlici 1926
-
-Kostelec nad Orlici 6184
-
-Tyniste nad Orlici 6342
-Albrechtice nad Orlici 1063
-Belec nad Orlici 226
-Bousov 226
-Cibousov 61
-
 Klasterec nad Ohri 15040
-Zelenov 98
-Velenov 187
-Sobesin 187
-Mesin 187
-Mesice 1083
-Tisice 1460
-Bysice 1170
-Daskabat 589
 
-Baska 3222
+Klaster 3034
+Predklasteri 1446
+Klasterska Lhota 185
+Uhlirska Lhota 358
 
-Paskov 3754
-Laskov 593
-Skorkov 378
-Kokorin 378
-Karle 378
-Karez 550
-Hredle 550
-Sedlec 1098
-Teleci 407
-Zelechovice 203
-Celechovice 96
-Skvrnov 158
-Talinske Kukle 158
-Kukle 64
-Kuklik 172
-Klinec 394
+Uhlirske Janovice 3058
+Cervene Janovice 709
+Velke Janovice 121
+Vrchotovy Janovice 884
+Chotovice 175
+Chotoviny 1578
+Otov 95
+Kynice 95
+Vrchovany 95
+Rouchovany 1093
+Louchov 40
+Bitouchov 289
+Suchov 568
+Suchovrsice 359
+Trsice 1559
+Steblova 183
+Laznicky 183
 
-Line 2311
-Zbuch 1890
+Straznice 5900
+Strazne 152
+Strazna 1770
+Strazny 348
+Straz 1057
+Strazov 1326
+Strazovice 553
+Drazovice 814
+Drazov 270
+Razova 523
+Bzova 422
+Chrastavec 252
 
-Buchlovice 2487
+Chrastava 6051
+Chrastavice 331
 
-Tuchlovice 2141
-Rochlov 243
-Rochov 107
-Dobrochov 264
-Otaslavice 1275
-Caslavice 557
-Pribyslavice 803
+Chrast 3186
+Chrastice 209
+Mala Hrastice 725
+Skastice 374
+Hostice 176
+Bohostice 188
+Trebohostice 303
+Castohostice 189
+Drevohostice 1569
+Radhostice 173
+Radhost 162
+Pustovety 162
+Trzek 162
+Palovice 162
+Malovice 640
 
-Pribyslav 3965
-Brzkov 245
-Nizkov 878
-Blizkov 326
-Cihost 326
-Cihalin 181
-Baliny 116
+Kralovice 3526
+Dolni Kralovice 920
+
+Hradec Kralove 95195
+
+Mestec Kralove 2913
+Mestecko 396
+Mestecko Trnavka 1502
+Bezdeci u Trnavky 231
+Trnavka 667
+Nova Ves nad Popelkou 667
+
+Lomnice nad Popelkou 5957
+Lomnice 1300
+Lomnicka 400
+Lomnice nad Luznici 1660
+
+Plana nad Luznici 3128
+Dvory nad Luznici 318
+
+Suchdol nad Luznici 3659
+Makotrasy 318
+Seninka 318
+Pusta Rybna 154
+Palec 154
+Heralec 1269
+Velky Beranov 1269
+Maly Beranov 565
+Maly Bor 592
+Velka Polom 1597
+Pusta Polom 1394
+Hlubocec 545
+
+Hlubocky 4448
+Hlubocany 473
+Libocany 510
+Nabocany 121
+Trebetin 121
+Trebetice 308
+Libetice 80
+Hrabetice 904
+Chraberce 138
+Bilichov 138
+Velichov 506
+Velichovky 753
+Cichov 269
+Mecichov 241
+Michov 144
+Mnichov 351
+
+Mnichovice 2256
+Mnich 395
+
+Mnichovo Hradiste 8368
+Hradiste 617
+Dolni Hradiste 37
+Stare Hradiste 1219
+Stare Hrady 164
+
+Nove Hrady 2590
+Nove Hute 93
+Stare Hute 150
+Stare Hamry 572
+Nove Hamry 292
+
+Velke Hamry 2754
+Hamry 250
+Dolni Pertoltice 250
+Pertoltice 170
+Pertoltice pod Ralskem 327
+
+Straz pod Ralskem 4068
+Noviny pod Ralskem 260
+Lhota pod Radcem 263
+Lhota pod Libcany 773
+Libcany 778
+Vilantice 184
+Bantice 216
+Brantice 1215
+Librantice 425
+Vitanov 425
+Vojtanov 217
+Krenek 217
+Kulirov 217
+Drisy 746
+Zarici 746
+Puklice 746
+Strasov 311
+Nestrasovice 66
+Rasovice 651
+Krasovice 345
+Krasov 339
+Krasova 254
+Rasov 216
+Drasov 1138
+Visnove 1138
+Bohuslavky 340
+Bohuslavice 1560
+Drslavice 498
+Praslavice 1290
+Zbraslavice 1378
+Zbraslav 1211
+Zbraslavec 181
+Plavec 438
+Plav 326
 Nechvalin 326
 Nechvalice 602
-Uhricice 602
-Uhrinov 269
-Horni Kozolupy 269
-Kozolupy 953
-Radun 953
-Hradec 421
-Predotice 421
+Chvalovice 441
+Pochvalov 247
+Zlebske Chvalovice 77
+Kovalovice 631
+Hostalovice 134
+Kostalov 1671
+Libstat 972
+Chlum 254
+Chlumy 91
 
-Prestice 6353
-Nezvestice 1353
-Usti 588
-Ustin 353
-Lustenice 1447
-Brodce 935
-Rodinov 212
-Lodin 303
-Studeneves 303
-Studene 152
-Studenec 1734
-Benecko 1142
-Lubenec 1541
-Dubenec 689
-Medenec 158
-Predenice 169
-Novy Poddvorov 169
-Stary Poddvorov 932
+Chlumec 4170
+Chlumek 181
+Chlumetin 214
+Velky Chlumec 335
+Vysoky Chlumec 799
 
-Dolni Bojanovice 2859
-Horni Bojanovice 598
-Bojanovice 377
-Bojanov 655
-Slavkov 1686
+Chlumec nad Cidlinou 5292
+Luzec nad Cidlinou 484
+Libice nad Cidlinou 1310
+Libice nad Doubravou 854
+Ronov nad Doubravou 1645
+Doubravcice 244
+Pravcice 726
+Travcice 557
+Tatce 557
+Mrsklesy 557
+Doloplazy 1235
+Semanin 557
+Dolni Chvatliny 437
+Polni Chrcice 135
+Polni Voderady 135
+Voderady 652
+Horni Dunajovice 652
+Horni Dubnany 315
+Dolni Dubnany 469
 
-Horni Slavkov 5818
-Horni Breckov 277
-Horni Blatna 694
-Rohle 694
-Rohovladova Bela 439
-Rohov 614
-Rohozna 683
-Rohy 130
-Bohy 74
-Divci Kopy 59
-Nehodiv 78
-Krakovec 78
-Krakov 98
-Rakov 394
-Mrakov 1144
-Kout na Sumave 1140
-Horice na Sumave 786
-Cerna v Posumavi 835
-Rozmital na Sumave 398
-Sedlice 1220
-Besednice 838
-Chotetov 838
-Tetov 162
-Pustovety 162
-Pustina 63
-Dubovice 63
-Bubovice 222
-Alojzov 222
-Ruzova 349
-Bruzovice 732
-Kruzberk 292
-Liberk 702
-Liber 753
-Habrovany 753
-Habri 91
-Habrina 228
+Dubnany 6649
+
+Ratiskovice 3994
+Liskovice 202
+Miskovice 744
+Budiskovice 785
+Hodiskov 142
+Pliskov 123
+Hriskov 378
+Braniskov 167
+Branisov 189
+Branisovice 519
+Misovice 245
+Misov 113
+
+Lisov 3989
+Zisov 159
+Tisova 497
+Hostisova 438
+Tisovec 332
+Horni Studenky 332
+Dolni Studenky 1278
+
+Studenka 10341
+Albrechticky 674
+
+Albrechtice 4019
+Velke Albrechtice 971
+
+Mesto Albrechtice 3638
+Albrechtice nad Orlici 1063
+Albrechtice nad Vltavou 822
+
+Tyn nad Vltavou 8296
+Luzec nad Vltavou 1347
+Kostelec nad Vltavou 420
+Vrane nad Vltavou 1922
+
+Libcice nad Vltavou 3227
+
+Kralupy nad Vltavou 17373
+Lipno nad Vltavou 517
+Kamyk nad Vltavou 821
+Rozmberk nad Vltavou 332
+
+Hluboka nad Vltavou 4682
 Hluboka 228
 Hluboke 210
 Slavicky 210
 Lavicky 436
-Kostelec u Krizku 436
-Kostelec u Holesova 971
-
-Holesov 12384
-Borenovice 178
-Benov 650
-Repiste 1581
-Repice 306
-Pikarec 306
-Okarec 124
-Kunejovice 124
-
-Kaznejov 3053
-Unejovice 72
-Vodranty 72
-Modra 635
-Modrava 54
-Odrava 212
-
-Benatky nad Jizerou 6818
-Horky nad Jizerou 429
-Predmerice nad Jizerou 650
-Predmir 312
-Ludmirov 587
-Velky Ratmirov 205
-Velky Senov 1978
-
-Kamenicky Senov 3982
-
-Ceska Kamenice 5475
-Konojedy 196
-Kundratice 196
-Ondratice 349
-Kondrac 460
-Rebesovice 679
-Trebelovice 460
-Belov 258
-
-Kvasice 2282
-Kvasiny 1349
-Bohdasin 236
-Hosin 685
-Kosin 61
-Bosin 86
-Prosicka 107
-Rosicka 47
-
-Rosice 5287
-Osice 409
-Jivina 409
-Horni Bukovina 206
-Bukovina 317
-Velka Bukovina 405
-Velka Dobra 1264
-Vysoke Veseli 856
-Druzec 856
-Ruzena 304
-Uzenice 122
-Uzenicky 135
-Drazen 135
-Kovan 135
-Kovanice 730
-Lukovany 524
-Lukova 683
-Lukov 1725
-Loukov 941
-Loukovice 124
-Loukovec 264
-Horka u Stare Paky 264
-Stara Paka 2026
-
-Nova Paka 9219
-Semtes 264
-Tisem 193
-Tisek 902
-Lisek 371
-Smolnice 371
-Smolne Pece 100
-Repec 261
-Prepere 855
-Vranany 855
-Vrazne 70
-Strazne 152
-
-Strakonice 23545
-Rakova 176
-Karanice 176
-Karany 496
-Nahorany 458
-Boranovice 483
-Zdiby 1314
-
-Zdice 3816
-Chodoun 500
-
-Beroun 17550
-Berovice 300
-Koberovice 150
-Potvorov 150
-Tvorovice 303
-
-Horovice 6431
-Pohori 610
-Pohorovice 73
-Libchyne 73
-Pelechy 73
-Cechy 326
-Vrchy 223
+Oslavicka 96
+Dobroslavice 679
 Vrchoslavice 601
-Oslavice 601
-Strizovice 601
-Krizanov 1832
-Krizany 657
-Dolni Rozinka 657
-Dolni Roven 1899
-Dolni Redice 794
-Horni Redice 802
-Horni Jeleni 1811
-Horni Jelcany 1
-Pluzna 198
-Lite 198
-Liten 961
-Litobor 89
-Obora 444
-Krasensko 444
-Rovensko 719
-Hrensko 267
-Hrebecniky 267
-Hradecno 440
-Smecno 1781
+Vrchoslav 666
+Vrchovnice 68
+Olovnice 401
 
-Libusin 2564
+Zirovnice 3085
+Zirov 60
+Uhlirov 360
+Rana 360
+Norbercany 360
+Mesto Libava 1213
 
-Bustehrad 2295
-Tehov 405
-Tehovec 220
-Stare Smrkovice 220
-Smrk 261
-Smrzice 1575
-Chrzin 222
-Brzice 201
-Cilec 201
-Miletin 902
-Letiny 588
-Veletiny 554
+Mesto 3013
+Horni Mesto 1009
+Dolni Mesto 849
+Dolni Morava 286
+Dolni Moravice 379
+Moravice 268
+Moravicany 1184
 
-Velke Losiny 2862
-Velke Brezno 1957
+Hradec nad Moravici 5255
+Leskovec nad Moravici 499
+Leskovec 666
+Leskovice 93
+Teskovice 839
+Teskov 282
+Pavlovice u Kojetina 282
 
-Povrly 2219
-Popovice 1091
-Topolna 1545
-Polkovice 498
-Bolkov 51
-Birkov 140
-Mirkovice 421
-Mirkov 327
-Miroslavske Kninice 327
-Moravske Kninice 775
-Morice 464
-Horni Krupa 464
-Dolni Krupa 345
-Krupa 432
-Zavlekov 432
-Davle 1176
-Kasejovice 1320
-Vitejovice 436
-Dobrejovice 658
-Dobre 846
-
-Dobruska 7085
-Brumov 236
-Brumovice 1464
-
-Bruntal 17686
-Brantice 1215
-
-Krnov 25547
-Trnov 632
-Trnova 807
-Dolni Lazany 137
-Lazany 361
-Vazany 416
-Lazanky 736
-Starovicky 736
-Starovice 761
-Litultovice 761
-Depoltovice 302
-Arnoltice 302
-Rynoltice 734
-Mala Moravka 734
-Mala Morava 589
-
-Ruda nad Moravou 2490
-
-Horka nad Moravou 2101
-Skrben 1081
-Prikazy 1224
-Vidnava 1425
-Naklo 1425
-Nakri 208
-Rakovice 208
-Klec 208
-Rudolec 208
-Cesky Rudolec 1004
-Oudolen 341
-Korenec 341
-Korenice 563
-Pisecne 563
-Pisecna 1063
-
-Ceska Ves 2554
-Preskace 106
-Prechovice 106
-Zalesany 106
-Olsany 1108
-Psanky 49
-Zabrusany 1108
-
-Zabreh 14360
-Prehysov 583
-Prevysov 342
-Vysovice 474
-Lysovice 244
-Podbrezice 244
-Podbrezi 484
-Partutovice 484
-Kuparovice 249
-Sarovy 225
-Srnin 225
-Srni 320
-Cernic 145
-Cernava 238
-Cernov 111
-Zernovice 231
-Zernov 222
-Ptenin 222
-Stenovice 1401
-Libesice 1401
-Kresice 1371
-Polepy 1178
-Polerady 222
-Boleradice 867
-Ceradice 261
-Cizkrajice 261
-Cizkrajov 581
-Pec 391
-Pecice 357
-Mecin 1118
-Mechenice 588
-Chocenice 523
-
-Blovice 3901
-Zblovice 44
-Dublovice 988
-Ublo 255
-Ratmerice 255
-Merin 1910
-Herink 77
-Zelkovice 77
-Vlkovice 130
-Vlkov 341
-Erpuzice 341
+Kojetin 6397
+Kojetice 620
+Svojetice 477
+Svojetin 328
+Rojetin 78
+Strojetice 129
+Cejetice 851
+Svetice 717
+Sveti 265
+Osvetimany 863
+Potec 759
 Uzice 759
 
 Luzice 2750
 Zaluzice 66
-Luzany 642
-Zaluzany 330
-Prestanov 330
-Prestavlky 242
-Skorice 242
+Zaluzi 478
+Horousany 478
 
-Horice 8899
-Horineves 686
-Hnevceves 158
-Vitejeves 387
-Jerice 387
-Jerisno 313
-Ostredek 313
-Postrekov 1129
-Krekov 160
-Krepenice 160
-Krec 243
-Libovice 243
-Libosovice 426
-Slavosov 165
-Osov 315
-Jinosov 317
-Osove 48
-Kosov 296
-Prestenice 296
-Hostenice 488
-Malhostovice 834
-Malenice 631
-Malecov 649
-Malec 689
-Rackova 689
-Vracovice 372
-Doubravice 372
-Doubravicka 98
-Skalicka 549
-Skalice 548
-Svojsice 548
-Svojsin 446
-Svojetice 477
+Uvaly 4797
+Skvorec 916
+Prisimasy 500
+Nenacovice 244
+Jinacovice 558
+Vacovice 70
+Vacov 1372
 
-Kojetin 6397
-Kojetice 620
-Kojatice 342
-Vatin 332
-Hatin 204
+Tovacov 2605
+Onomysl 274
+Trebnouseves 274
+Pulecny 274
+Klopotovice 274
+Hrotovice 1780
+Sobotovice 472
+
+Sobotin 2468
+
+Tlumacov 2468
+Kotvina 106
+Prechovice 106
+Starechovice 535
+Starec 1539
+Stare Buky 375
+Stare Briste 48
+Mlade Briste 208
+Mladec 787
+Mladecko 173
+Ledecko 142
+Rusin 142
+Rusinov 168
+Prusinovice 1207
+
+Rousinov 5016
+Vyskytna nad Jihlavou 672
+
+Luka nad Jihlavou 2586
+
+Jihlava 50100
+Bily Kamen 193
+Horni Kamenice 207
+
+Ceska Kamenice 5475
+Srbska Kamenice 193
+Pusta Kamenice 333
+Trhova Kamenice 865
+Kamenicna 344
+Menik 550
+Menin 1657
+Radenin 448
+Trtice 448
+Habartice 480
+Dolni Habartice 552
+Horni Habartice 394
+
+Habartov 5337
+Chlum Svate Mari 293
+Svate Pole 328
+Dobre Pole 401
+Dobre 846
+Dobren 144
+Blatce 65
+Duba 1753
+Jestrebi 783
+
+Rajec-Jestrebi 3619
+Rajecko 1222
+Stachy 1222
+Boritov 1234
+Cerna Hora 1903
+
+Kutna Hora 21280
+Krasna Hora 543
+Krasna Hora nad Vltavou 1002
+Krasna 671
+Rasna 193
+Krasna Ves 207
+
+Krasna Lipa 3677
+
+Ceska Lipa 38841
+Ceska 690
+
+Ceska Ves 2554
+Vranovska Ves 258
+Kratka Ves 150
+Velika Ves 260
+Sulikov 260
+Milikov 1291
+Zhor 384
+Kosariska 384
+Bocanovice 434
+Hanovice 450
+Chanovice 696
+Stare Techanovice 138
+Kochanov 139
+Provodovice 139
+Provodov 756
+Pstruzi 756
+Nova Ves pod Plesi 756
+Nova Ves u Bakova 232
+Nova Ves u Svetle 454
+Nova Ves u Jarosova 63
+Jarosov 181
+Jarosov nad Nezarkou 1067
+Straz nad Nezarkou 817
+Novosedly nad Nezarkou 640
+Sazovice 701
+Lazovice 72
+Blazovice 1076
+Mlazovice 577
+Dlazov 389
+Cerniny 389
+Cernin 157
+Cernic 145
+Cerniv 133
+Cerniky 95
+Cernikov 327
+Cernikovice 672
+Jenikovice 415
+Jenikov 844
+Vetrny Jenikov 577
+Mistrovice 577
+Kutrovice 102
+Tatrovice 146
+Valtrovice 382
+Berovice 300
+Koberovice 150
+Koberovy 958
+
+Zelezny Brod 6442
+Zelezna 241
+Zelezne 324
+Kozojedy 622
+Kozojidky 475
+
+Odry 7395
+Sobechleby 604
+Chleby 359
+Krchleby 725
+Ludvikovice 725
+Ludvikov 352
+Zvikov 271
+Zvikovec 170
+
+Cvikov 4435
+Slavikov 314
+Slavikovice 224
+Tavikovice 618
+Helvikovice 447
+Hartvikovice 553
+Supikovice 693
+Krasikovice 112
+Krasikov 312
+Predmir 312
+Dolni Slivno 312
+Horni Slivno 201
+Horni Slatina 142
 Slatina 721
-Velatice 586
-Zamel 586
-Naramec 355
-Pametice 204
-Modletice 355
-Tuchoraz 355
-Tuchorice 707
-Kyselka 707
-Velka Lhota 424
-Mala Lhota 140
-Mala Stahle 140
-Velka Stahle 337
-Stare Misto 337
 
-Stare Mesto 6742
-
-Uherske Hradiste 26421
-
-Uhersky Ostroh 4526
-Ostrozska Lhota 1633
-
-Ostrozska Nova Ves 3360
-Hroznova Lhota 1253
-Nova Lhota 771
-Vranova Lhota 486
-Sadek 486
-
-Hradek 2897
-Dobriv 1110
-Dobric 383
-Dobrin 488
-
-Roudnice nad Labem 13084
-Prackovice nad Labem 538
-
-Opatovice nad Labem 2218
-Vysoka nad Labem 750
-Predmerice nad Labem 1638
-Vsestary 1537
-Vsestudy 306
-Budyne 40
-Budyne nad Ohri 1964
-
-Bohusovice nad Ohri 2544
-Brnany 413
-Krnany 341
-Pernarec 767
-Perna 769
-Bavory 398
-Bavoryne 180
-Choryne 687
-Batnovice 687
-
-Trutnov 31398
-Moutnice 1139
+Slatinany 4004
+Slatiny 562
+Slatinky 454
+Slatinice 1457
+Martinice 658
+Martinice u Onsova 56
+Onsov 241
+Plesnice 241
+Lesnice 593
+Olesnice 1757
+Horni Olesnice 300
+Dolni Olesnice 369
+Zlata Olesnice 522
+Levinska Olesnice 365
+Oselce 365
+Roznov 365
+Heraltice 365
+Velke Heraltice 1613
+Velke Hostice 1675
+Velke Hosteradky 402
+Hosteradky-Resov 764
+Zahradky 630
 Otnice 1411
 Sopotnice 930
 Hnatnice 818
 Blatnice 688
 Tis u Blatna 101
 Strunkovice nad Volynkou 101
-Martinkovice 547
-Plenkovice 341
-Halenkovice 1701
-Jankovice 462
-Uhretice 462
-Honetice 68
-Velke Kunetice 635
-
-Kunovice 5148
-Kunov 10
-Kunkovice 60
-Venkov 10
-Cenkov 361
-Krizinkov 192
-Zinkovy 909
-Nebrehovice 133
-Brehov 109
-Dolni Morava 286
-Dolni Moravice 379
-Ceska Rybna 379
-Pusta Rybna 154
-Lhota Rapotina 358
-Stolany 358
-
-Dolany 2162
-Samotisky 1137
-Viska 183
-Visnove 1138
-Visnova 1319
-Strasnov 241
-Zelezna 241
-Zelezne 324
-Mezna 112
-Luzna 1806
-
-Rakovnik 16473
-Menik 550
-Menin 1657
-Opatovice 962
-Sobotovice 472
-Zelizy 472
-Zelesice 1284
-
-Velesin 4023
-Slabce 721
-Slabcice 310
-Drenice 310
-Krenice 250
-Nevcehle 250
-Unehle 118
-Ulehle 113
-Uhlejov 113
-Pracejovice 301
-Otradov 301
-Radonin 74
-Horni Pohled 74
-Pohledy 334
-
-Ledec nad Sazavou 6048
-
-Svetla nad Sazavou 7037
-Malinova 74
-Vranova 333
-Pusta Kamenice 333
-Kamenicky 775
-Kamen 376
-
-Kamenice 3011
-Kamenny Privoz 1124
-Kamenny Most 394
-Kamenny Malikov 61
-
-Kamenice nad Lipou 4148
-Kamenec 54
-Prameny 149
-Polomi 149
-Lom 137
-Sudomer 76
-Sudslava 185
-Ludslavice 465
-Pysel 465
-Kyselovice 484
-Rajec 484
-Rajecko 1222
-
-Rajec-Jestrebi 3619
-Jestrebi 783
-
-Trebic 38785
-Mackovice 380
-Mackov 284
-Sobcice 284
-Hrobcice 846
-Hrobce 519
-Hrabova 519
-Svrabov 53
-Zavraty 33
-
-Sazava 3797
-Stribrna Skalice 935
-Stribrna 459
-Stribrnice 414
-
-Stribro 7689
-Letonice 1419
-
-Letovice 6799
-Sebetov 911
-Kninice u Boskovic 784
-
-Boskovice 11121
-Troskovice 134
-Troskotovice 598
-Otovice 598
-Otov 95
-Kynice 95
-Chynice 278
-Suchy 375
-Suchov 568
-Sucha 240
-Sobkovice 240
-Dobkovice 648
-Sebkovice 481
-Bukovice 380
-Budiskovice 785
-Budec 238
-Budkov 380
-
-Moravske Budejovice 7971
-Prazmo 1007
-Nove Syrovice 1007
-Syrovice 974
-Strachotice 974
-Borotice 369
-Dobrinsko 369
-Briza 369
-Brezany 931
-Brezi 1539
-Dolni Dunajovice 1717
-Dolni Vestonice 331
-Horni Vestonice 442
-Kytlice 442
-Kytin 331
-Zbytiny 318
-Dynin 318
-Seninka 318
-Lasenice 502
-Jasenice 211
-Prasek 578
-Paseky 141
-Paseka 1162
-Jevisovice 1162
-Jenisov 393
-Budisov 1168
-Rudikov 674
-Budikov 251
-
-Budisov nad Budisovkou 3159
-Domasov nad Bystrici 482
-Detrichov nad Bystrici 484
-
-Moravsky Beroun 3369
-Horni Lodenice 348
-Tis 348
-Tistin 530
-Pistin 490
-Pistina 186
-
-Pist 2096
-
-Zelezna Ruda 2096
-Bela 705
-Kbelany 65
-Kozlany 1374
-Kozly 117
-Mily 124
-Bujesily 59
-Usilov 146
-Drahonuv Ujezd 146
-Krizkovy Ujezdec 146
-Tresnovy Ujezdec 51
-Pecnov 51
-Zbecno 437
-Horni Brusnice 437
-Dolni Brusnice 328
-Dolni Olesnice 369
-Horni Olesnice 300
-Jivovi 300
-Jivova 544
-Unesov 544
-Nesovice 1152
-Benesovice 173
-
-Benesov 16257
-Prstice 876
-Strelske Hostice 876
-Velke Hostice 1675
-Velke Heraltice 1613
-Heraltice 365
-Oselce 365
-Oselin 126
-Temelin 766
-Cmeliny 125
-Sviny 320
-Strezimir 320
-Zim 128
-Blazim 232
-Bukova 363
-Bukov 190
-Bukovina u Ciste 186
-Pavlovice u Kojetina 282
-Moravecke Pavlovice 28
-Moravec 551
-Moravice 268
-Moravicany 1184
-
-Hradec nad Moravici 5255
-Leskovec nad Moravici 499
-Krhovice 499
-Lechovice 424
-Stechovice 1377
-Stechov 152
-Utechov 208
-Starechovice 535
-
-Kostelec na Hane 2851
-Namest na Hane 1872
-Senice na Hane 1824
-Klenovice na Hane 824
-Kralice na Hane 1427
-
-Nemcice nad Hanou 2095
-
-Ivanovice na Hane 2884
-Lipno 505
-Lipoltice 361
-Lipovec 1045
-Lipi 555
-Lipina 120
-Sebestenice 120
-Ponedraz 120
-Drahonin 120
-Drahonice 356
-Pisty 356
-
-Pisek 29774
-Dolni Novosedly 189
-Novosedly 1162
-Jedli 707
-Jedla 65
-Jedlany 61
-Lany 1659
-
-Slany 15070
-Zvestov 385
-Josefov 385
-Josefuv Dul 1024
-Slezske Rudoltice 646
-Sumavske Hostice 396
-Moravske Malkovice 569
-Drzkov 569
-Bozkov 571
-Rozkos 176
-Bezkov 211
-Jezkovice 361
-Rikovice 461
-Rikov 169
-
-Jirikov 3926
-
-Cvikov 4435
-Zvikov 271
-Vykleky 271
-Male Vykleky 138
-Mala Velen 453
-Velen 780
-Velenice 203
-Zitkova 203
-
-Vitkov 6202
-Vetrkovice 765
-Vystrkov 211
-Velenka 211
-Nasimerice 211
-
-Mezimesti 2784
-Mezina 247
-Pomezi 1031
-Breziny 142
-Brezina 595
-Brezovice 289
-Bitouchov 289
-Louchov 40
-Michov 144
-Jetrichovice 390
-Petrovicky 40
-Petrovice 1362
-Petroupim 289
-Petrov 1354
-
-Straznice 5900
-Strancice 1505
-Nedakonice 1505
-
-Konice 2931
-Brodek u Konice 941
-Krasna Hora nad Vltavou 1002
-Horni Stepanov 1002
-Chornice 832
-Hornice 77
-Zahornice 319
-Mrtnik 319
-Chrtniky 83
-Cernysovice 83
-Tresovice 228
-Tresov 89
-Myslin 89
-Myslinka 161
-Racice nad Trotinou 161
-Trotina 67
-Nimpsov 67
-Psov 626
-Psovlky 246
-Mikolajice 246
-Holasice 872
-Holasovice 1366
-Tasovice 1221
-Tasov 590
-Stasov 362
-Zdarec 362
-Kreckov 334
-Krelovice 362
-Prelovice 192
-Prelic 305
-
-Strelice 2578
-Jedomelice 344
-
-Jedovnice 2578
-Olovnice 401
-Borovnice 443
-Preborov 141
-Borova 917
-
-Borovany 3739
-
-Ledenice 2193
-Radenice 161
-Radejovice 204
-
-Ceske Budejovice 96053
-Prostejovicky 276
-
-Prostejov 47374
-Mostkovice 1313
-Detkovice 462
-Cetkovice 730
-Ketkovice 606
-Zakrany 733
-
-Zbysov 3890
-Bysovec 132
-Rozna 738
-Rozsochy 704
-Rozsochatec 507
-Charovice 155
-Bartousov 155
-Bartosovice 1596
-Sedlnice 1327
-
-Pribor 8789
-Pec pod Snezkou 608
-
-Frycovice 2353
-
-Frydek-Mistek 59416
-Sedliste 1263
-Stare Sedliste 997
-Uhercice 997
-Uherce 222
-Dlouhe 274
-Dlouhonovice 794
-Vanovice 548
-Vanov 90
-Nadryby 90
-Zaryby 689
-Zar 335
-
-Zatec 19607
-Blatec 579
-Charvaty 769
-Cvrcovice 579
-Vrcovice 117
-Kopidlo 117
-
-Kopidlno 2231
-Bechary 219
-Chotycany 219
-
-Korycany 2900
-Rousmerov 108
-Kucerov 461
-Kucer 163
-Ptyrov 163
-Vyrava 301
-Vyrov 449
-Vyrovice 172
-Vidonin 172
-Rikonin 34
-Cernikov 327
-Cimice 151
-Cim 245
-Cimer 694
-Neumer 128
-Trebonin 128
-
-Trebon 8862
-Trebetice 308
-Slustice 308
-Tlustice 823
-Kyjovice 823
-
-Kyjov 12191
-Vez 792
-Velika Ves 260
-Sulikov 260
-Sulice 973
-Ulice 399
-Hulice 303
-
-Hulin 7571
-Pavlinov 249
-Drinov 446
-Omlenice 446
-Chomle 72
-Brodeslavy 72
-Brodec 62
-Podesin 243
-Radesin 107
-Horni Meziricko 107
-Meziricko 183
-Laznicky 183
-Laz 272
-Dlazkovice 110
-Cizkovice 1323
-Cizkov 606
-Brnicko 606
-Dubicko 1082
-
-Dubi 7591
-Trubin 219
-Zborov 219
-Zborovice 1619
-Zdounky 2055
-Lesunky 83
-Kakejcov 83
-Nicov 83
-Vicov 454
-Slatinky 454
-Slatiny 562
-
-Slatinany 4004
-Orel 677
-
-Pohorelice 4409
-
-Orechov 2368
-Tichov 336
-Stichov 81
-Kliny 81
-
-Bilina 15738
-
-Bilina Kyselka 15697
-Male Brezno 516
-Panenske Brezany 516
-Bzany 715
-Kostomlaty pod Milesovkou 883
-Podlesi 883
-Podlesin 288
-Nova Ves pod Plesi 756
-Pstruzi 756
-Struzinec 704
-Usobi 704
-Sobisky 161
-Visky 227
-Zamrsky 192
-Zamrsk 732
-Dobrikov 457
-Jaroslav 213
-Vlastislav 147
-Vladislav 1225
-Zdislava 257
-Budislav 461
-
-Sobeslav 7308
-Sobeslavice 133
-Hostetice 133
-Hostetin 232
-Stare Jesencany 232
-Stare Buky 375
-
-Mlade Buky 2232
-
-Klobouky 2227
-
-Valasske Klobouky 5201
-Valasska Polanka 1328
-Polanka 53
-Lubne 53
-Dubne 1141
-Odunec 91
-Hermanec 91
-Vicemil 91
-Ceminy 234
-Bolesiny 661
-Besiny 810
-Cachrov 541
-Cachovice 768
-Neplachov 353
-Drachov 233
-Prachovice 1522
-Zadni Chodov 278
-Kostelec u Hermanova Mestce 278
-
-Hermanuv Mestec 4841
-Klesice 304
-Vlastibor 304
-Liciborice 237
-Skalka 237
-Vlkancice 84
-Rancirov 197
-Malcin 197
-Valchov 457
-Plchov 167
-Zdechovice 667
-Zdechov 649
-Herspice 649
-Spicky 290
-Ricky 271
-Horicky 489
-Techlovice 489
-Tachlovice 513
-Ratenice 513
-Horatev 653
-Ratiborske Hory 742
-Ratibor 1719
-Nucice 938
-Uvalno 938
-Chvalcov 1644
-Chvalec 569
-Radvanice 1090
-Radvanovice 250
-Radvanec 118
-Stropesin 118
-Ostromer 1368
-Vsen 495
-Rajnochovice 495
-Stichovice 118
-Nezdrev 118
-Drevenice 194
-Nelesovice 194
-Velesovice 951
-Milesovice 630
-Bosovice 1071
-Borkovany 733
-Sitborice 1958
-Damborice 1258
-Mysliborice 709
-Libomysl 473
-Myslibor 227
-Umyslovice 305
-Broumy 793
-Lochousice 116
-Lochovice 1085
-Bochovice 156
-Bochov 1973
-Hradiste 617
-Radimer 1117
-Merklin 1117
-Tupesy 1117
-Podmilesy 10
-Kamenne 10
-Kamenna 583
-Lestina 1246
-Trestina 345
-Krasovice 345
-Krasov 339
-Krasova 254
-Jarpice 254
-Trpin 440
-Trpik 68
-Preckov 68
-Osicko 462
-Kosiky 406
-Osiky 132
-Osicky 132
-Kosicky 361
-Kojatky 361
-Nemojany 556
-Nemcany 717
-Nemcice 899
-Nemcicky 605
-Velke Nemcice 1654
-
-Velke Pavlovice 3078
-
-Velke Bilovice 3727
-Bilovice 1634
-Bilov 534
-
-Bilovec 7486
-Bravantice 798
-
-Ostrava 313088
-Doubrava 1744
-
-Dobra 3032
-Dobratice 1047
-Komorni Lhotka 1119
-Horni Lomna 382
-Dolni Lomna 876
-Safov 177
-Mysteves 177
-Cisteves 116
-Stare Briste 48
-Stara Rise 674
-Starec 1539
-Svratka 1539
-Vratkov 241
-Bratkovice 278
-Vitkovice 395
-Zabrodi 395
-Zabrdi 57
-Horni Smrcne 57
-Smrcna 292
-Smilovice 612
-
-Milovice 5461
-
-Lysa nad Labem 8194
-
-Brandys nad Labem-Stara Boleslav 15398
-
-Kostelec nad Labem 3052
-Tynec nad Labem 1868
-Zatcany 785
-Mzany 411
-Kojice 411
-Tojice 96
-Stojice 238
-Kozojidky 475
-Ridky 68
-Snovidky 367
-Salas 367
-Kasalice 192
-Malic 146
-Malinky 146
-Sovinky 323
-Velis 323
-Veseli 314
-Ponetovice 314
-Konetopy 259
-Krasneves 259
-Krasne 145
-Hranicne Petrovice 145
-Mlyny 145
-Mladejovice 637
-Vazany nad Litavou 637
-Svor 637
-Svinare 285
-Udrnice 285
-
-Drnovice 2225
-Cernovice 1863
-Obratan 847
-Bratrice 176
-
-Pacov 5145
-Bradacov 72
-
-Mlada Vozice 2772
-
-Mlada Boleslav 43684
-
-Kosmonosy 3822
-Bradlec 595
-Stadlec 618
-Polnicka 618
-
-Policka 9129
-Police 544
-Lahost 544
-Lahovice 334
-Strahovice 895
-Drahov 168
-Drahotesice 209
-Ujezd u Svateho Krize 209
-Ujezd u Chocne 287
-Ujezd 1341
-Ujezd pod Troskami 291
-Oskava 1471
-Horni Mesto 1009
-Dolni Mesto 849
-Dolni Rasnice 519
-Horni Rasnice 228
-Horni Radoun 257
-Lhotka nad Labem 257
-Prerov nad Labem 1067
-Jarosov nad Nezarkou 1067
-Straz nad Nezarkou 817
-Zivanice 817
-Lhanice 151
-
-Nechanice 2183
-
-Stare Nechanice 2180
-Stare Techanovice 138
-Nupaky 138
-Zaky 349
-Zakovice 216
-Sazomin 216
-Nedomice 282
-Nedvedice 1330
-Nedvezi 219
-Ledvice 516
-Olbramkostel 516
-
-Kostany 2700
-Pistany 185
-Hlasivo 185
-Sivice 979
-Janovice 1693
-
-Trojanovice 2114
-Bujanov 559
-Janov 781
-Janova 726
-Pravcice 726
-Travcice 557
-Tatce 557
-Svetce 138
-Sovetice 202
-Slavetin 453
-Slavetice 235
-Turovec 235
-Turovice 222
-Lipinka 222
-Stranka 222
-
-Strani 3803
-Korytna 963
-Koryta 117
-Kokory 1099
-Brodek u Prerova 1972
-Verovany 1306
-Bystrovany 729
-Bystrocice 592
-Bystra 84
-Bystrany 1840
-Branany 1172
-
-Obrnice 2631
-Dobrna 420
-
-Humpolec 10914
-Polen 270
-Prostredni Porici 270
-Horni Porici 309
-Horni Rapotice 152
-Rapotice 462
-
-Rapotin 3009
-
-Sobotin 2468
-
-Tlumacov 2468
-Chlumany 292
-Vlachovo Brezi 1672
-Vlachovice 1532
-Olbramov 75
-Olbramovice 1048
-Branisovice 519
-Moravske Branice 893
-
-Moravsky Krumlov 6050
-Popelin 444
-Liblin 315
-Hlina 246
-Hlinka 234
-Sirakov 234
-Makov 352
-Cermakovice 91
-Chlumy 91
-Bechlin 1150
-Libechov 973
-Libecina 165
-Libez 167
-Libeznice 1290
-Praslavice 1290
-Zbraslavice 1378
-Zbraslav 1211
-
-Oslavany 4561
-
-Ivancice 9354
-Ivan 695
-Skrivany 994
-Pribice 994
-Prisnotice 797
-Priseka 331
-Verusicky 331
-Hrusice 459
-Prusice 55
-Spelkov 55
-Spesov 565
-
-Brusperk 3620
-Brusne 369
-Trusnov 224
-Slavikovice 224
-Slavikov 314
-Tavikovice 618
-Horni Vltavice 404
-Horni Ves 345
-Horni Berkovice 926
-Dolni Berkovice 1298
-Dolni Bela 466
-Dolni Bohdikov 1427
-
-Dolni Bousov 2275
-Dolni Lochov 50
-Dolni Libochova 154
-Bezdekov pod Tremsinem 154
-
-Rozmital pod Tremsinem 4245
-Kozmice 1808
-
-Hlucin 14228
-Lucina 1181
-Blucina 2040
-Pecin 497
-Nebovidy 497
-Trebovice 806
-
-Ceska Trebova 16655
-Dlouha Trebova 1250
-Dlouha Ves 804
-Dlouha Stran 62
-
-Nove Straseci 5082
-Msec 828
-Seletice 160
-Drnek 160
-Nekor 856
-Oskorinek 534
-Okor 51
-Vokov 67
-Krokocin 214
-Kocin 124
-Koci 562
-Pocitky 191
-
-Pocatky 2719
-Strelcova 239
-Strelna 615
-Krahulci 615
-Krahulov 229
-Kraselov 229
-Drhovy 229
-Novy Knin 1779
-Novy Kostel 533
-Prosecne 533
-Prosetin 791
-
-Prosec 2098
-Rosec 203
-Mezilesi 203
-Mezileci 141
-Lestinka 141
-Korozluky 141
-Zlukov 230
-Tene 230
-Senec 228
-Jesenec 351
-Mnichov 351
-
-Mnichovice 2256
-Leskovec 666
-Vrchoslav 666
-Kunice 666
-Kunin 1811
-Unin 207
-Horni Kamenice 207
-Zubrnice 207
-
-Zubri 5409
-Vidce 1614
-Ledce 680
-Ledcice 565
-Zabcice 1492
-Hnojnik 1492
-Vojnikov 66
-Ujezd nade Mzi 66
-Ujezdec 222
-Zajezdec 104
-Zajeci 1435
-Kovarov 1435
-Svarov 266
-Loza 266
-Zavist 135
-Zavisice 756
-Lisice 166
-Litosice 100
-Petrovice Druha 100
-Mitrovice 100
-Nove Mitrovice 323
-Oborna 323
-Obory 239
-Jihlavka 239
-
-Jihlava 50100
-
-Luka nad Jihlavou 2586
-Bystra nad Jizerou 117
-Vichova nad Jizerou 925
-Vysoke nad Jizerou 1363
-
-Rokytnice nad Jizerou 3281
-Jablonec nad Jizerou 1968
-
-Jablonec nad Nisou 44878
-Lucany nad Nisou 1636
-Janov nad Nisou 1186
-Straz nad Nisou 1877
-Bily Kostel nad Nisou 811
-
-Hradek nad Nisou 7327
-Chotyne 853
-Tynec 1021
-Cetyne 168
-Chrastice 209
-
-Chrast 3186
-Chrastavice 331
-Chroustovice 1208
-Postovice 197
-Hostovice 236
-Karlova Studanka 236
-Studanka 402
-Velke Hosteradky 402
-
-Tachov 12640
-Stachy 1222
-Ostrov u Macochy 1078
-
-Ostrov 17206
-Castrov 531
-
-Karlovy Vary 51807
-Mydlovary 277
-Stare Sedlo 760
-
-Nove Sedlo 2669
-
-Loket 3217
-
-Sokolov 24901
-Olovi 1909
-Maslovice 277
-
-Kraslice 7159
-Kraslovice 144
-
-Vodnany 6687
-Rodna 110
-
-Nachod 21263
-Machov 1109
-Machova 525
-Strachotin 778
-Zachotin 223
-Otin 265
-Otice 1292
-Dolni Zivotice 1143
-Horni Zivotice 321
-
-Horni Benesov 2460
-Neprevazka 321
-Prepychy 595
-Hlavnice 595
-Slavnic 42
-Slanik 125
-Strhare 125
-Trhanov 559
-Lutopecny 559
-
-Hustopece 5913
-Pecka 1254
-Krepice 1254
-Repin 574
-Licno 574
-
-Opocno 3177
-Opocnice 389
-Kochanky 389
-Kochanov 139
-Provodovice 139
-Provodov 756
-Ceprovice 195
-Bykos 195
-Bykovice 177
-Cihan 177
-Ocihov 315
-Trtenice 315
-Krtenov 211
-Cetenov 119
-Zvolenovice 70
-Zvole 1114
-Mirotice 1114
-Mirovice 1658
-Mirov 418
-Valy 418
-
-Uvaly 4797
-Skvorec 916
-Prisimasy 500
-Zahori 500
-Zahorovice 1058
-
-Bojkovice 4742
-Vojkovice 1032
-Tuchomerice 1032
-
-Horomerice 2212
-Jaromerice 1242
-
-Jevicko 2886
-
-Velke Opatovice 4169
-Opatov 1124
-Slopne 575
-Lesany 575
-Tesany 1155
-Traplice 1139
-
-Kaplice 7195
-
-Teplice 51223
-Teplicka 81
-Teplice nad Becvou 342
-Hobsovice 342
-
-Dobsice 2363
-Dobsin 218
-Vysoka Lhota 23
-Zarecka Lhota 167
-Kadolec 167
-Stradoun 167
-Stradonice 98
-Radonice 1190
-Milonice 335
-Milonovice 282
-Horni Loucky 282
-Dolni Loucky 1111
-Teskov 282
-Braniskov 167
-Branisov 189
-Castohostice 189
-
-Hostinne 4795
-Hostin 214
-Hostice 176
-Cestice 944
-Cestin 455
-Chroboly 455
-
-Hronov 6516
-Provodov-Sonov 1225
-Kramolna 961
-Kramolin 121
-Novy Kramolin 237
-Jamolice 444
-
-Holice 6219
-Holin 541
-Jinolice 167
-Cernolice 199
-
-Cernosice 4920
-Cernosin 1097
-Cerna 318
-Cerna Hora 1903
-Boritov 1234
-Borice 169
-Sporice 955
-Ostretin 955
-Kvetinov 213
-Kvetov 114
-Selmice 114
-Semice 934
-Vsemina 1061
-Lhota u Vsetina 744
-
-Vsetin 28575
-Olesnik 726
-Olesnice 1757
-Charvatce 184
-Kretin 509
-Boretin 106
-Boretice 1297
-Skvoretice 311
-Uhreticka Lhota 217
-Krenek 217
-Kulirov 217
-Uhlirov 360
-Rana 360
-Slana 652
-Horni Dunajovice 652
-Horni Dubnany 315
-Dolni Dubnany 469
-Komarno 315
-
-Komarov 2426
-Komarovice 114
-Kozarov 115
-Kozarovice 332
-Horni Studenky 332
-Dolni Studenky 1278
-Nezamyslice 1278
-Mysliv 450
-Mystice 271
-Mysletice 119
-Lesetice 97
-Vodslivy 97
-Hodslavice 1699
-Radslavice 1110
-Zdislavice 521
-Kocbere 521
-
-Liberec 97770
-Ulibice 241
-Vselibice 522
-Libis 1807
-Libisany 407
-Hlizov 407
-Strizov 173
-Radhostice 173
-Radhost 162
-
-Roznov pod Radhostem 17238
-
-Frenstat pod Radhostem 11334
-Ticha 1585
-Cichalov 153
-Michalovice 148
-Malovice 640
-Dalovice 1880
-Rozdalovice 1648
-Chvalovice 441
-Pochvalov 247
-Putimov 247
-Jimramov 1207
-Novy Jimramov 72
-
-Novy Jicin 26547
-
-Stary Jicin 2405
-
-Zastavka 2405
-
-Zasova 2790
-Zasovice 121
-Trebetin 121
-Treben 383
-Trebestovice 799
-Vycapy 799
-Tucapy 831
-Zapy 634
-Slapy 648
-Klapy 530
-Zbyslavice 530
-Zizice 530
-Cizice 426
-
-Chlumcany 2383
-Chlum 254
-Trnavka 667
-Trnava 1118
-Zavada 588
-Zasada 816
-Sadov 1016
-Sadova 320
-Hladov 119
-Ovesne Kladruby 119
-Snet 99
-Vresnik 99
-
-Trest 5979
-Trestice 109
-Kdousov 109
-Jedousov 145
-Usov 1186
-Bedrichov 271
-Detrichov 622
-Stary Petrin 250
-Stary Parezov 130
-Stare Hrady 164
-Stare Hradiste 1219
-Srbec 284
-Srby 386
-Sendraz 91
-Sendrazice 310
-Drazice 696
-Drazicky 76
-Drazic 228
-Razice 413
-Kratochvilka 413
-Tochovice 571
-
-Stochov 5538
-Mistrice 1169
-Ostra 385
-
-Ostravice 2324
-
-Frydlant nad Ostravici 9824
-Silherovice 1534
-Verovice 1936
-Vernerovice 374
-Vernerov 10
-Vernerice 1083
-
-Neratovice 16427
-Neratov 97
-Stehlovice 97
-Rehlovice 1129
-Lysice 1831
-Kysice 740
-Pritluky 740
-Velke Pritocno 829
-Male Pritocno 227
-Tocnik 224
-Kostniky 224
-Mastnik 216
-Choustnik 521
-Zabestni Lhota 149
-Horni Lhota 592
-Dolni Lhota 1308
-Dolni Lanov 680
-Chvalikovice 680
-Malikovice 346
-Prikosice 346
-Kosice 690
-Male Zernoseky 690
-Velke Zernoseky 480
-Cernousy 322
-Melcany 480
-Loucany 624
-Naloucany 154
-Pokojov 154
-Pokojovice 87
-Strachonovice 87
-Hvezdonovice 85
-Hvezdonice 319
-Novy Prerov 319
-
-Prerov 47311
-Pavlovice u Prerova 790
-Pavlovice 173
-Pavlov 592
-
-Opava 60252
-
-Kravare 6787
-Stitina 1173
-Vitin 264
-Vitice 976
-Kvitkov 159
-Kvitkovice 85
-Nitkovice 283
-Jitkov 187
-Rakova u Konice 187
-Havlickova Borova 957
-
-Havlickuv Brod 24356
-Trebivlice 775
-Cebiv 272
-Cebin 1632
-Netrebice 456
-Reka 456
-Javurek 245
-Javorek 111
-Horesovicky 111
-Horesovice 243
-Presovice 136
-Kotlasy 136
-
-Plasy 2527
-Plav 326
-Plavy 1077
-Plavec 438
-Prosenicka Lhota 438
-Lhota 782
-Pradlo 218
-Kudlovice 879
-Babice 1754
-Babicky 980
-Horovicky 478
-Horousany 478
-Trbousany 354
-Pnovany 354
-Pnovice 846
-
-Smirice 3122
-Mirejovice 169
-Sirejovice 280
-Mutejovice 779
-
-Mutenice 3647
-Mutenin 252
-Hlavecnik 252
-Petravec 173
-Varvazov 173
-Razova 523
-Drazov 270
-Drazovice 814
-Blazovice 1076
-Jirikovice 871
-Kovalovice 631
-Holubice 834
-Holubov 954
-Hlubos 536
-Bosice 291
-Bestin 291
-Vestin 185
-Novy Vestec 275
-Stary Vestec 148
-Vestec 1143
-Mestecko 396
-Vseradice 396
-Radic 211
-Sveradice 342
-Strazkovice 342
-Vrazkov 392
-Vraz 881
-Malesov 881
-Malesovice 390
-Stary Bydzov 390
-
-Novy Bydzov 7160
-Hvozdnice 323
-Hvozdna 1075
-Vesela 708
-Vesele 286
-Nihosovice 286
-Nihov 196
-Krhov 205
-Ustrasice 205
-
-Strasice 2442
-Olesenka 175
-Pricina 175
-
-Jicin 16328
-Jicineves 569
-Cineves 480
-Poricany 1197
-Sykorice 422
-Mezoun 422
-Kounice 948
-Kounov 496
-Okounov 287
-Velka Skrovnice 287
-Polom 287
-Velka Polom 1597
-Pusta Polom 1394
-Pustejov 967
-Hostejov 36
-Hostejn 449
-Holstejn 156
-Polste 92
-Pesvice 92
-Horni Myslova 92
-Myslkovice 350
-Nemyslovice 137
-Nemysl 275
-Chotoviny 1578
-Chotovice 175
-Boudy 175
-Bousin 131
-
-Rousinov 5016
-Vyskytna nad Jihlavou 672
-
-Vyskov 22265
-Vyskovec 164
-Lichoceves 164
-
-Chocen 9008
-Vicenice 213
-Kostenice 494
-Dasice 1797
-Prodasice 90
-Olesko 90
-Oleska 841
-Kotvrdovice 841
-Tvrdonice 2042
-
-Hodonin 26345
-
-Zlonice 2232
-Zlonin 198
-Palonin 343
-Jablonna 316
-Radnovice 316
-Radnoves 107
-Sudislav nad Orlici 107
-Lomec 107
-Chromec 584
-Bile Podoli 584
-Bile Policany 154
-Klicany 294
-Klecany 1904
-
-Roztoky 5956
-Beloky 120
-Stredokluky 838
-Kluky 515
-Novy Jachymov 515
-
-Jachymov 3143
-Bozi Dar 244
-Bozicany 623
-Bozice 1436
-Zbozicko 180
-Hlinna 180
-Vitcice 180
-Belcice 991
-Celcice 570
-Kuncice 274
-Trebnouseves 274
-Stebno 436
-Jistebnice 2007
-Jistebnik 1461
-
-Klimkovice 3779
-Teskovice 839
-Bukovka 400
-Bitov 400
-Bitovany 408
-Litovany 138
-Zitovlice 138
-Hostovlice 258
-Male Kysice 258
-Litochovice 258
-Zalsi 258
-Malsice 1702
-Malsin 118
-Chvalsiny 1159
-Boletice 256
-Zeletice 503
-Krnsko 503
-Skalsko 364
-Skaly 261
-Velka Chyska 286
-Chysky 1080
-Hyskov 1296
-Braskov 904
-Raskovice 1771
-Stonava 1771
-Stonarov 927
-
-Mesto 3013
-
-Klaster 3034
-Predklasteri 1446
-
-Tisnov 8227
-Pristoupim 400
-Lomnicka 400
-Lomnice 1300
-Cenkovice 186
-Maly Ujezd 819
-Doubravnik 819
-Doubravy 450
-Hanovice 450
-Kanovice 271
-Dekanovice 55
-Hermanovice 379
-Hermanov 485
-Horni Tosanovice 485
-Horni Police 668
-Horni Bradlo 474
-Horni Branna 1798
-Horni Kounice 264
-
-Dolni Kounice 2403
-Bratcice 676
-Tetcice 969
-Horni Netcice 215
-Dolni Netcice 270
-Milcice 270
-Bilcice 251
-Dvorce 1518
-Norbercany 360
-
-Cercany 2611
-
-Ricany 11329
-Bristvi 299
-Obristvi 981
-Stvolinky 294
-Otvovice 701
-Otvice 558
-Jinacovice 558
-Nenacovice 244
-Ocelice 244
-Cecelice 589
-Cecelovice 159
-Bratrikovice 159
-Jenec 1054
-Vlkanec 595
-Vlkanov 117
-Lkan 154
-Trpisovice 154
-Trpisty 221
-Tynistko 165
-Rozsicka 165
-Panenska Rozsicka 92
-Anenska Studanka 188
-Bohostice 188
-Trebohostice 303
-Pasinka 303
-Rasin 72
-Strasin 358
-Ustrasin 193
-Kladeruby nad Oslavou 193
-Obruby 193
-
-Dobrovice 2954
-Dobroviz 468
-Nikolcice 776
-Sokolnice 1761
-Kobylnice 829
-Kobyli 2058
-Kobylice 193
-Bylany 352
-Kobyla 504
-Obytce 166
-Samsin 166
-Ubusinek 100
-Husinec 1339
-Rusin 142
-Rusinov 168
-Prusinovice 1207
-Korouhev 748
-Korouzne 271
-Louznice 216
-Luznice 380
-Kozichovice 380
-Cichov 269
-Bransouze 273
-Touzetin 291
-Drouzetice 111
-Smrcek 111
-Smrzov 397
-Jezov 694
-
-Brezova 2826
-Dolni Rychnov 1337
-Dolni Nivy 277
-Obedkovice 277
-Obedovice 236
-Snedovice 729
-Hostka 1473
-Poustka 117
-Dolni Poustevna 1941
-Dolni Podluzi 1199
-Horni Podluzi 739
-Kolsov 739
-Olsovice 35
-Olsovec 458
-Lhotka 458
-Lhotky 132
-Lhotsko 240
-Kacakova Lhota 132
-Zdarek 132
-Zdar 1181
-Prisovice 1277
-Jenisovice 850
-Frydstejn 837
-Pernstejnske Jestrabi 174
-Jestrabi 321
-Jestrabi Lhota 366
-Belusice 240
-Hlusice 761
-Hlusovice 369
-
-Slusovice 2904
-Slup 443
-Lupenice 247
-Vapenice 191
-Lopenik 191
-Bystrice pod Lopenikem 801
-Dolni Lukavice 801
-
-Dolni Nemci 2957
-Horni Nemci 854
-Horni Nemcice 91
-Krajnicko 91
-Hajnice 897
-Zahaji 368
-Stavesice 368
-Stavenice 155
-Mokrouse 155
-Mokrovousy 267
-Holovousy 495
-Podevousy 251
-Sedlonov 251
-Medonosy 111
-Medlice 182
-Radosov 182
-Radosovice 556
-Zdarky 556
-Darkovice 1210
-Markvartovice 1766
-
-Detmarovice 3821
-Otmarov 188
-Popovicky 188
-Velke Popovice 1926
-Vysoke Popovice 602
-Vysoke Pole 787
-Opolany 787
-Topolany 293
-Zalany 461
-Seloutky 461
-Zerutky 269
-Vrutice 269
-Kropacova Vrutice 775
-Vacov 1372
-Vacovice 70
-
-Tovacov 2605
-Onomysl 274
-Radomysl 1149
-Skrdlovice 611
-Medlovice 482
-Medlov 1560
-Horni Stropnice 1560
-Horni Kalna 318
-Dolni Kalna 619
-Chvojenec 619
-Byst 1115
-Bystre 1681
-
-Bystrice nad Pernstejnem 8996
-
-Bystrice 5076
-
-Trinec 38415
-Krinec 1351
-Krinice 353
-Radimovice u Zelce 353
-Radimovice 233
-Radim 981
-Kly 919
-Podmokly 270
-Podmoky 157
-Rokytovec 121
-Stoky 1540
-Restoky 467
-Brestek 719
-Brest 954
-
-Podborany 6212
-Krasny Dvur 758
-Novy Dvur 69
-Schorov 69
-Dunice 69
-Oznice 362
-Voznice 459
-Liblice 459
-Keblice 329
-Vechnov 329
-Lichnov 1088
-Krychnov 102
-Kutrovice 102
-Litostrov 102
-
-Litomysl 10146
-Dobrovitov 124
-Dobromilice 817
-Dobromerice 1329
-
-Louny 19147
-Chodouny 628
-
-Chodov 14454
-Hodov 295
-Vidlata Sec 295
-Nova Sidla 232
-Nova Ves u Bakova 232
-Nova Ves u Jarosova 63
-Ohavec 63
-Xaverov 54
-Kratusin 54
-Katusice 777
-
-Velka Hledsebe 2164
-Velka Jesenice 728
-
-Jesenice 3221
-
-Jesenik 12457
-Cerna Voda 630
-Stara Cervena Voda 669
-
-Cervena Voda 3180
-Bila Voda 298
-Kuncina Ves 49
-Kuncina 1191
-Uncin 199
-Hlincova Hora 276
-Kosova Hora 1188
-
-Sedlcany 7836
-Kelcany 245
-Hradcany 492
-Marianske Radcice 400
-Chudcice 671
-
-Veverska Bityska 2842
-Ceska 690
-Lelekovice 1476
-Cekov 118
-Dekov 191
-Bezdekov 871
-Janovice nad Uhlavou 2049
-Hlavnovice 504
-Manovice 45
-Chanovice 696
-Mutkov 45
-
-Nepomuk 3670
-Milec 338
-Plazy 338
-Planice 1649
-Mala Viska 88
-Mala Skala 1067
-Klasterni Skalice 114
-Horni Skrychov 80
-Horni Pena 476
-Dolni Pena 114
-Dolni Zdar 115
-Sounov 115
-Lounova 66
+Strunkovice nad Blanici 1230
+Lounovice pod Blanikem 679
 Lounovice 519
-Drahany 519
-Drahanovice 1699
-Slatinice 1457
+Lounova 66
+Ujezd nade Mzi 66
 
-Lutin 3194
-Chlustina 210
-Cholina 664
+Spalene Porici 2529
 
-Kolin 29690
-Stary Kolin 1561
-Kuzelov 407
-Mazelov 209
-Domazelice 453
-
-Domazlice 10944
-Domanovice 132
-Domanin 1020
-Domasin 98
-Domasov 591
-Markvartice 591
-Marsov 456
-Misovice 245
-Misov 113
-Samopse 113
-Kunemil 113
-Nemile 569
-
-Semily 9040
-Benesov u Semil 834
-Kostalov 1671
-Hostalovice 134
-Starosedlsky Hradek 134
-Novy Hradek 697
-Rtyne nad Bilinou 697
-Libice nad Cidlinou 1310
-Spojil 280
-Vilemovice 280
-Milesin 86
-Milesov 318
-Selesovice 308
-Zavidov 308
-Vidov 306
-Viden 390
-Ridec 168
-Ridelov 85
-Zdelov 211
-Sindelova 266
-Svrkyne 266
-Korkyne 100
-Ckyne 1466
-
-Volyne 3190
-Svijany 286
-Svijansky Ujezd 371
-Podboransky Rohozec 122
-Sovolusky 122
-Hracholusky 491
-
-Prachatice 11803
-Petikozly 77
-Kozli 741
-Jarcova 741
-
-Valasske Mezirici 27481
-
-Valasska Bystrice 2240
-Bystricka 956
-Ruzdka 877
-Rudka 335
-Radkov 510
-Mladkov 568
-Drouzkovice 568
-Odrovice 205
-Modrovice 58
-Syrov 58
-Jarov 232
-Jarosov 181
-Drahotin 181
-Lechotice 394
-Horni Habartice 394
-Dolni Habartice 552
-Volfartice 599
-Nebuzely 401
-Prebuz 81
-Trebejice 81
-Libejice 102
-Libejovice 463
-Volarna 463
-
-Volary 4059
-Lenora 810
-Senorady 396
-Korenov 1014
-
-Desna 3481
-
-Tanvald 6921
-Kunvald 1009
-Val 291
-Vratenin 291
-Vratno 106
-Blatno 533
-Petrohrad 678
-Lomnice nad Luznici 1660
-
-Plana nad Luznici 3128
-
-Sezimovo Usti 7420
-Rimovice 185
-Rimov 721
-Krimov 189
-Roblin 189
-Kolomuty 189
-Olomucany 892
-Paclavice 892
-Vaclavice 455
-Vaclavy 61
-Vaclavovice 1544
-
-Senov 5462
-Mseno 1417
-Kanina 39
-Kanice 555
-
-Slapanice 7109
-Slapanov 802
-Zichlinek 802
-Mrlinek 288
-Kridla 288
-Kridluvky 215
-Petkovy 215
-Radkovy 179
-Pozdatin 179
-Pozden 390
-Pozdechov 574
-Oboriste 574
-Borislav 333
-Smolotely 219
-Holotin 36
-Choltice 912
-Rudoltice 993
-Damnikov 685
-Jamne 493
-Horni Cermna 1016
-Dolni Cermna 1371
-
-Dolni Dobrouc 2543
-
-Letohrad 6195
-Sytno 290
-
-Rokytnice v Orlickych Horach 2463
-Olesnice v Orlickych horach 470
-Orlicky 279
-Sukorady 279
-Bukovnik 68
-Bukovno 621
-
-Tynec nad Sazavou 5165
-Krhanice 826
-Rantirov 436
-Mirosovice 894
-Senohraby 907
-Raby 560
-Rabyne 238
-Hrabuvka 325
-
-Hranice 19582
-Cerny Dul 753
-Cernotin 753
-Belotin 1630
-Stara Voda 475
-Stitary 671
-Radostice 671
-Radostin 156
-Ostruzna 156
-Ostrata 344
-Hlohovice 344
-Hlohova 251
-Hlohovec 1315
-
-Zliv 3656
-
-Podivin 2872
-Divaky 468
-Niva 367
-Hora Svate Kateriny 367
-Hora Svateho Sebestiana 253
-Paseky nad Jizerou 253
-Lancov 253
-Francova Lhota 1615
-Nedasova Lhota 749
-Nedasov 1428
-Navojna 727
-Hejna 159
-Hermanky 159
-Herman 219
-Manetin 1240
-Netin 302
-Pastviny 302
-Bestvina 508
-Utvina 553
-Kublov 553
-Jablonov 326
-Jablonany 367
-Brandov 249
-Zandov 1907
-Dolni Zandov 1204
-Dolni Zahori 737
-Zachlumi 737
-Chlumin 425
-Hluchov 342
-Lucice 584
-Urcice 1305
-Zercice 312
-Racice 312
-Racin 96
-Kacice 1169
-Bacice 192
-Hrotovice 1780
-Dalesice 580
-Vesin 606
-Breznik 635
-
-Namest nad Oslavou 5192
-Vchynice 317
-Urbanice 317
-Urbanov 124
-
-Banov 2095
-Banovice 111
-Zupanovice 83
-Stepanovice 637
-
-Stepanov 3310
-Kristanovice 285
-Kristanov 132
-Stanoviste 317
-Stanovice 495
-Bristany 215
-Dobrockovice 215
-Dobrocovice 150
-Brezinky 150
-Hartinkov 59
-Martinkov 272
-Martineves 691
-Ctineves 274
-Ctetin 268
-
-Steti 9165
-Tetin 742
-Loucka 742
-Loucky 148
-Zbesicky 121
-Zbenice 121
-Libenice 257
-Libetice 80
-Libel 114
-Trubska 114
-Troubsko 1822
-Potehy 641
-Popuvky 641
-Ostopovice 1367
-Tisova 497
-Hostisova 438
-Neubuz 438
-Buzice 135
-Dolni Hrachovice 135
-Dolni Hradiste 37
-Stihlice 124
-Hlince 78
-
-Jince 2139
-Vincencov 84
-Rence 886
-Bilence 206
-Milejovice 50
-Zadni Vydri 50
-Kostelni Vydri 152
-Kostelni Radoun 261
-Kozomin 261
-Omice 719
-Rymice 558
-
-Rymarov 9069
-Vysoky Ujezd 532
-Velky Ujezd 1068
-Medovy Ujezd 183
-Dlouhy Ujezd 294
-Cisarov 294
-Pisarov 703
-
-Psary 2243
-Psare 116
-Karlova Ves 116
-Karlov 73
-Karlovice 1128
-Jakartovice 1054
-
-Habartov 5337
-Bukovany 1808
-Citice 880
-Litic 124
-Litichovice 47
-Libochovicky 47
-
-Libochovice 3627
-Libochovany 554
-Vochov 554
-Dubnice 529
-Dolni Zalezly 529
-Zalezly 304
-Zalezlice 350
-Zalesi 186
-Zalesna Zhor 40
-Lesna 1965
-Hustopece Nad Becvou 1748
-Bernartice nad Odrou 794
-Jesenik nad Odrou 1898
-Jakubcovice nad Odrou 671
-Krasna 671
-Rasna 193
-Horusice 193
-Chorusice 458
-Velka Losenice 985
-Srch 985
-Skrchov 94
-Krcman 454
-Ocmanice 322
-Nemanice 322
-Semanin 557
-Mrsklesy 557
-Sklene 222
-Klenec 417
-Simonovice 417
-
-Mimon 6692
-Bukvice 146
-Bohatice 146
-
-Hat 2539
-
-Rohatec 3343
-Potec 759
-Zeranovice 759
-Zeravice 1043
-Zeraviny 189
-Levin 104
-
-Milevsko 9343
-Polevsko 343
-Trnove Pole 127
-Kosorin 127
-Kosorice 382
-Nosovice 979
-Rosovice 725
-Krchleby 725
-Chleby 359
-Bobnice 747
-Zdobnice 151
-Hojkov 151
-Hojanovice 92
-Rodkov 92
-Radkovice 90
-Nova Bukova 90
-Velka Bukova 256
-Nedabyle 256
-Babylon 275
-Cechocovice 275
-Chocomysl 151
-Myslocovice 582
-Tecovice 1272
-Jetrichov 438
-Oldrichov 225
-Oldrichovice 373
-Hlavatce 373
-Blatce 65
-Sedlatice 67
-Horni Paseka 67
+Velke Porici 2275
+Kralovske Porici 728
+Horni Porici 309
+Horni Podluzi 739
+Dolni Podluzi 1199
+Dolni Poustevna 1941
+Dolni Pena 114
+Horni Pena 476
 
 Horni Plana 2278
 
 Plana 5450
 Chodova Plana 1793
 Nova Plan 33
-Nemiz 33
-Sleglov 33
-Slovenice 41
-Slovec 521
-Kralovec 169
+Nova Pec 618
 
-Dvur Kralove nad Labem 16150
-Slavce 521
-Milavce 586
-Milasin 56
-Martinice u Onsova 56
-Martinice 658
-Ctimerice 97
-Nimerice 282
-Budimerice 574
-Libun 730
-Morasice 730
+Nova Paka 9219
+Stara Paka 2026
+Roztoky u Jilemnice 936
 
-Nymburk 14373
-Frymburk 1324
-Svaty Tomas 20
-Svaty Jan 636
-Svaty Jiri 300
-Svate Pole 328
-Svojetin 328
-Rojetin 78
-Strojetice 129
-Racetice 237
-Miretice 1205
-Dolni Holetin 745
-Dolni Horice 795
-Veznice 149
-Veznicka 113
-Senicka 334
-Senice 165
-Strenice 174
-Vilice 174
-Kvilice 73
-Kvilda 166
-Horska Kvilda 62
-Kasperske Hory 1562
-Pozlovice 1189
-Lovcovice 62
-Lovcice 804
-Archlebov 894
-Barchov 233
-Cerneves 204
-Boharyne 526
-Ohare 272
-Oharice 58
-Staric 1906
-Zarici 746
-Puklice 746
-Vojtanov 217
-Vojtechov 419
-Vojnuv Mestec 720
-Krizova 1630
-Krizovatka 278
-Kratka Ves 150
-Vranovska Ves 258
-Tisnovska Nova Ves 67
+Jilemnice 5777
+Jilem 126
+Zhorec 126
+Zadni Zhorec 140
+Mala Stahle 140
+Mala Lhota 140
+Bila Lhota 1091
+Lhota 782
+Husi Lhota 119
+Jestrabi Lhota 366
+Jestrabi 321
+Kurimske Jestrabi 130
+Pernstejnske Jestrabi 174
 
-Moravska Nova Ves 2517
-Moravsky Zizkov 1396
+Bystrice nad Pernstejnem 8996
+Bystrice pod Lopenikem 801
+Lopenik 191
+Pocitky 191
+Jersin 191
+Lanzov 191
+Sarovcova Lhota 191
+Haskovcova Lhota 82
+Francova Lhota 1615
+Salacova Lhota 134
+Hurtova Lhota 222
+Nedasova Lhota 749
+Nedasov 1428
+Navojna 727
+Vir 749
 
-Prusanky 2145
-Hrusky 1409
-Hruska 250
-Hrusov 189
-Hrusova 343
-Hrusovany 272
-Evan 272
-Kotovice 272
-Klopotovice 274
-Pulecny 274
-Lulec 685
+Valasske Klobouky 5201
+Vlachovice 1532
+Neplachovice 876
+Neplachov 353
+Cachovice 768
+Prachovice 1522
+Dolni Hrachovice 135
+Hrachoviste 80
+Drachov 233
+Harrachov 1700
+Machov 1109
+Machova 525
+
+Tachov 12640
+Studanka 402
+Ctibor 338
+Losina 904
+
+Velke Losiny 2862
+Velke Brezno 1957
+Male Brezno 516
+Panenske Brezany 516
+Brezany 931
+Brezi 1539
+Brezina 595
+Breziny 142
+Snezne 752
+Vecov 662
+
+Becov 2072
+Becov nad Teplou 976
+Janov nad Nisou 1186
+Lucany nad Nisou 1636
+
+Jablonec nad Nisou 44878
+Straz nad Nisou 1877
+
+Hradek nad Nisou 7327
+Bily Kostel nad Nisou 811
+Novy Kostel 533
 
 Cerveny Kostelec 8441
-Kostelec 835
-Svetla pod Jestedem 835
-Jesetice 131
-Roubanina 131
-Banin 312
-Ceska Metuje 312
+Cerveny Ujezd 830
+Pleteny Ujezd 405
+Kamenny Ujezd 2002
+Kamenny Privoz 1124
+Vapenny Podol 202
+Vapenna 1271
+Zulova 1332
+Cerna Voda 630
 
-Nove Mesto nad Metuji 10126
+Cervena Voda 3180
+Stara Cervena Voda 669
+Cervena Hora 190
+Zelena Hora 233
+
+Mokra Hora 2612
+Kosova Hora 1188
+Hlincova Hora 276
+Hlince 78
+Utechovice 78
+Utechov 208
+Utechovicky 73
+Stechovice 1377
+Stechov 152
+Cetechovice 211
+Vsechovice 873
+Bochovice 156
+
+Libochovice 3627
+Libochovicky 47
+Libochovany 554
+Horni Libochova 216
+Dolni Libochova 154
+Bochov 1973
+Bochor 1000
+Ochoz 200
+Ochoz u Tisnova 108
+Kozusice 108
+Hlusice 761
+Belusice 240
+Bohusice 113
+Zehusice 587
+Zehun 437
+Zbecno 437
+Nova Ves v Horach 437
+Nova Ves nad Luznici 341
+
+Veseli nad Luznici 6534
+Veseli 314
+Veselice 99
+Veselicko 821
+Nove Veseli 1236
+Vysoke Veseli 856
+
+Vysoke Myto 12293
+Vysoke Chvojno 352
+Velke Chvojno 698
+Chvojenec 619
+Byst 1115
+Bystrovany 729
+Bystrocice 592
+Otrocin 546
+Osvracin 546
+Mokrouse 155
+Okrouhla 523
+Osova Bityska 784
+Sebetov 911
+Cetkovice 730
+Detkovice 462
+Ketkovice 606
+Stetkovice 294
+Vitkovice 395
+Kvitkovice 85
+Nitkovice 283
+Bratkovice 278
+Vratkov 241
+Strasnov 241
+Krasno 670
+Krasna-pod Krasnou 402
+Krasne 145
+Krasneves 259
+Krasne Udoli 451
+Libavske Udoli 590
+Liba 600
+Lodherov 600
+Hazlov 1583
+
+Plesna 2077
+Lesna 1965
+Olesna 520
+Nova Olesna 95
+Lhota u Olesnice 36
+Lhota u Lysic 128
+Lhota u Vsetina 744
+
+Vsetin 28575
+Prosetin 791
+Prosecne 533
+
+Prosec 2098
+Rosec 203
+Prosec pod Kremesnikem 85
+Stritez pod Kremesnikem 45
+Stritez 984
+Chocomysl 151
+Spomysl 430
+Dretovice 430
+
+Letovice 6799
+Ponetovice 314
+Konetopy 259
+Kyskovice 259
+Byskovice 387
+Raskovice 1771
+Braskov 904
+Velka Dobra 1264
+Velka Kras 892
+
+Velka Bites 4843
+
+Veverska Bityska 2842
+Chudcice 671
+Cebin 1632
+Hradcany 492
+
+Tisnov 8227
+Pristoupim 400
+Marianske Radcice 400
+Dolni Loucky 1111
+Horni Loucky 282
+Loucky 148
+Michalovice 148
+Cichalov 153
+Drunce 56
+Milasin 56
+Brambory 106
+Cernovice 1863
+Zernovice 231
+Zernov 222
+Zernovnik 195
+Cernov 111
+Cernosin 1097
+
+Cernosice 4920
+Svinosice 264
+Sviny 320
+
+Trhove Sviny 4705
+Valsov 263
+Nove Herminovy 263
+Komarice 263
+
+Komarov 2426
+Komarovice 114
+
+Detmarovice 3821
+Otmarov 188
+Popovicky 188
+Ostopovice 1367
+Pecin 497
+
+Decin 52058
+Cikov 220
+Bynovec 220
+Arnoltice 302
+Rynoltice 734
+Choltice 912
+Rudoltice 993
+Slezske Rudoltice 646
+Cesky Rudolec 1004
+Rudolec 208
+Oudolen 341
+Korenec 341
+Erpuzice 341
+Zizkovo Pole 341
+Moravsky Zizkov 1396
+
+Moravsky Pisek 2201
+
+Moravsky Beroun 3369
+
+Beroun 17550
+
+Kraluv Dvur 5805
+Hyskov 1296
+Nizbor 1549
+Hudlice 1206
+Udlice 1039
+Rudlice 107
+Horni Meziricko 107
+Meziricko 183
+Medovy Ujezd 183
+Viska 183
+Doksany 368
+Libnikovice 138
+Libnic 382
+Horni Lomna 382
+Dolni Lomna 876
+Dolni Lochov 50
+Lochovice 1085
+
+Zidlochovice 3075
+Tochovice 571
+Litochovice 258
+
+Stochov 5538
+Rochov 107
+Dobrochov 264
+Dobrocovice 150
+Mocovice 325
+Cechocovice 275
+Myslocovice 582
+Tecovice 1272
+Cecovice 68
+Krecovice 699
+Krec 243
+Libovice 243
+Dubovice 63
+Ohavec 63
+Oplany 63
+Lany 1659
+
+Slany 15070
+Slana 652
+Hosteradice 1488
+Ceradice 261
+Vseradice 396
+Sveradice 342
+Hobsovice 342
+Rosovice 725
+Mirosovice 894
+
+Mirosov 2237
+Osov 315
+Kosov 296
+Kosor 714
+Zbuzany 665
+Jinocany 791
+Chyne 675
+
+Bechyne 5755
+Loucim 126
+Velke Tresne 126
+Horni Tresnovec 620
+Horni Tesice 162
+Dolni Tesice 37
+Otesice 152
+Chotesice 323
+Drahotesice 209
+Drahotin 181
+Drahonin 120
+Drahonice 356
+Uhonice 887
+Pruhonice 2007
+Suchonice 162
+Tichonice 200
+Cerhonice 134
+Cerhovice 945
+Drhovice 185
+Krhovice 499
+Krhov 205
+Ustrasice 205
+
+Strasice 2442
+Strasin 358
+Ustrasin 193
+Rasin 72
+Zbrasin 316
+Radnovice 316
+Radnoves 107
+Sudislav nad Orlici 107
+Budislav 461
+Zdislava 257
+Zdislavice 521
+Ubislavice 339
+Ludslavice 465
+Predslavice 235
+Predslav 697
+Rtyne nad Bilinou 697
+Budyne nad Ohri 1964
+
+Bohusovice nad Ohri 2544
+Bohusov 456
+Osoblaha 1136
+Jezovy 234
+Sirakov 234
+Sira 92
+Pesvice 92
+Horni Myslova 92
+Kostelni Myslova 64
+Kostelni Hlavno 429
+Sudovo Hlavno 421
+Predotice 421
+Radotice 139
+Mladotice 552
+Radotin 196
+Rohenice 196
+Lhenice 1771
+Rehenice 422
+Drahenice 180
+Lochenice 504
+Mechenice 588
+Usti 588
+Ustin 353
+Pustina 63
+Chlustina 210
+Slustice 308
+Tlustice 823
+Kostice 1864
+
+Lostice 3098
+Radostice 671
+Radostin 156
+Hostin 214
+
+Hostinne 4795
+Rostin 688
+Prostibor 138
+Vlastibor 304
+Vlastiborice 231
+Liciborice 237
+Hrdiborice 244
+Damborice 1258
+Sitborice 1958
+Jezborice 316
+
+Horice 8899
+Tuchorice 707
+Tuchoraz 355
+Doudleby 355
+Naramec 355
+Sobisky 161
+Racice nad Trotinou 161
+Racice 312
+Kacice 1169
+Mistrice 1169
+Hradecno 440
+Hradec 421
+Byzhradec 194
+
+Hradek 2897
+
+Borohradek 2152
+Petrohrad 678
+Blatno 533
+
+Blatna 6735
+Horni Blatna 694
+Horni Bludovice 1652
+
+Bludov 3155
+Sudkov 1185
+Nezamyslice 1278
+Vemyslice 677
+Svemyslice 110
+Vsemyslice 954
+Zdemyslice 506
+Nemysl 275
+Novy Vestec 275
+Stary Vestec 148
+Vestec 1143
+Vojnuv Mestec 720
+
+Hermanuv Mestec 4841
+Hermanec 91
+Jerman 103
+Pocaply 103
+Krty 103
+Libkov 103
+Bouzov 1490
+Kornatice 103
+Korno 86
+Prokopov 86
+Zadoli 86
+Milesin 86
+Mezilesi 203
+Stosikovice na Louce 203
+Prackovice nad Labem 538
+
+Roudnice nad Labem 13084
+Roudnice 536
+Studnice 988
+Vysoke Studnice 345
+Tri Studne 88
+Hnacov 88
+Mala Viska 88
+Mala Velen 453
+Velen 780
+Velenov 187
+Zelenov 98
+Zelenice 427
+Velenice 203
+
+Ceske Velenice 3479
+Holenice 78
+Cholenice 181
+Dolenice 161
+Volenice 549
+Solenice 327
+Malenice 631
+Kalenice 104
+Chvalenice 564
+
+Chvaletice 3223
+Zeletice 503
+Seletice 160
+Boletice 256
+Modletice 355
+Mysletice 119
+Mysletin 108
+Letiny 588
+Veletiny 554
+Veletov 220
+Stare Smrkovice 220
+Stare Sedlo 760
+
+Nove Sedlo 2669
+Nove Sedlice 473
+Sedlice 1220
+Svesedlice 172
+
+Novosedlice 2204
+Novosedly 1162
+Jevisovice 1162
+Cisovice 738
+Budisovice 503
+Budisov 1168
+Osove 48
+Olsovec 458
+Srbsko 458
+Trebichovice 522
+
+Trebic 38785
+Netrebice 456
+Reka 456
+Cizov 167
+Cizova 907
+Krizova 1630
+Krizovatka 278
+Stozice 278
+Lidman 278
+Klesice 304
+Zelesice 1284
+Dalesice 580
+Tulesice 201
+Resice 356
+Kresice 1371
+Okresice 164
+Kresin 307
+Dresin 261
+
+Vresina 2410
+Cavisov 448
+Divisov 1367
+Bilkovice 198
+Zelkovice 77
+Polkovice 498
+Bolkov 51
+Birkov 140
+Chlistov 234
+Luzany 642
+Zaluzany 330
+Prestanov 330
+Prestavlky 242
+Skorice 242
+Sykorice 422
+Morice 464
+Sporice 955
+Poricany 1197
+
+Ricany 11329
+Bristvi 299
+Babicky 980
+Lhuta 159
+Doubek 159
+Hejna 159
+Mukarov 1297
+Koupe 159
+Podbrezice 244
+Podbrezi 484
+Partutovice 484
+Katovice 1279
+Katov 192
+Satov 1200
+Stratov 405
+Ostrata 344
+Ostra 385
+
+Ostrava 313088
+
+Ostravice 2324
+
+Frydlant nad Ostravici 9824
+
+Frydlant 7471
+
+Raspenava 2826
+Krasny Les 432
+Krasny Dvur 758
+Novy Dvur 69
+Novy Dum 142
+
+Novy Bor 12171
+Velky Bor 551
+Velky Borek 845
+Stenovicky Borek 359
+Stenovice 1401
+Hustenovice 988
+Klenovice 454
+Klenova 112
+Milenov 378
+Malenovice 413
+Zvolenovice 70
+Zvole 1114
+Boudy 175
+Minice 35
+Krinice 353
+Katerinice 938
+Uvalno 938
+Ratibor 1719
+Nucice 938
+Hostalkova 2036
+Hostalkovy 655
+Stalky 153
+Kubsice 153
+Dvakacovice 153
+Kacov 789
+
+Pacov 5145
+Kropacova Vrutice 775
+Pohled 775
+Bartousov 155
+Bousov 226
+Cibousov 61
+
+Dolni Bousov 2275
+Dolni Bohdikov 1427
+Dolni Brezany 1790
+Horni Breckov 277
+Kreckov 334
+Preckov 68
+Honetice 68
+Unetice 520
+Kunetice 268
+Velke Kunetice 635
+Benetice 191
+Netin 302
+Manetin 1240
+Ledvice 516
+Olbramkostel 516
+Olbramov 75
+Haluzice 75
+Rohoznice 302
+Oznice 362
+Voznice 459
+Celoznice 390
+Luznice 380
+Louznice 216
+Struznice 856
+Struzna 511
+Ostruzna 156
+Ostruzno 81
+Kliny 81
+Kojatin 81
+Ritonice 81
+Citonice 473
+Vitonice 465
+Letonice 1419
+Horni Vestonice 442
+Dolni Vestonice 331
+Horni Ves 345
+Horni Vltavice 404
+Horni Vilemovice 80
+Dolni Vilemovice 393
+Vilemovice 280
+Vilemov 1029
+
+Golcuv Jenikov 2644
+Ratmerice 255
+Nimerice 282
+Ctimerice 97
+Budimerice 574
+Nasimerice 211
+Prosimerice 737
+Neumerice 357
+Neumer 128
+Dyjice 128
+Bednarecek 199
+Bednarec 98
+Mala Skala 1067
+Hruba Skala 528
+Hospozin 528
+Straky 528
+Cernuc 934
+
+Velvary 2934
+Veltrusy 1632
+Cicenice 444
+Vicenice 213
+Locenice 586
+Chocenice 523
+
+Chocen 9008
+Trnove Pole 127
+Trnov 632
+Trnova 807
+Trnovany 298
+Pnovany 354
+Dukovany 781
+Kovanice 730
+Zivanice 817
+Radvanice 1090
+Planice 1649
+Volanice 228
+
+Zdanice 2721
+Stare Zdanice 614
+
+Stare Nechanice 2180
+
+Nechanice 2183
+Lhanice 151
+Krhanice 826
+Hnanice 300
+Pohnani 89
+Rybne 89
+Studeny 89
+Studene 152
+Studenec 1734
+Studeneves 303
+Bdeneves 424
+Zvoleneves 813
+Cineves 480
+Jicineves 569
+Racineves 442
+Racin 96
+Tojice 96
+Lasovice 96
+Holasovice 1366
+Tasovice 1221
+Hostasovice 685
+Stasov 362
+Tasov 590
+
+Zasova 2790
+Zasovice 121
+Masovice 415
+Pasovice 722
+Zahnasovice 344
+
+Mikulasovice 2375
+Svaty Mikulas 731
+Svaty Jan 636
+Svaty Jan nad Malsi 443
+Svaty Jan pod Skalou 115
+Sounov 115
+Kozarov 115
+Dolni Zdar 115
+Dolni Zimor 67
+Dolni Zalezly 529
+Zalezly 304
+Ruzena 304
+Cepi 412
+Nove Sady 191
+Nove Syrovice 1007
+Syrovice 974
+Syrovin 382
+Syrovatka 382
+Syrov 58
+Modrovice 58
+Odrovice 205
+Vedrovice 816
+Verovice 1936
+Silherovice 1534
+Vernerovice 374
+Vernerov 10
+Podmilesy 10
+Udolicko 10
+
+Policka 9129
+Kamenec u Policky 514
+Uholicky 565
+Horni Domaslavice 565
+Dolni Domaslavice 977
+Otaslavice 1275
+Zbyslavice 530
+Pribyslavice 803
+
+Pribyslav 3965
+Brzkov 245
+Nizkov 878
+Nizkovice 670
+Cizkovice 1323
+Dlazkovice 110
+Blazkov 307
+Borac 307
+Bezdedovice 307
+Snedovice 729
+Obedovice 236
+Sousedovice 210
+Zidovice 289
+Chodovice 215
+
+Chodov 14454
+Hodov 295
+Jahodov 76
+Modra Hurka 76
+Drazicky 76
+Drazice 696
+Drazic 228
+Sendrazice 310
+Sendraz 91
+Vicemil 91
+Habri 91
+Odunec 91
+Krajnicko 91
+Hacky 91
+Hlupin 91
+Srby 386
+Dubne 1141
+Horni Pocaply 1141
+Horni Paseka 67
+Paseka 1162
+Cihan 177
+Kravsko 508
+Plavsko 434
+Rodvinov 434
+Lasenice 502
+Jasenice 211
+Senice 165
+Vsenice 226
+
+Jesenice 3221
+Desenice 709
+Velka Jesenice 728
+
+Jesenik 12457
+Hruby Jesenik 501
+Okrouhlo 501
+Kmetineves 299
+Ctineves 274
+Martineves 691
+Martinkov 272
+Martinkovice 547
+Hartinkov 59
+Zinkovy 909
+Nebrehovice 133
+Brehov 109
+Tehov 405
+Zabovresky 405
+Drahelcice 405
+Chelcice 360
+Celcice 570
+Belcice 991
+Vodranty 72
+Nezabudice 72
+Hornosin 72
+Novy Jimramov 72
+Jimramov 1207
+Korouhev 748
+Suchohrdly 1010
+Jedlova 1010
+Medlov 1560
+Horni Stropnice 1560
+Horni Stepanov 1002
+
+Stepanov 3310
+Stepanovice 637
+Trhovy Stepanov 1260
+Chrbonin 141
+Chmelna 114
+Cechtice 1410
+Cechtin 300
+Mochtin 949
+Vrhavec 811
+Besiny 810
+Bolesiny 661
+
+Klatovy 23102
+Bezdekov 871
+Horni Bezdekov 489
+Bezdekov nad Metuji 503
+Slavetin nad Metuji 227
+Slavetin 453
+Slavetice 235
+Nezbavetice 168
+Ridec 168
+Komorovice 168
+Zborovice 1619
+Predni Zborovice 57
+Predni Vyton 255
+Ublo 255
+Male Kysice 258
+Kysice 740
+Pritluky 740
+Krenovice 1738
+Krenov 430
+Krenovy 155
+Korenov 1014
+Borenovice 178
+Chrenovice 161
+
+Vacenovice 2157
+Vystrcenovice 109
+Vystrkov 211
+Velenka 211
+Hyncice 211
+Jencice 316
+Litencice 455
+Kotencice 206
+Korolupy 206
+Horni Bukovina 206
+Dolni Bukovsko 1473
+Jiretin pod Bukovou 646
+Jiretin pod Jedlovou 587
+Horni Jiretin 1963
+Cesky Jiretin 70
+
+Cesky Dub 2698
+
+Cesky Brod 6609
+
+Uhersky Brod 17508
+Kruh 498
+Praksice 940
+Zilina 722
+
+Bilina 15738
+
+Bilina Kyselka 15697
+Studlov 516
+Neustupov 516
+
+Duchcov 8937
+Haj u Duchcova 959
+
+Osek 4975
+
+Lom u Mostu 3736
+
+Most 67905
+Mostkovice 1313
+Castkov 367
+Zdarna 722
+Biskupice 741
+Ricky 271
+Horicky 489
+Lhota pod Horickami 252
+Dolni Horice 795
+Dolni Holetin 745
+Dolni Hbity 816
+Dolni Dvur 243
+Dolni Dvoriste 1235
+Horni Dvoriste 506
+Oboriste 574
+Borislav 333
+Nosislav 1230
+Velke Nemcice 1654
+Nemcicky 605
+Zaben 598
+Boleradice 867
+Dobroviz 468
+
+Dobrovice 2954
+Dobrovitov 124
+Dobronin 1913
+Dobrohost 47
+Dobroutov 260
+
+Dolni Dobrouc 2543
+Dolni Dunajovice 1717
+Dunajovice 190
+Sestajovice 1465
+Staj 182
+Radosov 182
+Radosovice 556
+Mladosovice 263
+Bosovice 1071
+Libosovice 426
+Libos 579
+Hnojice 579
+Vazany nad Litavou 637
+Vazany 416
+Lazany 361
+Dolni Lazany 137
+Dolni Lanov 680
+
+Dolni Lutyne 4712
+Dolni Lukavice 801
+Horni Lukavice 357
+Lukavice 1066
+Luka 801
+Lukavec 1120
+Postupice 1120
+Bratrice 176
+Bratrinov 115
+Bratrikovice 159
+Petrikov 351
+Jesenec 351
+Senec 228
+Jenec 1054
+
+Bzenec 4315
+Temice 861
+Chotemice 133
+Semice 934
+Vsemina 1061
+Jasenna 934
+Lutonina 388
+
+Vizovice 4518
+Strizovice 601
+Strizov 173
+Varvazov 173
+Sulimov 173
+Petravec 173
+Zatcany 785
+Tynec nad Labem 1868
+
+Tynec nad Sazavou 5165
+
+Ledec nad Sazavou 6048
+
+Zruc nad Sazavou 4925
+
+Zdar nad Sazavou 24030
+Lipnice nad Sazavou 657
+Rataje nad Sazavou 595
+
+Svetla nad Sazavou 7037
+Porici nad Sazavou 1045
+
+Sazava 3797
+Svrabov 53
+Lubne 53
+Drahnovice 53
+Knovice 317
+Knoviz 506
+Veterov 506
+Rozsec nad Kunstatem 506
+
+Kunstat 2637
+Postrekov 1129
+Krekov 160
+Drnek 160
+Klokocna 160
+Velky Rybnik 160
+Rybnik 758
+Rybniky 403
+Male Hradisko 403
+
+Uherske Hradiste 26421
+Uhersko 277
+Obedkovice 277
+Radkovice 90
+Radkov 510
+Mladkov 568
+Drouzkovice 568
+Jezkovice 361
+Bezkov 211
+Sebkovice 481
+Dobkovice 648
+Sobkovice 240
+Libkovice pod Ripem 527
+Kostomlaty pod Ripem 446
+Drinov 446
+Omlenice 446
+Chomle 72
+Brodeslavy 72
+
+Mlada Vozice 2772
+Bradacov 72
+Cetoraz 270
+Obratan 847
+Stitov 55
+Spelkov 55
+Dul 54
+Es 55
+Nova Cerekev 1097
+Osek nad Becvou 1097
+Tyn nad Becvou 859
+
+Lipnik nad Becvou 8369
+Hustopece Nad Becvou 1748
+
+Hustopece 5913
+Sakvice 1369
+
+Rakvice 2134
+
+Podivin 2872
+
+Velke Bilovice 3727
+Bilov 534
+
+Bilovec 7486
+
+Jilove 5307
+
+Jilove u Prahy 3461
+
+Psary 2243
+Stebno 436
+Rantirov 436
+Huntirov 715
+Konojedy 196
+Janska 196
+Nihov 196
+Predin 715
+Mala Roudka 196
+Mala Vrbka 205
+Hruba Vrbka 698
+Marsovice 698
+Marsov 456
+Rozhovice 245
+Cehovice 513
+Plchovice 73
+Plchov 167
+Kadolec 167
+Stradoun 167
+Zachrastany 167
+Chrastany 710
+Habrina 228
+Stare Herminovy 228
+Stare Hobzi 562
+
+Stare Mesto 6742
+Stare Misto 337
+Misto 335
+Usilne 335
+Oplot 335
+Rudka 335
+Zar 335
+Milonice 335
+
+Zlonice 2232
+Zlonin 198
+Lite 198
+Okrouhlicka 198
+Okrouhlice 1210
+Lucice 584
+Pivkovice 74
+Hnevkovice 566
+Zakovice 216
+
+Celakovice 10125
+Vcelakov 550
+Hredle 550
+Zelatovice 550
+
+Neratovice 16427
+Neratov 97
+Vodslivy 97
+Lesetice 97
+Jesetice 131
+Tesetice 1212
+Kresetice 613
+Kosetice 699
+Miretice 1205
+Zeretice 264
+Ostretice 50
+Ostretin 955
+Ostredek 313
+Jerisno 313
+Ceckovice 92
+Loveckovice 464
+Backovice 127
+Backov 147
+Urcice 1305
+Habry 1305
+Cesky Sternberk 147
+
+Sternberk 13967
+Domasov u Sternberka 285
+Rybnicek 285
+Rybnice 435
+Rybniste 716
+Rokytno 739
+Rokytnice nad Rokytnou 853
+
+Jaromerice nad Rokytnou 4171
+Dobromerice 1329
+Sudomerice 1206
+Sudomer 76
+Necin 696
+Rejchartice 185
+Menhartice 161
+Linhartice 578
+Velhartice 920
+Bernartice 1260
+Bernartice nad Odrou 794
+Jesenik nad Odrou 1898
+Jakubcovice nad Odrou 671
+Merovice nad Hanou 694
+
+Nemcice nad Hanou 2095
+Janovice nad Uhlavou 2049
+Banovice 111
+
+Banov 2095
+Dzbanov 316
+Jablonna 316
+Polevsko 343
+Palonin 343
+Dobromilice 817
+Bohumilice 314
+
+Bohumin 23075
+Vrbice 1464
+
+Rychvald 6771
+Chvalcov 1644
+Svetec 941
+Ctverin 387
+Kridluvky 215
+Kotopeky 270
+Polen 270
+Polepy 1178
+Chodouny 628
+Chodoun 500
+
+Zdice 3816
+Nezdice 186
+Prehvozdi 186
+Zalesi 186
+Zalesna Zhor 40
+Stranecka Zhor 582
+Repov 582
+Siroka Niva 582
+Neubuz 438
+
+Otrokovice 18857
+Vokov 67
+Nimpsov 67
+Trotina 67
+Libechov 973
+Libecina 165
+Rozsicka 165
+Tynistko 165
+Lozice 165
+Bozice 1436
+Bozicany 623
+Vintirov 1132
+Rynholec 728
+Svatava 1577
+Dolni Rychnov 1337
+Krychnov 102
+Rychnovek 589
+Mala Morava 589
+Mala Moravka 734
+Moravka 1017
+Moravany 1706
+
+Oslavany 4561
+Sudslava 185
+Hlasivo 185
+Vestin 185
+Bestin 291
+Cestin 455
+Cestice 944
+Trestice 109
+
+Prestice 6353
+Nezvestice 1353
+Zvestov 385
+Zvestovice 62
+Bestovice 402
+Trebestovice 799
+Arnestovice 76
+Chystovice 42
+Chyst 196
+Zavada 588
+Dolce 281
+Ceminy 234
+Svihov 1582
+Chudenice 699
+Chudenin 602
+
+Nyrsko 5070
+Stity 2049
+Cachrov 541
+Pocepice 504
+Kobyla 504
+Vlastejovice 504
+Vlastec 182
+Vlastislav 147
+Vratislavka 80
+Jihlavka 239
+Strelcova 239
+Strelna 615
+Krahulci 615
+Hostetice 133
+Hostetin 232
+
+Steti 9165
+Bechlin 1150
+Stehelceves 527
+Dlouhe 274
+Dlouhonovice 794
+Strachonovice 87
+Strachujov 152
+Drachkov 152
+Jevineves 152
+Vitineves 296
+Chotineves 197
+Horineves 686
+Horin 723
+Morina 591
+Morinka 115
+Nesvacily 115
+Horosedly 114
+Kvetov 114
+Tetov 162
+Chotetov 838
+Chotec 293
+Chotenov 131
+Cetenov 119
+Osecna 1004
+Pisecna 1063
+Tuklaty 669
+
+Zlate Hory 4446
+Vcelna 1504
+Uhelna 532
+Uhelna Pribram 517
+
+Pribram 35251
+Lhota u Pribrame 445
+Pribraz 223
+Vrchy 223
+Krizanov 1832
+Brezejc 129
+Jablonov 326
+Jablonany 367
+Salas 367
+Hora Svate Kateriny 367
+Hora Svateho Sebestiana 253
+Lancov 253
+Jezdovice 253
+
+Horazdovice 5727
+Vlci Habrina 309
+Horni Rapotice 152
+Rapotice 462
+
+Rapotin 3009
+
+Vikyrovice 2064
+Vyrovice 172
+Vyrov 449
+Jevany 449
+Hostejn 449
+Hostejov 36
+
+Prostejov 47374
+Prostejovicky 276
+Vitejovice 436
+Mutejovice 779
+Setejovice 62
+Milejovice 50
+Sulejovice 692
+Myslejovice 624
+Sirejovice 280
+Mirejovice 169
+Dobrejovice 658
+Libejovice 463
+Kasejovice 1320
+Blazejovice 97
+Blazejov 301
+Clunek 476
+Kunzak 1484
+Strmilov 1399
+Radesin 107
+Hradesin 176
+Hradesice 418
+Radesinska Svratka 595
+Svratka 1539
+Stritez nad Ludinou 853
+Zadni Stritez 42
+Slavnic 42
+Strhare 125
+Slanik 125
+Novy Rychnov 947
+Milicov 125
+Milicovice 220
+Micovice 312
+Kvicovice 342
+Vicov 454
+Nicov 83
+
+Unicov 12385
+Revnicov 1403
+
+Revnice 2908
+Brevnice 127
+Hnevnice 101
+
+Nivnice 3278
+
+Koprivnice 23424
+Koprivna 288
+Kridla 288
+Drevniky 288
+Mrlinek 288
+Drhovy 229
+Krahulov 229
+Radetice 229
+Budetice 308
+Budetsko 419
+Bykovice 177
+Bykos 195
+Neumetely 520
+Vicemerice 520
+Libomerice 121
+Nepomerice 205
+
+Litomerice 24489
+Tuchomerice 1032
+Jerice 387
+
+Koberice 3228
+Chaberice 257
+Sekerice 121
+Valkerice 406
+Pacerice 259
+Vernerice 1083
+Chuderice 193
+Chuderov 792
+
+Trmice 2862
+Vysluni 219
+Trubin 219
+Sedivec 219
+Smolotely 219
+Nedvezi 219
+Dubnice 529
+Lubnice 84
+Lubnik 302
+Pastviny 302
+Mestys Bila Voda 302
+Bila Voda 298
+Libkova Voda 204
+Roudno 204
+Roudne 585
+Syrenov 204
+Nove Lublice 204
+Pametice 204
+Nemetice 114
+Zemetice 266
+Sovetice 202
+Bozetice 401
+Drouzetice 111
+Javorek 111
+Smrcek 111
+Skripel 111
+Medonosy 111
+Horni Knezeklady 111
+Horni Kounice 264
+
+Dolni Kounice 2403
+Kounice 948
+Unice 41
+Kunice 666
+Kunicky 264
+Uzenicky 135
+Luzenicky 300
+Uzenice 122
+Ohrazenice 1055
+Prepere 855
+Vranany 855
+
+Turnov 14507
+Sipy 174
+Vilice 174
+Kvilice 73
+Libchyne 73
+Pelechy 73
+Sovolusky 122
+Podboransky Rohozec 122
+
+Podborany 6212
+Horany 82
+Zahorany 900
+Nahorany 458
+Tursko 522
+Vselibice 522
+Ulibice 241
+Vesce 241
+Krystofovo Udoli 241
+Kuks 241
+Chotyne 853
+
+Jablonne v Podjestedi 3699
+Brniste 1358
+
+Zakupy 2792
+Boskovstejn 146
+Ploskovice 370
+Vreskovice 260
+Kvaskovice 102
+
+Paskov 3754
+Krmelin 1853
+
+Brusperk 3620
+
+Frycovice 2353
+Bacovice 47
+
+Luhacovice 5554
+Vrcovice 117
+Cvrcovice 579
+Hovorcovice 1198
+
+Hovorany 2232
+
+Mlade Buky 2232
+Cejc 1232
+
+Sardice 2205
+Nasedlovice 815
+Medlovice 482
+Kudlovice 879
+Skrdlovice 611
+Orlovice 323
+
+Orlova 34282
+
+Petrvald 6854
+
+Havirov 82768
+
+Horni Sucha 4466
+Sucha 240
+Sucha Loz 1078
+Ostrov u Macochy 1078
+
+Ostrov 17206
+Castrov 531
+Litostrov 102
+Ostrovanky 203
+Ostrovacice 587
+
+Dacice 7958
+Chudir 139
+Strezimir 320
+Srni 320
+Privrat 320
+Sadova 320
+Cerveny Hradek 212
+Novy Hradek 697
+Starosedlsky Hradek 134
+Vsehrdy 134
+Hlubyne 134
+Zelnava 134
+Skomelno 134
+Trusnov 224
+Kostniky 224
+Strakov 224
+
+Strakonice 23545
+
+Konice 2931
+Brodek u Konice 941
+Obyctov 403
+Bousin 131
+Unanov 1093
+Veprikov 377
+Nelahozeves 1313
+
+Rudolfov 2384
+
+Plumlov 2384
+Bubovice 222
+Alojzov 222
+Chrzin 222
+Zaky 349
+Ruzova 349
+Huzova 638
+Val 291
+Kamenna Horka 291
+Kamenna Lhota 247
+Ovesna Lhota 206
+Cervena Lhota 179
+Cervena Recice 993
+Recice 475
+Becice 104
+Sebecice 65
+Jedla 65
+Kbelany 65
+Krejnice 65
+Cista 899
+Kozlany 1374
+Kozly 117
+Kopidlo 117
+Koryta 117
+Pojbuky 117
+Vlkanov 117
+Lkan 154
+Mokre 154
+Mokre Lazce 1085
+Praskolesy 808
+Bavoryne 180
+Svata 347
+Broumy 793
+Lochousice 116
+Choustnik 521
+Male Zernoseky 690
+Velke Zernoseky 480
+Velke Prilepy 1105
+Prilepy 836
+Steken 836
+Lacnov 899
+Pysely 1250
+Ostresany 899
+Tesany 1155
+Traplice 1139
+Pecka 1254
+Divaky 468
+
+Klobouky 2227
+Krumvir 1112
+Kobyli 2058
+Kobylice 193
+Kladeruby nad Oslavou 193
+Kladeruby 431
+
+Kelc 2623
+Podbrdy 162
+Plandry 162
+Cernotin 753
+Zbilidy 162
+Cerny Dul 753
+Semechnice 359
+Parsovice 359
+Vrsovice 445
+Vrsovka 110
+Tvrzice 110
+Tur 110
+Zarovna 110
+Rodna 110
+Brumov 236
+
+Dobruska 7085
+
+Opocno 3177
 Ceske Mezirici 1603
 
 Velke Mezirici 11753
 Mezirici 130
 Koruna 130
-Borusov 162
-Nevolice 164
-Nevojice 395
-Veprova 395
-Veprikov 377
-Petrikov 351
-Mezno 351
-Bezno 842
-Ostrov u Bezdruzic 201
-Horni Slivno 201
-Dolni Slivno 312
-Dolni Sloupnice 1729
+Lavicne 130
+
+Slavicin 7079
+Vojslavice 102
+Sobeslavice 133
+
+Sobeslav 7308
+Lampertice 454
+Krcman 454
+Myslkovice 350
+Bohate Malkovice 255
+Moravske Malkovice 569
+Malkov 539
+Pocinovice 539
+Litvinovice 1483
+
+Litvinov 27022
+
+Mezibori 4885
+Trebejice 81
+Libejice 102
+Trokavec 102
 Horni Sloupnice 1742
+Dolni Sloupnice 1729
 Sloupno 480
-Sloup 915
-Louka 1045
-Nehvizdy 1045
+Melcany 480
+Cernousy 322
+Cernoucek 268
+Divci Hrad 268
+Divci Kopy 59
+Bujesily 59
+Bohy 74
+Mokry Lom 78
+Nehodiv 78
+Chric 202
+Kvetnice 146
+Kvetna 311
+Konecchlumi 311
+Chlumin 425
+Zachlumi 737
+Zeraviny 189
+Dolni Novosedly 189
+Dolni Nivy 277
+Dolni Prim 525
+Dolni Roven 1899
+Dolni Redice 794
+Horni Redice 802
+Horni Repcice 101
+Horni Radslavice 92
+Chudoslavice 128
+Vaclavice 455
+Paclavice 892
+Vaclavy 61
+Jedlany 61
+Kosin 61
+Bosin 86
+Hosin 685
+Orech 685
 
-Vizovice 4518
-Teplysovice 388
-Lutonina 388
-Vetrusice 388
-Petruvka 327
-Petruvky 81
-Ostruzno 81
-Kojatin 81
-Ritonice 81
-Vitonice 465
-Citonice 473
-Hodonice 1648
-Vodochody 427
-Zdar nad Orlici 427
-Dyjakovicky 427
-Dyjakovice 836
-Steken 836
+Orechov 2368
+Velky Orechov 699
 
-Ustek 2664
-Mostek 1360
-Zadni Mostek 1350
-Borovnicka 189
-Borovnik 84
-Mladotice 552
-Radotice 139
-Radotin 196
-Rohenice 196
-Lhenice 1771
-Rehenice 422
-Cerhenice 1491
-Cerhonice 134
-Drhovle 511
-Drhovice 185
-Rejchartice 185
-Bernartice 1260
-Branice 303
-Volanice 228
-Solan 1000
-Chotevice 1000
-Chotec 293
-Chlum Svate Mari 293
-Svatava 1577
+Velky Osek 2150
+Velky Luh 131
 
-Rotava 3403
-Jindrichovice 439
-Jindrichov 1504
+Velky Tynec 2150
+Panensky Tynec 369
 
-Zlate Hory 4446
-Zlatenka 46
-Tatenice 853
-Statenice 710
-Cicenice 444
-Chvateruby 444
-Vseruby 1017
-Kladeruby 431
+Horsovsky Tyn 4905
+Blizejov 1029
+Stavenice 155
+Slovenice 41
+Drevenice 194
+Ksice 194
+Vlksice 139
+Slavhostice 139
+Zalhostice 505
+Sumavske Hostice 396
+Strelske Hostice 876
+Kasperske Hory 1562
+Ratiborske Hory 742
+Hory 195
 
-Kelc 2623
-Dolni Tesice 37
-Horni Tesice 162
-Trzek 162
-Strazek 927
-Straz 1057
+Loket 3217
 
-Bor 4025
-Ctibor 338
-Losina 904
-Halze 904
+Horni Slavkov 5818
 
-Plzen 164180
+Slavkov u Brna 5936
+Hodejice 843
+Rudice 843
+Sudice 652
+Blsany u Loun 216
+Brusne 369
+Rozdalovice 1648
+Havlovice 859
+Pravlov 510
+Pravy 87
+Srbce 87
+Ponedrazka 87
+Pokojovice 87
+Sojovice 441
+Hojovice 69
+Trojovice 186
+Rozdrojovice 656
+Kyjovice 823
+Pracejovice 301
+Pacejov 794
+Nezdenice 794
+Radenice 161
 
-Stary Plzenec 4387
+Ledenice 2193
+Predenice 169
+Lodenice 1564
+Horni Lodenice 348
+Horni Lidec 1379
+Lidecko 1873
+Rybitvi 1379
+Stribrec 443
+Putim 443
+Litohlavy 443
+Slup 443
+Bratrejov 759
+Ondrejov 1086
+Liblice 459
+Senohraby 907
 
-Stahlavy 2200
-Ejpovice 540
+Cercany 2611
+Mrac 643
+Bukovno 621
+Bukovnik 68
 
-Vejprnice 2626
+Rakovnik 16473
+Luzna 1806
+Starnov 576
+Karez 550
+Komna 550
+Pnetluky 324
+Hrivice 593
+Laskov 593
+Jimlin 745
+Prezletice 745
+Citoliby 953
 
-Tlucna 2482
-
-Nyrany 6942
-
-Dobrany 5779
-Horni Lukavice 357
-Mladonovice 357
-Donov 92
-Sonov 308
-Lesonice 490
-Krasonice 231
-Tichonice 200
-Velky Vrestov 200
-Velky Valtinov 176
-
-Valtice 3656
-Kostice 1864
-
-Lanzhot 3713
-Lanzov 191
-Jersin 191
-Skrsin 205
-Karlin 205
-Karlik 329
-Karlstejn 705
-Semin 533
-Hrdlorezy 533
-Hrdliv 385
-Suchohrdly 1010
-Jedlova 1010
-Rataje 1031
-Rataje nad Sazavou 595
-Lipnice nad Sazavou 657
-Porici nad Sazavou 1045
-Babice nad Svitavou 861
-
-Bilovice nad Svitavou 2600
-Skalice nad Svitavou 615
-Doubravice nad Svitavou 1222
-Hradec nad Svitavou 1584
-
-Svitavy 17427
-Brezova nad Svitavou 1518
-Brnenec 1405
-Hubenov 141
-Lubenice 412
-Oubenice 178
+Louny 19147
+Lenesice 1298
+Dnesice 748
 Oponesice 178
 Konesin 453
 Horesedly 453
-Horosedly 114
-
-Novosedlice 2204
-
-Osek 4975
-
-Velky Osek 2150
-Velky Orechov 699
-
-Trebechovice pod Orebem 5611
-Hrebec 1364
-Primda 1364
-Dolni Prim 525
-Vernirovice 184
-Stremosice 184
-
-Tremosnice 3273
-Vilemov 1029
-
-Golcuv Jenikov 2644
-Jenikov 844
-Haj u Duchcova 959
-
-Duchcov 8937
-
-Becov 2072
-Vecov 662
-Mecov 14
-Krecovice 699
-Cecovice 68
-Mala Losenice 279
-Kalenice 104
-Skorenice 420
-Horenice 169
-Zelenecka Lhota 169
-Bradlecka Lhota 198
-Unice 41
-Vanuvek 41
-Januvky 40
-Siluvky 704
-Mikuluvka 676
+Mikulec 226
 
 Mikulov 7608
 
 Mikulovice 2750
 Mikulcice 1881
-Mikulec 226
-Lisna 226
-Liskovice 202
-Biskoupky 174
-Butoves 174
-Hrutov 74
-Kohoutov 230
-Dobroutov 260
-Bohunice 44
-Bohunov 242
-Nove Hute 93
-Nove Mesto 376
+Tynec 1021
+Tvrdonice 2042
+Hodonice 1648
 
-Nove Mesto na Morave 10537
-Nove Veseli 1236
-Veselice 99
-Veselicko 821
-Techonin 636
-Kamyk nad Vltavou 821
-Kostelec nad Vltavou 420
-Luzec nad Vltavou 1347
+Hodonin 26345
 
-Kralupy nad Vltavou 17373
-
-Libcice nad Vltavou 3227
-Vrane nad Vltavou 1922
-Jiloviste 572
-
-Jilove u Prahy 3461
-
-Jilove 5307
-Jilovice 870
-
-Trhove Sviny 4705
-Nove Herminovy 263
-Nove Lublice 204
-Roudno 204
-Roudne 585
-Doudleby 355
-Zleby 1267
-Vyzlovka 479
-Bulovka 849
-Probulov 52
-Sobulky 882
-Javornice 882
-
-Javornik 2967
-Brankovice 913
-Branna 341
-Vapenna 1271
-Zulova 1332
-Tuklaty 669
-Rostoklaty 412
-Kladky 412
-Zahradky 630
-Hosteradky-Resov 764
-Saratice 889
-Choratice 59
-Jiratice 83
-Svatojansky Ujezd 83
-Ostrolovsky Ujezd 110
-Bily Ujezd 615
-
-Solnice 2099
-Solenice 327
-Dolenice 161
-Chrenovice 161
-Krenovice 1738
-Krenov 430
-Dretovice 430
-Retova 671
-Veletov 220
-Velopoli 220
-Pacetluky 220
-Pnetluky 324
-Kozojedy 622
-Kolova 622
-Kolesovice 825
-Vresovice 622
-Vresova 504
-Vlastejovice 504
-Setejovice 62
-Matejov 203
-Rendejov 252
-Nadejov 217
-Radejov 830
-Knezdub 1084
-Sanov 1253
-Busanovice 260
-Bus 219
-Ustup 38
-Neustupov 516
-Roupov 243
-Koupe 159
-Doupe 99
-Hodice 768
-Krakovany 768
-Mrakotin 909
-Mratin 503
-Mrac 643
-Borac 307
-Oracov 375
-Drobovice 375
-
-Probostov 2333
-Hrob 2020
-Hrobice 466
-Hroubovice 327
-Zbelitov 327
-
-Litovel 10062
-Cervenka 1361
-Cervena Hora 190
-Cervena Lhota 179
-Vysoka Pec 803
-Vysoke 119
-Vysoka 763
-Vysokov 404
-Tremesne 404
-Tremesna 979
-Bila Tremesna 1345
-Cervena Tremesna 143
-Sentice 495
-Bantice 216
-Liban 1648
-Liba 600
-Libavske Udoli 590
-Kralovske Porici 728
-
-Velke Porici 2275
-Velke Svatonovice 1125
-Male Svatonovice 1587
-Svatonovice 319
-Svatoslav 445
-Vrsovice 445
-Vrsovka 110
-Tvrzice 110
-Tur 110
-Turkovice 259
-Kyskovice 259
-Byskovice 387
-Leskovice 93
-Ceckovice 92
-Loveckovice 464
-Kozlov 464
-
-Kozlovice 2852
-Kuncice pod Ondrejnikem 1995
-
-Stara Ves nad Ondrejnici 2450
-Stara Ves 602
-Stara Lysa 470
-Starkov 673
-Starkoc 106
-Hrabesice 106
-Hrabisin 842
-Rabi 468
-Zichovice 681
-Suchomasty 468
-Sucha Lhota 88
-Sucha Loz 1078
-Podmoli 156
-Podomi 416
-Podoli 1165
-Zadoli 86
-Prokopov 86
-Korno 86
-Hornosin 72
-Nezabudice 72
-Rudice 843
-Sudice 652
-Hosteradice 1488
-Voderady 652
-Polni Voderady 135
-Polni Chrcice 135
-Labske Chrcice 140
-Zadni Zhorec 140
-Zhorec 126
-Horany 82
-Oparany 1365
-Sepekov 1343
-Ceperka 949
-Cep 189
-Cepi 412
-Nove Sady 191
-
-Nove Hrady 2590
-Lipov 1560
-Lipova 761
-Lipovice 180
-Drahenice 180
-Drahelcice 405
-Chelcice 360
-Vlcatin 144
-Vlcetinec 63
-Vlceves 88
-Stehelceves 527
-Skoronice 527
-Skorosice 787
-Skorotice 145
-Merotin 291
-Zerotin 454
-Zerotice 297
-Zverotice 361
-Bezverov 659
-Chrustenice 659
-
-Touzim 3732
-Chotebudice 107
-Chotebuz 1050
-
-Albrechtice 4019
-
-Horni Sucha 4466
-
-Havirov 82768
-Horni Bludovice 1652
-Horni Domaslavice 565
-Dolni Domaslavice 977
-Dolni Tosanovice 292
-Jehnedi 292
-Vysehnevice 225
-Jarohnevice 249
-Vlachova Lhota 249
-Salacova Lhota 134
-Vsehrdy 134
-Sobehrdy 310
-Beharov 156
-Techarovice 36
-Kucharovice 908
-Beharovice 419
-Budetsko 419
-Budetice 308
-Radetice 229
-Zdetin 415
-Hodetin 94
-Pomezi nad Ohri 94
-
-Veseli nad Luznici 6534
-Nova Ves nad Luznici 341
-Dvory nad Luznici 318
-
-Suchdol nad Luznici 3659
-Suchdol 1065
-Cervene Pecky 1617
-Cervene Janovice 709
-
-Uhlirske Janovice 3058
-Okrouhlicka 198
-Okrouhlice 1210
-Okrouhla 523
-Okrouhlo 501
-Oldrichov v Hajich 501
-Kmetineves 299
-Jikev 299
-Kosik 347
-Osik 1051
-Dolni Ujezd 1963
-Horni Ujezd 443
-Horni Lidec 1379
-Lidecko 1873
-Rybitvi 1379
-Rybi 1047
-
-Stramberk 3380
-
-Koprivnice 23424
-Koprivna 288
-Soprec 268
-Slavonov 268
-
-Slavonice 2706
-Pravonin 548
-Kujavy 548
-Javor 84
-Kalivody 84
-Kaliste 334
-Oplocany 334
-Nabocany 121
-Libocany 510
-Liborice 335
-Usilne 335
-Oplot 335
-Oplany 63
-Planany 1467
-Dobrichov 713
-
-Dobrichovice 2874
-Prichovice 981
-Jirice 723
-Horin 723
-Morina 591
-Morinka 115
-Svaty Jan pod Skalou 115
-Svaty Jan nad Malsi 443
-Putim 443
-Pustimer 1580
-Drysice 505
-Zalhostice 505
-Zalkovice 563
-
-Palkovice 2751
-
-Hejnice 2751
-Kejnice 131
-Krejnice 65
-Drahous 65
-Mahous 154
-Ves Touskov 318
-Mesto Touskov 1777
-Bdeneves 424
-Zvoleneves 813
-Blevice 282
-Dobrkovice 282
-Kolec 560
-Sokolec 788
+Rohatec 3343
+Tvarozna Lhota 861
+Tvarozna 1159
+Bukovinka 311
+Sovinky 323
+Velis 323
+Velim 2021
+Cerhenice 1491
 Semnice 513
 
 Jemnice 4311
-Kninice 200
-Veverske Kninice 824
-Hrubcice 770
-Zubcice 366
-Mazice 132
-Straziste 86
-Strazisko 437
-Nova Ves v Horach 437
-Nova Ves 827
-Dolni Trebonin 827
-Zadni Treban 607
-Hlasna Treban 533
-Hlasnice 138
-Kasnice 222
-Dasnice 361
-Basnice 205
-Chodovice 215
-Chodovlice 142
-Dankovice 136
-Mankovice 604
-Sobechleby 604
-Vroutek 1898
-Kouty 373
-Soutice 232
-Bohutin 1544
-Bohutice 612
-Bohusice 113
-Bohusov 456
-Osoblaha 1136
-Jezovy 234
-Rokle 234
-Klenova 112
-Klenovice 454
-Malenovice 413
-Neslovice 832
-Hoslovice 181
-Oslov 334
-Puclice 334
-Pucov 121
-
-Bucovice 6386
-Loucovice 1955
-
-Vyssi Brod 2628
-
-Cesky Brod 6609
-
-Uhersky Brod 17508
-Uhersko 277
-Pokrikov 277
-Okrisky 2016
-Lisky 71
-Zahorcice 71
-Zahorany 900
-
-Kdyne 4985
-Slavkov pod Hostynem 546
-Utusice 546
-Chotusice 677
-
-Caslav 10025
-Lidice 451
-Vidice 218
-Narysov 218
-Vinary 457
-Vinare 230
-Vrsce 230
-Vesce 241
-Plesnice 241
-Lesnice 593
-Jimlin 745
-Prezletice 745
-Hrivice 593
-Hriskov 378
-Hrisice 320
-Modrisice 358
-
-Modrice 3866
+Jemniky 211
+Radic 211
+Sehradice 755
+Rajhradice 1204
 
 Rajhrad 2697
-Rajhradice 1204
-Lazne Kynzvart 1647
 
-Marianske Lazne 14277
-Konstantinovy Lazne 927
+Modrice 3866
+Vrbatuv Kostelec 336
+Kostelecke Horky 147
+Horky 392
+Trebihost 392
+Cihost 326
+Blizkov 326
+Blizkovice 1235
+Strazkovice 342
+Vrazkov 392
+Sebirov 392
+Hostovlice 258
+Chodovlice 142
+Zadni Chodov 278
+Techarovice 36
+Charovice 155
+Kucharovice 908
+Beharovice 419
+Beharov 156
+Zlosyn 340
+Hlohovcice 191
+Hlohova 251
+Sedlonov 251
+Zalonov 415
+Suchy Dul 415
+Rozvadov 692
+Zdetin 415
+Cerna 318
+Cernava 238
+Trnava 1118
+Mecin 1118
 
-Frantiskovy Lazne 5355
+Nepomuk 3670
+Milec 338
+Cilec 201
+Bohanka 201
+Podhradi 387
+Podhradi nad Dyji 53
+Vanuvek 41
+Bradlecka Lhota 198
+Bradlec 595
 
-Cheb 33242
-Skalna 1950
+Kosmonosy 3822
+Obruby 193
+Tisem 193
 
-Plesna 2077
-
-Luby 2525
-Hlubyne 134
-Hrabyne 1184
-
-Haj ve Slezsku 3322
-
-Dolni Benesov 4314
-Bohuslavice 1560
-Dobroslavice 679
-Dehylov 640
-Brehy 938
-Dobrenice 578
-Lhota pod Libcany 773
-Libcany 778
-Vrbicany 314
-Vrbice 1464
-
-Bohumin 23075
-Bohumilice 314
-Dlouha Lhota 314
-Dlouha Loucka 572
-Mestecko Trnavka 1502
-Bezdeci u Trnavky 231
-Chleny 231
-Chlebicov 1068
-Milicovice 220
-Milicov 125
-Milin 2053
-Smilkov 268
-Bilkovice 198
-Nebilovy 319
-Nebahovy 425
-Nebanice 291
-Kamenna Horka 291
-Kamenna Lhota 247
-Vlacice 247
-
-Dacice 7958
-Chudir 139
-Chudenice 699
-Chudenin 602
-
-Nyrsko 5070
-Nyrov 209
-Greslove Myto 209
-Myto 1384
-
-Vysoke Myto 12293
-Jezborice 316
-Dzbanov 316
-Dzbanice 160
-Klokocna 160
-Nyklovice 160
-Knyk 333
-Knovice 317
-Knoviz 506
-Veterov 506
-
-Vetrni 3870
-Vetrny Jenikov 577
-Mlazovice 577
-Dlazov 389
-Cerniny 389
-Cernin 157
-Cerniv 133
-Chyjice 133
-Ryjice 187
-Dyjice 128
-Brod nad Dyji 494
-Pasohlavky 735
-Pasovice 722
-Zilina 722
-Zdarna 722
-Praksice 940
-Ksice 194
-Vlksice 139
-Slavhostice 139
-Zborovy 139
-Borovy 234
-Chlistov 234
-Chlistovice 693
-Potstejn 881
-Potstat 1214
-Recice 475
-Zajecice 933
-Hladke Zivotice 933
-Zivotice 53
-
-Votice 4461
-Borotin 520
-Chvalatice 122
-
-Chvaletice 3223
-Krtomil 411
-Krtov 143
-Krty 103
-Chrtnic 150
-
-Brtnice 3744
-Brtnicka 117
-Dlouha Brtnice 355
-Husi Lhota 119
-Zdanov 119
-
-Zdanice 2721
-
-Netolice 2721
-Citoliby 953
-Citov 1028
-Bykev 351
-Nova Cerekev 1097
-Horni Cerekev 1866
-Dolni Cerekev 1173
-
-Dolni Cernilov 2255
-
-Cernilov 2233
-Cernozice 1253
-Senozaty 699
-Senomaty 914
-Malsovice 747
-Lasovice 96
-Krusovice 576
-Vcelakov 550
-Zelatovice 550
-
-Klatovy 23102
-Klatovec 64
-Velecin 64
-Kostelni Myslova 64
-Myslovice 108
-Mysletin 108
-Kozusice 108
-
-Susice 11483
-Ususi 111
-Busin 425
-Trebusin 466
-Trebusice 447
-Helvikovice 447
-Supikovice 693
-
-Upice 5959
-Postupice 1120
-Burenice 214
-Chlumetin 214
-
-Chlumec 4170
-
-Chabarovice 2329
-Habartice 480
-Trtice 448
-Lazne Libverda 448
-Janske Lazne 880
-Milicin 880
-
-Svoboda nad Upou 2216
-Slatina nad Upou 279
-Kbel 279
-Kbelnice 143
-Telnice 1296
-Melnicke Vtelno 816
-Kostelni Hlavno 429
+Mlada Boleslav 43684
+Krnsko 503
+Mratin 503
+Brodce 935
 Tucin 429
-Bucina 203
-Buci 137
-Zemetice 266
-Nemetice 114
-Unetice 520
-Vicemerice 520
-Sudomerice 1206
-Hudlice 1206
-Udlice 1039
+Odrava 212
+Rodinov 212
+Sluhy 650
+Hlavenec 311
+Skvoretice 311
+
+Brandys nad Labem-Stara Boleslav 15398
+
+Lysa nad Labem 8194
+Vysoka nad Labem 750
+Lhotka nad Labem 257
+Prerov nad Labem 1067
+Ostrov nad Oslavou 896
+Skuhrov nad Belou 1060
+Skuhrov 507
+Ptyrov 163
+Rozsochatec 507
+Kucer 163
+Ceska Bela 947
+Rohovladova Bela 439
+Rohov 614
+Rohozec 258
+Zalsi 258
+Zduchovice 258
+Pastuchovice 73
+Barchovice 206
+Barchov 233
+Cerneves 204
+Zidneves 236
+Karlova Studanka 236
+Anenska Studanka 188
+Damnikov 685
+Damnice 325
+Olbramovice 1048
+Olbramice 538
+
+Klimkovice 3779
+Mackovice 380
+Mackov 284
+Sobcice 284
+Hrobcice 846
+Hrobce 519
+Hrabova 519
+Drahany 519
+Zavlekov 432
+Krupa 432
+Bulovka 849
+Hruska 250
+Milostin 250
+Visnova 1319
+Lazne Libverda 448
+
+Hejnice 2751
+Chomutice 639
+
+Chomutov 50251
 Sobekury 568
-Sobenov 297
-Sobesice 385
-Sobesuky 344
-Mala Bystrice 344
+Srnojedy 568
+Brezno 1220
+Chbany 613
+Cerna u Bohdance 261
+Bohdanec 401
 
-Nova Bystrice 3371
+Lazne Bohdanec 3274
 
-Velka Bystrice 2913
-Velka Lecice 177
-Lejsovka 177
-Jevisovka 561
-
-Hrusovany nad Jevisovkou 3209
-Drnholec 1676
-Rynholec 728
-Volec 309
-Volenice 549
-Holenice 78
-Cholenice 181
-Arnolec 181
-Starnov 576
-Komna 550
-Hromnice 1018
-Ceska Briza 431
-
-Horni Briza 4463
-Horni Bela 543
-Krasna Hora 543
-Krasna Ves 207
-Posna 207
-
-Tremosna 4654
-Lisany 647
-Pliskov 123
-Kurimska Nova Ves 123
-Stranny 123
-Brasy 2055
-Casy 190
-Castkov 367
-Lestkov 353
-Vezky 353
-Mrzky 121
-Sekerice 121
-Libomerice 121
-Lubomer 401
-Horni Libchava 401
-Ceske Libchavy 499
-Ceske Hermanice 528
-Hermanice 229
-Hermanicky 673
-Nedrahovice 470
-Usobrno 470
-
-Brno 369559
-
-Mokra Hora 2612
-Mokre 154
-Okresanec 190
-Kresin 307
-Libin 307
-Dubicne 307
-Dub 390
-Duba 1753
-Dubany 191
-
-Pardubice 88741
-
-Sezemice 3097
-Remicov 79
-Micovice 312
-Krasikov 312
-Krasikovice 112
-Vysocany 112
-Jinocany 791
-Zelec 791
-Zelenec 1615
-Zelenice 427
+Lazne Belohrad 3744
+Holovousy 495
+Rajnochovice 495
+Nemochovice 284
+Mochov 882
+Vochov 554
+Vidochov 342
+Vodochody 427
 Vrbovec 1103
-Vrbova Lhota 377
-Kralova Lhota 205
-Radkova Lhota 199
-Pasecnice 199
-Osecnice 286
-Osecna 1004
-Slunecna 70
-Vysluni 219
-Zlunice 261
-Panosi Ujezd 261
-Roprachtice 261
-Vyprachtice 948
-Cechtice 1410
-Krivsoudov 399
 
-Bludov 3155
-Sudkov 1185
-Ludkovice 687
+Dobsice 2363
+
+Znojmo 35280
+Havraniky 328
+Hurka 300
+Jivovi 300
+Stemechy 300
+Podkopna Lhota 328
+Sucha Lhota 88
+Rabstejnska Lhota 633
+Zverinek 237
+Nasavrky 1526
+Javor 84
+Kalivody 84
+Vincencov 84
+Vsekary 84
+Cejle 408
+Bitovany 408
+Litovany 138
+
+Litovel 10062
+Cervenka 1361
+Cervene Pecky 1617
+
+Pecky 4317
+Tisa 742
+Lnare 742
+Tetin 742
+Ctetin 268
+Krabcice 888
+Zabcice 1492
+Slabcice 310
+Slabce 721
+
+Velesin 4023
+Zamel 586
+Besednice 838
+Milavce 586
+
+Kaplice 7195
+Zilov 398
+Usilov 146
+Drahonuv Ujezd 146
+Hrivinuv Ujezd 567
+Kratonohy 567
 Osecany 271
 Decany 357
 Podsedice 644
-Sedivec 219
-Divec 135
-Podivice 182
-Lavice 25
-Svojek 182
-Maslojedy 176
-Masojedy 65
-Sebecice 65
-Becice 104
+Dobrsin 110
+Rovecne 644
+Trebenice 1723
+Treben 383
+Trebesov 232
+Rebesovice 679
+Velky Trebesov 323
+Trebesice 221
+Sobesice 385
+Sobesin 187
+Mesin 187
+Mesice 1083
+Libesice 1401
+Zbesicky 121
+Pucov 121
+Stojcin 121
+Zarubice 121
+Zbenice 121
+Lubenice 412
+Oubenice 178
+Prerubenice 64
+Kukle 64
 
-Bechyne 5755
-Chysna 104
-Chyst 196
-Chystovice 42
-Arnestovice 76
-Bestovice 402
-Krasna-pod Krasnou 402
-Krasno 670
-Koclirov 670
-Zirov 60
-Krystofovy Hamry 60
-Krystofovo Udoli 241
-Krasne Udoli 451
-Otrocineves 451
-Otrocin 546
-Osvracin 546
-Racineves 442
-Zvanovice 331
-Nenkovice 442
-Unkovice 642
-
-Stankov 3026
-Stankovice 874
-Pravlov 510
-Havlovice 859
-Tyn nad Becvou 859
-Osek nad Becvou 1097
-
-Lipnik nad Becvou 8369
-Bohuslavky 340
-Drasov 1138
-Strasov 311
-Kvetna 311
-Kvetnice 146
-Svetnov 414
-Sveti 265
-Benetice 191
-Kunetice 268
-Libodrice 268
-Libos 579
-Hnojice 579
-
-Sternberk 13967
-Domasov u Sternberka 285
-Cesky Sternberk 147
-Backov 147
-Backovice 127
-Brevnice 127
-
-Revnice 2908
-Lety 867
-Pleteny Ujezd 405
-Cerveny Ujezd 830
-
-Unhost 3480
-
-Hostivice 4915
-Chyne 675
-Chynava 1550
-Nizbor 1549
-Jizbice 287
-Zbizuby 396
-Svidnice 396
-Radnice 1749
-Cerniky 95
-Bukovinka 311
-Tvarozna 1159
-Tvarozna Lhota 861
-Temice 861
-Chotemice 133
-Tatobity 530
-Stity 2049
-Stitov 55
-Dul 54
-Podulsi 249
-Podulsany 148
-Lomy 148
-Chomyz 353
-
-Bystrice pod Hostynem 8727
-Svetec 941
-Svetice 717
-Hodejice 843
-Krizanovice 709
-Nove Branice 717
-Nove Sedlice 473
-Hlubocany 473
-Hlubocec 545
-
-Hlubocky 4448
-Uboc 113
-Vydri 113
-Drisy 746
-Oldris 683
-Oldrisov 1358
-Vysni Lhoty 805
-Nizni Lhoty 261
-Kostelni Lhota 742
-Mlady Smolivec 742
-Mladec 787
-Mlade Briste 208
-Zabonosy 208
-Zabori 785
-Zaborna 202
-Libedice 202
-Dedice 138
-Nova Dedina 410
-Nekmir 410
-
-Chlumec nad Cidlinou 5292
-Nepolisy 860
-Nepomerice 205
-Nepomysl 409
-Spomysl 430
-Zdirec 430
-Dirna 463
-Jirny 1366
-
-Jirkov 21056
-
-Chomutov 50251
-Chomutice 639
-Bily Potok 639
-Bily Kamen 193
-Chuderice 193
-Chuderov 792
-Pazderna 262
-Zderaz 297
-Sedletin 297
-Sedlejov 272
-Sulejovice 692
-Myslejovice 624
-Jindrichovice pod Smrkem 624
-
-Nove Mesto pod Smrkem 3915
-Radenin 448
-
-Raspenava 2826
-
-Chrastava 6051
-Chrastavec 252
-Bzova 422
-Volfirov 655
-
-Zbiroh 2625
-Sebirov 392
-Trebihost 392
-Horky 392
-Horka 395
-
-Morkov 2414
-Borkovice 237
-Mokosin 171
-Mlekojedy 171
-Dolni Bukovsko 1473
-Okrouhla Radoun 171
-Krouna 1352
-
-Lanskroun 9847
-Bychory 516
-Hory 195
-Zernovnik 195
-Vintirov 1132
-Huntirov 715
-Frantiskov nad Ploucnici 379
-
-Benesov nad Ploucnici 4043
-Benesov nad Cernou 1259
-Hrdejovice 1560
-Kurdejov 353
-Jabkenice 353
-Marenice 347
-Detenice 736
-Cernvir 165
-Bernardov 165
-Bacalky 165
-Stalky 153
-Hostalkova 2036
-Hostalkovy 655
-Cerhovice 945
-Drozdov 655
-Rozsec 192
-Rozsec nad Kunstatem 506
-
-Kunstat 2637
-Libstat 972
-Librice 264
-Tribrichy 298
-Pribraz 223
-
-Pribram 35251
-Lhota u Pribrame 445
-Uhelna Pribram 517
-Lipno nad Vltavou 517
-
-Tyn nad Vltavou 8296
-Albrechtice nad Vltavou 822
-Tri Sekery 766
-Driten 1392
-Dritec 458
-Stritez 984
-Kolovec 984
-Dolni Sokolovec 93
-Nemcovice 93
-Semcice 502
-Pavlice 502
-Pavlikov 1013
-Vlkov pod Oskobrhem 96
-Vlkos 1052
-
-Vracov 4491
-
-Bzenec 4315
-Lipa 1020
-
-Ceska Lipa 38841
-Sosnova 718
-Mosnov 675
-Rozstani 675
-Albrechticky 674
-Olbramice 538
-Cavisov 448
-Divisov 1367
-
-Lisov 3989
-Zisov 159
-Nisovice 208
-Cisovice 738
-Bratrinov 115
-Bratrusov 571
-Trstenice 569
-Protivanov 1077
-
-Protivin 5021
-Pivin 694
-Pila 397
-Bila 812
-Bila Hlina 97
-Blazejovice 97
-Chocnejovice 399
-Cejov 420
-Pacejov 794
-Nezdenice 794
-Bezdez 275
-Hrimezdice 394
-Drazenov 394
-Krenovy 155
-Viska u Jevicka 155
-Jevineves 152
-Vitineves 296
-Chotineves 197
-
-Krasna Lipa 3677
-Tupadly 539
-Pocinovice 539
-Malkov 539
-Chvalkovice 647
-Horni Bezdekov 489
-Rybne 89
-Libnatov 368
-Libnic 382
-Libnikovice 138
-Jenikovice 415
-Masovice 415
-Suchy Dul 415
-Siroky Dul 363
-Strilky 682
-Uhorilka 47
-Velke Prilepy 1105
-Prilepy 836
-Lacnov 899
-
-Vlcnov 3039
-Vlckov 100
-Vlckova 369
-Panensky Tynec 369
-Plane 264
-Svinosice 264
-Svincany 369
-Svinarov 653
-Lnare 742
-Rynarec 534
-Picin 534
-
-Slavicin 7079
-Mestys Bila Voda 302
-Dobra Voda 331
-Cankovice 331
-Dvakacovice 153
-Stracov 310
-Dusniky 310
-Trhove Dusniky 399
-Trhovy Stepanov 1260
-Chrbonin 141
-Chmelna 114
-
-Melnik 19231
-Mohelnice nad Jizerou 67
-
-Mohelnice 9742
-Mohelno 1424
-Busovice 502
-Dysina 1424
-Druztova 647
-Tuhan 540
-Druhanov 131
-Vohancice 131
-Vrancice 136
-Vranov 878
-Vranovice 1934
-Bocanovice 434
-
-Jablunkov 5782
-
-Navsi u Jablunkova 3809
-
-Mosty u Jablunkova 3989
-Stablovice 585
-Syrenov 204
-Libkova Voda 204
-Libkov 103
-Pocaply 103
-Horni Pocaply 1141
-Hacky 91
-
-Luhacovice 5554
-Biskupice 741
-Nemyceves 271
-Podmyce 97
-Vikantice 97
-Vilantice 184
-Vilanec 293
-Zlamanec 293
-Kovanec 129
-Klokocov 129
-Klokoci 238
-Kocov 202
-Mocovice 325
-Kricen 238
-Samsina 238
-Krumsin 627
-Krumvir 1112
-Vir 749
-
-Stitna nad Vlari 2500
-
-Hluboka nad Vltavou 4682
-Borek 1157
-Borec 285
-Orech 685
-Krechor 406
-Zlechov 1567
-
-Borsice 2239
-Horsice 390
-Resice 356
-Postrelmuvek 356
-
-Postrelmov 3314
-Ostretice 50
-Kresetice 613
-Desenice 709
-Vsenice 226
-Vsenory 1438
-Stare Hamry 572
-Nove Hamry 292
-
-Velke Hamry 2754
-Hamry 250
-Hamr 358
-Halamky 154
-Klamos 410
-Kladrub 623
-Kladniky 132
-
-Kladno 70003
-Vinarice 1739
-Pchery 1743
-Utery 408
-
-Skutec 5415
-
-Luze 2591
-Repniky 408
-Horepnik 627
-Lipnik 332
-Prehorov 332
-Vysehorovice 544
-Vysehori 203
-Stosikovice na Louce 203
-Loucen 1082
-Dlouhomilov 466
-Dlouhopolsko 226
-Blesno 315
-Mesno 92
-Rerichy 92
-Sira 92
-Siroka Niva 582
-
-Otrokovice 18857
-
-Napajedla 7662
-Spytihnev 1692
-Hnevnice 101
-Horni Repcice 101
-Synalov 101
-Zlosyn 340
-Hlohovcice 191
-Sarovcova Lhota 191
-Haskovcova Lhota 82
-Balkova Lhota 122
-Klasterska Lhota 185
-Uhlirska Lhota 358
-Svojkovice 358
-Svojkov 124
-Vojkov 482
-Mnetes 482
-Jetetice 289
-Merunice 289
-Prosimerice 737
-Skocice 189
-Vodice 189
-Provodin 684
-
-Doksy 5025
-Vonoklasy 409
-Stipoklasy 132
-Drahkov 132
-Drahlin 517
-Obecnice 1174
-Lobec 138
-Ohrobec 703
-Dolni Brezany 1790
-Dolni Branna 938
-
-Prelouc 8586
-
-Lazne Bohdanec 3274
-Bohdanec 401
-Chodska Lhota 401
-Bozetice 401
-Strezetice 294
-Rez 1022
-Trhova Kamenice 865
-Srbska Kamenice 193
-Srbsko 458
-Tursko 522
-Trebichovice 522
-Trebiz 177
-Berunice 876
-Knezicky 177
-Knezice 1455
+Studena 2464
+Lomec 107
+Vyzerky 107
+Zim 128
+Cernolice 199
+Jinolice 167
+Libez 167
+Libeznice 1290
 Kneznice 221
 Zeleznice 1094
+
+Zelezna Ruda 2096
+Bela 705
+
+Pist 2096
+Pisty 356
+Trpisty 221
 Dilce 45
-Valdice 1474
-Valdikov 97
-Zdikov 1616
-Radikov 137
-Mokrosuky 137
-Patokryje 373
-Skryje 191
-Kyje 46
-Zakava 368
-Vlkava 374
-Skastice 374
-Skasov 230
-Turice 230
+Zaravice 143
+Pravice 322
+Svepravice 118
+Zeravice 1043
+Hysly 389
+Lipa 1020
+Domanin 1020
+Nedakonice 1505
+Rakova u Konice 187
+Jitkov 187
+Havlickova Borova 957
 
-Turnov 14507
-Ohrazenice 1055
-Sazena 264
-Jezena 109
-Jezernice 661
-Ruda 661
+Havlickuv Brod 24356
+Knyk 333
+Kozlov 464
 
-Rudna 3360
+Kozlovice 2852
+Pozlovice 1189
+Neslovice 832
+Greslove Myto 209
+Ujezd u Svateho Krize 209
+Hora Svateho Vaclava 59
+Chrtnic 150
+Brezinky 150
+Bojiste 231
+Chleny 231
+Rostoklaty 412
+Kladky 412
+Vidlata Sec 295
+Mezno 351
+Dzbel 295
+Ryzoviste 654
+Zihobce 654
+Hvozd 654
+Bilsko 210
+Cholina 664
+Znetinek 208
+Nakri 208
+Klec 208
+Zabonosy 208
+Dubcany 208
+Naklo 1425
+Prikazy 1224
+Vidnava 1425
+Skrben 1081
 
-Rudnik 2161
-Roudnice 536
-Roudna 510
-Cerna u Bohdance 261
-Bohdalov 1074
-Bohdalec 297
-Velka Turna 142
-Velky Bor 551
-Velky Borek 845
-Stenovicky Borek 359
-Parsovice 359
-Palovice 162
-Spalov 929
-Spanov 191
-Zvikovske Podhradi 191
-Podhradi 387
-Podhradi nad Dyji 53
-Drahnovice 53
-Drahobudice 198
-Drahobuz 222
-Techobuz 116
-Utechovice 78
-Utechovicky 73
-Plchovice 73
-Plch 79
-Zichovec 79
-Praskacka 920
-Velhartice 920
-Linhartice 578
-Menhartice 161
-Vyzice 161
-Vyzerky 107
-Hurky 175
-Hurka 300
-Modra Hurka 76
-Jahodov 76
-Necin 696
+Horka nad Moravou 2101
 
-Decin 52058
-Cikov 220
-Bynovec 220
+Ruda nad Moravou 2490
+Dub nad Moravou 1485
 
-Chynov 2121
-Radcice 149
-Hudcice 224
-Smedcice 141
-Horni Smrzov 141
+Hodkovice nad Mohelkou 2659
+Ludkovice 687
+Budkov 380
+Domamil 283
+Zeletava 1573
+Krsy 231
+Krasonice 231
+Lesonice 490
 
-Smrzovka 3433
-Svitavka 1700
-Vitanov 425
-Pacerice 259
-Kacerov 423
+Slavonice 2706
+Slavonov 268
+Smilkov 268
+Libodrice 268
+Soutice 232
+Stare Jesencany 232
+Stare Krecany 1244
+Klecany 1904
 
-Kynsperk nad Ohri 5085
-Rusava 590
-Kasava 886
-Sany 466
-Stary Hrozenkov 886
+Roztoky 5956
+Rez 1022
+Otinoves 294
+Stvolinky 294
+Klicany 294
+Bile Policany 154
+Bile Podoli 584
+Holotin 36
+Petlery 36
+Chromec 584
 
-Novy Hrozenkov 2714
+Prelouc 8586
+Brehy 938
+Kladrub 623
+Mzany 411
+Bzany 715
+Kostomlaty pod Milesovkou 883
+Podlesi 883
+Velky Malahov 262
+Pazderna 262
 
-Halenkov 2367
+Teplice 51223
 
-Hovezi 2351
-Nevezice 147
-Nevratice 147
-Nevren 203
-Stren 539
-Stremy 352
-Ludvikov 352
-Ludvikovice 725
-Ludikov 289
-Zidovice 289
-Vejvanovice 289
-Vejvanov 201
-Tulesice 201
-Lenesice 1298
-Nacesice 515
-Prace 862
-Chozov 564
-Ochoz 200
-Bochor 1000
-Prostredni Becva 1661
+Probostov 2333
 
-Horni Becva 2420
-Dolni Becva 1805
-Becvary 982
+Krupka 13687
 
-Velvary 2934
-Cernuc 934
-Cernoucek 268
-Divci Hrad 268
-Divcice 540
-Vevcice 77
-Volevcice 95
-Vrchovany 95
-Vrchovnice 68
-Litencice 455
-Kotencice 206
-Korolupy 206
-Mecholupy 1026
-Holedec 486
-Ledecko 142
-Nevid 142
-Hodiskov 142
-Miskovice 744
-Liptal 1403
-Liptan 443
-Litohlavy 443
-Litohor 488
-Krtiny 753
-Veliny 361
-Velichovky 753
-Velichov 506
-Bilichov 138
-Retuvka 243
-Rakuvka 108
-Morkuvky 465
-Repov 582
-Slepotice 439
+Dubi 7591
+
+Kostany 2700
+Hrob 2020
+Teplicka 81
+Petruvky 81
+Prebuz 81
+Snovidky 367
+Niva 367
+Brandov 249
+Bolebor 197
+
+Jirkov 21056
+Tupadly 539
+
+Kadan 18759
+Hroznatin 98
+Domasin 98
+Zajezd 98
+Kunov 10
+
+Kunovice 5148
+
+Bohunovice 2390
+Bohunov 242
+Temesvar 93
+Nemcovice 93
+
+Bucovice 6386
+Loucovice 1955
+Kroucova 245
+Kelcany 245
+Javurek 245
+Peralec 245
+Valasske Prikazy 245
+
+Valasske Mezirici 27481
+Jarcova 741
+Branky 874
+Psanky 49
+Janousov 49
+Busin 425
+
+Libusin 2564
+Smecno 1781
+Hrdliv 385
+Josefov 385
+Vinarice 1739
+Vinary 457
+Mourinov 457
+Valchov 457
+Bohutice 612
+Bohutin 1544
+Oharice 58
+Milin 2053
+Milinov 181
+Milire 181
+Lesni Hluboke 181
+Hluboke Masuvky 707
+Kyselka 707
+Jedli 707
+Medlice 182
+Podivice 182
+Svojek 182
+Jinin 182
 Kuroslepy 182
 Kurimany 25
+Kelniky 176
+Velky Valtinov 176
+Velky Vrestov 200
+Restoky 467
+Velke Hydcice 225
+Radcice 149
+Polomi 149
+Prameny 149
+Skrinarov 149
 
-Kurim 9283
-Kourim 1772
-Velim 2021
-Veltruby 1301
-Veltrusy 1632
-Vysoke Studnice 345
-Studnice 988
-Hustenovice 988
-Chotenov 131
-Pteni 1093
-Rouchovany 1093
-Premyslovice 1268
-Unanov 1093
+Chynov 2121
+Zabestni Lhota 149
+Podhradni Lhota 529
+Vysni Lhoty 805
+Nizni Lhoty 261
+Kozomin 261
+Smrk 261
+Skaly 261
+Repec 261
+Zlunice 261
+Dunice 69
+Bohunice 44
+Busanovice 260
+Sanov 1253
+Horni Tosanovice 485
+Dolni Tosanovice 292
+Kanovice 271
+Dekanovice 55
+Zupanovice 83
+Spanov 191
+Slapanov 802
 
-Plumlov 2384
+Slapanice 7109
+Slapy 648
+Kovarska 1320
+Davle 1176
+Hradistko 1320
+Choustnikovo Hradiste 605
+Kocbere 521
+Hajnice 897
+Kyje 46
+Zlatenka 46
+Slavce 521
+Mcely 372
+Dubenec 689
+Rackova 689
+Zaryby 689
+Brzice 201
+Vitejeves 387
+Medenec 158
+Talinske Kukle 158
+Hnevceves 158
+Modlikov 158
+Dobrockovice 215
+Jickovice 104
+Zajickov 205
+Karlin 205
+Velky Ratmirov 205
+Skrsin 205
+Depoltovice 302
+Litultovice 761
+Chrastovice 251
+Mastov 679
+Kondrac 460
+
+Vlasim 12225
+Zavraty 33
+Nemiz 33
+Sleglov 33
+Chotysany 463
+Dirna 463
+Polanka 53
+Valasska Polanka 1328
+Valasska Senice 486
+Sadek 486
+Mecholupy 1026
+Holedec 486
+
+Zatec 19607
+Roudna 510
+Chotimer 261
+Pustimer 1580
+Drysice 505
+Lipno 505
+Predboj 349
+Drevnovice 477
+Hlavnovice 504
+Hlavnice 595
+Prepychy 595
+Vlkanec 595
+Zabovresky nad Ohri 220
+Pomezi nad Ohri 94
+Pomezi 1031
+Mezina 247
+Putimov 247
+Lupenice 247
+Vapenice 191
+Krepenice 160
+Nyklovice 160
+Neveklovice 38
+
+Neveklov 2357
+Netvorice 1060
+Tvorihraz 373
+Hlavatce 373
+Kouty 373
+Hodetin 94
+Oselin 126
+Temelin 766
+Tri Sekery 766
+Driten 1392
+Divcice 540
+Volarna 463
+
+Vodnany 6687
+Vlcatin 144
+Budyne 40
+Bavorov 1401
+Bavory 398
+Perna 769
+Pernarec 767
+Rynarec 534
+Picin 534
+Oskorinek 534
+Nevid 142
+Velka Turna 142
+Velka Lecice 177
+Mlecice 326
+Pecice 357
+Mladonovice 357
+Donov 92
+Sonov 308
+Provodov-Sonov 1225
+Liten 961
+Kramolna 961
+
+Nachod 21263
+Lulec 685
+
+Hronov 6516
+Jivka 578
+Prasek 578
+Sobetuchy 578
+Male Svatonovice 1587
+Velke Svatonovice 1125
+Svatonovice 319
+Milonovice 282
+Simonovice 417
+Pnovice 846
+
+Drnovice 2225
+Batnovice 687
+Oslnovice 108
+Kvasnovice 135
+Krizanovice 709
+Krizany 657
+Dolni Rozinka 657
+Dolni Cermna 1371
+Horni Cermna 1016
+Cermna 366
+Pilnikov 1110
+
+Trutnov 31398
+
+Upice 5959
+Marsov u Upice 183
+Buk 368
+Svetce 138
+Male Vykleky 138
+Sychrov 202
+Kocov 202
+Trebsko 202
+Zaborna 202
+Bor u Skutce 174
+Butoves 174
+Bezuchov 174
+Radkovy 179
+Pozdatin 179
+Nahosovice 179
+Nihosovice 286
+Nosovice 979
+Bartosovice 1596
+Vysovice 474
+Lysovice 244
+Teplysovice 388
+Cernysovice 83
+Olsovice 35
+Malsovice 747
+Polesovice 1941
+Malesovice 390
+Malesov 881
+Potstejn 881
+Potstat 1214
+Hrabuvka 325
+Kricen 238
+Stojice 238
+Samsina 238
+Rabyne 238
+Klokoci 238
+Jezernice 661
+
+Obrnice 2631
+Zubrnice 207
+Stribrnice 414
+
+Stribro 7689
+Kladruby 1419
+Zihle 1419
+Chrudichromy 173
+
+Bor 4025
+Stare Sedliste 997
+Sedliste 1263
+Bruzovice 732
+Sluzovice 805
+Brezovice 289
+
+Brezova 2826
+Brezolupy 1559
+Kozolupy 953
+Radun 953
+Mesto Touskov 1777
+Chotikov 767
+Zlata Koruna 680
+Ledce 680
+Buci 137
+Sindelova 266
+Loza 266
+Svrkyne 266
+Svarov 266
+Rapsach 543
+Prasily 135
+Zavist 135
+Lany u Dasic 135
+Drazen 135
+Drazenov 394
+Hrimezdice 394
+Trebovle 394
+Trebovice 806
+
+Ceska Trebova 16655
+Dlouha Trebova 1250
+
+Moravska Trebova 11414
+
+Moravsky Krumlov 6050
 
 Cesky Krumlov 14146
 Kajov 1290
-Rajov 100
-Sestajovice 1465
-Staj 182
-Cista 899
-Utociste 273
-Pocedelice 273
-Nedeliste 347
-Nesvacilka 347
-Nesvacily 115
-Vsevily 114
-Dily 376
-Klenci pod Cerchovem 1270
-Jencice 316
-Pencin 1769
 
-Zelezny Brod 6442
-Koberovy 958
-
-Koberice 3228
-
-Stepankovice 3096
-
-Bolatice 4186
-Zablati 360
-Mesto Libava 1213
-
-Mesto Albrechtice 3638
-Postrizin 339
-Ubislavice 339
-Andelska Hora 362
-Vysoke Chvojno 352
-Velke Chvojno 698
-
-Velka nad Velickou 3149
-
-Veseli nad Moravou 12081
-Kostelany nad Moravou 884
-Kostelany 467
-Velke Hydcice 225
-Valkerice 406
-Jalubi 1708
-Lube 97
-Lubna 999
-Lubnice 84
-Lubnik 302
-Rybnik 758
-Rybniky 403
-Male Hradisko 403
-Hradistko 1320
-Kovarska 1320
-Marsovice 698
-Marsov u Upice 183
-Steblova 183
-Keblov 190
-Dunajovice 190
-Tycek 190
-Osecek 108
-Sec 1686
-Vesec 23
-Radovesice 426
-Trebesice 221
-Trebesov 232
-Dubno 232
-
-Dubnany 6649
-
-Ratiskovice 3994
-Vreskovice 260
-Noviny pod Ralskem 260
-
-Straz pod Ralskem 4068
-Brniste 1358
-Rybniste 716
-Rybnice 435
-Rybnicek 285
-Velky Rybnik 160
-Rybna nad Zdobnici 440
-Slatina nad Zdobnici 816
-Neurazy 816
-Turany 487
-Vrany 747
-Branov 208
-Saplava 116
-Plavsko 434
-Rodvinov 434
-Podveky 209
-Perimov 209
-
-Pelhrimov 16541
-Radimovice u Tabora 63
-
-Tabor 36264
-Kraborovice 101
-Vlctejn 101
-Rejstejn 256
-Jenstejn 522
-Zlata Olesnice 522
-Nova Olesna 95
-Olesna 520
-Praskolesy 808
-Mokre Lazce 1085
-Okresice 164
-Heroltice 164
-Gruna 164
-Grunta 90
-Drunce 56
-Brambory 106
-Bohdalin 230
-Bohdalovice 276
-Zilov 398
-Borova Lada 276
-Borovno 94
-Blanne 94
-
-Blansko 20384
-Janska 196
-Predin 715
-Predslav 697
-Predslavice 235
-Kostomlaty 235
-Kostomlatky 238
-Kostomlaty pod Ripem 446
-Libkovice pod Ripem 527
-Ripec 287
-Lipec 203
-Skripel 111
-Skripov 999
-Horni Jiretin 1963
-Cesky Jiretin 70
-
-Cesky Tesin 25750
-Ropice 1390
-Popice 954
-Vsemyslice 954
-Vemyslice 677
-Svemyslice 110
-Zdemyslice 506
+Vetrni 3870
+Horice na Sumave 786
+Rozmital na Sumave 398
+Ktis 506
 Senetarov 506
 Nemojov 506
-Hojovice 69
-Sojovice 441
-Smilovy Hory 441
-Rpety 441
-Slavetin nad Metuji 227
 
-Police nad Metuji 4316
-Teplice nad Metuji 1805
-Adrspach 527
-Jivka 578
-Pivkovice 74
-Tuzice 74
-Haluzice 75
-Zdenkov 75
-Rohoznice 302
-Rohozec 258
-Zduchovice 258
-Pastuchovice 73
-Velky Beranov 1269
-Maly Beranov 565
-Maly Bor 592
-Opatovec 592
-Opatovice Predni 105
-Petrovice Predni 301
-Predni Zborovice 57
-Predni Vyton 255
+Vyssi Brod 2628
+Frymburk 1324
+Svaty Tomas 20
+Cerna v Posumavi 835
+Stadlec 618
 
-Lednice 2355
-Bulhary 791
+Volary 4059
+Lenora 810
+Senorady 396
+Zbizuby 396
+Svidnice 396
+Pencin 1769
+Drzkov 569
+Bozkov 571
+Bratrusov 571
+Borusov 162
+Lichoceves 164
+Vlceves 88
+Luzce 88
+Kolinec 1388
 
-Rakvice 2134
-Sakvice 1369
-Kvicovice 342
-Lcovice 115
-Bacovice 47
-Cervena Recice 993
-Dobrohost 47
-Trebcice 63
-Sudejov 63
-Bozejov 669
-Blazejov 301
-Clunek 476
-Kunzak 1484
-Strmilov 1399
+Kolin 29690
+Stary Kolin 1561
+Stary Sachov 190
 
-Trmice 2862
+Stary Plzenec 4387
 
-Usti nad Labem 94105
-Recany nad Labem 1364
-Svratouch 901
-Stratov 405
-Zabovresky 405
-Zabovresky nad Ohri 220
-Tatina 220
-Horni Slatina 142
-Vrbno nad Lesy 142
+Plzen 164180
 
-Vrbno pod Pradedem 6072
-Lhota pod Radcem 263
-Lhota pod Horickami 252
-Ostrovanky 203
-Ostrovacice 587
-Vsechlapy 587
-Zehusice 587
-Zehun 437
+Vejprnice 2626
 
-Bohunovice 2390
-Dolni Chvatliny 437
-Cheznovice 729
-Brezno 1220
+Vejprty 3273
+Stupava 150
+Potvorov 150
+Sec 1686
+Vrcen 313
 
-Breznice 3662
-Neprobylice 134
-Kobyly 299
-Hruby Jesenik 501
-Jesenny 515
+Chotebor 9849
+Chotebuz 1050
+Chotebudice 107
+Drahobudice 198
+Drahobuz 222
+Techobuz 116
+Saplava 116
+Psare 116
+Branov 208
+Mikuluvka 676
+Krivoklat 676
+Vlkov pod Oskobrhem 96
+Vrany 747
+Havran 515
+Novy Jachymov 515
+Kluky 515
 Nalzovice 515
+Jesenny 515
 Zakolany 515
 Holany 474
-Blizevedly 638
-Blizejov 1029
 
-Horsovsky Tyn 4905
+Dolany 2162
+Opolany 787
+Topolany 293
+Topolna 1545
+Knezpole 1089
+Babice 1754
+Spytihnev 1692
 
-Velky Tynec 2150
-Velky Trebesov 323
-Orlovice 323
-Kocelovice 184
-Jakubovice 184
-Kubova Hut 100
-Hermanova Hut 1794
-Vsesulov 101
-Obcov 101
-Zihobce 654
-Mezihori 71
+Napajedla 7662
+Narysov 218
+Pradlo 218
+Vidice 218
+Koneprusy 218
+Cirkvice 1136
 
-Mezibori 4885
+Zlin 78759
+Hvozdna 1075
+Vesela 708
+Vesele 286
+Vesely Zdar 485
+Zdar 1181
+Zdarec 362
+Zdarek 132
+Lhotky 132
+Drahkov 132
+Kladniky 132
+Mazice 132
+Razice 413
+Blazice 204
+Blazim 232
+Bitozeves 363
 
-Litvinov 27022
-Litvinovice 1483
-Homole 891
+Postoloprty 4924
+Brvany 330
+Chozov 564
+Cerncice 1423
+Zloncice 180
+Hlinna 180
+Vitcice 180
+Zbozicko 180
+Plese 180
+Hudcice 224
+Tocnik 224
+Lipovice 180
+Lipov 1560
+Lipova 761
+Starovice 761
+Starovicky 736
+Kozarovice 332
+Konarovice 664
+Stonarov 927
+Konstantinovy Lazne 927
+Bezdruzice 1004
+Ostrov u Bezdruzic 201
+Ctidruzice 323
+Bechary 219
+Chotycany 219
+Bus 219
 
-Olomouc 101268
-Domousice 622
-Domousnice 233
-Domoraz 62
-
-Horazdovice 5727
-Jezdovice 253
-Zajezd 98
-Hajek 397
-Haje 242
+Kopidlno 2231
+Cesov 187
+Unesov 544
+Lahost 544
+Jedousov 145
+Kdousov 109
+Dusejov 428
+Cekov 118
+Dekov 191
+Chmelik 191
+Vysoka Pec 803
+Vysoka Srbska 242
 Rudimov 242
 
 Chrudim 23630
-Chrudichromy 173
-Kladruby 1419
-Zihle 1419
-Pohled 775
-Upohlavy 216
-Holohlavy 846
-Rasosky 571
-
-Jaromer 12831
-
-Kromeriz 29126
-Bezmerov 561
-Ruprechtov 559
-Velke Albrechtice 971
-Cechtin 300
-Cakova 300
-Cakov 214
-Cakovicky 321
-Bast 503
-Budisovice 503
-Bezdekov nad Metuji 503
-Otinoves 294
-Stetkovice 294
-Letkov 389
-Hysly 389
-Chyse 573
-
-Zlutice 2817
-Zlutava 1001
-Klobuky 1001
-Buk 368
-Doksany 368
-Grymov 138
-Grygov 1385
-Majetin 1087
-Dub nad Moravou 1485
-Holoubkov 1485
-Troubky 1993
-Troubelice 1802
-Strazna 1770
-Strazny 348
-Strazov 1326
-Strazovice 553
-Dolni Vilemovice 393
-Horni Vilemovice 80
-Vratislavka 80
-Svabov 80
-Svabenice 936
-Pabenice 174
-Sipy 174
-Kacanovy 174
-Kacov 789
-Chaberice 257
-
-Zruc nad Sazavou 4925
-
-Zdar nad Sazavou 24030
-Ostrov nad Oslavou 896
-Krompach 136
-Zampach 292
+Koci 562
+Sisma 197
+Malcin 197
+Rancirov 197
+Orel 677
+Chotanky 408
+Chaloupky 408
+Zabrodi 395
+Nevojice 395
+Veprova 395
+Horka 395
+Nesuchyne 395
+Velehrad 1323
+Honbice 197
+Strukov 153
+Chroustovice 1208
+Chroustov 206
+Zasmuky 1763
+Horni Jelcany 1
+Horni Jeleni 1811
+Horni Bradlo 474
+Radlo 581
+Nemotice 346
+Tunechody 581
+Frydstejn 837
+Holstejn 156
+Karlstejn 705
+Jenstejn 522
+Perstejn 1017
+Vseruby 1017
+Hnojnik 1492
+Kruzberk 292
+Jehnedi 292
 Velemysleves 292
 Velemin 1427
-Lisnice 770
-Lisny 248
-Cetechovice 211
-Kurovice 248
-
-Jaromerice nad Rokytnou 4171
-Rokytnice nad Rokytnou 853
-Rokytnice 1422
-Rokytno 739
-Jiretin pod Jedlovou 587
-Jiretin pod Bukovou 646
-Vyskytna 646
-Vysker 371
-Velteze 371
-Stezery 1625
-Petlery 36
-Svetla 214
-Svetlik 260
-Osvetimany 863
-Simanov 157
-Skopytce 157
-Sejrek 157
-Dusejov 428
-Borsov 118
-Vystrcenovice 109
-Vrcen 313
-Kratosice 129
-Puchlovice 129
-Vsekary 84
-Nasavrky 1526
-Havran 515
-Havraniky 328
-Satov 1200
-Katov 192
-Podluhy 610
-Sluhy 650
-Uhy 364
-Dlouhy Most 627
-Knezmost 1470
-Bosen 386
-Branzez 213
-
-Mnichovo Hradiste 8368
-Klaster Hradiste nad Jizerou 658
-
-Bakov nad Jizerou 4417
-Dolni Stakory 193
-
-Frystak 3540
-
-Zlin 78759
-Cirkvice 1136
-Zverkovice 218
-Vermerovice 722
-Hermankovice 498
-Drslavice 498
-Kruh 498
-Struharov 651
-
-Broumov 8254
-Hejtmankovice 651
-Tman 970
-Hartmanice 1189
-Vrbatky 1562
-Vrbatuv Kostelec 336
-
-Batelov 2388
-
-Telc 5883
-Melc 621
-Jezdkovice 220
-Radesinska Svratka 595
-
-Ceska Skalice 5402
-Ceska Cermna 455
-Cermna 366
-Pilnikov 1110
-Cernikovice 672
-Pridoli 574
-Castolovice 1614
-Chrastovice 251
-Chrastany 710
-Zachrastany 167
-Hrazany 279
-Zbuzany 665
-Kosor 714
-
-Mirosov 2237
-
-Miroslav 3017
-Panske Dubenky 140
-Horni Dubenky 639
-Prerubenice 64
-Srubec 1107
-Sruby 541
-Okrinek 143
-Zverinek 237
-Vysoka Libyne 237
-Rabstejnska Lhota 633
-Stare Hobzi 562
-Stare Hute 150
-Stara Hut 1158
-
-Dobris 7926
-Daleke Dusniky 392
-Drevniky 288
-Drevnovice 477
-Lovcicky 563
-Predboj 349
-Hribojedy 210
-Vrbka 210
-Mala Vrbka 205
-Mala Roudka 196
-
-Nova Role 4047
-Nova Rise 827
-Prisecna 209
-Prisov 236
-Kubsice 153
-Strukov 153
-Zidneves 236
-Moravany 1706
-Moravka 1017
-Perstejn 1017
-Boskovstejn 146
-Vstis 401
-Tisa 742
-Vlasatice 799
-Vlastec 182
-Jinin 182
-Minice 35
-Cimelice 1045
-Cachotin 175
-Chotikov 767
-Zlata Koruna 680
-Svata Mari 540
-Klentnice 540
-
-Rokycany 13826
-Libotov 175
-Libotenice 405
-Uhonice 887
-Bratronice 777
-Belec 317
-Struznice 856
-Struzna 511
-Vezna 189
-Labska Stran 189
-Vysoka Srbska 242
-Prasklice 242
-Prasily 135
-Kvasnovice 135
-Kvaskovice 102
-Vojslavice 102
-Ujkovice 102
-
-Cejkovice 2527
-Cejc 1232
-Brezejc 129
-Brezske 225
-Brezsko 224
-Lazsko 154
-Palec 154
-Valec 568
-Srnojedy 568
-Celechovice na Hane 1220
-Merovice nad Hanou 694
-Pernink 969
-Abertamy 1315
-Jamy 534
-Kamyk 135
-Lany u Dasic 135
-Blsany u Loun 216
-Ostresany 899
-Pysely 1250
-Jaroslavice 1250
-Oslavicka 96
-Chudoslavice 128
-Hrabetice 904
-Hrabesin 120
-Trnovany 298
-Steborice 1330
-
-Chotebor 9849
-Temesvar 93
-Stemechy 300
-Hnanice 300
-Pohnani 89
-Ohnisov 490
-Ohnistany 318
-Koldin 318
-Bdin 62
-Dudin 148
-Lisina 148
-
-Vresina 2410
-
-Ludgerovice 4635
-
-Rychvald 6771
-
-Petrvald 6854
+Hrubcice 770
+Zubcice 366
+Osiky 132
+Lipec 203
+Nevren 203
+Matejov 203
+Pustejov 967
+Zajecice 933
+Zajecov 1341
+Svor 637
+Tis 348
+Mlyny 145
+Hranicne Petrovice 145
 
 Petrovice u Karvine 4874
 
 Karvina 63677
 
-Orlova 34282
-Prlov 526
-Hrdiborice 244
-Doubravcice 244
-Doubek 159
-Lhuta 159
-Mukarov 1297
-Luka 801
-Lukavice 1066
-Trokavec 102
-Lukavec 1120
-Lukavec u Horic 251
-Vortova 251
-Hurtova Lhota 222
-Piskova Lhota 580
-Msecke Zehrovice 429
-Kamenne Zehrovice 1606
-Kamenne Zbozi 528
-Hospozin 528
-Hospriz 375
-Meceriz 397
-Klabava 397
-Zenklava 860
-Humburky 323
+Horni Terlicko 4134
+Orlicky 279
+Olesnice v Orlickych horach 470
 
-Rumburk 11101
-Stare Krecany 1244
-
-Sluknov 5701
-
-Mikulasovice 2375
-Polesovice 1941
-Kolesov 98
-Hroznatin 98
+Rokytnice v Orlickych Horach 2463
+Rokytnice 1422
+Rokytovec 121
+Kalhov 121
+Mrzky 121
+Kramolin 121
+Lomy 148
+Lisina 148
+Podulsany 148
+Dudin 148
+Borsov 118
+Jezena 109
+Sejrek 157
+Simanov 157
+Skopytce 157
+Podmoky 157
+Svetla pod Jestedem 835
+Svetla 214
+Krokocin 214
+Vizina 214
+Bysice 1170
+Daskabat 589
+Vsetaty 2019
+Tisice 1460
+Libis 1807
+Radim 981
+Radimer 1117
+Merklin 1117
+Tupesy 1117
 Hroznetin 1721
-Znetinek 208
-Dubcany 208
-Vrbcany 297
-Srbce 87
-Srbice 390
-Hybralec 390
-Heralec 1269
-Peralec 245
-Valasske Prikazy 245
-Valasska Senice 486
-Velky Chlumec 335
-Vysoky Chlumec 799
-Chlumek 181
-Budceves 181
-Libceves 862
-Chvalenice 564
-Cerncice 1423
-Hyncice 211
-Jemniky 211
+Hajek 397
+Klabava 397
+Meceriz 397
+Pila 397
 
-Jilemnice 5777
-Roztoky u Jilemnice 936
-Jilem 126
-Velke Tresne 126
-Horni Tresnovec 620
-Nectiny 620
-Vinec 249
-Kolinec 1388
-Pocepice 504
-Lochenice 504
-Locenice 586
-Klucenice 490
-Klucov 820
-Kroucova 245
+Karlovy Vary 51807
+Smrzov 397
+
+Jachymov 3143
+Bozi Dar 244
+Chuchelna 1315
+Abertamy 1315
+Tetcice 969
+Rohle 694
+Jezov 694
+Pernink 969
+Pivin 694
+
+Nejdek 8565
+Slepotice 439
+
+Rotava 3403
+
+Kraslice 7159
+Bublava 334
+Zebrak 1909
+Krajkova 864
+Kacerov 423
+
+Kynsperk nad Ohri 5085
+Rusava 590
+Citice 880
+Pokrikov 277
+
+Luby 2525
+
+As 12866
+
+Cheb 33242
+Lazne Kynzvart 1647
+
+Velka Hledsebe 2164
+Velka Stahle 337
+
+Stahlavy 2200
+Ejpovice 540
+Klentnice 540
+
+Brtnice 3744
+Brtnicka 117
+Dlouha Brtnice 355
+Bystra nad Jizerou 117
+Vichova nad Jizerou 925
+Jablonec nad Jizerou 1968
+Klaster Hradiste nad Jizerou 658
+Dehtare 97
+Bila Hlina 97
+Jivina 409
+Nepomysl 409
+Vrazne 70
+Slunecna 70
+Bylany 352
+Branzez 213
+Knezmost 1470
+Bosen 386
+Dobsin 218
+Vesec 23
+Radovesice 426
+Stavesice 368
+Vesin 606
+Zakrany 733
+
+Zbysov 3890
+Kratochvilka 413
+Rovensko 719
+Potehy 641
+Popuvky 641
+Troubsko 1822
+Omice 719
+Tomice 130
+Hostomice 1491
+Nedomice 282
+Okna 282
+Deblin 967
 Tvrdkov 245
+Hribojedy 210
+Vrbka 210
+Zumberk 210
+Kejzlice 317
+Jinosov 317
+Utvina 553
+Kublov 553
+Jenisov 393
+Ohnisov 490
+Klucenice 490
+Cetyne 168
+Pistin 490
+Pistina 186
+Tistin 530
+Zizice 530
+Tatobity 530
+Chyjice 133
+Klapy 530
+Ohare 272
+Evan 272
+Laz 272
 
-Vrdy 3062
-Podbrdy 162
+Peruc 2109
+Klobuky 1001
+Rochlov 243
+Podesin 243
+Retuvka 243
+Zlutava 1001
+Roupov 243
+Turany 487
+Mokrovousy 267
+Hrebecniky 267
+Hrensko 267
+Pricovy 254
+Jarpice 254
+Ritka 691
+Sedlejov 272
+Sedlec 1098
+Libisany 407
+Hlizov 407
+Kuzelov 407
+Nove Dvory 831
+Tri Dvory 866
+Nadryby 90
+Olesko 90
+Oleska 841
+Kotvrdovice 841
+Bordovice 559
+Bujanov 559
+Svojanov 370
+Byckovice 283
+Mirkovice 421
+Mirkov 327
+Zbelitov 327
+Drzkova 327
+Hroubovice 327
+Rence 886
+Kasava 886
+Hrobice 466
+Trebusin 466
+Petruvka 327
 
-Mnisek pod Brdy 4181
-Mnisek 1133
-Mnich 395
-Nesuchyne 395
-Chaloupky 408
-Cejle 408
-Cejetice 851
-Cehnice 447
-Cehovice 513
-Ryzoviste 654
-Hrachoviste 80
-
-Jindrichuv Hradec 22812
-Hrochuv Tynec 1899
-
-Chropyne 5172
-Luzec nad Cidlinou 484
-Cidlina 111
-
-Bridlicna 3698
-Mricna 473
-Kamenicna 344
-Habruvka 344
-Lipuvka 1135
-Sosuvka 737
+Frystak 3540
+Chomyz 353
+Lisna 226
+Domazelice 453
+Zizelice 1322
+Dobelice 273
+Troubelice 1802
+Troubky 1993
+Cisarov 294
+Kokory 1099
+Majetin 1087
+Holoubkov 1485
 Bobruvka 239
 Modlany 770
-Modlikov 158
-Malikov 107
-Milikov 1291
-Zhor 384
-Kosariska 384
-Kunratice 384
-Syrovatka 382
-Syrovin 382
-Valtrovice 382
-Tatrovice 146
-Mistrovice 577
-Misto 335
+Lisnice 770
+Lisny 248
+Ridelov 85
+Okrisky 2016
+Bransouze 273
+Horni Smrcne 57
+Horni Smrzov 141
+
+Smrzovka 3433
+Vyskytna 646
+
+Desna 3481
+
+Tanvald 6921
+Protivanov 1077
+
+Protivin 5021
+Postrelmuvek 356
+
+Postrelmov 3314
+
+Zabreh 14360
+Prehysov 583
+Lestina 1246
+Lestinka 141
+Korozluky 141
+Hubenov 141
+Paseky 141
+Smedcice 141
+Preborov 141
+Borovno 94
+Blanne 94
+Hostim 452
+
+Hostivice 4915
+Sivice 979
+
+Baska 3222
+
+Frydek-Mistek 59416
+Staric 1906
+Pec pod Snezkou 608
+
+Pribor 8789
+Sedlnice 1327
+Rozstani 675
+Jistebnik 1461
+Bravantice 798
+Bitov 400
+Citov 1028
+Bykev 351
+Jirice 723
+
+Melnik 19231
+Kly 919
+Obristvi 981
+
+Dobris 7926
+Daleke Dusniky 392
+Kraselov 229
+Mlekosrby 229
+Podlesin 288
+Novy Knin 1779
+Veverske Kninice 824
+Lobodice 688
+
+Chropyne 5172
+Rajec 484
+Vlkava 374
+
+Hulin 7571
+
+Kromeriz 29126
+Ostromer 1368
+Vsen 495
+Bosilec 205
+Sentice 495
+Malsin 118
+Kovac 118
+Nekvasovy 194
+Valdice 1474
+Krtov 143
+Semnevice 143
+Okrinek 143
+Sruby 541
+Srubec 1107
+Jilove u Drzkova 204
+Hatin 204
+Vatin 332
+Tatina 220
+Velopoli 220
+Pacetluky 220
+Tehovec 220
+Jezdkovice 220
+Darkovice 1210
+Turkovice 259
+Dobrkovice 282
+Vetrkovice 765
+
+Bojkovice 4742
+Vojkov 482
+Mnetes 482
+Lazinov 145
+Jivova 544
+Zablati 360
+Dvorce 1518
+
+Budisov nad Budisovkou 3159
+Melc 621
+
+Opava 60252
+Chlebicov 1068
+Nedachlebice 798
+Bezdekov pod Tremsinem 154
+
+Rozmital pod Tremsinem 4245
+Neprobylice 134
+Hvozdany 798
+Hvozdec 216
+Sazomin 216
+Upohlavy 216
+Mastnik 216
+Brezske 225
+Lipina 120
+Ponedraz 120
+Tribrichy 298
+Librice 264
+Horka u Stare Paky 264
+Semtes 264
+Sber 264
+Sazena 264
+Plane 264
+Vilanec 293
+Zlamanec 293
+
+Vyskov 22265
+Mricna 473
+Libomysl 473
+Zalany 461
+Seloutky 461
+Cerne Voderady 255
+Kucerov 461
+Komorany 672
+Domoraz 62
+Lovcovice 62
+Pohnanec 62
+Horska Kvilda 62
+Suchomasty 468
+Rabi 468
+Valy 418
+Mutkov 45
+Destna 696
+Probulov 52
+Plazy 338
+Petihosty 105
+Vojnikov 66
+Cizice 426
+
+Chlumcany 2383
+Nemcany 717
+Ovcary 740
+Holubice 834
+Podoli 1165
+Velke Pritocno 829
+Male Pritocno 227
+Visky 227
+Felbabka 227
+Smilovy Hory 441
+Rpety 441
+Pohori 610
+Zamrsky 192
+Kasalice 192
+Rozsec 192
+Krizinkov 192
+Podluhy 610
+Sulislav 192
+Kalek 170
+Myto 1384
+Olesenka 175
+
+Rokycany 13826
+Tuhan 540
+Svata Mari 540
+Dysina 1424
+Druztova 647
+Hromnice 1018
+
+Kaznejov 3053
+
+Plasy 2527
+Poustka 117
+Skapce 117
+Mily 124
+Litic 124
+Kocin 124
+Urbanov 124
+Vapno 124
+Okarec 124
+Stihlice 124
+Merboltice 124
+Lipoltice 361
+Heroltice 164
+Gruna 164
+Nevolice 164
+
+Holice 6219
+Holin 541
+Karolin 225
+Srnin 225
+Sarovy 225
+Psarov 151
+Hojkov 151
+Zdobnice 151
+Bobnice 747
+
+Nymburk 14373
+Morasice 730
+Libun 730
+Horatev 653
+Svinarov 653
+
+Sadska 3095
+Vycapy 799
+Vlasatice 799
+Bohatice 146
+
+Prachatice 11803
+Vyprachtice 948
+Roprachtice 261
+Ckyne 1466
+
+Volyne 3190
+Svijany 286
+Velka Chyska 286
+Chysky 1080
+Nadejkov 754
+Jistebnice 2007
+Borotin 520
+
+Tabor 36264
+
+Sezimovo Usti 7420
+Mokrosuky 137
+Radikov 137
+Zdikov 1616
+
+Vimperk 8043
+Vlckov 100
+Smolne Pece 100
+Ubusinek 100
+Husinec 1339
+Chlumany 292
+Vlachovo Brezi 1672
+Hybralec 390
+Dub 390
+Horsice 390
+Viden 390
+Srbice 390
+Rabakov 40
+Januvky 40
+Hracholusky 491
+
+Netolice 2721
+Stonava 1771
+Brloh 1039
+
+Kremze 2516
+Popice 954
+Holubov 954
+Chvalsiny 1159
+Homole 891
+Priluka 161
+Vyzice 161
+Sluzatky 161
+Rejstejn 256
+Nedabyle 256
+Libin 307
+Dubicne 307
+Kojcice 276
+Pasecnice 199
+Uncin 199
+Sulkovec 199
+
+Mosty u Jablunkova 3989
+Jivno 199
+Borek 1157
+Borec 285
+Skalsko 364
+Bezno 842
+Uhy 364
+
+Bela pod Bezdezem 4855
+Bezdez 275
+Babylon 275
+Ceska Kubice 596
+Ceska Rybna 379
+Ceska Cermna 455
+Chroboly 455
+Bohdasin 236
+Senozaty 699
+Rasosky 571
+Cernozice 1253
+Holohlavy 846
+
+Smirice 3122
+Vsejany 571
+
+Cernilov 2233
+
+Dolni Cernilov 2255
+Dolni Cerekev 1173
+Horni Cerekev 1866
+Horni Dubenky 639
+Panske Dubenky 140
+Popelin 444
+Krasensko 444
+Jamolice 444
+Obora 444
+Obory 239
+Strupcice 639
+
+Pocatky 2719
+Mrakotin 909
+Teresov 133
+Zastrizly 133
+
+Telc 5883
+Vresnik 99
+Snet 99
+Doupe 99
+Hodice 768
+
+Trest 5979
+Trestina 345
+
+Odolena Voda 4451
+Strezetice 294
+Bast 503
+Zdiby 1314
+Chvateruby 444
+Otvovice 701
+Uhrice 701
+Blevice 282
+Raby 560
+Zdirec 430
+Kolec 560
+Sokolec 788
+
+Podebrady 13128
+Odrepsy 280
+Pristpo 280
+Kolaje 86
+Lhotsko 240
+Rouske 240
+Berunice 876
+Merunice 289
+Vejvanovice 289
+Vejvanov 201
+Zercice 312
+Labuty 201
+Melnicke Vtelno 816
+Jizerni Vtelno 344
+Hlohovice 344
+Hlohovec 1315
+
+Zliv 3656
+
+Valtice 3656
+
+Lednice 2355
+Radnice 1749
+Brasy 2055
+Malic 146
+Malinky 146
+Malinova 74
+Tuzice 74
+Buzice 135
+Divec 135
+Srbec 284
+Mezihori 71
+Lisky 71
+Zahorcice 71
+Lukavec u Horic 251
+Vortova 251
+Podevousy 251
+Radomysl 1149
+Ususi 111
+Novy Teleckov 111
+Stepkov 111
+Volec 309
+Arnolec 181
+Cihalin 181
+Budceves 181
+Zelivsko 51
+Okor 51
+Cechy 326
+Cechy pod Kosirem 982
+Becvary 982
+Pluzna 198
+Bilence 206
+Libouchec 1772
+Vitice 976
+Kourim 1772
+Planany 1467
+Branany 1172
+Nacesice 515
+Prace 862
+
+Lovosice 9196
+Hnevosice 1028
+Hnevotin 1201
+
+Lutin 3194
+Drahanovice 1699
+Trhanov 559
+Lutopecny 559
+Zlobice 596
+Ruprechtov 559
+Bezmerov 561
+Nespeky 484
+Repiste 1581
+Benov 650
+Sobenov 297
+Sedletin 297
+Vrbcany 297
+Vyrava 301
+Otradov 301
+Zderaz 297
+Ulehle 113
+Uboc 113
+Hrutov 74
+Cejov 420
+Dobrna 420
+
+Humpolec 10914
+Bonkov 60
+Stoky 1540
+
+Polna 5006
+Cim 245
+Vendoli 878
+Kotlasy 136
+Krompach 136
+Jamy 534
+Vrbno nad Lesy 142
+
+Vrbno pod Pradedem 6072
+Makov 352
+Tymakov 648
+Zavisice 756
+
+Mnisek pod Brdy 4181
+Lety 867
+Keblice 329
+Vechnov 329
+Karlik 329
+Vsenory 1438
+Semin 533
+Hrdlorezy 533
+Utociste 273
+Pocedelice 273
+Nedeliste 347
+Nesvacilka 347
+Kosik 347
+Kosiky 406
+Krechor 406
+Jalubi 1708
+Modra 635
+Brestek 719
+Brest 954
+
+Kryry 2431
+Blsany 954
+Olsany 1108
+Prehorov 332
+Tutleky 332
+Lipnik 332
+Lobendava 332
+Zabrusany 1108
+Kuncina Ves 49
+Kuncina 1191
+Trebarov 977
+Rohy 130
+Treboc 130
+Trebom 213
+Trebotov 1062
+Meclov 1062
+Klinec 394
+
+Line 2311
+Zbuch 1890
+
+Chotesov 2688
 
 Stod 3532
 Lukovecek 421
-Bukovec 1364
-Nydek 1934
-
-Vendryne 3918
-Plandry 162
-
-Odry 7395
-
-Fulnek 6107
-Nekvasovy 194
-Kovac 118
-Strevac 281
-Ctyrkoly 309
-Suchodol 281
-Suchonice 162
-Suchovrsice 359
-Bezuchov 174
-Bor u Skutce 174
-Nahosovice 179
-Drevohostice 1569
-Hostim 452
-Ptice 452
-Dolni Dvoriste 1235
-Horni Dvoriste 506
-Tri Dvory 866
-Nove Dvory 831
-Dvory 524
-Mala Hrastice 725
-Malotice 258
-Milotice 1941
-Milotice nad Becvou 247
-Dalecin 703
-Potucky 371
-Chotutice 443
-Lhotice 151
-Malhotice 332
-Rozmberk nad Vltavou 332
-Tisovec 332
-Tutleky 332
-Cotkytle 435
-Horni Hermanice 493
-Dolni Hermanice 460
-Mlecice 326
-Tchorovice 223
-Komorovice 168
-Komorany 672
-
-Hovorany 2232
-
-Sardice 2205
-Nasedlovice 815
-Zarosice 968
-Drazuvky 260
-Brezuvky 642
-Brezolupy 1559
-Knezpole 1089
-Knezeves 970
-Bitozeves 363
-Nelahozeves 1313
-
-Rudolfov 2384
-Udolicko 10
-Uholicky 565
-Kanicky 34
-Kunicky 264
-Zeretice 264
-Sber 264
-
-Zamberk 6082
-
-Vamberk 4768
-
-Rychnov nad Kneznou 11695
-Rychnovek 589
-Novy Rychnov 947
-Novy Parezov 125
-Zadni Stritez 42
-Stritez nad Ludinou 853
-Stritez pod Kremesnikem 45
-Prosec pod Kremesnikem 85
-Pravy 87
-Ponedrazka 87
-Stedra 551
-Crhov 190
-Olsi 298
-Lsteni 296
-Rosteni 699
-Kosetice 699
-Tesetice 1212
-Hnevotin 1201
-Hnevosice 1028
-Sluzovice 805
-Bouzov 1490
-Kornatice 103
-Jerman 103
-Jermanice 346
-Zermanice 235
-Svobodne Hermanice 519
-Krasny Les 432
-
-Frydlant 7471
-Radslav 250
-Horni Radslavice 92
-Nezbavetice 168
-Sevetin 1294
-Mojne 190
-Stary Sachov 190
-Rapsach 543
-Psarov 151
-Frahelz 151
-Uhelna 532
-Chuchelna 1315
-Vcelna 1504
-Vcelnicka 195
-
-Nova Vcelnice 2449
-Hadravova Rosicka 61
-
-Kardasova Recice 2071
-Mecichov 241
-Onsov 241
-Cesov 187
-Tesovice 255
-
-Chotesov 2688
-Sudovo Hlavno 421
 
 Holysov 4659
-Lhota u Lysic 128
-Lhota u Olesnice 36
-Lidman 278
-Stozice 278
-Lozice 165
-Ktova 165
-Ktis 506
-Tismice 383
-Sisma 197
-Nosislav 1230
+Unin 207
+Posna 207
+Viska u Jevicka 155
+Kuklik 172
+Vidonin 172
+Moldava 172
+Cimice 151
+Rikonin 34
 
-Zidlochovice 3075
+Kdyne 4985
+Kout na Sumave 1140
 
-Hrusovany u Brna 2941
-
-Slavkov u Brna 5936
-Ovcary 740
-Smidary 1523
-Bosilec 205
-Trebosice 152
-Treboc 130
-Trebarov 977
-Tomice 130
-Hostomice 1491
-Patek 520
-Materov 340
-Katerinice 938
+Domazlice 10944
+Klenci pod Cerchovem 1270
+Dily 376
+Ocmanice 322
+Nemanice 322
 Ricmanice 656
-Przno 656
-Drzkova 327
-Jilove u Drzkova 204
-Priluka 161
-Sluzatky 161
-Benatky 316
-Cerekvice nad Loucnou 817
-Loucna nad Desnou 1949
-Ronov nad Doubravou 1645
-Libice nad Doubravou 854
-
-Nivnice 3278
-Jivno 199
-Sulkovec 199
-Kojcice 276
-Stojcin 121
-Zarubice 121
-Ceska Kubice 596
-Ceska Bela 947
-
-Bela pod Bezdezem 4855
-Bezdedovice 307
-Dedova 160
-Sviadnov 1352
-
-Hlinsko 10411
-Levinska Olesnice 365
-Roznov 365
-Pozorice 2016
-Dobrcice 191
-Dobren 144
-Karizek 39
-Zizelice 1322
-Zeliv 1152
-Zelivsko 51
-Kravsko 508
-Hluboke Masuvky 707
-Lesni Hluboke 181
-Milire 181
-Milinov 181
-Zbraslavec 181
-Zbrasin 316
-Vraclav 757
 Oucmanice 213
-Trebom 213
-Trebotov 1062
-Trebovle 394
-Meclov 1062
+Hartmanice 1189
+Tman 970
+Senomaty 914
+Knezeves 970
+Mezna 112
+Vysocany 112
+Destnice 182
+Moutnice 1139
+Blucina 2040
+Prisnotice 797
+Pouzdrany 751
+Priseka 331
+Kytin 331
+Verusicky 331
+Kytlice 442
+Bulhary 791
 
 Breclav 25789
-Stribrec 443
-Bratrejov 759
-Jasenna 934
-Revnicov 1403
 
-Unicov 12385
-Zajecov 1341
-Zajickov 205
-Jickovice 104
-Byckovice 283
-Ploskovice 370
-Zitenice 1407
+Lanzhot 3713
+Hrusky 1409
 
-Litomerice 24489
+Prusanky 2145
+Svetlik 260
+Drazuvky 260
+Archlebov 894
+Zeliv 1152
+Rousmerov 108
+Osecek 108
+Rakuvka 108
 
-Terezin 2992
-Cucice 413
-Loucim 126
-Stare Herminovy 228
-Stare Zdanice 614
-Vesely Zdar 485
-Mcely 372
-Oleksovice 689
-Kalek 170
-Zvikovec 170
-Pertoltice 170
-Dolni Pertoltice 250
-Pertoltice pod Ralskem 327
-Lounovice pod Blanikem 679
-Mastov 679
-Naceradec 1044
+Korycany 2900
+Ridky 68
+Trpik 68
+Zdounky 2055
+Jarohnevice 249
+Vysehnevice 225
+Kuparovice 249
 
-Vlasim 12225
-Vlastiborice 231
-Krsy 231
-Trsice 1559
-Dobrsin 110
-Rovecne 644
-Trebenice 1723
+Chabarovice 2329
+Turovice 222
+Kurovice 248
+Tvorovice 303
+Kraborovice 101
+Ceprovice 195
+Patek 520
 
-Lovosice 9196
-Podhradni Lhota 529
-Bila Lhota 1091
+Jince 2139
+Chynice 278
+Hlubos 536
+Ratbor 517
+Drahlin 517
+Svatoslav 445
+Obecnice 1174
+Osecnice 286
+Maslojedy 176
+Rozkos 176
+Cehnice 447
+Mouchnice 361
+Kojatky 361
+Veliny 361
+Cmeliny 125
+Vikantice 97
+Dolni Vilimec 97
+Podmyce 97
+Lube 97
+Hrisice 320
+Modrisice 358
+Stolany 358
+Lhota Rapotina 358
+Halamky 154
+Lazsko 154
+Hamr 358
+Zavidov 308
+Mojne 190
+Tycek 190
+Keblov 190
+Okresanec 190
+Frahelz 151
+Panenska Rozsicka 92
+Rodkov 92
+Rerichy 92
+Mesno 92
+Polste 92
 
-Lostice 3098
-Milostin 250
-Rostin 688
-Lobodice 688
-Zlobice 596
-Zdobin 93
-Horcapsko 93
-Slapsko 122
-Novy Dum 142
+Kardasova Recice 2071
 
-Cesky Dub 2698
+Jindrichuv Hradec 22812
+Svabov 80
+Horni Skrychov 80
+Klasterni Skalice 114
+Selmice 114
+Trubska 114
+Libel 114
+Liber 753
+Liberk 702
 
-Hodkovice nad Mohelkou 2659
-Nemotice 346
-Nemochovice 284
-Mochov 882
-Mochtin 949
-Vrhavec 811
-Tri Studne 88
-Luzce 88
-Zaluzi 478
+Velka nad Velickou 3149
 
-Celakovice 10125
-Vrabce 496
-Krabcice 888
-Vigantice 888
-Librantice 425
-Branky 874
-Chotanky 408
-Brzanky 91
+Stitna nad Vlari 2500
+Loucna nad Desnou 1949
+Preskace 106
+
+Novy Malin 2713
+Hrabisin 842
+Dlouhomilov 466
+Dlouhopolsko 226
+Blesno 315
+Nebahovy 425
+
+Trebechovice pod Orebem 5611
+Bolehost 545
+Repin 574
+Licno 574
+
+Rychnov nad Kneznou 11695
+Lichnov 1088
+Neprevazka 321
+Brumovice 1464
+
+Krnov 25547
+Postrizin 339
+Andelska Hora 362
+Stremy 352
+
+Bruntal 17686
+
+Bridlicna 3698
+
+Rymarov 9069
+Kunvald 1009
+Oskava 1471
+Touzetin 291
+Ujezd pod Troskami 291
+Rovensko pod Troskami 1267
+Zleby 1267
+Slavosov 165
+Ktova 165
+Vyzlovka 479
+
+Sobotka 2274
+Bernardov 165
+Bacalky 165
+Ctyrkoly 309
+Strevac 281
+Ustup 38
+Suchodol 281
+Cernvir 165
+Marenice 347
+Burenice 214
+Dobrenice 578
+Zichovec 79
+Plch 79
+Ceperka 949
+Dritec 458
+Velka Losenice 985
+Mala Losenice 279
+Hrazany 279
+Uhricice 602
+Usobrno 470
+
+Sedlcany 7836
+Techonin 636
+Hospriz 375
+Drobovice 375
+Soprec 268
+Jarov 232
+Pisarov 703
+Slopne 575
+Konopiste 876
+Prstice 876
+Mystice 271
+Vykleky 271
+Sabina 271
+Subirov 271
+Korouzne 271
+Nemyceves 271
+Libceves 862
+Skorkov 378
+Karle 378
+Kadov 378
+Sadov 1016
+Nectiny 620
+
+Lanskroun 9847
+Bychory 516
+Cotkytle 435
+Jamne 493
+Prevysov 342
+Kojatice 342
+Risuty 296
+Hury 449
+Hluchov 342
+
+Hlucin 14228
+Kozmice 1808
+
+Haj ve Slezsku 3322
+Hrabyne 1184
+Stitina 1173
+
+Kravare 6787
+
+Stepankovice 3096
+Hejtmankovice 651
+Struharov 651
+
+Broumov 8254
+Petipsy 211
+Krtenov 211
+Zdelov 211
+
+Mezimesti 2784
+Adrspach 527
+Choryne 687
+
+Rtyne v Podkrkonosi 3023
+Zahaji 368
+Zakava 368
+Mecov 14
+Litobor 89
+Libnatov 368
+
+Brno 369559
+Nebovidy 497
+Hajany 336
+Mikolajice 246
+Hlina 246
+Cidlina 111
+Cizkrajov 581
+Pec 391
+Valdikov 97
+Budec 238
+Lesunky 83
+Kakejcov 83
+Prazmo 1007
+Ptice 452
+Sumna 597
+Svaty Jiri 300
+Liban 1648
+Ujcov 499
+Jirny 1366
+Labske Chrcice 140
+Liblin 315
+Komarno 315
+Ocihov 315
+Bacice 192
+Vladislav 1225
+Dobrcice 191
+Cikhaj 116
+Cisteves 116
+Merin 1910
+Herink 77
+Losany 306
+Petikozly 77
+Korkyne 100
+Rajov 100
+Obytce 166
+Samsin 166
+Netunice 166
+Lisice 166
+Vrbatky 1562
+Kvilda 166
+Sibrina 504
+
+Olomouc 101268
+Cheznovice 729
+Samotisky 1137
+Grygov 1385
+Charvaty 769
+Blatec 579
+Smrzice 1575
+Bedihost 1002
+
+Liberec 97770
+Mnisek 1133
+Bily Potok 639
+Loucany 624
+Josefuv Dul 1024
+Plavy 1077
+Nemile 569
+
+Semily 9040
+Benesov u Semil 834
+Ponikla 1247
+Benecko 1142
+
+Vrchlabi 12898
+
+Rudnik 2161
+Janske Lazne 880
+
+Marianske Lazne 14277
+Drmoul 777
+Halze 904
+Uhercice 997
+Uherce 222
+Lipinka 222
+Stozec 222
 Honezovice 222
 Pobezovice 1707
 Mekynec 27
 Truskovice 181
 Hostoun 1299
-Milhostov 344
-Jizerni Vtelno 344
-Zahnasovice 344
-Velka Kras 892
+Bela nad Radbuzou 1812
 
-Adamov 4871
-Damnice 325
-Mourinov 457
-Rovna 619
-Borovna 86
+Pardubice 88741
+Srch 985
+Remicov 79
+Praskacka 920
+Stezery 1625
+Vsestary 1537
+Skvrnov 158
+Oleksovice 689
+Miletin 902
+Cep 189
+Svincany 369
+Vlckova 369
+Vitin 264
+Svabenice 936
+Pabenice 174
+Libenice 257
+Bozejov 669
+Kaclehy 63
+Vlcetinec 63
 
-Zirovnice 3085
-Bednarecek 199
-Bednarec 98
+Pelhrimov 16541
+Trebcice 63
+Horepnik 627
+Krumsin 627
+Vsepadly 69
+Schorov 69
+Zvotoky 69
+Trhove Dusniky 399
+Krivsoudov 399
+Ulice 399
+Hulice 303
+Pasinka 303
+Kohoutov 230
+Vrsce 230
+Turice 230
+Skasov 230
+Rakousy 74
+Puclice 334
+Oplocany 334
+Kaliste 334
 
-Celadna 2152
+Kladno 70003
+Pchery 1743
+Brandysek 1679
+Strycice 47
 
-Borohradek 2152
-Cerveny Hradek 212
-Dolni Vilimec 97
-Dolni Zimor 67
-Vrskman 214
-Vizina 214
-Vsetaty 2019
-Vsechovice 873
-Ctverin 387
-Tover 511
-Cizova 907
-Cizov 167
-Deblin 967
+Unhost 3480
+Druzec 856
+Nekor 856
+Zator 1169
+Hosty 160
+Hostka 1473
+Cermakovice 91
+Vigantice 888
+Brzanky 91
+Polerady 222
 
-Podebrady 13128
-Zebrak 1909
-Sebranice 870
-Mladosovice 263
-Komarice 263
-Valsov 263
-Kamenny Ujezd 2002
-Hrivinuv Ujezd 567
-Kratonohy 567
+Ustek 2664
+Blizevedly 638
+Sosnova 718
+Provodin 684
+
+Doksy 5025
+
+Mimon 6692
+Bukvice 146
+Horni Libchava 401
+Ceske Libchavy 499
+Spicky 290
+
+Letohrad 6195
+Sytno 290
+
+Zamberk 6082
+
+Vamberk 4768
+Doudleby nad Orlici 1926
+Chotilsko 370
+Stinava 147
+Rohatsko 147
+Nevezice 147
+Kosorin 127
+Zamrsk 732
+Vraclav 757
+Kvetinov 213
+Sevetin 1294
+Mazelov 209
+Podveky 209
+Perimov 209
+Prisecna 209
+Mokosin 171
+Mlekojedy 171
+Chysna 104
+Okrouhla Radoun 171
+Skrchov 94
+Patokryje 373
+Lom 137
+Malsice 1702
+Chrtniky 83
+Oparany 1365
+Sepekov 1343
+
+Milevsko 9343
+Petroupim 289
+Jetetice 289
+Sosuvka 737
+Skocice 189
+
+Pisek 29774
+Tisek 902
+Lisek 371
+Velteze 371
+Potucky 371
+Vysker 371
+Dalecin 703
+Struzinec 704
+Usobi 704
+Rozsochy 704
+Rozna 738
+Crhov 190
+Casy 190
+Bysovec 132
+Olsi 298
+Stedra 551
+Siluvky 704
+Slapsko 122
+Horcapsko 93
+Zdobin 93
+Ryjice 187
+Trebivlice 775
+Trebiz 177
+Mysteves 177
+Safov 177
+Lejsovka 177
+Kaly 240
+Knezicky 177
+Stipoklasy 132
+Kojice 411
+Krtomil 411
+Zabori 785
+Tucapy 831
+Grunta 90
+Vanov 90
+Zdanov 119
+Ovesne Kladruby 119
+Hladov 119
+Knezice 1455
+Pozorice 2016
+Kosorice 382
+
+Jablunkov 5782
+
+Navsi u Jablunkova 3809
+Nydek 1934
+
+Vendryne 3918
+
+Trinec 38415
+Krinec 1351
+Dymokury 779
+Kobyly 299
+Jikev 299
+Ujezd u Chocne 287
+Polom 287
+Jizbice 287
+Dvory 524
+Ripec 287
+Jabkenice 353
+Vezky 353
+Lestkov 353
+Dolni Stakory 193
+Vonoklasy 409
+Bila 812
+Kacanovy 174
+
+Sumperk 28768
+Cizkov 606
+Brnicko 606
+Loucen 1082
+Dubicko 1082
+Klopina 594
+
+Cesky Tesin 25750
+Ropice 1390
+Zampach 292
+Spesov 565
+Ledcice 565
+Smrcna 292
+Lucina 1181
+Vaclavovice 1544
+
+Vratimov 6378
+
+Ludgerovice 4635
+Vermerovice 722
+Mysliv 450
+Brezuvky 642
+Sumice 1764
+Vinicne Sumice 1065
+Suchdol 1065
+Vraz 881
+Chlistovice 693
 Zbinohy 50
 Vapovice 50
 Proruby 50
-Vinicne Sumice 1065
-Sumice 1764
-Sumna 597
+Otrocineves 451
 
-Sumperk 28768
+Blansko 20384
+Olomucany 892
+Lazanky 736
 
-Vikyrovice 2064
+Jedovnice 2578
+Sobesuky 344
+Habruvka 344
+Lipi 555
+Litohor 488
+Krtiny 753
+Habrovany 753
+Nemojany 556
+Zdarky 556
+Podomi 416
+Nehvizdy 1045
+Lipovec 1045
+Louka 1045
+Podmoli 156
+Sloup 915
+Ohrozim 433
+Lysice 1831
+Malonty 1135
+Lipuvka 1135
 
-Novy Malin 2713
-Velky Malahov 262
-Velky Luh 131
-Kadlin 131
-Radlo 581
-Studlov 516
+Kurim 9283
+Otvice 558
+Lelekovice 1476
+Rymice 558
 
-Lom u Mostu 3736
+Adamov 4871
+Umonin 433
+Chotutice 443
 
-Most 67905
-Horni Mostenice 1581
-Nespeky 484
-Kotopeky 270
-Semechnice 359
-Mouchnice 361
-Libouchec 1772
-Chroustov 206
-Barchovice 206
-Horni Kruty 514
-Zasmuky 1763
-Cechy pod Kosirem 982
-Kamenec u Policky 514
+Velke Opatovice 4169
 
-Kostelec nad Cernymi Lesy 3264
-Krovi 526
-Ondrejov 1086
-Chocerady 986
-Cerne Voderady 255
-
-Odolena Voda 4451
-Zelena Hora 233
-
-Kutna Hora 21280
-Svaty Mikulas 731
-Sulimov 173
-Sulislav 192
-Felbabka 227
-Hruba Vrbka 698
-Hruba Skala 528
-Straky 528
-Strakov 224
-Zloncice 180
-Plese 180
-Novy Ples 291
-
-Novy Bor 12171
-Novy Oldrichov 660
-Chribska 1453
-Chric 202
-Mokry Lom 78
-
-Kryry 2431
+Jevicko 2886
+Dohalice 443
+Mezileci 141
+Banin 312
+Ceska Metuje 312
 Prikry 247
-Pricovy 254
-Ritka 691
+Vlacice 247
+Rataje 1031
+Siroky Dul 363
+Strilky 682
+Skripov 999
+Lubna 999
+Osik 1051
+Benatky 316
 
-Sobotka 2274
-Chobot 64
-Chotimer 261
-Chbany 613
-Menany 273
+Litomysl 10146
+Cerekvice nad Loucnou 817
+Utery 408
 
-Kraluv Dvur 5805
-Dolni Dvur 243
+Luze 2591
+Repniky 408
 
-Vrchlabi 12898
-Ponikla 1247
-Harrachov 1700
-Spindleruv Mlyn 1302
+Skutec 5415
+Vojtechov 419
+Zlechov 1567
 
-Zacler 3613
-Kaclehy 63
-Velehrad 1323
-Sehradice 755
-Sabina 271
-Subirov 271
-Brnirov 345
-Bozanov 345
-Petipsy 211
-Odrepsy 280
-Pristpo 280
-Kolaje 86
-Rouske 240
-Tousice 279
-Nadejkov 754
-Pruhonice 2007
-Koneprusy 218
-Rakousy 74
-Makotrasy 318
-Tymakov 648
-Rabakov 40
-Bavorov 1401
+Borsice 2239
 
-Vnorovy 3062
+Rudna 3360
 
-Moravsky Pisek 2201
-
-Moravska Trebova 11414
-Nizkovice 670
-Blizkovice 1235
-Zizkovo Pole 341
-Dobre Pole 401
-Byzhradec 194
-
-Hradec Kralove 95195
-
-Mestec Kralove 2913
-
-Kralovice 3526
-Dolni Kralovice 920
-Hnevkovice 566
-Zvotoky 69
-Vsepadly 69
-Vsejany 571
-Hajany 336
-Jankov 903
-Chotysany 463
-Losany 306
-Laziste 306
-Vykan 306
-Zlebske Chvalovice 77
-Trebsko 202
-Serkovice 202
-Vapenny Podol 202
-Prostibor 138
-Oprostovice 114
-
-Postoloprty 4924
-
-Vejprty 3273
-Stupava 150
-Stinava 147
-Rohatsko 147
-Chotilsko 370
-Bilsko 210
-Zbilidy 162
-Dzbel 295
-Hora Svateho Vaclava 59
-Bojiste 231
-Tyniste 51
-Vendoli 878
-
-Polna 5006
-Dobronin 1913
-Kalhov 121
-Kaly 240
-Dymokury 779
-Hury 449
-Jevany 449
-Risuty 296
-Labuty 201
-
-Dolni Lutyne 4712
-
-Vratimov 6378
-Krmelin 1853
-
-Studenka 10341
-
-Studena 2464
-Studeny 89
-
-Rtyne v Podkrkonosi 3023
-
-Jablonne v Podjestedi 3699
-
-Zakupy 2792
-Kuks 241
+Uhersky Ostroh 4526
 
 Hluk 4424
 Blatnicka 449
-Volduchy 995
-Hradcovice 995
-Hovorcovice 1198
-Konecchlumi 311
+Korytna 963
+Pitin 928
+Liptan 443
+Liptal 1403
+Olesnik 726
 
-Chlum u Trebone 2183
-Ochoz u Tisnova 108
-Oslnovice 108
-Celoznice 390
+Hovezi 2351
+Ruzdka 877
+Jablunka 2004
+Przno 656
+Kozli 741
+Vidce 1614
 
-Vacenovice 2157
-Milenov 378
-Kadov 378
+Zubri 5409
 
-Kadan 18759
-Hvozdany 798
-Nedachlebice 798
-Zelnava 134
-Skomelno 134
-Kelniky 176
-Slezske Pavlovice 176
+Roznov pod Radhostem 17238
 
-Ceske Velenice 3479
-Ceske Lhotice 103
-Ovesna Lhota 206
-Dehtare 97
+Frenstat pod Radhostem 11334
+Ticha 1585
+Hukvaldy 1924
 
-Znojmo 35280
-Podkopna Lhota 328
-Luzenicky 300
-Ujcov 499
-Hevlin 1366
-Karolin 225
+Stramberk 3380
+Rybi 1047
 
-Karolinka 2916
+Morkov 2414
 
-Velke Karlovice 2651
-Velke Janovice 121
-Vrchotovy Janovice 884
-Svojanov 370
-Stozec 222
+Zastavka 2405
+
+Vlcnov 3039
+Vroutek 1898
+Belotin 1630
+Kostomlatky 238
+Ruda 661
+Podmokly 270
+Biskoupky 174
+Lobec 138
+Ohrobec 703
+Cestlice 436
+Krovi 526
+Prlov 526
+
+Kostelec nad Cernymi Lesy 3264
+Tismice 383
+Klucov 820
+Mezoun 422
+Vrabce 496
+Zapy 634
+Majdalena 496
+
+Svitavy 17427
+Svitavka 1700
+Spindleruv Mlyn 1302
+Milicin 880
+
+Svoboda nad Upou 2216
+
+Zacler 3613
 
 Varnsdorf 15895
-Horni Libochova 216
+Ludmirov 587
+Vsechlapy 587
+Kolsov 739
+Chribska 1453
 
-Velka Bites 4843
-Osova Bityska 784
-Dohalice 443
-Bohanka 201
-Bohate Malkovice 255
+Rumburk 11101
 
-Krupka 13687
-Strupcice 639
-Strycice 47
-Vavrinec 838
-Brandysek 1679
-Novosedly nad Nezarkou 640
-Nova Ves nad Popelkou 667
+Sluknov 5701
+Volfartice 599
+Nebuzely 401
+Lubomer 401
 
-Lomnice nad Popelkou 5957
-Rovensko pod Troskami 1267
-Mladejov 479
-Mladecko 173
-Konarovice 664
-Skrinarov 149
-Cetoraz 270
-Zator 1169
-Svebohov 440
-Hrejkovice 440
-Hosty 160
-Petihosty 105
-Bedihost 1002
-Svihov 1582
-Dolce 281
-Neumerice 357
-Neumetely 520
-Metylovice 1534
-Hukvaldy 1924
-Bordovice 559
-Sousedovice 210
-Zumberk 210
-Kejzlice 317
-Hartvikovice 553
-Dukovany 781
-Brvany 330
+Hlinsko 10411
+Dedova 160
+Sviadnov 1352
+Krouna 1352
 
-Peruc 2109
+Nyrany 6942
 
-Vimperk 8043
-Lampertice 454
-Tvorihraz 373
-Nova Ves u Svetle 454
-Svesedlice 172
-Moldava 172
-Lobendava 332
-Vidochov 342
-Kurimske Jestrabi 130
-Lavicne 130
+Tlucna 2482
+
+Dobrany 5779
+Synalov 101
+Vlctejn 101
+Vsesulov 101
+Obcov 101
+Trbousany 354
+Krnany 341
+Cebiv 272
+Zerutky 269
+Uhrinov 269
+Horni Kozolupy 269
+Kokasice 269
+Vrutice 269
+Strazek 927
+Bezverov 659
+
+Touzim 3732
+Svetnov 414
+Bucina 203
+
+Zlutice 2817
+Psov 626
+Chyse 573
+Lubenec 1541
+Masojedy 65
+
+Fulnek 6107
+Retova 671
+Spalov 929
+Stitary 671
+Bukovka 400
+Dehylov 640
+
+Hat 2539
+Oldrisov 1358
+Oldris 683
+Rohozna 683
 Zahradka 130
+Vyskovec 164
+Koclirov 670
 
-Lazne Belohrad 3744
-Snezne 752
-Horni Knezeklady 111
-Novy Teleckov 111
+Nove Straseci 5082
 Nova Telib 160
-Nova Pec 618
-
-Pecky 4317
-
-Sadska 3095
-Skapce 117
-Pojbuky 117
-Vapno 124
-Merboltice 124
-Bolebor 197
-Bolehost 545
-Bacetin 364
-Zarovna 110
-
-As 12866
-Hazlov 1583
-Lodherov 600
-Lodenice 1564
-Svata 347
-Krivoklat 676
-Privrat 320
-Teresov 133
-Zastrizly 133
-Rudlice 107
-Cestlice 436
-Destnice 182
-Celistna 103
-Choustnikovo Hradiste 605
-
-Nejdek 8565
-Majdalena 496
-Hlavenec 311
-Vedrovice 816
-Vedomice 693
-Bystrec 1084
-Zimutice 577
-Ohrozim 433
-Obyctov 403
-Umonin 433
-Malonty 1135
-Zalonov 415
-Rozvadov 692
-Bela nad Radbuzou 1812
-Huzova 638
-Lazinov 145
-Blazice 204
-Bublava 334
-Krajkova 864
+Bdin 62
+Kokorin 378
 
 Kraliky 4723
-Janousov 49
+Lichkov 573
+Vedomice 693
+Zimutice 577
+Trebusice 447
+Sobulky 882
+Javornice 882
 
-Hanusovice 3556
-Tusovice 100
-Netunice 166
-Tunechody 581
+Javornik 2967
+Bozanov 345
 
-Horni Terlicko 4134
+Sezemice 3097
+Brezsko 224
+Zichlinek 802
+Hrochuv Tynec 1899
+Kunin 1811
 
-Spalene Porici 2529
-Nestrasovice 66
+Celadna 2152
+Pridoli 574
 
-Kremze 2516
-Hlupin 91
-Klopina 594
-Konopiste 876
-Jablunka 2004
-Rozdrojovice 656
-Trojovice 186
-Kokasice 269
-Drmoul 777
-Becov nad Teplou 976
-Neplachovice 876
-Zeletava 1573
-Domamil 283
-Habry 1305
-Vlci Habrina 309
-Sibrina 504
-Doloplazy 1235
-Sychrov 202
-Chraberce 138
-Zaben 598
-Strunkovice nad Blanici 1230
-Pouzdrany 751
-Brloh 1039
-Blsany 954
-Pitin 928
-Dolni Hbity 816
-Mlekosrby 229
-Kostelecke Horky 147
-Dnesice 748
-Es 55
-Stranecka Zhor 582
-Rozhovice 245
-Okna 282
-Sobetuchy 578
-Ratbor 517
-Smetanova Lhota 263
-Honbice 197
-Nosalov 157
+Terezin 2992
+Brnany 413
+Menany 273
+Chynava 1550
+
+Zbiroh 2625
 Otmice 146
-Cikhaj 116
+Volfirov 655
+
+Batelov 2388
+Druhanov 131
+Roubanina 131
+Kejnice 131
+Kadlin 131
+Nosalov 157
+
+Povrly 2219
+Metylovice 1534
+Mosnov 675
+Smidary 1523
+Hvozdnice 323
+Oborna 323
+Humburky 323
+Zenklava 860
+Nepolisy 860
+Vrbicany 314
+Nekmir 410
+Nova Dedina 410
+Boharyne 526
+Jakubovice 184
+Stremosice 184
+Klamos 410
+Hevlin 1366
+Veltruby 1301
+Spojil 280
+Knezdub 1084
+Naceradec 1044
+Chocerady 986
+Nebilovy 319
+Mrtnik 319
+Solan 1000
+Chotevice 1000
+Sulice 973
+Vrskman 214
+Zasada 816
+Neurazy 816
+Kobylnice 829
+Cimer 694
+Vsevily 114
+Starkov 673
+Drozdov 655
+Drhovle 511
+Tover 511
+Morkuvky 465
+Pysel 465
+Podulsi 249
+Vinec 249
+Svojsin 446
+Lidice 451
+Cucice 413
+Vstis 401
+Suchy 375
+Nova Sidla 232
+Dubno 232
+Prasklice 242
+Haje 242
+Zalezlice 350
+Materov 340
+Dubany 191
+Zvikovske Podhradi 191
+Skryje 191
+Sobehrdy 310
+Dusniky 310
+Lodin 303
+Ludikov 289
+Levin 104
+Mydlovary 277
+Cizkrajice 261
+Psovlky 246
+Kostomlaty 235
+Turovec 235
+Kamyk 135
+Rokle 234
+Nyrov 209
+Baliny 116
 Mlynske Struhadlo 51
-Stepkov 111
-Kotvina 106
-Bonkov 60
+Zabrdi 57
+Chobot 64
+Krystofovy Hamry 60
+Uhorilka 47

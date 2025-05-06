@@ -1,67 +1,60 @@
 
 
 Boise 235684
-Weiser 5630
-Payette 8127
-Emmett 7647
-
-Eagle 30346
-Glenns Ferry 1282
-Ferdinand 133
-Menan 715
-Kootenai 941
-Fort Hall 3195
-Challis 902
-Hollister 243
-Bloomington 199
-Bennington 236
-Minidoka 86
-Kamiah 1117
-Deary 508
-Eden 393
-Laclede 434
-Blanchard 379
-St. Charles 161
-Letha 161
-Hamer 83
-Plummer 1015
-Drummond 13
-
-Ammon 17694
-McCammon 825
-Craigmont 458
-Montpelier 2643
-Arco 879
-Pierce 467
-Nezperce 458
-Rupert 6082
-Roberts 500
-Hauser 761
-Hagerman 968
-Paris 541
-Parma 2096
-Warm River 4
-East Hope 229
-Hope 98
-Leadore 98
-New Meadows 517
-Downey 571
-Grand View 440
-Grangeville 3308
-Smelterville 670
-Robie Creek 1193
-Aberdeen 1756
 
 Garden City 12316
 Garden Valley 377
 Sun Valley 1783
-Midvale 193
+Swan Valley 225
+Moore 162
+Eden 393
+Blanchard 379
+St. Charles 161
+Letha 161
+Cambridge 335
+Rockford Bay 325
+Idaho City 466
 
-Middleton 9425
-Teton 787
-Clayton 10
-Weston 511
-Clifton 413
+Idaho Falls 64818
+
+Ammon 17694
+McCammon 825
+Ashton 949
+Hammett 332
+Emmett 7647
+
+Eagle 30346
+
+Star 11117
+
+Meridian 117635
+American Falls 4568
+Dayton 510
+Declo 338
+Gannett 174
+Deary 508
+Kamiah 1117
+Dover 752
+Potlatch 763
+Peck 166
+Avimor 1255
+Parker 302
+Parkline 60
+Bennington 236
+Bloomington 199
+Hamer 83
+White Bird 83
+Plummer 1015
+Weippe 400
+Silverton 594
+Wardner 192
+Council 867
+Athol 709
+New Plymouth 1494
+New Meadows 517
+Leadore 98
+Arimo 354
+State Line 39
 Newdale 337
 Homedale 2881
 
@@ -73,191 +66,198 @@ Kuna 24011
 Nampa 100200
 
 Caldwell 59996
-McCall 3686
-St. Maries 2357
-Troy 890
-Dietrich 284
-Oakley 786
-
-Burley 11704
-Worley 253
-Lewisville 421
-
-Lewiston 34203
-
-Moscow 25435
-Ucon 1160
-Conkling Park 73
-Island Park 193
-Parker 302
-Parkline 60
-Franklin 1025
-Inkom 792
-New Plymouth 1494
-Athol 709
-Council 867
+Mud Lake 321
+Soda Springs 3133
+Onaway 196
 Wilder 1597
 Lowman 44
-Soda Springs 3133
-Moyie Springs 822
-De Smet 145
-Crouch 154
-Bancroft 299
-Banks 22
-Tyhee 1130
-Winchester 356
 Riggins 372
-Driggs 1984
-Rigby 5038
-Grace 920
-Wallace 791
+Winchester 356
+Hollister 243
+Challis 902
+Stites 171
+Lapwai 1169
+Midvale 193
+Island Park 193
+Conkling Park 73
+Glenns Ferry 1282
+Smiths Ferry 63
+Minidoka 86
+Lava Hot Springs 358
+Basalt 357
+Ponderay 1289
+Paul 1195
+Fort Hall 3195
+Kootenai 941
+Pierce 467
+Nezperce 458
+Craigmont 458
+Montpelier 2643
+Arco 879
+Dubois 511
+Weston 511
+Fernwood 337
+Fernan Lake Village 164
+Placerville 48
+Smelterville 670
+Grangeville 3308
+Grand View 440
+Downey 571
+Kendrick 288
+Aberdeen 1756
+Robie Creek 1193
+
+Middleton 9425
+Teton 787
+Tetonia 308
+Princeton 193
+Ferdinand 133
+Hazelton 803
+Dalton Gardens 2537
+Kimberly 4626
 
 Blackfoot 12346
 Rockford 291
 Castleford 215
 Oxford 42
 Harrison 233
-Ririe 667
 Lost River 42
 Priest River 1696
 Sandpoint 8639
+
+Hayden 15570
+
+Chubbuck 15570
+
+Rathdrum 9211
+Drummond 13
+Arbon Valley 666
+Tensed 84
+Stanley 116
+Cottonwood 822
+Moyie Springs 822
+De Smet 145
+Crouch 154
+Warm River 4
+East Hope 229
+Hope 98
+Huetter 104
+Preston 5591
+Malad City 2299
+Elk City 170
+Ketchum 3555
+Coolin 138
+Irwin 259
+Oldtown 221
+Georgetown 503
+Bonners Ferry 2520
+Donnelly 249
+Viola 135
+Victor 2157
+Clark Fork 513
+Bruneau 121
+Rockland 242
 Moreland 1264
 Greenleaf 812
 Mackay 439
-Rockford Bay 325
-Clark Fork 513
-Victor 2157
-Avimor 1255
-Arimo 354
-State Line 39
+Menan 715
+Horseshoe Bend 715
+Bancroft 299
+Worley 253
 
-Pocatello 56320
-Shelley 4785
-Bellevue 2560
-Pinehurst 1679
-Yellow Pine 32
-Kellogg 2314
+Burley 11704
 
-Coeur d'Alene 54628
-
-Chubbuck 15570
-Ketchum 3555
-Elk City 170
-Elk River 139
-Riverside 930
-Marsing 1229
-Placerville 48
-Fernan Lake Village 164
-Fernwood 337
-Cottonwood 822
-Gooding 3707
+Twin Falls 51807
+Filer 2738
+Buhl 4558
 Wendell 2917
 
 Jerome 12349
+Gooding 3707
 
-Twin Falls 51807
-American Falls 4568
-Dayton 510
-Hailey 9161
-Filer 2738
-Buhl 4558
+Pocatello 56320
+Kellogg 2314
+Yellow Pine 32
+Pinehurst 1679
+Genesee 1030
+Heyburn 3700
 Osburn 1567
+Firth 517
+St. Anthony 3606
 
 Rexburg 39409
-St. Anthony 3606
 Iona 2717
-Albion 234
-Bliss 258
-Carey 685
-Moore 162
-Bruneau 121
-Paul 1195
-Mullan 646
-Rockland 242
-Peck 166
-Declo 338
-Gannett 174
-Juliaetta 624
-Swan Valley 225
-Arbon Valley 666
-Tensed 84
-Hansen 1086
-Reubens 46
-Dalton Gardens 2537
-Kimberly 4626
-Kooskia 514
-Malta 167
-Malad City 2299
-Preston 5591
-Huetter 104
-Hammett 332
+Shelley 4785
+Bellevue 2560
 Sugar City 1715
-Butte City 78
-Atomic City 41
-Acequia 131
-Spencer 31
-Princeton 193
-Tetonia 308
-Cambridge 335
-
-Meridian 117635
-
-Star 11117
-Stanley 116
-Richfield 431
-Firth 517
-Fairfield 441
-Sweetwater 155
-Bovill 191
-Dover 752
-Groveland 982
-Hidden Spring 3076
-Lava Hot Springs 358
-Donnelly 249
-Bonners Ferry 2520
-Georgetown 503
-Oldtown 221
-Irwin 259
-Weippe 400
-Silverton 594
-Wardner 192
-Onaway 196
-Mud Lake 321
-Hayden Lake 649
-Cascade 1005
-Ashton 949
-Hazelton 803
-Coolin 138
+Riverside 930
+Elk River 139
 Lincoln 4556
-Kendrick 288
-Horseshoe Bend 715
-Shoshone 1653
-Idaho City 466
+Wallace 791
+Rupert 6082
+Franklin 1025
+Hauser 761
+Roberts 500
+Inkom 792
+Hagerman 968
+Paris 541
+Clifton 413
+Marsing 1229
+Culdesac 413
 
-Idaho Falls 64818
+Coeur d'Alene 54628
 
 Post Falls 38485
 
-Rathdrum 9211
+Moscow 25435
 
-Hayden 15570
-Ponderay 1289
-Smiths Ferry 63
-White Bird 83
-Stites 171
-Lapwai 1169
-Viola 135
-Basalt 357
+Lewiston 34203
+Lewisville 421
+Bovill 191
+Mullan 646
+Juliaetta 624
+Hailey 9161
+Cascade 1005
+Hayden Lake 649
+Spirit Lake 2337
+Murphy 96
+Fairfield 441
+Richfield 431
+Dietrich 284
+Oakley 786
+Malta 167
+Kooskia 514
+Payette 8127
+Weiser 5630
+Fruitland 6072
+Driggs 1984
+Rigby 5038
+Grace 920
+Ucon 1160
+McCall 3686
+St. Maries 2357
+Troy 890
+Shoshone 1653
+Groveland 982
+Hidden Spring 3076
+Melba 572
 Salmon 3119
 Orofino 2656
-Notus 609
-Potlatch 763
-Fruitland 6072
-Heyburn 3700
-Murphy 96
-Spirit Lake 2337
-Genesee 1030
-Culdesac 413
-Dubois 511
-Melba 572
+Parma 2096
+Banks 22
+Tyhee 1130
+Atomic City 41
+Butte City 78
+Acequia 131
+Spencer 31
 Murtaugh 114
+Hansen 1086
+Albion 234
+Bliss 258
+Carey 685
+Sweetwater 155
+Ririe 667
+Notus 609
+Reubens 46
+Clayton 10
+Laclede 434

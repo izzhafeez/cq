@@ -1,15 +1,10 @@
 
 
 Belgorod 356402
-Korocha 5877
-Prokhorovka 9761
-Tomarovka 8094
-Borisovka 13896
-Proletarskiy 8654
+Ivnya 7933
 Krasnaya Yaruga 8028
-Grayvoron 6234
-Urazovo 6982
-Volokonovka 11552
+Novaya Tavolzhanka 5324
+Chernyanka 15217
 Novyy Oskol 19530
 
 Staryy Oskol 221085
@@ -18,11 +13,16 @@ Gubkin 88560
 Troitskiy 6214
 Stroitel' 23933
 Severnyy 9847
-Chernyanka 15217
-Ivnya 7933
-Novaya Tavolzhanka 5324
-Maslova Pristan' 5819
-Shebekino 44279
-Mayskiy 8748
-Valuyki 35322
+Grayvoron 6234
+Borisovka 13896
+Tomarovka 8094
+Prokhorovka 9761
+Korocha 5877
 Veydelevka 7008
+Urazovo 6982
+Valuyki 35322
+Volokonovka 11552
+Shebekino 44279
+Maslova Pristan' 5819
+Mayskiy 8748
+Proletarskiy 8654

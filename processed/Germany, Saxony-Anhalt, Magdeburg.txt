@@ -3,309 +3,413 @@
 Halle (Saale) 234107
 
 Halle Neustadt 44515
-Angersdorf 1237
-Eggersdorf 1224
-Biere 2442
-Bierstedt 169
-Wiederstedt 1159
-Dederstedt 454
-Neehausen 291
-Beesenstedt 1287
-Zabenstedt 251
-Nienstedt 411
-Fienstedt 255
-Menz 586
-Mechau 265
-Baalberge 1479
-Berga 1920
-Stolberg 1401
-Breitenstein 516
-Benneckenstein 2256
-Neinstedt 2017
 
-Huy-Neinstedt 8797
-Danstedt 551
-Aspenstedt 553
-Esperstedt 748
-Alberstedt 518
-Erdeborn 1117
-Luttchendorf 658
-Unterrissdorf 454
-Hergisdorf 1777
-Ahlsdorf 1912
-Wohlsdorf 519
-Rottelsdorf 346
-Schmatzfeld 346
-Schmalzerode 292
-Zernitz 292
-Dornitz 269
-Schweinitz 315
-Steinitz 481
-
-Salzwedel 21058
-Altensalzwedel 394
-Gischau 79
-Beelitz 79
-Beetzendorf 1942
-Jeeben 276
-Jeggeleben 418
-Dannefeld 418
-
-Oebisfelde 7341
-Bosdorf 454
-Bossdorf 627
-Mochau 572
-Teuchel 1009
-
-Teuchern 3197
-Schelkau 282
-Gorschen 528
-Osterfeld 1365
-Winterfeld 638
-Volgfelde 207
-Klein Gartz 164
-Kleinau 664
-Kleinleinungen 140
-Grossleinungen 475
-Kerkau 210
-Harkerode 336
-Taucha 681
-Kretzschau 1335
-Pretzsch 1688
-Eutzsch 706
-Steutz 993
-Sandauerholz 163
-Holzdorf 1324
-Schwarzholz 270
-Holzhausen 121
-Uthausen 219
-Losse 121
-Lossa 856
-Billroda 501
-Altenroda 557
-Albersroda 483
-Baumersroda 369
-Branderoda 201
-Brandhorst 108
-Worlitz 1681
-Morl 913
-Sennewitz 1684
-Brachwitz 991
-Schochwitz 1295
-Kloschwitz 506
-Kloster Neuendorf 527
-Nauendorf 1832
-Naundorf 185
-Strenznaundorf 379
-Nemsdorf-Gohrendorf 971
-Tylsen 134
-Mannhausen 298
-Kreypau 338
-Kremkau 220
-Kaulitz 208
-Aulosen 236
-
-Bad Kosen 5522
-Bad Bibra 2192
-
-Nebra 2690
-Brasen 170
-Braschwitz 1251
-Hohenthurm 2285
-Hohentramm 299
-Hohenwulsch 422
-Hohenwarthe 1475
-Dahlenwarsleben 1424
-Hohenwarsleben 1550
-Hohendodeleben 1834
-
-Niederndodeleben 4307
-Ebendorf 2096
-Ackendorf 442
-Drackenstedt 458
-Hakenstedt 578
-Bregenstedt 586
-Wegenstedt 399
-Ihlewitz 341
-Schortewitz 741
-Schkortleben 647
-Schkona 801
-
-Schkopau 3060
-Buschkuhnsdorf 63
-Behnsdorf 686
-Gollensdorf 305
-Mollensdorf 194
-Apollensdorf 1386
-Griebo 645
-Riesigk 206
-Priesitz 274
-Liesten 341
-Mieste 2335
-Estedt 411
-Quenstedt 883
-Querstedt 253
-Wernstedt 225
-Dornstedt 785
-Bennstedt 1514
-Hohnstedt 1645
-Arnstedt 597
-Freckleben 766
-Belleben 1004
-
-Alsleben 2786
-Giersleben 1187
-
-Aschersleben 24892
-Gatersleben 2589
-Hedersleben 1757
-Harsleben 2395
-Weddersleben 1086
-Wedderstedt 507
-Nachterstedt 2232
-
-Hoym 2680
-Droyssig 1907
-Plossig 272
-Krussau 251
-Krumpa 1139
-Kruden 700
-Monchpfiffel-Nikolausrieth 411
-Molau 560
-Mollern 378
-Mollendorf 311
-Wickerode 311
-Vockerode 1741
-
-Mockern 6154
-Zeddenick 143
-Zeppernick 758
-Loburg 2467
-Loben 256
-Loberitz 1096
-Luderitz 1194
-Kluden 305
-Emden 305
-Iden 991
-Bertkow 321
-Bertingen 215
-Hodingen 292
-Bellingen 299
-Moringen 795
-Uchtspringe 1487
-Staats 281
-Burgstall 660
-Dornburg 292
-Hornburg 411
-
-Bernburg 32113
-
-Nienburg/Saale 4527
-Osternienburg 2179
-
-Osternienburger Land 9115
-Elsnigk 762
-Prosigk 549
-Cositz 306
-Cosa 242
-Zabitz 549
-Zehbitz 392
-Glebitzsch 674
-
-Roitzsch 2650
-Sietzsch 729
-Queis 1518
-Quetzdolsdorf 439
-Bolsdorf 322
-Grobleben 97
-Groben 733
-Zethlingen 336
-Letzlingen 1622
-Weferlingen 2444
-Wefensleben 2188
-Hotensleben 2445
-Ausleben 2023
-Ohrsleben 407
-Morsleben 354
-Eimersleben 504
-Ostingersleben 296
-Alleringersleben 499
-Hillersleben 824
-Sandersleben 2085
-Labetz 416
-Jeetze 435
-Seethen 171
-Piethen 289
-
-Kothen 28710
-Rothenburg 940
-Samswegen 1939
-Langensalzwedel 183
-Walbeck 963
-
-Kalbe 2821
-
-Calbe 11322
-Ilberstedt 1207
-Forderstedt 2045
-Beesenlaublingen 1586
-
-Hecklingen 3969
-Schneidlingen 1169
-Schnellin 344
-Buhne 590
-
-Raguhn 3732
-Muhlbeck 995
-Friedersdorf 2028
-
-Sandersdorf 6580
-Ramsin 1006
-Renneritz 529
-Ateritz 514
-Bergwitz 1679
-
-Wittenberg 30000
-Gutenberg 1246
-Bornum 608
-Welsleben 1904
-Eilsleben 2282
-Dreileben 615
-Druxberge 413
-Berge 698
-Windberge 318
-Sandbeiendorf 286
-Benkendorf 184
-Flechtingen 1766
-Uenglingen 1053
-Tagewerben 829
-Gerbitz 679
-Balgstadt 666
+Bad Lauchstadt 5018
+Schafstadt 2170
+Langeneichstadt 1520
 Barnstadt 1230
 Grockstadt 419
 Farnstadt 1233
 
 Eisleben Lutherstadt 24346
 Wimmelburg 1410
+Stapelburg 1386
 
-Helbra 4723
+Ilsenburg 6326
 
-Kelbra 3117
-Glothe 1082
-Rotha 340
-Rottleberode 1599
-Dankerode 872
-Abberode 382
-Alterode 532
-Ritzgerode 95
+Derenburg 2716
+
+Blankenburg 15963
+Cattenstedt 727
+Neinstedt 2017
+
+Huy-Neinstedt 8797
+Danstedt 551
+Aspenstedt 553
+Gross Quenstedt 1064
+Kroppenstedt 1681
+Hakeborn 837
+Gross Bornecke 1763
+Borne 1415
+Unseburg 1294
+
+Merseburg 34780
+Geusa 1519
+Geussnitz 679
+Trebnitz 931
+Luckenau 587
+Brucken 881
+Monchpfiffel-Nikolausrieth 411
+Martinsrieth 214
+Linda 604
+Lobnitz an der Linde 294
+Abtlobnitz 159
+Priessnitz 334
+
+Jessnitz 3667
+Altjessnitz 491
+Burgkemnitz 825
+Domnitz 777
+Neutz-Lettewitz 964
+Kloschwitz 506
+Schochwitz 1295
+Brachwitz 991
+Sennewitz 1684
+Braschwitz 1251
+Doschwitz 907
+Muschwitz 1176
+Krauschwitz 626
+Grona 565
+
+Groningen 4166
+Henningen 671
+Winningen 792
+Mehringen 1194
+Moringen 795
+Uchtspringe 1487
+Bellingen 299
+Mellin 216
+Schnellin 344
+Wormsdorf 571
+Hermsdorf 1638
+Gross Santersleben 1126
+Rottmersleben 781
+Ochtmersleben 592
+Domersleben 1192
+Hadmersleben 1953
+Etgersleben 818
+
+Oschersleben 17900
+
+Aschersleben 24892
+Giersleben 1187
+Siersleben 1575
+Schermen 1575
+Schermcke 675
+Schelldorf 192
+Kleinau 664
+Kleinleinungen 140
+Grossleinungen 475
+Kerkau 210
+Storkau 606
+Krussau 251
+Lubs 412
+Vehlitz 368
+Pollitz 309
+Koselitz 198
+Huselitz 307
+Schonfeld 247
+Hundeluft 296
+Burgholzhausen 296
+Holzhausen 121
+Uthausen 219
+Obhausen 1955
+Osterhausen 1087
+Mittelhausen 614
+
+Sangerhausen 23347
+Oberroblingen 1701
+Niederroblingen 469
+
+Roblingen am See 3092
+Badingen 536
+Hodingen 292
+Bertingen 215
+Etingen 517
+Grauingen 153
+Suplingen 1065
+Bulstringen 823
+Everingen 206
+Schwarzholz 270
+Holzdorf 1324
+Sandauerholz 163
+Stresow 163
+Treseburg 101
+Altenbrak 400
+Altenroda 557
+Billroda 501
+Ziegelroda 874
+Kruden 700
+Nienstedt 411
+Fienstedt 255
+Menz 586
+Kockte 427
+Straach 934
+Ostrau 994
+Poserna 405
+Sossen 229
+
+Weissenfels 29792
+Peissen 1271
+Preusslitz 797
+Korbelitz 511
+Korbetha 280
+Maasdorf 403
+Geestgottberg 403
+Rohrberg 613
+Gutenberg 1246
+Baalberge 1479
+Stolberg 1401
+Berga 1920
+Uftrungen 1122
+Morungen 193
+Drebsdorf 114
+Obersdorf 544
+Gonna 737
+Druxberge 413
+Berge 698
+
+Gardelegen 11868
+Wegenstedt 399
+Ihlewitz 341
+Schortewitz 741
+
+Zschornewitz 2936
+Nonnewitz 870
+Theissen 1977
+Weissenborn 378
+Jerchel 334
+Teuchel 1009
+
+Wittenberg 30000
+Pratau 1861
+Eutzsch 706
+Pretzsch 1688
+Axien 611
+
+Bad Schmiedeberg 4241
+Ebersroda 184
+Albersroda 483
+Baumersroda 369
+Branderoda 201
+
+Sandersdorf 6580
+Friedersdorf 2028
+Muhlbeck 995
+Walbeck 963
+Wengelsdorf 963
+Weickelsdorf 437
+Velsdorf 220
+Heimburg 971
+Hornburg 411
+Estedt 411
+Quenstedt 883
+Strenznaundorf 379
+Naundorf 185
+Neundorf 2315
+Atzendorf 1586
+Eickendorf 1208
+Biere 2442
+Bierstedt 169
+Querstedt 253
+Wanzer 116
+
+Wanzleben 5397
+Klein Wanzleben 2541
+Klein Gartz 164
+Volgfelde 207
+Winterfeld 638
+Osterfeld 1365
+Gorschen 528
+Schelkau 282
+Wulkau 454
+Luttchendorf 658
+Kathendorf 279
+Kathen 136
+Katharinenrieth 235
+Taucha 681
+Laucha 2517
+Bucha 294
+Saubach 707
+Utenbach 156
+Rietzel 156
+Mutzel 556
+
+Lutzen 3664
+Nempitz 328
+Kotzschau 2057
+Lochau 1124
+Rochau 715
+Sichau 259
+Mahlwinkel 616
+Winkel 330
+Kahlwinkel 366
+Thalwinkel 195
+Immekath 617
+Magdeburgerforth 253
+
+Magdeburg 229826
+
+Biederitz 4545
+Edderitz 1250
+Schackensleben 712
+Schackenthal 349
+Prettin 2128
+Brettin 908
+Rossdorf 514
+Messdorf 723
+Kade 723
+Karow 534
+Paplitz 362
+Schaplitz 128
+Kladen 765
+Hohenwulsch 422
+Hohentramm 299
+Dobberkau 299
+Berkau 467
+Markwerben 709
+Werben 860
+Jersleben 631
+Edersleben 1173
+Hedersleben 1757
+Gatersleben 2589
+Hausneindorf 822
+Ebendorf 2096
+Ackendorf 442
+Spickendorf 617
+Wurchwitz 634
+Siptenfelde 634
+Breitenfeld 167
+Breitenbach 381
+Gussefeld 185
+Dannefeld 418
+
+Oebisfelde 7341
+Marke 418
+Libbesdorf 418
+Bosdorf 454
+Amsdorf 536
+Wansleben 1862
+Gunsleben 306
+Cositz 306
+Gottnitz 417
+Donitz 149
+Hermerode 149
+Ritterode 338
+Vatterode 709
+Rothenschirmbach 659
+Weissenschirmbach 540
+Lagendorf 469
+Langendorf 2568
+Wiendorf 343
+Podelist 343
+Prodel 291
+Hohendodeleben 1834
+
+Niederndodeleben 4307
+Irxleben 2489
+
+Barleben 5895
+Eichenbarleben 1163
+Wellen 1328
+Ellenberg 436
+Judenberg 623
+Hohenberg-Krusemark 669
+Liesten 341
+Mieste 2335
+Miesterhorst 786
+Siestedt 617
+Riestedt 1526
+
+Allstedt 3153
+Winkelstedt 321
+Klein-Schierstedt 397
+Gross-Schierstedt 610
+Emseloh 610
+Heideloh 202
+Ramsin 1006
+Renneritz 529
+Ateritz 514
+Kemberg 2616
+Bergwitz 1679
+Taugwitz 556
+Drewitz 449
+Dornitz 269
+Schweinitz 315
+Rosian 593
+Prosigk 549
+Arensdorf 409
+Riesdorf 172
+Friesdorf 386
+Ahlsdorf 1912
+Wohlsdorf 519
+Rottelsdorf 346
+Schmatzfeld 346
+Schmalzerode 292
+Zernitz 292
+Wannefeld 300
+Kuhfelde 530
+Konigsmark 530
+Konigsborn 627
+Konigshutte 563
+Wiederstedt 1159
+Dederstedt 454
+Neehausen 291
+
+Seehausen 4355
+Schonberg 581
+Neukirchen 262
+Casekirchen 278
+Riethnordhausen 560
+
+Bad Kosen 5522
+Bad Bibra 2192
+Bad Suderode 1791
 
 Harzgerode 4428
+Ritzgerode 95
+Abberode 382
+Alterode 532
+Welbsleben 778
+Radisleben 468
+Radis 1342
+Schleesen 552
+Schlaitz 1007
+Schlagenthin 859
+
+Genthin 14059
+Heiligenthal 825
+Thalheim 1558
+
+Thale 13386
+Timmenrode 1116
+Wienrode 888
+Huttenrode 1204
+Allrode 699
 
 Gernrode 3947
-Wienrode 888
-Timmenrode 1116
-Huttenrode 1204
-Cattenstedt 727
+Ivenrode 508
+Abbenrode 979
+
+Osterwieck 3837
+Osterwohle 521
+Kretzschau 1335
+Wulferstedt 894
+Wolferstedt 757
+Seyda 1043
+Uchtdorf 293
+Latdorf 802
+Biendorf 867
+Herrengosserstedt 575
+Alberstedt 518
+Esperstedt 748
+Schraplau 1357
+Schrampe 311
+Brockau 415
+Tromsdorf 412
+Kleinhelmsdorf 304
+Warnau 282
+Tornau 604
+Rodgen 402
+Schernikau 483
+Weischutz 187
+Schutzberg 157
+Meseberg 462
+Barneberg 777
+Spielberg 384
+Woltersdorf 384
+Liedersdorf 291
+Libehna 291
 Athenstedt 413
 Eggenstedt 282
 Tangeln 394
@@ -314,158 +418,179 @@ Wohlmirstedt 954
 
 Wolmirstedt 10860
 Glindenberg 1347
-Glinde 301
-Hemstedt 301
-Pommelte 687
+Hohenwarthe 1475
+Dahlenwarsleben 1424
+Hohenwarsleben 1550
+Farsleben 967
+Harsleben 2395
+Weddersleben 1086
+Wedderstedt 507
+Nachterstedt 2232
 
-Gommern 5992
-Sommersdorf 1108
-Ummendorf 1082
-Beendorf 878
-Schwanefeld 299
-Wannefeld 300
-Kuhfelde 530
-Zeuchfeld 244
-Steinfeld 335
+Hoym 2680
+Ohrsleben 407
+Morsleben 354
+Eimersleben 504
+Ostingersleben 296
+Alleringersleben 499
+Vinzelberg 296
+
+Havelberg 7078
+Sandau 1093
+Lindtorf 404
+Bethau 199
+Wethau 727
+Steutz 993
+Steuden 984
+Reuden 369
+Kluden 305
+Emden 305
+Gladigau 400
+Gladau 761
+Gnadau 557
+Konigerode 817
+Klieken 1111
+Klietz 1618
+Arneburg 1754
+Sanne 182
+Tanne 730
+Grieben 788
+Riebau 307
+Griebo 645
+Apollensdorf 1386
+Mollensdorf 194
+Gollensdorf 305
+Behnsdorf 686
+Buschkuhnsdorf 63
+Neuerstadt 133
+Elstervorstadt 890
+
+Elster 2638
+Wartenburg 858
+Apenburg 947
+Knapendorf 548
+Zappendorf 1592
+Salzmunde 2536
+
+Tangermunde 9912
+
+Tangerhutte 6039
+Angern 1380
+Crochern 292
+
+Teuchern 3197
+Nessa 1016
+
+Dessau 77315
+Rodleben 1673
+
+Alsleben 2786
+Belleben 1004
+Polleben 1088
+Holleben 1741
+Bornstedt 992
+Dornstedt 785
+Bennstedt 1514
+Hohnstedt 1645
+Beesenstedt 1287
+Zabenstedt 251
+Friedeburgerhutte 261
+Friedeburg 527
+Kloster Neuendorf 527
+Nauendorf 1832
+Neuendorf am Damm 267
+Benkendorf 184
+Flechtingen 1766
+Uenglingen 1053
+Tagewerben 829
 Steimke 416
-Demker 379
-Mehmke 310
-Gieckau 350
-Eckartsberga 1865
-Hundeluft 296
-Uftrungen 1122
-Morungen 193
-Drebsdorf 114
-Obersdorf 544
-Gonna 737
-Annarode 528
+Steinfeld 335
+Steinitz 481
 
-Annaburg 3512
-Monchenhofe 167
-Neuenhofe 802
-
-Haldensleben I 20294
-Gross Ammensleben 1400
-Gross Santersleben 1126
-Gross Rodensleben 1089
-Gross Rosenburg 1811
-Wettelrode 620
-Allrode 699
-Treseburg 101
-
-Derenburg 2716
-
-Blankenburg 15963
-Blankenheim 1436
-Gross-Schierstedt 610
-Riestedt 1526
-Siestedt 617
-Eschenrode 158
-Biesenrode 447
-Tilleda 943
-Birkholz 447
+Salzwedel 21058
+Altensalzwedel 394
+Gischau 79
+Schauen 494
 Buchholz 280
 Buch 428
 Bergisdorf 428
-Wendemark 236
-Marke 418
+Hergisdorf 1777
 
-Bismark 3313
-Fleetmark 764
-Altmersleben 296
-Rottmersleben 781
-Ochtmersleben 592
-Domersleben 1192
-Hadmersleben 1953
+Helbra 4723
 
-Oschersleben 17900
-Etgersleben 818
-Westeregeln 2099
+Kelbra 3117
+Glothe 1082
 
-Egeln 4119
-Hakeborn 837
-Gross Bornecke 1763
-Borne 1415
-Unseburg 1294
+Kothen 28710
+Trinum 415
+Kleinpaschleben 986
+Grosspaschleben 878
+Luckstedt 603
+Neuermark-Lubars 356
+Sachsendorf 356
+Wallhausen 2189
 
-Merseburg 34780
-Geusa 1519
-Beuna 1032
+Holzweissig 3250
+Zscherben 1600
+Zscherndorf 1852
+Frankleben 1650
+Freckleben 766
+Hinsdorf 519
+Rathmannsdorf 660
+Amesdorf 814
 
-Leuna 6929
-Spergau 1095
-Ostrau 994
+Gusten 4218
+Buste 387
+Gerlebogk 387
+Wasserleben 1509
+Berssel 746
 
-Bad Durrenberg 11479
-Wahrenberg 351
-Dahre 917
-Ahlum 494
-Hanum 196
+Halberstadt 39729
+Ilberstedt 1207
+Forderstedt 2045
+Beesenlaublingen 1586
+
+Hecklingen 3969
+Schneidlingen 1169
+Cochstedt 1311
+Eichstedt 487
+Brachstedt 957
 Nettgau 338
-Luttgenrode 761
+Hanum 196
+Ahlum 494
+Beetzendorf 1942
+Jeeben 276
+Bandau 513
+Lindau 1207
+
+Bernburg 32113
+
+Nienburg/Saale 4527
+Osternienburg 2179
+
+Osternienburger Land 9115
+Elsnigk 762
+Dannigkow 698
+
+Gommern 5992
+Pommelte 687
+Glinde 301
+Hemstedt 301
+Ristedt 258
+Loberitz 1096
+Luderitz 1194
+Javenitz 1194
+Zobbenitz 354
+Cobbel 293
+Schorstedt 322
+Kahrstedt 257
+Jahrstedt 847
+Nahrstedt 301
+Staats 281
+Wittenmoor 281
+Hottendorf 292
+Mertendorf 718
 Wulfen 1215
-Wulferstedt 894
-Wolferstedt 757
-Seyda 1043
-Kusey 1123
-Neuferchau 434
-Sachau 166
-Jeseritz 272
-Gieseritz 165
-Wallstawe 475
-
-Allstedt 3153
-
-Ballenstedt 8064
-Ballerstedt 313
-Dusedau 363
-
-Seehausen 4355
-Seeburg 666
-Schackenthal 349
-Prettin 2128
-Bretsch 674
-Retzau 396
-Leetza 388
-Valfitz 165
-
-Zeitz 29469
-Meitzendorf 1113
-Atzendorf 1586
-Eickendorf 1208
-Spickendorf 617
-Wurchwitz 634
-Siptenfelde 634
-Breitenfeld 167
-Martinsrieth 214
-Wethau 727
-Bethau 199
-Jarchau 593
-Hassel 849
-
-Hasselfelde 3159
-Altenbrak 400
-Altenhausen 383
-Hornhausen 1716
-Nienhagen 456
-Breitenhagen 542
-Greifenhagen 289
-Zichtau 310
-Uichteritz 1455
-Oebles-Schlechtewitz 233
-Dehlitz 536
-Burgwerben 1062
-Reichardtswerben 1298
-Werben 860
-Jersleben 631
-Weissenborn 378
-Jerchel 334
-Ferchland 600
-Horla 161
-Horstdorf 672
-Ragosen 227
-Straguth 273
-Welfesholz 228
 
 Wolfen 25251
 
@@ -473,449 +598,257 @@ Bitterfeld-Wolfen 15608
 
 Greppin 2840
 Leppin 430
-Farsleben 967
-Edersleben 1173
-Oberroblingen 1701
-Niederroblingen 469
-
-Roblingen am See 3092
-Badingen 536
-Langenbogen 1918
-Wansleben 1862
-Gunsleben 306
-Gottnitz 417
-Geestgottberg 403
-Winkelstedt 321
-Weickelsdorf 437
-Wengelsdorf 963
-Velsdorf 220
-Heimburg 971
-
-Naumburg 29722
-Schonburg 1133
-Goseck 1149
-Wiendorf 343
-Langendorf 2568
-
-Weissenfels 29792
-Sossen 229
-Poserna 405
-Frose 1549
-Dobris 68
-Dobritz 320
-Moritz 351
-Nutha 303
+Schielo 602
+Schierau 846
+Labetz 416
+Sylda 510
+Kremkau 220
+Sandersleben 2085
+Hillersleben 824
+Meineweh 659
+Nehlitz 406
+Doblitz 189
 Wieblitz-Eversdorf 303
-Liedersdorf 291
-Woltersdorf 384
-Wallwitz 1124
-Barneberg 777
-Arneburg 1754
-Klietz 1618
-Klieken 1111
-Schackensleben 712
-Edderitz 1250
-Lodderitz 238
-Roxforde 221
-Riethnordhausen 560
-Priessnitz 334
+Angersdorf 1237
+Eggersdorf 1224
 
-Jessnitz 3667
-Altjessnitz 491
-Muldenstein 2197
-Langenstein 1996
-
-Halberstadt 39729
-Gross Quenstedt 1064
-Schwanebeck 2435
+Schonebeck 34301
 Schernebeck 264
-Uchtdorf 293
-Latdorf 802
-Biendorf 867
-Herrengosserstedt 575
-Gossa 896
-Rosa 923
-Drosa 633
-Dornbock 359
-Hainrode 359
-Pobzig 427
-Diebzig 267
-
-Grobzig 2747
-Stossen 1191
-Reussen 1049
-Preusslitz 797
-Cormigk 575
-Krosigk 907
-Drossdorf 684
-Grobern 684
-Grobers 2460
-Grosskugel 2272
-Grosskayna 1091
-Kayna 1532
-Haynsburg 588
-Hayn 619
-Neudorf 673
-Neundorf 2315
-
-Stassfurt 22960
-
-Querfurt 9019
-Obhausen 1955
-Osterhausen 1087
-Mittelhausen 614
-Wallhausen 2189
-Neuermark-Lubars 356
-Sachsendorf 356
-Nudersdorf 1049
-Scheuder 376
-Heudeber 1252
-Reddeber 881
-
-Wernigerode 34463
-
-Elbingerode 4112
-Darlingerode 2321
-Drubeck 1557
-Rubeland 1201
-Thielbeer 183
-Spielberg 384
-
-Havelberg 7078
-Sandau 1093
-Sanne 182
-Schinne 486
-Grassau 284
-Rossau 442
-Jutrichau 568
-Schwerz 564
-Roglitz 331
-Wieglitz 216
-Ellenberg 436
-Judenberg 623
-Hohenberg-Krusemark 669
-Selbitz 436
-Lobitz 467
-Grobitz 527
-Friedeburg 527
-Friedeburgerhutte 261
-
-Tangerhutte 6039
-Angern 1380
-Crochern 292
-Rochau 715
-Sichau 259
-Teicha 1479
-Reicho 53
-Breitenbach 381
-Utenbach 156
-Rietzel 156
-Mutzel 556
-
-Lutzen 3664
-Granschutz 1229
-Weischutz 187
-Schernikau 483
-Zscherndorf 1852
-Zscherben 1600
-
-Holzweissig 3250
-Zweimen 318
-Solpke 623
-Volpke 1622
-Lobejun 2335
-Tollwitz 1252
-
-Meuselwitz 9625
-Geussnitz 679
-Grossnitz 150
-Grosszoberitz 546
-Gross Garz 851
-Grost 666
-Taugwitz 556
-Augsdorf 623
-Burgsdorf 217
-Polleben 1088
-Holleben 1741
-Bornstedt 992
-Jahrstedt 847
-Abbenrode 979
-Stapelburg 1386
-
-Ilsenburg 6326
-Apenburg 947
-Knapendorf 548
-Engersen 548
-Algenstedt 204
-Kassieck 228
-
-Osterwieck 3837
-
-Gerwisch 2791
-Schermen 1575
-Hermerode 149
-Ritterode 338
-Vatterode 709
-Rothenschirmbach 659
-Weissenschirmbach 540
-Lagendorf 469
-Insel 759
-Boddensell 249
-Rodden 257
-Walsleben 470
-Wilsleben 550
-Braunrode 541
-Kunrau 921
-Losenrade 170
-Horsingen 644
-Everingen 206
-Mehringen 1194
-Winningen 792
-Behrendorf 546
-Listerfehrda 372
-Ristedt 258
-Stedten 1115
-Veckenstedt 1433
-Trebitz 1368
-Trebnitz 931
-Luckenau 587
-Warnau 282
-Tornau 604
-Mertendorf 718
-Hamerten 219
+Schwanebeck 2435
+Schwanefeld 299
+Beendorf 878
+Ummendorf 1082
+Eilsleben 2282
+Ausleben 2023
+Hotensleben 2445
 Bartensleben 336
-Zobbenitz 354
-Cobbel 293
-Cobbelsdorf 667
-Dobien 1339
-Lebien 366
-Bucha 294
-Laucha 2517
-Golzen 186
-Zens 278
-Grimme 163
-Griesen 351
-Grieben 788
-Riebau 307
-Eichstedt 487
-Cochstedt 1311
-Brachstedt 957
-Donitz 149
-Bandau 513
-Lindau 1207
-Linda 604
-Lindstedt 632
+Wefensleben 2188
+Hohenweiden 830
+Weferlingen 2444
+Letzlingen 1622
 Ratzlingen 835
+Lindstedt 632
 
 Oranienbaum 3476
 Ranies 376
-Grana 758
-Plotz 801
-Plotzkau 1486
-Plotzky 1040
-Leitzkau 1130
-Gehrden 241
-Godnitz 240
-Tornitz 620
-
-Barby 4646
-Harbke 1935
-Katharinenrieth 235
-Kathen 136
-Kathendorf 279
-Rohrberg 613
-Gohrau 453
-Schrampe 311
-Schraplau 1357
-Gutergluck 748
-Luckstedt 603
-Schackstedt 463
-Bennungen 1004
-Henningen 671
-
-Groningen 4166
-Grona 565
-Krauschwitz 626
-Muschwitz 1176
-Doschwitz 907
-Nonnewitz 870
-Theissen 1977
-Peissen 1271
-Poley 667
-Polenzko 289
-Baasdorf 469
-Arensdorf 409
-Riesdorf 172
-Friesdorf 386
-Wippra 1621
-Garlipp 201
-
-Gardelegen 11868
-
-Wegeleben 3132
-Schadeleben 711
-Badel 487
+Horsingen 644
+Losenrade 170
 Rade 185
 Radegast 1308
 Weissandt-Golzau 1434
 Gnetsch 343
-Klitsche 384
-Loitsche 680
-Wiepke 239
-Schwiesau 380
-Kirchscheidungen 376
-Burgscheidungen 627
-Konigsborn 627
-Konigsmark 530
-Wolfsberg 178
-Wolferode 1292
-Strobeck 1181
-Reinsdorf 900
-Hinsdorf 519
-Amesdorf 814
-Messdorf 723
-Rossdorf 514
-Brettin 908
-
-Genthin 14059
-Schlagenthin 859
-Schlaitz 1007
-Mohlau 2225
-Heiligenthal 825
-Thalheim 1558
-Heideloh 202
-Hohenweiden 830
-Hohengohren 455
-Dohren 219
-Schrenz 629
-Stumsdorf 682
-Amsdorf 536
-Hermsdorf 1638
-Wormsdorf 571
-Tromsdorf 412
-Kleinhelmsdorf 304
-Casekirchen 278
-Neukirchen 262
-Neulingen 93
+Bretsch 674
 Gagel 126
+Neulingen 93
+
+Luftkurort Arendsee 2962
 Heiligenfelde 252
 Boock 315
 Packebusch 396
-Buste 387
+Retzau 396
+Leetza 388
+Deetz 725
+Dobritz 320
+Moritz 351
+Wahrenberg 351
 
-Gusten 4218
-Beuster 523
-Rackith 688
-Hackpfuffel 257
-Hohenlepte 234
-Kahrstedt 257
-Nahrstedt 301
-Wittenmoor 281
-Hottendorf 292
-Dolle 569
-Dollnitz 1383
-Dolbau 1209
+Bad Durrenberg 11479
+Spergau 1095
 
-Dieskau 3133
+Leuna 6929
+Beuna 1032
+Grosskayna 1091
 
-Lieskau 2711
-Wieskau 348
-Kakau 634
-Unterkaka 337
-Berkau 467
-Markwerben 709
-Grossbadegast 709
-Grosskorbetha 2083
-Korbetha 280
-Zieko 183
-Zielitz 2154
-Tarthun 837
-Thurland 395
-Wahlitz 1027
-Ochlitz 580
-Kotschlitz 940
-Kotzschau 2057
-Lochau 1124
-Burgliebenau 485
-Vienau 439
-
-Zorbig 4052
-Zorbau 882
-Saubach 707
-Kahlwinkel 366
-Thalwinkel 195
-Winkel 330
-Mahlwinkel 616
-Dahlen 701
-Heeren 605
-Miltern 398
-
-Tangermunde 9912
-Stangerode 381
-Grossgorschen 862
-Quellendorf 1033
-Meilendorf 258
+Braunsbedra 6599
+Braunschwende 603
+Schwenda 616
+Dossel 375
+Losse 121
+Lossa 856
+Gossa 896
+Weissewarte 460
+Pouch 1675
+Plodda 460
+Lodderitz 238
+Roxforde 221
+Calvorde 1742
+Berenbrock 292
+Jeseritz 272
+Gieseritz 165
+Wallstawe 475
+Wallwitz 1124
+Tollwitz 1252
+Rothenburg 940
+Samswegen 1939
+Gutenswegen 739
+Neuwegersleben 479
+Plossig 272
+Droyssig 1907
+Neu Konigsaue 370
+Volkstedt 1307
+Janisroda 221
+Schleberoda 176
+Rottleberode 1599
+Dankerode 872
+Vockerode 1741
+Worlitz 1681
+Riesigk 206
+Priesitz 274
+Griesen 351
 Mellnitz 58
-Mellin 216
+Meilendorf 258
+Quellendorf 1033
+Grossgorschen 862
+Stangerode 381
 
-Zahna 3623
-Dorna 184
-Ebersroda 184
-Wartenburg 858
+Elbingerode 4112
+Darlingerode 2321
 
-Elster 2638
-Elstervorstadt 890
-Abtsdorf 1457
-Zornigall 991
-Dietrichsdorf 275
-Dietersdorf 286
-Karsdorf 2063
-Wust 868
-Wustenjerichow 139
-Drewitz 449
-Schopsdorf 284
-Tryppehna 284
-
-Brehna 3014
-Libehna 291
-Vissum 268
-Leissling 1541
-Leislau 273
-Rossla 2378
+Wernigerode 34463
+Reddeber 881
+Heudeber 1252
+Scheuder 376
+Hamersleben 941
 Kakerbeck 941
+Hobeck 480
+Roglitz 331
+Wieglitz 216
+Luso 323
+Schwerz 564
+Schwemsal 677
+Rosa 923
+Drosa 633
+Pobzig 427
+Diebzig 267
+Hainrode 359
+Braunrode 541
+Wilsleben 550
+Ragosen 227
+Goseck 1149
+Peseckendorf 232
+Altbrandsleben 363
+Hornhausen 1716
+Mannhausen 298
+Kreypau 338
+Walsleben 470
+Rodden 257
+Boddensell 249
 
-Aken 9240
-Chorau 248
-Schorstedt 322
-Dorst 201
-Miesterhorst 786
-Libbesdorf 418
-Reesdorf 161
+Haldensleben I 20294
+Gross Ammensleben 1400
+Gross Rodensleben 1089
+Dreileben 615
+Erxleben 1329
+Bregenstedt 586
+Hakenstedt 578
+Drackenstedt 458
+Veckenstedt 1433
+Trebitz 1368
+Glebitzsch 674
+
+Roitzsch 2650
+Sietzsch 729
+Queis 1518
+Grobers 2460
+Grobern 684
+Groben 733
+Zethlingen 336
+Klein Muhlingen 648
+Kloden 648
+Hindenburg 425
+Brunau 631
+Jeetze 435
+Lichterfelde 346
+Uichteritz 1455
+Oebles-Schlechtewitz 233
+Dehlitz 536
+Burgwerben 1062
+Reichardtswerben 1298
+Reicho 53
+Wernstedt 225
+Schmilkendorf 225
+Grossnitz 150
+Gross Garz 851
+Grosszoberitz 546
+Memleben 851
 Uhrsleben 489
-Wanzer 116
+Reesdorf 161
+Reesen 532
+Grabow 741
+Theessen 530
+Kusel 122
+Kusey 1123
+Jeggeleben 418
 
-Wanzleben 5397
-Klein Wanzleben 2541
-Klein Rodensleben 600
-Klein Ammensleben 752
-Walternienburg 547
-Steigra 916
-Steinburg 215
-Howisch 156
-Schauen 494
-Born 242
-Schierke 747
-Schierau 846
-Sylda 510
-Waldau 518
-Bornsen 342
-Marienborn 531
-Wetterzeube 1145
+Wegeleben 3132
+Schadeleben 711
+Friedrichsaue 237
+Rieder 2026
+Friedrichsbrunn 1083
+Heinrichsberg 397
+
+Landsberg 4563
+Niemberg 1492
+Hohenthurm 2285
+
+Teutschenthal 6996
+Langenbogen 1918
+Siedenlangenbeck 479
+Stappenbeck 423
+Valfitz 165
+Peckfitz 173
+Sachau 166
+Neuferchau 434
+Jarchau 593
+Hassel 849
+
+Hasselfelde 3159
+Benneckenstein 2256
+Breitenstein 516
+Breitenhagen 542
+Nienhagen 456
+Greifenhagen 289
+Zichtau 310
+Goldschau 344
+Goldbeck 1318
+Baben 199
+Bertkow 321
+Iden 991
+Dusedau 363
+
+Osterburg 7231
+Gorenzen 363
+Wenze 619
 Sotterhausen 286
 Klosterhaseler 790
-Westerhausen 2169
-
-Sangerhausen 23347
+Wetterzeube 1145
+Marienborn 531
+Born 242
+Schierke 747
+Leimbach 390
+Wedlitz 430
+Nedlitz 798
+Karith 328
+Zeddenick 143
+Zeppernick 758
+Zemnick 132
+Leislau 273
+Leissling 1541
+Wolmirsleben 1544
+Reinsdorf 900
+Strobeck 1181
+Wolferode 1292
+Wickerode 311
+Harkerode 336
+Wolfsberg 178
+Petersberg 684
+Guntersberge 948
+Windberge 318
+Sandbeiendorf 286
+Gerbitz 679
+Balgstadt 666
+Sorge 140
+Stecklenberg 634
 Grillenberg 330
 Polsfeld 435
 
@@ -926,343 +859,410 @@ Benndorf 2491
 Grossorner 2092
 
 Hettstedt 15949
+Arnstedt 597
 Drohndorf 519
 Dohndorf 316
-Trinum 415
-Kleinpaschleben 986
-Grosspaschleben 878
-Schleberoda 176
-Schleesen 552
-Reesen 532
-Theessen 530
+Cormigk 575
+Poley 667
+Polenzko 289
+Piethen 289
+Seethen 171
+Wieskau 348
 
-Jessen 11065
-Kleinkorga 82
-Neuerstadt 133
+Lieskau 2711
+
+Dieskau 3133
+Dollnitz 1383
+Burgliebenau 485
+Vienau 439
+Quetzdolsdorf 439
+Bolsdorf 322
+Grobleben 97
+Heeren 605
+Miltern 398
+Walternienburg 547
+Klein Ammensleben 752
+Klein Rodensleben 600
+Ferchland 600
+Horla 161
+Labrun 135
+Dabrun 675
+Muhlanger 1467
+Dietrichsdorf 275
+Abtsdorf 1457
+Bossdorf 627
+Mochau 572
+Dobien 1339
+Lebien 366
+
+Nebra 2690
+Burgscheidungen 627
+Kirchscheidungen 376
+Loitsche 680
+Klitsche 384
+Kotschlitz 940
+Ermlitz 1468
+Grosskugel 2272
+Grosskorbetha 2083
+Grossbadegast 709
 Gadegast 216
-Kade 723
-Karow 534
-Grabow 741
-Piskaborn 304
-Heteborn 394
-Micheln 791
 
-Mucheln 6389
+Zahna 3623
+Zornigall 991
+Tornitz 620
+Godnitz 240
+Gehrden 241
+Listerfehrda 372
+Behrendorf 546
+Nemsdorf-Gohrendorf 971
+Tylsen 134
+Ludelsen 286
+Dietersdorf 286
+Hayn 619
+Haynsburg 588
+Drossdorf 684
+Frassdorf 229
+Baasdorf 469
+Zabitz 549
+Zehbitz 392
+Lobitz 467
+Selbitz 436
 
-Braunsbedra 6599
-Braunschwende 603
-Meseberg 462
-Gorzig 1295
-Worbzig 426
-Bulzig 815
-Reupzig 313
-Reuden 369
-Steuden 984
+Colbitz 3443
+Dornburg 292
+Dornbock 359
+Dorna 184
+Fischbeck 706
+Howisch 156
+Steinburg 215
 
-Teutschenthal 6996
-
-Thale 13386
-Bad Suderode 1791
-
-Bad Schmiedeberg 4241
-Sollichau 886
-Schwemsal 677
-Schwenda 616
-Dossel 375
-Berssel 746
-Wasserleben 1509
-
-Barleben 5895
-Eichenbarleben 1163
-Wellen 1328
-Irxleben 2489
-Erxleben 1329
-Siersleben 1575
-
-Moser 2637
-Lostau 2014
-
-Biederitz 4545
-Rieder 2026
-Friedrichsbrunn 1083
-Friedrichsaue 237
-Hausneindorf 822
+Quedlinburg 22814
 Ditfurt 1846
-Radisleben 468
-Radis 1342
 
-Grafenhainichen 7833
-Burgkemnitz 825
-Zemnick 132
-Schmilkendorf 225
-Peseckendorf 232
-Altbrandsleben 363
+Querfurt 9019
+Ringfurth 322
+Kehnert 356
+Potzehne 290
 
-Landsberg 4563
-Petersberg 684
-Guntersberge 948
-Gunthersdorf 1179
-Zoschen 1074
-Wallendorf 1005
-Buhlendorf 235
-
-Zerbst 15680
-Bias 171
-Rosian 593
-Hohenziatz 599
-Kusel 122
-Huselitz 307
-Koselitz 198
-Kossebau 303
-Pollitz 309
-Vehlitz 368
-Lubs 412
-Hubitz 380
-Pietzpuhl 226
-Ziemendorf 226
-Schmon 864
-Storkau 606
-Ulzigerode 176
-Konigerode 817
-Konigshutte 563
-Neu Konigsaue 370
-Volkstedt 1307
-Janisroda 221
-Petersroda 623
-Neuendorf am Damm 267
-Delitz am Berge 990
-
-Bad Lauchstadt 5018
-Langeneichstadt 1520
-Schafstadt 2170
-Klobikau 589
-Milzau 946
-Altenzaun 154
-Gorenzen 363
-Wenze 619
-Vinzelberg 296
-Ovelgunne 451
-Tanne 730
-
-Konnern 5339
-Konnigde 189
-Salzmunde 2536
-Zappendorf 1592
-Stappenbeck 423
-Brockau 415
-Berenbrock 292
-Calvorde 1742
-Grauingen 153
-Etingen 517
-Wettin 2046
-Neutz-Lettewitz 964
-Domnitz 777
-Edlau 511
-Wedlitz 430
-Nedlitz 798
-Karith 328
+Klotze 5398
+Plotz 801
+Plotzky 1040
 Prittitz 1040
 Pretzien 949
 Pretzier 1310
 Jubar 690
-Schielo 602
-Klein-Schierstedt 397
-Heinrichsberg 397
-Maasdorf 403
-Frassdorf 229
-Rassnitz 1097
-Siebigerode 647
-Krina 756
-Gleina 906
-Meuro 627
-Burkersroda 329
-
-Freyburg 4451
-Podelist 343
-Prodel 291
-Jeggau 217
-Seggerde 91
-Nordgermersleben 956
-Hamersleben 941
+Hohengohren 455
+Dohren 219
+Hamerten 219
 Kamern 750
-Serno 480
-Stecklenberg 634
-Questenberg 323
-Leps 287
-Kropstadt 1364
-Kroppenstedt 1681
-Holdenstedt 769
-Rhoden 488
-Vitzenburg 805
-Hindenburg 425
-Brunau 631
-Labrun 135
-Dabrun 675
-Muhlanger 1467
-Klein Muhlingen 648
-Kloden 648
+Rossla 2378
+Rossau 442
+Jutrichau 568
+Reppichau 468
 
-Klotze 5398
-Breitungen 513
+Ballenstedt 8064
+Algenstedt 204
+Kassieck 228
+Gieckau 350
+Eckartsberga 1865
+Zorbau 882
+
+Zorbig 4052
+Stumsdorf 682
+Schrenz 629
+Kutten 421
+Rippach 684
+Teicha 1479
+Morl 913
+Konnigde 189
+
+Konnern 5339
+Edlau 511
+Grobitz 527
+Freist 384
+Jeggau 217
+Burgsdorf 217
+Augsdorf 623
+
+Gerbstedt 2885
+
+Zerbst 15680
+Bias 171
+Nutha 303
+Buhlendorf 235
+Mollendorf 311
+Wallendorf 1005
+Zoschen 1074
+Gunthersdorf 1179
+Nudersdorf 1049
+Reussen 1049
+
+Jessen 11065
+Monchenhofe 167
+Kleinkorga 82
+
+Annaburg 3512
+Annarode 528
+Piskaborn 304
+Bornum 608
+Welsleben 1904
+Wackersleben 761
+Mechau 265
+Zuchau 362
+Tucheim 1431
+
+Mucheln 6389
+Ochlitz 580
+Klobikau 589
+Milzau 946
+Delitz am Berge 990
+Zielitz 2154
+Beelitz 79
+Puggen 57
 Ecovillage of Sieben Linden 120
-Lobnitz an der Linde 294
-Abtlobnitz 159
-Burgholzhausen 296
-Schonfeld 247
-Schonberg 581
+Breitungen 513
+Bennungen 1004
+Schackstedt 463
+Stedten 1115
 
-Schonebeck 34301
-Hobeck 480
-Luso 323
-Sorge 140
-Magdeburgerforth 253
-Immekath 617
-Ziegelroda 874
+Schkopau 3060
+Schkona 801
+Schkortleben 647
+Siebigerode 647
+Ulzigerode 176
+Bulzig 815
+Reupzig 313
+Steigra 916
+Langenstein 1996
+Muldenstein 2197
+Holdenstedt 769
+Micheln 791
+Heteborn 394
+Erdeborn 1117
+Unterrissdorf 454
+Bischofrode 752
+
+Gerwisch 2791
 Wischroda 511
 Hirschroda 198
 Zabakuck 228
-Brucken 881
-Rocken 600
-Schutzberg 157
-Chuden 487
-Binde 364
+Welfesholz 228
+Straguth 273
 
-Luftkurort Arendsee 2962
-Krevese 523
+Raguhn 3732
+Bobbau 1697
+Salzfurtkapelle 975
+Langenapel 270
+Grimme 163
+Zens 278
+Kakau 634
+Unterkaka 337
+Leps 287
+Questenberg 323
+Gohrau 453
+Worbzig 426
+Aulosen 236
+Molau 560
 
-Osterburg 7231
-Goldbeck 1318
-Goldschau 344
-Schermcke 675
-Schelldorf 192
-Vahldorf 562
+Naumburg 29722
+Schonburg 1133
+Schonhausen 2100
+Altenhausen 383
+Westerhausen 2169
+Westeregeln 2099
 
-Colbitz 3443
-Bittkau 793
-Ringfurth 322
-Kehnert 356
-Potzehne 290
-Gladigau 400
-Gladau 761
-Glauzig 467
-Javenitz 1194
-Ivenrode 508
-Strassberg 832
-Straach 934
-Kockte 427
-Wenddorf 113
-Morxdorf 246
-Wackersleben 761
-Wespen 248
-Westdorf 794
-Welbsleben 778
-Reppichau 468
-Oppin 1563
-Rippach 684
-Nehlitz 406
-Doblitz 189
-Ermlitz 1468
-Nempitz 328
-Starsiedel 744
-Siedenlangenbeck 479
-Neuwegersleben 479
-Stackelitz 223
-Ladeburg 318
-
-Magdeburg 229826
-
-Burg bei Magdeburg 24958
-
-Dessau 77315
-Rodleben 1673
-Duben 285
-Buko 194
-Jeber-Bergfrieden 646
-
-Coswig 8495
-Rehsen 271
-Senst 244
-Rotta 906
+Egeln 4119
 Bottmersdorf 761
-Eilsdorf 460
-Sargstedt 766
+Sommersdorf 1108
+Harbke 1935
+Eschenrode 158
+Biesenrode 447
+Tilleda 943
+Birkholz 447
+Kossebau 303
+Stossen 1191
 
-Quedlinburg 22814
+Grobzig 2747
+Kropstadt 1364
+Lobejun 2335
+Loben 256
+Mehmke 310
+Wespen 248
+Langensalzwedel 183
+Starsiedel 744
+Granschutz 1229
+
+Hohenmolsen 9772
+Hohenziatz 599
+Wustenjerichow 139
+Jerichow 2289
+Redekin 704
+Nielebock 242
+Bittkau 793
+Schonwalde 121
+Demker 379
+Dahlen 701
 
 Stendal 37722
 Schenkenhorst 182
-Lindtorf 404
-Baben 199
-Kladen 765
-Schaplitz 128
-Paplitz 362
-Zuchau 362
-Tucheim 1431
-Leimbach 390
-Rogatz 2283
-Neugattersleben 933
-Rathmannsdorf 660
-Mosthinsdorf 319
-Kutten 421
-Niemberg 1492
-Kemberg 2616
-Fischbeck 706
-Pratau 1861
-
-Hohenmolsen 9772
-Deuben 1236
-Gubs 362
-Sporen 655
-Memleben 851
-Osterwohle 521
-Rademin 222
-Gutenswegen 739
+Horstdorf 672
+Westdorf 794
+Neudorf 673
+Rotha 340
+Wippra 1621
 Molmerswende 261
-Wolmirsleben 1544
-
-Zschornewitz 2936
-
-Gerbstedt 2885
-Freist 384
-Weissewarte 460
-Pouch 1675
-Plodda 460
-Bobbau 1697
-Dobberkau 299
-Gerlebogk 387
-Nielebock 242
-Redekin 704
-Jerichow 2289
-Schonwalde 121
-Schonhausen 2100
-Brumby 1046
-Beyernaumburg 772
-Emseloh 610
-Bischofrode 752
-Wulkau 454
-Bulstringen 823
-Suplingen 1065
-Frankleben 1650
+Wendemark 236
+Schwiesau 380
+Wiepke 239
+Wust 868
+Karsdorf 2063
+Grana 758
+Nordgermersleben 956
+Rogatz 2283
+Seggerde 91
 Flessau 1048
 Thiessen 746
-Nessa 1016
+Zweimen 318
+Solpke 623
+Volpke 1622
+Thielbeer 183
+Rubeland 1201
+Drubeck 1557
+Elend 583
+
+Zeitz 29469
+Leitzkau 1130
+Plotzkau 1486
+Neugattersleben 933
+
+Calbe 11322
+
+Kalbe 2821
+Altmersleben 296
+Badel 487
+Fleetmark 764
+
+Bismark 3313
+Grassau 284
+Schinne 486
+Ballerstedt 313
+Krevese 523
+Binde 364
+Chuden 487
+Dahre 917
 Bonese 281
 Neuekrug 198
-Puggen 57
-Rodgen 402
-Lichterfelde 346
+Neuenhofe 802
+Vahldorf 562
+Meitzendorf 1113
+Vitzenburg 805
+Rhoden 488
+Luttgenrode 761
+Buhne 590
+Glauzig 467
+Krina 756
+Rassnitz 1097
+Strassberg 832
+Mollern 378
+Burkersroda 329
+Golzen 186
+Meuro 627
+Gleina 906
+
+Freyburg 4451
+Loburg 2467
+Seeburg 666
+Ladeburg 318
+Stackelitz 223
+Rademin 222
+Pietzpuhl 226
+Ziemendorf 226
+Schmon 864
+Krumpa 1139
+Hubitz 380
+
+Burg bei Magdeburg 24958
+
+Moser 2637
+Lostau 2014
+
+Mockern 6154
+Rocken 600
+Rackith 688
+Hohenlepte 234
+Hackpfuffel 257
+Rotta 906
+Senst 244
+Zeuchfeld 244
+Petersroda 623
+Vissum 268
+
+Stassfurt 22960
+
+Meuselwitz 9625
+Kayna 1532
+Krosigk 907
+Deuben 1236
+Duben 285
+Buko 194
+Brasen 170
+Jeber-Bergfrieden 646
+Cobbelsdorf 667
+
+Coswig 8495
+Rehsen 271
+Brandhorst 108
+
+Grafenhainichen 7833
+Mohlau 2225
+
+Aken 9240
+Chorau 248
+Cosa 242
+Mosthinsdorf 319
+Eilsdorf 460
+Sargstedt 766
+Burgstall 660
+Dolle 569
+Dorst 201
+
+Barby 4646
+Wettelrode 620
+Gross Rosenburg 1811
+Frose 1549
+Dobris 68
+
+Brehna 3014
+Tryppehna 284
+Wettin 2046
+Oppin 1563
+Dolbau 1209
+Blankenheim 1436
+Beyernaumburg 772
+Gorzig 1295
+Waldau 518
+Bornsen 342
+Beuster 523
+Brumby 1046
+Altenzaun 154
+Wahlitz 1027
+Thurland 395
+Sporen 655
+Gubs 362
+Kunrau 921
+Serno 480
+Sollichau 886
+Tarthun 837
 Lengefeld 779
-Gussefeld 185
-Salzfurtkapelle 975
-Langenapel 270
-Deetz 725
-Dannigkow 698
-Meineweh 659
-Axien 611
-Elend 583
-Gnadau 557
-Korbelitz 511
+Engersen 548
+Insel 759
+Gutergluck 748
+Grost 666
+Ovelgunne 451
 Worpen 301
-Peckfitz 173
-Ludelsen 286
-Stresow 163
+Schopsdorf 284
+Morxdorf 246
+Kaulitz 208
+Garlipp 201
+Zieko 183
+Wenddorf 113

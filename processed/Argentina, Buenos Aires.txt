@@ -1,868 +1,675 @@
 
 
 Mar del Plata 546809
-Batan 10152
-Vivorata 956
-Elvira 133
-General Piran 2934
-General Pinto 6557
-General Arenales 4321
-Arribenos 2910
-Uribelarrea 1282
-Canuelas 29974
-Alejandro Petion 2759
-Barrios Lisandro de la Torre y Santa Marta 2008
-Barrio Santa Rosa 109
-Barrio Belgrano 169
-Centro Guerrero 114
-Guerrico 774
+Mar de Cobo 519
+Mar de las Pampas 276
+Mar de Ajo 18111
+Mar del Tuyu 8546
+San Clemente del Tuyu 12126
+Lucila Del Mar 1421
+Valeria del Mar 4128
+Ostende 10174
+Henderson 8645
+Magdala 195
+Smith 465
+La Aurora 531
+Alfredo Demarchi 1853
+Villa Alfredo Fortabat 3451
+Villa Arrieta 731
+Aguas Verdes 902
+Colonia San Miguel 902
+Colonia Hinojo 953
+Hinojo 2888
+Florentino Ameghino 7225
 
-Guernica 75982
-Barrio America Unida 4842
-La Union 37682
-Jose Maria Ezeiza 48451
-Jose Marmol 44960
-San Jose 45743
-
-Rafael Calzada 56505
-Claypole 47275
-Claraz 639
-Juan Anchorena 976
-Ranchos 7916
-Villanueva 537
-Manuel J. Cobo 4647
-Castelli 6859
-
-Castelar 107786
-
-Rafael Castillo 147965
-
-Isidro Casanova 190696
-San Isidro 43595
-
-Beccar 61928
-Carapachay 15369
-Suipacha 8403
-Gorostiaga 324
-San Sebastian 166
-San Esteban 92
-La Beba 37
-La Pala 27
-Santo Tomas 27
-Santo Domingo 95
-
-Villa Dominico 60096
-
-Wilde 64231
-Valdes 579
-Del Valle 899
-General Lavalle 1827
-Llavallol 40272
-Luis Guillon 40241
-La Luisa 230
-Santa Luisa 40
-Jose B. Casas 40
-
-Jose C. Paz 247217
-
-San Miguel 168762
-Muniz 26844
-
-Bella Vista 79737
-Del Viso 38419
-Los Cachorros 7851
-Luis Lagomarsino 11984
-Maquinista F. Savio 41569
-Juan F. Salaberry 4
-Club de Campo Las Malvinas 4
-Country Club Las Praderas 535
-Las Encadenadas 9
-Mar Chiquita 487
-Copetonas 1017
-Lomas de Copello 420
-
-Lomas de Zamora 112580
-
-Banfield 246467
-Villa Fiorito 47299
-Villa Centenario 48857
-Villa Portena 16549
-Villa Catela 6064
-Villa San Carlos 8346
-Villa Dolores 7104
-Villa Progreso 9120
-Barrio El Carmen Este 7003
-Barrio El Carmen Oeste 6462
-Villa Garibaldi 601
-Villa Parque Sicardi 2645
-Villa Parque San Lorenzo 4534
-Villa San Andres 9647
-Villa Marques Alejandro Maria de Agua 12614
-Villa Martelli 24810
-Villa Maipu 24510
-Villa Gregoria Matorras 16803
-Villa Granaderos de San Martin 21571
-Ciudad del Libertador General San Martin 32726
-Villa Libertad 10291
-
-Libertad 114625
-San Antonio de Padua 40014
-San Antonio de Areco 19768
-San Andres de Giles 16243
-Cucullu 551
-Ayacucho 17364
-Rauch 12705
-Udaquiola 91
-Blaquier 676
-Polvaredas 392
-Arboledas 632
-Antonio Carboni 295
-Dufaur 182
-Duggan 573
-Castilla 689
-Solanet 47
-Ruta Sol 2312
-Pontaut 68
-Pontevedra 39013
-Saavedra 2276
-Barrio Saavedra 1137
-Barrio Los Pioneros 1823
-Chacras del Rio Lujan 1621
-Rio Lujan 261
-Dique Lujan 5650
-
-Lujan 79098
-Barrio Las Casuarinas 1006
-Villa Flandria Norte 6869
-Villa Flandria Sur 2993
+Florencio Varela 131841
 Villa La Florida 35684
 
 San Francisco Solano 91322
-San Francisco de Bellocq 523
-Gobernador Udaondo 330
-El Dorado 318
-Playa Dorada 282
-Cardenal Cagliero 89
-Labarden 799
-Azopardo 95
-San Bernardo 8032
-Villa Bernardo Monteagudo 8646
-Villa Parque Presidente Figueroa Alcorta 3743
-Presidente Derqui 48107
-Villa Astolfi 6306
-Villa Rosa 24476
-Villa Santa Rosa 30820
-Villa San Luis 12766
-Villa Brown 8028
-Villa Laguna La Brava 115
-Villa Lia 1182
-Santa Coloma 203
-Santa Lucia 2360
-Pueblo Doyle 528
-Pueblo Gouin 122
-Pueblo Nuevo 36
-San Manuel 1126
-Napaleofu 374
-Tapalque 7444
-Crotto 247
-Abbott 603
-Las Toscas 485
-Las Toninas 5278
-Santa Teresita 15035
-Mar del Tuyu 8546
-San Clemente del Tuyu 12126
-Santa Clara del Mar 5586
-Santa Elena 555
-Barrio Santa Paula 644
-Sierra de los Padres 1672
-Sierra de la Ventana 2165
-Villa Ventana 609
-La Gruta 52
-Grunbein 4030
-Villa Espora 1184
-Villa del Mar 357
-Villa General Arias 1845
-Villa General Savio 1511
-General Rojo 2464
-Villa Esperanza 386
-Perez Millan 4570
-Coronel Martinez de Hoz 1041
+San Jose 45743
+Jose Marmol 44960
+Jose Maria Ezeiza 48451
+La Union 37682
+Barrio America Unida 4842
 
-Martinez 59715
-Cortinez 724
-Martin Coronado 17049
-Villa Juan Martin de Pueyrredon 17287
-Villa Lynch Pueyrredon 62
-Villa Lynch 3837
-Villa Chacabuco 6406
-Villa Ayacucho 3890
-Villa Bosch 25471
-Don Bosco 23261
-
-Bernal 116752
-Pedernales 1432
-
-Mercedes 56116
-Plomer 198
-
-Merlo 268961
-
-Gerli 65114
-
-Temperley 111179
-Turdera 9625
-Banderalo 1339
-Guamini 2845
-Altamirano 215
-Miramar 29433
-El Marquesado 196
-Chapadmalal 4112
-Punta Mogotes 28199
-Punta Lara 10958
-
-Punta Alta 57958
-Punta Indio 569
-Villa Independencia 5883
-Ostende 10174
-Valeria del Mar 4128
-Lucila Del Mar 1421
-La Lucila 11966
-
-Olivos 73155
-Olivera 1926
-Rivera 3217
-Ariel 16
-Oriente 1778
-Teniente Origone 145
-Ingeniero Moneta 20
-Ingeniero Maschwitz 14778
-Ingeniero Pablo Nogues 45436
-Ingeniero Adolfo Sourdeaux 29652
-Villa de Mayo 40915
-Campo de Mayo 847
-El Libertador 16233
-
-Ciudad Jardin El Libertador 62373
-Villa Godoy Cruz 5911
-Arroyo de la Cruz 243
-Arroyo Corto 514
-
-San Nicolas de los Arroyos 132418
-Tres Arroyos 46867
-Villa Rodriguez 17
-
-General Rodriguez 83113
-Barrio Morabo 998
-Barrio Rio Salado 265
+Glew 71934
+Villanueva 537
+Villa Nueva 2589
+Villa Arguello 6989
+Villa Portena 16549
+Villa Progreso 9120
+Villa Parque Sicardi 2645
+Villa Garibaldi 601
+De La Garma 1625
+Paraje La Ruta 10
+Paraje La Agraria 40
+Jose B. Casas 40
 Barrio El Casal 267
 Barrio El Taladro 155
 Barrio Las Margaritas 29
 Las Martinetas 215
-Reta 495
-La Carreta 45
-Juan A. de la Pena 211
-Hale 211
-La Caleta 133
-La Violeta 1041
-
-Ezpeleta 85076
-
-Quilmes 262379
-Ordoqui 174
-La Delfina 26
-Delfin Huergo 14
-Energia 63
-Lucas Monteverde 63
-San Mayol 63
-San Mauricio 18
-America 11685
-Pichincha 18
-Chillar 3083
-Sierra Chica 4812
-Sierras Bayas 3118
-Villa Arrieta 731
-Aguas Verdes 902
-Arenas Verdes 12
-La Sofia 12
-Villa La Serrania 167
-Villa Alfredo Fortabat 3451
-Alfredo Demarchi 1853
-Pago Chico 327
-Mechita 1414
-
-Chivilcoy 58152
-Ramon Biaus 179
-Moquehua 2130
-Roque Perez 10358
-Barrio El Boqueron 509
-Salvador Maria 830
-Laguna de Lobos 509
-Lobos 29868
-Loberia 13005
-Tamangueyu 438
-Mechongue 1307
-San Agustin 498
-Los Pinos 337
-Los Naranjos 115
-Arana 712
-
-Sarandi 66714
-Crucecita 15292
-Villa Parque Cecir 33
-Villa Parque Girado 93
-Chascomus 32791
-Chasico 203
-Cachari 2960
-Pardo 159
-Olascoaga 127
-Agustin Mosconi 280
-Agustina 155
-Agustin Roca 331
-San Roman 38
-Villa Roth 38
-Alvarez Jonte 38
-Alvarez de Toledo 213
-Escalada 213
-Remedios de Escalada 12494
-Villa Maria Irene de los Remedios 1195
-Loma Hermosa 18346
-Ciudad Jardin Lomas del Palomar 18392
-
-El Palomar 59031
-El Pato 11774
-Ingeniero Juan Allan 39718
-Juan Maria Gutierrez 15558
-General Juan Madariaga 17875
-General La Madrid 8073
-Pueblo San Jorge 248
-Laprida 8840
-Coronel Pringles 20263
-Coronel Suarez 23621
-Santa Maria 1832
-Villa Maria 24
-Villa Ortiz 815
+Barrio Parque General San Martin 267
+Ciudad del Libertador General San Martin 32726
+Villa Libertad 10291
+Villa Lynch 3837
+Villa Maipu 24510
+Villa Martelli 24810
+Villa Marques Alejandro Maria de Agua 12614
+Villa Parque San Lorenzo 4534
+Villa Granaderos de San Martin 21571
+Villa Gregoria Matorras 16803
+Villa Godoy Cruz 5911
+Villa General Jose Tomas Guido 17868
+Villa General Antonio J. de Sucre 6751
+Villa General Juan G. Las Heras 11099
+Villa San Andres 9647
+Villa Yapeyu 3274
+Villa Lia 1182
 Villa Ruiz 477
 Villa Espil 157
 Tedin Uriburu 157
-Fortin Tiburcio 257
-Pearson 257
-Henderson 8645
-Magdala 195
-Salazar 1924
-Mones Cazon 1764
-Cazon 209
-Barrio Colinas Verdes 140
-Coronel Charlone 1348
-Emilio V. Bunge 1986
-San Emilio 142
-San German 152
-Esteban Agustin Gascon 104
+Uribelarrea 1282
+Laguna de Lobos 509
+Lobos 29868
+Barrio El Boqueron 509
 Barrio El Mirador 226
 
 Lomas del Mirador 71479
 
 La Tablada 102542
 Sundblad 63
-Blancagrande 65
-Rancagua 695
-Villa San Jose 145
-Villa Canto 732
-Todd 732
-Salto 27466
-Alto Los Cardales 1983
-Los Cardales 7174
-Carlos Casares 18347
-San Carlos de Bolivar 26242
-Urdampilleta 2643
-Pirovano 1551
-Roberto Cano 23
-Roberts 2982
-Pasteur 1962
-Porvenir 156
-Villa Francia 1176
-La Limpia 38
-Lima 10219
-Solis 1001
-Villa Grisolia 112
-Estacion Arenales 90
-Estacion Camet 5241
-Camet 12233
-Comandante Nicanor Otamendi 6623
-Andant 42
-Country Los Medanos 61
-Medanos 5245
-General Daniel Cerri 6745
-General Conesa 1302
-Costa Bonita 217
-
-Mariano Acosta 65881
-Marcos Paz 48452
-Villars 1147
-Villa Castelar 31
-Las Bahamas 31
-Las Armas 365
-Barrio Lomas Altas 61
-Barrio Las Quintas 10296
-Jose Melchor Romero 27065
-Jose Hernandez 6472
-Juan N. Fernandez 2721
-Nicanor Olivera 2131
-Ramon Santamarina 430
-Pinamar 9846
-Dunamar 191
-Saldungaray 1351
-Erezcano 434
-Villa La Arcadia 434
-Villa Arguello 6989
-Villa Nueva 2589
-Nueva Plata 206
-
-La Plata 191075
-Barrio Gambier 8055
-El Retiro 14791
-La Cumbre 8653
-Norumbega 57
-Carlos Beguerie 399
-Carlos Salas 234
-Carlos Tomas Sourigues 11959
-Ranelagh 18339
-Villa Espana 13179
-
-Berazategui 180523
-
-Zarate 97385
-Country Club El Casco 452
-Country Club El Rodeo 262
-Ochandio 51
-
-Tandil 116916
-La Constancia 49
-Capitan Castro 49
-Capitan Sarmiento 13088
-Tres Sargentos 391
-Tres Picos 82
-Tres Lomas 8061
-Quenuma 653
-Salliquelo 7617
-Villa Cacique 2689
-Lopez 138
-Maria Ignacia 1948
-Ignacio Correas 108
-La Baliza 108
-Casalins 66
-Sarasa 71
-Las Carabelas 1107
-Pinzon 393
-Mariano H. Alfonzo 993
-Villa Manuel Pomar 199
-Manuel Ocampo 1078
-Villa Angelica 1144
-La Angelita 265
-D'Orbigny 20
-Sol de Mayo 20
-25 de Mayo 23408
-Comodoro Py 634
-
-Moron 99066
-Morea 347
-
-Moreno 171849
-Paso del Rey 44684
-La Reja 47839
-La Rica 118
-Balneario Sauce Grande 118
-Balneario Orense 77
-La Invencible 77
-Los Indios 66
-Ines Indart 911
-Ernestina 145
-Vina 464
-Malvinas Argentinas 26080
-
-Burzaco 87759
-Emilio Ayarza 87
-La Emilia 2907
-Villa Campi 533
+Sansinena 522
+General Mansilla 2022
+General Rojo 2464
+Villa General Savio 1511
 Villa Ramallo 11280
 Ramallo 13319
-Gobernador Castro 2607
-San Pedro 47452
-Pedro Luro 9494
+Pueblo Doyle 528
+Pueblo Nuevo 36
+San Agustin 498
+Agustina 155
+Arroyo Corto 514
+
+San Nicolas de los Arroyos 132418
+Villa Riccio 1153
+Villa Campi 533
+Villa Canto 732
+Todd 732
+Bayauca 541
+Goyena 516
+Espigas 492
+Camet Norte 328
+Irineo Portela 379
+Reta 495
+La Carreta 45
+Juan A. de la Pena 211
 Juan A. Pradere 521
 Juan Couste 1993
+Medanos 5245
+Country Los Medanos 61
+Country Club El Casco 452
+El Cazador 3703
 
-San Justo 136604
+Belen de Escobar 60571
+Rincon de Milberg 45013
+Villa de Mayo 40915
+Campo de Mayo 847
+El Libertador 16233
 
-Villa Luzuriaga 94403
-Haedo 37745
-Villa Sarmiento 17481
+Ciudad Jardin El Libertador 62373
+Ciudad Jardin Lomas del Palomar 18392
 
-Ramos Mejia 120346
-Ramos Otero 95
-Timote 526
-Carlos Tejedor 5178
-Tres Algarrobos 3201
-General Villegas 18275
-Sansinena 522
-Villa Sauze 423
-El Paraiso 423
-El Divisorio 46
-Marisol 158
-Villa Iris 1858
-Darregueira 5547
-Pigue 14383
-Huanguelen 5020
-Laguna Alsina 1677
-Gunther 23
-Matheu 17290
-Fatima 6438
-Manzanares 5750
-Manzone 3508
-Roberto de Vicenzo 9723
-Santa Teresa 3901
-Santa Trinidad 1474
-La Trinidad 308
-Ferre 2004
+El Palomar 59031
+Loma Hermosa 18346
+Villa Maria Irene de los Remedios 1195
+Remedios de Escalada 12494
 
-Gregorio de Laferrere 248362
-Cerro de la Gloria 107
-Barrio La Gloria 415
-Barrio Universitario 1070
-Balneario Pehuen Co 681
-Arenaza 1328
-Maza 1748
-Isla Santiago Oeste 307
-Estela 2
-Orense 2063
-Gomez 362
-Balneario Laguna de Gomez 230
-Laguna Vitel 41
-Frente Mar 122
-Vicente Casares 787
-San Vicente 22552
-Alejandro Korn 33144
-Domselaar 2469
-Villa Gesell 29593
-Carilo 1249
-Del Carril 1270
-Saladillo 26763
-Velloso 127
-Avellaneda 31892
+Remedios Escalada de San Martin 79798
+Villa Centenario 48857
 
-Lanus 215956
-Valentin Alsina 41514
-Pineyro 27683
-Pereyra 2855
-Arturo Segui 4529
-Guillero Enrique Hudson 52697
-San Enrique 279
-Barrio Los Bosquecitos 124
-Barrio Las Golondrinas 383
-Barrio Las Malvinas 14728
-Cadret 214
-Barker 1241
-Barrio Kennedy 111
-Curaru 422
-Cura Malal 95
-Irala 400
-General O'Brien 2488
-Warnes 437
-Conesa 2066
-Carmen de Patagones 20533
-Centinela del Mar 1
-Bahia San Blas 611
+Banfield 246467
 
-Bahia Blanca 274082
-Villa Bordeau 1633
-Estacion Chapadmalal 1633
-Ingeniero White 10398
-Campos Salles 1184
-Campos de Roca 234
-Juan Bautista Alberdi 3404
-Ingeniero Thompson 150
-Colonia San Adolfo 109
-Colonia San Martin 92
+Lomas de Zamora 112580
+Lomas de Copello 420
 Colonia Sere 726
+Colonia San Martin 92
 Colonia Mauricio 8
 General Hornos 194
 
 Los Hornos 61126
 Rufino de Elizalde 6143
+Valdes 579
+Agustin Mosconi 280
+Agustin Roca 331
+San Roman 38
+Colonia San Ricardo 811
+Colonia San Miguel Arcangel 563
+
+San Miguel 168762
+Muniz 26844
+Country Club Las Praderas 535
+Club de Campo Las Malvinas 4
+Barrio Las Malvinas 14728
+Barrio Las Golondrinas 383
+Barrio Los Bosquecitos 124
+Barrio Los Pioneros 1823
+Alto Los Cardales 1983
+Los Cardales 7174
+Los Cachorros 7851
+Luis Lagomarsino 11984
+Posada de los Lagos 15
+Sierra de los Padres 1672
+Santa Clara del Mar 5586
+Santa Elena 555
+Barrio Santa Paula 644
+Barrio Santa Rosa 109
+Barrio Belgrano 169
+Centro Guerrero 114
+Carlos Beguerie 399
+Los Indios 66
+Casalins 66
+Mar Chiquita 487
+Copetonas 1017
+Moctezuma 471
+Monte Hermoso 6351
+
+Monte Grande 140420
+
+El Jaguel 55296
+Ringuelet 17776
+Huanguelen 5020
+Laguna Alsina 1677
+Villa Alsina 1488
+Baradero 28537
+Rio Tala 1814
+El Talar 50426
+Los Troncos del Talar 42018
+
+General Pacheco 55197
+General Pinto 6557
+General Arenales 4321
+Estacion Arenales 90
+Villa Grisolia 112
+Marisol 158
+Azcuenaga 312
+Jose Juan Almeyra 207
+Ingeniero Juan Allan 39718
+Juan Maria Gutierrez 15558
+
+Bosques 64096
+Estanislao Severo Zeballos 22913
+Velloso 127
+Bellocq 542
+San Francisco de Bellocq 523
+Gobernador Udaondo 330
+Villa Gobernador Udaondo 38314
+
+Ituzaingo 129510
+Santo Domingo 95
+
+Villa Dominico 60096
+
+Wilde 64231
+Don Bosco 23261
+Villa Bosch 25471
+Villa Bernardo Monteagudo 8646
+San Bernardo 8032
+Azopardo 95
+Pardo 159
+Cachari 2960
+Suipacha 8403
+Carapachay 15369
+Munro 35107
+Villa Adelina 29273
+Villa Astolfi 6306
+Villa Rosa 24476
+La Lonja 13662
+Del Viso 38419
+Cuartel V 48511
+
+Jose C. Paz 247217
+
+Grand Bourg 93794
+
+Tortuguitas 80084
+Piedritas 2160
+El Triunfo 1543
+El Trigo 43
+Villa Rodriguez 17
+
+General Rodriguez 83113
+Barrio Morabo 998
+Barrio Saavedra 1137
+
+Zarate 97385
+
+Campana 86860
+Villa Espana 13179
+
+Berazategui 180523
+Coronel Segui 146
+Arana 712
+
+Sarandi 66714
+Crucecita 15292
+Avellaneda 31892
+Solanet 47
+Castilla 689
+
+Rafael Castillo 147965
+
+Castelar 107786
+
+Moron 99066
+Martin Coronado 17049
+Villa Coronel Jose M. Zapiola 23264
+Coronel Boerr 15
+Coronel Brandsen 19877
+Samborombon 6
+Asamblea 7
+Gowland 1738
+Parada Orlando 1207
+Parada Robles 1186
+Torres 2664
+Lezica y Torrezuri 282
+Playa Dorada 282
+El Dorado 318
+Alberdi Viejo 318
+Gardey 532
+Labarden 799
+Cardenal Cagliero 89
+La Beba 37
+La Baliza 108
+Villa Ballester 37284
+Villa Brown 8028
+Villa San Luis 12766
+Villa Santa Rosa 30820
+Villa Vatteone 43215
+Villa Ventana 609
+Sierra de la Ventana 2165
+Erezcano 434
+Roque Perez 10358
+Moquehua 2130
+Villa Moll 592
+Villa Maria 24
+Villa Ortiz 815
+Alberti 8260
+Norberto de la Riestra 4524
+Pedernales 1432
+
+Bernal 116752
+
+Quilmes 262379
+
+Ezpeleta 85076
+La Caleta 133
+Elvira 133
 
 Villa Elvira 72610
 Villa Montoro 16644
-Villa Moll 592
-Norberto de la Riestra 4524
-Alberti 8260
-Alberdi Viejo 318
-Berdier 177
-El Perdido 919
-Coronel Dorrego 11510
-Coronel Segui 146
-Rafael Obligado 901
-Obligado 261
-El Cazador 3703
+Barrio El Carmen Este 7003
+Barrio El Carmen Oeste 6462
+Barrio El Coyunco 427
+Pla 192
+Pasman 165
+Juan F. Salaberry 4
+Juan F. Ibarra 33
+Villa Parque Cecir 33
+Villa Parque Girado 93
+Chascomus 32791
+Barrio San Cayetano 816
+San Cayetano 7354
+Ramon Santamarina 430
+Ramon Biaus 179
 
-Belen de Escobar 60571
-Mar de Cobo 519
-Mar de las Pampas 276
-Mar de Ajo 18111
-Mar Azul 1521
-
-Azul 55728
-Paula 40
-Mira Pampa 40
-
-Campana 86860
-Capilla del Senor 9244
-La Capilla 5409
-El Tropezon 3707
-El Trigo 43
-El Triunfo 1543
-Piedritas 2160
-Mar del Sur 453
-Irineo Portela 379
-Camet Norte 328
-Espigas 492
-Lartigau 22
-Espartillar 785
-Cascada 11
-Casbas 4450
+Chivilcoy 58152
+Gorostiaga 324
+San Sebastian 166
 Abasto 7470
 Lisandro Olmos 12824
 Villa Elisa 28704
 Transradio 4078
 City Bell 30181
-Bellocq 542
-La Larga 53
-Arroyo Venado 56
-Bordenave 852
-Oliden 183
-Goldney 85
-Asamblea 7
-Samborombon 6
-Coronel Boerr 15
-Coronel Brandsen 19877
-Posada de los Lagos 15
-Tolosa 48764
-Ringuelet 17776
-Manuel B. Gonnet 24288
 Joaquin Gorina 8571
-
-Garin 68599
-Garre 1036
-Tronge 23
-Villalonga 4517
-Stroeder 1998
-Hilario Ascasubi 3427
-Mayor Buratovich 5372
-Aeropuerto Internacional Ezeiza 5372
-Roberto J. Payro 65
-La Armonia 172
-Monte Hermoso 6351
-Moctezuma 471
-Fontezuela 365
-San Miguel del Monte 17005
-Zenon Videla Dorna 76
-Licenciado Matienzo 76
-Inocencio Sosa 31
-
-Florencio Varela 131841
-Las Flores 21455
-Dolores 25940
-Sevigne 286
-Dudignac 2670
-Villa Fournier 566
+Barrio Las Quintas 10296
+Barrio Gambier 8055
+El Retiro 14791
+El Remanso 3215
+Chacras del Rio Lujan 1621
+Rio Lujan 261
+Dique Lujan 5650
+Ingeniero Maschwitz 14778
+Ingeniero Pablo Nogues 45436
+Ingeniero Adolfo Sourdeaux 29652
+Ingeniero White 10398
+Ingeniero Moneta 20
+Sol de Mayo 20
+25 de Mayo 23408
 9 de Julio 36494
 16 de Julio 111
-20 de Junio 1597
+Barrio Kennedy 111
+Curaru 422
+Isla Santiago Oeste 307
+Maza 1748
+Ariel 16
+Yutuyaco 16
+Rivera 3217
+Olivera 1926
+Villa Flandria Sur 2993
+Villa Flandria Norte 6869
+Barrio Las Casuarinas 1006
+Cortinez 724
 
-Junin 87509
-Saforcada 431
-Leandro N. Alem 2468
-Vedia 8827
-Acevedo 1499
-Roosevelt 239
-De Bary 63
-Juan E. Barra 212
-Juan F. Ibarra 33
-C. C. Bosque Real 378
+Martinez 59715
+Acassuso 16605
+San Isidro 43595
 
-Bosques 64096
-Estanislao Severo Zeballos 22913
-Villa Ballester 37284
-Villa General Antonio J. de Sucre 6751
-Villa General Jose Tomas Guido 17868
-Villa General Juan G. Las Heras 11099
-General Las Heras 11331
+Beccar 61928
+Victoria 44959
+Barrio La Gloria 415
+Barrio Lomas Altas 61
+Andant 42
+Comandante Nicanor Otamendi 6623
+El Marquesado 196
+Miramar 29433
+Pinamar 9846
+Dunamar 191
+
+Mercedes 56116
+Jorge Born 191
+Pueblo San Jorge 248
+General La Madrid 8073
+General Lavalle 1827
+General Guido 1291
+General Piran 2934
+Coronel Vidal 6611
+Vivorata 956
+Atlantida 840
+Camet 12233
+Estacion Camet 5241
+Estacion Chapadmalal 1633
+Aeropuerto Internacional Ezeiza 5372
+Roberto Cano 23
+Roberts 2982
+Pasteur 1962
+Timote 526
+Carlos Tejedor 5178
+Carlos Keen 557
+Carlos Salas 234
+Carlos Spegazzini 27132
+Maximo Paz 7142
+Marcos Paz 48452
+Villars 1147
+Chillar 3083
+Lopez 138
+Vicente Lopez 22419
+Vicente Casares 787
+San Vicente 22552
+Alejandro Korn 33144
+Alejandro Petion 2759
+Barrios Lisandro de la Torre y Santa Marta 2008
+Santa Maria 1832
+Coronel Suarez 23621
+Coronel Pringles 20263
+Coronel Dorrego 11510
+El Perdido 919
+El Pensamiento 12
+La Sofia 12
+Ruta Sol 2312
+Barrio Ruta 24 Km. 10 826
+Barrio Rio Salado 265
+D'Orbigny 20
+La Angelita 265
+Villa Angelica 1144
+Manuel Ocampo 1078
+Villa Manuel Pomar 199
+Mariano H. Alfonzo 993
+
+Mariano Acosta 65881
+
+Merlo 268961
+San Antonio de Padua 40014
+San Antonio de Areco 19768
+San Andres de Giles 16243
+Cucullu 551
+Solis 1001
+Capilla del Senor 9244
+Villa del Mar 357
+Villa General Arias 1845
+Campos Salles 1184
+Villa Espora 1184
+Grunbein 4030
+
+Bahia Blanca 274082
+Bahia San Blas 611
+Stroeder 1998
+Villalonga 4517
+Longchamps 50876
+Ministro Rivadavia 19830
 General Rivas 478
 Carmen de Areco 12775
-Gahan 648
-Arrecifes 26400
-Torres 2664
-El Remanso 3215
-Parada Robles 1186
-Parada Orlando 1207
-Pavon 3607
-Navarro 13224
+Tres Sargentos 391
+Capitan Sarmiento 13088
+Villa Sarmiento 17481
 
-Olavarria 89721
-Fortin Olavarria 1086
-Massey 63
-Acassuso 16605
-Berisso 15266
-Ensenada 31863
-Dique No.1 6676
-Quequen 15874
-Trenque Lauquen 33442
+Ramos Mejia 120346
+Ramos Otero 95
+Maipu 8883
+Las Armas 365
+Malvinas Argentinas 26080
+
+Burzaco 87759
+Adrogue 24627
+Turdera 9625
+Banderalo 1339
+Guamini 2845
+
+Pergamino 91399
+Rancagua 695
+Blancagrande 65
+Roberto J. Payro 65
+Roberto de Vicenzo 9723
+Santa Teresa 3901
+Santa Teresita 15035
+Las Toninas 5278
+Pipinas 954
+Veronica 6546
+Punta Indio 569
+Villa Independencia 5883
+Villa Zula 5133
+Los Talas 614
+Los Toldos 14496
+Pago Chico 327
+Zavalia 327
+Llavallol 40272
+Luis Guillon 40241
+Guillero Enrique Hudson 52697
+Platanos 17360
+
+La Plata 191075
+Nueva Plata 206
+Pehuajo 31533
+Francisco Madero 1389
+Francisco Alvarez 34076
+La Reja 47839
+La Rica 118
+Balneario Sauce Grande 118
+Balneario Orense 77
+La Invencible 77
+De la Canal 57
+Norumbega 57
+La Delfina 26
+Ordoqui 174
+Carlos Maria Naon 497
+Fortin Tiburcio 257
+Fortin Acha 103
+Barrio Colinas Verdes 140
+Arenas Verdes 12
+Loma Verde 4147
+Matheu 17290
+Vina 464
+Arrecifes 26400
+Garre 1036
+Tronge 23
+Gunther 23
 30 de Agosto 4777
 17 de Agosto 319
 Bajo Hondo 164
 Morse 563
-Colonia San Miguel Arcangel 563
-Colonia San Miguel 902
-Colonia Hinojo 953
-Hinojo 2888
-Florentino Ameghino 7225
-Santa Eleodora 293
-Santa Regina 554
-Canada Seca 718
-De la Canal 57
-De La Garma 1625
-Adolfo Gonzales Chaves 9066
-Vasquez 43
-Colonia Nievas 10
-Paraje La Ruta 10
-Paraje La Agraria 40
-Barrio Parque Las Acacias 229
-Barrio Parque General San Martin 267
-Jeppener 2496
-Irene 13
-Micaela Cascallares 567
-Indio Rico 1054
-Villa Riccio 1153
-Aparicio 80
-Argerich 80
-Germania 1397
-Bermudez 72
-12 de Octubre 219
-Gorchs 338
-
-Don Torcuato 71356
-Victoria 44959
-Virreyes 38599
-
-Virrey del Pino 156132
-
-Gonzalez Catan 238067
-Gonzalez Moreno 1610
-Balneario San Cayetano 46
-Barrio San Cayetano 816
-San Cayetano 7354
-Platanos 17360
-Pla 192
-Barrio El Coyunco 427
-Bocayuva 83
-Libano 292
-Fortin Acha 103
-Villa Saboya 331
-
-Villa Santos Tesei 69165
-
-Hurlingham 61988
-Churruca 6133
-Billinghurst 17046
-Cabildo 2046
-Los Toldos 14496
-Zavalia 327
-O'Higgins 1206
-Chacabuco 38418
-Bragado 33222
-Azcuenaga 312
-Jose Juan Almeyra 207
-Juan Jose Paso 2176
-Francisco Madero 1389
-Francisco Alvarez 34076
-Cuartel V 48511
-
-Trujui 105546
-Villa Gobernador Udaondo 38314
-
-Ituzaingo 129510
-
-Monte Chingolo 87091
-
-Monte Grande 140420
-
-El Jaguel 55296
-Canning 13667
-Tristan Suarez 41918
-Carlos Spegazzini 27132
-Maximo Paz 7142
-Pablo Podesta 16274
-11 de Septiembre 5089
-
-Remedios Escalada de San Martin 79798
-Adrogue 24627
-Don Orione 45782
-
-Gobernador Julio A. Costa 63492
-Gobernador Ugarte 547
-Club de Campo Los Puentes 302
-Girodias 161
-Hortensia 224
-Ascension 4179
-General Mansilla 2022
-Villa Zula 5133
-Los Talas 614
-Los Troncos del Talar 42018
-El Talar 50426
-
-General Pacheco 55197
-Villa General Eugenio Necochea 32932
-Villa Jose Leon Suarez 18427
-Villa Coronel Jose M. Zapiola 23264
-Coronel Vidal 6611
-Atlantida 840
-
-Florida 78529
-Vicente Lopez 22419
 Lopez Lecube 32
 La Colina 663
 Berutti 1098
-Barrio Ruta 24 Km. 10 826
-Open Door 5856
+Country Club El Rodeo 262
+Ochandio 51
+
+Tandil 116916
+Capitan Castro 49
+Gobernador Castro 2607
+Gobernador Ugarte 547
+Club de Campo Los Puentes 302
+Girodias 161
+Arenaza 1328
+Balneario Pehuen Co 681
+Barrio Universitario 1070
+Hale 211
+Rafael Obligado 901
+Obligado 261
+Bragado 33222
+Mechita 1414
+Mechongue 1307
+Tamangueyu 438
+Loberia 13005
+Berisso 15266
+Villa San Carlos 8346
+San Carlos de Bolivar 26242
+Carlos Casares 18347
+Villa Fournier 566
+Villa Francia 1176
+Villa Roth 38
+Alvarez Jonte 38
+Alvarez de Toledo 213
+Escalada 213
+La Armonia 172
+Villa La Arcadia 434
+Villa La Serrania 167
+
+Olavarria 89721
+Sierras Bayas 3118
+Sierra Chica 4812
+La Choza 41
+Villa Chacabuco 6406
+Chacabuco 38418
+O'Higgins 1206
+Irala 400
+General O'Brien 2488
+Warnes 437
+Ernestina 145
+Teniente Origone 145
+Oriente 1778
+Irene 13
+Colonia Nievas 10
+Indio Rico 1054
+Micaela Cascallares 567
+Villa Castelar 31
+Las Bahamas 31
+Inocencio Sosa 31
+Licenciado Matienzo 76
+Mauricio Hirsch 76
+San Mauricio 18
+San Mayol 63
+Lucas Monteverde 63
+Pontevedra 39013
+20 de Junio 1597
+
+Gonzalez Catan 238067
+Gonzalez Moreno 1610
+Pichincha 18
+
+Monte Chingolo 87091
+San Miguel del Monte 17005
+Zenon Videla Dorna 76
+Villa Dolores 7104
+Dolores 25940
+Sevigne 286
+Castelli 6859
+Manuel J. Cobo 4647
+Pila 2502
 
 Pilar 92648
-Pila 2502
-Pipinas 954
-Veronica 6546
-Vieytes 287
-Magdalena 11093
-Barrio Banco Provincia 1651
-Lincoln 28051
-Colon 23206
-Colonia San Ricardo 811
-Felipe Sola 626
-Bayauca 541
-Atalaya 720
-Zelaya 3554
-Loma Verde 4147
-Herrera Vegas 115
-Balcarce 38376
-Marcelino Ugarte 76
-Mauricio Hirsch 76
-Triunvirato 76
-Patricios 745
-La Aurora 531
-El Pensamiento 12
+Presidente Derqui 48107
+Villa Parque Presidente Figueroa Alcorta 3743
 Saenz Pena 12008
 Villa Raffo 6837
 Jose Ingenieros 4867
 
 Caseros 92687
 Santos Lugares 16856
-Villa Yapeyu 3274
+
+Villa Santos Tesei 69165
+
+Hurlingham 61988
+Billinghurst 17046
+William C. Morris 50088
+Baigorrita 1848
+Tres Picos 82
+Tres Lomas 8061
+Quenuma 653
+Trenque Lauquen 33442
+Barrio Parque Las Acacias 229
+Arroyo de la Cruz 243
+Arroyo Dulce 1715
+Villa San Jose 145
+Juan Jose Paso 2176
+Villa Jose Leon Suarez 18427
+Villa Juan Martin de Pueyrredon 17287
+Villa Lynch Pueyrredon 62
+Urdampilleta 2643
+Pirovano 1551
+Daireaux 12122
+Mones Cazon 1764
+Salazar 1924
+Saladillo 26763
+Del Carril 1270
+Salvador Maria 830
+Las Marianas 485
+Las Toscas 485
+Abbott 603
+Felipe Sola 626
+Atalaya 720
+Zelaya 3554
+Fatima 6438
+Manzanares 5750
+Manzone 3508
+Pinzon 393
+Las Carabelas 1107
+Canuelas 29974
+San Manuel 1126
+Napaleofu 374
+Tapalque 7444
+Crotto 247
+
+Azul 55728
+Mar Azul 1521
+Villa Gesell 29593
+Carilo 1249
+General Juan Madariaga 17875
+General Conesa 1302
+Costa Bonita 217
+
+Gobernador Julio A. Costa 63492
+Don Orione 45782
+Claypole 47275
+
+Rafael Calzada 56505
+
+Temperley 111179
+
+Gerli 65114
+Pineyro 27683
+Valentin Alsina 41514
+
+Lanus 215956
+Villa Fiorito 47299
 
 Villa Eduardo Madero 132905
 Tapiales 23586
@@ -871,76 +678,269 @@ Aldo Bonzi 18175
 Ciudad Evita 92957
 
 Ciudadela 71335
-Villa Adelina 29273
-Villa Alsina 1488
-Baradero 28537
-Rio Tala 1814
+Villa Ayacucho 3890
+Ayacucho 17364
+La Constancia 49
+Villa Cacique 2689
+Maria Ignacia 1948
+Ignacio Correas 108
+Dudignac 2670
+Patricios 745
+Aparicio 80
+Argerich 80
+America 11685
+Fortin Olavarria 1086
+Massey 63
+De Bary 63
+Juan E. Barra 212
+Juan Anchorena 976
+Ranchos 7916
+General Belgrano 15394
+Triunvirato 76
+Mayor Buratovich 5372
+Hilario Ascasubi 3427
+Pedro Luro 9494
+San Pedro 47452
+Santa Lucia 2360
+Santa Coloma 203
+Santa Luisa 40
+La Luisa 230
+Balneario Laguna de Gomez 230
+Laguna Vitel 41
+Pueblo Gouin 122
+Pablo Podesta 16274
+11 de Septiembre 5089
+La Cumbre 8653
+Villa Catela 6064
+Dique No.1 6676
+Ensenada 31863
+Las Encadenadas 9
+Bordenave 852
+Villa Bordeau 1633
+General Daniel Cerri 6745
+General Alvear 9812
+Olascoaga 127
+Esteban Agustin Gascon 104
+San German 152
+San Emilio 142
+La Emilia 2907
+Villa Esperanza 386
+Conesa 2066
+Guerrico 774
+La Violeta 1041
 
-Grand Bourg 93794
+Bella Vista 79737
 
-Tortuguitas 80084
+Trujui 105546
+Paso del Rey 44684
+
+Moreno 171849
+Morea 347
+Cabildo 2046
+Claraz 639
+Claromeco 1890
+Jose Melchor Romero 27065
+Jose Hernandez 6472
+Juan N. Fernandez 2721
+
+San Fernando 76726
+Virreyes 38599
+
+Virrey del Pino 156132
+Los Pinos 337
+Los Naranjos 115
+Herrera Vegas 115
+Ferre 2004
+La Trinidad 308
+Santa Trinidad 1474
+Diego Gaynor 236
+Arroyo Venado 56
+Campos de Roca 234
+Juan Bautista Alberdi 3404
+Ingeniero Thompson 150
+Colonia San Adolfo 109
+Colon 23206
+Sarasa 71
+Ascension 4179
+Hortensia 224
+C. C. Bosque Real 378
+Vasquez 43
+Adolfo Gonzales Chaves 9066
+Tres Arroyos 46867
+Tres Algarrobos 3201
+General Villegas 18275
+Emilio V. Bunge 1986
+Emilio Ayarza 87
+Barker 1241
+Cadret 214
+Antonio Carboni 295
+Arboledas 632
+Polvaredas 392
+Blaquier 676
+Udaquiola 91
+Rauch 12705
+Las Flores 21455
+Marcelino Ugarte 76
+Balcarce 38376
+Villa Laguna La Brava 115
+Batan 10152
+Punta Mogotes 28199
+Punta Lara 10958
+
+Punta Alta 57958
+Altamirano 215
+Cerro de la Gloria 107
+
+Gregorio de Laferrere 248362
+
+Isidro Casanova 190696
+
+San Justo 136604
+
+Villa Luzuriaga 94403
+Haedo 37745
+
+Libertad 114625
+
+Junin 87509
+Saforcada 431
+Cascada 11
+Espartillar 785
+Pigue 14383
+Saavedra 2276
+Tornquist 6473
+La Gruta 52
+Saldungaray 1351
+Lartigau 22
+Coronel Martinez de Hoz 1041
+Perez Millan 4570
+Pereyra 2855
+Arturo Segui 4529
+Area Reserva Cinturon Ecologico 3391
 Area de Promocion El Triangulo 2754
 Ricardo Rojas 20474
 Rojas 19704
 Faro 20
-Claromeco 1890
-
-Necochea 68693
-Pieres 36
-
-Pergamino 91399
-Rincon de Milberg 45013
-Tigre 25982
-
-San Fernando 76726
-
-Boulogne Sur Mer 81762
-Munro 35107
-
-Glew 71934
-Longchamps 50876
-Ministro Rivadavia 19830
-Villa Vatteone 43215
-Laplacette 22
-Tornquist 6473
-Jorge Born 191
-Carlos Keen 557
-Carlos Maria Naon 497
-Las Marianas 485
-Goyena 516
-
-Benavidez 54797
-Benitez 68
-Mariano Benitez 168
-Benito Juarez 14279
+Ines Indart 911
 
 Los Polvorines 60867
-Los Angeles 54
-Angel Etcheverry 5136
-Pasman 165
-Smith 465
-Pehuajo 31533
-Carhue 9660
-Yutuyaco 16
-Puan 4743
-Maipu 8883
-General Guido 1291
-General Alvear 9812
-General Belgrano 15394
+
+Don Torcuato 71356
+Villa General Eugenio Necochea 32932
+
+Necochea 68693
+Quequen 15874
+Pieres 36
+Nicanor Olivera 2131
+
+Olivos 73155
+La Lucila 11966
+
+Florida 78529
+Laprida 8840
+Paula 40
+Mira Pampa 40
+La Pala 27
+Santo Tomas 27
+Carlos Tomas Sourigues 11959
+Ranelagh 18339
+Centinela del Mar 1
+Carmen de Patagones 20533
+El Pato 11774
+El Paraiso 423
+Acevedo 1499
+Villa Sauze 423
+Villa Saboya 331
+Santa Eleodora 293
+Santa Regina 554
+Coronel Charlone 1348
+Canada Seca 718
+La Limpia 38
+Germania 1397
+Porvenir 156
+Lincoln 28051
+Leandro N. Alem 2468
+Vedia 8827
+Arribenos 2910
+Pearson 257
+
+Boulogne Sur Mer 81762
+Mar del Sur 453
+Del Valle 899
+Comodoro Py 634
+
+Lujan 79098
+Open Door 5856
+Pavon 3607
+
+Guernica 75982
+El Tropezon 3707
+La Capilla 5409
+Domselaar 2469
+Canning 13667
+Tristan Suarez 41918
+Benito Juarez 14279
+Benitez 68
+Pontaut 68
+Franklin 87
+Gorchs 338
+12 de Octubre 219
+Duggan 573
+Bermudez 72
+La Larga 53
+
+Garin 68599
+Maquinista F. Savio 41569
+
+Benavidez 54797
+Tigre 25982
 
 9 de Abril 54502
-William C. Morris 50088
-Baigorrita 1848
-Diego Gaynor 236
-Gowland 1738
+Tolosa 48764
+Manuel B. Gonnet 24288
 Dock Sud 43168
-Area Reserva Cinturon Ecologico 3391
-La Lonja 13662
-Daireaux 12122
-Recalde 385
+Salto 27466
+Gahan 648
+Chasico 203
+Lima 10219
+Navarro 13224
+General Las Heras 11331
+Plomer 198
+Magdalena 11093
+Vieytes 287
+Barrio Banco Provincia 1651
+Carhue 9660
+Puan 4743
+Darregueira 5547
+Villa Iris 1858
+Salliquelo 7617
+San Enrique 279
+San Esteban 92
+Estela 2
+Orense 2063
+Gomez 362
+Bocayuva 83
+Libano 292
+Cazon 209
+Balneario San Cayetano 46
+El Divisorio 46
+Roosevelt 239
+Energia 63
+Jeppener 2496
+Churruca 6133
+Angel Etcheverry 5136
+Los Angeles 54
+Goldney 85
+Oliden 183
 Pellegrini 5115
-Arroyo Dulce 1715
-Gardey 532
-Franklin 87
-Lezica y Torrezuri 282
-La Choza 41
+Casbas 4450
+Chapadmalal 4112
+Cura Malal 95
+Fontezuela 365
+Recalde 385
+Dufaur 182
+Berdier 177
+Mariano Benitez 168
+Frente Mar 122
+Laplacette 22
+Delfin Huergo 14

@@ -1,6 +1,8 @@
 
 
 Providence 190934
+
+East Providence 47139
 North Providence 34114
 Johnston 29568
 
@@ -12,59 +14,57 @@ East Greenwich 14312
 West Greenwich 6528
 Coventry 35688
 Central Falls 22583
-
-Pawtucket 75604
-
-Woonsocket 43240
-Cumberland Hill 8140
-
-Cumberland 36405
-Westerly 18423
-Bradford 1457
-Bristol 22493
-Warren 11147
-Barrington 17153
-Kingston 7825
-South Kingstown 31931
-Wakefield-Peacedale 8925
-Smithfield 22118
-North Smithfield 12588
-North Kingstown 27732
 Valley Falls 12094
 Weekapaug 467
-Quonochontaug 422
-Foster Center 333
-Chepachet 1704
-Watch Hill 212
-Harmony 1036
-Richmond 8020
-Hopkinton 8398
-Hope Valley 1870
-Clayville 312
-Harrisville 1745
-Burrillville 16158
-Greenville 9061
-Greene 914
-Exeter 6460
-Glocester 9974
-Pascoag 4641
-Scituate 10384
-Misquamicut 434
-Carolina 924
-Lincoln 22529
-Little Compton 3616
-Newport East 12337
-Newport 25163
+Narragansett Pier 3308
+Narragansett 14532
 Jamestown 5559
 Middletown 17075
 Melville 1609
-Portsmouth 17871
-Tiverton 7809
+Burrillville 16158
+Pascoag 4641
+Exeter 6460
+Harrisville 1745
+Greene 914
+Greenville 9061
+Smithfield 22118
+North Smithfield 12588
 
-East Providence 47139
-Narragansett Pier 3308
-Narragansett 14532
-Charlestown 7997
-Ashaway 1501
-New Shoreham 1410
+Woonsocket 43240
+
+Pawtucket 75604
+Little Compton 3616
+Tiverton 7809
+Bristol 22493
+Warren 11147
+Barrington 17153
+
+Cumberland 36405
+Cumberland Hill 8140
+Watch Hill 212
+Harmony 1036
 Wyoming 415
+Foster Center 333
+Quonochontaug 422
+Chepachet 1704
+Hope Valley 1870
+Clayville 312
+Ashaway 1501
+Carolina 924
+Misquamicut 434
+North Kingstown 27732
+South Kingstown 31931
+Kingston 7825
+Wakefield-Peacedale 8925
+Richmond 8020
+Hopkinton 8398
+Bradford 1457
+Westerly 18423
+Glocester 9974
+Scituate 10384
+Newport 25163
+Newport East 12337
+Portsmouth 17871
+Lincoln 22529
+Charlestown 7997
+New Shoreham 1410

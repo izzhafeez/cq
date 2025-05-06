@@ -3,6 +3,30 @@
 Fortaleza 2686612
 
 Caucaia 365212
+Tururu 16431
+Uruburetama 22040
+Ibaretama 13369
+Ibicuitinga 12629
+Itaitinga 38325
+
+Pacatuba 84554
+
+Pacajus 73188
+Horizonte 68529
+Pereiro 16331
+Erere 7225
+Alto Santo 17196
+Brejo Santo 49842
+Porteiras 14958
+Penaforte 9143
+
+Juazeiro do Norte 276264
+Barbalha 61228
+Palhano 9422
+Itaicaba 7866
+Fortim 16631
+
+Aracati 74975
 
 Maracanau 229458
 
@@ -12,18 +36,31 @@ Tiangua 76537
 Ubajara 35047
 Carnaubal 17685
 Sao Benedito 48131
-Sao Joao do Jaguaribe 7601
-Jaguaribara 11492
-Jaguaribe 34636
-Jaguaretama 18147
-Ibaretama 13369
-Ibicuitinga 12629
-Itaitinga 38325
+Graca 14407
+Guaraciaba do Norte 40784
+Antonina do Norte 7378
+Santana do Cariri 17712
+Santana do Acarau 32654
+Massape 39044
+Meruoca 15185
+Uruoca 13915
+Moraujo 8779
+Coreau 23239
+Saboeiro 15788
+Aiuaba 17493
+Tarrafas 8573
+Quixelo 16147
 
-Pacatuba 84554
-
-Pacajus 73188
-Horizonte 68529
+Iguatu 103074
+Carius 18699
+Jucas 24892
+Varzea Alegre 40903
+Granjeiro 4814
+Granja 54962
+Camocim 63907
+Barroquinha 15044
+Frecheirinha 14134
+Morrinhos 22685
 Chorozinho 20274
 Choro 13565
 
@@ -31,174 +68,137 @@ Quixada 88321
 
 Quixeramobim 81778
 Quixere 22293
-Quixelo 16147
-
-Iguatu 103074
-Aratuba 11802
-Baturite 35941
-Mauriti 48168
-Aurora 24610
-Lavras da Mangabeira 31492
-Poranga 12347
-Ipaporanga 11596
-Ararenda 10959
-Araripe 21654
-Campos Sales 27470
-Salitre 16635
-Assare 23478
-Altaneira 7650
-Arneiroz 7844
+Limoeiro do Norte 59890
+Tabuleiro do Norte 30807
+Sao Joao do Jaguaribe 7601
+Jaguaribara 11492
+Jaguaribe 34636
+Jaguaretama 18147
+Solonopole 18357
 Piquet Carneiro 17086
 Deputado Irapuan Pinheiro 9662
-Frecheirinha 14134
-Barroquinha 15044
-Barro 22758
-Abaiara 11853
-Aracoiaba 26535
+Milha 13142
+Forquilha 24452
+
+Sobral 210711
+Alcantaras 11781
+Santa Quiteria 43711
+Hidrolandia 20053
+Varjota 18471
+Reriutaba 18385
+Pires Ferreira 11001
+Ipueiras 38114
+Ipu 42058
+Croata 18133
+Monsenhor Tabosa 17249
+Tamboril 26225
+Mucambo 14549
+Ibiapina 25082
+Salitre 16635
+Campos Sales 27470
+Araripe 21654
+Ararenda 10959
+Poranga 12347
+Ipaporanga 11596
+Guaramiranga 5132
 Pacoti 12288
-Paramoti 12252
+Mulungu 10941
+Baturite 35941
+Aracoiaba 26535
+Capistrano 17786
+Itapiuna 20520
+
+Itapipoca 130539
+Itapaje 53067
+Nova Olinda 15684
+Altaneira 7650
+Arneiroz 7844
+Madalena 19864
+Jati 8130
+Jardim 27181
+Abaiara 11853
+Missao Velha 35480
+Sao Luis do Curu 13044
+Paracuru 35304
+Paraipaba 32992
 Parambu 31455
 Quiterianopolis 21166
 Novo Oriente 28673
-Nova Russas 32408
-
-Russas 78882
-Palhano 9422
-Barbalha 61228
-Missao Velha 35480
-Milha 13142
-Solonopole 18357
-Martinopole 11321
-Pacuja 6549
+Pentecoste 37900
+Umirim 19903
 Ipaumirim 12485
-Santana do Cariri 17712
-Antonina do Norte 7378
-Catunda 10376
+Senador Sa 7691
+Milagres 27462
+Pacuja 6549
+Martinopole 11321
 Farias Brito 19389
+Catunda 10376
+Potengi 11106
+Chaval 13091
+Mauriti 48168
+Barro 22758
+Aurora 24610
+Lavras da Mangabeira 31492
+Cedro 25585
+Ico 68162
+Oros 21384
+Umari 7736
+Baixio 6303
 Caririacu 26987
 Carire 18459
 Groairas 11144
-Alcantaras 11781
-Santana do Acarau 32654
-Massape 39044
-Meruoca 15185
-Uruoca 13915
-Moraujo 8779
-Coreau 23239
-Pindoretama 20769
-Cascavel 72232
-Beberibe 53949
+
+Crato 133031
+
+Crateus 75159
+Independencia 26187
+
+Caninde 77244
+Caridade 22782
+Paramoti 12252
+General Sampaio 7694
+Apuiares 14672
+Icapui 20060
+Jaguaruana 33834
+
+Russas 78882
+Nova Russas 32408
+Morada Nova 61738
+Banabuiu 18256
+Senador Pompeu 25456
+Mombaca 43858
+Pedra Branca 43309
+Boa Viagem 54577
+Itatira 21836
+Tejucuoca 19371
+Iraucuba 24305
+Miraima 13894
+Amontada 43829
+Marco 27595
 Bela Cruz 32722
 Cruz 24977
 Acarau 63104
 Acarape 15036
 Redencao 29146
-Independencia 26187
-
-Caninde 77244
-Caridade 22782
-Carius 18699
-Jucas 24892
-Tejucuoca 19371
-Iraucuba 24305
-Miraima 13894
-Amontada 43829
-Morada Nova 61738
-Limoeiro do Norte 59890
-Tabuleiro do Norte 30807
-
-Juazeiro do Norte 276264
-Porteiras 14958
-Penaforte 9143
-Fortim 16631
-
-Aracati 74975
-Graca 14407
-Guaraciaba do Norte 40784
-Pires Ferreira 11001
 Barreira 22573
-Pereiro 16331
-Erere 7225
-Iracema 14326
-Itarema 42215
-Marco 27595
-Umari 7736
-Baixio 6303
-Aiuaba 17493
-Guaiuba 26290
-Jaguaruana 33834
-Itaicaba 7866
-Icapui 20060
-Apuiares 14672
-General Sampaio 7694
-Senador Sa 7691
-Milagres 27462
-Varzea Alegre 40903
-Granjeiro 4814
-Granja 54962
-Camocim 63907
-Jijoca de Jericoacoara 20087
-Ico 68162
-Oros 21384
-Cedro 25585
-Pedra Branca 43309
-Mombaca 43858
-Senador Pompeu 25456
-Monsenhor Tabosa 17249
-Tamboril 26225
-Mucambo 14549
-Ibiapina 25082
-Itapiuna 20520
-Capistrano 17786
-Trairi 56291
-Paraipaba 32992
-Paracuru 35304
-Tururu 16431
-Uruburetama 22040
-Sao Luis do Curu 13044
-Sao Goncalo do Amarante 48869
-Pentecoste 37900
-Umirim 19903
-Itapaje 53067
-
-Itapipoca 130539
 Ocara 25833
-Guaramiranga 5132
-Mulungu 10941
-Palmacia 13439
-Acopiara 54481
-Catarina 20871
-Saboeiro 15788
-Tarrafas 8573
-Nova Olinda 15684
-
-Crato 133031
-
-Crateus 75159
-Croata 18133
-Ipu 42058
-Ipueiras 38114
-Hidrolandia 20053
-Varjota 18471
-Reriutaba 18385
-Banabuiu 18256
-
-Sobral 210711
-Forquilha 24452
 
 Aquiraz 80935
 Eusebio 54337
+Pindoretama 20769
+Cascavel 72232
+Beberibe 53949
+Guaiuba 26290
+Palmacia 13439
+Aratuba 11802
 Vicosa do Ceara 61410
+Sao Goncalo do Amarante 48869
+Trairi 56291
 Taua 59062
-Boa Viagem 54577
-Itatira 21836
-Jati 8130
-Jardim 27181
-Brejo Santo 49842
-Alto Santo 17196
+Catarina 20871
+Acopiara 54481
+Itarema 42215
+Jijoca de Jericoacoara 20087
+Assare 23478
+Iracema 14326
 Potiretama 6437
-Potengi 11106
-Chaval 13091
-Madalena 19864
-Santa Quiteria 43711
-Morrinhos 22685

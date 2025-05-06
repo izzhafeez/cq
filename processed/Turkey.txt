@@ -2,55 +2,55 @@
 
 Istanbul 15214177
 Kinali 3318
-Gurpinar 29411
-Mimarsinan 31002
-Marmaracik 6182
-Marmara Ereglisi 10956
-Sultankoy 2708
-Canta 5470
-Kofcaz 1647
-Kirklareli 58223
-Uskup 2272
-Kuplu 2780
-Yakuplu 28811
-Boyalik 11835
-Durusu 2782
-Karacakoy 3105
-Ortakoy 3835
-Kavakli 50502
-Buyuk Sinekli 700
-Buyukcavuslu 3840
-
-Cerkezkoy 84234
-Arikoy 2000
 Adalan 4000
-Lalapasa 2771
+Enez 4119
+Ipsala 8060
+Buyukcavuslu 3840
+Buyuk Sinekli 700
+Canta 5470
+Sultankoy 2708
+Marmara Ereglisi 10956
+Marmaracik 6182
+
+Corlu 202578
+Velimese 7893
 Selimpasa 10563
 Celaliye 7788
+Ortakoy 3835
+Kavakli 50502
+Pehlivankoy 3153
+Babaeski 26724
+
+Luleburgaz 90899
 Kumburgaz 11949
 Tepecik 21699
+Mimarsinan 31002
+Gurpinar 29411
+Pinarhisar 11180
+Uskup 2272
+Kirklareli 58223
+Kofcaz 1647
+Lalapasa 2771
+
+Edirne 126470
+Havsa 7510
+Uzunkopru 36470
+Meric 2921
+Kuplu 2780
+Yakuplu 28811
+Muratbey 2164
+Karacakoy 3105
+Malkara 27427
+Kesan 44644
 
 Tekirdag 122287
 Kumbag 2069
 Ucmakdere 210
-Malkara 27427
-Kesan 44644
-Ipsala 8060
-Meric 2921
-Uzunkopru 36470
-Pehlivankoy 3153
-Babaeski 26724
 Hayrabolu 19793
 Gelibolu 25178
-Velimese 7893
 
-Corlu 202578
-
-Luleburgaz 90899
-Pinarhisar 11180
+Cerkezkoy 84234
+Boyalik 11835
+Durusu 2782
+Arikoy 2000
 Vize 11027
-Enez 4119
-
-Edirne 126470
-Havsa 7510
-Muratbey 2164

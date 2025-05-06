@@ -5,176 +5,176 @@ Hobart 178009
 Kingston 10409
 
 Margate 3920
-Shearwater 1764
-Port Sorell 2022
-
-Devonport 23046
-Spreyton 1669
-Tarleton 380
-Taranna 156
-Mathinna 142
-Murdunna 309
-Dunalley 316
-Forcett 964
-Lewisham 691
-Dodges Ferry 2467
-Glengarry 525
-Hagley 335
-Ridgley 604
-
-Somerset 3903
-
-Ulverstone 14109
 Pelverata 206
 Ranelagh 1268
-Franklin 1094
 Huonville 2714
 Pontville 623
 Garden Island Creek 247
 Rossarden 42
-Blue Rocks 15
-Lune River 24
-Dover 854
-Geeveston 1302
-Cygnet 1556
-Exeter 633
-Kettering 803
-Fingal 405
-Pyengana 104
-Miena 87
-Lapoinya 119
-Levendale 123
-Ellendale 241
-Alonnah 137
-Triabunna 874
-Riana 326
+Westerway 225
+Winnaleah 225
+Mathinna 142
+Taranna 156
 Lunawanna 96
 Poatina 96
-Boat Harbour Beach 74
-Ringarooma 338
-Marrawah 131
+Buckland 179
+Hamilton 211
+Bicheno 943
+Gretna 211
+Whitemore 198
 Waratah 245
 Parattah 159
-Campania 934
-Richmond 1464
-Cremorne 526
-Whitemore 198
-Mole Creek 514
-Blackwood Creek 134
-Blackwall 270
-Heybridge 430
-Tunbridge 145
-Uxbridge 26
-
-New Norfolk 5432
 Orford 626
 
 Longford 3863
 
 Perth 2965
-Hadspen 2275
+Evandale 1345
+Levendale 123
+Ellendale 241
+Alonnah 137
+Neika 198
+Scamander 638
+Meander 328
+Deloraine 2848
+Westbury 2006
+Hagley 335
+Ridgley 604
 
-Penguin 3849
-Gawler 622
+Somerset 3903
+
+Burnie 19385
+
+Wynyard 6001
+Sisters Beach 465
 Hawley Beach 483
 Beaconsfield 1298
-Beauty Point 1222
+Sheffield 1552
+Tarleton 380
+Spreyton 1669
+
+Devonport 23046
+Port Sorell 2022
+Shearwater 1764
+Saltwater River 123
+Arthur River 57
+Lune River 24
+Dover 854
+Geeveston 1302
+
+Launceston 75329
+
+Legana 4029
+Pyengana 104
+Miena 87
+Lapoinya 119
 Dennes Point 49
 Upper Castra 77
-Grassy 139
-Cressy 1111
-Snug 1199
-Nubeena 481
-Queenstown 1790
-Gormanston 17
 Strahan 708
 Rosebery 708
-Ouse 303
-Seymour 25
-Swansea 866
-Conara 130
-Nile 154
-Seven Mile Beach 1286
-Coles Bay 353
-Barnes Bay 22
-Tullah 163
-Beulah 79
-Plenty 93
+Gormanston 17
+Queenstown 1790
+
+George Town 4347
+Campbell Town 996
 Adventure Bay 195
 Ansons Bay 31
 Caveside 133
-Bicheno 943
-St Helens 2070
-St Marys 682
-Beaumaris 289
-Stieglitz 561
-
-Legana 4029
-Grindelwald 965
-Meander 328
-Deloraine 2848
+Fingal 405
 Mangalore 422
 Deddington 121
 Ross 404
 Bridport 1568
-Sandfly 310
-Hamilton 211
+Uxbridge 26
 
-Smithton 3881
-Leith 415
-Neika 198
-Bracknell 459
-Hillwood 578
-Woodbridge 503
-Derwent Bridge 23
-Kelso 146
-Kempton 386
-Eaglehawk Neck 385
-Zeehan 712
-Liffey 155
-Clifton Beach 588
-Sisters Beach 465
-
-Wynyard 6001
-
-Burnie 19385
-Westbury 2006
-
-Launceston 75329
-Evandale 1345
-Lilydale 596
-Scottsdale 2373
+New Norfolk 5432
+Magra 699
+Bagdad 1356
+Campania 934
+Richmond 1464
+Forcett 964
+Lewisham 691
+Dodges Ferry 2467
 Branxholm 267
-Lulworth 165
+Scottsdale 2373
+Lilydale 596
 Pipers River 426
 Lefroy 76
-Boyer 40
-Saltwater River 123
-Arthur River 57
-Buckland 179
-Scamander 638
-Derby 173
-Sorell 2907
+Lulworth 165
+Forth 711
 Bothwell 485
-Campbell Town 996
+Whitemark 301
+Kettering 803
+Lady Barron 158
+Blackwall 270
+Blackwood Creek 134
+Boat Harbour Beach 74
+Ringarooma 338
+Marrawah 131
+Kempton 386
+Grassy 139
+Eaglehawk Neck 385
+Liffey 155
+Weymouth 129
+Seymour 25
+St Marys 682
+Beaumaris 289
+Beauty Point 1222
+Glengarry 525
+Grindelwald 965
+Hadspen 2275
+Nile 154
+Conara 130
+Swansea 866
+Derby 173
+Seven Mile Beach 1286
+Coles Bay 353
+Barnes Bay 22
+Tullah 163
+Riana 326
+Sorell 2907
+Cressy 1111
+Snug 1199
+Gunns Plains 171
+Glen Huon 661
+Heybridge 430
+Tunbridge 145
+Woodbridge 503
+Cygnet 1556
+Franklin 1094
 
-George Town 4347
+Ulverstone 14109
+Gawler 622
+
+Penguin 3849
+Leith 415
 
 Latrobe 4169
-Lady Barron 158
-Forth 711
-Whitemark 301
-Breadalbane 108
-Bagdad 1356
-Magra 699
-Gretna 211
-Cradoc 445
-Sheffield 1552
+
+Smithton 3881
+St Helens 2070
+Stieglitz 561
+Triabunna 874
+Murdunna 309
+Kelso 146
 Currie 768
-Glen Huon 661
-Gunns Plains 171
-Winnaleah 225
+Zeehan 712
+Exeter 633
+Hillwood 578
+Bracknell 459
+Mole Creek 514
+Derwent Bridge 23
+Clifton Beach 588
+Cremorne 526
+Nubeena 481
+Dunalley 316
 Stanley 481
-Westerway 225
-Weymouth 129
+Cradoc 445
+Boyer 40
+Blue Rocks 15
+Sandfly 310
+Ouse 303
+Breadalbane 108
+Plenty 93
+Beulah 79
 Bellingham 60

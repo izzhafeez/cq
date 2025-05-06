@@ -1,107 +1,27 @@
 
 
 Virginia Beach 459470
-Colonial Beach 3908
-Colonial Heights 18170
-Villa Heights 638
-Collinsville 7380
-Martinsville 13485
-Gordonsville 1402
-Earlysville 1153
 
-Charlottesville 46553
-Charlotte Court House 505
-Chase City 2053
-Pamplin City 138
+Norfolk 238005
 
-Dale City 72088
-
-Montclair 22279
-Claremont 305
-Falls Mills 305
-Hillsboro 114
-Flint Hill 222
-Independent Hill 10165
-
-Cherry Hill 23683
-Laurel Hill 8307
-Laurel 17769
-Dumbarton 8506
-Norton 3687
-
-Lorton 20072
-Newington Forest 12957
-Newington 13223
-Kingstowne 16825
-Kings Park 4537
-Kings Park West 13465
-
-West Springfield 23369
-
-Springfield 31339
-North Springfield 7430
-Ravensworth 2680
-Raven 1988
+Suffolk 94324
+Franklin 8180
+Boykins 516
+Courtland 1295
+Scotland 153
+Quinby 285
+Quantico 578
+Laurel Park 657
+Parksley 816
+Pennington Gap 1624
+Allison Gap 610
 Seven Mile Ford 664
 Seven Corners 9131
-
-Bailey's Crossroads 24749
-Lake Barcroft 9770
-Lake Caroline 2511
-Lake Land'Or 4555
-Ashland 7565
-East Highland Park 15131
-Highland Springs 16604
-Sandston 7779
-Woodstock 5807
-Rockwood 8685
-Woodlake 7493
-Bellwood 7678
-
-Meadowbrook 20898
-Bensley 5971
-Tasley 222
-Sedley 517
-Scottsburg 127
-Scottsville 524
-Wattsville 1341
-Heathsville 136
-Hillsville 2884
-Nickelsville 378
-Barboursville 177
-Nottoway Court House 63
-Washington 86
-Lexington 7320
-East Lexington 1824
-Saltville 1824
-Eastville 300
-Montvale 635
-Belmont 10268
-Lansdowne 12427
-Shawneeland 2248
-Lake Holiday 2196
-
-Winchester 28120
-Chester Gap 894
-
-Chester 23414
-Manchester 12129
-Bon Air 18022
-Glen Allen 16187
-Glen Lyn 95
-Clinchport 64
-Clinchco 244
-Jewell Ridge 149
-
-Lake Ridge 46162
-
-Woodbridge 44668
-
-Marumsco 35036
-Ferrum 1827
-Merrimac 2858
-
-Merrifield 20488
+Westlake Corner 1553
+North Shore 3332
+Stewartsville 533
+Drakes Branch 533
+Long Branch 7890
 Wakefield (Fairfax County) 11805
 
 Fairfax 24146
@@ -114,627 +34,707 @@ Burke Centre 17518
 Burke 42312
 Burkeville 417
 Lawrenceville 1014
-Temperanceville 308
-Atlantic 808
-Quantico 578
+La Crosse 614
+South Hill 4690
+South Boston 7966
+Riverdale 949
+Cloverdale 3410
+Lake Monticello 10126
+New Church 256
+Shenandoah Retreat 549
+Loch Lomond 4050
+
+Richmond 226610
+Manchester 12129
+
+Chester 23414
+Bellwood 7678
+Rockwood 8685
+Woodlake 7493
+Brandermill 13730
+Brandy Station 191
+Mathews 525
+Onley 532
+Max Meadows 553
+Ripplemead 306
+Hollymead 8601
+Earlysville 1153
+McGaheysville 978
+Keysville 807
+Whitesville 215
+
+Charlottesville 46553
+Charlotte Court House 505
+Amelia Court House 965
+King and Queen Court House 82
+Boones Mill 259
+Falls Mills 305
+Hillsboro 114
+Flint Hill 222
+Independent Hill 10165
+
+Cherry Hill 23683
+Laurel Hill 8307
+
+Lorton 20072
+Norton 3687
+Wise 2971
+Dante 572
+Castlewood 1704
+Fincastle 755
+Mallow 671
+Covington 5737
+Irvington 474
+Kilmarnock 1445
+Tappahannock 2193
+Warsaw 1637
+Gwynn 578
+Dayton 1688
 Stickleyville 279
 Berryville 4574
 Paris 44
 Shenandoah Farms 4135
 Shenandoah Shores 1112
-Shenandoah 2486
-Elkton 2941
+Kenbridge 1112
 
-Oakton 36732
+Woodbridge 44668
 
-Reston 63226
-
-Herndon 24655
-Hutchison 6231
-Madison 205
-Madison Heights 10893
-
-Lynchburg 79009
-Rustburg 1281
-Gasburg 408
-Strasburg 7083
-Edinburg 1178
-
-Harrisonburg 51814
-Massanetta Springs 6384
-Massanutten 2164
-McGaheysville 978
-Keysville 807
-Whitesville 215
-White Stone 380
-East Stone Gap 537
-Big Stone Gap East 687
-Big Stone Gap 5254
-Keokee 330
-Honaker 1217
-Verona 4398
-
-Staunton 25750
-Vinton 8059
-Laymantown 1867
-Haymarket 1545
-Manassas Park 17219
+Lake Ridge 46162
+Blue Ridge 3185
+Nassawadox 533
 
 Manassas 42772
-Innovation 926
-Union Mill 4997
-Union Hall 1328
-Pennington Gap 1624
-Belmont Estates 1263
-Moorefield Station 4421
-Brandy Station 191
-Osaka 132
-Oak Hall 226
-Oak Level 803
-Stanleytown 1385
-Bassett 1028
-Hiwassee 212
-Arrington 718
-
-Arlington 238643
-Huntington 13749
-Fort Hunt 17231
-Fort Belvoir 7637
-Belview 1128
-Plum Creek 1350
-Rich Creek 749
-Deep Creek 94
-Greenbush 224
-Dahlgren Center 724
-Dahlgren 2946
-Greenville 887
-Bowling Green 1168
-Wintergreen 346
-County Center 3787
-Ridgeway 752
-Bridgewater 6596
-Weyers Cave 2700
-Fishersville 9629
-Ruckersville 1484
-Piney Mountain 1880
-Mountain Road 1009
-Mount Hermon 4057
-Blairs 841
-Bland 383
-Midland 214
-Middleburg 669
-Middlebrook 184
-Weems 184
-Dooms 1279
-Loch Lomond 4050
-Lake Monticello 10126
-New Church 256
-Falls Church 14658
-
-West Falls Church 30243
-Benns Church 1453
-Phenix 232
-Stephens City 2016
+Manassas Park 17219
+Kings Park West 13465
+Kings Park 4537
+Kingstowne 16825
+Franconia 18943
+Onancock 1169
+Bobtown 267
+Scottsville 524
+Wattsville 1341
+Heathsville 136
+Jonesville 872
+Duffield 73
+St. Charles 73
+Cape Charles 1178
 Charles City 104
 Warfield 104
 Fairfield 257
 Bluefield 5096
-Fieldale 852
-Hayfield 4154
-
-Woodlawn (Fairfax County) 20859
-
-Rose Hill (Fairfax County) 21045
-Belle Haven (Fairfax County) 6851
-Bull Run (Fairfax County) 6972
-Bull Run (Prince William County) 16794
-Sudley 19008
-Onley 532
-Rectortown 121
-Brucetown 274
-Boyce 749
-Floyd 448
-Boydton 302
-Sperryville 302
-Carrsville 346
-Pungoteague 346
-Glasgow 1052
-Goochland 899
-Richlands 5261
-Cedar Bluff 1069
-Sugar Grove 610
-Allison Gap 610
-Allisonia 111
-Port Republic 408
-Dublin 2682
-Pulaski 8985
-Baskerville 120
-Modest Town 120
-Savage Town 72
-Horntown 912
-Captains Cove 1544
-Stevens Creek 240
-Stony Creek 209
-Harriston 948
-Rocky Gap 87
-Eagle Rock 209
-Big Rock 199
-Union Level 161
-Clifton 243
-Mount Clifton 110
-Troutdale 145
-Troutville 458
-Daleville 3070
-
-Centreville 73518
-
-Chantilly 24301
-Sully Square 2300
-Floris 8341
-
-Franklin Farm 19189
-Franklin 8180
-Courtland 1295
-Scotland 153
-Quinby 285
-Dunbar 79
-Deerfield 110
-Brightwood 1064
-Hallwood 202
-Idylwood 17954
-Woodburn 8797
-Mantua 7503
-Stuart 1431
-Horse Pasture 2058
-Pastoria 627
+Moorefield Station 4421
+Belmont Estates 1263
+Belmont 10268
+Lansdowne 12427
+Middleburg 669
+Gasburg 408
+Strasburg 7083
+Edinburg 1178
+Lunenburg 142
 Victoria 1734
 Emporia 5766
 Jarratt 652
 Gratton 865
 Springville 1043
 Belspring 204
-Thynedale 152
-Cleveland 136
-Sandy Level 464
-Shenandoah Retreat 549
-Sherando 696
-Calverton 279
-Cloverdale 3410
-Clover 366
-Virgilina 126
-Blue Ridge Shores 801
-Blue Ridge 3185
-Stone Ridge 15039
 
-South Riding 33877
-South Run 6462
-Crosspointe 5722
-La Crosse 614
-South Hill 4690
-South Boston 7966
-Boston 454
+Springfield 31339
+North Springfield 7430
+
+West Springfield 23369
+Ravensworth 2680
+Raven 1988
+Richlands 5261
+Cedar Bluff 1069
+Claypool Hill 1699
+Round Hill 693
+Purcellville 8929
+Dinwiddie 619
+Mount Sidney 678
+Mount Hermon 4057
+Mountain Road 1009
+Halifax 1118
+Nathalie 173
+Greenbackville 173
+Greenbush 224
+Greenbriar 8421
+Navy 4327
+
+Franklin Farm 19189
+Floris 8341
+Dunn Loring 9464
+Idylwood 17954
+Woodburn 8797
+Mantua 7503
+Laymantown 1867
+Horntown 912
+Captains Cove 1544
 Belle Haven (Accomack County) 543
 Meadows of Dan 72
-Max Meadows 553
-Ripplemead 306
-Hollymead 8601
-Hollins 15574
-Elliston 855
-Shawsville 1241
+Columbia 72
+Boston 454
 
-Christiansburg 23348
+Reston 63226
+Eggleston 143
+Catlett 331
+Lancaster 105
+Mechanicsburg 81
+Stanardsville 349
+Powhatan 402
+Low Moor 402
+Cliftondale Park 266
+Clifton 243
+Accomac 519
+Mendota 135
+Aldie 70
+Franktown 61
+Yorktown 221
+Keezletown 369
+Middletown 1355
+Twin Lakes 1602
+Apple Mountain Lake 1400
+Skyland Estates 862
+Loudoun Valley Estates 11436
+One Loudoun 2285
+University Center 3969
+County Center 3787
+Ridgeway 752
+Bridgewater 6596
 
-Blacksburg 44826
-Pearisburg 2909
-Narrows 2093
-Parrott 358
-Grottoes 2899
-New Hope 843
+Harrisonburg 51814
+Massanetta Springs 6384
+Massanutten 2164
+Elkton 2941
+
+Oakton 36732
+Difficult Run 10600
+South Run 6462
+Crosspointe 5722
+West Point 3414
+Gloucester Point 10587
+Gloucester Courthouse 3030
+Saluda 627
+Pastoria 627
+Shipman 492
+Lovingston 503
+Hot Springs 524
+Warm Springs 121
+Rectortown 121
+Brucetown 274
+Boyce 749
+East Stone Gap 537
+Big Stone Gap 5254
+Big Stone Gap East 687
+Keokee 330
+Dryden 986
+Ivanhoe 501
+Fort Chiswell 876
+Fort Lee 9874
+Prince George 2315
+King George 4970
+Port Royal 196
+Front Royal 15011
+Chester Gap 894
+
+Winchester 28120
+Stephens City 2016
+
+Dale City 72088
+
+Montclair 22279
+Blairs 841
+Chatham 1232
+Chatmoss 1671
+Hampden-Sydney 1191
+
+Hampton 137148
+Southampton Meadows 503
+St. Paul 866
+Kincora 367
+Concord 1557
+Madison Heights 10893
+Madison 205
+Windsor 2746
+Dahlgren Center 724
+Dahlgren 2946
+Colonial Beach 3908
+Colonial Heights 18170
+Ettrick 7241
+Patrick Springs 1813
+Stuart 1431
+Stuarts Draft 12142
+Lyndhurst 1554
+Wyndham 11087
+
+Short Pump 30626
+Innsbrook 8998
+
+Meadowbrook 20898
+Meadowview 861
+Fairview Beach 376
+Fairview 237
+Locust Mount 52
+Rocky Mount 4903
+Rocky Gap 87
+Eagle Rock 209
+Big Rock 199
+Union Level 161
+Oak Level 803
+Stanleytown 1385
+Bassett 1028
+Hiwassee 212
+Arrington 718
+Cluster Springs 718
+Camptown 718
+Maurertown 973
+Woodstock 5807
+Lake of the Woods 8081
+Lake Wilderness 2960
+Lake Land'Or 4555
+Lake Caroline 2511
+Spotsylvania Courthouse 5610
+Stafford Courthouse 5370
+Aquia Harbour 6836
+Barboursville 177
+Nickelsville 378
+Hillsville 2884
+Woodlawn (Carroll County) 2045
+Baywood 414
+Galax 6720
+Cana 1243
+Independence 1011
+Sugar Grove 610
+Oak Grove 2452
+Hutchison 6231
+
+McNair 21598
+
+Herndon 24655
+Southern Gateway 3133
+Falmouth 4956
+
+Portsmouth 97915
+
+Newport News 186247
+Bethel Manor 4540
+Urbanna 492
+Rivanna 2174
+Keswick 321
+Pantops 4682
+Rio 2076
+Ivy 917
+Crozet 9224
 Crimora 2219
-New Baltimore 11251
-Warrenton 10057
+New Hope 843
+
+Hopewell 23033
+Enon 4075
+Bensley 5971
+Tasley 222
+White Stone 380
+Sedley 517
+Sudley 19008
+Bull Run (Prince William County) 16794
+Bull Run (Fairfax County) 6972
+
+Centreville 73518
+Daleville 3070
+Troutville 458
+Eastville 300
+Saltville 1824
+Glade Spring 1367
+Emory 1237
+East Lexington 1824
+Lexington 7320
+Washington 86
+Millboro 236
+Augusta Springs 236
+Nottoway Court House 63
+Riverview 616
+Bayside 107
+Countryside 10418
+Cascades 12366
+Sugarland Run 12345
+Lowes Island 11023
+Big Island 300
+Bland 383
+Ashland 7565
+Highland Springs 16604
+East Highland Park 15131
+Chamberlayne 5581
+Lakeside 12203
+Dumbarton 8506
+Laurel 17769
+Glen Allen 16187
+Glen Lyn 95
+Clinchport 64
+Clinchco 244
+Jewell Ridge 149
+Appalachia 1432
+Metompkin 490
+Selma 357
+Parrott 358
+Hiltons 334
+Hamilton 619
+Glen Wilton 129
+Glenvar 892
+
+Salem 25346
+
+Cave Spring 26755
+
+Roanoke 100011
+Vinton 8059
 
 Linton Hall 41754
 
 Buckhall 20420
+Hallwood 202
+Oak Hall 226
+Union Hall 1328
+Union Mill 4997
+Braddock 6549
+George Mason 11162
+Mason Neck 2025
+Occoquan 1035
+Quantico Base 5221
+Triangle 9589
+Dumfries 5679
+Fries 450
+Moneta 450
+Modest Town 120
+Savage Town 72
+Savageville 175
+McDowell 94
+Deep Creek 94
+Rich Creek 749
+Plum Creek 1350
+Belview 1128
+Radford 16070
+Bedford 6657
 Buchanan 1196
-Fincastle 755
-New Castle 125
-Castlewood 1704
-Dante 572
+
+Chantilly 24301
+Atlantic 808
+Temperanceville 308
+Mappsville 311
+Mappsburg 51
+Hilltown 216
+Carrollton 7498
+Smithfield 8533
+Fieldale 852
+Collinsville 7380
+Martinsville 13485
+Villa Heights 638
 
 Danville 42590
 Linville 355
 Austinville 119
 Ivor 312
-Ivy 917
-Rivanna 2174
-Keswick 321
-Ettrick 7241
-
-Richmond 226610
-Montrose 7909
-Montross 333
-Esmont 491
-Churchville 195
-Branchville 118
-Brodnax 283
-Saxis 172
-McDowell 94
-
-Hopewell 23033
-Enon 4075
-Lebanon 3159
-Hanover 235
-Painter 272
-Monterey 165
-Free Union 187
-Powhatan 402
-Stanardsville 349
-Mechanicsburg 81
-
-Mechanicsville 39482
-Chamberlayne 5581
-Wyndham 11087
-
-Short Pump 30626
-North Shore 3332
-Westlake Corner 1553
-Boswell's Corner 1656
-Aquia Harbour 6836
-Stafford Courthouse 5370
-Spotsylvania Courthouse 5610
-
-Leesylvania 21193
-
-Leesburg 48250
-Mappsburg 51
-Mappsville 311
-Gargatha 415
-Chatham 1232
-Nathalie 173
-Greenbackville 173
-Toms Brook 276
-Innsbrook 8998
-Brookneal 1090
-Altavista 3378
-Motley 825
-Gretna 1310
-Rural Retreat 1546
-Atkins 1121
-Boykins 516
-Kincora 367
-Onancock 1169
-Bobtown 267
-Hilltown 216
+Stanley 1703
 Willis Wharf 210
-King William 276
 Williamsburg 15425
-Gloucester Point 10587
-Gloucester Courthouse 3030
-Saluda 627
-
-Salem 25346
-Glenvar 892
-
-Cave Spring 26755
-Glade Spring 1367
-Emory 1237
+King William 276
+Tazewell 4486
+Boswell's Corner 1656
+Camp Barrett 1140
+Warrenton 10057
+New Baltimore 11251
 Exmore 1473
-Gore 249
-Hiltons 334
-Hamilton 619
-Dinwiddie 619
-Aldie 70
-Accomac 519
+Goshen 338
+Sanford 168
+North Garden 461
+Newsoms 286
+Vansant 442
+Fairlawn 2419
+
+Woodlawn (Fairfax County) 20859
+
+Rose Hill (Fairfax County) 21045
+Belle Haven (Fairfax County) 6851
+Huntington 13749
+Fort Hunt 17231
+Fort Belvoir 7637
+Mount Vernon 12914
+Mount Clifton 110
+Clifton Forge 3555
+Newington Forest 12957
+Newington 13223
+Ewing 381
+Haysi 484
+Draper 291
+Mount Jackson 1961
+Mount Crawford 439
+Dooms 1279
+Sandy Level 464
+Cleveland 136
+Thynedale 152
 Tacoma 204
 Iron Gate 324
 Pound 877
 Pounding Mill 367
-Round Hill 693
-Purcellville 8929
-Waterford 181
-Sussex 181
-Wakefield (Sussex County) 759
-Melfa 396
-Amelia Court House 965
-King and Queen Court House 82
-Boones Mill 259
-Bloxom 387
-Appomattox 1919
-Mathews 525
-Ewing 381
-Haysi 484
-Bayside 107
-Riverview 616
-Fairview 237
-Fairview Beach 376
-Meadowview 861
-Southside Chesconessex 115
-Lakeside 12203
-Twin Lakes 1602
-Middletown 1355
-Prices Fork 1142
-Henry Fork 1120
-Rocky Mount 4903
-Penhook 782
-Ivanhoe 501
-Fort Chiswell 876
-Wytheville 8265
-Woodlawn (Carroll County) 2045
-Carrollton 7498
-Smithfield 8533
-
-Portsmouth 97915
-
-Newport News 186247
+Disputanta 373
+Churchville 195
+Branchville 118
+Brodnax 283
+Ebony 150
+The Plains 245
+Saxis 172
+Schooner Bay 97
+New River 237
 New Kent 739
 Central Garage 1810
-North Garden 461
-Sanford 168
-Vansant 442
-Newsoms 286
-Goshen 338
-Fairlawn 2419
-Clintwood 1377
-Hurt 1267
-Lyndhurst 1554
-Stuarts Draft 12142
-Afton 313
-Wachapreague 257
-Chincoteague 3344
 
-Lincolnia 22922
-Franconia 18943
-Concord 1557
-Bedford 6657
+Mechanicsville 39482
+Sandston 7779
+Montrose 7909
+Montross 333
+Esmont 491
+Singers Glen 195
+Weyers Cave 2700
+Grottoes 2899
+Verona 4398
+
+Staunton 25750
+Bowling Green 1168
+Greenville 887
+Jolivue 1168
+Fishersville 9629
+Ruckersville 1484
+Gordonsville 1402
+Orange 4880
+Doran 113
+Floyd 448
+Yogaville 242
+Carrsville 346
+Pungoteague 346
+Chincoteague 3344
+Wachapreague 257
+Dungannon 257
+Afton 313
+Toms Brook 276
+Brookneal 1090
+Rustburg 1281
+
+Lynchburg 79009
 Forest 11709
 Timberlake 13267
 Timberville 2963
 Upperville 178
-Broadway 4170
-Broadlands 14021
-Goose Creek Village 2298
+Baskerville 120
+Southside Chesconessex 115
+Painter 272
+Hanover 235
+Clover 366
+Virgilina 126
+Blue Ridge Shores 801
+Stone Ridge 15039
 
-Ashburn 46349
-One Loudoun 2285
-Loudoun Valley Estates 11436
+South Riding 33877
+Arcola 2412
 
 Brambleton 23486
 Bealeton 5882
 Templeton 372
-Savageville 175
-Schooner Bay 97
-Stonega 93
-Eggleston 143
-Catlett 331
-Lancaster 105
-
-Sterling 30337
-Dulles 5909
-Dranesville 11785
-Jonesville 872
-Gainesville 18112
-Nokesville 1619
-
-Roanoke 100011
-Pembroke 1152
-Radford 16070
-Snowville 125
-Farmville 7473
-Crewe 2262
-Tazewell 4486
-Claypool Hill 1699
-Clarksville 1300
-Parksley 816
-Laurel Park 657
-Makemie Park 138
-Cliftondale Park 266
-Low Moor 402
-Mallow 671
-Covington 5737
-Irvington 474
-Kilmarnock 1445
-Tappahannock 2193
-Urbanna 492
-Shipman 492
-Bethel Manor 4540
-
-Norfolk 238005
-
-Suffolk 94324
-
-Chesapeake 249422
-Draper 291
-Doran 113
-Orange 4880
-Louisa 1987
-Pantops 4682
-Opal 678
-Appalachia 1432
-Metompkin 490
-Selma 357
-Franktown 61
-Yorktown 221
-Keezletown 369
-Grundy 875
-Fancy Gap 214
-Mineral 470
-Riner 949
-Halifax 1118
-Riverdale 949
-New River 237
-Locust Mount 52
-Apple Mountain Lake 1400
-Skyland Estates 862
-Bull Run Mountain Estates 1220
-Lafayette 429
-Palmyra 127
-Falmouth 4956
-Southern Gateway 3133
-
-Fredericksburg 27982
-Passapatanzy 1244
-King George 4970
-Port Royal 196
-Front Royal 15011
-Kenbridge 1112
-Cats Bridge 184
-Amonate 59
-Moneta 450
-Lee Mont 102
-Chase Crossing 335
-Great Falls Crossing 1392
-Great Falls 15953
-Sugarland Run 12345
-Cascades 12366
-Countryside 10418
-University Center 3969
-
-Petersburg 33458
-Matoaca 2655
-Fort Lee 9874
-Prince George 2315
-George Mason 11162
-Mason Neck 2025
-Occoquan 1035
-Quantico Base 5221
-Camp Barrett 1140
-Camptown 718
-Maurertown 973
-Cape Charles 1178
-St. Charles 73
-Dryden 986
-Dendron 251
-Capron 141
-Bastian 343
-Basye 1374
-New Market 2155
-Luray 4831
-Lunenburg 142
-Blackstone 3352
-Mount Jackson 1961
-Mount Vernon 12914
-Mount Sidney 678
-Nelsonia 451
-Craigsville 899
-Cheriton 486
-Amherst 2110
-Buena Vista 6641
+Groveton 15725
 Hybla Valley 16319
 Abbs Valley 299
-Stanley 1703
-Disputanta 373
-Hot Springs 524
-Warm Springs 121
-Patrick Springs 1813
-Cluster Springs 718
-Augusta Springs 236
-Lovingston 503
-St. Paul 866
-Southampton Meadows 503
-
-Hampton 137148
-Poquoson 12460
-
-Tysons 26374
-Pimmit Hills 6569
-Dunn Loring 9464
-Vienna 16473
-
-Annandale 43363
-
-Alexandria 159467
-Triangle 9589
-Dumfries 5679
-Fries 450
-Callaghan 203
-Ebony 150
-The Plains 245
-Lake of the Woods 8081
-Lake Wilderness 2960
-Glen Wilton 129
-Singers Glen 195
-Dungannon 257
-Marion 5751
-Rio 2076
-Crozet 9224
-
-Waynesboro 22196
-Millboro 236
-Harborton 130
-Surry 208
-Mendota 135
-Independence 1011
-Baywood 414
-Galax 6720
-Cana 1243
-Navy 4327
-Greenbriar 8421
-Braddock 6549
-Long Branch 7890
-Drakes Branch 533
-Stewartsville 533
-Lovettsville 2694
-Groveton 15725
-Oak Grove 2452
-
-McNair 21598
-Difficult Run 10600
-Duffield 73
-Rose Hill (Lee County) 729
+Calverton 279
+Sherando 696
+Shenandoah 2486
+New Market 2155
+Haymarket 1545
+Gainesville 18112
+Nokesville 1619
+Innovation 926
+Bristol 17219
+Harriston 948
+Stony Creek 209
+Appomattox 1919
+Marshall 1854
+Benns Church 1453
+Phenix 232
+Free Union 187
+Monterey 165
+Lee Mont 102
+Chase Crossing 335
+Chase City 2053
+Pamplin City 138
 Gate City 2043
 Weber City 1250
 Coeburn 1598
-Wise 2971
+
+Ashburn 46349
+Dulles 5909
+
+Sterling 30337
+
+Arlington 238643
+
+Bailey's Crossroads 24749
+Lake Barcroft 9770
+Lake Holiday 2196
+Shawneeland 2248
+Shawsville 1241
+Elliston 855
+Allisonia 111
+Port Republic 408
+Fancy Gap 214
+Midland 214
+Broadlands 14021
+Goose Creek Village 2298
+Stevens Creek 240
+Deerfield 110
+Troutdale 145
+Dunbar 79
 Boissevain 457
+Brightwood 1064
+McKenney 457
 Adwolf 1658
 Breaks 144
-Yorkshire 10992
-Bristol 17219
-Potomac Mills 6332
-Brandermill 13730
-Midlothian 18320
+Stonega 93
+Blackstone 3352
+Crewe 2262
+Farmville 7473
+Makemie Park 138
+Horse Pasture 2058
+Ferrum 1827
+Henry Fork 1120
+Prices Fork 1142
+Craigsville 899
+Goochland 899
+Cheriton 486
+Nelsonia 451
+Opal 678
+Alberta 302
+Sperryville 302
+Wintergreen 346
+Clintwood 1377
+Hurt 1267
+Boydton 302
+Glasgow 1052
 
-Tuckahoe 48051
-Pocahontas 268
-Yogaville 242
+Chesapeake 249422
+Rushmere 1175
+Poquoson 12460
 Deltaville 1057
-West Point 3414
-Warsaw 1637
-Nassawadox 533
+Altavista 3378
+Motley 825
+Gretna 1310
+Penhook 782
+Hollins 15574
+McMullin 455
+Amonate 59
+Cats Bridge 184
+Middlebrook 184
+Weems 184
+Callaghan 203
+
+Alexandria 159467
+
+Lincolnia 22922
+
+Annandale 43363
+
+West Falls Church 30243
+Falls Church 14658
+Pimmit Hills 6569
+
+Tysons 26374
+Vienna 16473
+
+Merrifield 20488
+Merrimac 2858
+
+Blacksburg 44826
+
+Christiansburg 23348
+Pearisburg 2909
+Narrows 2093
+Pembroke 1152
+Dublin 2682
+Pulaski 8985
+New Castle 125
+Snowville 125
+Wytheville 8265
+Rural Retreat 1546
+Atkins 1121
+Marion 5751
+Damascus 788
+Abingdon 8376
+Honaker 1217
 
 McLean 50773
-McKenney 457
-Hampden-Sydney 1191
-Chatmoss 1671
-Mount Crawford 439
+Wolf Trap 16496
+Great Falls Crossing 1392
+Great Falls 15953
+Dranesville 11785
+Clarksville 1300
+Riner 949
+Mineral 470
+Bloxom 387
+Grundy 875
+Wakefield (Sussex County) 759
+Melfa 396
+Chilhowie 1654
+
+Leesburg 48250
+Waterford 181
+Sussex 181
+Lovettsville 2694
+Montvale 635
+Claremont 305
+Bull Run Mountain Estates 1220
+Piney Mountain 1880
+Rose Hill (Lee County) 729
+
+Tuckahoe 48051
+Bon Air 18022
+Midlothian 18320
+Matoaca 2655
+
+Petersburg 33458
+Scottsburg 127
+Palmyra 127
+Lafayette 429
+
+Marumsco 35036
+Potomac Mills 6332
+
+Leesylvania 21193
+
+Fredericksburg 27982
+Passapatanzy 1244
+
+Waynesboro 22196
 Nellysford 1254
 Schuyler 252
-Keller 144
-Windsor 2746
+Amherst 2110
+Buena Vista 6641
 
 Culpeper 20062
 Remington 626
-Wolf Trap 16496
-Arcola 2412
-Columbia 72
-Cumberland 365
+Yorkshire 10992
+Luray 4831
+Basye 1374
+Broadway 4170
+Hayfield 4154
+Lebanon 3159
+Sully Square 2300
+Louisa 1987
 Waverly 1955
-Rushmere 1175
-Lowes Island 11023
-Big Island 300
-Abingdon 8376
-Damascus 788
-Dayton 1688
-Gwynn 578
-Dillwyn 436
-Clifton Forge 3555
-Marshall 1854
-Chilhowie 1654
 Bracey 1372
-Jolivue 1168
-McMullin 455
 Tangier 436
-Alberta 302
+Dillwyn 436
+Gargatha 415
+Cumberland 365
+Bastian 343
+Capron 141
+Dendron 251
+Pocahontas 268
+Gore 249
+Surry 208
+Harborton 130
+Keller 144
+Osaka 132
 Buckingham Courthouse 129

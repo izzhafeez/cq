@@ -3,10 +3,127 @@
 Minneapolis 429954
 
 Minnetonka 53781
+Minnetonka Beach 546
+Tonka Bay 1442
+Halstad 564
+Middle River 304
+Nashwauk 970
+Buffalo Lake 660
+Red Lake 1786
+Red Lake Falls 1339
+Sunfish Lake 522
+White Earth 522
+Blue Earth 3174
+Motley 680
+Hollandale 308
+Wanda 72
+Randall 607
+Byron 6312
+Milaca 3021
+Milan 428
+Beardsley 216
 
-Bloomington 89987
+White Bear Lake 24883
+Clear Lake 641
+Ihlen 61
+Hendrum 289
+Hendricks 616
+Quamba 107
+Canton 310
+Taunton 136
+Winton 169
+Underwood 356
+Deerwood 526
+Brownsville 566
+Hamburg 566
+Pine Point 281
+Beaver Creek 280
+Rose Creek 397
+Deer Creek 330
+Silver Creek 254
+Lake Wilson 254
+Nelson 182
+Goodridge 112
+Cambridge 9611
+Isanti 6804
 
-Farmington 23632
+East Bethel 11786
+
+Ham Lake 16464
+
+Lino Lakes 21399
+Circle Pines 5025
+
+Blaine 70222
+Belle Plaine 7395
+New Prague 8162
+Elko New Market 4846
+Lonsdale 4686
+Brownsdale 633
+St. Paul Park 5544
+St. Stephen 797
+Stephen 592
+Oklee 413
+Osage 282
+Battle Lake 857
+Medicine Lake 337
+The Lakes 590
+Rice Lake 4112
+Rice Lake (Clearwater County) 274
+Clearwater 1922
+
+St. Cloud 68881
+St. Joseph 7029
+
+St. Michael 18235
+St. Martin 312
+Martin Lake 907
+Twin Lakes 134
+Twin Lakes (Mahnomen County) 192
+Searles 192
+Cuyuna 296
+Milroy 259
+Dresbach 272
+Cyrus 305
+South Haven 185
+South End 34
+Leota 202
+Minneota 1366
+
+Marshall 13628
+Wrenshall 428
+Hallock 906
+Knife River 212
+Pine River 911
+Turtle River 88
+Beltrami 88
+La Salle 79
+Viking 79
+Kingston 184
+Hatfield 53
+Chatfield 2997
+Tower 430
+Browerville 839
+Waterville 1750
+Centerville 3896
+Vernon Center 328
+Le Center 2517
+Crookston 7482
+Long Lake 1741
+Dayton 7262
+Slayton 2013
+Buckman 307
+Starbuck 1365
+Skyline 288
+Cottonwood 1149
+Glenwood 2657
+Dellwood 1171
+Crosslake 2394
+Norcross 52
+Manchester 52
+
+Rochester 121395
+Stewartville 6687
 
 Lakeville 69490
 
@@ -15,45 +132,234 @@ Burnsville 64317
 Apple Valley 56374
 
 Golden Valley 22552
-Eden Valley 1027
-Cleveland 747
-Lakeland 1710
-Mapleton 1710
+
+St. Louis Park 50010
+Mahnomen (St. Louis County) 231
+Ostrander 231
+Strandquist 70
+Whipholt 70
+Holt 90
+Redby 1302
+Wykoff 432
+Rothsay 498
+Evansville 603
+Ogilvie 388
+Alvarado 388
+Murdock 306
+Grove City 624
+Lake City 5252
+Brownton 731
+Wabasha 2559
+Wabasso 739
+Kasson 6851
 Appleton 1392
-Waite Park 8341
-Lake Park 728
-Oak Park Heights 4849
-Falcon Heights 5369
-
-Columbia Heights 21973
-
-New Brighton 23454
-
-Vadnais Heights 12912
+Mapleton 1710
+Springfield 2027
+Grand Meadow 1127
+Grand Marais 1337
+Hayfield 1364
+Renville 1301
+Glenville 568
+Richville 77
+Vineland 869
+Lakeland 1710
+Lakeland Shores 339
+Lucan 214
+Garden City 339
+Arden Hills 9939
+Hills 686
+Winthrop 1332
+Northrop 223
+Dennison 223
+Henning 854
+Vining 62
+Granada 291
 Little Canada 10819
 Little Rock 1021
 Little Falls 9140
 
 Sartell 19351
+
+Sauk Rapids 13862
+Park Rapids 4142
+Pelican Rapids 2577
+
+Coon Rapids 63599
+
+Anoka 17921
+
+Champlin 23919
+Hampton 744
+Excelsior 2355
+Columbus 4159
+
+Columbia Heights 21973
+Falcon Heights 5369
+
+Mendota Heights 11744
+
+Inver Grove Heights 35801
+
+Cottage Grove 38839
+
+Maple Grove 70253
+Meire Grove 180
+De Graff 110
+Woodstock 110
+Stockton 809
+Ceylon 303
+Courtland 734
+Breckenridge 3430
+Madelia 2396
+Ironton 576
+Clinton 386
+Eitzen 279
+Bowlus 279
+Marion 271
+Marietta 116
+Greenbush 682
+Greenwood 726
+Shelly 179
+Donnelly 221
+Dunnell 133
+Vesta 276
+Effie 109
+Plummer 276
+Zimmerman 6189
+Herman 384
+Willow River 384
+Boy River 26
+
+Elk River 25835
+Nowthen 4536
+
+Ramsey 27646
+
+Andover 32601
+Dover 782
+Hanover 3548
+Corcoran 6185
+Doran 36
+Dakota 295
+Finlayson 295
+Finland 215
+Riverland 293
+Riverton 118
+Wolverton 128
+Edgerton 1258
+Baxter 8612
+Medford 1315
+Rushford 1860
+Chandler 279
+
+Chanhassen 25947
+Cohasset 2689
+Grand Rapids 11126
+
+Hibbing 16214
+
+Robbinsdale 14646
+
+Crystal 23330
+
+New Hope 21986
+
+New Brighton 23454
+
+Vadnais Heights 12912
+
+Maplewood 42088
+
+Woodbury 75102
+Woodland 384
+Goodland 51
+Flensburg 216
+Frost 216
+Sobieski 210
+Trommald 99
+Lindstrom 4888
+Chisago City 5558
+Rush City 3228
+Braham 1769
+North Branch 10787
+
+North St. Paul 12364
+
+St. Paul 311527
+
+West St. Paul 20615
+
+South St. Paul 20759
+St. Anthony 9257
+St. Anthony (Stearns County) 91
+Big Lake (Carlton County) 464
+New Germany 464
+Plato 329
+Balaton 595
+Halma 58
+Mizpah 58
+Dovray 58
+St. Rosa 58
+Elrosa 213
+Bena 143
+Nerstrand 273
+St. Hilaire 273
+St. Clair 750
+St. Charles 3990
+Dassel 1472
+Russell 348
+Vergas 348
+Bricelyn 348
+Rice 1975
+Clontarf 128
+Chickamaw Beach 128
+Long Beach 338
+Darwin 348
+Proctor 3120
+Hector 1012
+Walker 966
+Arlington 2247
+Lexington 2248
+Spicer 1112
+Westport 44
 Porter 166
 Iona 166
-Marion 271
-Houston 997
-Preston 1322
-Foreston 559
-Stockton 809
-Comstock 100
-Storden 225
-Dent 173
-Waubun 409
-Taunton 136
-Canton 310
-Winton 169
-Underwood 356
-Deerwood 526
-Brownsville 566
-Hamburg 566
-Sunburg 94
+International Falls 5802
+Ely 3268
+Aurora 1678
+
+Duluth 86697
+Hermantown 10221
+Mantorville 1111
+Rockville 2382
+Spring Valley 2447
+Browns Valley 558
+Willernie 515
+Millerville 100
+Argyle 544
+Belview 291
+Goodview 4158
+Plainview 3483
+Maple Plain 1743
+Baker 45
+Olivia 2343
+Oak Park Heights 4849
+Lake Park 728
+Oakport 1387
+Dilworth 4612
+Ellsworth 497
+Wells 2410
+Barrett 366
+Barry 16
+Fosston 1434
+Grasston 154
+Blomkest 145
+Iron Junction 110
+Heron Lake 602
+Gem Lake 528
+Bingham Lake 137
+Silver Lake 866
+Heidelberg 137
 Alberta 94
 
 Albert Lea 18492
@@ -61,251 +367,254 @@ Albert Lea 18492
 Austin 26174
 
 Hastings 22154
+Pine Springs 377
+Marine on St. Croix 664
+Lake St. Croix Beach 1043
+Harmony 1043
+Fairmont 10487
+St. James 4793
 
-Cottage Grove 38839
-
-Inver Grove Heights 35801
-
-Mendota Heights 11744
-
-West St. Paul 20615
-
-St. Paul 311527
-
-South St. Paul 20759
-
-North St. Paul 12364
-
-Maplewood 42088
-
-Woodbury 75102
-Floodwood 517
-Redwood Falls 5102
-Granite Falls 2737
-Montevideo 5398
+St. Peter 12066
+Eagle Lake 3278
+Maple Lake 2159
+Eveleth 3493
+Cleveland 747
+Hackensack 294
+Hoyt Lakes 2020
+Pequot Lakes 2395
+Gilbert 1687
+Preston 1322
+Foreston 559
+Lilydale 809
+Elmdale 114
+West Concord 861
+Elbow Lake (Grant County) 1276
+Elbow Lake (Becker County) 118
+Ormsby 118
+Brookston 118
+Brooks 117
+Brewster 506
+Bellechester 176
+Kennedy 176
+Kenneth 60
+Elysian 708
+Hitterdal 199
+Lauderdale 2271
+Seaforth 82
+Fort Ripley 84
+Nimrod 84
+Bejou 84
+Darfur 84
+Franklin 493
+St. Francis 8142
+Pine City 3130
+Rock Creek 1682
+Rockford 4500
+Greenfield 2903
+Greenwald 197
+Kerkhoven 805
+Fairhaven 392
+Deephaven 3899
+Bagley 1285
+Eagle Bend 546
+Pine Bend 31
+Louisburg 31
+Sunburg 94
+Prinsburg 520
+Strathcona 25
+McGrath 41
+McGregor 384
+Sherburn 1058
+Fisher 422
+Fish Lake 75
+Harding 123
+Erhard 132
+Hardwick 189
+Gilman 226
+Ruthton 226
+Homer 189
+Foxhome 126
+High Forest 126
+Bellingham 148
+Kilkenny 148
+Hoffman 698
+Randolph 466
+Brandon 501
+Jasper 610
+Lancaster 364
+Kiester 488
+Lester Prairie 1894
+La Prairie 653
+Long Prairie 3661
+Blooming Prairie 1974
+Parkers Prairie 1020
+Richmond 1475
+Bigfork 400
+Littlefork 553
+Hokah 553
+Bovey 829
+Bethel 476
+Ulen 476
+Mazeppa 874
+Elba 129
+Naytahwaush 504
+Trimont 705
 Dumont 75
 Wilmont 332
 Mahtowa 332
 Mahtomedi 8138
 Madison 1518
-Madison Lake 1247
-Tonka Bay 1442
-Halstad 564
-Hallock 906
-Knife River 212
-Pine River 911
-Turtle River 88
-Kettle River 166
-Wendell 166
-Independence 3755
-Morristown 949
-Royalton 1281
-Walters 69
-Dexter 324
-Baxter 8612
-Baker 45
-Battle Lake 857
-Medicine Lake 337
-Medina 6837
-
-Edina 53494
-
-Hopkins 19079
-
-New Hope 21986
-
-Crystal 23330
-Lake Crystal 2539
-Warroad 1830
-Harris 1111
-Mantorville 1111
-Millerville 100
-Waterville 1750
-Centerville 3896
-Vernon Center 328
-Le Center 2517
-Dodge Center 2844
-Stewartville 6687
-
-Rochester 121395
-Manchester 52
-Urbank 52
-Funkley 18
-Hinckley 1904
-Farwell 56
-Hubbard 56
-Barry 16
-Barrett 366
-Wells 2410
-Lewiston 1533
-Hewitt 251
-Hitterdal 199
-Elysian 708
-Shelly 179
-Donnelly 221
-New London 1252
-North Oaks 5272
-Seaforth 82
-Northome 155
-Homer 189
-Hardwick 189
-Erhard 132
-Perham 3512
-Crookston 7482
-Long Lake 1741
-Dayton 7262
-Afton 2955
-St. Augusta 3497
-St. Anthony 9257
-St. Anthony (Stearns County) 91
-Big Lake (Carlton County) 464
-Rice Lake (Clearwater County) 274
-Clearwater 1922
-
-St. Cloud 68881
-St. Joseph 7029
-St. Stephen 797
-Long Prairie 3661
-Blooming Prairie 1974
-Parkers Prairie 1020
-La Prairie 653
-Fairhaven 392
-Kerkhoven 805
-Greenwald 197
-Greenwood 726
-Hendrum 289
-Hendricks 616
-Quamba 107
-Amboy 535
-Boyd 141
-Boy River 26
-Correll 26
-Warren 1605
-Carlos 497
-Carlton 948
-Holloway 87
-Holland 178
-Landfall 843
-Hartland 321
-Courtland 734
-Breckenridge 3430
-Madelia 2396
-Wadena 4325
-Victoria 10546
-Gonvick 263
-Glenville 568
-Renville 1301
-Richville 77
-Vineland 869
-Backus 263
-Hackensack 294
-Blackduck 845
-Warsaw 644
-Osage 282
-
-Savage 32465
-
-Eagan 68855
-Morgan 888
-Vergas 348
-Bricelyn 348
-Rice 1975
-Wolverton 128
-Edgerton 1258
-Badger 429
-Inger 200
-Cuyuna 296
-Currie 224
-Lanesboro 724
-Whalan 67
-Halma 58
-Mizpah 58
-Elizabeth 168
-Warba 168
+Melrose 3602
+Montrose 3775
+Trosky 98
+Myrtle 47
+Maynard 319
+Westbrook 758
+Gully 59
+East Gull Lake 986
+Dundee 73
+Dundas 1712
+Nevis 377
+Round Lake 377
+Wood Lake 381
 Howard Lake 2071
 Minnetrista 8262
 Taconite 651
-
-Waconia 13033
-Mayer 2453
+Pease 238
+Green Isle 591
+Isle 803
+Clarkfield 852
+Clarks Grove 694
+Oak Grove 8929
+Sabin 619
+Waite Park 8341
+Virginia 8421
+Brooten 626
+Arnold 2960
+Sauk Centre 4555
+Magnolia 196
 Lafayette 492
-Wabasso 739
-Kasson 6851
-Kasota 714
-Easton 177
-
-East Bethel 11786
-
-Forest Lake 20611
-
-Lino Lakes 21399
-
-Ham Lake 16464
-Bingham Lake 137
-Gem Lake 528
-Heron Lake 602
-Frazee 1335
-Steen 171
-Stephen 592
-Oklee 413
-Mountain Iron 2878
-Mountain Lake 1999
-Red Lake 1786
-Gaylord 2273
+Baudette 966
+Henriette 57
+Midway 20
+Donaldson 20
+St. Vincent 57
+Princeton 4819
+Spring Park 1734
+Miesville 138
+Royalton 1281
+Dalton 215
+Sebeka 741
+Loretto 646
+Florence 28
+Independence 3755
+Wendell 166
+Henderson 960
 Tyler 1138
-Willernie 515
-Browns Valley 558
-Spring Valley 2447
-Spring Hill 68
-Adams 683
-Ormsby 118
-Louisburg 31
+Watertown 4659
+Lamberton 792
+Pemberton 229
+Altura 471
+Nett Lake 230
+Roy Lake 30
+Lismore 202
+Elmore 549
+Essig 49
+Stacy 1703
+Bluffton 210
+Afton 2955
+St. Augusta 3497
+Mountain Lake 1999
+Mountain Iron 2878
+Fountain 409
+Dent 173
+Waubun 409
 New Auburn 411
 Okabena 203
-Pine Bend 31
-Eagle Bend 546
-Minnetonka Beach 546
-Henriette 57
-Marietta 116
-Greenbush 682
-Meire Grove 180
-De Graff 110
-Grasston 154
-Blomkest 145
-Vesta 276
-Staples 2989
-Maple Lake 2159
-Eveleth 3493
+Spring Hill 68
+Adams 683
+Denham 37
+Orr 211
+Humboldt 41
+Leonard 41
+Leonidas 50
+Williams 157
+Lake Lillian 246
+Lake Elmo 11335
+
+Oakdale 28303
+Verndale 511
+Butterfield 601
+Garfield 349
+Jeffers 349
+Tenstrike 186
+Revere 89
+Fulda 1371
+Kensington 266
+
+Farmington 23632
+
+Bloomington 89987
+
+Richfield 36994
+
+Edina 53494
+Medina 6837
+Orono 8315
+Oronoco 1802
+Ebro 50
+Pickwick 157
+Twin Valley 723
+Pierz 1418
+Fertile 804
 Cannon Falls 4220
 Big Falls 175
 Bock 78
 Nielsville 78
-Miesville 138
 Janesville 2421
-Barnesville 2759
-Proctor 3120
-Hector 1012
-Walker 966
-Kilkenny 148
-Kenneth 60
-Kennedy 176
-Lake Wilson 254
-Nelson 182
-Goodridge 112
-Garvin 124
-Gary 227
-Bigelow 227
+Shafer 1142
+Thomson 159
+Northome 155
+Zumbro Falls 155
+Zumbrota 3726
+Pine Island 3769
+Bird Island 1005
+Rollingstone 678
+Easton 177
+St. Marys Point 353
+New Trier 86
 
-Big Lake 11686
+New Ulm 14120
+Sleepy Eye 3452
+Redwood Falls 5102
+Granite Falls 2737
+Montevideo 5398
+Benson 3480
 
-Monticello 14455
-Albertville 7896
+Hutchinson 14599
+Glencoe 5744
+Winsted 2240
+Mayer 2453
 
-St. Michael 18235
-Hanover 3548
-Delano 6484
-Rockford 4500
-Rockville 2382
+Waconia 13033
+Carver 5829
+
+Chaska 27810
+
+Shakopee 43698
+
+Prior Lake 27617
+
+Savage 32465
+
+Eden Prairie 64198
+Shorewood 7783
+Mound 9398
+
+Mounds View 13249
+
+Shoreview 26921
+Mapleview 144
 Millville 151
 Longville 153
 Roosevelt 153
@@ -318,411 +627,85 @@ Lake George 233
 Hillman 23
 
 Willmar 21015
-Benson 3480
-
-Hutchinson 14599
-Winsted 2240
-Tenstrike 186
-Kensington 266
-Lansing 132
-Finland 215
-Riverland 293
-Riverton 118
-Brookston 118
-Brooks 117
-Brewster 506
-Bellechester 176
-Silver Creek 254
-Deer Creek 330
-Dundee 73
-Dundas 1712
-Round Lake 377
-Pine Springs 377
-Marine on St. Croix 664
-Lake St. Croix Beach 1043
-Harmony 1043
-Fairmont 10487
-Fairfax 1250
-Lake Benton 687
-Grey Eagle 330
-Eagle Lake 3278
+Paynesville 2388
+Cold Spring 4164
+Albany 2780
+Cokato 2799
 
 Mankato 44488
 
 North Mankato 14275
-North Branch 10787
-Braham 1769
-Cambridge 9611
-Isanti 6804
-Chisago City 5558
-Rush City 3228
-Lake City 5252
-Brownton 731
-Wabasha 2559
-Mabel 716
-Belview 291
-Goodview 4158
-Plainview 3483
-Maple Plain 1743
-Belle Plaine 7395
-New Prague 8162
-Elko New Market 4846
-Lonsdale 4686
-Brownsdale 633
-St. Paul Park 5544
-Slayton 2013
-Crosslake 2394
-Wanamingo 1113
-Onamia 784
-Scanlon 987
-Scandia 3984
-Biscay 113
-Argyle 544
-Perley 113
-Searles 192
-St. Charles 3990
-Chandler 279
-Eitzen 279
-Hazel Run 55
-Rushford 1860
-Rushford Village 790
-Birchwood Village 863
-Pillager 507
-Hanska 382
+North Oaks 5272
+Mahnomen 1240
+New London 1252
+Glyndon 1306
+Lynd 436
+Lake Henry 72
+Sturgeon Lake 436
+Madison Lake 1247
+Moose Lake 2789
+Canby 1695
+Lakefield 1735
 
-Chaska 27810
-
-Chanhassen 25947
-Cohasset 2689
-Grand Rapids 11126
-Park Rapids 4142
-Pelican Rapids 2577
-
-Sauk Rapids 13862
-
-Elk River 25835
-
-Andover 32601
-
-Anoka 17921
-
-Champlin 23919
-Hampton 744
-Twin Lakes (Mahnomen County) 192
-Mahnomen (St. Louis County) 231
-Ostrander 231
-Strandquist 70
-Whipholt 70
-Holt 90
-Redby 1302
-Wykoff 432
-Hoffman 698
-Foxhome 126
-High Forest 126
-Bellingham 148
-Harding 123
-Odin 123
-Burtrum 123
-Truman 1092
-Winnebago 1391
-Ronneby 71
-Wolf Lake 71
-Wood Lake 381
-Zumbro Falls 155
-Zumbrota 3726
-Pine Island 3769
-Bird Island 1005
-Green Isle 591
-Rose Creek 397
-Beaver Creek 280
-Beaver Bay 120
-Silver Bay 1857
-Silver Lake 866
-Heidelberg 137
-Shevlin 137
-Henning 854
-Dennison 223
-Ponemah 599
+Northfield 20790
+Litchfield 6624
 Emmons 367
 Hammond 130
 Elkton 130
 McKinley 103
-Finlayson 295
-Randolph 466
-Doran 36
-Mora 3665
-Geneva 508
-Evan 70
-Evansville 603
-Ogilvie 388
-Villard 225
-Babbitt 1397
-Littlefork 553
-Hokah 553
-Cook 534
-Westbrook 758
-West Concord 861
-Elbow Lake (Grant County) 1276
-Elbow Lake (Becker County) 118
-Becker 4877
-Lamberton 792
-Watertown 4659
-Atwater 1124
-Browerville 839
-Claremont 513
-Remer 391
-Clements 155
-Mentor 104
-Ghent 376
-Chokio 405
-Echo 243
-Climax 243
-Clinton 386
-Ironton 576
-Martin Lake 907
-St. Martin 312
-Stacy 1703
-Trommald 99
-Bluffton 210
-Sobieski 210
-Esko 2082
-Askov 331
-Bena 143
-Elrosa 213
-Melrose 3602
-Montrose 3775
-
-Rosemount 25650
-Mound 9398
-
-Plymouth 81026
-South End 34
-Leota 202
-Leonard 41
-St. Leo 93
-
-St. Louis Park 50010
-
-Richfield 36994
-Stanchfield 103
-Beaulieu 103
-Roseau 2744
-Akeley 404
-Foley 2711
+Angle Inlet 54
+Miltona 431
+Wilton 263
+Gonvick 263
+Ortonville 2021
 Newfolden 352
-Alden 583
-Hill City 613
+St. Bonifacius 2307
+St. Leo 93
+New Munich 356
+Trail 40
+Zemple 78
+Delavan 172
+Delano 6484
+Waverly 1900
+Beaver Bay 120
+Silver Bay 1857
+Cromwell 240
+Farwell 56
+Hubbard 56
+West Roy Lake 56
+Fifty Lakes 443
+Correll 26
+Warren 1605
+Carlos 497
+Carlton 948
+Holloway 87
+Holland 178
+Landfall 843
+Hartland 321
+Tracy 2076
+Hawley 2219
+Emily 843
+Hayward 252
+Rushmore 365
+Rushford Village 790
+Houston 997
+Kimball 799
 Clara City 1423
-Minnesota City 202
-Minnesota Lake 661
-Clarissa 661
+Hill City 613
+Alden 583
+Newport 3797
+Le Roy 957
+Kettle River 166
+Deer River 909
+Garvin 124
+Watson 182
 Nassau 65
 Kent 65
 Delhi 46
-Dellwood 1171
-Woodland 384
-Goodland 51
-Milan 428
-Milaca 3021
-Emily 843
-Hawley 2219
-Callaway 178
-Solway 73
-East Gull Lake 986
-Cass Lake 675
-Lancaster 364
-Bruno 85
-Effie 109
-Jeffers 349
-Nerstrand 273
-St. Hilaire 273
-St. Clair 750
-Hills 686
-Winthrop 1332
-Northrop 223
-
-Northfield 20790
-
-Faribault 24453
-
-Owatonna 26420
-Balaton 595
-Plato 329
-New Germany 464
-Herman 384
-Sherburn 1058
-Fisher 422
-Fish Lake 75
-Sunfish Lake 522
-White Earth 522
-
-White Bear Lake 24883
-Clear Lake 641
-Ihlen 61
-Ulen 476
-Ellendale 676
-Verndale 511
-Butterfield 601
-Florence 28
-Glenwood 2657
-Hoyt Lakes 2020
-Nett Lake 230
-Roy Lake 30
-Lismore 202
-Morton 410
-Ortonville 2021
-Deer River 909
-St. Bonifacius 2307
-St. Francis 8142
-Pine City 3130
-Grove City 624
-Bovey 829
-Dover 782
-Isle 803
-Nevis 377
-Wayzata 4434
-Midway 20
-Donaldson 20
-St. Vincent 57
-Princeton 4819
-Zimmerman 6189
-Nowthen 4536
-Bethel 476
-Mazeppa 874
-Elba 129
-Naytahwaush 504
-Nashwauk 970
-Buffalo Lake 660
-
-Buffalo 16168
-Greenfield 2903
-Lakefield 1735
-Garfield 349
-Hatfield 53
-Chatfield 2997
-Tower 430
-Hermantown 10221
-
-Duluth 86697
-Lutsen 220
-
-Otsego 19966
-Osseo 2688
-Dassel 1472
-Russell 348
-Darwin 348
-Winger 174
-Conger 153
-Waldorf 201
-Tintah 67
-Nashua 67
-Ashby 469
-Audubon 560
-Baudette 966
-Lauderdale 2271
-Columbus 4159
-Nicollet 1143
-Coleraine 2006
-
-Brainerd 14395
-Nisswa 1967
-Swanville 326
-Kelliher 258
-Kellogg 415
-Cologne 2047
-Gibbon 784
-Gilbert 1687
-Pequot Lakes 2395
-Detroit Lakes 9869
-Menahga 1340
-Mahnomen 1240
-Richmond 1475
-Aldrich 35
-Adrian 1194
-
-Alexandria 14335
-
-Fergus Falls 14119
-Taylors Falls 1055
-Ceylon 303
-Norwood Young America 3863
-Watkins 991
-Aitkin 2168
-Bigfork 400
-Holdingford 743
-Springfield 2027
-Cold Spring 4164
-Albany 2780
-Paynesville 2388
-Cokato 2799
-Waverly 1900
-Carver 5829
-
-Shakopee 43698
-Dakota 295
-Eyota 2006
-Barnum 620
-Arnold 2960
-Magnolia 196
-Olivia 2343
-Lake Lillian 246
-Williams 157
-Leonidas 50
-Pickwick 157
-Kerrick 71
-Merrifield 140
-Osakis 1771
-Soudan 385
-Sedan 43
-Regal 43
-McGregor 384
-Willow River 384
-Middle River 304
-Henderson 960
-Peterson 234
-Garrison 194
-Morris 5105
-Orr 211
-Denham 37
-Waltham 164
-Dalton 215
-Wilton 263
-Miltona 431
-Felton 177
-St. Marys Point 353
-New Trier 86
-
-New Ulm 14120
-Sleepy Eye 3452
-St. James 4793
-
-St. Peter 12066
-Le Sueur 4213
-Lake Shore 1056
-Lakeland Shores 339
-Lucan 214
-Avoca 111
-Avon 1618
-Delavan 172
-Alpha 97
-Minneiska 97
-Erskine 403
-Kinney 152
-Tenney 5
-Trosky 98
-Myrtle 47
-Squaw Lake 98
-Strathcona 25
-Prinsburg 520
-Flensburg 216
-Wrenshall 428
-
-Marshall 13628
-Minneota 1366
-Walnut Grove 751
-Oak Grove 8929
-
-Maple Grove 70253
+Kinbrae 10
+New York Mills 1294
+McIntosh 606
+Ada 1740
 
 Brooklyn Park 86478
 
@@ -730,280 +713,297 @@ Brooklyn Center 33782
 
 Fridley 29590
 Hadley 54
-Angle Inlet 54
-Dresbach 272
-Wahkon 235
-Kingston 184
-Rollingstone 678
-Stewart 489
-Thomson 159
-Shafer 1142
-Fertile 804
-Pierz 1418
-Twin Valley 723
-Twin Lakes 134
-Meadowlands 134
-Grand Meadow 1127
-Sanborn 323
-Keewatin 984
-Dovray 58
-Raymond 782
-Brandon 501
-Jasper 610
-Pease 238
-Waseca 9229
+Gary 227
+Bigelow 227
+Lastrup 120
+Floodwood 517
+Badger 429
+Chokio 405
+Ghent 376
+Mentor 104
+Clements 155
+Wilder 62
+Cedar Mills 62
+Vermillion 441
 
-Prior Lake 27617
-Spring Lake Park 7188
-
-Mounds View 13249
-
-Shoreview 26921
-Shorewood 7783
-Orono 8315
-Oronoco 1802
-Ebro 50
-Brooten 626
-Spicer 1112
-Westport 44
-Laporte 134
-Newport 3797
-Oakport 1387
-Dilworth 4612
-Ellsworth 497
-
-Worthington 13947
-Arlington 2247
-Two Harbors 3633
-Spring Grove 1256
-Spring Park 1734
-Rushmore 365
-Hayward 252
-Tracy 2076
-Trail 40
-New Munich 356
-New Richland 1229
-Campbell 164
-Beltrami 88
-La Salle 79
-Upsala 487
-La Crescent 5276
-Center City 629
-Ottertail 629
-Ogema 208
-
-Rogers 13295
-Corcoran 6185
-Arco 87
-Norcross 52
-Crosby 2360
-Breezy Point 2574
-Pine Point 281
-Circle Pines 5025
-
-Blaine 70222
-
-Coon Rapids 63599
-The Ranch 14
-The Lakes 590
-Darfur 84
-Nimrod 84
-Trimont 705
-Sandstone 2462
-Lindstrom 4888
-Wyoming 8032
-
-Hugo 15766
-Grant 3966
+Red Wing 16547
+Winger 174
+Inger 200
+Conger 153
+Currie 224
+Lanesboro 724
+Tintah 67
+Whalan 67
+Nashua 67
+Morton 410
+Minnesota City 202
+Minnesota Lake 661
+Clarissa 661
+Claremont 513
+Atwater 1124
 
 Stillwater 19394
 Bayport 4024
-Lake Elmo 11335
-Elmore 549
-Essig 49
-Odessa 103
-Roscoe 130
-Glencoe 5744
-Hancock 863
-Freeborn 264
-Freeport 675
-Litchfield 6624
-Hayfield 1364
-Grand Marais 1337
-Cottonwood 1149
-Skyline 288
-Starbuck 1365
-Buckman 307
-Buhl 952
-Jenkins 490
-Viking 79
-Vining 62
-Cedar Mills 62
-New York Mills 1294
-McIntosh 606
-Racine 458
-Danube 458
+Laporte 134
+Meadowlands 134
+Sandstone 2462
+Kerrick 71
+Ronneby 71
+Winnebago 1391
+Truman 1092
+Burtrum 123
+Odin 123
+Cobden 36
+Lewiston 1533
+Lewisville 204
+Mendota 183
+Ponemah 599
+Kinney 152
+Tenney 5
+Squaw Lake 98
+
+Big Lake 11686
+
+Monticello 14455
+Kellogg 415
+Kelliher 258
+Swanville 326
+Peterson 234
+Walters 69
 Forada 170
-Ada 1740
-Motley 680
-Blue Earth 3174
-Kinbrae 10
-Watson 182
-Dawson 1466
-Fifty Lakes 443
-West Roy Lake 56
-Le Roy 957
-Milroy 259
-Comfrey 392
-Welcome 710
-Karlstad 710
-Belgrade 738
-Elgin 1115
-St. Rosa 58
-Frost 216
-Frontenac 249
-Lowry 334
-Calumet 334
-Plummer 276
-Fountain 409
-Dunnell 133
+Dexter 324
+Steen 171
+Frazee 1335
 Kandiyohi 569
 Ranier 569
-Randall 607
-Wanda 72
-Hollandale 308
-Lynd 436
-Glyndon 1306
-Windom 4798
-Jackson 3323
-Tamarack 62
-Wilder 62
-Clitherall 62
-Federal Dam 123
+Bruno 85
+Marble 610
+Fairfax 1250
+Lake Benton 687
+Lake Bronson 178
+Callaway 178
+Ashby 469
+Audubon 560
+Bertha 560
+Ivanhoe 560
+Good Thunder 560
+Birchwood Village 863
+Pillager 507
+Hanska 382
+Cosmos 507
+Taylors Falls 1055
+Norwood Young America 3863
+Watkins 991
+Aitkin 2168
+Foley 2711
+Chisholm 4775
+Nicollet 1143
+Comfrey 392
+Avoca 111
+Freeborn 264
+Sanborn 323
+Keewatin 984
+Elgin 1115
+Dawson 1466
+Lyle 522
+Ball Club 354
+Wahkon 235
 
-Eden Prairie 64198
-Lester Prairie 1894
-Kenyon 1894
-Lilydale 809
+Plymouth 81026
 
-Oakdale 28303
-Elmdale 114
-Cyrus 305
-South Haven 185
-Deephaven 3899
-Bagley 1285
-Montgomery 3249
-Wheaton 1460
-
-Moorhead 44505
-Moose Lake 2789
-Rice Lake 4112
-
-Cloquet 12568
-Clontarf 128
-Chickamaw Beach 128
-Long Beach 338
+Hopkins 19079
+Jenkins 490
+Felton 177
+Hanley Falls 243
+Climax 243
+Echo 243
+Hewitt 251
+Boyd 141
+Amboy 535
+Genola 70
+Taopi 61
 Manhattan Beach 61
 Coates 147
-Taopi 61
-Hilltop 958
-Arden Hills 9939
-Garden City 339
-Ivanhoe 560
-Bertha 560
-Good Thunder 560
+Evan 70
+
+Eagan 68855
+
+Rosemount 25650
+Roseau 2744
+Akeley 404
+Wayzata 4434
 Goodhue 1250
-Marble 610
-Clearbrook 464
-Beardsley 216
-Maynard 319
-Gully 59
-Ely 3268
-Aurora 1678
+Grey Eagle 330
+Solway 73
+Cass Lake 675
+Shevlin 137
+Freeport 675
 
-Hibbing 16214
+Moorhead 44505
 
-Robbinsdale 14646
-Sabin 619
-Biwabik 961
+Fergus Falls 14119
+
+Alexandria 14335
+Adrian 1194
+Belgrade 738
+Luverne 4946
+Pipestone 4215
+
+Worthington 13947
+Jackson 3323
+Windom 4798
+Walnut Grove 751
+Spring Grove 1256
+Two Harbors 3633
+
+Owatonna 26420
+
+Faribault 24453
+Waseca 9229
+Le Sueur 4213
+
+Winona 25948
+Clitherall 62
+Federal Dam 123
+Beaulieu 103
+Stanchfield 103
+Odessa 103
+Roscoe 130
+Danvers 103
+Ogema 208
+Center City 629
+Ottertail 629
+
+Cloquet 12568
+Arco 87
+Utica 266
+Oslo 239
+Askov 331
+
+Forest Lake 20611
+
+Hugo 15766
+Grant 3966
 East Grand Forks 9176
 Thief River Falls 8749
 
 Bemidji 14574
-Pemberton 229
-Altura 471
-Sturgeon Lake 436
-Lake Henry 72
-Lake Bronson 178
-Johnson 24
-Bowlus 279
-Borup 96
-Lastrup 120
-Cromwell 240
-Iron Junction 110
-Woodstock 110
-Grygla 180
-Franklin 493
-Mapleview 144
-Fort Ripley 84
-Bejou 84
-Jordan 6656
-Danvers 103
-Revere 89
-Fulda 1371
-Utica 266
-Clarks Grove 694
-Clarkfield 852
+Menahga 1340
+Detroit Lakes 9869
+Nisswa 1967
+
+Brainerd 14395
+Coleraine 2006
+Barnum 620
+Eyota 2006
+Hilltop 958
+Morgan 888
+Warsaw 644
+Blackduck 845
+Wanamingo 1113
+Onamia 784
+Scanlon 987
+Gibbon 784
+Cologne 2047
+
+Otsego 19966
+Albertville 7896
+
+Rogers 13295
+Osseo 2688
+Spring Lake Park 7188
 Brook Park 132
-Gilman 226
-Ruthton 226
-Rutledge 212
+Lansing 132
 Caledonia 2847
+La Crescent 5276
+Upsala 487
+Cook 534
+Babbitt 1397
+Storden 225
+Palisade 162
+Villard 225
+Comstock 100
+Perley 113
+Biscay 113
+Lutsen 220
+Ellendale 676
+Annandale 3330
+Victoria 10546
+Perham 3512
+Wadena 4325
+Backus 263
+Lake Shore 1056
+Pennock 479
 
-Winona 25948
-
-Red Wing 16547
-Vermillion 441
+Buffalo 16168
+Wyoming 8032
+Scandia 3984
+Jordan 6656
+Morristown 949
+Morris 5105
+Harris 1111
+Garrison 194
+Mabel 716
+Tamarack 62
+Becker 4877
+Warroad 1830
+Lake Crystal 2539
+Remer 391
+Gaylord 2273
+Staples 2989
+Avon 1618
+Wheaton 1460
+Montgomery 3249
+Mora 3665
+Geneva 508
+Wright 168
+Warba 168
+Barnesville 2759
+Elizabeth 168
+Sacred Heart 510
+Dodge Center 2844
+Breezy Point 2574
+Crosby 2360
+Esko 2082
+New Richland 1229
+Aldrich 35
+The Ranch 14
+Welcome 710
+Karlstad 710
+Borup 96
+Hinckley 1904
+Funkley 18
+Minneiska 97
+Erskine 403
+Alpha 97
+Urbank 52
 West Union 92
 Lengby 92
-Byron 6312
-Canby 1695
-
-Ramsey 27646
-Virginia 8421
-Lexington 2248
-Sauk Centre 4555
-Rock Creek 1682
-Pennock 479
-Fosston 1434
-Kiester 488
-Pipestone 4215
-Luverne 4946
-International Falls 5802
-Red Lake Falls 1339
-Lyle 522
-Ball Club 354
-Kimball 799
-Hanley Falls 243
-Chisholm 4775
-Excelsior 2355
-Annandale 3330
-Granada 291
-McGrath 41
-Humboldt 41
-Zemple 78
-Medford 1315
-Sebeka 741
-Loretto 646
-Murdock 306
-Alvarado 388
-Palisade 162
-Rothsay 498
-Mendota 183
-Lewisville 204
-Sacred Heart 510
-Wright 168
-Cosmos 507
-Oslo 239
-Genola 70
-Cobden 36
+Sedan 43
+Regal 43
+Waldorf 201
+Kenyon 1894
+Osakis 1771
+Merrifield 140
+Soudan 385
+Clearbrook 464
+Eden Valley 1027
+Campbell 164
+Waltham 164
+Holdingford 743
+Biwabik 961
+Buhl 952
+Kasota 714
+Stewart 489
+Hancock 863
+Raymond 782
+Danube 458
+Racine 458
+Lowry 334
+Calumet 334
+Frontenac 249
+Rutledge 212
+Grygla 180
+Wolf Lake 71
+Hazel Run 55
+Johnson 24

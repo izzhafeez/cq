@@ -4,48 +4,151 @@ Santiago de Queretaro 626495
 Santillan 1281
 Pintillo 1035
 Tunas Blancas 855
-Las Taponas 1994
-Villa Guerrero 1651
-Higuerillas 1539
-Ninguno [CERESO] 1539
-Tres Lagunas 611
-Las Lajitas 1020
-Huertas la Joya [Fraccionamiento Campestre] 783
+Casa Blanca 1325
+Loma Linda 2161
+Galindo 3079
+Mexico Lindo 836
+Guadalupe el Terrero 728
+Tlacote el Alto 518
+
+Tlacote el Bajo 4396
+
+San Jose el Alto 14094
+Paseos del Pedregal 2432
+Paseos del Marques 1342
+Jesus Maria 2978
+Hacienda la Cruz [Fraccionamiento] 2373
 Hacienda Santa Rosa [Fraccionamiento] 620
-Santa Maria Begona 2017
-Atongo 3513
-Tonatiu 685
-Rancho Bellavista [Fraccionamiento] 1705
-Villas Fontana [Fraccionamiento] 568
-Villas Fundadores [Fraccionamiento] 1956
-Cerro Gordo 1987
-Cerro de la Cruz 1003
+Huertas la Joya [Fraccionamiento Campestre] 783
+Las Lajitas 1020
+Tres Lagunas 611
+La Lagunita 742
+Laguna de Lourdes 820
+Chiteje de la Cruz 820
 Lomas de la Cruz 545
+Cerro de la Cruz 1003
+La Vuelta 716
+
+La Valla 5597
+El Organal 2474
+Panales 755
+Bosques de la Hacienda 909
+Hacienda Blanca 530
+Pena Blanca 510
+Acequia Blanca 566
+El Romeral 671
+El Rodeo 772
+El Rincon 1240
 Segundo Barrio de Dolores 667
 Barrio de Casas Viejas 969
 Laguna de Servin 786
-Laguna de Lourdes 820
-La Lagunita 742
-San Cirilo 780
+Laguna de Vaquerias 1295
+Santa Rosa de Lima 1700
+Santa Rosa Xajay 3578
 
-San Clemente 4852
-Boxasni 1481
+San Nicolas 5576
+San Nicolas de la Torre 1058
+Penamiller 1234
+Palmillas 1378
+Puerta de Alegrias 902
+Puerta de Enmedio 876
+Dolores Cuadrilla de Enmedio 1642
+Tierra Blanca 2955
+La Estacada 1972
+Estancia de la Rochera 683
+
+La Estancia 5992
+El Rosario 2117
+
+San Juan del Rio 138878
+Bella Vista del Rio 1955
 Boye 1975
-
-Cadereyta 13347
+Boyecito 528
+Los Pocitos 2264
+Los Banos 1801
+Los Juarez 597
+Los Alvarez 917
+Corea 917
+Valle Dorado Dos Mil 914
+El Mirador 804
+El Milagro 1663
+El Poleo 503
+El Palmar 2884
+La Purisima 857
+Purisima de Arista 2304
+El Zapote 979
+Sabino Chicho 700
+San Antonio de la Cal 2721
+Barrio de Garcia 733
+Pie de Gallo 4089
+El Gallo 1688
+El Picacho 909
+El Pinto 1552
+Puerto de Aguirre 2678
+Puerto de Carroza 1260
+Moral de Puerto de Nieto 945
+La Luz 1659
+Jofrito 1729
+Jofre 802
+La Laborcilla 887
 La Ladera 528
+La Laja 1150
+La Soledad 1236
+Cumbres del Cimatario 875
+La Estacion 516
+Landa de Matamoros 1609
+
+Paso de Mata 4632
+Cerro Gordo 1987
+Villas Fundadores [Fraccionamiento] 1956
+Villas Fontana [Fraccionamiento] 568
+Nahui Ollin [Fraccionamiento] 739
+Puerto de Nieto 1305
+El Granjeno 599
+El Jaguey Grande 812
+San Jose del Jaguey 1725
+San Jose de la Laja 2156
+El Tejocote 2701
+Urecho 1856
+Nogales 943
+San Antonio la Galera 993
+San Antonio la D 665
+Rancho Largo 575
+Los Cues 1622
+Los Cerritos 2202
+La Fuente 4272
+Fuentezuelas 2895
+Portezuelo 521
+Presa de Bravo 857
+Ceja de Bravo 1086
+Bordo Blanco 2709
+Charco Blanco 1752
+Santa Barbara 809
+Santa Barbara de La Cueva 2074
+El Jazmin 1682
+El Jaral 1820
+Mesa de Ramirez 723
+Presa de Rayas 1257
+El Cerrito 571
+El Cerrito Parado 537
+El Coto 1379
+El Cazadero 3401
+El Carmen 1158
+Cerrito Colorado 881
+
+El Colorado 4572
+
+La Piedad 4441
 
 La Pradera 6619
-Praga 625
+Higuerillas 1539
+Sergio Villasenor 1238
 
-Saldarriaga 5661
-Jesus Maria 2978
-Paseos del Marques 1342
-Paseos del Pedregal 2432
+El Salitre 4408
+Puerto del Salitre 868
+Puerto de Chiquihuite 1002
 
-San Jose el Alto 14094
-San Vicente el Alto 1438
-La Nueva Unidad 734
+Cadereyta 13347
 Villa Nueva 661
 
 Villa Progreso 5604
@@ -54,213 +157,23 @@ Ezequiel Montes 14053
 
 Tequisquiapan 29799
 La Tortuga 2029
-San Nicolas de la Torre 1058
-
-San Nicolas 5576
-Santa Rosa Xajay 3578
-Santa Rosa de Lima 1700
-Santa Rosa Finca 925
-San Jose de la Laja 2156
-San Jose del Jaguey 1725
-El Jaguey Grande 812
-El Granjeno 599
-Puerto de Nieto 1305
-La Vuelta 716
-
-La Valla 5597
-
-La Llave 5497
-Vistha 3421
-Buenavista 4115
-San Jose Buenavista 1554
-La Solana 3871
-La Soledad 1236
-La Laja 1150
-La Estacion 516
-La Estacada 1972
-Estancia de la Rochera 683
-Panales 755
-Galeras 2358
-Tierra Blanca 2955
-Casa Blanca 1325
-Pena Blanca 510
-Acequia Blanca 566
-El Romeral 671
-El Rosario 2117
-
-San Juan del Rio 138878
-Bella Vista del Rio 1955
-La Alameda del Rincon 687
-La D 4298
-San Antonio la D 665
-Rancho Largo 575
-Los Cues 1622
-Los Cerritos 2202
-La Fuente 4272
-Fuentezuelas 2895
-Nogales 943
-San Antonio la Galera 993
-San Francisco 741
-San Francisco de la Palma 1825
-
-Tlacote el Bajo 4396
-Tlacote el Alto 518
-Guadalupe el Terrero 728
-Mexico Lindo 836
-Galindo 3079
-Loma Linda 2161
-La Loma 1287
-
-La Piedad 4441
-
-El Colorado 4572
-Cerrito Colorado 881
-El Carmen 1158
-El Cazadero 3401
-El Coto 1379
-Santa Fe Libertadores 603
-Santa Teresa 824
-San Isidro Buenavista 1584
-Hacienda Blanca 530
-Puerto del Salitre 868
-
-El Salitre 4408
-Colinas de Santa Cruz Segunda Seccion 3326
-
-San Pedro Martir 11552
-
-Santa Maria Magdalena 9099
+La Trinidad 1836
+El Lindero 894
+Lomas de Menchaca 611
+Huitron 611
+Rancho la Tinaja 669
+Rancho Bellavista [Fraccionamiento] 1705
+Tonatiu 685
+Neblinas 930
+Palo Alto 2399
+Bernal 3965
+Praga 625
+Santa Maria Begona 2017
 Santa Maria Ticoman 544
 La Carbonera 522
 Carbonera 1277
-La Gotera 3536
-La Versolilla 1903
-Puerto de Carroza 1260
-Moral de Puerto de Nieto 945
-Puerto de Aguirre 2678
-El Pinto 1552
-San Bartolome del Pino 676
-Agua Zarca 1306
-Agua Fria 1427
-Laguna de Vaquerias 1295
-Puerta de Alegrias 902
-Puerta de Enmedio 876
-Dolores Cuadrilla de Enmedio 1642
-Otates 572
-Mompani 1059
-Huimilpan 1542
-
-Jalpan 11010
-Ahuacatlan de Guadalupe 1815
-Valle de Guadalupe 790
-Sauz de Guadalupe 565
-San Martin Florida 1017
-San Martin 1430
-Puerta de San Rafael 978
-San Rafael 1914
-Colonia los Angeles 4309
-Los Olvera 3539
-
-Venceremos 15538
-Vista Hermosa 705
-San German 851
-San Jose Tepuzas 1045
-San Joaquin 1985
-Joaquin Herrera 1867
-
-La Negreta 8100
-La Noria 1665
-Noria Nueva 1627
-Guadalupe Septien 2635
-Ignacio Perez 1773
-Epigmenio Gonzalez 3151
-Los Gonzalez 524
-Los Alvarez 917
-Corea 917
-
-Amealco 7698
-San Ildefonso Tultepec 3204
-
-Paso de Mata 4632
-Landa de Matamoros 1609
-Cumbres del Cimatario 875
-Fraccionamiento del Parque Residencial 502
-Hacienda la Cruz [Fraccionamiento] 2373
-La Griega 4181
-Santa Cruz 3902
-San Vicente Ferrer 2173
-Chichimequillas 4169
-Sabino Chicho 700
-San Antonio de la Cal 2721
-Barrio de Garcia 733
-Arcila 3881
-
-La Estancia 5992
-Santa Lucia 784
-Santa Matilde 1537
-Pinal de Amoles 2000
-Pinalito de la Cruz 529
-San Pablo 565
-Ejido San Pablo 624
-Horno de Cal 646
-Sabino de San Ambrosio 638
-Valle de los Pinos 639
-Valle Verde 596
-Bomintza 596
-
-Colon 7014
-
-Ajuchitlan 5483
-Puerto de Chiquihuite 1002
-Huitron 611
-Lomas de Menchaca 611
-Rancho la Tinaja 669
-San Pablo Toliman 3667
-Toliman 2847
-Los Pocitos 2264
-Boyecito 528
-Ajuchitlancito 3238
-
-La Lira 6394
-
-Pedro Escobedo 9946
-
-El Sauz 6569
-El Saucillo 966
-El Sitio 600
-Lourdes 1315
-Los Banos 1801
-Los Juarez 597
-Los Benitos 1116
-Pathe 663
-Apapataro 1114
-Conca 1213
-El Rincon 1240
-El Rodeo 772
-El Poleo 503
-El Palmar 2884
-La Palma 2100
-Mesillas 1120
-Palmillas 1378
-Penamiller 1234
-El Jaral 1820
-El Varal 578
-El Zapote 979
-El Tejocote 2701
-El Blanco 3126
-Urecho 1856
-El Picacho 909
-Bosques de la Hacienda 909
-Esperanza 2537
-Zamorano 1938
-Diezmeros 553
-Guadalupe Primero 733
-Guadalupe la Venta 937
-
-La Canada 10506
-El Pozo 1220
-El Paraiso 1210
-El Cerrito Parado 537
+Alfajayucan 2617
+San Miguel Amazcala 1157
 San Miguel 736
 San Miguel Palmas 560
 San Miguelito 3133
@@ -269,89 +182,176 @@ Juriquilla 13309
 
 Santa Rosa Jauregui 18508
 Santa Catarina 1607
-Montenegro 3844
-El Milagro 1663
-El Mirador 804
-Valle Dorado Dos Mil 914
-Arroyo Seco 1425
-El Cerrito 571
-Presa de Rayas 1257
-Presa de Bravo 857
-La Purisima 857
-Purisima de Arista 2304
-
-Amazcala 5768
-San Miguel Amazcala 1157
-Alfajayucan 2617
+Santa Cruz 3902
 Santa Cruz Escandon 1272
-Chiteje de la Cruz 820
-Vaquerias 820
-Nuevo Amanecer 630
-El Nuevo Rumbo 587
-Palmas 587
-Encino Solo 535
-Zituni 862
-Lagunillas 2513
-El Vegil 2521
+Ejido San Pablo 624
+San Pablo 565
+Sauz de Guadalupe 565
+Valle de Guadalupe 790
+Ahuacatlan de Guadalupe 1815
+
+Jalpan 11010
+Huimilpan 1542
 Bravo 1407
-Ceja de Bravo 1086
-Bordo Blanco 2709
-El Ciervo 1352
-Vizarron 2235
-Yosphi 1386
-Coyotillos 1808
-Ejido Patria 944
-Ojo de Agua 1185
-Agua Azul 2258
-San Ildefonso 2406
-Calamanda 1743
-Camargo 852
-La Monja 1159
-Jofre 802
-Fray Junipero Serra [Fraccionamiento] 963
-La Laborcilla 887
-Viborillas 1138
-Sergio Villasenor 1238
-Patria Nueva 1202
-Santa Barbara de La Cueva 2074
-Santa Barbara 809
-San Sebastian de Las Barrancas Sur 1173
-Pueblo Quieto 512
+El Vegil 2521
+Lagunillas 2513
+La Noria 1665
+
+La Negreta 8100
 
 El Pueblito 71254
-Neblinas 930
-Palo Alto 2399
-Bernal 3965
-El Organal 2474
-El Gallo 1688
-Pie de Gallo 4089
-La Barreta 1223
-La Luz 1659
-Jofrito 1729
-San Jose Itho 1587
-San Pedro 1152
-San Isidro Miranda 3810
+Pueblo Quieto 512
+San Sebastian de Las Barrancas Sur 1173
 San Miguel Deheti 1000
-Vista Real y Country Club 767
+
+Amazcala 5768
+Calamanda 1743
+Epigmenio Gonzalez 3151
+San Ildefonso 2406
+San Ildefonso Tultepec 3204
+San Isidro Miranda 3810
+
+La Canada 10506
+El Pozo 1220
+
+Saldarriaga 5661
+La Loma 1287
+
+La Lira 6394
+
+Pedro Escobedo 9946
+
+San Pedro Martir 11552
+Colinas de Santa Cruz Segunda Seccion 3326
+Patria Nueva 1202
+
+Santa Maria Magdalena 9099
+Santa Matilde 1537
+Pinal de Amoles 2000
+Pinalito de la Cruz 529
+San Martin Florida 1017
+San Martin 1430
+Puerta de San Rafael 978
+San Rafael 1914
+Colonia los Angeles 4309
+Los Olvera 3539
+
+Venceremos 15538
+Ninguno [CERESO] 1539
+Santa Teresa 824
+San Isidro Buenavista 1584
+Buenavista 4115
+San Jose Buenavista 1554
+La Solana 3871
+Encino Solo 535
+El Nuevo Rumbo 587
+Nuevo Amanecer 630
+San Cirilo 780
+San German 851
+San Joaquin 1985
+Joaquin Herrera 1867
+Villa Guerrero 1651
+Guadalupe la Venta 937
+Guadalupe Primero 733
+Guadalupe Septien 2635
+Ignacio Perez 1773
+Noria Nueva 1627
+La Nueva Unidad 734
+San Vicente el Alto 1438
+San Vicente Ferrer 2173
+Chichimequillas 4169
+Mesillas 1120
+La Palma 2100
+San Francisco de la Palma 1825
+San Francisco 741
+Fraccionamiento del Parque Residencial 502
+Fray Junipero Serra [Fraccionamiento] 963
+Toliman 2847
+San Pablo Toliman 3667
+Valle de los Pinos 639
+Valle Verde 596
+Santa Rosa Finca 925
+
+Ajuchitlan 5483
+Ajuchitlancito 3238
+Escolasticas 2510
+La D 4298
+Arcila 3881
+Zituni 862
+Santa Fe Libertadores 603
+Horno de Cal 646
+Sabino de San Ambrosio 638
+Diezmeros 553
+Zamorano 1938
+Ejido Patria 944
+Coyotillos 1808
 San Pablo Potrerillos 679
 Tilaco 679
 Quintanares 679
-Escolasticas 2510
-La Ceja 1940
-Las Cenizas 806
-Portezuelo 521
-Charco Blanco 1752
-El Nabo 2448
-El Lobo 1781
-El Lindero 894
+El Varal 578
+Vista Real y Country Club 767
+Vista Hermosa 705
+Los Gonzalez 524
+San Jose Tepuzas 1045
+San Jose Itho 1587
+San Pedro 1152
+Yosphi 1386
+Vizarron 2235
+Arroyo Seco 1425
+Palmas 587
 Puerta de Palmillas 2176
+Santa Lucia 784
+Ojo de Agua 1185
+Camargo 852
+La Monja 1159
+Las Taponas 1994
+Las Cenizas 806
+
+Amealco 7698
+La Alameda del Rincon 687
+La Ceja 1940
+
+El Sauz 6569
+El Saucillo 966
+El Sitio 600
+Lourdes 1315
+Conca 1213
+Apapataro 1114
+Viborillas 1138
+Esperanza 2537
+
+Colon 7014
+Bomintza 596
+
+La Llave 5497
+Vistha 3421
+
+San Clemente 4852
+Boxasni 1481
+San Bartolome del Pino 676
+Agua Zarca 1306
+Agua Fria 1427
+Agua Azul 2258
+El Paraiso 1210
+La Griega 4181
+La Gotera 3536
+La Versolilla 1903
+La Barreta 1223
+Montenegro 3844
+El Nabo 2448
+Atongo 3513
+El Ciervo 1352
+Otates 572
+Mompani 1059
+Galeras 2358
+El Lobo 1781
+El Blanco 3126
 San Javier 1871
-La Trinidad 1836
 Maconi 756
-El Jazmin 1682
-Nahui Ollin [Fraccionamiento] 739
-Gudinos 514
-Mesa de Ramirez 723
+Los Benitos 1116
+Pathe 663
 Cerro Prieto 710
+Gudinos 514
+Vaquerias 820
 Sombrerete 594
 El Humo 510

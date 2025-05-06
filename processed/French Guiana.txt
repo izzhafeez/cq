@@ -4,23 +4,23 @@ Cayenne 61268
 Remire-Montjoly 25122
 Montsinery-Tonnegrande 2589
 Saint-Elie 242
-Saul 152
+Saint-Georges 4131
+Regina 876
+Iracoubo 1799
+Sinnamary 2919
+Kourou 25685
+Macouria 14202
+
+Matoury 31956
+Apatou 9241
 
 Saint-Laurent-du-Maroni 42612
 Awala-Yalimapo 1411
-Apatou 9241
-
-Matoury 31956
-Roura 3783
-Kourou 25685
-Macouria 14202
-Iracoubo 1799
-Sinnamary 2919
-Ouanary 200
 Mana 10894
-Grand-Santi 7918
-Papaichton 6668
-Maripasoula 13227
-Saint-Georges 4131
-Regina 876
 Camopi 1805
+Roura 3783
+Saul 152
+Ouanary 200
+Maripasoula 13227
+Papaichton 6668
+Grand-Santi 7918

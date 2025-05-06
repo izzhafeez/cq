@@ -5,7 +5,14 @@ Port-de-Paix 99580
 Saint-Louis-du-Nord 30037
 Trou-du-Nord 21805
 Limonade 14886
-Limbe 39756
+Cap-Haitien 155505
+Fort-Liberte 20463
+Ouanaminthe 58250
+Dessalines 26219
+Desdunes 27293
+L'Estere 18770
+Gonaives 228725
+Gros-Morne 30511
 Plaisance 14677
 Mirebalais 15562
 Croix-des-Bouquets 84812
@@ -15,33 +22,26 @@ Cabaret 36120
 Arcahaie 14702
 Saintard 32906
 Saint-Marc 122747
-Liancourt 15211
+Saint-Michel-de-l'Attalaye 30412
 Petite Riviere de l'Artibonite 35007
+Petit-Goave 76243
+Grand-Goave 19874
+Leogane 78477
+
+Carrefour 430250
 
 Cite Soleil 241055
 
+Delmas 359451
+
 Petionville 271175
 Thomassin 17195
-
-Delmas 359451
-Jacmel 39643
-Leogane 78477
-Grand-Goave 19874
-Petit-Goave 76243
-Miragoane 10947
-Anse-a-Galets 39783
-
-Carrefour 430250
-Verrettes 14015
-L'Estere 18770
-Desdunes 27293
-Dessalines 26219
 Les Cayes 71236
 Jeremie 34788
-Gonaives 228725
-Gros-Morne 30511
-Cap-Haitien 155505
-Fort-Liberte 20463
-Ouanaminthe 58250
+Miragoane 10947
+Anse-a-Galets 39783
+Limbe 39756
+Jacmel 39643
 Hinche 30595
-Saint-Michel-de-l'Attalaye 30412
+Verrettes 14015
+Liancourt 15211

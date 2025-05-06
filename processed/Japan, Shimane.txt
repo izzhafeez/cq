@@ -2,22 +2,22 @@
 
 Matsue 203616
 Yasugi 37062
-Masuda 45003
-Tsuwano 6875
-Yoshika 6077
-Nishinoshima 2788
-Okinoshima 13433
-Ama 2267
-
-Hamada 54592
-Gotsu 22959
 Kawamoto 3248
 Misato 4355
 Iinan 4577
-Onan 10163
-Unnan 36007
-Okuizumo 11849
+Yoshika 6077
+Tsuwano 6875
+Masuda 45003
+
+Hamada 54592
+Nishinoshima 2788
+Okinoshima 13433
+Ama 2267
+Chibu 634
 
 Izumo 172775
+Okuizumo 11849
+Unnan 36007
 Oda 32846
-Chibu 634
+Gotsu 22959
+Onan 10163

@@ -3,136 +3,136 @@
 Auckland 1470100
 Beachlands-Pine Harbour 7120
 Snells Beach 3730
-
-Hibiscus Coast 59800
-Masterton 21400
-Carterton 5800
-Greytown 2690
-Greymouth 8170
-Hokitika 2920
-Katikati 5420
-Omokoroa 3780
-Paeroa 4510
-Wairoa 4870
-Tokoroa 14300
-
-Rotorua 58500
-Putaruru 4530
-Oamaru 13700
-Timaru 28700
-Waimate 3570
-Matamata 8460
-Morrinsville 8320
-Helensville 3070
-Kumeu-Huapai 4690
-Paraparaumu 30100
-Waikanae 13650
-Wanaka 11550
-Cromwell 6480
-Alexandra 5790
-Arrowtown 3030
-Queenstown 16000
-Lake Hayes 6240
-Waiheke West 8490
-Waihi 5740
 Waihi Beach-Bowentown 2720
-Whangamata 4420
-Whitianga 6160
-Whanganui 42200
-Whangarei 54400
-One Tree Point 2650
-Ruakaka 2830
-Tuakau 5390
-Pukekohe 26500
-Waiuku 9650
-Waipukurau 4610
-Dannevirke 5750
-Levin 18800
-Foxton 3310
-Marton 5470
+Waihi 5740
+Te Aroha 4670
+Paeroa 4510
+Temuka 4660
+Geraldine 2800
 Feilding 17050
 Ashhurst 3160
-
-Palmerston North 81500
-Featherston 2680
-Upper Hutt 44300
-
-Lower Hutt 110700
-
-Porirua 59600
-Westport 4380
-Wakefield 2550
-Richmond 17250
-Picton 4730
-Blenheim 28200
-Renwick 2530
-Winton 2470
-Invercargill 50200
-Dargaville 4960
-Kaikohe 4820
-Kaitaia 6300
-Waitara 7270
-
-New Plymouth 57600
-Inglewood 3750
-Woodend 2970
-Rangiora 19250
-Turangi 3650
-Taumarunui 4860
-Taupo 25400
-
-Tauranga 151300
-Te Puke 9560
-Te Aroha 4670
-Te Anau 2940
-Te Awamutu 13100
+Waipukurau 4610
+Dannevirke 5750
+Pahiatua 2820
 Ngaruawahia 7740
 
 Hamilton 176500
 Lyttelton 3170
 
 Christchurch 383200
-Prebbleton 4970
-Rolleston 21900
-Lincoln 8130
+Taumarunui 4860
+Timaru 28700
+Oamaru 13700
+Waimate 3570
+Putaruru 4530
+Tokoroa 14300
+Omokoroa 3780
 
-Wellington 215100
-Hastings 49000
-Havelock North 14900
-Warkworth 6220
+Tauranga 151300
+Turangi 3650
+Te Kuiti 4770
+Otorohanga 3240
+Whangarei 54400
+One Tree Point 2650
+Kaikohe 4820
+Pukekohe 26500
+Tuakau 5390
+Ruakaka 2830
+Dargaville 4960
+Helensville 3070
+Kumeu-Huapai 4690
 Riverhead 3300
-Kerikeri 7850
-Pokeno 4020
-Huntly 8730
-
-Dunedin 106200
-Mosgiel 14600
+Picton 4730
+Blenheim 28200
+Renwick 2530
+Nelson 51100
+Richmond 17250
+Wakefield 2550
 Darfield 2960
+Rolleston 21900
+Featherston 2680
+
+Palmerston North 81500
+Havelock North 14900
+Hastings 49000
 
 Napier 66300
-Kaiapoi 12850
-Nelson 51100
-Motueka 8420
-Otaki 4980
+Wairoa 4870
+Gisborne 37000
 Ngongotaha 5210
 Opotiki 5210
 Whakatane 16700
 Kawerau 7750
 Hawera 10300
 Stratford 6030
-Gore 8230
-Balclutha 4230
+Inglewood 3750
+Woodend 2970
+Rangiora 19250
+Kaiapoi 12850
+Prebbleton 4970
+Lincoln 8130
+Whangamata 4420
+Whitianga 6160
 Thames 7380
 Maraetai 2500
-Gisborne 37000
-Cambridge 20500
-Geraldine 2800
-Temuka 4660
-Ashburton 20200
-Te Kuiti 4770
-Otorohanga 3240
+Waiheke West 8490
+Westport 4380
+Greymouth 8170
+
+New Plymouth 57600
+Waitara 7270
+Kaitaia 6300
+Kerikeri 7850
+Warkworth 6220
+
+Hibiscus Coast 59800
+Balclutha 4230
+Gore 8230
+Winton 2470
+Invercargill 50200
+Te Anau 2940
+Te Awamutu 13100
 Kihikihi 3090
+Cambridge 20500
+Morrinsville 8320
+Matamata 8460
+Katikati 5420
+Hokitika 2920
+
+Wellington 215100
+Cromwell 6480
+Alexandra 5790
+Arrowtown 3030
+Queenstown 16000
+Lake Hayes 6240
+Wanaka 11550
+Mosgiel 14600
+
+Dunedin 106200
+
+Lower Hutt 110700
+Upper Hutt 44300
+
+Porirua 59600
+Paraparaumu 30100
+Waikanae 13650
+Otaki 4980
+Levin 18800
+Foxton 3310
+Masterton 21400
+Carterton 5800
+Greytown 2690
+
+Rotorua 58500
+Te Puke 9560
+Whanganui 42200
+Marton 5470
+Ashburton 20200
+Taupo 25400
+Waiuku 9650
+Pokeno 4020
+Huntly 8730
 Raglan 3590
+Motueka 8420
 Pegasus 3360
 Ohope 3360
-Pahiatua 2820

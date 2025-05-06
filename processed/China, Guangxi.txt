@@ -3,173 +3,82 @@
 Nanning 2565649
 Taiping (Nanning) 30486
 Changtang (Nanning) 20306
-Lingli 23362
-Pinglang 16472
-Nanyang 19246
-Anyang 54347
-Disu 54164
-Baishan 71685
-Bailongtan 15216
-
-Longtan 77743
-Daba 21402
-Naba 14164
-Baiyu 25631
-
-Baise 212777
-Yongle (Baise Shi 17060
-Taiping (Baise Shi 60562
-
-Matou (Baise Shi 110574
-Pingguo 9411
-Sitang (Pingguo) 17895
-Lingma 28451
-Wangmao 52531
-Yashan 59273
-Hengshan 29458
-Fengshan (Yulin) 68445
-Datong (Yulin) 23263
-
-Dongping (Yulin) 86734
-Langping (Yulin) 23626
-
-Zhangmu (Yulin) 79772
-Shatian (Yulin) 50153
-Xinqiao (Yulin) 53994
-
-Yulin 508457
-Datang (Yulin) 17863
-Xinwei (Yulin) 53634
-Shanwei (Yulin) 26791
-Rongxi 13635
-
-Rongzhou 148106
-Longzhou 66566
-Chengzhong 64452
-Jiangzhou 35564
-
-Chongzuo 115324
-Zuozhou 31036
-Nalong (Chongzuo) 27998
-Zhongdong 31429
-Tanluo 64937
-Luowei 44304
-Linwei 69420
-
-Tanwei 81653
-
-Xinwei (Qinzhou) 92176
-Pingshan (Qinzhou) 31900
-Shitang (Qinzhou) 35251
-Lemin 36099
-Minle 62931
-Min'an 35933
-Tang'an 47513
-Qingshuikou 38749
-Lingshan 31921
-Longsheng (Yulin) 67624
-Pingle (Yulin) 42700
-
-Pingle (Guilin) 86359
-Maling (Guilin) 39489
-Datang (Guilin) 20777
-Sitang (Guilin) 39655
-Liangjiang (Guilin) 59602
-Liutang (Guilin) 35630
-
-Guilin 826183
-
-Lingui 134519
-
-Guiling 74249
-Kaishan 11962
-Baisha (Hezhou) 9293
-Gucheng (Hezhou) 19868
-Fuli (Hezhou) 17803
-Shilong (Hezhou) 23635
-Qingtang (Hezhou) 38269
-
-Shatian (Hezhou) 92851
-
-Liantang (Hezhou) 77070
-
-Hezhou 150315
-Nanxiang (Hezhou) 16776
-Daning 37338
-Ningtan 44069
-Liangtian 62718
-Xintian 37849
-Jintian 68751
-Zijing 18773
-Beijing 25187
-Yantan 28396
-Yantang 19439
-Yuantou 38976
-Guantong 40382
-Fuwang 53520
-Liuwang 52298
-Yangmei 44506
-
-Longmen 79777
-Longmengang 7367
-
-Fangchenggang 114768
+Shitang (Nanning) 48030
+Liantang (Nanning) 30864
+Nanxiang (Nanning) 61308
+Maling (Nanning) 23081
+Mashan (Nanning) 39765
+Baihe 70816
+Jinjie 27318
+Dongping (Chongzuo) 20639
+Jiangcheng 15282
 
 Fangcheng 121079
+
+Fangchenggang 114768
 Malu (Fangchenggang) 13117
 
 Dongxing (Fangchenggang) 88607
 Jiangping 42985
-Guangpo 21242
-Guangping 62134
-Anping 27302
+Nasuo 24577
+Fulong 26432
+Gulong 37682
+
+Taiping (Wuzhou) 92768
+Heping 57440
 Tianping 62598
-Dazhou 31736
-Lingjing 33358
-Dongjing 24955
-Dongling 31306
-Longlin 26664
-Longhe 22259
-Chengxiang (Baise Shi 47865
-Chengguan (Baise Shi 55545
-Ma'ai 32903
+Anping 27302
+Guangping 62134
+Chengjian 38757
+Chengjiang 50776
+Anyang 54347
+Duyang 21290
+Fuyang 66856
+Yangtou 36432
+Huangtian 71910
+Liangtian 62718
+Qinghu 43469
+Qingwan 48853
+Dalun 31893
+Dalu 32456
+Huashi 12365
+Xiashi 18060
+Shangshi 13918
+Xiangshui 12652
+Xinhe 17994
+Xinhua 21472
+Tongle 42130
+Yongle (Baise Shi 17060
 
-Da'an 89188
-Wulin 22728
-Wuling 38847
-Zhonghua 20795
-Honghua 18256
+Baise 212777
 
-Zhongshan 96582
-Zhongsha 43922
-Songshan 31813
-Pingshan (Guigang) 37877
-Luoxiu (Guigang) 57684
-Dapo (Guigang) 30993
+Pingma (Baise Shi 98985
+Taiping (Baise Shi 60562
 
-Guigang 702965
-Xintang (Guigang) 49575
-Sanli (Guigang) 48788
-Zhangmu (Guigang) 52458
-Wushan 21975
-Sishan 41931
-Shiya 34191
-Shiyong 14130
-Anshi 23977
-Quanshui 24425
-Xianshui 26529
-Shaoshui 41246
-Longshui 36127
-Caiwan 44803
-Baiwang 22443
-Jinchai 22204
-Yincha 17835
-Jiangcheng 15282
-Dongping (Chongzuo) 20639
-Xiangdu 37096
-Hongdu 29558
-Zhongdu 32203
-Pingshan (Liuzhou) 37016
+Matou (Baise Shi 110574
+Jiuzhou (Baise Shi 16235
+Longhuo 25092
+Pingban 27618
+Huaping 13313
+Maping 26242
+Langping (Baise Shi 24990
+Zhongping 25040
+
+Dongping (Yulin) 86734
+Datong (Yulin) 23263
+Fengshan (Yulin) 68445
+Hengshan 29458
+Mengshan 53070
+Qingshan 34052
+Lingshan 31921
+Qingshuikou 38749
+Tang'an 47513
+
+Chang'an 108218
+Long'an 40187
+Xiaochang'an 28681
+Hemu 21025
+Yongle (Liuzhou) 21394
 Taiping (Liuzhou) 40516
 Shatang (Liuzhou) 30691
 Changtang (Liuzhou) 39826
@@ -179,77 +88,161 @@ Fengshan (Liuzhou) 17818
 Mashan (Liuzhou) 24942
 Liutang (Liuzhou) 27653
 Chongmai 14017
-Zhailong 13554
-Silong 41193
-Kunlun 17238
-Chenping 13165
-Xinping 26446
-Dongchang 22155
-Gongcheng 50583
-Shazi 37082
-Shangshi 13918
-Xiangshui 12652
-Langshui 15516
-Ziliang 28875
-Shili 30601
-Shiling 31831
-Taodeng 30261
-Pingdeng 21191
-Jingde 26572
 
-Xinjing 95553
-Huatong 16193
-Lutong 38655
-Wutong 46957
-Zhongyong 15601
-Yongzhou 33556
-Jiucheng 33988
-Liuchen 56820
-Youma 42679
+Chongzuo 115324
+Nalong (Chongzuo) 27998
+Tuolu 46024
+Qujiu 23268
+Zaimiao 26849
+Simian 37044
+Dapo (Guigang) 30993
+Pingshan (Guigang) 37877
+Luoxiu (Guigang) 57684
 Matong 73597
 Shebu 48395
-Shepo 64461
-Gepo 16852
-Chengbei 16688
-Fengcheng 40467
-Sanmenhai 9271
-Sanmen 14589
-Doujiang 16825
-Guyi 51228
-Youyi 19212
-Pingxiang 60969
-Xiangxian 25444
-Xinqiao (Nanning) 65983
-Xinwei (Nanning) 19142
-Daqiao (Nanning) 53484
-Yangqiao 22370
-Xiaopingyang 46639
-Xiangyang 23918
-Liupai 47372
-Luofu 20596
-Fuluo 21656
-Fulong 26432
-Nasuo 24577
-Huashi 12365
-Xiashi 18060
-Mingjiang 27369
-Liangjiang 44231
-Qianjiang 69211
-Qiaoxian 24714
-Pingyang (Laibin) 46129
+Xiawan 55307
+Dawan (Guigang) 47643
+Baisha (Guigang) 61828
 
-Laibin 185083
-Chengxiang (Laibin) 31968
-Shilong (Laibin) 21263
-Dawan (Laibin) 28145
+Dawei (Guigang) 84857
+
+Guigang 702965
+Xintang (Guigang) 49575
+Sanli (Guigang) 48788
+Zhangmu (Guigang) 52458
+
+Zhangmu (Yulin) 79772
+Langping (Yulin) 23626
+Shatian (Yulin) 50153
+Xinqiao (Yulin) 53994
+Pingle (Yulin) 42700
+
+Yulin 508457
+Datang (Yulin) 17863
+Xinwei (Yulin) 53634
+Shanwei (Yulin) 26791
+Rongxi 13635
+
+Rongzhou 148106
+Xinrong 30807
+Min'an 35933
+Xin'an 49237
+Pingguo 9411
+Sitang (Pingguo) 17895
+Lingma 28451
+Pingma (Nanning) 26489
+Datang (Nanning) 37638
+Nachen 24440
+Dacheng 25899
+Zhanghuang 69234
+
+Fenghuang 84362
+Chenghuang 47568
+Kuiyang 63128
+Siyang 71468
+Jiao'an 32070
+Lingjiao 50605
+Mengjiang 64910
+Dongjiang 43363
+
+Hechi 139409
+Yong'an (Hechi) 16815
+Daxing 27043
+Gaoling 59405
+Guling 40906
+Wuling 38847
+Lingli 23362
+Pinglang 16472
+Nanyang 19246
+Luancheng 37760
+
+Guancheng 77344
+
+Siwang 76301
+Baiwang 22443
+Jinchai 22204
+Yincha 17835
+Sancha 14112
+Luodong 18720
+Luoxi 21375
+Luoxiu (Laibin) 22793
 Ertang (Laibin) 38904
 Sanli (Laibin) 28524
 Datang (Laibin) 30612
 
 Chengguan (Laibin) 76919
-Silian 37769
-Liangtang 24212
-Changtan 40140
+Pingyang (Laibin) 46129
+Chengxiang (Laibin) 31968
+
+Laibin 185083
+Dawan (Laibin) 28145
+Shilong (Laibin) 21263
+Huangmao 21794
+Wangmao 52531
+Yashan 59273
+Santan 57250
+Huangling 24210
+Wangling 26780
+Huanglian 34719
+
+Litang 110794
+Heji 32096
+Hejie 62241
+Butou 28353
+Xindu 48236
+Lingfeng 6635
+
+Qingfeng 76173
+Zhongfeng 24385
+Nabu 15485
+Liujia 11312
+Liujing 66879
+Jingde 26572
+Longlin 26664
+Dongling 31306
+Tongling 43919
+Siling 19385
+Tongwan 30313
+Songwang 31234
+
+Gongguan 96492
+Huangguan 38582
+Xinjie 33723
+Anhe 27098
+Lianghe 27151
+Wenshi 29327
+Anshi 23977
+Quanshui 24425
+Changle (Beihai) 62763
+
+Baisha (Beihai) 89759
+Shatian (Beihai) 14686
+Pingyang (Beihai) 13364
+
+Beihai 339376
+Nali 27002
+Wujia 15549
+Xiniujiao 44385
+
+Xichang 80064
+Michang 41673
+Shahu 19579
+Shahe 53440
+Jiangning 38048
+Jiangxi 30575
+Xiangxian 25444
+
+Chengxiang (Wuming) 120914
+Luwo 44016
+Matou (Nanning) 15477
+Xinwei (Nanning) 19142
+Daqiao (Nanning) 53484
+Xinqiao (Nanning) 65983
+
+Binzhou 208074
+
+Qinzhou 339577
+Datong (Qinzhou) 27437
 Xintang (Qinzhou) 36819
 
 Taiping (Qinzhou) 89534
@@ -257,62 +250,43 @@ Taiping (Qinzhou) 89534
 Jiuzhou (Qinzhou) 80187
 
 Nalong (Qinzhou) 83614
-Datong (Qinzhou) 27437
 
-Qinzhou 339577
-Xinzhou 53909
-Pingban 27618
-Longbang 16739
-Tangbu 53579
-Langnan 38996
-Xindi 60361
-Tongxin 19655
-Dongxiang 38275
-Menggong 28524
-Mengwei 71028
-Yangwei 29686
-Liulong 18098
-Leli 38845
-Tongle 42130
-Tongling 43919
-Donglong 43679
-Tongwan 30313
-Qingwan 48853
-Qinghu 43469
-Longhu 11977
-Dongtou 13268
-Longtou 15954
-Wenli 25887
-Sanli (Nanning) 38319
-Shuangwang 29769
-Mingliang 20899
-Tingliang 28275
-Huanglian 34719
-Wangling 26780
-Gula 36569
-Guling 40906
-Xiyan 28574
-Siyang 71468
-Jiao'an 32070
-Hualan 9944
-Dalang 16739
-Dizhou 22937
-Weizhou 9168
-
-Lianzhou 192813
-
-Tianzhou 84050
-Toutang 23432
-Wutang 53978
-Putang 32137
-Putao 29937
+Xinwei (Qinzhou) 92176
+Pingshan (Qinzhou) 31900
+Shitang (Qinzhou) 35251
+Lemin 36099
+Suqiao 26097
+Sitang (Guilin) 39655
+Liangjiang (Guilin) 59602
+Liutang (Guilin) 35630
 Baisha (Guilin) 41954
 Fuli (Guilin) 36848
 Ertang (Guilin) 66955
+Maling (Guilin) 39489
+Datang (Guilin) 20777
+Huaze 20030
+Shuangjiang 27167
+Dangjiang 45408
+Liangjiang 44231
+Qiaogong 33872
+Qiaogang 18473
+Shagang 30710
+Xinggang 41533
+Nankang 53738
+Shikang 64818
+Shika 55313
+Genzhu 26416
+Wenzhu 8755
+Xinping 26446
+Dongchang 22155
+Gongcheng 50583
+Shazi 37082
+
+Pingle (Guilin) 86359
 Zhangjia 36175
 Changjiang 15550
-Changzhou (Hechi) 16132
-Changle (Hechi) 14051
+Dachang 28109
+Mangchang 23194
 Chengguan (Hechi) 67804
 Chuanshan (Hechi) 36322
 Luoyang (Hechi) 34160
@@ -320,7 +294,268 @@ Dongxing (Hechi) 18352
 
 Dongmen (Hechi) 83675
 Siba 45051
-Huaibao 14363
+Huangjin 16840
+Dongjin 50102
+Wule 29909
+
+Qiaowei 81676
+Taowei 53668
+Xiaoyi 66596
+Nanxiao 26956
+Xiaodong 66774
+Chaodong 25638
+Chengbei 16688
+Fucheng 72127
+Jiucheng 33988
+Liuchen 56820
+Youma 42679
+Shepo 64461
+Mule 61135
+Zhenlong 67599
+Sanlong 48114
+Jinlong 18365
+Longzhou 66566
+Chengzhong 64452
+Jiangzhou 35564
+Mingjiang 27369
+Dingjiang 30144
+Rongjiang 49600
+Longji 13653
+Longsheng (Guilin) 40194
+Longsheng (Yulin) 67624
+Fuxin (Yulin) 18970
+Shatong 23294
+Shatou 61491
+
+Shatian (Hezhou) 92851
+
+Hezhou 150315
+
+Liantang (Hezhou) 77070
+Nanxiang (Hezhou) 16776
+Shilong (Hezhou) 23635
+Qingtang (Hezhou) 38269
+Yantang 19439
+Gong'an 43506
+Huilong 34766
+Silong 41193
+Kunlun 17238
+Chenping 13165
+Zhonghua 20795
+Honghua 18256
+
+Zhongshan 96582
+Zhongsha 43922
+Songshan 31813
+Luojiang 19182
+Luojin 32701
+Liuken 38714
+Jiangshan 17330
+Luoyang (Yulin) 19643
+Shatang (Yulin) 46950
+Zhanjiang 42735
+Yanjiang 17164
+Qianjiang 69211
+Shiling 31831
+Shili 30601
+Langshui 15516
+Ziliang 28875
+Xiangqi 34546
+Liangqing 39203
+Shuangqiao 45478
+Shuangding 27902
+Dingdang 24808
+Xingdaohu 24048
+Shiwan 40330
+Shiwo 49457
+Shapo (Luchuan) 56073
+
+Wenquan 148687
+Daqiao (Yulin) 36093
+
+Wushi 88510
+Fushi 26207
+Baishou 26661
+Baishan 71685
+Kaishan 11962
+Baisha (Hezhou) 9293
+Gucheng (Hezhou) 19868
+Fuli (Hezhou) 17803
+Gepo 16852
+Mailing 19537
+Xiling 31922
+Kangxiling 32546
+Mugen 43964
+
+Muge 77520
+Muzi 45598
+Watang 36096
+Etang 47532
+Putang 32137
+Wutang 53978
+Toutang 23432
+
+Tianzhou 84050
+
+Lianzhou 192813
+Danzhou 14550
+Dajiang 19891
+Doujiang 16825
+Lejiang 15342
+Piaoli 13258
+Baoli 21301
+Gantang 35630
+Huixian 44002
+Xianhu 32109
+Luowei 44304
+Chengxiang (Long'an) 60035
+Chengxiang (Baise Shi 47865
+Liangjiang (Nanning) 26664
+Ande 27917
+Tiandeng 67426
+Longming 16664
+Quanming 20002
+Tanmian 22008
+
+Fumian 97075
+Renhou 25027
+Rendong 45628
+Yandong 18136
+Donglan 47775
+Aidong 28780
+Changle (Hechi) 14051
+Changzhou (Hechi) 16132
+Changzhou (Wuzhou) 41351
+
+Wuzhou 349295
+Dapo (Wuzhou) 50083
+Malu (Wuzhou) 62999
+Botang 29689
+Sanbao 55433
+Dalong 26897
+Shuiwen 43231
+Longshui 36127
+Yongsui 31439
+Yongfu 53801
+Zhongyong 15601
+Wutong 46957
+Dutong 35965
+Linxi 19861
+Jinxiu 17624
+Tongmu 44830
+Dale 21496
+Sicun 38672
+Licun 62393
+Yangcun 42831
+Yangmei 44506
+
+Longmen 79777
+Beitong 54551
+Beituo 28365
+Wujiang 26306
+Majiang 29639
+Bajiang 25015
+Xia'ao 31174
+Chentang 21084
+Santang 52285
+Liuzhai 36781
+Qingtang (Qinzhou) 41942
+Napeng 30920
+Dapeng 34413
+
+Jiangkou 73618
+Jingkou 40648
+
+Bobai 183102
+Shapo (Bobai) 34983
+Daba 21402
+
+Longtan 77743
+Bailongtan 15216
+Zhailong 13554
+Dapu 71515
+Shapu 30434
+Shibeiping 20086
+Leiping 42278
+Taocheng 66869
+
+Licheng 82768
+Sicheng 49698
+Fengcheng 40467
+Sanmenhai 9271
+Sanmen 14589
+Guyi 51228
+Pingdeng 21191
+Taodeng 30261
+Xiaopingyang 46639
+Wushan 21975
+Sishan 41931
+
+Xishan 172140
+
+Nanmu 90514
+Shiju 44218
+Mugui 60576
+Jintian 68751
+Zijing 18773
+Beijing 25187
+Yantan 28396
+Bangwei 24751
+Yangwei 29686
+Liulong 18098
+Longhe 22259
+Tonghe 36100
+Donghua 29225
+
+Danzhu 78358
+Wulin 22728
+
+Da'an 89188
+Daxin 67979
+Daxijiang 28410
+Wenqiao 43242
+Miaotou 22440
+
+Pumiao 119382
+Xinjiang 21817
+Nama 23382
+Naman 18572
+Baiyu 25631
+Haiyuan 34627
+Nakan 30440
+Liuqiao 28590
+Dongluo 28215
+Donglong 43679
+Shiya 34191
+Shiyong 14130
+Liyong 23900
+Jinde 49025
+
+Labao 167370
+Taiyangcun 42789
+Chengtuan 44921
+Sandu 24470
+Nandu 63188
+Liuwang 52298
+Fuwang 53520
+Guantong 40382
+Yuantou 38976
+Ziyuan 48908
+Xianshui 26529
+Xiangli 42354
+
+Xing'an 92524
+Yanguan 17893
+Guanyang 66243
+Xinwei (Guilin) 18831
+Shitang (Guilin) 56950
+Jiantang 22460
+
+Quanzhou 112620
+Huangshahe 20571
+Yangshuo 54227
+Gaotian 31454
+Tianhe 16840
 Huaiqun 17274
 Huaiyuan 31263
 
@@ -330,573 +565,338 @@ Beishan 29042
 Beishi 45097
 Xiaopingshan 30007
 Dapingshan 41656
-Shaping 37599
-Pingji 71455
-Jiulong 31615
-Gulong 37682
-
-Taiping (Wuzhou) 92768
-Heping 57440
-Donghua 29225
-Tonghe 36100
-
-Guancheng 77344
-
-Siwang 76301
-Shiwan 40330
-Xingdaohu 24048
-Dingdang 24808
-Shuangding 27902
-Shuangqiao 45478
-Liangqing 39203
-
-Pumiao 119382
-
-Fumian 97075
-Renhou 25027
-Rendong 45628
-Yandong 18136
-Bama 70525
-Nama 23382
-Xinjiang 21817
-Xinjie 33723
-Jieshou 35242
-Sanjie 15797
-
-Lingchuan 115242
-Tanxia 27417
-Nanxiao 26956
-Xiaodong 66774
-Chaodong 25638
-Luodong 18720
-Luoxi 21375
-Luoxiu (Laibin) 22793
-Jinxiu 17624
-Xiuren 31077
-Qingshan 34052
-Mengshan 53070
-Xihe 28273
-Shihe 25699
-Baihe 70816
-Mashan (Nanning) 39765
-Maling (Nanning) 23081
-Liantang (Nanning) 30864
-Nanxiang (Nanning) 61308
-Pingma (Nanning) 26489
-Shitang (Nanning) 48030
-Luwei 22920
-Taowei 53668
-
-Qiaowei 81676
-Zhanjiang 42735
-Yanjiang 17164
-Jinjie 27318
-Xin'an 49237
-Yan'an 20776
-Nachen 24440
-Dacheng 25899
-Zhanghuang 69234
-
-Fenghuang 84362
-Chenghuang 47568
-Kuiyang 63128
 
 Shinan 76862
 Shanxin 64090
-Shatang (Yulin) 46950
-Gaofeng 35624
-Fengtang 30682
-Nayang 45464
-Dayang 56224
-Dawan (Guigang) 47643
+Tanxia 27417
 
-Dawei (Guigang) 84857
-Baisha (Guigang) 61828
-Shilong (Guigang) 61854
+Lingchuan 115242
 
-Qingfeng 76173
-Lingfeng 6635
-Fengxiang 23241
-Shanhu 14158
-Xianhu 32109
-Lianhua 49740
-Ping'an 32832
-Xingping 38440
-Xiling 31922
-Jiahui 21325
-Shahu 19579
-Michang 41673
+Lingui 134519
 
-Xichang 80064
-Shagang 30710
-Qiaogang 18473
-Yintan 72821
-Yingpan 47444
-Fucheng 72127
-Pingyang (Beihai) 13364
-
-Beihai 339376
-
-Baisha (Beihai) 89759
-Shatian (Beihai) 14686
-Changle (Beihai) 62763
-Shikang 64818
-Nankang 53738
-Shankou 70153
-Zhakou 31173
-Jingkou 40648
-
-Jiangkou 73618
-Mugui 60576
-
-Muge 77520
-Muzi 45598
-Watang 36096
-Shika 55313
-Genzhu 26416
-Wenzhu 8755
-Wenwei 31132
-Xinwei (Wuzhou) 21536
-Dumo 21323
-Liuma 61867
-Shapo (Luchuan) 56073
-Mapo 71693
-Napo 37318
-Napeng 30920
-Dapeng 34413
-Gupeng 27779
-Baipeng 58643
-Jinde 49025
-
-Labao 167370
-Taiyangcun 42789
-Yangcun 42831
-Licun 62393
-Dalun 31893
-Dalu 32456
-Naliang 41577
-Nali 27002
-Nasi 22367
-
-Dasi 73707
-Nameng 37066
-Naman 18572
-Wucun 19184
-Longsang 16343
-Sanlong 48114
-Jinlong 18365
-Longming 16664
-Quanming 20002
-Taocheng 66869
-Xiaochang'an 28681
-Long'an 40187
-
-Chang'an 108218
-Dajiang 19891
-Bajiang 25015
-Xia'ao 31174
-Chentang 21084
-Banlan 20196
-Langping (Baise Shi 24990
-Zhongping 25040
-Xinqing 30696
-Qingtang (Qinzhou) 41942
-Liuzhai 36781
-
-Luzhai 120789
-Zhaisha 62074
-Sipai 25725
-Toupai 15229
-Tongmu 44830
-Dale 21496
-Dali 45062
-Daliang 19675
-Hemu 21025
-Yongle (Liuzhou) 21394
-
-Rongshui 100331
-Fushi 26207
-
-Wushi 88510
-Shiwo 49457
-Pingzheng 62760
-
-Hengzhou 163053
-Xiangzhou 53215
-Sicun 38672
-Sicheng 49698
-
-Licheng 82768
-Shuiche 21024
-Wenshi 29327
-Lianghe 27151
-Shitang (Guilin) 56950
-Xinwei (Guilin) 18831
-Guanyang 66243
-Huangguan 38582
-Yanguan 17893
-
-Xing'an 92524
-Xiangli 42354
-Anhe 27098
-Sanhe 29656
-Tianhe 16840
-Huangjin 16840
-Shuangjiang 27167
-Huaze 20030
-Jiazhuan 20517
-Wuzhuan 16643
-Sanshi 15157
+Guilin 826183
+Dawei (Guilin) 46221
+Zhemu 20679
 Yanshan 40773
 Lianshan 21842
 Nanbianshan 24041
-Yunbiao 62163
-Xiaoyi 66596
-
-Xiaojiang 118652
-Nalin 38636
-Yong'an (Yulin) 29566
-Pingmu 20647
-Shuangfeng 18962
-Zhongfeng 24385
-Nabu 15485
-Liujia 11312
-Liujing 66879
-Luancheng 37760
-
-Bancheng 77050
-
-Cencheng 172147
-Chengjian 38757
-Chengjiang 50776
-Mengjiang 64910
-Lingjiao 50605
-Daoshui 34691
-Xiaying 37248
-Jiayou 23517
-Xiajia 19126
-Najia 23428
+Mingliang 20899
+Tingliang 28275
+Naliang 41577
+Daliang 19675
+Dali 45062
+Dongrong 30320
 Zurong 20269
-Hurun 22354
-Yuewei 10426
-Yueli 17827
-Mangchang 23194
-Dachang 28109
-Chehe 20570
-
-Lingcheng 155604
-Pingnan 40108
-Lingnan 69891
-Beisi 23508
-Heli 21097
-Qiaogong 33872
-Gonghui 63613
-Gong'an 43506
-Huilong 34766
-Tonggu 19561
-
-Gongguan 96492
-Songwang 31234
-Lisong 16260
-Huangtian 71910
-Lingtian 33486
-Gaoshang 38576
-Wanggao 31286
-Xinggang 41533
-Gantang 35630
-Jiantang 22460
-
-Quanzhou 112620
-Danzhou 14550
-
-Danzhu 78358
-Jinzhu 41997
-Daye 42312
-Dalong 26897
-Shuiwen 43231
-Yiwei 18969
-Pozao 16011
-Zaimiao 26849
-Liuqiao 28590
-Suqiao 26097
-Yongfu 53801
-Wangfu 39027
-Xialei 24036
-Leiping 42278
-Shibeiping 20086
-Shapu 30434
-Dapu 71515
-Dapowai 38156
-Xinrong 30807
-Rongjiang 49600
-Longji 13653
-Dingjiang 30144
-Dangjiang 45408
-Dongjiang 43363
-
-Hechi 139409
-Yong'an (Hechi) 16815
-Daxing 27043
-Gaoling 59405
-Maoling 18054
-
-Maolin 80360
-Baoli 21301
-Piaoli 13258
-Lejiang 15342
-Heji 32096
-
-Litang 110794
-Qingshitan 29852
-Shitou 42562
-Beitong 54551
-Beituo 28365
-Zouma 24111
-Majiang 29639
-Wujiang 26306
-Wujia 15549
-Xiniujiao 44385
-Dafanpo 15902
-Dafeng 61826
-Matou (Nanning) 15477
-Luobo 23538
-Luobu 6188
-
-Luorong 80489
-Dongquan 53268
-
-Wenquan 148687
-Wenqiao 43242
-Miaotou 22440
-Huangshahe 20571
-Shahe 53440
-Jiangning 38048
-Jingnan 32506
-Liubao 21104
-Libu 28753
-Butou 28353
-Shatou 61491
-Shatong 23294
-Fuxin (Yulin) 18970
-Baima 41887
-Baiji 34935
-Maijiu 24881
-Mailing 19537
-Siling 19385
-Silin 44412
-Guohua 44487
-Guosui 21241
-Yongsui 31439
-Liyong 23900
-Chuanshan (Liuzhou) 63672
-Baisha (Liuzhou) 16071
-Pohong 31053
-Tongzhong 22919
-Tongmian 34923
-Aidian 7124
-Siding 17433
-Baishou 26661
-Chadong 19727
-Xiadong 16497
-Shuikou (Chongzuo) 17778
-Shanwei (Chongzuo) 31624
-Dongmen (Chongzuo) 40745
-Dongluo 28215
-Qujiu 23268
-Quli 44282
-Wuli 59279
-Baishishui 32885
-Qisha 31010
-
-Xishan 172140
-
-Nanmu 90514
-Mule 61135
-Zhenlong 67599
-Daxin 67979
-Daxijiang 28410
-Meixi 24895
-Ziyuan 48908
-Haiyuan 34627
-Laituan 19499
-Chengtuan 44921
-Sandu 24470
-Sancha 14112
-Liushan 16516
-Liusanjie 33808
-Jinji 58785
-Xiangqi 34546
-Xiandi 41108
-
-Wendi 80001
-Yingqiao 48420
-Tianshengqiao 18977
-De'e 33180
-Si'en 48383
-Shuiyuan 28294
-Bagong 13449
-Jiuwei 21858
-Liuwei 31185
-Wuwei 58937
-Suwei 52182
-
-Xinning 87839
-Datang (Nanning) 37638
-Guitai 22855
-Dazhi 67275
-Huangwutun 39468
-Ningwu 30596
-Fengwu 22854
-Bangwei 24751
-
-Longwei 97101
-Changzhou (Wuzhou) 41351
-
-Wuzhou 349295
-Dapo (Wuzhou) 50083
-Malu (Wuzhou) 62999
-Botang 29689
-Etang 47532
-Hejie 62241
-Lalie 25688
-Laren 18118
-Renyi 50409
-Xindu 48236
-Nandu 63188
-Yandun 53864
-Dungu 39208
-Shuiming 54328
-Simian 37044
-Luojiang 19182
-Luojin 32701
-Liuken 38714
-Jiangshan 17330
-Luoyang (Yulin) 19643
-Huangmian 19999
-Huangmao 21794
-
-Wuxuan 77632
-Luxin 33968
-Fuxin (Chongzuo) 25040
-Mugen 43964
-Zhangmulin 30145
-Kangxiling 32546
-Jiangxi 30575
-Jinling 48104
-Ganwei 16932
-Nanwei 46815
-Qiaojian 29291
-Natong 41204
-Chengxiang (Long'an) 60035
-Tong'an 38692
-Maping 26242
-Huaping 13313
-Xinhua 21472
-Xinhe 17994
-Tuolu 46024
+Najia 23428
+Xiajia 19126
 Luolou 33893
 Shuolong 10540
 Shuoliang 27628
+Naba 14164
+Yufeng 32641
 Linfeng 42718
-Xinfeng 38991
-Xinfu 33962
-Sanhuang 18130
-Zouwei 30726
-Jiuzhou (Baise Shi 16235
-Longhuo 25092
-Nalao 7743
-Ding'an 11638
-Gantian 13484
-Gaotian 31454
-Yangshuo 54227
-Bada 39489
-Baiwei 55094
-Zhaiwei 66071
-Shizhai 27792
+Fengwu 22854
+Ningwu 30596
+Ganwei 16932
 
-Beiliu 117109
-Xiyin 47887
-Guiyi 65379
-Nuotong 62905
-Sanbao 55433
-Santan 57250
-Huangling 24210
-Tanmian 22008
-Daqiao (Yulin) 36093
-Gucheng (Yulin) 48737
-Shapo (Bobai) 34983
+Tanwei 81653
+Wuli 59279
+Baishishui 32885
 
-Bobai 183102
-Tubo 27640
-Ligao 22584
-Luoman 27920
-Shanluo 50974
-
-Binzhou 208074
-Zhoulu 58020
-
-Dahua 91246
-Anhuai 55456
-Dongrong 30320
-Huangcun 19748
-Mengcun 41898
-Pingmeng 11450
-Ande 27917
-Liangjiang (Nanning) 26664
-Quyang 31709
-Fuyang 66856
-Yangtou 36432
-Huangyao 49388
-Shuikou (Hezhou) 10628
-Shiqiao 56281
-Mushuang 12848
-Chengdong 17707
-
-Tengzhou 146035
-
-Chengxiang (Wuming) 120914
-Luwo 44016
+Bolao 73740
+Nasi 22367
+Jiulong 31615
+Pingji 71455
 
 Luwu 83003
 
-Bolao 73740
-Donglan 47775
-Aidong 28780
-Wu'ai 14936
-Wule 29909
-Dongjin 50102
-Xiawan 55307
-Shiju 44218
-Chengjun 72715
+Bancheng 77050
+Changtan 40140
+Liangtang 24212
+Beisi 23508
+Lingnan 69891
+Pingnan 40108
+Shaping 37599
+Yandun 53864
 
-Pingma (Baise Shi 98985
-Yufeng 32641
-Sitang (Youjiang) 27586
+Lingcheng 155604
+Fozi 46169
+Sanhe 29656
+Sanhuang 18130
+Anhuai 55456
+Lianhua 49740
+Ping'an 32832
+Ding'an 11638
+Nalao 7743
+De'e 33180
+Xinzhou 53909
+Tianshengqiao 18977
+Yangqiao 22370
+Yingqiao 48420
+Xintian 37849
+Gantian 13484
+Jiayou 23517
 Longchuan 31642
+Sitang (Youjiang) 27586
+Napo 37318
+Wucun 19184
+Longsang 16343
+Xiangdu 37096
+Dongxiang 38275
+Fengxiang 23241
+Shanhu 14158
+Tonggu 19561
+Huangyao 49388
+Xiangyang 23918
+Liupai 47372
+Luofu 20596
+Wu'ai 14936
+Chehe 20570
+Bagong 13449
+Shuiyuan 28294
+Si'en 48383
+Desheng 42713
+Laren 18118
+Lalie 25688
+Disu 54164
+
+Dahua 91246
+Zhoulu 58020
+Yongzhou 33556
+Tongzhong 22919
+Tongmian 34923
+Aidian 7124
+Pingxiang 60969
+Youyi 19212
+Xiadong 16497
+Shuikou (Chongzuo) 17778
+Fuxin (Chongzuo) 25040
+Dongmen (Chongzuo) 40745
+Shanwei (Chongzuo) 31624
+Yan'an 20776
+Suwei 52182
+Wuwei 58937
+Liuwei 31185
+Jiuwei 21858
+Luwei 22920
+Gula 36569
+
+Cencheng 172147
+Guiyi 65379
+Daye 42312
+Jinzhu 41997
+Limu 39877
+Nuotong 62905
+Tongxin 19655
+Langnan 38996
+Xindi 60361
+
+Longwei 97101
+Mengwei 71028
+Menggong 28524
+Nameng 37066
+Mengcun 41898
+Huangcun 19748
+Wenwei 31132
+Xinwei (Wuzhou) 21536
+Dumo 21323
+Xiuren 31077
+Toupai 15229
+Sipai 25725
+Zhaisha 62074
+
+Luzhai 120789
+
+Luorong 80489
+Luobu 6188
+Luobo 23538
+Dafeng 61826
+Xiyan 28574
+Qiaoxian 24714
+Gupeng 27779
+Hongdu 29558
+Zhongdu 32203
+Pingshan (Liuzhou) 37016
+Dongquan 53268
+Dongtou 13268
+Huaibao 14363
+
+Rongshui 100331
+Siding 17433
+Chadong 19727
+Dongjing 24955
+Lingjing 33358
+Dazhou 31736
+Dazhi 67275
+Guitai 22855
+
+Dasi 73707
+Huangwutun 39468
+Shuangwang 29769
+Xinqing 30696
+Sanli (Nanning) 38319
+Wangfu 39027
+Shuangfeng 18962
+Pingmu 20647
+Pingmeng 11450
+Longmengang 7367
+Maoling 18054
+
+Maolin 80360
+Shanluo 50974
+Tanluo 64937
+Jinling 48104
+Natong 41204
+Huatong 16193
+Lutong 38655
+Dizhou 22937
+Weizhou 9168
+Yintan 72821
+Yingpan 47444
+Xingping 38440
+Putao 29937
+Bada 39489
+Xihe 28273
 
 Zhaoping 73900
+Zouma 24111
+Gonghui 63613
+Longhu 11977
+Minglun 25208
+Shuiming 54328
+Dungu 39208
+Nalin 38636
+Yong'an (Yulin) 29566
+Tong'an 38692
+Banlan 20196
+Baisha (Liuzhou) 16071
+Pohong 31053
+Zhonghe 22113
+Nalou 61474
+Baiji 34935
+Maijiu 24881
+Xiyin 47887
+Minle 62931
+
+Beiliu 117109
+Dapowai 38156
+Xinfeng 38991
+Xinfu 33962
+Zouwei 30726
+Yueli 17827
+
+Hengzhou 163053
+Nayang 45464
+Dayang 56224
+Gaofeng 35624
+Fengtang 30682
+Ningtan 44069
+
+Wendi 80001
+Gucheng (Yulin) 48737
+Pingzheng 62760
+Baima 41887
+Liuma 61867
+Mapo 71693
+Shihe 25699
+Chengjun 72715
+Zhaiwei 66071
+Baiwei 55094
+Yiwei 18969
+Pozao 16011
+Huangmian 19999
+Mushuang 12848
+Libu 28753
+Shiqiao 56281
+Pumen 55597
+Renyi 50409
+Shuikou (Hezhou) 10628
+Liubao 21104
+Xiaying 37248
+Daoshui 34691
+Shaoshui 41246
+Shuiche 21024
+Jieshou 35242
+Caiwan 44803
+Meixi 24895
+Sanjie 15797
+Liusanjie 33808
+Liushan 16516
+Luoman 27920
+Tubo 27640
+Ligao 22584
+Baipeng 58643
+Chuanshan (Liuzhou) 63672
+Xiangzhou 53215
+Yunjiang 29096
+
+Xiaojiang 118652
+Qiaojian 29291
+Nanwei 46815
+Linwei 69420
+
+Tengzhou 146035
+Tangbu 53579
+Jinji 58785
+
+Xinjing 95553
+Wuping 33388
+Chengguan (Baise Shi 55545
+Ma'ai 32903
+Quyang 31709
+Dalang 16739
+Longbang 16739
+Yuewei 10426
+Hurun 22354
+
+Xinning 87839
+Quli 44282
+Zhongdong 31429
+Chengdong 17707
+Jingnan 32506
+
+Wuxuan 77632
+Luxin 33968
+Shilong (Guigang) 61854
+
+Guiling 74249
+Daning 37338
+Lisong 16260
+Wanggao 31286
+Wenli 25887
+Fuluo 21656
+Longtou 15954
+Xialei 24036
+Zhangmulin 30145
 Guzhang 27701
 Mabeng 13900
-Shabu 33732
-Tiandeng 67426
-Desheng 42713
-Longsheng (Guilin) 40194
-Linxi 19861
-Dutong 35965
-Nalou 61474
-Zhonghe 22113
-Pumen 55597
-Santang 52285
-Sanfang 18596
+Leli 38845
+Jiazhuan 20517
+Wuzhuan 16643
+Sanshi 15157
+Bama 70525
+Shankou 70153
+Zhakou 31173
+Yunbiao 62163
+Guohua 44487
+Silin 44412
+Silian 37769
+Guosui 21241
+Heli 21097
 Sanwu 43904
-Dawei (Guilin) 46221
-Zhemu 20679
-Huixian 44002
-Fozi 46169
-Limu 39877
-Wuping 33388
-Nakan 30440
-Yunjiang 29096
-Minglun 25208
-Duyang 21290
+Sanfang 18596
+Shitou 42562
+Qingshitan 29852
+Lingtian 33486
+Gaoshang 38576
+Jiahui 21325
+Xiandi 41108
+Shizhai 27792
+Shabu 33732
+Dafanpo 15902
+Guangpo 21242
+Qisha 31010
+Zuozhou 31036
+Laituan 19499
+Hualan 9944
 Yacha 10239

@@ -1,131 +1,56 @@
 
 
 Potsdam 145292
-Dabergotz 594
-Berge 943
-Perleberg 13102
-Lebusa 910
-Lebus 3447
-Podelzig 1015
-
-Frankfurt (Oder) 51691
-Oderberg 2546
-Liepe 801
-Bliesdorf 1213
-Wriezen 8213
-Treuenbrietzen 8675
-Niemegk 2332
-Niedergorsdorf 7197
-Juterbog 13292
-Werben 1891
-Ruthnick 536
-Heinersbruck 692
-Bruck 4018
-Borkheide 1821
-Borkwalde 1432
-Busendorf 300
-Michendorf 10743
 
 Werder 22384
-Marienwerder 1728
-Lindenau 758
-Lindow 3336
-Paulinenaue 1327
-Nauen 16600
-Rauen 1901
+Birkenwerder 7122
 
-Furstenwalde 33539
-Reichenwalde 1123
+Hohen Neuendorf 21893
+Rietz Neuendorf 4473
+Wendisch Rietz 1466
 Diensdorf-Radlow 570
 Bensdorf 1334
 Wusterwitz 3184
-Wusterhausen 6632
-Tschernitz 1630
-Mescherin 791
-Schenkenberg 694
-Goritz 861
-Britz 2327
-Linthe 945
-Biesenthal 5512
-Rudnitz 1875
-
-Wandlitz 19888
-
-Bernau bei Berlin 34866
-Bad Belzig 11999
-Golzow 1409
 Kloster Lehnin 10669
-Lehde 200
-Klaistow 200
-Storkow 9550
-Buckow 1619
-Gross Ossnig 603
-Gross Lindow 1841
-Brieskow-Finkenheerd 2518
-Beeskow 8468
-Tauche 4140
-Neu Zauche 1257
-Straupitz 1098
-Peitz 5179
-Drehnow 628
-Manschnow 1200
-Genschmar 311
-Markisch Buchholz 848
 Wustermark 7729
 Schonermark 520
-Zichow 631
-Melchow 1069
-Pirow 527
-Guhrow 583
-Hohenbocka 1192
-Lieberose 1638
-Roggosen 289
-Jahnberge 785
-Sonnenberg 923
-Falkenberg 7830
-
-Falkensee 37468
-Dallgow-Doberitz 7439
-Sallgast 1827
-
-Finsterwalde 18922
-Schonewalde 3740
-Sonnewalde 3692
-Grunewald 645
-Guteborn 645
-Schonborn 1881
-Teupitz 1881
-Doberlug-Kirchhain 10151
-Altdobern 3067
-Grossraschen 11523
-
-Senftenberg 28988
-
-Wittenberge 20171
-Weisen 1103
-
-Eisenhuttenstadt 32052
+Bronkow 691
+Protzel 1204
+Schlepzig 645
+Schlieben 2994
+Bad Liebenwerda 10890
+Elsterwerda 9694
+Hohenleipisch 2562
+Leipe 161
+Wollin 972
+Gross Dobbern 592
+Klein Dobbern 357
+Schwarzbach 827
+Schwarzheide 6646
+Ruhland 4083
+Friedland 3597
+Beeskow 8468
+Mixdorf 1035
 Ziltendorf 1639
-Althuttendorf 731
-Chorin 2609
-Schoneberg 955
-Schoneiche 11907
-Schonefeld 12015
-Schulzendorf 7452
-Eichwalde 5849
-Janschwalde 2031
-Haasow 482
-Neuhausen 386
-Laubsdorf 510
-Jacobsdorf 1960
+Brieskow-Finkenheerd 2518
 Briesen 2374
-Brieselang 10379
-Langewahl 855
-Beelitz 12475
-Beelitz-Heilstatten 492
-Jamlitz 627
-Drachhausen 836
-Tauer 785
+Berkenbruck 1024
+Bruck 4018
+Borkheide 1821
+Borkwalde 1432
+Gerswalde 1854
+Friedrichswalde 938
+
+Eberswalde 41980
+Britz 2327
+Linthe 945
+Weisen 1103
+Breese 1703
+Straupitz 1098
+Neu Zauche 1257
+Tauche 4140
+
+Lauchhammer 18990
 Tettau 889
 Grosskmehlen 1298
 Grossthiemig 1282
@@ -134,214 +59,289 @@ Rehfelde 4600
 
 Strausberg 26649
 Altlandsberg 8804
-Ruhland 4083
-Ortrand 2507
-Rangsdorf 9134
-
-Zossen 17138
-Grossbeeren 6835
-
-Teltow 19530
-
-Kleinmachnow 17892
-Stahnsdorf 12964
-Drahnsdorf 666
-Golssen 2813
-Kasel-Golzig 772
-Luckau 10471
-Hohenbucko 721
-Schlieben 2994
-Bad Liebenwerda 10890
-Elsterwerda 9694
-Hohenleipisch 2562
-Leipe 161
-Reitwein 531
-Schlepzig 645
-Protzel 1204
-Lietzen 779
-Kietz 804
-Zechin 805
-Lychen 3917
-Furstenberg 6774
+Neuenhagen 16170
+Petershagen 12931
+Woltersdorf 7581
 Grosswoltersdorf 1003
 Milmersdorf 1814
 
 Templin 17634
 Treplin 431
 Pessin 705
-Bronkow 691
-Gross Pankow 4661
-Pritzwalk 13485
-Kyritz 10274
-Gumtow 4093
+Manschnow 1200
+Genschmar 311
+Hermsdorf 932
+Waldsieversdorf 1314
+Joachimsthal 3459
+Biesenthal 5512
+Rudnitz 1875
+Crinitz 1504
+Sonnewalde 3692
+Schonewalde 3740
+Schonborn 1881
+Schoneberg 955
+Oderberg 2546
+Werben 1891
+Ruthnick 536
+Baruth 4505
+Golssen 2813
 
-Wittstock 17361
-Heiligengrabe 4581
-Gerdshagen 639
-Putlitz 3100
-Triglitz 556
-Munchehofe 556
-Muncheberg 7214
-Neuhardenberg 2957
-Neutrebbin 1607
-Neulewin 1079
+Zossen 17138
+Mittenwalde 8730
+Eichwalde 5849
+Janschwalde 2031
+Peitz 5179
+Drehnow 628
+
+Kleinmachnow 17892
+
+Teltow 19530
+Stahnsdorf 12964
+Rangsdorf 9134
+
+Hennigsdorf 26122
+Velten 11498
+Leegebruch 6541
+
+Oranienburg 40793
+Meyenburg 2511
+Wiesenburg 5380
+Gorzke 1526
+Verlorenwasser 7
+Liebenwalde 4649
+Zehdenick 14809
+Glienicke 9144
+Reichenwalde 1123
+
+Furstenwalde 33539
+Furstenberg 6774
+Lychen 3917
+Schenkenberg 694
+Schenkendobern 4455
+
+Guben 21608
 Neuzelle 4539
-Fehrbellin 9413
-Wollin 972
-Gross Dobbern 592
-Klein Dobbern 357
-Schwarzbach 827
-Schwarzheide 6646
+
+Eisenhuttenstadt 32052
+Althuttendorf 731
+Chorin 2609
+Liepe 801
+Bliesdorf 1213
+Wriezen 8213
+Neulewin 1079
+Neutrebbin 1607
+Trebbin 9199
+
+Ludwigsfelde 24164
+Schonefeld 12015
+Schoneiche 11907
+Erkner 11741
+Grunheide 7599
+Grunewald 645
+Guteborn 645
+Gartz 2638
+Niedergorsdorf 7197
+Juterbog 13292
+Dreetz 1251
+Breddin 1046
+Gumtow 4093
+Kyritz 10274
+Pritzwalk 13485
+Gross Pankow 4661
+Gross Koris 2205
+Gross Kreutz 8453
+Gross Lindow 1841
+Lindow 3336
+Markisch Buchholz 848
+Paulinenaue 1327
+Nauen 16600
+Brieselang 10379
+Dallgow-Doberitz 7439
+Altdobern 3067
+Grossraschen 11523
+
+Senftenberg 28988
+
+Wittenberge 20171
+Berge 943
+Perleberg 13102
+Muncheberg 7214
+Munchehofe 556
+Halbe 2209
+Triglitz 556
+Beelitz 12475
+Beelitz-Heilstatten 492
+Jamlitz 627
+Putlitz 3100
+Gerdshagen 639
+Falkenhagen 742
+Koppatz 274
+Melchow 1069
+Pirow 527
+Tauer 785
+Drachhausen 836
+Neuhausen 386
+Nennhausen 2100
+Kotzen 641
+Lietzen 779
+Treuenbrietzen 8675
+Niemegk 2332
+Bad Belzig 11999
+Podelzig 1015
+Alt Tucheband 1019
+Gorgast 769
+Sallgast 1827
 Schipkau 7876
 Schilda 561
 Lawitz 680
 Kolkwitz 10225
 
 Cottbus 84754
-Burg 4549
-Vetschau 9857
-Letschin 4973
-Rhinow 1923
+Haasow 482
+Kathlow 169
+Ihlow 838
+Dahme 5924
+Hohenbucko 721
+Hohenbocka 1192
+Lieberose 1638
+Vogelsang 798
+Ziesar 2875
+Friesack 2814
+Retzow 598
+Schraden 598
+Pawesin 603
+Ketzin 6500
 
-Rathenow 27115
-Zeuthen 10084
-Baruth 4505
+Falkensee 37468
+Falkenberg 7830
+Herzberg 11033
+Muhlberg 4758
+Kesselberg 50
+Jahnberge 785
+Sonnenberg 923
 Sperenberg 2180
-Trebbin 9199
+Grossbeeren 6835
+Gross Ossnig 603
+Buckow 1619
+Tschernitz 1630
+Mescherin 791
+Tantow 793
+Casekow 2388
+Gramzow 2113
 
-Ludwigsfelde 24164
+Prenzlau 20899
+Wenzlow 625
+Kroppen 781
+Trobitz 830
+Roskow 1281
+Marienwerder 1728
+Lindenau 758
+Wiesenau 1382
+
+Lubbenau 17461
+Lubben 14713
+Kasel-Golzig 772
+Golzow 1409
+Welzow 4240
+Haidemuhl 571
+Drebkau 6336
+Bagenz 313
+Laubsdorf 510
+Jacobsdorf 1960
+Mullrose 4461
+
+Frankfurt (Oder) 51691
+Lebus 3447
+Lebusa 910
+Cumlosen 910
+Roggosen 289
+Lichterfeld 983
+Graben 842
+Heiligengrabe 4581
+
+Wittstock 17361
+Walsleben 803
+Dabergotz 594
+
+Neuruppin 31901
+Fehrbellin 9413
+Kremmen 7567
+
+Brandenburg an der Havel 59826
+Plattenburg 4049
+Bad Wilsnack 2941
+Bad Saarow 4594
+Rauen 1901
+Frauendorf 824
+Komptendorf 521
+Kietz 804
+Zechin 805
+Letschin 4973
+Vetschau 9857
+Burg 4549
+Calau 9299
+Luckau 10471
 
 Luckenwalde 21616
-Liebenwalde 4649
-Zehdenick 14809
+Fichtenwalde 2874
+Karstadt 7189
+Ruhstadt 606
+Zichow 631
+Heinersbruck 692
+Rheinsberg 9113
 Gransee 6544
 Bestensee 6265
 Diepensee 134
 
 Konigs Wusterhausen 32513
-Nennhausen 2100
-Kotzen 641
-Retzow 598
-Dreetz 1251
-Grossderschau 535
-Breddin 1046
-Breese 1703
-Cumlosen 910
-Lanz 902
-Lenzen 2664
-Gablenz 206
-Bagenz 313
-Neuenhagen 16170
-Petershagen 12931
-Woltersdorf 7581
-Erkner 11741
-Berkenbruck 1024
-Steinhofel 4672
-Lichterfeld 983
-Graben 842
-Wenzlow 625
-Kroppen 781
-Trobitz 830
-Legde 752
-Leegebruch 6541
-Velten 11498
+Wusterhausen 6632
+Busendorf 300
+Michendorf 10743
+Klaistow 200
 
-Hennigsdorf 26122
-
-Hohen Neuendorf 21893
-Birkenwerder 7122
-Glienicke 9144
-
-Oranienburg 40793
-Wiesenburg 5380
-Gorzke 1526
-Verlorenwasser 7
-Sergen 442
-
-Prenzlau 20899
-Calau 9299
-Crinitz 1504
-Premnitz 10105
-Kremmen 7567
-
-Lauchhammer 18990
-Plessa 3283
-Kesselberg 50
-Muhlberg 4758
-Haidemuhl 571
-Welzow 4240
-Drebkau 6336
-Kathlow 169
-Ihlow 838
-Dahme 5924
-Herzberg 11033
-Uebigau 2300
-Gartz 2638
-Wartin 500
-Ziesar 2875
-Friesack 2814
-Friedland 3597
-Rietz Neuendorf 4473
-Wendisch Rietz 1466
-Bad Saarow 4594
-Bad Freienwalde 13075
-
-Eberswalde 41980
-Friedrichswalde 938
-Gerswalde 1854
-Gramzow 2113
-Casekow 2388
-Tantow 793
-Meyenburg 2511
-Angermunde 15453
-Vogelsang 798
-
-Brandenburg an der Havel 59826
-Gross Kreutz 8453
-Gross Koris 2205
-Halbe 2209
-Joachimsthal 3459
-Hermsdorf 932
-Wiesenau 1382
-Waldsieversdorf 1314
+Bernau bei Berlin 34866
+Doberlug-Kirchhain 10151
+Teupitz 1881
 Ruckersdorf 1773
-Groden 1636
-Schraden 598
-Pawesin 603
-Ketzin 6500
 
-Neuruppin 31901
-Walsleben 803
-Rheinsberg 9113
+Finsterwalde 18922
+Plessa 3283
+Groden 1636
+Ortrand 2507
+
+Rathenow 27115
+Premnitz 10105
+Rhinow 1923
+Grossderschau 535
 
 Forst 22843
-Karstadt 7189
-Ruhstadt 606
 
-Guben 21608
-Schenkendobern 4455
+Wandlitz 19888
 Werneuchen 7767
 Werftpfuhl 1540
+Bad Freienwalde 13075
 Niederfinow 652
 Hohenfinow 536
-Falkenhagen 742
-Koppatz 274
-Roskow 1281
-Mullrose 4461
-Mixdorf 1035
-Frauendorf 824
-Komptendorf 521
-
-Lubbenau 17461
-Lubben 14713
-Mittenwalde 8730
-Fichtenwalde 2874
-Grunheide 7599
-Spreenhagen 3530
-Seelow 5981
-Alt Tucheband 1019
-Gorgast 769
-Plattenburg 4049
-Bad Wilsnack 2941
-Brussow 2338
 Hohensaaten 780
+Angermunde 15453
+Langewahl 855
+Wartin 500
+Guhrow 583
+Zeuthen 10084
+Schulzendorf 7452
+Spreenhagen 3530
+Storkow 9550
+Seelow 5981
+Neuhardenberg 2957
+Steinhofel 4672
+Lenzen 2664
+Lanz 902
+Brussow 2338
+Uebigau 2300
+Goritz 861
+Sergen 442
+Legde 752
+Drahnsdorf 666
+Reitwein 531
+Gablenz 206
+Lehde 200

@@ -3,33 +3,28 @@
 Tijuana 1300983
 
 Rancho La Gloria 26860
-Rancho Verde 2758
-Rumorosa 1836
 
-Rosarito 65278
-Ciudad Morelos 2040
-Los Valles 3135
-
-Terrazas del Valle 20421
-Maclovio Rojas 7279
-Ejido Javier Rojo Gomez 2408
-Ejido Guadalajara 557
-Vista Marina 939
-Hacienda del Mar 584
-Ejido Netzahualcoyotl 1064
-Ejido Chihuahua 628
-Venustiano Carranza 823
-Colonia Venustiano Carranza 6098
-Doctor Alberto Oviedo Mota 8064
-
-Guadalupe Victoria 17119
-Ejido Plan de Ayala 1654
-Ejido Plan Nacional Agrario 692
+Porticos de San Antonio 34234
+San Luis 8571
+San Luis Potosi 850
+Zaragoza 954
+Santa Anita 1284
+Poblado Janitzio 592
+Poblado Puente Trevino 568
+Poblado Francisco Santana Peralta 804
+Colonia Francisco Santana Peralta 578
 Fuentes del Sol 538
-Vinas del Sol 2509
-
-Santa Isabel 29311
-Santa Fe 2632
+Ejido Plan Nacional Agrario 692
+Ejido Plan de Ayala 1654
+Estacion Coahuila 7596
+Estacion Pescaderos 1051
+Ampliacion Ejido Lazaro Cardenas 684
+Ejido Lazaro Cardenas 2463
+Ejido Sinaloa 2505
+Ejido Sonora 1507
+Ejido Mexico 623
+Ejido Michoacan de Ocampo 3086
+Ejido Vicente Guerrero 1463
 Vicente Guerrero 11455
 San Vicente 4362
 Licenciado Gustavo Diaz Ordaz 1394
@@ -37,120 +32,125 @@ La Providencia 1253
 Heroes de la Independencia 752
 Bahia de los Angeles 590
 Ejido Ojo de Agua 1241
-Ejido Michoacan de Ocampo 3086
-Ejido Mexico 623
-Salvador Rosas Magallon 1520
-Santa Candelaria 992
-Quinta del Cedro 5704
-Isla Cedros 747
-Colonia Militar Elpidio Berlanga de Leon 747
-Colonia Francisco Santana Peralta 578
-Poblado Francisco Santana Peralta 804
-Poblado Puente Trevino 568
-Poblado Janitzio 592
-Santa Anita 1284
-Lomas de Santa Anita 6604
-Alfonso Garzon [Granjas Familiares] 1188
-La Esperanza [Granjas Familiares] 1173
-San Rafael 814
-San Luis 8571
-
-Porticos de San Antonio 34234
-Articulo Ciento Quince 784
-San Quintin 4777
-
-Lazaro Cardenas 16294
-Colonia Nueva Era 3256
-Colonia La Puerta 885
-Playas de la Vicente Guerrero 634
-Las Brisas 1078
-Islas Agrarias Grupo B 1054
-Lomas de Tlatelolco 1086
-Lomas del Mar 649
-Lomas del Pedregal 922
-
-San Felipe 16702
-Emiliano Zapata 5756
-Francisco Zarco 2664
-El Porvenir 1416
-Colonia Polvora 633
-Colonia Gomez Morin 1362
-
-Ensenada 279765
-
-Rodolfo Sanchez Taboada 22957
-El Sauzal de Rodriguez 8832
-El Rosario de Arriba 1704
-Ejido Patzcuaro 1513
-Ejido Lazaro Cardenas 2463
-Ejido Sinaloa 2505
-Ejido Quintana Roo 2311
-Ejido Jiquilpan 1681
-Ejido Yucatan 1628
-Benito Juarez 4167
-Villa de Juarez 947
-Ejido General Leandro Valle 1174
 Ejido Toluca 1060
 Ejido Tlaxcala 851
 Ejido Tehuantepec 925
 Ejido el Maritimo 919
-Los Alcatraces 565
-Merida 505
-Ejido Vicente Guerrero 1463
+Lomas del Mar 649
+Lomas del Pedregal 922
+
+San Felipe 16702
+San Quintin 4777
+Ejido Quintana Roo 2311
+Ejido Patzcuaro 1513
+El Rosario de Arriba 1704
 Reacomodo Rio Colorado 605
 Tecolots 5259
-
-Tecate 64764
-Hacienda Tecate 1871
+Benito Juarez 4167
+Villa de Juarez 947
 Villa del Campo 13906
 El Nino 8999
+Maclovio Rojas 7279
+Ejido Javier Rojo Gomez 2408
+Ejido Jalapa 671
+Ejido Jiquilpan 1681
+Ejido Yucatan 1628
+Hermosillo 5101
+Ejido Saltillo 1560
+Pueblo Benito Garcia 1028
+
+Puebla 15168
+
+Mexicali 689775
+Vinas del Sol 2509
 Colinas del Sol 1361
 Los Volcanes 783
+Los Valles 3135
+
+Terrazas del Valle 20421
+Fraccionamiento del Valle 1052
+Cereso del Hongo 4278
+Partido del Trabajo 779
+Vista Marina 939
+Hacienda del Mar 584
+Ejido Netzahualcoyotl 1064
+Ejido Nuevo Leon 3655
+Delta 5180
+Nuevo Progreso 821
+Venustiano Carranza 823
+Las Brisas 1078
+Colonia La Puerta 885
+Colonia Polvora 633
+Colonia Nueva Era 3256
+
+Lazaro Cardenas 16294
+Santa Fe 2632
+Emiliano Zapata 5756
+Colonia Venustiano Carranza 6098
+Doctor Alberto Oviedo Mota 8064
+
+Guadalupe Victoria 17119
+Ejido Guadalajara 557
+Ejido General Leandro Valle 1174
+Valle Bonito 595
 Jesus Sanson Flores 626
 El Descanso 567
 El Morro 681
-Batalla Nacional 646
-Isla Cozumel 652
-Islas Agrarias Grupo A 1979
-Nuevo Uruapan 866
-Guanajuato 994
-Ejido Irapuato 566
-Ejido Jalapa 671
-Genaro Vazquez Seccion Tres 535
-Ampliacion Ejido Lazaro Cardenas 684
-Los Girasoles 698
-Partido del Trabajo 779
+Ciudad Morelos 2040
+
+Rosarito 65278
+Rumorosa 1836
+Rancho Verde 2758
+Primo Tapia 4921
 Ejido Tabasco 1029
 Ejido Tamaulipas 598
-Camalu 8621
+Ejido Irapuato 566
+Genaro Vazquez Seccion Tres 535
+Batalla Nacional 646
+Isla Cozumel 652
+Isla Cedros 747
+Colonia Militar Elpidio Berlanga de Leon 747
+San Rafael 814
+Nuevo Uruapan 866
+Uruapan 521
+La Esperanza [Granjas Familiares] 1173
+Alfonso Garzon [Granjas Familiares] 1188
 
-Mexicali 689775
+Tecate 64764
+Hacienda Tecate 1871
+Articulo Ciento Quince 784
+Islas Agrarias Grupo A 1979
+Islas Agrarias Grupo B 1054
+Lomas de Tlatelolco 1086
+Lomas de Abasolo 632
+Playas de la Vicente Guerrero 634
+Mezquital 859
+Ejido Chihuahua 628
 
-Puebla 15168
-Pueblo Benito Garcia 1028
-Ejido Saltillo 1560
-Nuevo Progreso 821
-Progreso 12557
-Cereso del Hongo 4278
-Durango 1593
-Delta 5180
-Ejido Nuevo Leon 3655
-Ejido Sonora 1507
+Ensenada 279765
+Colonia Gomez Morin 1362
+El Sauzal de Rodriguez 8832
+
+Rodolfo Sanchez Taboada 22957
+El Porvenir 1416
+Francisco Zarco 2664
 
 Las Delicias 15486
 Buenos Aires 1761
 Los Algodones 4874
-Hermosillo 5101
-San Luis Potosi 850
-Zaragoza 954
-Lomas de Abasolo 632
-Mezquital 859
-Estacion Coahuila 7596
-Estacion Pescaderos 1051
-Ladrillera Pescador 636
+Los Alcatraces 565
+Merida 505
+Salvador Rosas Magallon 1520
+Santa Candelaria 992
+Quinta del Cedro 5704
+Guanajuato 994
 Ejido Distrito Federal 814
-Primo Tapia 4921
-Fraccionamiento del Valle 1052
-Valle Bonito 595
+
+Santa Isabel 29311
+Progreso 12557
+Durango 1593
+Camalu 8621
+Lomas de Santa Anita 6604
+Los Girasoles 698
+Ladrillera Pescador 636
 Poblado Alfredo V. Bonfil 554
-Uruapan 521

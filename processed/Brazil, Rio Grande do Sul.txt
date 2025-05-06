@@ -1,213 +1,8 @@
 
 
 Porto Alegre 1488252
-Portao 37561
 
-Estancia Velha 50672
-
-Novo Hamburgo 247032
-Nova Hartz 21875
-Nova Araca 4826
-Nova Bassano 10005
-Nova Prata 27648
-Vista Alegre do Prata 1557
-Guapore 25968
-Pirapo 2254
-Porto Xavier 10194
-Porto Lucena 4594
-Porto Vera Cruz 1308
-Porto Maua 2352
-Novo Machado 3256
-Tucunduva 5644
-Tuparendi 7810
-Independencia 6109
-Nova Candelaria 2688
-Boa Vista do Burica 6712
-Boa Vista do Sul 2778
-Boa Vista do Incra 2616
-Boa Vista do Cadeado 2468
-Augusto Pestana 6602
-
-Ijui 83764
-Entre-Ijuis 8411
-
-Santo Angelo 77568
-Santo Antonio do Palma 2123
-Santo Antonio do Planalto 2019
-Nao-Me-Toque 17758
-Coqueiros do Sul 2286
-Pontao 3901
-Ponte Preta 1524
-Paulo Bento 2299
-Sao Paulo das Missoes 5720
-Campina das Missoes 5398
-Salvador das Missoes 2733
-Guarani das Missoes 7463
-Vitoria das Missoes 3092
-Sao Miguel das Missoes 7683
-Sao Jose das Missoes 2514
-Sao Pedro das Missoes 2017
-Boa Vista das Missoes 2092
-Palmeira das Missoes 33131
-Dois Irmaos das Missoes 2008
-Dois Irmaos 33119
-Morro Reuter 6513
-Morro Redondo 6589
-
-Cangucu 56211
-Turucu 3423
-Taquarucu do Sul 3077
-
-Taquara 57584
-Taquari 26885
-General Camara 8361
-Paverama 8515
-Gramado 36555
-Gramado Xavier 4352
-Fontoura Xavier 10241
-Sao Jose do Herval 1943
-Sao Jose do Sul 2437
-Sao Valerio do Sul 2729
-Sao Valentim do Sul 2245
-Sao Valentim 3259
-Benjamin Constant do Sul 1958
-Campinas do Sul 5438
-Entre Rios do Sul 2758
-Trindade do Sul 5791
-Cerro Grande do Sul 12413
-Sentinela do Sul 5609
-Eldorado do Sul 41902
-Arroio dos Ratos 14177
-Arroio do Sal 10279
-Arroio do Meio 20967
-
-Lajeado 85033
-Dois Lajeados 3405
-Vespasiano Correa 1795
-Serafina Correa 17795
-Uniao da Serra 1118
-Sao Pedro da Serra 3842
-Salvador do Sul 7889
-Relvado 2079
-Coqueiro Baixo 1495
-Boqueirao do Leao 7702
-Mato Leitao 4573
-Capitao 2763
-Capivari do Sul 4728
-Palmares do Sul 11330
-Nova Palma 6515
-Faxinal do Soturno 6663
-Paraiso do Sul 7623
-Novo Cabrais 4222
-Cerro Branco 4706
-Cerro Grande 2296
-Cerro Largo 14189
-Camargo 2742
-
-Marau 44858
-Vila Maria 4363
-
-Santa Maria 283677
-Itaara 5537
-Caraa 8350
-Santo Antonio da Patrulha 43171
-Santo Antonio das Missoes 10050
-Sao Luiz Gonzaga 33293
-Roque Gonzales 6797
-Dezesseis de Novembro 2378
-Quinze de Novembro 3803
-Alto Alegre 1613
-Salto do Jacui 12481
-Jacuizinho 2706
-Sobradinho 15005
-Passa Sete 5747
-Lagoa Bonita do Sul 2921
-Lagoao 6461
-Lagoa Vermelha 27778
-Capao Bonito do Sul 1641
-Santo Expedito do Sul 2305
-Sao Pedro do Sul 16148
-Dilermando de Aguiar 3002
-Jaguari 10765
-Jari 3486
-Quevedos 2790
-Segredo 7444
-
-Alegrete 73028
-Manoel Viana 7307
-Sao Francisco de Assis 18205
-Nova Esperanca do Sul 5410
-Esperanca do Sul 2885
-Tiradentes do Sul 5616
-Novo Tiradentes 2200
-Novo Xingu 1712
-Novo Barreiro 4175
-Barra do Ribeiro 13556
-
-Guaiba 98239
-Caibate 4823
-Mato Queimado 1629
-Mata 4797
-Marata 2702
-Barao 6202
-Ibarama 4399
-Arambare 3562
-Tavares 5483
-Mostardas 12847
-Anta Gorda 5961
-Ilopolis 4066
-Veranopolis 26533
-Tupandi 4939
-Tupancireta 24068
-Julio de Castilhos 19224
-Eugenio de Castro 2352
-Tres de Maio 23876
-Tres Arroios 2643
-Serio 1924
-Seberi 10713
-Frederico Westphalen 31498
-Pinhal 2580
-Pinhal Grande 4329
-Erval Grande 4819
-Faxinalzinho 2284
-Riozinho 4676
-
-Osorio 46414
-Imbe 23271
-Sinimbu 10162
-Herveiras 3019
-Herval 6814
-Pinheiro Machado 12195
-Pedras Altas 1954
-Pedro Osorio 7706
-Cerrito 6047
-Capao do Leao 25409
-
-Sao Lourenco do Sul 43540
-Gramado dos Loureiros 2058
-Rio dos Indios 2660
-Nonoai 11633
-
-Canoas 348208
-
-Capao da Canoa 54051
-Xangri-la 16775
-Alegria 3374
-Inhacora 2215
-Sao Jose do Inhacora 2056
-Sao Jose do Norte 27721
-
-Rio Grande 211965
-Arroio Grande 18238
-Jaguarao 26500
-Acegua 4942
-Cacequi 12423
-Rosario do Sul 39314
-Santa Margarida do Sul 2578
-Vila Nova do Sul 4277
-Cacapava do Sul 33548
-
-Cachoeira do Sul 81869
+Alvorada 211352
 
 Cachoeirinha 131240
 Glorinha 8204
@@ -217,333 +12,538 @@ Tres Cachoeiras 11115
 Tres Forquilhas 2669
 Terra de Areia 11315
 Dom Pedro de Alcantara 2527
-Dom Pedrito 38339
-
-Bage 121335
-Gentil 1626
-Casca 9051
-Chuvisca 5480
-Dom Feliciano 15487
-Amaral Ferrador 7085
-
-Camaqua 66478
-Maquine 6681
-Santa Clara do Sul 6681
-Santa Barbara do Sul 7909
+Morrinhos do Sul 2919
 Cambara do Sul 6406
 Macambara 4562
-Itaqui 37489
 Itacurubi 3460
 Unistalda 2321
 Cristal 8067
 Cristal do Sul 2844
 Ametista do Sul 7403
-Rodeio Bonito 5868
-Pinto Bandeira 3036
-Alto Feliz 3036
-Feliz 13640
-Sao Vendelino 2266
-Linha Nova 1719
-Presidente Lucena 2937
-Centenario 2877
-Aurea 3535
-Gaurama 5489
-Viadutos 4690
-Vicente Dutra 4599
-Tenente Portela 13434
-
-Montenegro 65721
-Harmonia 4917
-Sao Sebastiao do Cai 25959
-Pareci Novo 3862
-Campo Novo 4376
-Braga 3311
-Miraguai 4911
-Bom Progresso 1899
-Tres Passos 23852
-Tres Palmeiras 4251
-Engenho Velho 982
+Boa Vista do Sul 2778
+Coronel Pilar 1614
+Sao Pedro da Serra 3842
+Salvador do Sul 7889
+Salvador das Missoes 2733
+Campina das Missoes 5398
+Sao Paulo das Missoes 5720
+Sao Pedro do Butia 2949
+Sao Pedro do Sul 16148
+Dilermando de Aguiar 3002
+Julio de Castilhos 19224
+Tupancireta 24068
+Jari 3486
 Estrela Velha 3650
-Estrela 34399
-Cruzeiro do Sul 12402
-Bom Retiro do Sul 12390
-Fazenda Vilanova 4608
-Nova Boa Vista 1753
-Santana da Boa Vista 8067
-Piratini 20704
-Aratiba 6189
-Itatiba do Sul 3231
-Itati 2397
-Morrinhos do Sul 2919
-Sao Domingos do Sul 3083
-Vanini 2122
-Sao Jorge 2816
-Guabiju 1490
-Parai 7727
-Ibiraiaras 7265
-Irai 7141
-Caicara 4700
-Ararica 5771
-Ajuricaba 6987
+Salto do Jacui 12481
+Jacuizinho 2706
+Sobradinho 15005
+Passa Sete 5747
+Lagoa Bonita do Sul 2921
+Lagoao 6461
+Lagoa Vermelha 27778
+Capao Bonito do Sul 1641
+Santo Expedito do Sul 2305
+Tupanci do Sul 1459
+Capivari do Sul 4728
+Palmares do Sul 11330
+Tiradentes do Sul 5616
+Esperanca do Sul 2885
+Nova Esperanca do Sul 5410
+Jaguari 10765
+Jaguarao 26500
+Arroio Grande 18238
+
+Rio Grande 211965
+Sao Jose do Norte 27721
+Sao Jose do Sul 2437
+Sao Valentim do Sul 2245
+Sao Valerio do Sul 2729
+Rosario do Sul 39314
+Cacequi 12423
 Pejucara 3857
 Bozano 2111
 Liberato Salzano 5152
-Sagrada Familia 2605
-Barra Funda 2551
+Arroio do Sal 10279
+Arroio do Meio 20967
+Cruzeiro do Sul 12402
+Bom Retiro do Sul 12390
+Estrela 34399
 
-Passo Fundo 204722
-Coxilha 2743
-Mato Castelhano 2542
-Vila Langaro 2080
-Ipiranga do Sul 1880
-Quatro Irmaos 1856
-Jacutinga 3546
-Putinga 3889
-Restinga Seca 15744
-Dona Francisca 2999
+Lajeado 85033
+Dois Lajeados 3405
+Cotipora 3838
+Fagundes Varela 2741
+Vila Flores 3396
+Flores da Cunha 31063
+Nova Padua 2558
+Nova Roma do Sul 3717
+Vila Nova do Sul 4277
+Cacapava do Sul 33548
+
+Cachoeira do Sul 81869
+Novo Cabrais 4222
+Paraiso do Sul 7623
+Parai 7727
+Nova Araca 4826
+Nova Bassano 10005
+Nova Prata 27648
+Vista Alegre do Prata 1557
+Vista Alegre 2739
+Palmitinho 7056
+Pinheirinho do Vale 4899
+Canudos do Vale 1705
+Progresso 6239
+Nova Brescia 3337
+Nova Boa Vista 1753
+Sarandi 24763
+Tupandi 4939
+Veranopolis 26533
+Ilopolis 4066
+Arvorezinha 10423
+Pinhal 2580
+Pinhal Grande 4329
+Nova Palma 6515
+Faxinal do Soturno 6663
 Sao Joao do Polesine 2543
 Sao Joao da Urtiga 4641
 Sao Jose do Ouro 6922
 Cacique Doble 5074
+Roque Gonzales 6797
+Sao Luiz Gonzaga 33293
+Cerro Grande 2296
+Cerro Largo 14189
+Cerro Branco 4706
+Dona Francisca 2999
+Sao Francisco de Assis 18205
+Sao Francisco de Paula 21801
+Rolante 21453
+Rolador 2296
+Senador Salgado Filho 2770
 Paim Filho 3778
-Maximiliano de Almeida 4314
+Aurea 3535
 Severiano de Almeida 3631
 Mariano Moro 2009
-Marcelino Ramos 4319
-Sao Marcos 21658
-Sao Martinho 5380
-Tunas 4577
-Colinas 2469
-Lindolfo Collor 6125
-Ivoti 24690
-Ivora 1881
+Maximiliano de Almeida 4314
+Floriano Peixoto 1737
+Charrua 3252
+Garruchos 2886
+Sao Nicolau 5208
+Pirapo 2254
+Porto Xavier 10194
+Porto Lucena 4594
+Porto Vera Cruz 1308
+Porto Maua 2352
+Novo Machado 3256
+Pinheiro Machado 12195
+Pedras Altas 1954
+Pedro Osorio 7706
+
+Osorio 46414
+Imbe 23271
+
+Tramandai 52632
+Almirante Tamandare do Sul 1949
+Coqueiros do Sul 2286
+Coqueiro Baixo 1495
+Relvado 2079
+Doutor Ricardo 1975
+Doutor Mauricio Cardoso 4462
+Boa Vista do Burica 6712
+Nova Candelaria 2688
+Candelaria 31421
+Vale do Sol 11828
+Passo do Sobrado 6574
+Vale Verde 3515
+Vale Real 5981
+Feliz 13640
+Bom Principio 14255
+Bom Progresso 1899
+David Canabarro 4736
+Humaita 4736
+Quinze de Novembro 3803
+Alto Alegre 1613
+Campos Borges 3295
+Monte Alegre dos Campos 3232
+
+Vacaria 66575
+
+Santa Maria 283677
 Silveira Martins 2374
-Sao Martinho da Serra 3231
-Sertao 5315
+Ivora 1881
+Nova Alvorada 3663
+Montauri 1441
+Pontao 3901
+Ponte Preta 1524
+Tenente Portela 13434
+Miraguai 4911
+Braga 3311
+Campo Novo 4376
+
+Campo Bom 69458
+
+Sapiranga 80037
+Ipiranga do Sul 1880
+Quatro Irmaos 1856
+Jacutinga 3546
+Campinas do Sul 5438
+Entre Rios do Sul 2758
+Faxinalzinho 2284
+Erval Grande 4819
+Itatiba do Sul 3231
+Aratiba 6189
+Barra do Rio Azul 1655
+Barra do Ribeiro 13556
+
+Guaiba 98239
+Caibate 4823
+Mato Queimado 1629
+Mato Leitao 4573
+Capitao 2763
+Encantado 22880
+Santa Tereza 1726
+Monte Belo do Sul 2530
+
+Bento Goncalves 121803
+Pinto Bandeira 3036
+Cidreira 16583
+Balneario Pinhal 14363
+Pinhal da Serra 1918
+Uniao da Serra 1118
+Serafina Correa 17795
+Vespasiano Correa 1795
+Mucum 4961
+Pareci Novo 3862
+Sao Sebastiao do Cai 25959
+Sao Sepe 23555
+Formigueiro 6616
+Nicolau Vergueiro 1674
+Ibirapuita 4000
+Ibiraiaras 7265
+Caseiros 3216
+Travesseiro 2334
+Victor Graeff 2860
+Vicente Dutra 4599
+Sao Vicente do Sul 8732
+Tapejara 24552
+Sao Jose dos Ausentes 3543
+Eugenio de Castro 2352
+Alecrim 5827
+Santo Cristo 14216
+
+Santa Rosa 73575
+Tuparendi 7810
+Tucunduva 5644
+Sananduva 16328
+Ibiaca 4699
+Santa Cecilia do Sul 1634
+Agua Santa 3743
+Nova Santa Rita 29905
+Capela de Santana 12064
 Sertao Santana 6537
 Mariana Pimentel 3888
 Barao do Triunfo 7519
 Triunfo 29856
 Sao Jeronimo 24412
-Charqueadas 41258
-Chapada 9239
-Charrua 3252
-Garruchos 2886
-Sao Nicolau 5208
-Rolador 2296
-Senador Salgado Filho 2770
-Sete de Setembro 1950
-Girua 15863
-Ibiruba 20413
-Derrubadas 2761
-Barra do Guarita 3257
-Barra do Quarai 4227
-Quarai 22607
+Sao Jorge 2816
+Guabiju 1490
+Andre da Rocha 1343
+Campestre da Serra 3395
+Ipe 6689
+Antonio Prado 13045
+Santo Antonio do Palma 2123
+Santo Antonio do Planalto 2019
+Nao-Me-Toque 17758
+Lagoa dos Tres Cantos 1607
+Tapera 10577
+Tapes 17332
+Arambare 3562
 
-Uruguaiana 126866
-Toropi 2772
-Torres 39064
-Redentora 11669
-Coronel Bicaco 7268
-Coronel Barros 2520
-Coronel Pilar 1614
-Santa Tereza 1726
+Camaqua 66478
+Chuvisca 5480
+Dom Feliciano 15487
+Alto Feliz 3036
 
-Santa Rosa 73575
-Nova Santa Rita 29905
-Capela de Santana 12064
-Agua Santa 3743
-Santa Cecilia do Sul 1634
+Farroupilha 73061
+Sao Vendelino 2266
+Marcelino Ramos 4319
+Viadutos 4690
+Gaurama 5489
+Gramado 36555
+
+Canela 45488
+Sentinela do Sul 5609
+Cerro Grande do Sul 12413
+Pantano Grande 9083
+Rio Pardo 38265
 
 Santa Cruz do Sul 131365
 Vera Cruz 27099
-Vale Verde 3515
-Passo do Sobrado 6574
-Vale do Sol 11828
-Vale Real 5981
-Picada Cafe 5738
-Nova Petropolis 21536
-Santa Maria do Herval 6364
-Santa Vitoria do Palmar 29483
-Chui 6770
-Hulha Negra 6836
-Candiota 9647
-Sarandi 24763
-Rondinha 5080
-Ronda Alta 10617
-
-Cruz Alta 59922
-Cruzaltense 1799
-Encruzilhada do Sul 25960
-Pantano Grande 9083
-Rio Pardo 38265
-Arroio do Padre 2951
-Arroio do Tigre 13413
-Agudo 16401
-Canudos do Vale 1705
-Progresso 6239
-Protasio Alves 1938
+Sinimbu 10162
+Herveiras 3019
+Boqueirao do Leao 7702
+Capao do Leao 25409
 
 Pelotas 343132
-Monte Belo do Sul 2530
-Sao Vicente do Sul 8732
-Tapejara 24552
-Tapes 17332
-Tapera 10577
-Lagoa dos Tres Cantos 1607
-Selbach 5107
-Machadinho 5427
-Barracao 5256
-Estacao 5940
-Getulio Vargas 16184
-Erebango 2982
+Turucu 3423
 
-Erechim 106633
+Sao Lourenco do Sul 43540
+Gramado dos Loureiros 2058
+Rio dos Indios 2660
+Nonoai 11633
+Trindade do Sul 5791
+Tres Palmeiras 4251
+Palmeira das Missoes 33131
+Boa Vista das Missoes 2092
+Sao Pedro das Missoes 2017
+Sao Jose das Missoes 2514
+Novo Xingu 1712
+Novo Barreiro 4175
+Barra Funda 2551
+Barra do Quarai 4227
+Quarai 22607
+
+Alegrete 73028
+Manoel Viana 7307
+
+Uruguaiana 126866
+Toropi 2772
+Itaqui 37489
+
+Taquara 57584
+Taquari 26885
+General Camara 8361
+Marata 2702
 Brochier 5104
-Poco das Antas 2101
-Westfalia 3031
-Teutonia 33766
-Antonio Prado 13045
-Ipe 6689
-Cotipora 3838
-Fagundes Varela 2741
-Candelaria 31421
+Tabai 4769
+Paverama 8515
+Fazenda Vilanova 4608
+Ronda Alta 10617
+Rondinha 5080
+Machadinho 5427
+Riozinho 4676
 
-Canela 45488
-Sao Francisco de Paula 21801
-Rolante 21453
-Imigrante 3100
-Roca Sales 11471
-Bossoroca 6205
-Capao do Cipo 3699
+Carazinho 62265
+Saldanha Marinho 2622
+Santa Barbara do Sul 7909
+Santa Clara do Sul 6681
+Forquetinha 2400
+Marques de Souza 3995
+Tres de Maio 23876
+Independencia 6109
+Alegria 3374
+Inhacora 2215
+Sao Jose do Inhacora 2056
+Sao Jose do Herval 1943
+Fontoura Xavier 10241
+Gramado Xavier 4352
+Barros Cassal 11182
+Coronel Barros 2520
+Coronel Bicaco 7268
+Redentora 11669
+Paulo Bento 2299
+Barao de Cotegipe 6620
+Barao 6202
+Carlos Barbosa 30241
+Garibaldi 35440
+Santa Margarida do Sul 2578
+Santa Maria do Herval 6364
+Morro Reuter 6513
+Dois Irmaos 33119
+Dois Irmaos das Missoes 2008
+Erval Seco 6802
+Seberi 10713
+Frederico Westphalen 31498
+Caicara 4700
+Caraa 8350
+Santo Antonio da Patrulha 43171
+Santo Antonio das Missoes 10050
+Dezesseis de Novembro 2378
+Sede Nova 2891
+Sao Martinho da Serra 3231
+Sao Martinho 5380
+Tunas 4577
+Derrubadas 2761
+Ibiruba 20413
+Selbach 5107
+Colorado 3130
+Eldorado do Sul 41902
+Lajeado do Bugre 2566
+Sagrada Familia 2605
+Picada Cafe 5738
+Linha Nova 1719
+Presidente Lucena 2937
+Sao Jose do Hortencio 4865
+Lindolfo Collor 6125
+Ivoti 24690
 
-Santiago 49360
-Butia 20952
-Minas do Leao 8103
+Estancia Velha 50672
+
+Novo Hamburgo 247032
 
 Sao Leopoldo 238648
 
 Sapucaia do Sul 141808
 
 Esteio 83279
-Alpestre 6067
-Planalto 10019
-Sananduva 16328
-Ibiaca 4699
-Ciriaco 4719
-Muliterno 1897
-Ernestina 3170
-Tio Hugo 3055
-Ibirapuita 4000
-Itapuca 2065
-Nova Alvorada 3663
-Montauri 1441
-Doutor Mauricio Cardoso 4462
-Horizontina 19389
-Constantina 9907
-Condor 6759
 
-Panambi 44128
-Nova Ramada 2218
+Canoas 348208
+
+Capao da Canoa 54051
+Xangri-la 16775
+Itati 2397
+Jaquirana 3662
+Bom Jesus 11309
+Sao Marcos 21658
+Sao Miguel das Missoes 7683
+Vitoria das Missoes 3092
+Guarani das Missoes 7463
+Sete de Setembro 1950
+Girua 15863
+
+Santo Angelo 77568
+Entre-Ijuis 8411
+
+Ijui 83764
+Augusto Pestana 6602
 Santo Augusto 13848
-Santo Cristo 14216
-Candido Godoi 6151
-Sao Pedro do Butia 2949
-Lajeado do Bugre 2566
+Chiapetta 3719
+Nova Ramada 2218
+Ajuricaba 6987
 Jaboticaba 3773
-Tabai 4769
-David Canabarro 4736
-Humaita 4736
-Crissiumal 13357
-Alecrim 5827
-Vista Alegre 2739
-Palmitinho 7056
-Pinheirinho do Vale 4899
-Saldanha Marinho 2622
-Colorado 3130
+Novo Tiradentes 2200
+Rodeio Bonito 5868
 
-Alvorada 211352
+Sao Borja 60019
+Sao Valentim 3259
+Benjamin Constant do Sul 1958
+Constantina 9907
+Engenho Velho 982
+Cruzaltense 1799
+
+Cruz Alta 59922
+Boa Vista do Cadeado 2468
+Boa Vista do Incra 2616
+Fortaleza dos Valos 4285
+Portao 37561
+Sertao 5315
+Taquarucu do Sul 3077
+Lavras do Sul 7444
+
+Caxias do Sul 517451
+Nova Petropolis 21536
+Nova Hartz 21875
+Ararica 5771
+
+Parobe 58858
 
 Gravatai 283620
 
 Viamao 256302
 
-Tramandai 52632
-Almirante Tamandare do Sul 1949
+Passo Fundo 204722
+Coxilha 2743
+Vila Langaro 2080
+Vila Maria 4363
+Camargo 2742
 
-Carazinho 62265
-Arvorezinha 10423
-Flores da Cunha 31063
-Vila Flores 3396
-Nova Roma do Sul 3717
-Nova Padua 2558
+Marau 44858
+Amaral Ferrador 7085
+Encruzilhada do Sul 25960
+Minas do Leao 8103
+Butia 20952
+Arroio dos Ratos 14177
+Arroio do Padre 2951
 
-Caxias do Sul 517451
-Lavras do Sul 7444
+Cangucu 56211
+Morro Redondo 6589
+Condor 6759
 
-Sao Gabriel 62147
-Sao Sepe 23555
-Formigueiro 6616
-Nicolau Vergueiro 1674
-Mormaco 3113
-Espumoso 15591
-Campos Borges 3295
+Panambi 44128
+Chapada 9239
 
-Campo Bom 69458
+Bage 121335
+Hulha Negra 6836
+Candiota 9647
+Candido Godoi 6151
+Barra do Guarita 3257
+Barracao 5256
+Estacao 5940
+Getulio Vargas 16184
+Erebango 2982
 
-Sapiranga 80037
-
-Parobe 58858
-
-Bento Goncalves 121803
-Garibaldi 35440
-Carlos Barbosa 30241
+Erechim 106633
+Centenario 2877
 Carlos Gomes 1351
-Fortaleza dos Valos 4285
-Monte Alegre dos Campos 3232
-Campestre da Serra 3395
-Pinhal da Serra 1918
-Esmeralda 3287
-Muitos Capoes 3173
-Barros Cassal 11182
-Caseiros 3216
-Travesseiro 2334
-Victor Graeff 2860
-Doutor Ricardo 1975
-Mucum 4961
-Encantado 22880
-Nova Brescia 3337
-Marques de Souza 3995
-Forquetinha 2400
-Pouso Novo 1612
-Sede Nova 2891
-Sao Jose dos Ausentes 3543
-Sao Jose do Hortencio 4865
-Bom Principio 14255
-Bom Jesus 11309
-Jaquirana 3662
-Mampituba 2973
-Ubiretama 1983
-Vista Gaucha 2855
 
 Sant'Ana do Livramento 76321
+Santana da Boa Vista 8067
+Piratini 20704
+Cerrito 6047
+Dom Pedrito 38339
 
-Farroupilha 73061
+Sao Gabriel 62147
+Mata 4797
+Quevedos 2790
+Itaara 5537
+Restinga Seca 15744
+Putinga 3889
+Anta Gorda 5961
+Guapore 25968
+Itapuca 2065
+Casca 9051
+Sao Domingos do Sul 3083
+Vanini 2122
+Ciriaco 4719
+Muliterno 1897
+Gentil 1626
+Mato Castelhano 2542
 
 Venancio Aires 71973
-Tupanci do Sul 1459
+Protasio Alves 1938
 
-Vacaria 66575
-Andre da Rocha 1343
-Cidreira 16583
-Balneario Pinhal 14363
+Montenegro 65721
+Harmonia 4917
+Teutonia 33766
+Westfalia 3031
+Imigrante 3100
+Colinas 2469
+Roca Sales 11471
+Bossoroca 6205
+Capao do Cipo 3699
 
-Sao Borja 60019
-Soledade 31035
-Catuipe 8701
-Barao de Cotegipe 6620
-Barra do Rio Azul 1655
+Santiago 49360
 Joia 8566
-Erval Seco 6802
-Chiapetta 3719
-Floriano Peixoto 1737
+Catuipe 8701
+Charqueadas 41258
+Torres 39064
+Mampituba 2973
+Soledade 31035
+Mormaco 3113
+Espumoso 15591
+Tio Hugo 3055
+Ernestina 3170
+Horizontina 19389
+Crissiumal 13357
+Tres Passos 23852
+Tres Arroios 2643
+Serio 1924
+Segredo 7444
+Vista Gaucha 2855
+Ubiretama 1983
+Chui 6770
+Santa Vitoria do Palmar 29483
+Herval 6814
+Acegua 4942
+Agudo 16401
+Ibarama 4399
+Arroio do Tigre 13413
+Mostardas 12847
+Tavares 5483
+Planalto 10019
+Alpestre 6067
+Irai 7141
+Maquine 6681
+Esmeralda 3287
+Muitos Capoes 3173
+Poco das Antas 2101
+Pouso Novo 1612

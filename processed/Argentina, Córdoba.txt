@@ -1,226 +1,32 @@
 
 
 Cordoba 1310394
-Ordonez 2609
-Laborde 5943
-Isla Verde 4361
-Wenceslao Escalante 1504
-Pascanas 2763
-Pasco 1178
-Ticino 2188
-La Palestina 502
-Villa Albertina 130
+Socavones 263
+Bouwer 841
+Avellaneda 282
+Caminiaga 282
+Caseros Centro 243
+Los Cedros 948
+Los Cocos 1242
+Los Condores 2879
 
-Villa Maria 79351
+Almafuerte 11422
+Parque Calmayo 44
 
-Villa Nueva 18818
-Pozo Nuevo 130
-Cruz de Cana 130
-Cruz Cana 186
-Chucul 304
-Churqui Canada 48
-El Valle 48
-Mi Valle 399
-Valle Alegre 494
-Valle de Anisacate 487
-Anisacate 2991
-Villa La Bolsa 995
-Villa Los Aromos 1364
-Villa Los Llanos 5253
-Ciudad de los Ninos 1836
-Villa Ciudad de America 147
-Villa Ciudad Parque Los Reartes 506
-Los Reartes 1192
-Villa General Belgrano 7795
-Villa Berna 135
-Villa Alpina 154
-
-Villa Allende 25738
-
-Saldan 10605
-
-La Falda 16335
-Falda del Carmen 170
-La Carbonada 207
-La Rinconada 106
-Rincon 517
-El Rincon 129
-La Boca del Rio 80
-Canada del Sauce 61
-Canada de Rio Pinto 134
-El Rodeo 134
-
-Villa del Rosario 15313
-Villa del Transito 227
-Transito 2886
-
-Arroyito 22147
-Dos Arroyos 46
-Los Zorros 508
-Rosales 525
-Villa Rossi 508
-Villa de las Rosas 1991
-Alto Resbaloso 476
-Alto Alegre 816
-Mallin 6
-Piquillin 1347
-Quilino 4092
-Villa Quilino 1003
-
-Dean Funes 21211
-San Pedro de Toyos 56
-San Pedro Norte 317
-Colonia San Pedro 106
-Colonia Anita 8
-Colonia Italiana 738
-
-Corral de Bustos 10407
-Monte Buey 6217
-Monte Lena 384
-
-Bell Ville 33835
-Villa Elisa 26
-Villa El Tala 4
-Villa del Dique 3236
-El Diquecito 926
-San Roque del Lago 898
-Villa Santa Cruz del Lago 2282
-Villa Lago Azul 108
-
-Villa Carlos Paz 62423
-Estancia Vieja 909
-Tanti 6554
-El Pantanillo 108
-
-Santa Maria de Punilla 9526
-
-Cosquin 19458
-
-Unquillo 18086
-
-Mendiolaza 10271
-Colazo 1598
-Olivares de San Nicolas 541
-Estacion Colonia Tirolesa 626
-Colonia Tirolesa 1293
-
-Colonia Caroya 16168
-
-Jesus Maria 31602
-Sinsacate 1317
-Salsacate 1275
-Tala Canada 183
-Las Canadas 149
-Ballesteros Sud 532
-Ballesteros 3928
-Villa Oeste 55
-Calchin Oeste 759
-Huanchillas 1131
-Chuna Huasi 17
-El Huayco 133
-Tala Huasi 131
-Villa Rio Icho Cruz 1864
-La Cruz 1363
-Villa Quillinzo 54
-Onagoity 54
-1 de Agosto 492
-Puesto de Castro 166
-Diego de Rojas 509
-Las Mojarras 60
-Las Jarillas 103
-
-Las Varillas 16238
-Las Varas 1320
-Las Caleras 192
-Las Chacras 535
-El Chacho 154
-Villa El Chacay 81
-Villa Santa Eugenia 126
-Santa Eufemia 2401
-Conlara 153
-Simbolar 340
-Olaeta 619
-La Higuera 404
-Las Higueras 6038
-
-Rio Cuarto 157010
-Barrio Nuevo Rio Ceballos 100
+Santa Rosa de Calamuchita 11730
+Santa Monica 665
+Colonia Santa Maria 63
+Aldea Santa Maria 201
+Los Chanaritos 311
 Los Cerrillos 2283
 Los Hornillos 920
-Quebrada de los Pozos 398
-Los Pozos 91
-Colonia San Bartolome 1291
-Colonia Barge 153
-Colonia Vignaud 722
-Colonia Vicente Aguero 123
+Los Hoyos 194
+Colonia Anita 8
+Colonia San Pedro 106
 Colonia Videla 78
 Casa Bamba 111
-Rio Bamba 103
-General Levalle 5697
-General Paz 1925
-General Roca 2777
-General Fotheringham 313
-Los Molles 264
-Los Molinos 252
-Solar de los Molinos 127
-Rio de los Sauces 1001
-Cintra 1182
-Colonia Veinticinco 17
-Las Palmas 43
-Las Penas 1590
-Las Arrias 1104
-Arias 7075
-Cavanagh 1202
-Guatimozin 2428
-
-Oncativo 13180
-Costa Sacate 1480
-
-Pilar 14735
-Laguna Larga 7437
-
-Rio Segundo 19713
-Segunda Usina 118
-
-Embalse 8793
-
-Canals 8645
-Colonia Santa Maria 63
-Ranqueles 46
-Elena 2985
-Alcira Gigena 5919
-Coronel Baigorria 1456
-
-Coronel Moldes 9005
-Bulnes 1051
-Sampacho 7716
-Achiras 2287
-Suco 292
-Luca 563
-Ucacha 5136
-Charras 1088
-Carnerillo 1867
-
-General Cabrera 11734
-
-General Deheza 11061
-Las Perdices 5084
-Dalmacio Velez 1497
-Colonia Almada 495
-Colonia Marina 1153
-Ambul 386
-Amboy 183
-San Geronimo 85
-San Severo 20
-
-Mina Clavero 8487
-Villa Cura Brochero 6351
-Villa de Pocho 171
-Tasma 5
-Las Tapias 719
-Los Talares 157
-Berrotaran 6869
-Serrano 3162
+Pincen 254
+Jovita 4740
 Estancia de Guadalupe 140
 San Ignacio 140
 San Joaquin 140
@@ -229,160 +35,106 @@ San Martin 225
 Cerro Colorado 225
 
 Villa Dolores 29854
-Villa Sarmiento 5207
-Sarmiento 1288
-
-Villa del Totoral 8211
+Villa de las Rosas 1991
 
 Villa de Soto 9628
-Paso Viejo 1033
+Banado de Soto 466
+Las Corzuelas 69
+Serrezuela 2441
+Canteras Quilpo 216
+Canteras El Sauce 290
+Villa Cerro Azul 253
+Villa Lago Azul 108
+Villa Santa Cruz del Lago 2282
+San Roque del Lago 898
+Bialet Masse 4527
+Villa Parque Siquiman 1738
+Villa Parque Santa Ana 2092
+Campos del Virrey 188
+Villa del Prado 1324
+Valle Alegre 494
+Mi Valle 399
+El Valle 48
+Taninga 129
+Ascochinga 394
+Los Molles 264
+Los Molinos 252
+Calchin Oeste 759
+Calchin 2435
+Villa del Transito 227
+Transito 2886
+
+Arroyito 22147
+Dos Arroyos 46
+Arroyo Cabral 2654
+Arroyo Algodon 677
+Arroyo Los Patos 545
+Villa Los Patos 26
+
+Justiniano Posse 8499
+San Agustin 3317
+Paso del Durazno 44
+Villa del Dique 3236
+El Diquecito 926
+
+La Calera 28629
+Las Caleras 192
+Las Chacras 535
+El Chacho 154
+Villa Alpina 154
+Villa Berna 135
+Capitan General Bernardo O'Higgins 483
+Villa General Belgrano 7795
+Los Reartes 1192
+Villa Ciudad Parque Los Reartes 506
+Villa Ciudad de America 147
+Potrero de Garay 1017
+El Potrerillo 85
+El Rastreador 85
+El Rodeo 134
+La Boca del Rio 80
+El Rincon 129
+Rincon 517
+
+Villa del Rosario 15313
+Monte del Rosario 114
+Santa Rosa de Rio Primero 7761
+Rio Primero 7044
+Piquillin 1347
+Villa Quillinzo 54
+Villa El Tala 4
+Villa El Chacay 81
+Quebrada de Luna 126
+Quebracho Ladeado 165
+Quebrada de los Pozos 398
+Los Pozos 91
+Colonia San Bartolome 1291
+Kilometro 658 365
+El Huayco 133
+Chuna Huasi 17
+Tala Huasi 131
+Villa Rio Icho Cruz 1864
+Villa Rossi 508
+Villa Rumipal 2246
+Villa Reduccion 1732
+Las Acequias 2201
+Las Higueras 6038
+
+Rio Cuarto 157010
+
+Rio Ceballos 19688
+
+Salsipuedes 8407
+Salsacate 1275
+Anisacate 2991
+Valle de Anisacate 487
+Jose de la Quintana 419
+La Quinta 150
 Chanar Viejo 150
 Colonia Las Pichanas 117
 Colonia Las Cuatro Esquinas 107
 Esquina del Alambre 29
 El Alcalde 79
-Falda del Canete 29
-Alpa Corral 812
-Corralito 1727
-Monte Ralo 518
-Despenaderos 5758
-La Morada 9
-Santa Monica 665
-
-Santa Rosa de Calamuchita 11730
-Santa Rosa de Rio Primero 7761
-Rio Primero 7044
-Sagrada Familia 84
-Las Gramillas 109
-La Quinta 150
-Las Quintas 121
-Los Cedros 948
-Los Cocos 1242
-Los Condores 2879
-
-Almafuerte 11422
-Parque Calmayo 44
-Parque Norte 1773
-Villa Parque Santa Ana 2092
-Campos del Virrey 188
-Villa del Prado 1324
-Barrio Villa del Parque 532
-Villa Parque Siquiman 1738
-Bialet Masse 4527
-Assunta 73
-Punta del Agua 175
-Agua de Oro 1918
-El Manzano 892
-Canteras El Sauce 290
-Villa Cerro Azul 253
-Costa Azul 201
-Aldea Santa Maria 201
-Los Chanaritos 311
-Chilibroste 576
-Calchin 2435
-Luque 6253
-Canada de Luque 1154
-La Posta 234
-La Puerta 2185
-La Para 3404
-Villa Fontana 938
-Villa Flor Serrana 50
-Villa San Jose 7
-San Jose de las Salinas 662
-San Jose de la Dormida 4472
-Monte de los Gauchos 675
-Rayo Cortado 675
-La Cortadera 10
-Hipolito Bouchard 1778
-Charbonier 235
-San Marcos Sierras 943
-San Marcos 3093
-
-Marcos Juarez 27004
-
-Leones 10391
-Los Callejones 483
-Las Calles 320
-Nono 1198
-La Donosa 152
-Las Isletillas 152
-Las Saladas 134
-Las Bajadas 141
-San Agustin 3317
-Villa San Miguel 9
-Villa San Isidro 483
-Country San Isidro - Country Chacras de la Villa 2178
-Villa Pastora 752
-Villa Los Patos 26
-Arroyo Los Patos 545
-Jardin Arenales 2318
-Villa Giardino 6702
-Huerta Grande 5925
-Casa Grande 672
-San Lorenzo 122
-San Clemente 134
-Colonia Bremen 117
-La Tordilla 1257
-Toro Pujio 173
-Tio Pujio 2655
-James Craik 5110
-
-Oliva 11672
-La Cautiva 969
-
-Vicuna Mackenna 10021
-Adelia Maria 7586
-San Basilio 3160
-Malena 368
-Santa Elena 982
-Santa Catalina 74
-Santa Catalina Holmberg 3860
-La Carolina 165
-Quebracho Ladeado 165
-Quebracho Herrado 364
-Colonia Prosperidad 314
-Saturnino Maria Laspiur 2496
-Colonia Iturraspe 6
-Villa La Rivera 6
-Villa La Vina 34
-Villa Valeria 2978
-Colonia Bismarck 373
-Washington 608
-Ascochinga 394
-Taninga 129
-Guasapampa 129
-La Pampa 874
-Colonia Valtelina 190
-Las Rabonas 591
-Las Penas Sud 145
-Lutti 20
-Mattaldi 1797
-Nicolas Bruzzone 209
-San Nicolas 1135
-Villa Sierras De Oro 251
-Copacabana 74
-Cabalango 336
-Marull 1791
-La Gilda 101
-Barrio Gilbert 1203
-Malagueno 7136
-La Laguna 1482
-Ausonia 1046
-Causana 55
-Sanabria 77
-Arroyo Cabral 2654
-Arroyo Algodon 677
-Los Hoyos 194
-Idiazabal 1513
-La Perla 895
-La Playa 207
-Las Playas 937
-El Brete 1749
-La Cumbre 7544
-La Cumbrecita 549
-El Fuertecito 297
-Etruria 4070
-Pampayasta Norte 79
 El Tuscal 79
 El Tio 1903
 Villa Concepcion del Tio 1848
@@ -390,201 +142,449 @@ Villa Corazon de Maria 66
 La Floresta 4586
 
 Malvinas Argentinas 12187
-Mi Granja 1739
+Las Arrias 1104
+Las Penas 1590
 
-Monte Cristo 9254
-El Crispin 212
-Capilla del Carmen 328
-Capilla de Siton 550
+Villa del Totoral 8211
 
 Capilla del Monte 11181
-San Esteban 852
-Villa San Esteban 82
-El Aranado 1746
-Canada de Machado 178
-Rosario del Saladillo 178
-Saladillo 174
-Inriville 3709
-Los Surgentes 2752
-Camilo Aldao 5197
-General Baldissera 2387
-Capitan General Bernardo O'Higgins 483
-Jose de la Quintana 419
-Potrero de Garay 1017
-El Potrerillo 85
-El Rastreador 85
-Mussi 21
-Guanaco Muerto 320
-Melo 1198
-Pacheco de Melo 60
-La Ramada 60
-Miramar 2023
-Balnearia 6105
-Altos de Chipion 1718
-La Paquita 947
-Tosquita 414
-Esquina 184
-San Javier y Yacanto 1210
-Villa Yacanto 1097
-Villa Amancay 426
-Chancani 422
-
-Huinca Renanco 9426
-Pincen 254
-Jovita 4740
-Italo 1090
-San Pedro de Gutemberg 124
-Gutenberg 542
-Villa Candelaria 246
-Villa de Maria 4648
-San Francisco del Chanar 2256
-
-San Francisco 61750
-Plaza San Francisco 284
-Plaza Luxardo 90
-Estacion Luxardo 105
-Atahona 88
-Panaholma 136
-Juarez Celman 720
-Serrezuela 2441
-Tuclame 907
-Tosno 94
+Capilla del Carmen 328
+Capilla de Siton 550
+Luca 563
+Chuna 550
+Jardin Arenales 2318
+Villa Giardino 6702
+Huerta Grande 5925
+Casa Grande 672
+San Lorenzo 122
+San Clemente 134
 San Carlos Minas 1311
+
+Villa Carlos Paz 62423
 
 La Carlota 12537
 Los Cisnes 559
-La Paisanita 60
+Las Mojarras 60
+Charras 1088
+Carnerillo 1867
+
+General Cabrera 11734
+
+General Deheza 11061
+Las Perdices 5084
+Dalmacio Velez 1497
+Lucio V. Mansilla 782
+Villa Quilino 1003
+Quilino 4092
+Villa Gutierrez 236
+Sarmiento 1288
+Villa Sarmiento 5207
+Sauce Arriba 471
+Canada del Sauce 61
+Canada de Rio Pinto 134
+Canada de Luque 1154
+La Posta 234
+La Puerta 2185
+La Para 3404
+Villa Fontana 938
+Villa Flor Serrana 50
+Tanti 6554
+Santiago Temple 2779
+Sagrada Familia 84
+Las Gramillas 109
+
+Las Varillas 16238
+Las Varas 1320
+Saturnino Maria Laspiur 2496
+
+Villa Maria 79351
+
+Villa Nueva 18818
+Pozo Nuevo 130
+Cruz de Cana 130
+
+Cruz del Eje 30680
+Las Playas 937
+La Playa 207
+La Perla 895
+Idiazabal 1513
+Cabalango 336
+Marull 1791
+La Gilda 101
+Colonia Almada 495
+Colonia Marina 1153
+Ambul 386
+Las Penas Sud 145
+San Severo 20
+
+Mina Clavero 8487
+Villa Cura Brochero 6351
+La Cumbrecita 549
+La Cumbre 7544
+San Esteban 852
+Villa San Esteban 82
+El Aranado 1746
+Sacanta 3117
+Villa Yacanto 1097
+San Javier y Yacanto 1210
+Esquina 184
+Alto Resbaloso 476
+Alto Alegre 816
+Mallin 6
+Pueblo Comechingones 287
+Las Albahacas 287
+Villa Albertina 130
+Villa Oeste 55
+Villa Elisa 26
+
+Bell Ville 33835
+Inriville 3709
+Saladillo 174
+Rosario del Saladillo 178
+La Batea 96
+La Banda 560
+La Travesia 168
+La Tordilla 1257
+Colonia Bremen 117
+Colonia Barge 153
+Colonia Vignaud 722
+Colonia Vicente Aguero 123
+Italo 1090
+Colonia Italiana 738
+
+Corral de Bustos 10407
+General Baldissera 2387
+Isla Verde 4361
+Las Vertientes 766
+Santa Catalina Holmberg 3860
+Santa Catalina 74
+Copacabana 74
+Villa Sierras De Oro 251
+San Nicolas 1135
+Olivares de San Nicolas 541
+Colazo 1598
+General Fotheringham 313
+General Roca 2777
+Alto de los Quebrachos 161
+Quebracho Herrado 364
+Colonia Prosperidad 314
+Devoto 6057
+Plaza Luxardo 90
+Plaza San Francisco 284
+
+San Francisco 61750
+La Francia 3720
+San Francisco del Chanar 2256
+Villa de Maria 4648
+Rayo Cortado 675
+San Pedro Norte 317
+San Pedro de Toyos 56
+San Pedro de Gutemberg 124
+Chucul 304
+Cruz Cana 186
+Churqui Canada 48
+Las Canadas 149
+Tala Canada 183
+Amboy 183
+San Geronimo 85
+Villa San Jose 7
+Villa San Isidro 483
+Villa San Miguel 9
+Los Callejones 483
+Las Calles 320
+Nono 1198
+Guanaco Muerto 320
+San Huberto 116
+Almirante Brown 1152
+Monte Buey 6217
+Monte Maiz 7325
+Wenceslao Escalante 1504
+Laborde 5943
+
+Laboulaye 20534
+Rosales 525
+Matorrales 972
+Corralito 1727
+Monte Ralo 518
+Despenaderos 5758
+La Morada 9
+Villa Los Aromos 1364
+Villa La Bolsa 995
+Villa La Vina 34
+Villa La Rivera 6
+Colonia Iturraspe 6
+
+Colonia Caroya 16168
+Colonia Tirolesa 1293
+Estacion Colonia Tirolesa 626
+Estacion Luxardo 105
+Atahona 88
+La Rinconada 106
+La Carbonada 207
+Falda del Carmen 170
+Falda del Canete 29
+Alpa Corral 812
+Corral Quemado 52
+La Cortadera 10
+Hipolito Bouchard 1778
+Colonia Veinticinco 17
+Las Palmas 43
 La Serranita 430
 Tierra Alta 36
 Cruz Alta 7200
+Los Surgentes 2752
+Camilo Aldao 5197
 
-Cruz del Eje 30680
-Media Naranja 800
-La Granja 2456
-Benjamin Gould 699
-El Pueblito 1205
-Pueblo Italiano 1654
-La Cesira 1318
-Saira 789
-Noetinger 4709
-El Fortin 1648
-Alicia 3305
-La Francia 3720
-Devoto 6057
-Banado de Soto 466
-Las Corzuelas 69
-Las Junturas 1748
-Las Oscuras 7
-Valle Hermoso 6187
+Saldan 10605
+Dumesnil 2417
 
-Rio Ceballos 19688
+Villa Allende 25738
 
-Salsipuedes 8407
-Estacion Lecueder 72
-Cuesta Blanca 510
-Leguizamon 53
-Viamonte 1583
-Monte Maiz 7325
-Monte del Rosario 114
-Obispo Trejo 2420
-Tejas Tres 74
-Pajas Blancas 96
+Mendiolaza 10271
+
+Unquillo 18086
+Country San Isidro - Country Chacras de la Villa 2178
+Villa Pastora 752
+Parque Norte 1773
+Ciudad de los Ninos 1836
+Villa Los Llanos 5253
+Santa Elena 982
+Elena 2985
+Alcira Gigena 5919
+Coronel Baigorria 1456
+
+Coronel Moldes 9005
+Bulnes 1051
+Sampacho 7716
+Suco 292
 Chajan 767
-Las Vertientes 766
-Las Acequias 2201
-Villa Reduccion 1732
-Bengolea 915
-Los Mistoles 175
-Toledo 3843
-Alejo Ledesma 3299
-Alejandro Roca 5298
-Tancacha 5298
-Villa Ascasubi 2260
+Achiras 2287
+Villa Santa Eugenia 126
+Santa Eufemia 2401
+Conlara 153
+Ballesteros Sud 532
+Ballesteros 3928
+Ramon J. Carcano 57
+Viamonte 1583
+La Cesira 1318
+Pueblo Italiano 1654
+El Pueblito 1205
+Benjamin Gould 699
 La Rancherita y Las Cascadas 129
-La Banda 560
-La Batea 96
-Silvio Pellico 386
-Lucio V. Mansilla 782
-Villa Tulumba 1474
-Villa Gutierrez 236
-
-Alta Gracia 48140
-Alto de los Quebrachos 161
-Quebrada de Luna 126
-Loma Bola 418
-Luyaba 727
-Barrio Santa Isabel 70
-Villa Huidobro 5656
-Del Campillo 3412
-Impira 163
-Almirante Brown 1152
-San Huberto 116
+Guasapampa 129
+La Pampa 874
+La Poblacion 504
+Colonia Valtelina 190
+Las Rabonas 591
+Las Saladas 134
+San Jose de las Salinas 662
+San Jose de la Dormida 4472
+Monte de los Gauchos 675
+Rio de los Sauces 1001
+Cintra 1182
+Los Talares 157
+Berrotaran 6869
 Ana Zumaran 98
 Cienaga del Coro 303
 Chazon 1061
+Villa Candelaria 246
+Gutenberg 542
+Leguizamon 53
+Cuesta Blanca 510
+Pajas Blancas 96
+Tejas Tres 74
+Las Tapias 719
+Las Quintas 121
+
+Cosquin 19458
+
+Santa Maria de Punilla 9526
+Adelia Maria 7586
+
+Vicuna Mackenna 10021
+Tosquita 414
+Washington 608
+Colonia Bismarck 373
+Villa Valeria 2978
+Capilla Vieja 68
+Estancia Vieja 909
+El Pantanillo 108
+Barrio Villa del Parque 532
+Tuclame 907
+Paso Viejo 1033
+Tosno 94
+Media Naranja 800
+Charbonier 235
+San Marcos Sierras 943
+San Marcos 3093
+
+Marcos Juarez 27004
+
+Leones 10391
+Monte Lena 384
+
+Monte Cristo 9254
+Mi Granja 1739
+La Granja 2456
+
+Alta Gracia 48140
+Maquinista Gallini 69
+Chancani 422
+Tancacha 5298
+Ucacha 5136
+Bengolea 915
+Ticino 2188
+La Palestina 502
+Pasco 1178
+Pascanas 2763
+
+Canals 8645
+Dique Chico 167
+Solar de los Molinos 127
+Diego de Rojas 509
+Puesto de Castro 166
 Chalacea 179
 Eufrasio Loza 166
 Lozada 1013
-Bouwer 841
-
-Laboulaye 20534
-La Playosa 2672
-Pozo del Molle 5680
-Carrilobo 1763
-Sacanta 3117
-Matorrales 972
-Corral Quemado 52
-El Corcovado - El Torreon 417
-
-Rio Tercero 46421
-
-Morteros 16890
-Portena 5337
-Seeber 582
-
-Brinkmann 9890
-Freyre 6620
-Manfredi 961
-Capilla de los Remedios 797
-Capilla Vieja 68
-
-La Calera 28629
-Dumesnil 2417
-El Durazno 100
-Paso del Durazno 44
-Villa Rumipal 2246
+Toledo 3843
+Los Mistoles 175
+Punta del Agua 175
 
 Hernando 10109
 Pampayasta Sud 1208
+Pampayasta Norte 79
+Guinazu Norte 197
+Portena 5337
+
+Morteros 16890
+
+Brinkmann 9890
+Seeber 582
+La Paquita 947
+Altos de Chipion 1718
+Balnearia 6105
+Arias 7075
+Cavanagh 1202
+Guatimozin 2428
+Alejo Ledesma 3299
+Alejandro Roca 5298
+Villa Ascasubi 2260
+
+Rio Tercero 46421
+Plaza de Mercedes 67
+Pacheco de Melo 60
+Melo 1198
+Panaholma 136
+Tasma 5
+Villa de Pocho 171
+Mussi 21
+Mayu Sumaj 1259
+San Antonio de Arredondo 3653
+San Antonio de Litin 1268
+Alicia 3305
+El Fortin 1648
+El Fuertecito 297
+Etruria 4070
+Saira 789
+Noetinger 4709
+Morrison 3345
+Ordonez 2609
+La Laguna 1482
+Laguna Larga 7437
+Manfredi 961
+
+Oncativo 13180
+
+Oliva 11672
+James Craik 5110
+Tio Pujio 2655
+Toro Pujio 173
+Miramar 2023
+La Ramada 60
+Las Jarillas 103
+General Levalle 5697
+La Cautiva 969
+Rio Bamba 103
+Barrio Nuevo Rio Ceballos 100
+Barrio Gilbert 1203
+Malagueno 7136
+Yocsina 1242
+Segunda Usina 118
+
+Embalse 8793
+Onagoity 54
+Villa Amancay 426
+La Cruz 1363
+Las Bajadas 141
+Nicolas Bruzzone 209
+Del Campillo 3412
+Mattaldi 1797
+
+Huinca Renanco 9426
+Villa Huidobro 5656
+Barrio Santa Isabel 70
+Ranqueles 46
+Serrano 3162
+Los Zorros 508
+La Paisanita 60
+La Playosa 2672
+Pozo del Molle 5680
+Carrilobo 1763
+Luque 6253
+Costa Sacate 1480
+Costa Azul 201
+El Durazno 100
+La Carolina 165
+Loma Bola 418
+Simbolar 340
+Olaeta 619
+La Higuera 404
+Chilibroste 576
+Huanchillas 1131
+Juarez Celman 720
+El Crispin 212
+El Corcovado - El Torreon 417
+Estacion Lecueder 72
+Impira 163
+
+Jesus Maria 31602
+Sinsacate 1317
+General Paz 1925
+El Manzano 892
+Agua de Oro 1918
+
+La Falda 16335
+Valle Hermoso 6187
+Las Oscuras 7
+Las Junturas 1748
+
+Dean Funes 21211
+Villa Tulumba 1474
+Sebastian Elcano 2481
+Obispo Trejo 2420
+Tinoco 169
+Capilla de los Remedios 797
+
+Rio Segundo 19713
+
+Pilar 14735
+Freyre 6620
+Talaini 112
+San Basilio 3160
+Malena 368
+El Brete 1749
+San Roque 1126
 Candelaria Sud 115
 Rafael Garcia 555
-Kilometro 658 365
-Pueblo Comechingones 287
-Las Albahacas 287
-
-Justiniano Posse 8499
-Sebastian Elcano 2481
-Ramon J. Carcano 57
-Morrison 3345
-Sauce Arriba 471
-San Antonio de Arredondo 3653
-Mayu Sumaj 1259
-Guinazu Norte 197
-Caseros Centro 243
-Maquinista Gallini 69
-Talaini 112
-Caminiaga 282
-Santiago Temple 2779
-San Antonio de Litin 1268
-Yocsina 1242
-Tinoco 169
-San Roque 1126
-Dique Chico 167
-Chuna 550
+Ausonia 1046
+Sanabria 77
+Causana 55
+Luyaba 727
+1 de Agosto 492
+Canada de Machado 178
+Silvio Pellico 386
+Lutti 20
+Las Isletillas 152
+La Donosa 152
 Colonia 10 de Julio 73
-La Poblacion 504
-La Travesia 168
-Avellaneda 282
-Socavones 263
-Canteras Quilpo 216
-Plaza de Mercedes 67
+Assunta 73

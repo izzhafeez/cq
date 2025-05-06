@@ -2,13 +2,9 @@
 
 Kuala Lumpur 1453975
 Ampang 126285
-Kampar 19056
-Tapah Road 27863
-Tanah Rata 7000
-Tanah Merah 29116
-Kampong Pangkal Kalong 39904
-Kampong Kadok 19233
-Peringat 23288
+Simpang Empat 58004
+Bagan Serai 20476
+Perai 65301
 Batu Feringgi 20000
 Kampung Batu Feringgi 4000
 Pelabuhan Klang 20000
@@ -21,173 +17,177 @@ Subang Jaya 642100
 Petaling Jaya 520698
 Putrajaya 50000
 Putra Heights 60000
-Jitra 63489
-Alor Setar 217368
+
+Shah Alam 481654
+Kuang 21185
+Ladang Seri Kundang 23307
+Padang Mat Sirat 10000
+Ayer Hangat 10000
+Kampung Ayer Molek 15497
+Kampung Ayer Keroh 37716
+Kampung Bukit Baharu 55656
+Kampung Bukit Hantu 1000
+Kampung Kok 4160
+Kampung Kilim 5000
+Tanjung Rhu 1000
+Batu Niah 1000
+Batu Gajah 46183
+Kampar 19056
+Tapah Road 27863
+Tanah Rata 7000
+Tanah Merah 29116
+Kampong Pangkal Kalong 39904
+Kampong Kadok 19233
+Peringat 23288
+Pasir Mas 19017
+Kampung Pasir Gudang Baru 145639
+
+Johor Bahru 802489
+Kampung Baharu Nilai 36720
+Kampong Baharu Balakong 69302
+
+Kajang 342657
+Semenyih 92491
+Gua Musang 19731
+Kuala Lipis 15448
+Jerantut 33606
+Mentekab 42171
+Temerluh 59916
+Bentong Town 49213
+
+George Town 300000
+Butterworth 107591
+Permatang Kuching 27191
+Tanjung Tokong 24071
+Tanjung Sepat 22340
+Sepang 212050
+Sungai Pelek New Village 13829
 
 Sungai Petani 228843
-Sungai Udang 26044
+Bedong 47585
+Donggongon 71585
+Kg Ramayah 600
+Bukit Rambai 17391
+Bukit Mertajam 212329
+Juru 12265
+Mersing 22007
+Labis 21906
+Chaah 11844
+Yong Peng 27138
+Parit Raja 17441
+Parit Buntar 27313
+Nibong Tebal 40072
+Kampung Tekek 2000
+Kampung Tanjung Karang 16393
+Kuala Selangor 55887
 Kuala Sungai Baru 12269
+Sungai Udang 26044
 Sungai Besar 26939
 Sabak Bernam 17251
 Batang Berjuntai 20001
-Kampung Tanjung Karang 16393
-Kuala Selangor 55887
-Kuang 21185
-
-Kuantan 366229
-Pekan 31826
-Mentekab 42171
-Bentong Town 49213
-Kampung Bukit Tinggi 12346
-Kampung Bukit Baharu 55656
-Bukit Rambai 17391
 Klebang Besar 38643
 Malacca 180671
+Batu Berendam 25028
+Serendah 28484
+Rawang 120447
+Marang 21410
+Paka 21044
+Kertih 24401
+Jertih 13526
+Kampung Kuala Besut 2400
+Kuala Besut 2400
 Kuala Pilah 19510
 Kuala Perlis 13917
 Kuala Kedah 19231
-Kuala Kangsar 39331
-Taiping 217647
-
-Ipoh 673318
-Batu Gajah 46183
+Alor Setar 217368
 Alor Gajah 20163
 Pulau Sebang 11879
 Tampin 28238
 Kampong Masjid Tanah 29185
 Kampong Dungun 58674
 Batu Arang 22579
-Ladang Seri Kundang 23307
-Serendah 28484
-Batu Berendam 25028
-Kampung Ayer Keroh 37716
-Kampung Ayer Molek 15497
-Ayer Hangat 10000
-Taman Rajawali 10000
-Taman Senai 73176
-Pekan Nenas 23292
-Pontian Kechil 50836
-Banting 48240
-Jenjarum 24857
-Marudi 90100
-Kinarut 15716
-
-Kota Kinabalu 457326
-Kota Belud 12825
-Ranau 19294
-Marang 21410
-
-Kuala Terengganu 285065
-Kuala Besut 2400
-Kampung Kuala Besut 2400
-Kampung Kok 4160
-Kampung Kilim 5000
-Kampung Bukit Hantu 1000
-Batu Niah 1000
 Batu Pahat 156236
-Parit Raja 17441
-Parit Buntar 27313
-Nibong Tebal 40072
-Kampung Tekek 2000
-Kampung Sungai Ara 140849
-
-George Town 300000
-Tanjung Tokong 24071
-Tanjung Rhu 1000
-Tanjung Sepat 22340
-Sepang 212050
-Sungai Pelek New Village 13829
-Kampung Baharu Nilai 36720
-Kampong Baharu Balakong 69302
-
-Kajang 342657
-Semenyih 92491
+Bakri 30280
+Muar 127897
+Tangkak 35109
+Bemban 14329
 
 Seremban 372917
-Bemban 14329
 Limbang 26199
 Lawas 38385
-
-Tawau 306462
-Semporna 62641
-Lahad Datu 105622
-Telaga Batu 10000
-Kepala Batas 17131
-Permatang Kuching 27191
-Perai 65301
-Bagan Serai 20476
-Simpang Empat 58004
-Kampung Simpang Renggam 17528
-Kluang 169828
-Yong Peng 27138
-Donggongon 71585
-Bedong 47585
-Gurun 15964
-Juru 12265
-Bukit Mertajam 212329
-Kulim 170889
-Kulai 63762
-Kelapa Sawit 13239
-Papar 19278
-Kg Ramayah 600
-Putatan 78340
-Data Kakus 3350
-Kudat 32393
-Kampung Pasir Gudang Baru 145639
-
-Johor Bahru 802489
-Ulu Tiram 75350
-Kota Tinggi 52743
-
-Kota Bharu 314964
-Tumpat 12280
-Pasir Mas 19017
-Padang Mat Sirat 10000
-
-Sandakan 392288
-Paka 21044
-Kertih 24401
-Jertih 13526
-Jerantut 33606
-Kuala Lipis 15448
-Raub 40024
-Bahau 31273
-Buloh Kasap 13088
-Segamat 69816
-Labis 21906
 Labuan 73653
 Bandar Labuan 54752
 Beaufort 15855
 Keningau 77650
-Kangar 63869
+Papar 19278
+Kinarut 15716
+
+Kota Kinabalu 457326
+Kota Belud 12825
+
+Kota Bharu 314964
+Kota Tinggi 52743
+Ulu Tiram 75350
+Taman Senai 73176
+Taman Rajawali 10000
+
+Sandakan 392288
+Telaga Batu 10000
+Kepala Batas 17131
+Tasek Glugor 135786
+Kulim 170889
+Kampung Sungai Ara 140849
+Kampung Simpang Renggam 17528
+Kluang 169828
+Kelapa Sawit 13239
+Kulai 63762
+Pekan Nenas 23292
+Pontian Kechil 50836
+Ranau 19294
+Putatan 78340
+Kudat 32393
+
+Ipoh 673318
+Kuala Kangsar 39331
+Taiping 217647
+Pantai Remis 16317
+Pantai Cenang 15000
+Kuala Teriang 3000
+
+Kuala Terengganu 285065
 Simanggang 27207
 Sarikei 29281
 Sibu 198239
 Mukah 49900
-Cukai 82425
-Temerluh 59916
-Mersing 22007
-Chaah 11844
+Bintulu 151617
+Data Kakus 3350
+Kapit 15771
 
 Kuching 570407
-Kapit 15771
-Bintulu 151617
+Miri 228212
+Marudi 90100
+
+Kuantan 366229
+Pekan 31826
+Cukai 82425
+Raub 40024
+Kampung Bukit Tinggi 12346
+
+Tawau 306462
+Semporna 62641
+Lahad Datu 105622
+Port Dickson 89198
+Banting 48240
+Jenjarum 24857
+Bagan Pulau Ketam 2000
+Segamat 69816
+Buloh Kasap 13088
+Bahau 31273
+Kangar 63869
+Jitra 63489
+Gurun 15964
 Teluk Intan 63353
 Bidur 30016
 Lumut 39595
-Pantai Remis 16317
-Pantai Cenang 15000
-Kuala Teriang 3000
 Kuah 30212
-
-Shah Alam 481654
-Miri 228212
-Bakri 30280
-Tangkak 35109
-Muar 127897
-Gua Musang 19731
-Tasek Glugor 135786
-Butterworth 107591
-Port Dickson 89198
-Rawang 120447
-Bagan Pulau Ketam 2000
+Tumpat 12280

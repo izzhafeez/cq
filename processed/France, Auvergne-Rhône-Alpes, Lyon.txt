@@ -3,93 +3,65 @@
 Lyon 472317
 
 Sainte-Foy-les-Lyon 21893
+Sainte-Consorce 1794
+Pollionnay 1670
 
-Saint-Fons 16053
-Fons 277
-Chanonat 1487
-Chantesse 301
+Saint-Genis-les-Ollieres 5029
+
+Saint-Genis-Laval 20883
+
+Oullins 25592
+
+La Mulatiere 7185
+Ratieres 275
 Nantes-en-Ratier 429
 Oris-en-Rattier 90
 Le Poet-Sigillat 102
-Le Poet-Laval 891
-Notre-Dame-de-Mesage 1294
-Notre-Dame-de-Boisset 515
-Saint-Pierre-de-Bressieux 689
-Saint-Pierreville 534
-Saint-Pierre 162
-Sainte-Anastasie 162
-Besse-et-Saint-Anastaise 1636
-Sonthonnax-la-Montagne 315
-Meaux-la-Montagne 176
-Vieillespesse 254
-Vieillevie 115
-Chassignieu 206
-Marignieu 168
-Marigny 210
-Parigny 540
-Parmilieu 540
-Armix 17
-Thezillieu 329
-Satillieu 1599
-
-Saint-Vallier 4038
-Saint-Sorlin-en-Valloire 1669
-Moras-en-Valloire 656
-Valloire 1346
-Mazoires 108
-Billezois 356
-
-Lezoux 5170
-Escoutoux 1201
-Peschadoires 2060
-Chappes 1398
-Pessat 490
-Lussat 751
-Lussas 823
-Alissas 1101
-Coux 1581
-La Coucourde 795
-Cruas 2526
-Cruet 1057
-Notre-Dame-du-Cruet 147
-La Chapelle-du-Mont-du-Chat 144
-La Chapelle-de-Mardore 168
-La Chapelle-aux-Chasses 220
-Lachapelle-Graillouse 220
-La Chapelle-Geneste 144
-La Chapelle 353
-La Chapelle-Laurent 386
-La Chapelle-Marcousse 75
-La Chapelle-sur-Usson 70
-Esteil 61
-Creste 44
-Le Monestier 187
-Monestier 272
-Bidon 118
-La Bridoire 1170
-Moire 201
-
-Moirans 7886
-Saint-Jean-de-Moirans 2901
-
-Voiron 22114
-Giron 111
-Puygiron 373
-Espeluche 807
-Montboucher-sur-Jabron 1531
-Montsegur-sur-Lauzon 1053
-Solerieux 284
-Clerieux 1963
+Croizet-sur-Gand 231
+Charols 534
+Marols 335
+Saint-Pardoux 388
 Saint-Bardoux 584
 Saint-Barthelemy-de-Vals 1728
 Saint-Barthelemy 875
-Saint-Barthelemy-Lestra 601
-Saint-Martin-le-Colonel 174
-Saint-Martial 276
-Saint-Martin-des-Olmes 282
-Fay-le-Clos 185
-Eclose 580
-Maubec 1497
+Cellier-du-Luc 109
+Veyrier-du-Lac 2305
+
+Sevrier 4014
+
+Cran-Gevrier 19354
+
+Seynod 18590
+Nances 354
+Motz 354
+Chavaniac-Lafayette 343
+Aix-la-Fayette 103
+Saint-Genes-la-Tourette 187
+Yssac-la-Tourette 331
+Thuret 702
+Rauret 152
+Saint-Laurent-en-Royans 1344
+Saint-Laurent-sur-Saone 1798
+Saint-Laurent 665
+Saint-Leger 241
+Saint-Leger-sur-Roanne 1009
+Malvalette 440
+Reilhanette 128
+Orsonnette 216
+Saint-Bonnet-le-Troncy 289
+Saint-Bonnet-le-Bourg 135
+Saint-Michel-de-Boulogne 135
+Saint-Mamert 63
+Saint-Alban-des-Villards 63
+Segur-les-Villas 271
+Bonvillaret 89
+Villarembert 261
+Villaroger 401
+Lavillatte 90
+Lavilledieu 1525
+Villeneuve-de-Berg 2693
+Saint-Etienne-de-Boulogne 320
+Saint-Etienne-de-Fontbellon 2543
 
 Aubenas 13134
 Saint-Didier-sous-Aubenas 725
@@ -98,52 +70,18 @@ Lachapelle-sous-Chaneac 189
 Louroux-de-Beaune 189
 Louroux-de-Bouble 291
 Cerzat 211
-Bas-et-Lezat 221
 
-Bas-en-Basset 3506
-Valprivas 422
+Gerzat 9382
+Malintrat 1057
+Entraigues 596
+Maringues 2627
+Saint-Andre-le-Coq 495
+Saint-Andre-le-Puy 1217
+Saint-Romain-le-Puy 2854
+Chalain-le-Comtal 462
 
-Privas 9545
-Savasse 1180
-Savas 736
-Chavanay 2330
-Chanas 2104
-Charnas 537
-
-Arnas 3332
-Lacenas 851
-Blace 1290
-Lachassagne 863
-Chasselay 2746
-Vassel 209
-Vasselin 326
-Torcieu 634
-Orcier 764
-Cleppe 464
-
-Voreppe 10214
-Veurey-Voroize 1399
-Vorey 1521
-Roche-en-Regnier 407
-Saint-Albin-de-Vaulserre 407
-Saint-Martin-de-Vaulserre 219
-Saint-Germain 538
-Saint-Germain-Laval 1610
-Bussy-Albieux 457
-Balbigny 2583
-Nervieux 796
-Mizerieux 293
-Musieges 293
-Bussieres 1326
-Panissieres 2850
-Panissage 382
-Mornand-en-Forez 382
-Usson-en-Forez 1262
-
-Saint-Marcellin-en-Forez 3440
-Saint-Medard-en-Forez 864
-Bellegarde-en-Forez 1490
-Saint-Cyr-les-Vignes 858
+Sury-le-Comtal 5046
+Saint-Bonnet-le-Chateau 1630
 Saint-Bonnet-les-Oules 1294
 Saint-Bonnet-les-Allier 355
 Sainte-Croix-en-Jarez 355
@@ -154,6 +92,216 @@ Montluel 6528
 Montlucon 44960
 
 Desertines 4760
+Quinssaines 1038
+Brossainc 172
+Vernoux 140
+Vernoux-en-Vivarais 1858
+Vic-sur-Cere 1936
+
+Arpajon-sur-Cere 5744
+Saint-Cernin 1137
+Saint-Chamant 279
+Saint-Cyr-sur-le-Rhone 1137
+Saint-Alban-du-Rhone 903
+Saint-Alban 148
+Saint-Alban-de-Roche 1855
+Roche 1679
+Four 985
+Fournols 510
+Bournoncle-Saint-Pierre 1016
+Saint-Pierre 162
+Saint-Pierreville 534
+Saint-Pierre-de-Bressieux 689
+Saint-Pierre-de-Boeuf 1326
+Saint-Quentin-sur-Isere 1326
+Saint-Julien-sur-Bibost 537
+Saint-Julien-sur-Veyle 580
+Saint-Julien-la-Vetre 455
+Mandailles-Saint-Julien 226
+Saint-Julien-le-Roux 96
+Saint-Julien 820
+Blace 1290
+Lacenas 851
+Lucenay 1454
+Morance 1787
+
+Villefranche-sur-Saone 32994
+Montmerle-sur-Saone 3104
+Polienas 992
+Julienas 843
+Cogny 1004
+
+Cognin 6577
+Chignin 819
+Les Marches 2304
+Marches 696
+Courchevel 1700
+Saint-Bonnet-le-Courreau 764
+Hery-sur-Alby 840
+Bessay-sur-Allier 1414
+Monetay-sur-Allier 472
+
+Varennes-sur-Allier 4314
+Toulon-sur-Allier 1106
+Villeneuve-sur-Allier 960
+Bonneval-sur-Arc 261
+Bonneval 110
+Bizonnes 677
+Saint-Didier-de-Bizonnes 223
+Saint-Didier-de-la-Tour 1535
+La Petite-Marche 218
+Marchamp 117
+Marchampt 393
+Arfeuilles 719
+Presailles 172
+La Chapelle-en-Lafaye 108
+Lissac 255
+Alissas 1101
+Lussas 823
+Lussat 751
+Pessat 490
+Saint-Bonnet-pres-Riom 1673
+
+Riom 20142
+Rioms 24
+Aulan 5
+Coulanges 315
+Coulandon 698
+Neuvy 1851
+Neuville 335
+Neuville-sur-Ain 1369
+
+Neuville-sur-Saone 7453
+Albigny-sur-Saone 2814
+Fleurieu-sur-Saone 1361
+
+Fontaines-sur-Saone 7129
+Fontaines-Saint-Martin 2873
+Cailloux-sur-Fontaines 2269
+
+Fontaine 24588
+Fontanil-Cornillon 2642
+Cornier 1039
+Nernier 401
+Cras 347
+Saint-Gervazy 270
+Saint-Gervais 405
+Saint-Jean-Saint-Gervais 91
+Vion 790
+Vions 353
+Chezelle 145
+La Guillermie 162
+Villers 521
+Meillers 172
+Meillerie 307
+Villy-le-Bouveret 446
+Billy 942
+
+Billom 4466
+Egliseneuve-pres-Billom 786
+Egliseneuve-des-Liards 145
+Neuveglise 1037
+Le Vilhain 276
+Chilhac 196
+Lavoute-Chilhac 322
+Malvieres 107
+Gravieres 393
+Sablieres 105
+Narnhac 86
+Junhac 341
+Leynhac 389
+Ladinhac 464
+Badinieres 531
+Dunieres 3016
+
+Unieux 8456
+
+Fraisses 3982
+Saint-Germain-les-Paroisses 334
+Saint-Nizier-d'Azergues 678
+Saint-Nizier-le-Bouchoux 597
+Saint-Nizier-le-Desert 536
+Salavas 536
+Salavre 316
+Saint-Avre 696
+Saint-Priest-Bramefant 696
+Saint-Pont 460
+Saint-Pons 220
+Saint-Fargeol 220
+Farges 662
+Le Brethon 359
+Cros-de-Ronesque 126
+Cros-de-Montvert 226
+La Batie-Montgascon 1556
+Pouilly-le-Monial 766
+Saint-Aubin-le-Monial 294
+Buxieres-les-Mines 1200
+Buxieres-sous-Montaigut 253
+Durmignat 199
+Termignon 461
+Grignon 1957
+Perigny 410
+Perigneux 1250
+Lerigneux 131
+Bouligneux 319
+Beligneux 2809
+
+Dagneux 4098
+
+Charvieu-Chavagneux 8506
+
+Chavanoz 4265
+Chavanod 2226
+Etercy 703
+Marcellaz-Albanais 1561
+Marcellaz 770
+Saint-Remy-de-Chargnat 478
+Saint-Remy-de-Blot 207
+Saint-Remy-de-Chaudes-Aigues 123
+Chaudes-Aigues 1012
+Anterrieux 131
+Perrier 823
+Villeneuve-les-Cerfs 424
+Villeneuve 1024
+Villeneuve-de-Marc 954
+Ars-sur-Formans 1209
+Saint-Didier-de-Formans 1700
+Sainte-Euphemie 1221
+Sainte-Euphemie-sur-Ouveze 78
+Bourget-en-Huile 137
+
+Le Bourget-du-Lac 4263
+Bourdeau 495
+Bourdeaux 601
+Noyant-d'Allier 690
+Saint-Prejet-d'Allier 180
+Rochecolombe 180
+Rochemaure 1989
+Rochessauve 322
+Saint-Just-en-Bas 322
+Saint-Julien-en-Saint-Alban 1078
+Flaviac 1149
+Lavieu 89
+Saint-Haon-le-Vieux 869
+Nervieux 796
+Mizerieux 293
+Musieges 293
+Grieges 1785
+Cormoranche-sur-Saone 996
+Francheleins 1090
+Chaleins 1113
+Fareins 1862
+
+Saint-Georges-de-Reneins 3999
+Mogneneins 645
+Baneins 580
+Dompierre-sur-Chalaronne 303
+Saint-Etienne-sur-Chalaronne 1291
+Saint-Didier-sur-Chalaronne 2521
+
+Chatillon-sur-Chalaronne 4660
+Relevant 403
+Vaudevant 207
 Audes 460
 La Chapelaude 968
 La Chambre 1205
@@ -163,662 +311,536 @@ Chambles 777
 Le Chambon-Feugerolles 13371
 
 Firminy 17902
-
-Fraisses 3982
-Franchesse 465
-Vacheresse 670
-Besse 139
-Bessans 343
 Auzelles 343
 Chuzelles 2119
 Simandres 1323
-Sonnaz 1323
-
-Chaponnay 3494
-Marennes 1564
-
-Vienne 32293
-Dienne 303
-Vitrac 335
-Lhuis 801
-La Roche-sur-le-Buis 304
-La Rochette-du-Buis 66
-Varennes-sur-Usson 171
-Saint-Etienne-sur-Usson 245
-Saint-Etienne-sur-Blesle 49
-Saint-Etienne-de-Chomeil 223
-Saint-Etienne-de-Serre 181
-Saint-Pierre-de-Mearoz 133
-Saint-Pierre-de-Mesage 725
-Saint-Etienne-de-Fontbellon 2543
-Saint-Etienne-de-Boulogne 320
-
-Saint-Etienne 176280
-
-La Ricamarie 7997
-La Riviere 505
-La Riviere-Enverse 434
-
-Taninges 3471
-Fillinges 2702
-Lucinges 1352
-Faucigny 456
-Arbusigny 843
-Lusigny 1476
-Souvigny 1987
-Chouvigny 246
-Queige 800
-Feigeres 1360
-
-Reignier-Esery 5892
-Treignat 480
-Solignat 424
-Valignat 57
-Valigny 448
-Paulhenc 290
-Paulhac 654
-Raulhac 331
-Reilhac 977
-Naucelles 1815
-Aucelon 43
-Juvinas 159
-Izenave 159
-Dareize 395
-Chassagne 104
-Bessas 172
-Bellecombe-Tarendol 81
-Bellecombe-en-Bauges 488
-Saint-Vidal 385
-Saint-Vital 634
-Saint-Avit 258
-Saint-Amandin 247
-Saint-Roman 149
-Hautecourt-Romaneche 737
-Teche 535
-Crechy 440
-Viverols 408
-Pailherols 156
-Pinols 281
-Moureuille 281
-Ebreuil 1246
-Le Breuil 385
-Le Breuil-sur-Couze 1020
-Saint-Germain-Lembron 1706
-Charbonnier-les-Mines 850
-
-Brassac-les-Mines 3570
-Champagnac-le-Vieux 248
-Agnat 220
-Lamothe 849
-
-Brioude 7451
-Vieille-Brioude 1157
-Valeille 526
-Villers 521
-Meillers 172
-Meillerie 307
-Villy-le-Bouveret 446
-Billy 942
-
-Billom 4466
-Egliseneuve-pres-Billom 786
-Neuveglise 1037
-Egliseneuve-des-Liards 145
-Barret-de-Lioure 51
-Pradelle 27
-Pradelles 662
-Moledes 102
-Salledes 480
-Dallet 1229
-Seychalles 484
-Challex 1158
-Meallet 177
-Maillet 373
-Valette 262
-Salettes 101
-Saint-Christol 101
-Saint-Christophe 475
-Bourg-Saint-Christophe 908
-Beligneux 2809
-
-Dagneux 4098
-
-Charvieu-Chavagneux 8506
-
-Chavanoz 4265
-Charnoz-sur-Ain 881
-Chazey-sur-Ain 1305
-Hieres-sur-Amby 1082
-Saint-Baudille-de-la-Tour 612
-Saint-Didier-de-la-Tour 1535
-Saint-Didier-de-Formans 1700
-Ars-sur-Formans 1209
-Villeneuve-de-Marc 954
-Villeneuve 1024
-
-Belleville 6299
-Taponas 607
-Polienas 992
-Montceaux 992
-Montcel 846
-Montcet 537
-Nuelles 537
-Saint-Germain-Nuelles 1295
-Bully 1906
-
-Lentilly 5079
-
-Dardilly 8612
-
-Ecully 19437
-
-Oullins 25592
-
-La Mulatiere 7185
-
-La Mure 5190
-La Motte-Saint-Martin 1647
-Pierre-Chatel 1295
-Saint-Pierre-le-Chastel 360
-Saint-Ours 1425
-Saint-Oyen 212
-Saint-Barthelemy-le-Meil 212
-Saint-Barthelemy-le-Plain 702
-Saint-Blaise 230
-Saint-Palais 191
-Saint-Paul-de-Vezelin 310
-Saint-Paul-les-Monestier 236
-Vedrines-Saint-Loup 161
-Saint-Mamert 63
-Saint-Marc 98
-La Batie-Montgascon 1556
-Cros-de-Montvert 226
-Montvert 118
-Verthemex 153
-Arthemonay 397
-Dionay 136
-Mionnay 2293
-Montanay 2546
-Montanges 326
-Fontanges 245
-Joncheres 38
-Choranche 143
-Boulc 111
-Saulcet 625
-Burzet 517
-Sazeret 157
-Azerat 294
-Murat 2316
-Ussel 445
-Tanavelle 253
-Faverolles 339
-Alleuze 201
-Aurouze 209
-Bouzel 536
-Mezel 1560
-Mezeres 108
-Mezeriat 2108
-
-Viriat 5850
-Ceyzeriat 2639
-Tossiat 1231
-Treffort-Cuisiat 2287
-Foissiat 1705
-Polliat 2221
-Illiat 506
-Premillieu 39
-Premilhat 2125
-Quinssaines 1038
-Larequille 1205
-Queuille 285
-Parlan 285
-Lanarce 210
-Lanas 383
-Manas 161
-Chindrieux 1190
-Grandrif 208
-Grandris 1090
-Sandrans 452
-Frans 2023
-Francheleins 1090
-Chaleins 1113
-Fareins 1862
-
-Saint-Georges-de-Reneins 3999
-Mogneneins 645
-Baneins 580
-Chaneins 614
-Chamelet 614
-Chameane 140
-Chaniat 140
-Chauriat 1458
-
-Mauriac 3955
-
-Aurillac 34724
-Fourilles 192
-Four 985
-Roche 1679
-Saint-Alban-de-Roche 1855
-Saint-Alban 148
-
-Saint-Alban-Leysse 5452
-Saint-Alban-de-Montbel 483
-Saint-Etienne-de-Lugdares 483
-Saint-Etienne-de-Maurs 706
-Saint-Julien-du-Pinet 369
-Saint-Julien-Labrousse 335
-Sainte-Julie 588
-Saint-Julien 820
-Saint-Etienne-des-Oullieres 1832
-Saint-Etienne-la-Varenne 646
-Vernet-la-Varenne 749
-Varennes-Saint-Honorat 41
-Ternant-les-Eaux 41
-Beaumont-les-Randan 203
-
-Beaumont 12295
-Saint-Beauzire 2114
-Saint-Bauzile 192
+Simandre-sur-Suran 698
+Saint-Andre-sur-Vieux-Jonc 1059
+Saint-Andre-le-Bouchoux 284
+Saint-Aupre 1059
+Ponet-et-Saint-Auban 97
+Saint-Andre 492
 Saint-Andre-la-Cote 192
 Saint-Andeol 132
-Saint-Andre 492
-Arnac 181
-Larnas 95
-Ramasse 263
-Pont-de-Labeaume 508
-Fontanes 587
-Fontannes 1308
-La Chaise-Dieu 823
-La Chaulme 136
-Le Vaulmier 89
-Le Perier 136
-Le Perreon 1085
-Vaux-en-Beaujolais 818
-Beaujeu 2027
-Corcelles-en-Beaujolais 804
-Lancie 709
-Cercie 923
-Saint-Lager 928
-Saint-Lager-Bressac 706
-Saint-Laure 373
-Saint-Regis-du-Coin 373
-Saint-Genes-du-Retz 476
-Montpensier 328
-Mons 385
-Limons 659
-Pionsat 1049
+
+Bourg-Saint-Andeol 8301
+
+Pierrelatte 12691
+Pierrelongue 137
+Epierre 623
+Albepierre-Bredons 242
+Apchon 242
+Apchat 216
 Neussargues 1049
 Begues 204
-Paulhaguet 1040
-Longessaigne 540
-Longes 806
-Lapeyrouse 584
-Yronde 610
-Neronde 503
-Neronde-sur-Dore 494
-Jullianges 406
-Jullie 405
-Saint-Julien-de-Coppel 938
-Saint-Vincent-de-Boisset 913
-Saint-Bois 111
-Saint-Genest-Lachamp 111
-Saint-Genest 358
-Lavault-Sainte-Anne 1200
-Montmarault 1701
-Sainte-Marie-du-Mont 221
-Sainte-Marie 107
-Sainte-Agnes 536
-Salavas 536
-Laval 865
-Salavre 316
-Saint-Avre 696
-Saint-Pont 460
-Lyaud 1163
-Lyas 547
-Royas 330
-Lornay 390
+Le Pegue 380
+Archignat 348
+Parentignat 540
+Parent 681
+Aubazat 178
 
-Lorette 3202
-Morette 388
-La Murette 1752
-La Frette 900
-Brette 34
-Pennes-le-Sec 21
-Sechilienne 820
+Cebazat 8114
 
-Echirolles 33088
-
-Crolles 9026
-Molles 726
-Les Mollettes 592
-Les Villettes 888
-Saint-Maurice-de-Lignon 1896
-Le Chambon-sur-Lignon 2923
-Fay-sur-Lignon 424
-Mazet-Saint-Voy 1081
-Saint-Voir 206
-Saint-Antoine 122
-Saint-Antoine-l'Abbaye 1008
-Saint-Bonnet-de-Chavagne 575
-Saint-Hilaire-du-Rosier 1908
-Saint-Hilaire 1836
-Saint-Nazaire-les-Eymes 2531
-Saint-Nazaire-le-Desert 195
-Saint-Clair-de-la-Tour 2896
-Saint-Clair 988
-Saint-Cyr 1171
-Saint-Cyr-le-Chatoux 124
-Saint-Laurent-Chabreuges 258
-Saint-Laurent-sous-Coiron 149
-Saint-Laurent 665
-Saint-Leger 241
-Saint-Leger-sur-Roanne 1009
-Malvalette 440
-Orsonnette 216
-Reilhanette 128
-Saint-Berain 128
-Saint-Beron 1345
-Saint-Bueil 697
-Saint-Blaise-du-Buis 929
-La Buisse 2596
-
-Coublevie 3992
-Chiroubles 375
-Bulhon 375
-Aulhat 315
-Culhat 1024
-Venteuges 405
-Chanteuges 421
-Saint-Pierre-Colamine 234
-Rossillon 161
-
-Roussillon 8082
-
-Le Peage-de-Roussillon 6869
-
-Pelussin 3441
-Assieu 962
-Auberives-sur-Vareze 1393
-Clonas-sur-Vareze 1387
-
-Saint-Clair-du-Rhone 3888
-Saint-Michel-sur-Rhone 767
-
-Chasse-sur-Rhone 5229
-Serezin-du-Rhone 2599
-Saint-Alban-du-Rhone 903
-Saint-Cyr-sur-le-Rhone 1137
-Saint-Cyr-sur-Menthon 1452
-Saint-Jean-de-Touslas 682
-Saint-Jean-de-Couz 230
-Saint-Jean-la-Bussiere 910
-Saint-Jean-la-Vetre 391
-Saint-Germain-la-Montagne 209
-Vollore-Montagne 395
-Vollore-Ville 725
-Montpeyroux 344
-Seytroux 314
-
-Ytrac 3421
-Sansac-de-Marmiesse 1114
-Sansac-Veinazes 212
-Veaunes 237
-Mercurol-Veaunes 1809
-
-Chateauneuf-sur-Isere 3646
-
-Romans-sur-Isere 35002
-Saint-Paul-les-Romans 1613
-Saint-Romans 1547
-Saint-Romain-Lachalm 866
-Saint-Romain 218
-Saint-Maigner 184
-Chambon-sur-Dolore 190
-Chambon-sur-Lac 392
-Courmangoux 392
-Mont-Dore 1787
-Mardore 502
-Ardoix 817
-Auriples 221
-Viplaix 300
-
-Claix 8127
-
-Le Pont-de-Claix 11963
-Saint-Just-de-Claix 1122
-Saint-Clair-sur-Galaure 269
-Chateauneuf-de-Galaure 1941
-La Motte-de-Galaure 581
-La Balme-les-Grottes 740
-La Balme 192
-La Balme-de-Thuy 360
-Dullin 360
-Lullin 664
-Les Olmes 664
-Les Ollieres 815
-Charvonnex 884
-Cernex 828
-Chenex 409
-Ornex 2946
-Monnetier-Mornex 1981
-Bonne 2481
-
-Bonneville 11722
-Ayse 2024
-Seyssel 918
-Meysse 1153
-Rochemaure 1989
-Rochessauve 322
-Saint-Just-en-Bas 322
-Saint-Julien-en-Saint-Alban 1078
-Flaviac 1149
-Lavieu 89
-Savigneux 2623
-Lezigneux 1174
-
-Andrezieux-Boutheon 9452
-Aveizieux 1292
-Cuzieu 1403
+Blanzat 4096
+La Roche-Blanche 3051
+La Roche-Noire 496
+Mirefleurs 1887
+Fleurie 1266
+Lancie 709
+Corcelles-en-Beaujolais 804
+Beaujeu 2027
+Vaux-en-Beaujolais 818
+Le Perreon 1085
+Le Perier 136
+La Chaulme 136
+Le Vaulmier 89
 
 Saint-Galmier 5485
-Saint-Romain-en-Gal 1546
-Sainte-Colombe 1941
-Cons-Sainte-Colombe 293
-Freney 91
-Saint-Geneys-pres-Saint-Paulien 266
-Saint-Genes-Champespe 273
-Saint-Leon 662
-Viviers-du-Lac 1622
-Pers 237
-Versailleux 342
-Granieu 283
-Gras 400
-Grane 1693
-La Roche-sur-Grane 129
-
-La Roche-sur-Foron 10026
-La Croix-de-la-Rochette 195
-
-La Rochette 3405
-Arvillard 765
-Chevillard 146
-Quet-en-Beaumont 53
-Saint-Julien-en-Quint 150
-Dauzat-sur-Vodable 68
-Vodable 190
-La Table 271
-Mazerier 271
-Saint-Nizier-d'Azergues 678
-Saint-Nizier-le-Bouchoux 597
-Saint-Julien-la-Vetre 455
-Saint-Julien-sur-Veyle 580
-Mandailles-Saint-Julien 226
-Saint-Julien-le-Roux 96
-Autichamp 129
-Champs 266
+Chamboeuf 1384
+Chambonas 591
+Bourbon-l'Archambault 2559
 Archamps 1368
 
 Collonges-sous-Saleve 3493
 
 Cranves-Sales 4876
 Sales 1698
-Salers 400
-Vernassal 370
-Saint-Etienne-Cantales 157
-Saint-Etienne-sur-Reyssouze 418
-Saint-Julien-sur-Reyssouze 563
-Saint-Joseph-des-Bancs 194
-Saint-Joseph-de-Riviere 1109
-Biviers 2622
+Crozes-Hermitage 452
 
-Viviers 3616
-Chateauneuf-du-Rhone 2262
-Chateauneuf 1470
-Saint-Andeol-le-Chateau 1451
+Tain-l'Hermitage 5923
 
-Mornant 5055
+Tournon-sur-Rhone 10571
+Serves-sur-Rhone 582
+Erome 736
+Valdrome 129
+Charens 35
+Charensat 596
+Charbonnieres-les-Varennes 1341
+Charbonnieres-les-Vieilles 901
 
-Ternay 4868
+Charbonnieres-les-Bains 4580
 
-Vernaison 4222
+Ecully 19437
+Lully 560
+Moriat 357
+Morillon 546
+Cerilly 1597
+Marcollin 505
+Marcols-les-Eaux 315
 
-Brignais 12427
+Challes-les-Eaux 4436
+Lisseuil 101
+Seuillet 430
+Valeille 526
+Vieille-Brioude 1157
+Vogue 765
+Jardin 2019
+Colombier-le-Cardinal 257
+Colombier-le-Jeune 535
+Colombier-le-Vieux 579
+Nievroz 1476
+Confort 543
+La Forteresse 251
+La Forie 388
 
-Irigny 8869
+Ambert 7901
+Bert 278
+Crans 278
+Gimeaux 342
+Isserteaux 342
+Isserpent 500
+Essertines-en-Chatelneuf 608
+Chateldon 775
+Ris 719
+Reauville 354
+Montjoyer 236
+Montjoux 313
+Montcet 537
+Montcel 846
+Mognard 320
 
-Grigny 8331
-Montagny 2458
-Montagnat 1580
-Revonnas 546
+Gresy-sur-Aix 3380
+Alby-sur-Cheran 1924
+Saint-Felix 1782
+Saint-Felicien 1253
+Saint-Cyr 1171
+Saint-Clair 988
 
-Peronnas 6411
-Vonnas 2669
-Rovon 577
-Romans 577
-Montromant 394
-Prompsat 394
-Omps 274
-Comps 128
-Saint-Sebastien 192
-Saint-Hostien 624
-Bassignac 234
-Chassignolles 90
-Pignols 222
-Outriaz 273
-Sutrieu 214
-Birieux 158
-Virieu 1027
-Rochetoirin 942
-Rontalon 942
-Chalon 175
-Le Chalon 163
-Saint-Just-d'Ardeche 1238
-Saint-Marcel-d'Ardeche 2393
-Vallon-Pont-d'Arc 2337
-Saint-Prejet-d'Allier 180
-Saint-Prejet-Armandon 99
-Saint-Arey 61
-Saint-Eloy-la-Glaciere 61
+Saint-Clair-du-Rhone 3888
+Saint-Michel-sur-Rhone 767
 
-Saint-Eloy-les-Mines 4549
-Buxieres-sous-Montaigut 253
-Buxieres-les-Mines 1200
-Saint-Aubin-le-Monial 294
-Pouilly-le-Monial 766
-Pouilly-les-Feurs 1015
+Chasse-sur-Rhone 5229
+Serezin-du-Rhone 2599
+Serezin-de-la-Tour 665
+La Chapelle-de-la-Tour 1566
+La Chapelle 353
+La Chapelle-Agnon 439
+Curciat-Dongalon 439
+Saint-Donat 296
+Ribes 296
 
-Feurs 7901
-Poncins 768
-Poncin 1557
-Pontaix 148
-Cize 144
-Bizeneuille 300
-Deneuille-les-Chantelle 91
-Rottier 36
-Hurtieres 130
-Cordeac 208
-Cordelle 788
-Chadeleuf 312
-Carlat 312
-Marlioz 489
-Marlieux 736
-Saint-Offenge-dessus 237
-Saint-Offenge-dessous 526
-Planay 441
-Plan 199
-Langy 225
-Nangy 866
-Desingy 660
-Massongy 1273
+Miribel 9282
+Miribel-Lanchatre 351
 
-Annemasse 28275
+Villard-de-Lans 4287
+Lans-en-Vercors 2365
+Saint-Nizier-du-Moucherotte 871
+Saint-Nizier-de-Fornas 620
+La Tourette 476
+La Tour 1215
+Ville-en-Sallaz 745
 
-Ville-la-Grand 7033
-Virieu-le-Grand 1044
-Cros-de-Georand 184
-Saint-Francois-de-Sales 134
+Viuz-en-Sallaz 3749
+Tours-en-Savoie 813
+Tours-sur-Meymont 550
+Vers-sur-Meouge 55
+Saint-Genis-sur-Menthon 394
+Saint-Cyr-sur-Menthon 1452
+Saint-Jean-de-Touslas 682
+Saint-Jean-de-Couz 230
+Saint-Jean-la-Bussiere 910
+Saint-Jean-la-Vetre 391
+Saint-Yvoine 391
+Lavoine 177
+Meallet 177
+Dallet 1229
+Seychalles 484
+Moissat Haut 782
+Roissard 228
+Boissey 219
+Boisset-les-Montrond 841
+Boisset 656
+Cernex 828
+Monnetier-Mornex 1981
+Bonne 2481
 
-Saint-Francois 13577
-Saint-Franc 177
-Francillon-sur-Roubion 149
-Bonlieu-sur-Roubion 406
-Saint-Gervais-sur-Roubion 768
-Saint-Gervais 405
-Gervans 479
-Veauchette 751
-Charette 357
-Giez 488
-Thiezac 624
-Challonges 373
-Collonges 1124
-Rongeres 579
-Tronget 961
-Saint-Bonnet-le-Troncy 289
-Saint-Bonnet-Troncais 791
-Saint-Bonnet-de-Four 221
-Saint-Denis 221
-Saint-Denis-sur-Coise 558
-Puygros 334
-Cros-de-Ronesque 126
-Le Brethon 359
-Le Broc 626
-Sauzet 1819
-Saint-Marcel-les-Sauzet 1188
+Bonneville 11722
+Ayse 2024
+Brizon 420
+Vertaizon 2399
+Sermentizon 519
 
-Saint-Marcel-les-Valence 4420
+Courpiere 4918
+Propieres 456
+Usinens 359
+Balazuc 353
+Vernet-la-Varenne 749
+Varennes-Saint-Honorat 41
+Saint-Honore 848
+Saint-Blaise-du-Buis 929
+Saint-Bueil 697
+Saint-Beron 1345
+Saint-Baldoph 3093
+Saint-Babel 836
+Saint-Basile 296
+Lablachere 1602
+Flacheres 325
+Isle-et-Bardais 325
+Bard 618
+
+Montbrison 16164
+Montbrison-sur-Lez 333
+Ardoix 817
+Mardore 502
+La Chapelle-de-Mardore 168
+La Chapelle-Geneste 144
+La Chapelle-du-Mont-du-Chat 144
+Notre-Dame-du-Cruet 147
+Teissieres-les-Boulies 270
+Teissieres-de-Cornet 175
+Saint-Bonnet-de-Condat 181
+
+Saint-Bonnet-de-Mure 5890
+
+Saint-Laurent-de-Mure 4762
+Saint-Laurent-de-Vaux 225
+Saint-Laure 373
+Saint-Regis-du-Coin 373
+Saint-Remy 900
+Saint-Romain-de-Surieu 264
+La Chapelle-de-Surieu 517
+Gannay-sur-Loire 393
+Monetay-sur-Loire 347
+Lavoute-sur-Loire 733
+Saint-Julien-du-Gua 182
+Saint-Symphorien-de-Mahun 136
+Saint-Symphorien-de-Lay 1449
+Saint-Romain-de-Lerps 576
+Saint-Romain-de-Popey 1325
+Saint-Germain-Nuelles 1295
+Saint-Germain 538
+Saint-Germain-Laval 1610
+Bussy-Albieux 457
+Balbigny 2583
+Balbins 404
+Granier 330
+Granieu 283
+Grane 1693
+La Roche-sur-Grane 129
+
+La Roche-sur-Foron 10026
+Contamine-sur-Arve 1634
+Fillinges 2702
+Lucinges 1352
+Arcinges 136
+Grandeyrolles 56
+Planzolles 126
+Grezolles 232
+Grezes 271
+Gumieres 271
+Gumiane 37
+Murianette 715
+
+Domene 6882
+Menet 519
+Auberives-en-Royans 355
+Izenave 159
+Bellenaves 1027
+Naves 113
+Le Beage 355
+Le Bessat 423
+Bessas 172
+Bellecombe-Tarendol 81
+Bellecombe-en-Bauges 488
+Saint-Vidal 385
+Saint-Victor 1997
+Saint-Victor-sur-Rhins 920
+Laboule 136
+Groslee 353
+Parves 346
+Saint-Poncy 343
+Saint-Privat 1508
+Arpheuilles-Saint-Priest 317
+Haute-Rivoire 1244
+Magneux-Haute-Rive 306
+Saint-Jean-de-Thurigneux 602
+Saint-Jean-de-Niost 1357
+Saint-Jean-de-Belleville 449
+Saint-Andeol-de-Berg 100
+Saint-Gineis-en-Coiron 100
+Saint-Georges-sur-Renon 178
+Saint-Georges-sur-Allier 1038
+Saint-Georges-Lagricol 465
+Saint-Georges-les-Bains 1830
+
+Portes-les-Valence 8675
+
+Beaumont-les-Valence 3982
 
 Valence 63864
 
 Bourg-les-Valence 19770
 
-Portes-les-Valence 8675
+Saint-Marcel-les-Valence 4420
+Saint-Marcel-les-Sauzet 1188
+Sauzet 1819
+Auzers 222
+Uzer 364
+Gerbaix 350
+Beon 403
+Chambeon 380
 
-Beaumont-les-Valence 3982
-Beauvallon 1818
-Beaulon 1581
-Toulon-sur-Allier 1106
-Bessay-sur-Allier 1414
-Monetay-sur-Allier 472
+Chambery 61640
+Chamberat 321
+Chapeau 221
+Chichilianne 221
+Sechilienne 820
 
-Varennes-sur-Allier 4314
+Echirolles 33088
 
-Bellerive-sur-Allier 8841
+Crolles 9026
+Augerolles 931
+Lalizolle 316
+Chevroux 721
+Chevry 1126
+Coutouvre 1126
+Escoutoux 1201
 
-Vichy 27019
-Vichel 221
-Chatillon-en-Michaille 2668
-Chatillon 2880
-Chatillon-Saint-Jean 942
-Saint-Jean-en-Royans 3101
-Sainte-Eulalie-en-Royans 543
-Echevis 62
-Chevinay 542
+Thiers 13739
+Thiezac 624
+Quezac 367
+Pionsat 1049
+Leigneux 358
+Le Bouchet-Saint-Nicolas 256
+Le Bouchaud 223
+Chaussan 997
+Hyds 371
+Valezan 168
+Montvalezan 627
+Montvert 118
+Verthemex 153
+Epersy 310
+Pers 237
+Crepol 505
+Versailleux 342
+Ailleux 147
+Boree 147
+Laborel 118
+Grand-Corent 118
+Corent 597
+Coren 415
+Eydoche 362
+La Roche-sur-le-Buis 304
+Maizilly 299
+Lepin-le-Lac 304
+Aiguebelette-le-Lac 204
+Aiguebelle 969
+Aigueblanche 2919
+Allanche 1122
 
-Vinay 3818
-Saint-Verand 1579
-Saint-Venerand 54
-Saint-Paul-de-Salers 148
+Sallanches 16725
+Cordon 1006
+Bregnier-Cordon 615
+Romagnieu 1348
+Arbignieu 469
+Montagnieu 451
+
+Lagnieu 6454
+Rignieux-le-Franc 922
+Grezieux-le-Fromental 109
+Eygaliers 109
+Chaliers 183
+Tauriers 172
+Saurier 195
+Sauvat 195
+Sauvain 438
+Boen-sur-Lignon 3163
+Fay-sur-Lignon 424
+Le Chambon-sur-Lignon 2923
+Saint-Maurice-de-Lignon 1896
+Saint-Maurice 785
+
+Bourg-Saint-Maurice 8114
+Seez 2139
+Les Chapelles 398
+Meilhaud 398
+Reilhac 977
+Raulhac 331
+Saint-Bonnet-de-Salers 331
+Anglards-de-Salers 764
+Le Mas-de-Tence 157
+Sainte-Therence 190
+Sainte-Anastasie 162
+Lavault-Sainte-Anne 1200
+Sainte-Anne-sur-Gervonde 434
+Luriecq 774
+Laurie 119
+Landeyrat 119
+
+Ceyrat 5880
+Domeyrat 153
+Saint-Romans 1547
+Saint-Romain-Lachalm 866
+Saint-Pierre-la-Bourlhonne 170
+Saint-Pierre-Roche 356
+Chavaroux 318
+Lescheroux 651
+Foissiat 1705
+Treffort-Cuisiat 2287
+Tossiat 1231
+Beard-Geovreissiat 775
+Groissiat 1011
+Martignat 1399
+
+Bellignat 4128
+Merignat 123
+Perignat-sur-Allier 1302
+Saint-Bonnet-le-Chastel 265
+Saint-Pierre-de-Genebroz 265
+Saint-Pierre-de-Mearoz 133
+Saint-Pierre-de-Mesage 725
+Saint-Pierre-de-Soucy 388
+Saint-Pierre-de-Chartreuse 865
+Saint-Andre-de-Chalencon 342
+Chalencon 314
+Silhac 327
+Gilhac-et-Bruzac 122
+Cervieres 122
+Bouvieres 171
+Les Tonils 22
+Les Pres 26
+Montclard 70
+Montclar-sur-Gervanne 166
+Beaufort-sur-Gervanne 332
+Ayat-sur-Sioule 132
+Franchesse 465
+Besse 139
+Bessans 343
+Barcelonne 399
+Pelonne 18
+Sahune 302
+Remuzat 302
+Plauzat 1030
+Saint-Diery 348
+Saint-Dier-d'Auvergne 577
+
+Saint-Denis-les-Bourg 4917
+Saint-Denis 221
+Sainte-Marie-du-Mont 221
+Sainte-Marie 107
+Sainte-Agnes 536
+Sainte-Agathe 215
+Sainte-Agathe-en-Donzy 117
+Sainte-Blandine 836
+Sainte-Eugenie-de-Villeneuve 112
+Talizat 602
+Talissieu 439
+Artemare 1081
+Marennes 1564
+
+Vienne 32293
+Villette-de-Vienne 1263
+Sermerieu 1263
+Passins 758
+Bessins 117
+Pressins 907
+Loubaresse 433
+Saint-Mury-Monteymond 336
+Mantenay-Montlin 270
+Lantenay 285
+Tenay 1182
+Saint-Rambert-en-Bugey 2191
+
+Amberieu-en-Bugey 13260
+Saint-Denis-en-Bugey 2132
+Ambutrix 641
+Sutrieu 214
+Birieux 158
+Virieu 1027
+Virieu-le-Grand 1044
+Virieu-le-Petit 308
+Avrieux 356
+Billezois 356
+Le Bouchet 190
+Bouchet 738
+Chavannes-sur-Suran 529
+Chavannes 426
+Combre 287
+Combronde 1972
+Beauregard-Vendon 904
+Beauregard 909
+Montregard 624
+Montfaucon-en-Velay 1146
+Saint-Didier-en-Velay 3144
+Saint-Didier-en-Donjon 289
+Rousset-les-Vignes 289
+Roussas 376
+Suze-la-Rousse 1678
+Saint-Pierre-la-Roche 48
+Nollieux 143
+Chelieu 569
+Peyrus 525
+Peyrusse 219
+Saint-Franc 177
+Francillon-sur-Roubion 149
+Bonlieu-sur-Roubion 406
+Saint-Gervais-sur-Roubion 768
+Le Broc 626
+Le Breuil 385
+Randens 727
+Ygrande 748
+Fontcouverte-la Toussuire 538
+La Touche 178
+La Terrasse-sur-Dorlay 663
+La Terrasse 2159
+Lumbin 1705
+Saint-Hilaire 1836
+Saint-Hilaire-de-Brens 445
+Saint-Pierre-de-Cherennes 389
+
+Saint-Pierre-de-Chandieu 4357
+Toussieu 2128
+
+Chassieu 9412
+
+Venissieux 57584
+
+Saint-Fons 16053
+
+Pierre-Benite 9971
+Pierre-Chatel 1295
+La Motte-Saint-Martin 1647
+
+Saint-Martin-d'Heres 35528
+
+Saint-Martin-le-Vinoux 5589
+
+Montbonnot-Saint-Martin 4632
+
+Villard-Bonnot 7400
+Villard-Leger 411
+Maillat 639
+Maillet 373
+Saint-Laurent-du-Pape 1368
+
+Saint-Laurent-du-Pont 4585
+Saint-Joseph-de-Riviere 1109
+Biviers 2622
+
+Viviers 3616
+Chateauneuf-du-Rhone 2262
+
+Saint-Paul-Trois-Chateaux 8028
 Saint-Paul 1353
 Saint-Pal-de-Mons 1823
 Saint-Pal-de-Senouire 127
@@ -826,798 +848,8 @@ Andelaroche 269
 Andelat 394
 
 Saint-Flour 7499
-
-Sainte-Florine 3286
-Saint-Floret 261
-Saint-Jean-Chambre 261
-Saint-Jean 258
-Saint-Jean-Lachalm 301
-Saint-Jean-des-Vignes 400
-Saint-Nicolas-la-Chapelle 400
-Saint-Pierre-la-Noaille 329
-Valaurie 550
-Laurie 119
-Landeyrat 119
-Surat 405
-Montmurat 135
-Darbres 225
-Rageade 135
-Pragoulin 1131
-Beaulieu 555
-Saint-Paulien 2162
-Valbonnais 478
-Albon 175
-Malbo 120
-Le Chaffal 40
-Le Bouchage 503
-Le Bouchaud 223
-Le Bouchet-Saint-Nicolas 256
-Louroux-Bourbonnais 256
-Ouroux 371
-Grand Nantoin 349
-Aubigny 192
-Lorlanges 263
-Coulanges 315
-Coulandon 698
-
-Moulins 23095
-
-Yzeure 13435
-Neure 171
-Bagneux 261
-Bonneval-sur-Arc 261
-Villeneuve-sur-Allier 960
-Neuvy 1851
-Neuville 335
-Mourjou 335
-Verjon 217
-Verin 716
-Hauterive 1072
-Hauterives 1438
-Sainte-Olive 275
-Merindol-les-Oliviers 216
-Jarnosse 407
-Panossas 537
-Vanosc 812
-Venosc 936
-Saint-Just 867
-Saint-Julien-Chapteuil 1905
-Mures 718
-Murs 232
-Bregnier-Cordon 615
-Romagnieu 1348
-Arbignieu 469
-Montagnieu 451
-Montalieu 2434
-Montaulieu 68
-Montaud 536
-Plats 536
-Flat 405
-Pouillat 63
-Ouides 63
-Boudes 263
-Coudes 901
-Charbonnieres-les-Vieilles 901
-Charbonnieres-les-Varennes 1341
-Saint-Bonnet-pres-Riom 1673
-
-Riom 20142
-Rioms 24
-Aulan 5
-Montbrun-les-Bains 458
-Buis-les-Baronnies 2497
-Mirabel-aux-Baronnies 1439
-Montferrat 1439
-Montfermy 164
-
-Clermont-Ferrand 138681
-
-Chamalieres 20298
-Malintrat 1057
-Entraigues 596
-Maringues 2627
-Maringes 577
-Marin 1440
-Larringes 1077
-
-Allinges 3355
-Champanges 838
-Champagne 690
-Champagneux 407
-Champagnac 1201
-Antignac 294
-Chalvignac 500
-Sulignat 533
-Saignes 903
-Desaignes 1139
-Augerolles 931
-Lalizolle 316
-Grezolles 232
-Grezes 271
-Trezelles 410
-Trezioux 355
-Treteau 528
-Freterive 469
-Freyssenet 51
-Flaxieu 51
-Saint-Maximin 582
-
-Meximieux 7467
-Saint-Menoux 922
-Saint-Maurice-de-Remens 699
-Saint-Maurice-de-Gourdans 2131
-
-Saint-Maurice-de-Beynost 4379
-
-Beynost 4182
-
-Seynod 18590
-Chavanod 2226
-Etercy 703
-Marcellaz-Albanais 1561
-Marcellaz 770
-Saint-Remy-de-Chargnat 478
-Saint-Remy-de-Blot 207
-Saint-Remy-de-Chaudes-Aigues 123
-Chaudes-Aigues 1012
-Chalinargues 433
-Liergues 1496
-Olliergues 984
-Chessenaz 170
-Bessenay 2138
-Pont-en-Royans 1016
-Saint-Laurent-en-Royans 1344
-Saint-Laurent-sur-Saone 1798
-Saint-Vulbas 901
-Vulbens 915
-Dingy-en-Vuache 436
-Frangy 1779
-
-Sillingy 3196
-
-La Balme-de-Sillingy 4205
-Choisy 1509
-
-Poisy 6399
-Groisy 3171
-Boisset 656
-Boissey 219
-Roissard 228
-Malissard 3078
-Lissac 255
-La Chapelle-en-Lafaye 108
-Lucey 255
-Lucenay 1454
-Morance 1787
-Rance 664
-Aix-en-Diois 270
-Luc-en-Diois 537
-Le Crestet 537
-Le Crest 1178
-
-Le Cendre 5072
-Tallende 1223
-Saint-Amant-Tallende 1781
-Saint-Saturnin 1079
-Saint-Sandoux 633
-Saint-Santin-de-Maurs 348
-Saint-Santin 547
-Saint-Sauvier 338
-Le Moutaret 172
-La Moutade 392
-Beauregard-Vendon 904
-Sardon 252
-Thuret 702
-Yssac-la-Tourette 331
-Saint-Genes-la-Tourette 187
-Aix-la-Fayette 103
-Fayet-Ronaye 122
-Issanlas 122
-Eclassan 740
-Blassac 127
-Massiac 1835
-Lantriac 1680
-Arsac-en-Velay 975
-
-Le Puy-en-Velay 22718
-
-Vals-pres-le-Puy 3758
-
-Vals-les-Bains 3777
-Neris-les-Bains 2818
-
-Saint-Gervais-les-Bains 5882
-
-Passy 11613
-Mieussy 1916
-Boussy 378
-Cusy 1402
-
-Gresy-sur-Aix 3380
-Alby-sur-Cheran 1924
-Albens 2854
-Valbeleix 158
-Saint-Martin-Cantales 199
-Saint-Santin-Cantales 317
-Saint-Quintin-sur-Sioule 297
-
-Saint-Pourcain-sur-Sioule 5480
-Saint-Pourcain-sur-Besbre 423
-Varennes-sur-Morge 307
-Ferrieres-sur-Sichon 574
-Chazelles-sur-Lavieu 183
-Chateau-Bernard 183
-Chatenay 330
-Tenay 1182
-Lantenay 285
-Brenod 463
-Brenaz 113
-Chanaz 510
-Lavours 126
-Lavoine 177
-Saint-Yvoine 391
-Yvoire 707
-Belmont-de-la-Loire 1528
-Le Cergne 710
-
-Le Coteau 7571
-Neaux 435
-Saint-Alban-les-Eaux 989
-Lentigny 1388
-Regny 1642
-Legny 474
-Chazey-Bons 724
-Ballons 73
-Besignan 73
-
-Pusignan 3259
-
-Jonage 5750
-Jons 1235
-Balan 2610
-Balazuc 353
-Jonzier 567
-Jonzieux 1263
-Nollieux 143
-Chelieu 569
-Peyrus 525
-Peyrusse 219
-Prondines 291
-Condillac 141
-Andilly 656
-Chilly 1035
-
-Rumilly 13077
-Chemilly 585
-Montilly 529
-Trevol 1435
-Treban 377
-
-Cebazat 8114
-
-Gerzat 9382
-
-Blanzat 4096
-Malauzat 943
-Manzat 1377
-Ennezat 2194
-Poezat 120
-Le Poizat 378
-Le Pontet 124
-Le Pertuis 391
-Saint-Fortunat-sur-Eyrieux 567
-Gresin 286
-Vesines 125
-Leucamp 242
-Chaspuzac 547
-Chas 301
-
-Chassieu 9412
-Toussieu 2128
-
-Venissieux 57584
-
-Saint-Genis-Laval 20883
-
-Saint-Genis-les-Ollieres 5029
-
-Charbonnieres-les-Bains 4580
-
-Champagne-au-Mont-d'Or 5681
-Couzon-au-Mont-d'Or 2545
-
-Fontaines-sur-Saone 7129
-Fontaines-Saint-Martin 2873
-Cailloux-sur-Fontaines 2269
-
-Fontaine 24588
-Fontanil-Cornillon 2642
-Cornier 1039
-Cornillac 89
-Boisset-Saint-Priest 990
-
-Saint-Priest 41641
-
-Mions 11424
-Amions 241
-Souternon 321
-Sainte-Agathe-la-Bouteresse 869
-Sainte-Agathe 215
-Manthes 614
-Saint-Jean-Roure 215
-Roumegoux 215
-Le Falgoux 194
-Le Plagnal 55
-Le Plantay 458
-
-Villars-les-Dombes 4587
-Amberieux-en-Dombes 1529
-Miserieux 1965
-
-Reyrieux 4017
-Civrieux 1338
-Parcieux 996
-Quincieux 2828
-Massieux 2319
-Lissieu 3136
-Talissieu 439
-Artemare 1081
-Ceyzerieu 889
-Premeyzel 266
-Saint-Remeze 589
-Saint-Clement-de-Vers 227
-Saint-Clement 337
-Le Grand-Abergement 106
-Le Petit-Abergement 155
-Le Petit-Bornand-les-Glieres 958
-Le Grand-Bornand 2331
-Le Grand-Serre 821
-Lens-Lestang 716
-Estandeuil 285
-Montaigut 1203
-Glaine-Montaigut 500
-Ravel 698
-Isserpent 500
-Sermentizon 519
-Vertaizon 2399
-Brizon 420
-Bizonnes 677
-Bonneval 110
-Bonnevaux 267
-Beaux 676
-Cessens 354
-Cenves 354
-Enval 1419
-Douhady 150
-Oradour 328
-Pradons 316
-Prades 930
-Le Brugeron 265
-Lieudieu 265
-Lavaudieu 241
-Le Montellier 241
-Le Montet 512
-Saint-Thome 377
-Saint-Thomas-la-Garde 536
-Saint-Thomas-en-Royans 503
-Saint-Nazaire-en-Royans 538
-Saint-Andre-en-Royans 321
-Thuellin 1609
-Thueyts 1057
-Venthon 631
-Arenthon 1271
-
-Vetraz-Monthoux 5991
-Arthaz-Pont-Notre-Dame 1294
-Villard-Notre-Dame 27
-Notre-Dame-des-Millieres 878
-Sainte-Helene-sur-Isere 1074
-Gresy-sur-Isere 1128
-Gilly-sur-Isere 2736
-Feissons-sur-Isere 547
-Aigueblanche 2919
-Aiguebelle 969
-Aiguebelette-le-Lac 204
-Lepin-le-Lac 304
-Cruzilles-les-Mepillat 764
-Luzillat 802
-Peyzieux-sur-Saone 366
-Saint-Pierre-de-Chartreuse 865
-Saint-Pierre-de-Soucy 388
-Saint-Pardoux 388
-Marols 335
-Charols 534
-Duingt 888
-Oingt 557
-Antoingt 349
-Villeneuve-les-Cerfs 424
-Perrier 823
-Verrieres 53
-Verrieres-en-Forez 693
-Villard-sur-Doron 693
-Villard-Sallet 211
-Villard-Reymond 34
-Villard-Reculas 63
-Le Verneil 63
-Vernay 134
-Vernols 83
-Vernusse 195
-Sauvat 195
-Sauvain 438
-Boen-sur-Lignon 3163
-Saint-Haon-le-Vieux 869
-Saint-Georges-Haute-Ville 1159
-Saint-Georges-de-Mons 2378
-Saint-Gervais-d'Auvergne 1512
-Saint-Sauves-d'Auvergne 1104
-Saint-Martin-la-Sauvete 944
-Virigneux 469
-Lerigneux 131
-Bouligneux 319
-Avrilly 173
-Avrieux 356
-Le Bouchet 190
-Teilhet 308
-Ceilloux 157
-Celoux 88
-Torchefelon 490
-Vesancy 490
-Ancy 510
-Bellevue-la-Montagne 510
-Plagne 81
-Saint-Romain-de-Surieu 264
-La Chapelle-de-Surieu 517
-Gravieres 393
-Charavines 1545
-Perrex 800
-Chausseterre 286
-Chaussenac 249
-Montvicq 698
-Villemontais 959
-Habere-Poche 810
-Rochegude 1322
-La Begude-de-Mazenc 1315
-Labegude 1395
-Lablachere 1602
-Flacheres 325
-Isle-et-Bardais 325
-Bard 618
-
-Montbrison 16164
-
-Bonson 3881
-Saint-Cyprien 2163
-
-Saint-Priest-en-Jarez 5924
-Saint-Christo-en-Jarez 1394
-
-Saint-Paul-en-Jarez 3978
-Sainte-Jalle 287
-Sainte-Catherine 916
-Saint-Martin-Valmeroux 916
-
-Saint-Martin-en-Haut 3689
-
-Saint-Martin-la-Plaine 3482
-Saint-Joseph 1772
-Saint-Maurice-sur-Dargoire 2128
-Saint-Maurice-en-Gourgois 1296
-Saint-Pancrace 241
-Saint-Pancrasse 442
-Cras 347
-Crans 278
-Lancrans 1019
-
-Bellegarde-sur-Valserine 11699
-Bellegarde-en-Diois 66
-Autry-Issards 323
-Marcieux 130
-Marcieu 76
-Margerie-Chantagret 523
-Marges 781
-Barges 83
-Coligny 1202
-
-Bellignat 4128
-Martignat 1399
-Merignat 123
-Montchamp 123
-Montchaboud 364
-Venerieu 415
-Vensat 448
-Charensat 596
-Charens 35
-Valdrome 129
-
-Domerat 9015
-Domeyrat 153
-Meyras 814
-Veyras 1589
-Alleyras 178
-Alleyrac 127
-Aleyrac 39
-Jaleyrac 379
-Lavaldens 148
-Vivans 265
-Rivas 415
-Monthion 423
-Thionne 317
-Ronnet 179
-Veronne 40
-Saint-Gerons 156
-Saint-Gervais-sous-Meymont 244
-Saint-Alban-d'Hurtieres 244
-Albanne 645
-Veranne 595
-Sevelinges 595
-Arcinges 136
-Grandeyrolles 56
-Chaudeyrolles 147
-Cornillon-en-Trieves 147
-Vallon-en-Sully 1754
-Davezieux 2810
-Pavezin 268
-Bereziat 369
-Biziat 703
-Colonzelle 460
-Bolozon 104
-Ozon 342
-Chauzon 312
-Chauvac-Laux-Montaux 50
-Chatel-Montagne 439
-Curciat-Dongalon 439
-Orcival 256
-Ordonnaz 131
-Cordon 1006
-
-Sallanches 16725
-Allanche 1122
-Allan 1517
-Ally 186
-Vailly 686
-Draillant 615
-Saillant 281
-Saint-Priest-la-Roche 281
-Saint-Priest-la-Vetre 109
-Saint-Cirgues 152
-Rauret 152
-Aurel 217
-Malleval 490
-Beaune-sur-Arzon 202
-Craponne-sur-Arzon 2794
-Sauvessanges 558
-Cressanges 690
-Cressin 337
-Pressins 907
-Isserteaux 342
-Bert 278
-
-Ambert 7901
-La Forie 388
-La Forclaz 215
-Chevenoz 544
-Venon 729
-
-Grenoble 158552
-
-Saint-Egreve 15904
-Revel 1251
-
-Domene 6882
-Murianette 715
-Nonette 300
-Les Houches 2985
-Ouches 1143
-Bouchet 738
-Chavannes-sur-Suran 529
-Chavannes 426
-La Chavanne 423
-Le Bessat 423
-Le Beage 355
-Le Bois 293
-Poisat 2066
-Beaumont-Monteux 1016
-Solignac-sur-Loire 1108
-Cussac-sur-Loire 1469
-Chamalieres-sur-Loire 429
-Marcoux 578
-Marcenod 599
-Lescheraines 599
-Les Cheres 1133
-Les Neyrolles 636
-Liernolles 287
-Cindre 319
-Saint-Paul-en-Chablais 1876
-
-Bons-en-Chablais 4408
-Brenthonne 742
-
-Thonon-les-Bains 31684
-
-Evian-les-Bains 8207
-Neuvecelle 2456
-Lugrin 2164
-Reventin-Vaugris 1731
-Saint-Quentin-sur-Isere 1326
-
-Salaise-sur-Sanne 3981
-Saint-Etienne-sur-Chalaronne 1291
-Dompierre-sur-Chalaronne 303
-
-Chatillon-sur-Chalaronne 4660
-Saint-Didier-sur-Chalaronne 2521
-Saint-Dier-d'Auvergne 577
-La Tour-d'Auvergne 810
-
-Cournon-d'Auvergne 18848
-La Roche-Noire 496
-La Roche-Blanche 3051
-Montaigut-le-Blanc 627
-Montvalezan 627
-Valezan 168
-Quezac 367
-Authezat 518
-Murinais 375
-Lavastrie 229
-Corcelles 193
-Belleydoux 303
-Belleroche 249
-Arandas 152
-Randan 1479
-Andance 1036
-Andancette 1229
-Saint-Desirat 722
-Saint-Desire 461
-Saint-Plaisir 458
-Plaisians 185
-Groissiat 1011
-Beard-Geovreissiat 775
-Geovreisset 836
-
-Oyonnax 25697
-Soyons 1826
-Tulette 1826
-Toulaud 1579
-Charmes-sur-Rhone 2380
-
-Etoile-sur-Rhone 4345
-
-La Voulte-sur-Rhone 5108
-Saulce-sur-Rhone 1711
-Loire-sur-Rhone 2244
-Lentiol 196
-Lent 1248
-Servas 1077
-Servant 543
-Cormaranche-en-Bugey 858
-Chassenard 858
-
-Sassenage 10641
-Sarcenas 152
-Le Sappey-en-Chartreuse 1007
-Quaix-en-Chartreuse 805
-Charraix 85
-Graix 136
-Laboule 136
-Laborel 118
-Grand-Corent 118
-Corent 597
-Coren 415
-Thorrenc 197
-Bey 246
-Bessins 117
-Passins 758
-Villette-de-Vienne 1263
-Sermerieu 1263
-Seriers 139
-Cherier 448
-Saint-Jean-de-Thurigneux 602
-Saint-Jean-de-Niost 1357
-Saint-Jean-de-Belleville 449
-
-Saint-Martin-de-Belleville 3203
-Parves 346
-Contamine-sur-Arve 1634
-Contamine-Sarzin 382
-Montmin 207
-Montmiral 475
-Miremont 339
-Landogne 221
-Landos 947
-Saint-Haon 378
-Saint-Haon-le-Chatel 568
-Vernon 218
-Verneix 590
-Treves 590
-Saint-Sylvestre 565
-Saint-Sixt 680
-Nonglard 519
-Anglards 196
-Glandage 89
-Magland 2961
-Nancy-sur-Cluses 391
-
-Cluses 19789
-Chatillon-sur-Cluses 1105
-
-Thyez 5383
-
-Marnaz 4882
-
-Scionzier 6766
-Onnion 862
-Montriond 849
-
-Morzine 3281
-Les Gets 1331
-Les Abrets 2924
-
-Les Avenieres 4710
-Les Allues 2015
-Les Vans 2743
-Saint-Donat 296
-Ribes 296
-Meribel 2626
-Perigny 410
-Grignon 1957
-Grignan 1443
-Saint-Michel-de-Boulogne 135
-
-Saint-Michel-de-Maurienne 3174
-
-Saint-Jean-de-Maurienne 9536
-Albiez-Montrond 62
-Allemond 827
-Le Corbier 250
-Sorbier 289
-Saint-Michel-les-Portes 153
-La Chapelle-en-Vercors 808
-La Chapelle-du-Chatelard 287
-Chatelperron 141
-Chatel 1309
-Abondance 1498
-Saint-Jean-d'Aulps 1177
-Saint-Jean-de-Vaulx 488
-Saint-Paul-de-Varces 1978
-
-Vif 6942
-
-Vizille 7962
-Maizilly 299
-Laiz 1090
-Pont-de-Veyle 1696
-Pont-de-Vaux 2055
-Saint-Laurent-de-Vaux 225
-
-Saint-Laurent-de-Mure 4762
-
-Saint-Bonnet-de-Mure 5890
-Grenay 1286
-
-Genas 12878
-
-Genay 4729
-Saint-Pierre-sur-Doux 88
-Montfroc 60
-Lachau 239
-Sederon 305
-Peron 1729
-Saint-Paul-de-Varax 1297
-Saint-Jean-de-Gonville 1297
-
-Thoiry 4433
-Thoissey 1493
-Bossey 606
-Bossieu 302
-Craintilleux 914
-Ailleux 147
-Boree 147
-Borne 374
-Talizat 602
-Saint-Eustache 433
-Saint-Eusebe 438
-Mours-Saint-Eusebe 2368
-Peyrins 2478
+Anglards-de-Saint-Flour 286
+Chaveyriat 891
 Peyriat 175
 Veyrieres 122
 Queyrieres 296
@@ -1629,642 +861,1981 @@ Heyrieux 4475
 Valencin 2234
 Saint-Just-Chaleyssin 2422
 Meyssiez 576
-Meys 677
-Pomeys 945
+Assieu 962
+Moissieu-sur-Dolon 654
+Chambon-sur-Dolore 190
+Saint-Germain-sur-Rhone 335
+Saint-Germain-sur-Renon 237
+Marlieux 736
+
+Charlieu 3758
+Pouilly-sous-Charlieu 2782
+Saint-Nizier-sous-Charlieu 1632
+Saint-Hilaire-sous-Charlieu 409
+Nandax 644
+Ternand 723
+Chamelet 614
+Chameane 140
+Chaniat 140
+Chanos-Curson 1018
+Chanonat 1487
+Chantesse 301
+Chantelle 1056
+Deneuille-les-Chantelle 91
+Bizeneuille 300
+Joncheres 38
+Choranche 143
+Boulc 111
+Aboen 235
+Beaumont-les-Randan 203
+Ternant-les-Eaux 41
+Rottier 36
+Hurtieres 130
+Saint-Alban-d'Hurtieres 244
+Albanne 645
+Veranne 595
+Saint-Gerand-de-Vaux 475
+Saint-Gerand-le-Puy 1042
+
+Saint-Germain-des-Fosses 3750
+Saint-Germain-de-Salles 448
+Etroussat 668
+Sanssat 355
+Cesset 358
+
+Cusset 14562
+Busset 878
+Arronnes 336
+Ronnet 179
+Saint-Bonnet-de-Four 221
+Saint-Bonnet-de-Rochefort 666
+Ebreuil 1246
+
+Gannat 6096
+Saint-Genes-du-Retz 476
+Montpensier 328
+Montpeyroux 344
+Seytroux 314
+Ouroux 371
+Grand Nantoin 349
+Antoingt 349
+Solignat 424
+Treignat 480
+Sauvagnat-Sainte-Marthe 180
+Neschers 714
+Champeix 1252
+Saint-Jean-Chambre 261
+Saint-Jean 258
+Saint-Jean-Lachalm 301
+Saint-Jean-des-Vignes 400
+Salers 400
+Saint-Paul-de-Salers 148
+Saint-Paul-de-Varax 1297
+Saint-Jean-de-Gonville 1297
+Saint-Jean-de-Nay 453
+Saint-Jeoire-Prieure 922
+Saint-Jeoire 3006
+Saint-Jeures 821
+Saint-Jean-de-Tholome 821
+Faucigny 456
+Arbusigny 843
+La Croix-de-la-Rochette 195
+Vaunaveys-la-Rochette 587
+Piegros-la-Clastre 806
+Lamastre 2670
+Saint-Martin-de-Valamas 1377
+Saint-Martin-de-Vaulserre 219
+Saint-Albin-de-Vaulserre 407
+Roche-en-Regnier 407
+Vorey 1521
+
+Voreppe 10214
+Veurey-Voroize 1399
+Noyarey 2365
+Saint-Arey 61
+Saint-Arcons-de-Barges 128
+Saint-Berain 128
+Saint-Bernard 512
+Menthon-Saint-Bernard 1864
+Chateau-Bernard 183
+Chatenay 330
+Chanoz-Chatenay 542
+La Valla-en-Gier 845
+La Valla-sur-Rochefort 122
+Rochefort 193
+Vals-le-Chastel 50
+Saint-Martin-le-Chatel 754
+Leotoing 204
+Piegon 235
+Olloix 235
+Valloire 1346
+Mazoires 108
+Talloires 1604
+Izernore 1822
+Izeron 660
+Nizerolles 307
+Solignac-sur-Loire 1108
+Cussac-sur-Loire 1469
+Chamalieres-sur-Loire 429
+Lyas 547
+Verchaix 616
+Vercheny 426
+Salt-en-Donzy 426
+Essertines-en-Donzy 442
+Rozier-en-Donzy 1335
+Civens 1171
+Vensat 448
+Valigny 448
+Valignat 57
+Bertignat 520
+Saint-Michel-sur-Savasse 437
+Thiel-sur-Acolin 942
+Saint-Gal-sur-Sioule 129
+Peyzieux-sur-Saone 366
+Luzillat 802
+Cruzilles-les-Mepillat 764
+Laval 865
+Lavaldens 148
+Jaleyrac 379
+Aleyrac 39
+La Begude-de-Mazenc 1315
+Labegude 1395
+
+Vals-les-Bains 3777
+Neris-les-Bains 2818
+Larequille 1205
+Queuille 285
+Laqueuille 406
+Rochefort-Montagne 890
+Saint-Bonnet-pres-Orcival 431
+Nebouzat 673
+Saint-Pierre-le-Chastel 360
+Saint-Ours 1425
+Saint-Oyen 212
+Saint-Barthelemy-le-Meil 212
+Saint-Bonnet-le-Froid 228
+Saint-Bonnet-des-Bruyeres 410
+Saint-Etienne-sur-Reyssouze 418
+Saint-Etienne-Cantales 157
+
+Saint-Etienne 176280
+
+La Ricamarie 7997
+La Riviere 505
+La Riviere-Enverse 434
+
+Taninges 3471
+
+Allinges 3355
+Larringes 1077
+Champanges 838
+Champagne 690
+Cressanges 690
+Sauvessanges 558
+Usson-en-Forez 1262
+
+Saint-Marcellin-en-Forez 3440
+Saint-Medard-en-Forez 864
+Bellegarde-en-Forez 1490
+Bellegarde-en-Diois 66
+Autry-Issards 323
+Marcieux 130
+Marcieu 76
+Margerie-Chantagret 523
+Marges 781
+Meaulne 781
+
+Vaulnaveys-le-Haut 3328
+Precieux 1013
+Ornacieux 249
+Lornay 390
+Chavornay 194
+Mornans 63
+Ouides 63
+Brides-les-Bains 646
+Pradons 316
+Prades 930
+Deneuille-les-Mines 363
+Valencogne 499
+Illiat 506
+Premillieu 39
+Dauzat-sur-Vodable 68
+Vodable 190
+Les Halles 356
+Cubelles 131
+Celles 239
+Novacelles 152
+La Celle 89
+La Cellette 153
+La Salette-Fallavaux 82
+Le Monestier 187
+Saint-Paul-les-Monestier 236
+Saint-Paul-de-Vezelin 310
+Saint-Palais 191
+Saint-Laurent-les-Bains 191
+Sail-les-Bains 230
+Barriac-les-Bosquets 185
+Leyrieu 694
+
+Reyrieux 4017
+Civrieux 1338
+Miserieux 1965
+Amberieux-en-Dombes 1529
+
+Villars-les-Dombes 4587
+Le Plantay 458
+Esplantas 99
+Lantriac 1680
+Arsac-en-Velay 975
+
+Le Puy-en-Velay 22718
+
+Vals-pres-le-Puy 3758
+Frugieres-le-Pin 128
+
+Gieres 6299
+Venon 729
+Chavenon 164
+Chalon 175
+Le Chalon 163
+Saint-Just-d'Ardeche 1238
+Saint-Just 867
+Saint-Julien-Chapteuil 1905
+Mures 718
+Chaspuzac 547
+Chas 301
+Chastel 133
+Saint-Bonnet-de-Valclerieux 218
+Saint-Romain 218
+Saint-Roman 149
+Hautecourt-Romaneche 737
+Hautecour la Basse 295
+Espinasse 295
+Espinasse-Vozelle 818
+Cognat-Lyonne 552
+Champagnat-le-Jeune 99
+Chastel-sur-Murat 99
+Chastel-Arnaud 47
+Barnave 165
+Garnat-sur-Engievre 746
+Brullioles 610
+Lullin 664
+Les Olmes 664
+Les Ollieres 815
+Thorens-Glieres 2829
+Le Petit-Bornand-les-Glieres 958
+Le Grand-Bornand 2331
+Saint-Jean-de-Sixt 1106
+La Clusaz 2241
+Nancy-sur-Cluses 391
+
+Cluses 19789
+Chatillon-sur-Cluses 1105
+Chatillon 2880
+Chanaz 510
+Chanas 2104
+Sablons 1695
+Serrieres 1171
+Verrieres 53
+Verrieres-en-Forez 693
+Villard-sur-Doron 693
+Villard-Sallet 211
+Villard-Reymond 34
+Villard-Reculas 63
+Le Verneil 63
+Vernay 134
+Vernols 83
+Vernusse 195
+Ussel 445
+Vassel 209
+Vasselin 326
+Torcieu 634
+Porcieu 1420
+Siccieu 538
+Succieu 597
+Joursac 161
+Vescours 194
+Saint-Victor-Malescours 702
+Saint-Barthelemy-le-Plain 702
+Saint-Benigne 910
+Saint-Blaise 230
+
+Chamonix-Mont-Blanc 10614
+Servoz 904
+
+Passy 11613
+Domancy 1904
+Amancy 1949
+Ancy 510
+Bellevue-la-Montagne 510
+Meaux-la-Montagne 176
+Challes-la-Montagne 218
+Souspierre 102
+Saint-Pierre-sur-Doux 88
+
+Genay 4729
+
+Genas 12878
+Venas 248
+Avenas 115
+Bevenais 798
+Portes-en-Valdaine 353
+Saint-Geoire-en-Valdaine 2153
+Merlas 436
+Clerlande 319
+Cindre 319
+Chindrieux 1190
+Grandrif 208
+Grandris 1090
+Grandval 101
+Villemotier 520
+Villemontais 959
+Habere-Poche 810
+Rochegude 1322
+Lascelle 323
+Saint-Sauveur-de-Montagut 1332
+Saint-Sauveur 1819
+Mont-Saint-Martin 110
+
+Saint-Marcellin 7592
+Chatte 2787
+Chatillon-Saint-Jean 942
+Saint-Jean-en-Royans 3101
+Sainte-Eulalie-en-Royans 543
+Sainte-Eulalie 238
+Charmes 298
+Charnay 1018
+Charnas 537
+Limony 640
+Limons 659
+Contrevoz 472
+Contigny 573
+Pringy 2944
+Maringes 577
+Bogy 285
+Arnac 181
+
+Arnas 3332
+Larnas 95
+Ramasse 263
+Pont-de-Labeaume 508
+Fontanes 587
+Fontanges 245
+Pontaix 148
+Cize 144
+Saint-Urcize 531
+Saint-Uze 1696
+Saint-Marc 98
+Saint-May 43
+Rochebrune 43
+Saint-Priest-la-Prugne 450
+Saint-Priest-la-Roche 281
+Saint-Priest-la-Vetre 109
+Saint-Cirgues 152
+Saint-Cirgues-sur-Couze 290
+Asnieres-sur-Saone 90
+Ajoux 90
+Joux 637
+
+Tarare 10806
+Saint-Marcel-l'Eclaire 549
+Saint-Martin-Lestra 834
+
+Saint-Martin-en-Haut 3689
+Saint-Martin-Valmeroux 916
+
+Saint-Martin-la-Plaine 3482
+Saint-Martin-la-Sauvete 944
+Saint-Sauves-d'Auvergne 1104
+Saint-Laurent-d'Oingt 773
+Saint-Laurent-de-Chamousset 1905
+Chamousset 410
+Chamoux-sur-Gelon 736
+Gresy-sur-Isere 1128
+Sainte-Helene-sur-Isere 1074
+Gilly-sur-Isere 2736
+Feissons-sur-Isere 547
+Feissons-sur-Salins 175
+Pavezin 268
+Davezieux 2810
+La Tour-d'Auvergne 810
+Vallon-en-Sully 1754
+Chatillon-en-Diois 588
+Claveisolles 588
+Eglisolles 246
+Bressolles 991
+Besson 788
+Agonges 363
+Bagneux 261
+Champagneux 407
+Neronde 503
+Neronde-sur-Dore 494
+Jullianges 406
+Jullie 405
+Flat 405
+Montaud 536
+Montaulieu 68
+Beaulieu 555
+Saint-Paulien 2162
+Saint-Geneys-pres-Saint-Paulien 266
+Saint-Genes-Champespe 273
+Saint-Genes-Champanelle 2907
+
+Royat 4831
+
+Chamalieres 20298
+
+Clermont-Ferrand 138681
+Clermont 364
+Trizac 662
+Cessens 354
+Cenves 354
+Beaux 676
+Neaux 435
+Saint-Alban-les-Eaux 989
+
+Saint-Alban-Leysse 5452
+Saint-Alban-de-Montbel 483
+Saint-Etienne-de-Lugdares 483
+Saint-Etienne-de-Vicq 440
+Saint-Etienne-de-Valoux 211
+Saint-Colomban-des-Villards 211
+Saint-Jean-des-Ollieres 425
+Arlebosc 340
+Issarles 172
+Ludesse 365
+Venerieu 415
+Saint-Venerand 54
+Saint-Victor-Montvianeix 288
+Poezat 120
+Ennezat 2194
+Chappes 1398
+Le Sappey 366
+Le Sappey-en-Chartreuse 1007
+Quaix-en-Chartreuse 805
+
+Saint-Egreve 15904
+Revel 1251
+Montrevel 374
+Montaimont 149
+Presilly 687
+Paray-le-Fresil 423
+Fay-le-Clos 185
+Saint-Martin-des-Olmes 282
+Saint-Martial 276
+Lalleyriat 212
+Lay 663
+Saint-Front 535
+
+Saint-Francois 13577
+Molinet 1178
+Chevaline 215
+Saint-Denis-de-Cabanne 1323
+Saint-Denis-sur-Coise 558
+Puygros 334
+Puygiron 373
+Giron 111
+Jas 180
+Bonnac 159
+Bonnefamille 1052
+Granges 535
+Doranges 150
+Saint-Martin-le-Colonel 174
+Saint-Barthelemy-Lestra 601
+Connangles 135
+Anglefort 844
+Serrieres-en-Chautagne 931
+Vallieres 1378
+
+Saint-Vallier 4038
+Sarras 1918
+Arras-sur-Rhone 466
+Serrieres-sur-Ain 85
+Saint-Appolinaire 117
+Saint-Appolinard 537
+Sinard 630
+Charette 357
+Primarette 675
+Pommiers-la-Placette 632
+Pommiers 1934
+
+Limas 4434
+
+Montelimar 35637
+Ancone 1042
+Chalancon 60
+La Motte-Chalancon 421
+La Flachere 421
+La Ferriere 224
+Theys 1730
+Cheyssieu 800
+Saint-Thomas-en-Royans 503
+Saint-Nazaire-en-Royans 538
+Saint-Nazaire-le-Desert 195
+Saint-Nazaire-les-Eymes 2531
+
+Saint-Ismier 6630
+Saint-Ignat 684
+Saint-Igny-de-Vers 590
+Monsols 950
+Les Ardillats 524
+
+Dardilly 8612
+
+Lentilly 5079
+Lentilleres 183
+Belleroche 249
+Belleydoux 303
+Corcelles 193
+Arandas 152
+Randan 1479
+Andance 1036
+Andancette 1229
+Dance 114
+Usclades-et-Rieutord 107
+Berrias-et-Casteljau 600
+Lempdes-sur-Allagnon 1450
+Arlempdes 122
+Berzeme 122
+Barberier 120
+
+Barberaz 5059
+
+La Ravoire 6768
+
+La Rochette 3405
+La Rochette-du-Buis 66
+Varennes-sur-Usson 171
+Saint-Etienne-sur-Usson 245
+Saint-Etienne-sur-Blesle 49
+Saint-Etienne-de-Chomeil 223
+Saint-Etienne-de-Serre 181
+Jayat 839
+Sayat 2359
+Nohanent 1868
+Durtol 2127
+Vertolaye 652
+Violay 1366
+Laviolle 137
+Biollet 378
+La Biolle 1896
+Apprieu 2854
+Albens 2854
+Vulbens 915
+Dingy-en-Vuache 436
+
+Sillingy 3196
+
+La Balme-de-Sillingy 4205
+La Balme-de-Thuy 360
+La Balme 192
+Fourilles 192
+Vazeilles-Limandre 219
+Valgorge 400
+Tupin 468
+Entremont 549
+Arthemonay 397
+Dionay 136
+Chassagnes 136
+Chassagne 104
+Dareize 395
+Aveize 1005
+Aveizieux 1292
+
+Andrezieux-Boutheon 9452
+Cuzieu 1403
+Izieu 187
+Grezieu-le-Marche 805
+Saint-Voir 206
+Mazet-Saint-Voy 1081
+Boisset-Saint-Priest 990
+Cornillac 89
+La Baume-Cornillane 438
+Saint-Guillaume 290
+Saint-Germain-l'Herm 508
+Giez 488
+Vovray-en-Bornes 306
+Menthonnex-en-Bornes 665
+Quet-en-Beaumont 53
+Palogneux 53
+Chevillard 146
+
+Francheville 12053
+
+Tassin-la-Demi-Lune 16920
+Saint-Romain-la-Motte 1430
+Pouilly-les-Nonains 1656
+Thizy-les-Bourgs 2718
+Bourg-de-Thizy 2863
+
+Bourg-de-Peage 10090
+
+Romans-sur-Isere 35002
+Saint-Paul-les-Romans 1613
+Mours-Saint-Eusebe 2368
+Saint-Eusebe 438
+Bonneguete 182
+Hotonnes 309
+Artonne 807
+Toulaud 1579
+Soyons 1826
+
+Nyons 7330
+Montferrat 1439
+Montferrand-la-Fare 49
+Nieudan 107
+Vignieu 804
+
+Tignieu 5244
+Chamagnieu 1278
+Satolas-et-Bonce 1781
+Bas-et-Lezat 221
+Gigors-et-Lozeron 166
+Crest-Voland 455
+
+Crest 8517
+Aouste-sur-Sye 2145
+
+La Voulte-sur-Rhone 5108
+
+Etoile-sur-Rhone 4345
+Charmes-sur-Rhone 2380
+Saulce-sur-Rhone 1711
+Cliousclat 688
+Montusclat 122
+Laussonne 1042
+Usson 206
+Saint-Champ 148
+
+Saint-Chamond 38014
+Saint-Christo-en-Jarez 1394
+
+Saint-Paul-en-Jarez 3978
+
+Saint-Priest-en-Jarez 5924
+L'Etrat 2642
+Letra 758
+Saint-Julien-Molin-Molette 1152
+Neuilly-en-Donjon 233
+Verneuil-en-Bourbonnais 293
+Louroux-Bourbonnais 256
+Valbonnais 478
+Albon 175
+Celoux 88
+Ceilloux 157
+Noalhat 165
+Aubignas 354
+Servignat 147
+Servilly 266
+Montilly 529
+Chemilly 585
+Neuilly-le-Real 1329
+Marcilly-le-Chatel 1256
+Bage-le-Chatel 815
+Bage-la-Ville 2581
+
+Cours-la-Ville 4501
+Le Cergne 710
+
+Le Coteau 7571
+Le Corbier 250
+Le Champ-pres-Froges 1242
+
+Froges 3522
+Bernin 3129
+Vernines 371
+Cayres 644
+Franclens 362
+Francin 832
+
+Montmelian 4291
+Apremont 944
+Entremont-le-Vieux 561
+Entre-Deux-Guiers 1612
+Saint-Christophe-sur-Guiers 782
+Saint-Cassin 748
+Montagnole 723
+Montagny 2458
+Montagnat 1580
+Ceyzeriat 2639
+
+Viriat 5850
+Mezeriat 2108
+Vonnas 2669
+
+Peronnas 6411
+Revonnas 546
+Marsonnas 826
+Marsat 1203
+Marsac-en-Livradois 1429
+Doissin 666
+Chanay 625
+Confrancon 948
+Saint-Francois-de-Sales 134
+Espirat 259
+Mazirat 268
+Ars-les-Favets 225
+Pouilly-les-Feurs 1015
+
+Feurs 7901
+Poncins 768
+Poncin 1557
+La Chapelle-Bertin 76
+Lacapelle-Barres 54
+Lacapelle-Viescamp 439
+Valsonne 762
+Saint-Clement-sur-Valsonne 576
+Saint-Clement 337
+Le Grand-Abergement 106
+Laveissenet 106
+Laveissiere 598
+Panissieres 2850
+Bussieres 1326
+Bussieres-et-Pruns 125
+La Buissiere 613
+Le Trioulou 100
+Triors 474
+Briord 747
+Serrieres-de-Briord 1143
+Hieres-sur-Amby 1082
+Chazey-sur-Ain 1305
+Charnoz-sur-Ain 881
+Crevant-Laveine 881
+Saint-Loup 922
+Saint-Eloi 453
+
+Saint-Eloy-les-Mines 4549
+Saint-Eloy-la-Glaciere 61
+Villedieu 529
+Moidieu 1532
+Crupies 96
+Upie 1239
+La Laupie 626
+Marclopt 364
+Marcillat 214
+Saint-Marcel-en-Marcillat 139
+Saint-Marcel-en-Murat 158
+Sainte-Foy-Tarentaise 736
+Sainte-Marguerite 40
+Ambel 23
+Barsac 149
+Sussat 105
+Augnat 149
+Agnat 220
+Champagnac-le-Vieux 248
+
+Brassac-les-Mines 3570
+Charbonnier-les-Mines 850
+
+Sainte-Florine 3286
+Saint-Floret 261
+Montaigut-le-Blanc 627
+Montaigut 1203
+Glaine-Montaigut 500
+
+Veyre-Monton 3608
+Vollore-Montagne 395
+Saint-Germain-la-Montagne 209
+Auvers 71
+Saint-Clement-de-Vers 227
+Saint-Victor-la-Riviere 227
+Valeins 97
+Valette 262
+Ponsonnanche 248
+
+Bonson 3881
+Saint-Cyprien 2163
+Saint-Cyr-les-Vignes 858
+Savigneux 2623
+Lezigneux 1174
+Saint-Georges-Haute-Ville 1159
+Saint-Georges-de-Mons 2378
+Saint-Georges-de-Commiers 1996
+
+Vif 6942
+Saint-Paul-de-Varces 1978
+Saint-Jean-de-Vaulx 488
+Laffrey 337
+Saint-Theoffrey 368
+Saint-Thome 377
+Le Montet 512
+Montord 239
+Montoldre 617
+Montoison 1572
+Chaumont 422
+
+Beaumont 12295
+Saint-Beauzire 2114
+Saint-Benoit 635
+Saint-Benoit-en-Diois 42
+Marlens 775
+Arlet 21
+Salzuit 358
+La Chomette 141
+La Chapelle-Laurent 386
+La Chapelle-sur-Usson 70
+La Chapelle-sur-Coise 415
 
 Saint-Symphorien-sur-Coise 3284
-La Chapelle-sur-Coise 415
-Aveize 1005
-Sainte-Foy-l'Argentiere 1265
-Saint-Forgeux 1436
-Saint-Forgeux-Lespinasse 421
-Montpascal 383
-Les Assions 583
-Les Haies 645
-Le Chatelard 645
+Pomeys 945
+Meys 677
 
-Le Cheylard 3774
-Accons 450
-Chalencon 314
-Chalancon 60
-Saint-Sauveur-en-Diois 56
-Montendry 45
-Landry 678
-Les Chapelles 398
-Meilhaud 398
+Chazelles-sur-Lyon 4911
+Chazelles-sur-Lavieu 183
+Ferrieres-sur-Sichon 574
+Varennes-sur-Morge 307
+Martres-sur-Morge 503
+Le Bouchage 503
+Le Poizat 378
+Le Pontet 124
+Le Pertuis 391
+Pierrefitte-sur-Loire 548
 
-Bourg-Saint-Maurice 8114
-Saint-Maurice 785
-Saint-Just-pres-Brioude 412
-Le Touvet 2955
-La Tour 1215
-La Tourette 476
-Saint-Nizier-de-Fornas 620
-Saint-Nizier-le-Desert 536
+Aurec-sur-Loire 5226
+
+Monistrol-sur-Loire 8049
+Caloire 276
+Loire-sur-Rhone 2244
+Lentiol 196
+Lent 1248
+Servas 1077
+Servant 543
+Cormaranche-en-Bugey 858
+Chassenard 858
+La Chapelle-aux-Chasses 220
+Lachapelle-Graillouse 220
+Clansayes 474
+Besayes 982
+Charpey 967
+
+Decines-Charpieu 24674
+
+Brives-Charensac 4721
+
+Chadrac 3220
+Chadron 216
+Saint-Michel-de-Chabrillanoux 283
+Chabrillan 655
+Sillans 1528
+Saillans 969
+Saillant 281
+Draillant 615
+Vailly 686
+Noailly 732
+Saint-Pierre-la-Noaille 329
+Valaurie 550
+Chanterelle 154
+Chanteuges 421
+Saint-Pierre-Colamine 234
+Rossillon 161
+Thoras 286
+Moras 452
+
+Cremieu 3427
+Saint-Romain-de-Jalionas 2964
+Loyettes 2541
+Salettes 101
+Saint-Christol 101
+Saint-Christophe 475
+Bourg-Saint-Christophe 908
+Villard-Saint-Christophe 295
+Thel 295
+Ozon 342
+Bolozon 104
+Biziat 703
+Manziat 1759
+Feillens 3015
+Replonges 3128
+Emeringes 229
+Fayet-le-Chateau 229
+Ainay-le-Chateau 1191
+Saint-Bonnet-Troncais 791
+Braize 259
+Traize 259
+Domaize 339
+Saint-Romain-en-Gier 540
+Saint-Romain-en-Gal 1546
+Sainte-Colombe 1941
+Cons-Sainte-Colombe 293
+Freney 91
+Saint-Martin-du-Frene 1149
+Saint-Martin-du-Mont 1433
+Druillat 957
+Pouillat 63
+Novel 63
+Sallenoves 531
+Valleiry 2421
+Chezeneuve 409
+Combovin 409
+Chenex 409
+Seythenex 549
+Frontenex 1732
+Frontenas 869
+Quintenas 1339
+Vernosc-les-Annonay 1779
+
+Annonay 18423
+Boulieu-les-Annonay 2222
+Saint-Marcel-les-Annonay 1231
+Bourg-Argental 2835
+Burdignes 345
+Burdignin 660
+Perrignier 1504
+Eymeux 615
+Leyment 1011
+Soleymieu 619
+Briffons 356
+Jarrier 491
+
+Jarrie 3904
+Brie-et-Angonnes 1965
+Herbeys 1239
+Berbezit 61
+Benivay-Ollon 61
+Collonges 1124
+Rongeres 579
+Tronget 961
+Maurines 104
+Saint-Maurice-sur-Eygues 582
+Saint-Maximin 582
+Vinsobres 1070
+Cevins 747
+Chevinay 542
+
+Vinay 3818
+Saint-Verand 1579
 Saint-Vert 107
-Laviolle 137
-Violay 1366
-Sergy 1366
-Saint-Cierge-la-Serre 208
-Vion 790
-Vions 353
-Chezelle 145
-Veze 101
-Vezels-Roussy 142
-Roussas 376
-Suze-la-Rousse 1678
-Rousset-les-Vignes 289
-Saint-Didier-en-Donjon 289
-Saint-Didier-en-Velay 3144
-Montfaucon-en-Velay 1146
-Raucoules 844
-Araules 635
-Vaulx 812
+Saint-Vincent-de-Boisset 913
+Saint-Julien-de-Coppel 938
+Saint-Julien-de-Raz 480
+Saint-Julien-des-Chazes 71
+Torsiac 74
+Massiac 1835
+Massieu 752
+Saint-Cassien 1051
+Reaumont 848
+La Murette 1752
+Morette 388
+La Frette 900
+Le Grand-Lemps 2566
+Colombe 1544
+Oyeu 812
+Joyeux 226
+Boyeux 302
+Jujurieux 1871
+Saint-Jean-le-Vieux 1518
+Aillon-le-Vieux 181
+Aillon-le-Jeune 364
+Ecole 260
+Marcoles 646
+Rocher 239
+Ceyssac 434
+Leyssard 155
+Le Petit-Abergement 155
+Le Noyer 155
+Boyer 161
+Sermoyer 595
+Sevelinges 595
+Lyaud 1163
+Salins 156
+Salins-les-Thermes 1031
+
+Moutiers 4936
+Saint-Julien-Boutieres 225
+Saint-Alban-en-Montagne 75
+Saint-Angel 397
+Jansac 219
+Sansac-Veinazes 212
+Sansac-de-Marmiesse 1114
+Giou-de-Mamou 709
+Saint-Mamet-la-Salvetat 1354
+Roannes-Saint-Mary 918
+Ferrieres-Saint-Mary 303
+Saint-Trivier-sur-Moignans 1683
+Saint-Trivier-de-Courtes 1025
+Courtenay 799
+Creste 44
+Jax 141
+Brageac 66
+Rageade 135
+Montchaboud 364
+Montchamp 123
+Montlaur-en-Diois 123
+Montmaur-en-Diois 83
+Dingy-Saint-Clair 1014
+Montgellafrey 83
+Freycenet-la-Tour 156
+Freycenet-la-Cuche 151
+Saint-Laurent-la-Conche 558
+Miscon 51
+Ceignes 283
+Tignes 2385
+Val-d'Isere 1632
+Lanslebourg-Mont-Cenis 598
+Lanslevillard 464
+Arvillard 765
+
+Villars 8709
+La Chapelle-Villars 334
+
+Condrieu 3615
+Les Roches-de-Condrieu 1968
+Saint-Prim 946
+Saint-Prix 821
+
+Saint-Priest 41641
+
+Mions 11424
+Amions 241
+Souternon 321
+Sainte-Agathe-la-Bouteresse 869
+Arthun 475
+Marthod 1393
+Saint-Andre-en-Royans 321
+Thuellin 1609
+Venosc 936
+Vanosc 812
+Crechy 440
+Viverols 408
+Pailherols 156
+Pailhares 303
+Tailhac 75
+Cassaniouze 522
+Eclassan 740
+Geyssans 520
+Empurany 520
+Le Crestet 537
+Le Crest 1178
+
+Le Cendre 5072
+
+Cournon-d'Auvergne 18848
+Mezel 1560
+Mezeres 108
+Prunieres 335
+Mourjou 335
+Surjoux 74
+Vazeilles-pres-Saugues 45
+Saugues 2250
+Germagnat 99
+
+Saint-Germain-Laprade 3292
+Saint-Etienne-Lardeyrol 656
+Saint-Pierre-Eynac 895
+Malrevers 718
+Villereversure 1306
+
+Villerest 4397
+Commelle 2868
+
+Commentry 7461
+Saint-Genest 358
+
+Saint-Genest-Lerpt 5792
+Saint-Genest-Malifaux 2905
+
+Saint-Just-Malmont 4132
+
+Saint-Just-Saint-Rambert 14313
+Saint-Just-de-Claix 1122
+Saint-Bonnet-de-Chavagne 575
+Saint-Hilaire-du-Rosier 1908
+La Sone 642
+La Segalassiere 98
+Echassieres 381
+Chassiers 998
+Largentiere 2126
+Saint-Genis-l'Argentiere 919
+Sainte-Foy-l'Argentiere 1265
+Sainte-Jalle 287
+Sainte-Catherine 916
+Plancherine 364
+Plan 199
+Planay 441
+Saint-Offenge-dessous 526
+Saint-Offenge-dessus 237
+Saint-Jean-en-Val 284
+Rovon 577
+Romans 577
+Montromant 394
+Prompsat 394
+Omps 274
+Comps 128
+Compains 173
+Glandage 89
+Molieres-Glandaz 119
+
+Die 4924
+Rimon 31
+Pennes-le-Sec 21
+Brette 34
+Durette 978
+Cercie 923
+Cercier 571
+Huriel 2445
+Thurins 2591
+Saint-Thurin 217
+Saint-Sixt 680
+Saint-Sylvestre 565
+Pranles 429
+Saint-Ilpize 217
+Saint-Illide 669
+Ayrens 531
+Mayres-Savel 115
+La Monselie 115
+Mons 385
+Saint-Clement-de-Regnat 463
+Effiat 795
+Roffiac 574
+Montfroc 60
+Lachau 239
+Lachassagne 863
+Chasselay 2746
+Lissieu 3136
+Massieux 2319
+Parcieux 996
+Quincieux 2828
+
+Trevoux 6957
+Trevol 1435
+
+Avermes 3833
+Nivolas-Vermelle 1967
+Orelle 379
+Picherande 379
+Arandon 440
+Chandon 1413
+Certines 1413
+Coltines 405
+Clelles 405
+Saint-Martin-de-Clelles 128
+Saint-Martin-de-Bavel 366
+
+Saint-Martin-de-Belleville 3203
+Saint-Pierre-de-Belleville 133
+Pollieu 133
+Virignin 730
+Virigneux 469
+
+Irigny 8869
+
+Grigny 8331
+
+Brignais 12427
+
+Vernaison 4222
+
+Ternay 4868
+
+Communay 4110
+Notre-Dame-de-Commiers 405
+Notre-Dame-de-Boisset 515
+Notre-Dame-de-Mesage 1294
+Le Poet-Laval 891
+Le Poet-Celard 153
+Villard-Notre-Dame 27
+Notre-Dame-du-Pre 295
+Moussages 295
+Nattages 506
+Les Sauvages 617
+Sauvagny 100
+Trades 100
+Nades 137
+Saint-Andeol-de-Fourchades 95
+Saint-Antoine 122
+Rouziers 122
+La Crouzille 300
+Viuz-la-Chiesaz 1208
+Saint-Germain-la-Chambotte 415
+Rivas 415
+
+Privas 9545
+Coux 1581
+Marcoux 578
+Marcenod 599
+Saint-Marcel-de-Felines 708
+Felines 1167
+Lafeline 179
+Malbosc 179
+Malbo 120
+Le Chaffal 40
+Le Chambon 55
+Le Plagnal 55
+Clavans-en-Haut-Oisans 92
+Saint-Maurice-de-Rotherens 183
+Saint-Maurice-de-Remens 699
+Saint-Maurice-de-Gourdans 2131
+
+Saint-Maurice-de-Beynost 4379
+
+Beynost 4182
+La Boisse 2958
+Le Bois 293
+Le Bois-d'Oingt 2161
+Bagnols 748
+Pignols 222
+Chassignolles 90
+Bassignac 234
+Massignieu-de-Rives 545
+Marignieu 168
+Marigny 210
+Parigny 540
+Parmilieu 540
 Vaulx-Milieu 2401
+
+Bourgoin-Jallieu 23517
+Maubec 1497
+Montvendre 914
+Montverdun 770
+Beaumont-Monteux 1016
+Poisat 2066
+
+Poisy 6399
+Choisy 1509
+Groisy 3171
+Droisy 77
+Labrousse 380
+Roussieux 25
+Toussieux 791
+Saint-Privat-du-Dragon 198
+Saint-Prejet-Armandon 99
+Saint-Quentin-sur-Sauxillanges 99
+Sauxillanges 1116
+
+Issoire 15984
+Aussois 686
+Bramans 400
+Faramans 800
+Pommier-de-Beaurepaire 632
+
+Beaurepaire 4213
+Lapeyrouse-Mornay 858
+
+Anneyron 3697
+Laveyron 937
+Claveyson 750
+Sainte-Olive 275
+Reugny 275
+Montbeugny 604
+Lusigny 1476
+Souvigny 1987
+Chouvigny 246
+Queige 800
+Feigeres 1360
+Sugeres 536
+Valcivieres 227
+Odenas 680
+Cezay 201
+Eyzahut 117
+Saint-Myon 391
+Grenier 117
+
+Les Avenieres 4710
+Les Abrets 2924
+Les Adrets 689
+Les Houches 2985
+Nonette 300
+Avignonet 224
+Mens 1325
+Charmensac 130
+Charmeil 636
+Vernioz 1075
+Lus-la-Croix-Haute 463
+Villebois 1078
+Villebret 1044
+Verrens 632
+Saint-Pierre-de-Curtille 419
+La Trinite 240
+La Trancliere 326
+Rance 664
+Aix-en-Diois 270
+Luc-en-Diois 537
+Marignac-en-Diois 142
+Beaumont-en-Diois 82
+Montaiguet-en-Forez 323
+Mornand-en-Forez 382
+
+Mornant 5055
+Saint-Andeol-le-Chateau 1451
+Chateauneuf 1470
+Chateauneuf-les-Bains 321
+
+Chateauneuf-sur-Isere 3646
+Mercurol-Veaunes 1809
+Chateauneuf-de-Galaure 1941
+La Motte-de-Galaure 581
+La Motte-d'Aveillans 1810
+Saint-Dizier-en-Diois 28
+Courgoul 62
+Bourgneuf 427
+Chateaubourg 219
+Chateau-sur-Allier 174
+Verclause 90
+Le Claux 218
+Le Cheix 643
+Saint-Santin-de-Maurs 348
+Saint-Sandoux 633
+Saint-Saturnin 1079
+Saint-Saury 189
+Mont-Saxonnex 1296
+Chatelneuf 270
+Puy-Saint-Martin 689
+Hermillon 566
+Seillonnaz 136
+Meillonnas 1305
+Venterol 675
+Trevignin 675
+Mauves 1113
+Tauves 768
+Messeix 1150
+Messery 1593
+Chens-sur-Leman 1408
+Anthy-sur-Leman 1879
+Maxilly-sur-Leman 1130
+Bluffy 318
+Gruffy 1365
+Ruffieu 206
+Ruffieux 770
+Roiffieux 2599
+Talencieux 815
+Oncieu 84
+Lugarde 166
+La Garde 95
+La Garde-Adhemar 1169
+Les Granges-Gontardes 593
+Ardes 589
+Saint-Victor-sur-Arlanc 116
+Rezentieres 116
+Rentieres 116
+La Chapelle-Marcousse 75
+La Chapelle-Saint-Martin 91
+La Chapelle-Saint-Maurice 128
+Entrevernes 189
+Lathuile 805
+Doussard 3076
+
+Faverges 6580
+Faverges-de-la-Tour 1195
+Saint-Cirgues-de-Malbert 211
+Saint-Cirgues-de-Jordanne 176
+Saint-Cierge-la-Serre 208
+Saint-Julien-du-Serre 758
+Conzieu 98
+Jonzieux 1263
+Jonzier 567
+Voussac 465
+Jussac 1827
+Cunlhat 1418
+Aulhat 315
+Culhat 1024
+Venteuges 405
+Surat 405
+Murat 2316
+Montmurat 135
+Montmin 207
+Montmiral 475
+Montchenu 485
+
+Pontcharra 6948
+Barraux 1585
+Barrais-Bussolles 208
+Molles 726
+Les Mollettes 592
+Le Rouget 912
+Le Roux 34
+Malleval-en-Vercors 34
+Malleval 490
+Alleyrac 127
+Meyras 814
+Veyras 1589
+Alleyras 178
+Gras 400
+Taxat-Senat 213
+Menat 645
+Brenat 491
+Brenaz 113
+Brenod 463
+Bren 503
+Brens 805
+
+Belley 9145
+
+Belleville 6299
+Taponas 607
+
+Craponne 8460
+
+Chaponost 8286
+
+Chaponnay 3494
+Sonnaz 1323
+Sonnay 1035
+Anjou 924
+Ville-sous-Anjou 1106
+
+Yzeure 13435
+Neure 171
+Vieure 276
+Dieme 117
+Diemoz 2418
 
 Villefontaine 19749
 
 La Verpilliere 6205
 La Vernaz 238
 La Versanne 332
-Tersanne 205
-Marsanne 1064
-La Laupie 626
-Upie 1239
-Crupies 96
-Piegon 235
-Propieres 456
-Propiac 82
-Neuf-Eglise 287
-Ranchal 287
-Aranc 305
-Combloux 2285
-Ombleze 71
-Colombier 324
-Colombier-le-Vieux 579
-Nievroz 1476
-Chavroches 258
-Marcols-les-Eaux 315
-Marcollin 505
-Marcoles 646
-Mars 571
-Mariol 671
-Brides-les-Bains 646
-Saint-Martinien 532
-Arzay 186
-Crest-Voland 455
-Gigors-et-Lozeron 166
-Izeron 660
-Nizerolles 307
-Cuisiat 2108
-Pressiat 202
-Clansayes 474
-Gouise 220
-Courgoul 62
-Bourgneuf 427
-Chateaubourg 219
-Chateau-sur-Allier 174
-Perignat-sur-Allier 1302
-Saint-Bonnet-le-Chastel 265
-Saint-Bonnet-le-Chateau 1630
-Saint-Bonnet-le-Courreau 764
-Hery-sur-Alby 840
-Saint-Genis-sur-Menthon 394
-Vers-sur-Meouge 55
-Oytier-Saint-Oblas 1453
-Saint-Ondras 539
-Saint-Privat-du-Dragon 198
-Saint-Privat 1508
-Arpheuilles-Saint-Priest 317
-Saint-Romain-les-Atheux 823
-Saint-Romain-le-Puy 2854
-Saint-Andre-le-Puy 1217
+Loriges 332
 
-Montrond-les-Bains 4136
-Sail-les-Bains 230
-Saint-Laurent-les-Bains 191
-Lully 560
-Barriac-les-Bosquets 185
-Leyrieu 694
-Cercier 571
-Huriel 2445
-Thurins 2591
+Loriol-sur-Drome 5803
+
+Livron-sur-Drome 8440
+Allex 2245
+Arcon 109
+Ambonil 109
+La Chambonie 46
+La Chapelle-du-Bard 457
+Andert-et-Condon 301
+Chirols 274
+Saulzet-le-Froid 242
+Saulzet 340
+Vieu 340
+Parlan 285
+Arlanc 1895
+La Chaise-Dieu 823
+Lavaudieu 241
+Le Montellier 241
+
+Montelier 3187
+Monteleger 1699
+Beauvallon 1818
+Vallon-Pont-d'Arc 2337
+Saint-Marcel-d'Ardeche 2393
+Lalevade-d'Ardeche 1156
+Jaujac 1124
+Vaujany 333
+Montgilbert 79
+Lamontgie 516
+Chalamont 1807
+Echalas 1216
+Tartaras 681
+Artas 1446
+Saint-Paul-de-Tartas 258
+Saint-Laurent-Chabreuges 258
+Saint-Laurent-sous-Coiron 149
+Baffie 107
+Colomieu 119
+Dolomieu 2582
+Deux-Chaises 430
+La Chapelle-Blanche 480
+Saint-Vulbas 901
+Saint-Bois 111
+Saint-Genest-Lachamp 111
+Paray-sous-Briailles 549
+Salles-sous-Bois 205
+Solignac-sous-Roche 205
+Taulignan 1685
+Chantemerle-les-Grignan 187
+Chamaret 527
+Montsegur-sur-Lauzon 1053
+Solerieux 284
+Clerieux 1963
+Amberieux 453
+Chatel-Montagne 439
+Chauvac-Laux-Montaux 50
+Chauzon 312
+Chaudebonne 67
+Chazelles 45
+Trezelles 410
+Trezioux 355
+Etrez 699
+Montrevel-en-Bresse 2202
+
+Bourg-en-Bresse 45340
+Bourg-Lastic 930
+Saint-Martin-des-Plains 137
+Thueyts 1057
+Venthon 631
+Arenthon 1271
+
+Vetraz-Monthoux 5991
+Arthaz-Pont-Notre-Dame 1294
+
+Reignier-Esery 5892
+
+Marignier 5883
+
+Thyez 5383
+
+Marnaz 4882
+
+Scionzier 6766
+Vinzier 728
+Vinzieux 275
+Saint-Christophe-sur-Dolaison 956
+Bains 1256
+
+Aix-les-Bains 27651
+
+Tresserve 3303
+
+La Motte-Servolex 13499
+Voglans 1555
+Dullin 360
+
+Tullins 7689
+
+Renage 3593
+
+Sassenage 10641
+
+Bassens 4012
+Bassy 411
+Pontgibaud 879
+Montgirod 410
+
+Aime 3507
+Macot-la-Plagne 1696
+Belle-Plagne 1100
+Plagne 81
+Mizoen 174
+Medeyrolles 113
+Chaudeyrolles 147
+Cornillon-en-Trieves 147
+Chatillon-en-Michaille 2668
+Collandres 226
+Collat 86
+Bressieux 86
+Avressieux 441
+Domessin 1479
 Messimy 3060
 
 Brindas 4859
 
 Grezieu-la-Varenne 4369
+Saint-Etienne-la-Varenne 646
+Saint-Etienne-des-Oullieres 1832
+Chassagny 1122
+Saint-Lager 928
+Saint-Lager-Bressac 706
+Saint-Etienne-de-Maurs 706
+Saint-Julien-du-Pinet 369
+Saint-Julien-Labrousse 335
+Sainte-Julie 588
+Saint-Herent 121
 
-Craponne 8460
-
-Chaponost 8286
-
-Francheville 12053
-
-Tassin-la-Demi-Lune 16920
-Luneau 288
-Saint-Jean-le-Centenier 609
-Saint-Jean-le-Vieux 1518
-Jujurieux 1871
-Jure 215
-Lure 145
-Lurcy 283
-Lurcy-Levis 2124
-La Monnerie-le-Montel 2124
-Saint-Remy-sur-Durolle 1805
-Celles-sur-Durolle 2011
-Celles 239
-Novacelles 152
-La Celle 89
-La Cellette 153
-La Salette-Fallavaux 82
-Saint-Bonnet-le-Bourg 135
-Ozan 517
-Lozanne 2275
-
-Mozac 3507
-Joze 963
-Jozerand 374
-Gluiras 374
-Glenat 226
-Joyeux 226
-Joyeuse 1559
-Paladru 934
-Palladuc 522
-Pallud 652
-Allondaz 194
-Condat 1143
-Aydat 1714
-Sayat 2359
-
-Royat 4831
-
-Romagnat 8771
-
-Aubiere 11054
-Aubignas 354
-Servignat 147
-Servilly 266
-Cervieres 122
-Saint-Georges-les-Bains 1830
-Beauchastel 1614
-Chastel 133
-Marchastel 168
-Novel 63
-Sallenoves 531
-Mesigny 699
-
-Epagny 3581
-Montagny-les-Lanches 408
-Chapeiry 665
-La Chapelle-Saint-Maurice 128
-Entrevernes 189
-Alleves 290
-Arith 366
-La Motte-en-Bauges 420
-Doucy-en-Bauges 80
-Doussard 3076
-Lathuile 805
-Bourget-en-Huile 137
-Sainte-Euphemie-sur-Ouveze 78
-Sainte-Euphemie 1221
-Sainte-Eulalie 238
-Charmes 298
-Charnay 1018
-Farnay 1165
-Guereins 1165
-Valeins 97
-Saint-Victor-la-Riviere 227
-Saint-Victor 1997
-Saint-Victor-de-Cessieu 1810
-Cessieu 2292
-Serezin-de-la-Tour 665
-La Chapelle-de-la-Tour 1566
-
-La Tour-du-Pin 7248
-La Touche 178
-La Terrasse-sur-Dorlay 663
-Lay 663
-Bayet 651
-Baix 864
-Gerbaix 350
-Beon 403
-Belmont-Tramonet 439
-Saint-Ferreol-des-Cotes 608
-Saint-Ferreol 882
-Saint-Ferreol-Trente-Pas 229
+Saint-Heand 3781
+Saint-Haon 378
+Landos 947
+Landogne 221
+Miremont 339
+Montfermy 164
+Chapdes-Beaufort 1008
+Beaufort 2170
+Hauteluce 859
+Hauterive 1072
+Verin 716
+Riverie 287
+Saint-Didier-sous-Riverie 1214
 Saint-Didier-sur-Doulon 229
-Cistrieres 137
-Aurieres 292
-Beaurieres 70
-Valmeinier 535
-Charmensac 130
-La Valla-sur-Rochefort 122
-Rochefort 193
-Vals-le-Chastel 50
-Saint-Martin-le-Chatel 754
-Leotoing 204
-Olloix 235
-Talloires 1604
-Tours-en-Savoie 813
-La Baume-Cornillane 438
-Saint-Guillaume 290
-Puy-Guillaume 2754
-Puy-Saint-Martin 689
-Mont-Saint-Martin 110
+Saint-Didier-sur-Beaujeu 483
+Le Pont-de-Beauvoisin 2829
+Beauvoisin 99
+Beauvene 236
+Ordonnaz 131
+Orcival 256
+Orcier 764
+Lorcieres 226
+La Trinitat 64
 
-Saint-Marcellin 7592
-Chatte 2787
-Saint-Lattier 1119
-Ratieres 275
-Rentieres 116
-Rezentieres 116
-Saint-Victor-sur-Arlanc 116
-Saint-Victor-sur-Rhins 920
-Benonces 268
-Nances 354
-Motz 354
-Moye 1022
-Sermoyer 595
-La Guillermie 162
-Hermillon 566
-Seillonnaz 136
-Meillonnas 1305
-Venterol 675
-Cervens 807
+La Tronche 7125
 
-Tresserve 3303
+Corenc 4217
 
-Aix-les-Bains 27651
-Drumettaz 2141
-La Giettaz 534
-La Clusaz 2241
-Saint-Jean-de-Sixt 1106
-Saint-Jean-de-Tholome 821
-Saint-Jeures 821
-Saint-Jeoire 3006
-Saint-Jeoire-Prieure 922
-Saint-Jean-de-Nay 453
-Saint-Eloi 453
-Saint-Loup 922
-Rignieux-le-Franc 922
+Meylan 20267
+Cheylade 341
+Le Cheylas 2276
 
-Lagnieu 6454
-Ambutrix 641
-
-Amberieu-en-Bugey 13260
-Saint-Denis-en-Bugey 2132
-Saint-Rambert-en-Bugey 2191
-
-Saint-Just-Saint-Rambert 14313
-
-Saint-Just-Malmont 4132
-Saint-Genest-Malifaux 2905
-
-Saint-Genest-Lerpt 5792
-
-Roche-la-Moliere 10372
-Saint-Pierre-la-Roche 48
-Saint-Pierre-Roche 356
-Chavaroux 318
-Lescheroux 651
-Neschers 714
-Champeix 1252
-Le Cheix 643
-Saint-Diery 348
-Saint-Dizier-en-Diois 28
-Saint-Etienne-de-Vicq 440
-Saint-Etienne-de-Valoux 211
-Saint-Colomban-des-Villards 211
-Saint-Jean-des-Ollieres 425
-Arlebosc 340
-Chambost-Allieres 663
-Chambost-Longessaigne 760
-Essertines-en-Donzy 442
-Salt-en-Donzy 426
-Rozier-en-Donzy 1335
-Civens 1171
-Salvizinet 500
-Calvinet 432
-Saint-Victor-Malescours 702
+Le Cheylard 3774
+Accons 450
+Arconsat 663
+Chabreloche 1312
+Celles-sur-Durolle 2011
+Saint-Remy-sur-Durolle 1805
+Lurcy-Levis 2124
+Lurcy 283
+Saint-Vincent-la-Commanderie 420
+Saint-Vincent 961
+Saint-Vincent-de-Salers 87
+Saint-Vincent-de-Barres 635
 Saint-Victor-de-Morestel 924
 
 Morestel 3307
-Orelle 379
-Chanterelle 154
-Chantelle 1056
-Bouvesse-Quirieu 1056
-Bouvieres 171
-Les Tonils 22
+Saint-Sorlin-de-Morestel 556
+Saint-Sorlin-en-Bugey 1067
+Saint-Martin-en-Vercors 316
+Saint-Julien-en-Vercors 209
+Saint-Julien-en-Quint 150
+Moretel-de-Mailles 332
+Chatel-de-Neuvre 518
+Chatel 1309
+Abondance 1498
+Saint-Jean-d'Aulps 1177
+Montriond 849
+
+Morzine 3281
+Salvizinet 500
+Calvinet 432
+Grospierres 664
+Saint-Pierre-de-Colombier 405
+Colombier 324
+Perrex 800
+Chausseterre 286
+Chaussenac 249
+Montvicq 698
+Vicq 313
+Marcillat-en-Combraille 934
+Bibost 422
+Chambost-Allieres 663
+Chambost-Longessaigne 760
+Longessaigne 540
+Paulhaguet 1040
+Paulhac 654
+Paulhenc 290
+Darbres 225
+Abrest 2503
+
+Vichy 27019
+Vichel 221
+Cleppe 464
+Cellule 702
+Cellieu 1513
+Chagnon 418
+Champdieu 1513
+Champdor 467
+Crachier 467
+Lochieu 79
+Monthieux 635
+Monthion 423
+Thionne 317
+Mionnay 2293
+
+Saint-Andre-de-Corcy 3373
+Saint-Andre-de-Bage 560
+Saint-Andre-de-Boege 569
+Boege 1574
+Desingy 660
+Massingy 672
+Malicorne 824
+Borne 374
+Ornex 2946
+
+Ferney-Voltaire 7742
+Saint-Nectaire 705
+Chambon-sur-Lac 392
+Courmangoux 392
+Manglieu 431
+Anglards 196
+Le Vernet-Sainte-Marguerite 275
+Le Vernet 41
+Lanarce 210
+Lanas 383
+Manas 161
+Presles 96
+Presle 454
+La Gresle 830
+
+La Grand-Croix 5045
+La Gimond 220
+Innimond 103
+Limonest 2984
+Monestier 272
+Bidon 118
+Nozieres 272
+Nonieres 199
+Aurieres 292
+Beaurieres 70
+Valmeinier 535
+Saint-Martinien 532
+Arzay 186
+Ally 186
+Bohas-Meyriat-Rignat 803
+Allan 1517
+Mariol 671
+Marin 1440
+
+Publier 5525
+Cublize 1112
+Ronno 640
+Veronne 40
+Saint-Gerons 156
+Saint-Gervais-sous-Meymont 244
+Chene-en-Semine 282
+Tournemire 144
+Tournon 430
+Blanzac 289
+Anzat 201
+Manzat 1377
+Coudes 901
+Boudes 263
+Loudes 852
+Copponex 696
+Cuvat 856
+Mottier 615
+Royas 330
+Pont-en-Royans 1016
+Bessenay 2138
+Chessenaz 170
+Olliergues 984
+Liergues 1496
+Lamure-sur-Azergues 1052
+Senezergues 237
+Virargues 143
+Teilhede 395
+Teilhet 308
+Vassieux-en-Vercors 309
+La Chapelle-en-Vercors 808
+La Chapelle-du-Chatelard 287
+Chatelperron 141
+Condillac 141
+Andilly 656
+Chilly 1035
+
+Rumilly 13077
+Boussy 378
+Alboussiere 807
+
+Saint-Peray 6922
+Cornas 2222
+Dornas 275
+Barnas 215
+Montpezat-sous-Bauzon 688
+Auzon 876
+Vergongheon 1774
+Bergonne 382
+Saint-Remy-de-Maurienne 1047
+
+Saint-Jean-de-Maurienne 9536
+
+Saint-Michel-de-Maurienne 3174
+Albiez-Montrond 62
+
+Montrond-les-Bains 4136
+
+Evian-les-Bains 8207
+
+Thonon-les-Bains 31684
+Thollon-les-Memises 713
+Bernex 947
+Feternes 1269
 Les Ternes 462
-Nernier 401
-Neydens 1220
-Ydes 1980
-Ardes 589
-Lugarde 166
-La Garde 95
-La Garde-Adhemar 1169
-Les Granges-Gontardes 593
-Granges 535
-Cheylade 341
-Le Cheylas 2276
-Theys 1730
-Goncelin 2084
-Leoncel 58
-Narnhac 86
-Barnave 165
-Chastel-Arnaud 47
-Saint-Projet-de-Salers 119
-Poyols 71
-Yolet 490
-Rivolet 514
-Nivollet 95
-Penol 314
-Ceyssat 491
-Ceyssac 434
-Leyssard 155
-Le Noyer 155
-Boyer 161
-Boyeux 302
-Oyeu 812
-Colombe 1544
-Le Grand-Lemps 2566
-Burcin 399
-Chabons 1609
-Aboen 235
-La Chabanne 194
-Usinens 359
-Mens 1325
-Monestier-de-Clermont 997
-Miribel-Lanchatre 351
-
-Miribel 9282
-
-Rillieux-la-Pape 28076
-
-Sathonay-Camp 4726
-Sathonay-Village 1786
-Bage-la-Ville 2581
-Bage-le-Chatel 815
-Fayet-le-Chateau 229
-Ainay-le-Chateau 1191
-Braize 259
-Traize 259
+Cisternes-la-Foret 475
+Pont-de-Barret 491
+Pont-de-Vaux 2055
+Pont-de-Veyle 1696
+Laiz 1090
 Solaize 2397
 Serpaize 1352
 
 Pont-Eveque 5479
+Pont-d'Ain 2867
+Ambronay 2238
+Douvres 717
 
-Estrablin 3492
-Sablieres 105
-Sablons 1695
-Serrieres 1171
-Serrieres-sur-Ain 85
-Saint-Appolinaire 117
-Sainte-Agathe-en-Donzy 117
-Sainte-Eugenie-de-Villeneuve 112
-Villeneuve-de-Berg 2693
-Lavilledieu 1525
-Villedieu 529
-Moidieu 1532
-Villemoirieu 1600
-Villemotier 520
-Noalhat 165
-Noailly 732
-Saurier 195
-Tauriers 172
-Chaliers 183
-Eygaliers 109
-Eygalayes 80
-Besayes 982
-Charpey 967
-Perpezat 402
-Saint-Cirgues-de-Malbert 211
-Saint-Cirgues-de-Jordanne 176
-Lempty 309
-Lemps 604
-Empurany 520
-Ampuis 2311
+Douvaine 4278
+Loisin 1259
+Loisieux 145
+Bloye 471
+Lure 145
+Saint-Jean-Soleymieux 738
+Soleymieux 479
+Chenereilles 317
+Estivareilles 1058
+Dompierre-sur-Veyle 1058
 
-Amplepuis 5261
-Saint-Gingolph 640
-Ronno 640
-Cublize 1112
+Dompierre-sur-Besbre 3576
+Beaulon 1581
+Vaumas 544
+Droiturier 349
+
+Lapalisse 3509
+Malissard 3078
+
+Chabeuil 6302
+Chabons 1609
+Burcin 399
+
+Orcines 3255
+Vallorcine 432
+Orcinas 30
+Thiolieres 149
+
+Roche-la-Moliere 10372
+Roche-Charles-la-Mayrand 57
+
+Charly 4038
+Vourles 2906
+Vourey 1668
+Lavours 126
+Culoz 2893
+Ceyzerieu 889
+Mazerier 271
+Cherier 448
+Seriers 139
+Alleuze 201
+Faverolles 339
+Lignerolles 584
+Lapeyrouse 584
+Lapeyrugue 129
+Montsapey 58
+La Batie-des-Fonds 11
+La Batie-Divisin 866
+La Batie-Rolland 867
+Vacheresse 670
+Vacheres-en-Quint 35
+Lompnas 175
+Dompnac 87
+Lompnieu 96
+Le Theil 403
 Theize 1110
 
 Gleize 8749
 
-Limas 4434
+Jassans-Riottier 5839
+Frans 2023
+Saint-Hilaire-de-la-Cote 1221
+Saint-Hilaire-la-Croix 246
+Lesches-en-Diois 35
+Cognin-les-Gorges 577
+Costaros 577
+Heume-l'Eglise 122
+Issanlas 122
+Voissant 225
+Beaucroissant 1348
 
-Montelimar 35637
-Ancone 1042
-Confrancon 948
-Miscon 51
-Saint-Laurent-la-Conche 558
-Freycenet-la-Cuche 151
-Ferrussac 97
-Jussac 1827
-Voussac 465
-Moussages 295
-Nattages 506
-Attignat 2114
-Parentignat 540
-Parent 681
-Aubazat 178
-Mazaye 618
-Cezay 201
-Cezens 266
-Bezenet 987
-Chezeneuve 409
-Combovin 409
-Combre 287
-Combronde 1972
-Mureils 337
-Saint-Agoulin 255
-Aigueperse 2614
-Pirajoux 328
-Ajoux 90
-Montjoux 313
-Montjoyer 236
-Reauville 354
+Rives 6067
+Hauterives 1438
+Moras-en-Valloire 656
+Saint-Sorlin-en-Valloire 1669
+Epinouze 1173
+Pinols 281
+Moureuille 281
+Cordelle 788
+Cordeac 208
+Chateauneuf-de-Bordette 81
+Chateauneuf-de-Vernoux 198
+
+Pont-du-Chateau 9474
+Chateaugay 3138
 Chateauvilain 525
 Evosges 118
 Desges 83
-Joursac 161
-Barsac 149
-Marsat 1203
-Marsonnas 826
-Sonnay 1035
-Anjou 924
-Ville-sous-Anjou 1106
-Jou-sous-Monjou 137
-Lachamp-Raphael 137
-Chambonas 591
-Bourbon-l'Archambault 2559
-La Bourboule 2162
-Nebouzat 673
-Plauzat 1030
-Beauzac 2162
+Sembadel 267
+Pradelle 27
+Barret-de-Lioure 51
+Mont-de-Lans 1182
+Belmont-de-la-Loire 1528
+Belmont 437
+Belmont-Tramonet 439
+Saint-Ferreol-des-Cotes 608
+Saint-Ferreol 882
+Saint-Fortunat-sur-Eyrieux 567
+Gresin 286
+Vesines 125
+Leucamp 242
 
-Monistrol-sur-Loire 8049
+Sathonay-Camp 4726
+Sathonay-Village 1786
 
-Aurec-sur-Loire 5226
-Caloire 276
+Rillieux-la-Pape 28076
+Satillieu 1599
+Thezillieu 329
+Montalieu 2434
+Rontalon 942
 
-Unieux 8456
-Dunieres 3016
-Prunieres 335
-Prunet 521
+La Tour-du-Pin 7248
+Rochetoirin 942
+Montcarra 379
+
+Saint-Chef 3265
+Saint-Savin 3035
+Saint-Santin 547
+Saint-Sauvier 338
+Le Moutaret 172
+La Moutade 392
+Sardon 252
+Cerdon 734
+Chevagnes 734
+Saint-Just-en-Chevalet 1347
+Champoly 263
+Champs 266
+Saint-Priest-des-Champs 710
+Sauret-Besserve 200
+Saint-Gervais-d'Auvergne 1512
+Sainte-Christine 139
+Les Ancizes 1819
+Les Salelles 221
+Gelles 1032
+La Goutelle 612
+Chanat-la-Mouteyre 938
+Perignat-les-Sarlieve 2307
+
+Aubiere 11054
+Barbieres 699
+Sorbier 289
+Saint-Michel-les-Portes 153
+Saint-Michel-de-Saint-Geoirs 312
+Saint-Geoirs 465
+Saint-Etienne-de-Saint-Geoirs 2437
+
+La Cote-Saint-Andre 4555
+Gillonnay 1024
+Brezins 1441
+Saint-Simeon-de-Bressieux 2773
+Sardieu 655
+Sollieres-Sardieres 174
+Sceautres 108
 Autrac 76
 Autrans 1756
-Lans-en-Vercors 2365
-Correncon-en-Vercors 366
-Izieu 187
-Rouziers 122
-La Crouzille 300
-Vazeilles-Limandre 219
-Valgorge 400
-Tupin 468
-Entremont 549
-Villecheneve 649
-Theneuille 418
-Saint-Martin-de-la-Porte 687
-Saint-Jean-de-la-Porte 937
-Chamousset 410
-Chamoux-sur-Gelon 736
-Champ-Laurent 22
 
-Champ-sur-Drac 3511
+Moirans 7886
+Saint-Jean-de-Moirans 2901
+
+Voiron 22114
+
+Coublevie 3992
+Vieillevie 115
+Chassignieu 206
+Percy 122
+Mercy 296
+Unias 266
+Saint-Geron 188
+Varambon 427
+Etable 329
+Etables 582
+Lemps 604
+Secheras 323
+La Balme-les-Grottes 740
+Crottet 1629
+Montrottier 1479
+Brussieu 969
+Courzieu 1205
+Tourzel 191
+Burzet 517
+Bransat 517
+Bansat 212
+Jeansagniere 106
 Champagnier 1039
 
-Jarrie 3904
-Brie-et-Angonnes 1965
+Champ-sur-Drac 3511
 
-Allieres-et-Risset 6815
-
-Seyssinet-Pariset 13473
-
-Seyssins 7408
-Herbeys 1239
+Vizille 7962
 Vaulnaveys-le-Bas 1258
 
-Vaulnaveys-le-Haut 3328
-Precieux 1013
-Ornacieux 249
-Varacieux 695
-Archignat 348
-Chignin 819
+Aulnat 4662
 
-Cognin 6577
-
-Jacob-Bellecombette 3861
-
-Chambery 61640
-Mery 1276
-Messery 1593
-Chens-sur-Leman 1408
-Anthy-sur-Leman 1879
-Maxilly-sur-Leman 1130
-Bluffy 318
-Messeix 1150
-Tauves 768
-Mauves 1113
-Auvers 71
-Saint-Julien-en-Vercors 209
-Saint-Martin-en-Vercors 316
-Saint-Agnan-en-Vercors 427
-Serbannes 697
-Banne 590
-Couleuvre 592
-Coutouvre 1126
-Douvres 717
-Ambronay 2238
-
-Bron 37825
-
-Villeurbanne 131445
-
-Corbas 9753
-Corbel 132
-Cormoz 556
-Corps 491
-Saint-Romain-de-Lerps 576
-Saint-Romain-de-Popey 1325
-Sarcey 839
-Arcens 482
-Marcenat 629
-Saint-Ennemond 627
-Saint-Remy-de-Maurienne 1047
-Bergonne 382
-Vergongheon 1774
-Bongheat 253
-Espenel 128
-Thenesol 283
-Fournoules 82
-Fournols 510
-Cournols 250
-Monsols 950
-Les Ardillats 524
-Lantignie 667
-
-Tignieu 5244
-Chamagnieu 1278
-Satolas-et-Bonce 1781
-
-Saint-Quentin-Fallavier 6302
-Saint-Savin 3035
-Saint-Amant-Roche-Savine 628
-Saint-Jean-de-Chevelu 628
-Hautecour la Basse 295
-Couteuges 275
-Champetieres 275
-Champier 1048
-Marchamp 117
-Marchampt 393
-Arfeuilles 719
-Presailles 172
-Presles 96
-Presle 454
-Blesle 717
-
-Challes-les-Eaux 4436
-Lisseuil 101
-Seuillet 430
-Blanzac 289
-Anzat 201
-Treffort 139
-Pierrefort 1014
-Mantenay-Montlin 270
-Saint-Mury-Monteymond 336
-Loubaresse 433
-Loubeyrat 898
-
-Ceyrat 5880
-Saint-Genes-Champanelle 2907
-Saint-Champ 148
-Saint-Chamant 279
-Saint-Cernin 1137
-
-Arpajon-sur-Cere 5744
-Vic-sur-Cere 1936
-Vernoux-en-Vivarais 1858
-Laurac-en-Vivarais 864
-Largentiere 2126
-Chassiers 998
-Sanilhac 365
-Mezilhac 113
-Silhac 327
-Gilhac-et-Bruzac 122
-Tailhac 75
-Cassaniouze 522
-Bathernay 218
-Pinay 278
-Jabrun 179
-Labrousse 380
-Roussieux 25
-Toussieux 791
-Boffres 535
-Saint-Theoffrey 368
+Romagnat 8771
+Magnet 708
+Le Mayet-de-Montagne 1457
 Saint-Bonnet-des-Quarts 368
 Ambierle 1767
 Etrembieres 1573
@@ -2272,1857 +2843,1286 @@ Etrembieres 1573
 Gaillard 11660
 Chateau-Gaillard 1658
 Priay 1263
-Mariac 782
-Saint-Paul-sur-Isere 617
-Randens 727
-Ygrande 748
-Fontcouverte-la Toussuire 538
-Chilhac 196
-Le Vilhain 276
-Le Vigean 893
-Trevignin 675
-Vignieu 804
-Montboudif 234
-La Motte-Fanjas 149
-Montferrand-la-Fare 49
-Farges 662
-Deux-Verges 60
+Chatillon-la-Palud 1396
+Saint-Pierre-la-Palud 2110
+Sourcieux-les-Mines 1866
+Montcombroux-les-Mines 439
+Rochetaillee-sur-Saone 1194
+Saint-Apollinaire-de-Rias 125
+Chazeaux 109
+Izeaux 1954
+Biozat 685
+Vagnas 455
+Le Biot 377
+Ponsas 493
+Ontex 59
+Target 250
+Moledes 102
+Vendranges 250
+Tiranges 428
+Cremeaux 924
+Jumeaux 705
+Jarcieu 884
+Saint-Maurice-en-Gourgois 1296
+Saint-Pancrace 241
+Saint-Pancrasse 442
+Torchefelon 490
+Vesancy 490
+Lieudieu 265
+Bilieu 1066
+Le Pin 1202
+Le Passage 698
+Saint-Andre-le-Gaz 2284
+Charancieu 607
+Aranc 305
+Combloux 2285
+Ombleze 71
+Ambleon 93
+Herisson 722
+Le Buisson 50
+La Buisse 2596
+La Burbanche 65
+La Bauche 239
+Villeperdrix 117
+Villes 305
+Sederon 305
+Peron 1729
+Lesperon 289
+La Ferte-Hauterive 289
+Bresnay 383
+Vabres 229
+Villevocance 1117
+Vieux Pellafol 151
+Youx 1040
+Montvernier 151
+Curnier 214
+Vernassal 370
+Vernas 186
+Vanzy 264
+Soyans 319
 
-Faverges 6580
-Trelins 549
-Seythenex 549
-Frontenex 1732
-Frontenas 869
-Frontonas 1852
-Charantonnay 1883
-Chatonnay 1716
-Soleymieu 619
-Jarrier 491
-Briffons 356
-Roiffieux 2599
-Roisey 716
-Coise 1018
-Eloise 774
-Leaz 508
-Pleaux 1838
-Chadron 216
-
-Chadrac 3220
-
-Brives-Charensac 4721
-
-Saint-Germain-Laprade 3292
-Saint-Etienne-Lardeyrol 656
-Saint-Etienne-le-Molard 763
-Saint-Sorlin-de-Morestel 556
-Saint-Sorlin-en-Bugey 1067
+Ugine 7703
+Saint-Clair-de-la-Tour 2896
+Saint-Clair-sur-Galaure 269
+Montfalcon 110
+Louchy-Montfand 431
+Ouches 1143
 Saint-Sorlin 728
-Saint-Sorlin-de-Vienne 771
-Orbeil 746
-Meillard 284
-Martres-sur-Morge 503
-Saint-Georges-sur-Renon 178
-Saint-Andeol-de-Berg 100
-Saint-Gineis-en-Coiron 100
-Saint-Girod 455
-Saint-Germain-les-Paroisses 334
-Saint-Germain-Lespinasse 1147
-Peillonnex 1202
-Corbonod 977
-Quincie-en-Beaujolais 1202
-Saint-Andre-en-Vivarais 247
-Saint-Andre-Lachamp 130
-Givarlais 231
-Vercoiran 121
-Tortebesse 68
-Bessey 386
-Rotherens 210
-Saint-Maurice-de-Rotherens 183
-Clavans-en-Haut-Oisans 92
-Bouvante-le-Haut 235
-Rochefort-Samson 819
-Barbieres 699
-Arbin 779
+Saint-Sauveur-de-Cruzieres 521
+Saint-Andre-de-Cruzieres 519
+Saint-Joseph-des-Bancs 194
+Saint-Joseph 1772
+Saint-Maurice-sur-Dargoire 2128
+Dargoire 412
+Gignat 238
+Attignat 2114
+Saint-Paul-des-Landes 1124
+Saint-Sigismond 644
+Saint-Pourcain-sur-Besbre 423
 
-Barberaz 5059
-Barraux 1585
+Saint-Pourcain-sur-Sioule 5480
+Saulcet 625
+Corveissiat 517
+Condeissiat 683
+Genissiat 929
+Genissieux 1958
+Fitilieu 1390
+Viviers-du-Lac 1622
+Saint-Leon 662
+Saint-Leger-sur-Vouzance 320
+Antraigues-sur-Volane 523
+Aizac 177
+Asperjoc 377
+Verjon 217
+Tiviers 151
+Cormoz 556
+Veauce 46
 
-Pontcharra 6948
-Laissaud 565
-Chapareillan 2329
-Les Marches 2304
-Francin 832
+Veauche 8189
+Veauchette 751
+Saint-Agnan-en-Vercors 427
+Serbannes 697
+Banne 590
+Couleuvre 592
+Raucoules 844
+Fournoules 82
+Cournols 250
+Cheminas 250
+Montgreleix 66
+Valbeleix 158
+Saint-Martin-Cantales 199
+Saint-Santin-Cantales 317
+Saint-Quintin-sur-Sioule 297
+Bey 246
+Thorrenc 197
+Correncon-en-Vercors 366
+Curtafond 648
+Curtin 1644
+Corbelin 1912
+Corbel 132
+Pinsot 150
+Ornon 150
+Vernon 218
+Verneix 590
+Treves 590
+Saint-Constant 603
+Tarentaise 417
+Saint-Bon-Tarentaise 1992
+Bozel 2028
+Meribel 2626
+Miribel-les-Echelles 1849
+Les Echelles 1345
+Les Eparres 932
+Maclas 1326
+Chareil-Cintrat 330
+Bellegarde-Poussieu 902
+Bossieu 302
+Craintilleux 914
+Mariac 782
 
-Montmelian 4291
-Montmeyran 2849
-Monteleger 1699
+Mauriac 3955
 
-Montelier 3187
+Aurillac 34724
+Naucelles 1815
+Aucelon 43
+Juvinas 159
+Juvigny 604
+Pizay 725
+Saint-Sulpice-des-Rivoires 443
+Saint-Sulpice 720
+Vimines 1611
 
-Chabeuil 6302
-Alixan 2229
-Alix 735
-Bagnols 748
-Montagnole 723
-Saint-Cassin 748
-Saint-Cassien 1051
-Massieu 752
-Saint-Geoire-en-Valdaine 2153
-Portes-en-Valdaine 353
-Notre-Dame-de-Commiers 405
+Jacob-Bellecombette 3861
 Notre-Dame-de-Bellecombe 553
 Valfleury 521
-Fleurie 1266
-Fleurieu-sur-Saone 1361
+Montailleur 584
+Vesc 293
+Lalouvesc 519
+Bouvesse-Quirieu 1056
+Devesset 286
+Vesseaux 1350
+Gipcy 218
+Chenas 473
+Longechenal 449
+Pralognan-la-Vanoise 815
+Champagny-en-Vanoise 626
+Saint-Girod 455
+Saint-Gingolph 640
 
-Neuville-sur-Saone 7453
-Albigny-sur-Saone 2814
-Asnieres-sur-Saone 90
-Hostiaz 67
-Bibost 422
-Saint-Julien-sur-Bibost 537
-Felines 1167
-Lafeline 179
-Malbosc 179
-Bransat 517
-Sanssat 355
-Etroussat 668
-Saint-Germain-de-Salles 448
+Amplepuis 5261
+Ampuis 2311
+Reventin-Vaugris 1731
+Les Cotes-d'Arey 1927
+Les Martres-d'Artiere 1953
+Vongnes 69
+Plan-de-Baix 141
+Baix 864
+La Chamba 60
+Sainte-Paule 259
+Saint-Ferreol-Trente-Pas 229
+Cistrieres 137
+Fontannes 1308
+Chomelix 512
+Chomerac 2696
+Saint-Symphorien-sous-Chomerac 733
+Le Pouzin 2849
+Rompon 909
+Duniere-sur-Eyrieux 341
+Les Ollieres-sur-Eyrieux 844
 
-Saint-Germain-des-Fosses 3750
-Saint-Remy-en-Rollat 1483
-Saint-Remy 900
-Garnat-sur-Engievre 746
-Gannay-sur-Loire 393
-Monetay-sur-Loire 347
-Lavoute-sur-Loire 733
-Saint-Julien-du-Gua 182
-Saint-Julien-du-Serre 758
-Conzieu 98
-Vinzieux 275
-Vinzier 728
-Marches 696
-Courchevel 1700
-Ourches 230
-Arches 183
-Cesarches 388
+Allieres-et-Risset 6815
 
-Albertville 19113
-Villes 305
+Claix 8127
+
+Le Pont-de-Claix 11963
+
+Pont-de-Cheruy 4609
+Saint-Ondras 539
+Nuelles 537
+Panossas 537
+Payzac 409
+Gervans 479
+
+Saint-Gervais-les-Bains 5882
+Les Contamines-Montjoie 1127
+
+Megeve 5129
+Megevette 400
+Limoise 206
+Coise 1018
+Roisey 716
+
+Pelussin 3441
+
+Roussillon 8082
+
+Le Peage-de-Roussillon 6869
+
+Salaise-sur-Sanne 3981
+Novalaise 1554
+Saint-Jean-sur-Veyle 1067
+Vauxrenard 297
+Grenay 1286
+
+Saint-Quentin-Fallavier 6302
+Aviernoz 750
+Liernolles 287
+Les Neyrolles 636
+Lescheraines 599
+Les Cheres 1133
+Saint-Paul-en-Chablais 1876
+
+Bons-en-Chablais 4408
+Brenthonne 742
+Saxel 382
+Machilly 953
+Saint-Barthelemy-de-Sechilienne 569
+Saint-Clement-les-Places 569
+Saint-Cergues 2783
+Veigy 3002
+
+Ville-la-Grand 7033
+
+Annemasse 28275
+Massongy 1273
+Aubenasson 34
+Mirabel-et-Blacons 861
+Mirabel-aux-Baronnies 1439
+Buis-les-Baronnies 2497
+Montbrun-les-Bains 458
 Mevouillon 218
 
-Trevoux 6957
-Contrevoz 472
-Contigny 573
-Pringy 2944
-Massingy 672
-Malicorne 824
-Cornas 2222
+La Fouillouse 4335
+Valouse 40
+Pugny-Chatenod 771
+Saint-Haon-le-Chatel 568
+Pralong 686
+Denice 1355
+Auriples 221
+Auris 232
+Polminhac 1182
+Chaspinhac 572
+Saint-Etienne-de-Carlat 115
+Saint-Etienne-du-Vigan 115
+Saint-Etienne-du-Bois 2257
+Marboz 2382
+Beaupont 536
+Domsure 440
+Coligny 1202
+Polignac 2761
 
-Saint-Peray 6922
+Espaly-Saint-Marcel 3971
+Marigny-Saint-Marcel 697
+Challex 1158
+Challonges 373
+Longes 806
+Cholonge 245
+Saint-Avit 258
+Saint-Amandin 247
+Saint-Amant-Tallende 1781
+Tallende 1223
+Salledes 480
 
-Guilherand-Granges 11365
-Doranges 150
-Dorat 608
-Orleat 1814
-Arlet 21
-Monlet 398
-Pranles 429
-Saint-Thurin 217
-Montoison 1572
-Montbrison-sur-Lez 333
-Brison-Saint-Innocent 2023
-Mognard 320
-Samognat 460
-Vandeins 557
-Condeissiat 683
-Corveissiat 517
-Laveissiere 598
-Laveissenet 106
-Claveisolles 588
-Molieres-Glandaz 119
-
-Die 4924
-La Chaudiere 18
-Rochebaudin 120
-Rochechinard 120
-Rochefourchat 1
-Le Poet-en-Percip 18
-Le Poet-Celard 153
-Verclause 90
-Bloye 471
-Loyettes 2541
-Doyet 1190
-
-Commentry 7461
-Commelle 2868
-
-Villerest 4397
-Lentilleres 183
-Apchat 216
-Apchon 242
-Teissieres-de-Cornet 175
-Albepierre-Bredons 242
-Epierre 623
-Garnerans 623
-Marnans 131
-Marnand 605
-Ternand 723
-Le Bois-d'Oingt 2161
-Saint-Laurent-d'Oingt 773
-Saint-Laurent-de-Chamousset 1905
-Saint-Pierre-de-Cherennes 389
-Bonnefamille 1052
-Bonnac 159
-Jas 180
+Vic-le-Comte 4590
+Busseol 198
+Orcet 2802
+Lagorce 740
+Ruoms 2241
+Sampzon 191
+Laurac-en-Vivarais 864
+Saint-Andre-en-Vivarais 247
+Mazaye 618
 Jasseron 1374
 Attignat-Oncin 521
-Saint-Ignat 684
-Saint-Igny-de-Vers 590
-Vers 583
-Luriecq 774
-Sainte-Anne-sur-Gervonde 434
-Montclar-sur-Gervanne 166
-Beaufort-sur-Gervanne 332
-Ayat-sur-Sioule 132
-Saint-Gal-sur-Sioule 129
-Saint-Simon 1037
-Saint-Simeon-de-Bressieux 2773
-Brezins 1441
-Brezons 212
-Chambezon 97
-Auzon 876
+Corbonod 977
+Quincie-en-Beaujolais 1202
+Peillonnex 1202
+Saint-Germain-Lespinasse 1147
+Saint-Germain-Lembron 1706
+Le Breuil-sur-Couze 1020
 Auzat-la-Combelle 2036
 Thelis-la-Combe 148
 Mijoux 341
-Joux 637
-Affoux 260
-Saint-Marcel-l'Eclaire 549
 
-Tarare 10806
-Tartaras 681
-Artas 1446
-Saint-Paul-de-Tartas 258
-Saint-Georges-d'Hurtieres 228
-Saint-Vincent-de-Durfort 228
-Saint-Vincent 961
-Saint-Vincent-de-Salers 87
-Montrevel 374
-Montaimont 149
-Presilly 687
-Sillans 1528
-Saint-Etienne-de-Saint-Geoirs 2437
-Saint-Geoirs 465
-Saint-Georges-Lagricol 465
-Saint-Georges-sur-Allier 1038
-Saint-Georges-de-Commiers 1996
-Saint-Georges-de-Baroille 287
-Riverie 287
-Saint-Didier-sous-Riverie 1214
-
-Rive-de-Gier 14852
-
-Rives 6067
-Saint-Honore 848
-Saint-Herent 121
-
-Saint-Heand 3781
-
-Saint-Jean-Bonnefonds 6076
-
-La Talaudiere 6791
-
-Sorbiers 7549
-L'Etrat 2642
-Letra 758
-Saint-Julien-Molin-Molette 1152
-Saint-Julien-Molhesabate 205
-Cunlhat 1418
-Montreal 496
-
-Montreal-la-Cluse 3997
-Port 896
-Dortan 2398
-
-Arbent 3986
-Barberier 120
-Azolette 122
-Berzeme 122
-Tourzel 191
-Courzieu 1205
-Brussieu 969
-Montrottier 1479
-Mottier 615
-
-Jassans-Riottier 5839
-Saint-Hilaire-de-la-Cote 1221
-
-Saint-Andre-de-Corcy 3373
-Monthieux 635
-Thil 1036
-Anthon 993
-
-Thones 6032
-Les Villards-sur-Thones 994
-Villaz 2259
-Ville-en-Sallaz 745
-
-Viuz-en-Sallaz 3749
-Viuz-la-Chiesaz 1208
-Lochieu 79
-Chamaloc 107
-Peslieres 57
-Pereyres 57
-Moudeyres 109
-Ponet-et-Saint-Auban 97
-Auberives-en-Royans 355
-Oriol-en-Royans 479
-Granier 330
-Balbins 404
-Cuinzier 574
-Minzier 551
-Allonzier-la-Caille 1188
-
-Cruseilles 3757
-Creysseilles 115
-Saint-Caprais 96
-Chaley 115
-Les Halles 356
-Gruffy 1365
-Ruffieu 206
-Ruffieux 770
-Barcelonne 399
-Pelonne 18
-Sahune 302
-Remuzat 302
-Montreal-les-Sources 25
-Salles-sous-Bois 205
-Solignac-sous-Roche 205
-Taulignan 1685
-Chantemerle-les-Grignan 187
-Chamaret 527
-La Baume-de-Transit 830
-La Baume 253
-Oz 198
-Laps 517
-Janneyrias 1254
-
-Anneyron 3697
-Laveyron 937
-Claveyson 750
-Reugny 275
-Montbeugny 604
-Pougny 727
-Villarodin 545
-Villargondran 1030
-Verel-Pragondran 443
-Ludesse 365
-Issarles 172
-Saint-Gerand-de-Vaux 475
-Saint-Gerand-le-Puy 1042
-Magnet 708
-Le Mayet-de-Montagne 1457
-Arronnes 336
-Busset 878
-
-Cusset 14562
-Cesset 358
-Montord 239
-Montoldre 617
-
-Veyre-Monton 3608
-Orcet 2802
-
-Orcines 3255
-Saint-Bonnet-pres-Orcival 431
-Rochefort-Montagne 890
-Laqueuille 406
-Gelles 1032
-Les Salelles 221
-Les Salles 435
-Champoly 263
-Saint-Just-en-Chevalet 1347
-Arconsat 663
-Chabreloche 1312
-Chabrillan 655
-Saint-Michel-de-Chabrillanoux 283
-Bassy 411
-Pontgibaud 879
-Lamontgie 516
-Songieu 136
-Jongieux 250
-
-Gieres 6299
-
-Saint-Martin-d'Heres 35528
-
-Saint-Martin-le-Vinoux 5589
-
-Montbonnot-Saint-Martin 4632
-
-Villard-Bonnot 7400
-
-Le Versoud 4092
-Le Vernet 41
-Le Vernet-Sainte-Marguerite 275
-Sainte-Marguerite 40
-Ambel 23
-Ambleon 93
-Herisson 722
-Usson 206
-Laussonne 1042
-Aussois 686
-Bramans 400
-Faramans 800
-Tramole 509
-Tramoyes 1663
-La Boisse 2958
-La Buissiere 613
-Bussieres-et-Pruns 125
-Le Trioulou 100
-Triors 474
-Massignieu-de-Rives 545
-Nassigny 177
-Sauvagny 100
-Trades 100
-Nades 137
-Pierrelongue 137
-
-Pierrelatte 12691
-
-Bourg-Saint-Andeol 8301
-
-Donzere 4700
-Auzers 222
-Sainte-Reine 141
-Saint-Restitut 1332
-Saint-Sauveur-de-Montagut 1332
-Saint-Sauveur 1819
-Saint-Sauveur-la-Sagne 118
-Saint-Polgues 197
-Saint-Pons 220
-Saint-Fargeol 220
-Le Fau 39
-Gumieres 271
-Gumiane 37
-Saint-Victor-Montvianeix 288
-Pouzol 208
-Couzon 302
-Montlaur-en-Diois 123
-Montmaur-en-Diois 83
-Dingy-Saint-Clair 1014
-Montgellafrey 83
-Freycenet-la-Tour 156
-Neuilly-en-Donjon 233
-Verneuil-en-Bourbonnais 293
-Vesc 293
-Vescours 194
-Beauvoisin 99
-Beauvene 236
-La Seauve-sur-Semene 1153
-Chene-en-Semine 282
-Tournemire 144
-Tournon 430
-
-Tournon-sur-Rhone 10571
-Serves-sur-Rhone 582
-Erome 736
-Drom 164
-Villereversure 1306
-Neuville-sur-Ain 1369
-Pont-d'Ain 2867
-Druillat 957
-Saint-Martin-du-Mont 1433
-Saint-Martin-du-Frene 1149
-Poule-les-Echarmeaux 896
-Leschaux 285
-Cerdon 734
-Chandon 1413
-Certines 1413
-Essertines-en-Chatelneuf 608
-Chateldon 775
-Ris 719
-Auris 232
-Polminhac 1182
-Ladinhac 464
-Leynhac 389
-Junhac 341
-Les Ollieres-sur-Eyrieux 844
-Duniere-sur-Eyrieux 341
-Rompon 909
-
-Livron-sur-Drome 8440
-
-Loriol-sur-Drome 5803
-Cliousclat 688
-Montusclat 122
-Saint-Pierre-Eynac 895
-Malrevers 718
-Rosieres 1376
-Echassieres 381
-Durmignat 199
-Termignon 461
-Tignes 2385
-Val-d'Isere 1632
-
-L'Isle-d'Abeau 12033
-
-Bourgoin-Jallieu 23517
-Montvendre 914
-Nivolas-Vermelle 1967
-
-Avermes 3833
-Salins-les-Thermes 1031
-
-Moutiers 4936
-Saint-Julien-Boutieres 225
-Saint-Alban-en-Montagne 75
-Youx 1040
-Vieux Pellafol 151
-Vieu 340
-Aviernoz 750
-Saint-Pierre-de-Curtille 419
-Saint-Pierre-de-Belleville 133
-Planzolles 126
-Urcay 310
-Courcais 315
-Saint-Trivier-de-Courtes 1025
-Saint-Trivier-sur-Moignans 1683
-Relevant 403
-Vaudevant 207
-Bellevaux 1273
-
-Allevard 3783
-Malleval-en-Vercors 34
-Vallorcine 432
-Le Roux 34
-Le Rouget 912
-Sugeres 536
-Laroquebrou 1091
-Siran 536
-Tiranges 428
-La Chapelle-du-Bard 457
-Andert-et-Condon 301
-Chirols 274
-Saulzet-le-Froid 242
-La Chambonie 46
-Sembadel 267
-Beausemblant 1246
-Blandin 133
-Sainte-Blandine 836
-Saint-Rirand 112
-Saint-Babel 836
-Saint-Basile 296
-Vatilieu 365
-Fitilieu 1390
-Bilieu 1066
-Billieme 295
-Dieme 117
-Anterrieux 131
-Perreux 2444
+Gex 9177
+Cessy 2513
+Fessy 653
+Murol 585
+Escurolles 684
+Jenzat 466
+Le Brugeron 265
+Le Brignon 569
+Cleon-d'Andran 892
+Sandrans 452
+Velanne 452
+Saint-Melany 124
+Saint-Cyr-le-Chatoux 124
+Saint-Cyr-de-Favieres 800
 
 Roanne 39840
 
 Riorges 10763
 
 Mably 7830
-Blyes 767
-Crevant-Laveine 881
-Chozeau 881
-Izeaux 1954
-Chazeaux 109
-Cellier-du-Luc 109
-Veyrier-du-Lac 2305
-Menthon-Saint-Bernard 1864
-Saint-Bernard 512
-Sinard 630
-Vovray-en-Bornes 306
-Villarlurin 306
-
-Villars 8709
-La Chapelle-Villars 334
-
-Condrieu 3615
-Les Roches-de-Condrieu 1968
-Les Cotes-d'Arey 1927
-Les Martres-d'Artiere 1953
-Vongnes 69
-Plan-de-Baix 141
-Parnans 506
-Mornans 63
-Chavornay 194
-Percy 122
-Mercy 296
-Unias 266
-Chavaniac-Lafayette 343
-Molinet 1178
-Chevaline 215
-Saint-Denis-de-Cabanne 1323
-
-Charlieu 3758
-Saint-Nizier-sous-Charlieu 1632
-Pouilly-sous-Charlieu 2782
-Saint-Hilaire-sous-Charlieu 409
-Nandax 644
+Perreux 2444
 Vougy 1574
-Vourey 1668
-Vourles 2906
+Briennon 1711
+Curienne 663
+Cobonne 138
+Premeyzel 266
+Saint-Remeze 589
+Saint-Remy-en-Rollat 1483
+Vendat 2121
+Condat 1143
+Egliseneuve-d'Entraigues 583
+La Godivelle 21
+Tanavelle 253
+Treffort 139
+Pierrefort 1014
+Theneuille 418
+Saint-Martin-de-la-Porte 687
+Saint-Jean-de-la-Porte 937
+Planaise 387
+Arbin 779
+Arbigny 370
+Aubigny 192
+Vivans 265
+Lorlanges 263
+Cervens 807
+Le Vigean 893
+Lavigerie 104
+Jarnosse 407
+Merindol-les-Oliviers 216
+Montreal-les-Sources 25
+Arpavon 64
+Eyroles 18
+Cayrols 229
+Madriat 123
+Chauriat 1458
+Bouzel 536
+Pont-Trambouze 513
+Mollans-sur-Ouveze 974
+Veze 101
+Vezels-Roussy 142
+Vieillespesse 254
 
-Charly 4038
-Praz-sur-Arly 1197
+Cruseilles 3757
+Allonzier-la-Caille 1188
+Minzier 551
+Cuinzier 574
+Escorailles 77
+Beny 677
+Volvent 28
 
-Megeve 5129
-Megevette 400
-Le Theil 403
-
-Le Teil 8620
-Alba-la-Romaine 1194
-Saint-Romain-la-Motte 1430
-Pouilly-les-Nonains 1656
-Renaison 2828
-Ballaison 1207
-Saint-Julien-Vocance 254
-Vocance 653
-Villevocance 1117
-Montvernier 151
-Montverdun 770
-Bogeve 921
-Cottance 559
-Bettant 750
-Betton-Bettonet 218
-Surjoux 74
-Torsiac 74
-Saint-Julien-des-Chazes 71
-Saint-Julien-de-Raz 480
-Saint-Alyre-es-Montagne 170
-Riom-es-Montagnes 2902
-Mayres-Savel 115
-Ayrens 531
-Badinieres 531
-Grenier 117
-Eyzahut 117
-Payzac 409
-Aizac 177
-Antraigues-sur-Volane 523
-Saint-Leger-sur-Vouzance 320
-Asperjoc 377
-Lesperon 289
-La Ferte-Hauterive 289
-La Ferriere 224
-La Flachere 421
-Saint-Vincent-de-Mercuze 1466
-Saint-Vincent-de-Barres 635
-Brangues 508
-Chateaudouble 508
-Saint-Benoit 635
-Saint-Benoit-en-Diois 42
-Marlens 775
-Marlhes 1462
-Riotord 1210
-Briord 747
-Serrieres-de-Briord 1143
-Cevins 747
-Evires 1304
-
-Viry 3365
-Valleiry 2421
-Mirmande 551
-Marmanhac 729
-Saint-Priest-la-Prugne 450
-Rochebrune 43
-Rocher 239
-La Burbanche 65
-La Bauche 239
-Villeperdrix 117
-Epersy 310
-Jarsy 263
-Jansac 219
-Bansat 212
-Brullioles 610
-Oulles 12
-
-Le Bourg-d'Oisans 3352
-Huez 1795
-OZ-Station 250
-Chanoz-Chatenay 542
-La Valla-en-Gier 845
-La Salle-en-Beaumont 261
-Beaumont-en-Diois 82
-Montaiguet-en-Forez 323
-Saint-Cirgues-en-Montagne 314
-Magnieu 321
-Fontaine-le-Puits 139
-Champagnat-le-Jeune 99
-Chastel-sur-Murat 99
-Chambeon 380
-Chamberat 321
-Chapeau 221
-Chichilianne 221
-Chidrac 393
-Drace 761
-Genouilleux 435
-Tremouille 204
-Badailhac 126
-Saint-Hilaire-Cusson-la-Valmitte 262
-Saint-Hilaire-la-Croix 246
-Chatelneuf 270
-Mont-Saxonnex 1296
-Saint-Saury 189
-Loisieux 145
-Loisin 1259
-
-Douvaine 4278
-Cuvat 856
-Saint-Marcel-de-Felines 708
-Saint-Martin-de-Bavel 366
-Saint-Germain-de-Joux 528
-Sainte-Foy-Saint-Sulpice 366
-Saint-Sulpice 720
-Vimines 1611
-Chimilin 1287
-Aoste 1958
-Saint-Genix-sur-Guiers 1958
-Saint-Christophe-sur-Guiers 782
-Entre-Deux-Guiers 1612
-Entremont-le-Vieux 561
-Apremont 944
-Saint-Baldoph 3093
-
-La Ravoire 6768
-
-Bassens 4012
-
-La Motte-Servolex 13499
-Voglans 1555
-Vogue 765
-Virargues 143
-Senezergues 237
+Volvic 4456
+Malauzat 943
+Malarce 246
+Arcens 482
+Marcenat 629
+Sarcenas 152
+Sarcey 839
+Bully 1906
+Savigny 2025
+Eveux 853
+Lozanne 2275
+Ozan 517
+Grignan 1443
+Proveysieux 517
+Saint-Yorre 2896
+Gorrevod 592
+Reyssouze 777
+Cras-sur-Reyssouze 999
+Puy-Guillaume 2754
+Lafeuillade-en-Vezie 544
 Montsalvy 903
-Saint-Mamet-la-Salvetat 1354
-Saint-Bonnet-de-Salers 331
+Montselgues 82
+Montseveroux 846
+Cusy 1402
+Alleves 290
+Arith 366
+La Motte-en-Bauges 420
+Doucy-en-Bauges 80
+Eygalayes 80
+Trelins 549
+Allondaz 194
+Pallud 652
+
+Albertville 19113
+Cesarches 388
+Arches 183
+Saint-Sorlin-de-Vienne 771
+Orbeil 746
+Javaugues 191
+
+Vaugneray 4443
+Garnerans 623
+Champ-Laurent 22
+Aiton 1260
+Saint-Vital 634
+Notre-Dame-des-Millieres 878
+Mercury 2562
+Saint-Vincent-de-Mercuze 1466
+Goncelin 2084
+Leoncel 58
+Cronce 105
+Conand 105
+Marnand 605
+Marnans 131
+Parnans 506
+Journans 367
+Saligny-sur-Roudon 809
+Jaligny-sur-Besbre 709
+Saint-Pantaleon-les-Vignes 331
 Saint-Jacques-des-Blats 331
 Saint-Jacques-des-Arrets 123
-Saint-Arcons-de-Barges 128
-Arcon 109
-Ambonil 109
-Allex 2245
-Alex 874
-Magneux-Haute-Rive 306
-Haute-Rivoire 1244
-Mauzun 67
-Ayn 299
-Roynac 444
-Roybon 1364
-Montfalcon 110
-Louchy-Montfand 431
-Manglieu 431
-Connangles 135
-Anglefort 844
-Serrieres-en-Chautagne 931
-Culoz 2893
-Culin 613
-Mareugheol 175
-Brugheas 1271
-Lapeyrugue 129
-Montsapey 58
-La Batie-des-Fonds 11
-La Batie-Rolland 867
-La Batie-Divisin 866
-Saint-Sulpice-des-Rivoires 443
-Jenzat 466
-Biozat 685
-Le Biot 377
-La Biolle 1896
-Apprieu 2854
-Saint-Felix 1782
-Saint-Felicien 1253
-Geyssans 520
-Lamastre 2670
-Saint-Martin-de-Valamas 1377
-Saint-Martin-de-Clelles 128
-Saint-Martin-Lestra 834
-Saint-Martin-d'Estreaux 902
-La Pacaudiere 1199
-La Renaudie 166
-Oncieu 84
-Virignin 730
-Pollieu 133
-Pollionnay 1670
-Sainte-Consorce 1794
-Saint-Constant 603
-Tarentaise 417
-Saint-Bon-Tarentaise 1992
-Bozel 2028
-Boz 391
-Marboz 2382
-Arbigny 370
-Urbise 128
-Sceautres 108
-Sollieres-Sardieres 174
-Vallieres 1378
+Saint-Jacques-d'Ambur 312
+Cruet 1057
+Rochepaule 312
+Magnieu 321
+Fontaine-le-Puits 139
+Saint-Cirgues-en-Montagne 314
+Chaneac 286
+Chaneins 614
+Montmelas-Saint-Sorlin 393
+Montmeyran 2849
+Montmarault 1701
+Sazeret 157
+Azerat 294
+
+Domerat 9015
+Premilhat 2125
+Meaudre 1200
+Chateaudouble 508
+Creys-Mepieu 1180
+Creysseilles 115
+Freyssenet 51
+Flaxieu 51
+Vielprat 65
+Besignan 73
+
+Pusignan 3259
+
+Jonage 5750
+Thil 1036
+Jons 1235
+Balan 2610
+Anthon 993
+Sonthonnax-la-Montagne 315
+Saint-Laurent-Rochefort 256
+Chaptuzat 384
+Chevrier 339
+Chevrieres 862
+Larajasse 1572
+Savasse 1180
+Savas 736
+Peaugres 1785
+Saint-Desirat 722
+Saint-Desire 461
+Saint-Andeol-de-Vals 461
+Ville-sur-Jarnioux 686
+Jarnioux 580
+Vertrieu 509
+Tramole 509
+Tramoyes 1663
+Moye 1022
 Hauteville-sur-Fier 821
 
 Hauteville-Lompnes 4096
-Lompnas 175
-Dompnac 87
-Lompnieu 96
-Grezieu-le-Marche 805
-Grezieux-le-Fromental 109
-Saint-Front 535
-Saint-Geron 188
-Saint-Jean-Saint-Gervais 91
-Les Sauvages 617
-Perigneux 1250
-Saint-Romain-en-Jarez 945
-Saint-Romain-en-Gier 540
-Maclas 1326
-Belmont 437
-Les Eparres 932
-Les Echelles 1345
-Miribel-les-Echelles 1849
-Merlas 436
-Saint-Nicolas-de-Macherin 851
-Saint-Nicolas-des-Biefs 164
-Saint-Hilaire-de-Brens 445
-Brens 805
+Neuville-les-Dames 1365
+Viplaix 300
+Plaisians 185
+Saint-Plaisir 458
+La Table 271
+Establet 22
+La Charce 52
+La Chaudiere 18
+Rochefourchat 1
+Rochebaudin 120
+Rochechinard 120
 
-Belley 9145
-Yenne 2816
-La Chapelle-Saint-Martin 91
-La Chapelle-Bertin 76
-Lacapelle-Barres 54
-Lacapelle-Viescamp 439
-Valsonne 762
-Saint-Clement-sur-Valsonne 576
-Pontcharra-sur-Turdine 2274
-Montcarra 379
-Picherande 379
-Arandon 440
-Creys-Mepieu 1180
+Dieulefit 3214
+Tersanne 205
+Marsanne 1064
+Roynac 444
+Saou 513
+Le Poet-en-Percip 18
+Epercieux-Saint-Paul 554
+Saint-Paul-sur-Isere 617
+Pougny 727
+Villarodin 545
+Villargondran 1030
+Luneau 288
+Saint-Jean-le-Centenier 609
+Desaignes 1139
+Saignes 903
+Riom-es-Montagnes 2902
+Saint-Alyre-es-Montagne 170
+Tortezais 150
+Tortebesse 68
+Vercoiran 121
+Grammond 759
+Allemond 827
+OZ-Station 250
+Huez 1795
 
-Cremieu 3427
-Saint-Romain-de-Jalionas 2964
-Annoisin 630
-Siccieu 538
-Porcieu 1420
-Sault-Brenaz 1058
-Souclin 243
-Coucouron 747
-Courtenay 799
-Jax 141
-Lenax 298
-Le Donjon 1191
-Barrais-Bussolles 208
-Bressolles 991
-Besson 788
-Bresnay 383
-Bren 503
-Brenat 491
-Menat 645
-Joannas 328
-Vagnas 455
-Chevagnes 734
-Lovagny 1011
-Leyment 1011
-Eymeux 615
-Perrignier 1504
+Le Bourg-d'Oisans 3352
+Oulles 12
+Livet-et-Gavet 1478
+Cour-et-Buis 779
+La Tour-en-Jarez 1187
+La Muraz 776
 
-Marignier 5883
-Marigny-Saint-Marcel 697
-
-Espaly-Saint-Marcel 3971
-Polignac 2761
-Saint-Christophe-sur-Dolaison 956
-Bains 1256
+La Mure 5190
+Monestier-de-Clermont 997
+Le Gua 1839
+Le Grand-Serre 821
+Lens-Lestang 716
+Estandeuil 285
+Echandelys 235
+Chandolas 365
+Lupe 303
+Manthes 614
+Saint-Jean-Roure 215
+Roumegoux 215
+Le Falgoux 194
+Le Fau 39
+Marlioz 489
+Marlhes 1462
+Riotord 1210
+Saint-Sauveur-en-Rue 1197
+Saint-Sauveur-en-Diois 56
+Montendry 45
+Deux-Verges 60
 Vergezac 425
 Seneujols 275
 Valuejols 538
-Trept 1670
-Moras 452
-Thoras 286
-Issamoulenc 102
-Samoens 2581
+Annoisin 630
+Saint-Baudille-de-la-Tour 612
+Saint-Bauzile 192
+Saint-Sebastien 192
+Saint-Sauveur-la-Sagne 118
+Saint-Polgues 197
+Cleyzieu 128
 
-Chamonix-Mont-Blanc 10614
-Servoz 904
-Domancy 1904
-Amancy 1949
+Meyzieu 28929
+
+Feyzin 9539
+Eyzin-Pinet 2087
+Olby 576
+Beauvoir-de-Marc 1028
+Charantonnay 1883
+Frontonas 1852
+
+L'Isle-d'Abeau 12033
+Villefranche-d'Allier 1319
+Villefranche-le-Chateau 22
+Marmanhac 729
+Mirmande 551
+Frangy 1779
+Langy 225
+Nangy 866
+Pajay 866
+Pers-Jussy 2386
 Etaux 1212
 La Chapelle-Rambaud 195
-La Chamba 60
-Sainte-Paule 259
-Javaugues 191
-Saugues 2250
-Germagnat 99
-Saint-Germain-l'Herm 508
+Evires 1304
+Peschadoires 2060
+Leschaux 285
+Couzon 302
+Couzon-au-Mont-d'Or 2545
 
-Tain-l'Hermitage 5923
-Crozes-Hermitage 452
-Noyant-d'Allier 690
-Bourdeaux 601
-Bourdeau 495
-
-Le Bourget-du-Lac 4263
-Sainte-Helene-du-Lac 648
-Planaise 387
-Saint-Jodard 648
-
-Saint-Jorioz 5571
-
-Sevrier 4014
-
-Cran-Gevrier 19354
-
-Meythet 8538
-Metz 2229
-Olmet 142
-Marat 897
-Vertolaye 652
-Durtol 2127
-Nohanent 1868
-Cohade 739
-Bournoncle-Saint-Pierre 1016
-Saint-Pierre-la-Bourlhonne 170
-Tortezais 150
-La Morte 142
-La Monselie 115
-
-Anse 5099
-Pommiers 1934
-Pommiers-la-Placette 632
-Macot-la-Plagne 1696
-Belle-Plagne 1100
-
-Aime 3507
-Gimeaux 342
-Cremeaux 924
-Jumeaux 705
-Jarcieu 884
-Orcinas 30
-Thiolieres 149
-
-Thiers 13739
-La Bathie 2215
-Esserts-Blay 714
-Essert-Romand 390
-Coutansouze 110
-Reyssouze 777
-Cras-sur-Reyssouze 999
-Chavannes-sur-Reyssouze 639
-Chanay 625
-Marsac-en-Livradois 1429
-Doissin 666
-Deneuille-les-Mines 363
-Valencogne 499
-Pralognan-la-Vanoise 815
-Pralong 686
-Denice 1355
-
-Saint-Denis-les-Bourg 4917
-
-Bourg-en-Bresse 45340
-Montrevel-en-Bresse 2202
-Etrez 699
-Detrier 309
-Scientrier 719
-
-Sciez 4898
-Margencel 1682
-Araches-la-Frasse 1879
-Chainaz-les-Frasses 578
-Ferrassieres 123
-La Terrasse 2159
-
-La Tronche 7125
-
-Corenc 4217
-
-Meylan 20267
-Saint-Jean-sur-Veyle 1067
-Saint-Jean-de-Soudain 1068
-Dommartin 654
-Domarin 1557
-Domaize 339
-Chevrier 339
-Chevrieres 862
-La Gimond 220
-
-La Grand-Croix 5045
-Cellieu 1513
-Chagnon 418
-Champdieu 1513
-Champdor 467
-Crachier 467
-
-Barby 3360
-Barnas 215
-Dornas 275
-Naves 113
-Bellenaves 1027
-Saint-Bonnet-de-Rochefort 666
-Saint-Laurent-Rochefort 256
-Chaptuzat 384
-Lapte 1330
-
-Sainte-Sigolene 5734
-Saint-Sigismond 644
-Saint-Paul-des-Landes 1124
-Cellule 702
-Julienas 843
-Cogny 1004
-Cognet 38
-Ceignes 283
-Les Clefs 515
-Clery 247
-Chavannaz 150
-Menthonnex-en-Bornes 665
-Menthonnex-sous-Clermont 557
-Versonnex 1992
-Thusy 859
-Arthun 475
-Marthod 1393
-Thodure 643
-Sardieu 655
-Jardin 2019
-Colombier-le-Cardinal 257
-Colombier-le-Jeune 535
-Rochecolombe 180
-Saint-Sernin 1224
-Bernin 3129
-Vernines 371
-Cayres 644
-Intres 131
-Bellentre 857
-Davayat 535
-Jayat 839
-Saint-Bonnet-de-Condat 181
-Chevry 1126
-Chevroux 721
-Marcilloles 841
-Marcillat 214
-Saint-Marcel-en-Marcillat 139
-Saint-Marcel-en-Murat 158
-Saint-Priest-en-Murat 233
-Saint-Priest-des-Champs 710
-Sauret-Besserve 200
-Labesserette 263
-Gourdieges 53
-Grieges 1785
-Emeringes 229
-Villie-Morgon 1748
-Durette 978
-Chassagny 1122
-Chassagnes 136
-Lelex 244
-Saint-Andeol-de-Fourchades 95
-Saint-Andeol-de-Vals 461
-Saint-Andre-de-Boege 569
-Boege 1574
-Burdignin 660
-Burdignes 345
-Bourg-Argental 2835
-Argentine 831
-Vassieux-en-Vercors 309
-Virieu-le-Petit 308
-La Petite-Marche 218
-Le Claux 218
-Le Chambon 55
-Cerilly 1597
-Morillon 546
-Grilly 675
-Saint-Paul-le-Jeune 801
-Aillon-le-Jeune 364
-Ecole 260
-Ecoche 419
-Grandval 101
-Grammond 759
-
-Saint-Chamond 38014
-
-Saint-Chef 3265
-
-Ruy 4090
-
-Pont-de-Cheruy 4609
-Pont-de-Barret 491
-Cisternes-la-Foret 475
-Feternes 1269
-Bernex 947
-Thollon-les-Memises 713
-Aillon-le-Vieux 181
-Bogy 285
-Changy 594
-Frugieres-le-Pin 128
-Pugieu 141
-
-Ugine 7703
-Engins 452
-Charmeil 636
-Vernioz 1075
-Lus-la-Croix-Haute 463
-Villebois 1078
-Villebret 1044
-Verrens 632
-La Trinite 240
-La Trancliere 326
-Franclens 362
-Argis 435
-Eydoche 362
-Mollans-sur-Ouveze 974
-Pont-Trambouze 513
-Varambon 427
-Etable 329
-Etables 582
-Noiretable 1747
-La Cote-en-Couzan 85
-
-La Cote-Saint-Andre 4555
-Gillonnay 1024
-Jarnioux 580
-Ville-sur-Jarnioux 686
-Reyvroz 461
-Leyvaux 37
-Vaux-en-Bugey 1105
-Cessy 2513
-Chessy 1510
-Fessy 653
-Murol 585
-Escurolles 684
-Anglards-de-Saint-Flour 286
-Anglards-de-Salers 764
-Saint-Alban-des-Villards 63
-Segur-les-Villas 271
-Sussat 105
-Augnat 149
-
-Vaugneray 4443
-Valvigneres 401
-Optevoz 579
-Sievoz 134
-Usclades-et-Rieutord 107
-Girgols 72
-Dargoire 412
-Gignat 238
-Cubelles 131
-Clelles 405
-Rocles 377
-Charnecles 1476
-Reaumont 848
-Chaumont 422
-Pontaumur 922
-Chalmazel 473
-Chazelles 45
-Chaudebonne 67
-Pailhares 303
-Villard-Saint-Christophe 295
-Thel 295
-La Chapelle-Agnon 439
-Amberieux 453
-Villarembert 261
-Villaroger 401
-Lavillatte 90
-Maillat 639
-Villard-Leger 411
-Lanslevillard 464
-
-Villard-de-Lans 4287
-Rencurel 325
-Curienne 663
-Cobonne 138
-Saint-Poncy 343
-
-Saint-Laurent-du-Pont 4585
-Saint-Laurent-du-Pape 1368
-Le Veurdre 620
-Eveux 853
-Sourcieux-les-Mines 1866
-Montcombroux-les-Mines 439
-Rochetaillee-sur-Saone 1194
-Saint-Apollinaire-de-Rias 125
-Saint-Appolinard 537
-Saint-Marcel-les-Annonay 1231
-Boulieu-les-Annonay 2222
-
-Annonay 18423
-Vernosc-les-Annonay 1779
-Quintenas 1339
-Quintal 983
-Doizieux 662
-Haut Divajeu 662
-Pont-Salomon 1725
-Clerlande 319
-Arlanc 1895
-Eglisolles 246
-Soleymieux 479
-Saint-Jean-Soleymieux 738
-Heume-l'Eglise 122
-Egliseneuve-d'Entraigues 583
-La Godivelle 21
-La Goutelle 612
-Chanat-la-Mouteyre 938
+Champagne-au-Mont-d'Or 5681
+Champagnac 1201
+Antignac 294
+Chalvignac 500
+Sulignat 533
+Ydes 1980
+Madic 249
+Champs-sur-Tarentaine-Marchal 1061
+Lanobre 1443
+La Bourboule 2162
+Mont-Dore 1787
+Aydat 1714
 Chantemerle-les-Bles 938
-
-Volvic 4456
-Volvent 28
-Saint-Symphorien-de-Mahun 136
-Saint-Symphorien-de-Lay 1449
-Neulise 1177
-Saint-Cyr-de-Favieres 800
-Saint-Sauveur-de-Cruzieres 521
-Saint-Andre-de-Cruzieres 519
-Saint-Andre-de-Bage 560
-Saint-Andre-de-Chalencon 342
-Jeansagniere 106
-Le Brignon 569
-Cleon-d'Andran 892
-Collandres 226
-Collat 86
-Biollet 378
-Biol 1343
-Saint-Agnin-sur-Bion 735
-Agnin 855
-Bouge-Chambalud 992
-Epinouze 1173
-Saint-Uze 1696
-Saint-Urcize 531
-Saint-Gervazy 270
-Arras-sur-Rhone 466
-Saint-Germain-sur-Rhone 335
-Saint-Germain-sur-Renon 237
-Saint-Andre-le-Bouchoux 284
-Saint-Andre-sur-Vieux-Jonc 1059
-Dompierre-sur-Veyle 1058
-Estivareilles 1058
-Chenereilles 317
-Montarcher 75
-Pourcheres 128
-Benivay-Ollon 61
-Sain-Bel 2022
-Berbezit 61
-Corbelin 1912
-Curtin 1644
-Curtafond 648
-Curnier 214
-Sourniac 180
-Sauvagnat-Sainte-Marthe 180
-
-Issoire 15984
-Bresson 808
-
-Eybens 10195
-Beny 677
-Vercheny 426
-Verchaix 616
-Meaulne 781
-
-Aulnat 4662
-
-Pont-du-Chateau 9474
-Chateaugay 3138
-Villefranche-le-Chateau 22
-Villefranche-d'Allier 1319
-
-Villefranche-sur-Saone 32994
-Montmerle-sur-Saone 3104
-Montmelas-Saint-Sorlin 393
-Saint-Melany 124
-Saint-May 43
 
 Divonne-les-Bains 6775
 Sauverny 1105
+Vaux-en-Bugey 1105
+Thoissey 1493
+
+Thoiry 4433
+Sergy 1366
+
+Saint-Genis-Pouilly 7428
 Segny 1493
-Echenevex 1321
-Excenevex 760
-
-Gex 9177
-Ontex 59
-Target 250
-Montguers 59
-Montselgues 82
-Montseveroux 846
-Monsteroux-Milieu 559
-Cour-et-Buis 779
-Eyzin-Pinet 2087
-Luzinay 2139
-
-Feyzin 9539
-
-Meyzieu 28929
-Cleyzieu 128
-Uzer 364
-Suze 238
-Saint-Pierre-de-Colombier 405
-Naves-Parmelan 966
-Lignerolles 584
-Myans 966
-Soyans 319
-Vanzy 264
-Vernas 186
-Brageac 66
-
-Langeac 3997
-Salzuit 358
-La Chomette 141
-Chomelix 512
-Chomerac 2696
-Saint-Symphorien-sous-Chomerac 733
-Le Pouzin 2849
-Le Pin 1202
-Le Passage 698
-Saint-Andre-le-Gaz 2284
-Saint-Andre-le-Coq 495
-Saint-Clement-de-Regnat 463
-Saint-Clement-les-Places 569
-Saint-Martin-des-Plains 137
-Bourg-Lastic 930
-Lastic 117
-Astet 54
-Verel-de-Montbel 246
-Moretel-de-Mailles 332
-Chatel-de-Neuvre 518
-Colomieu 119
-Dolomieu 2582
-Deux-Chaises 430
-La Chapelle-Blanche 480
-Espirat 259
-Espinasse 295
-Espinasse-Vozelle 818
-Cognat-Lyonne 552
-
-Gannat 6096
-Effiat 795
-Roffiac 574
-Rouffiac 240
-Sainte-Therence 190
-Le Mas-de-Tence 157
-Tence 3048
-Tencin 1165
-Thiel-sur-Acolin 942
-Saint-Michel-sur-Savasse 437
-Bertignat 520
-Saint-Myon 391
-
-Nyons 7330
-Arnayon 37
-Establet 22
-La Charce 52
-Saint-Hippolyte 123
-Sainte-Luce 25
-Hauteluce 859
-Beaufort 2170
-Chapdes-Beaufort 1008
-Les Ancizes 1819
-Les Adrets 689
-Malafretaz 735
-Laffrey 337
-Baffie 107
-Saint-Bonnet-des-Bruyeres 410
-Saint-Bonnet-le-Froid 228
-Cholonge 245
-Longechenal 449
-Chenas 473
-Venas 248
-Avenas 115
-Bevenais 798
-Sainte-Colombe-sur-Gand 426
-Croizet-sur-Gand 231
-Boisset-les-Montrond 841
-Chanaleilles 245
-Feillens 3015
-Manziat 1759
-Replonges 3128
-Crottet 1629
-Saint-Nizier-du-Moucherotte 871
-Noyarey 2365
-Beauvoir-en-Royans 76
-Genestelle 281
-Teyssieres 71
-Veyssilieu 258
-Cheyssieu 800
-Mesples 129
-Esplantas 99
-Plancherine 364
-Hotonnes 309
-Bonneguete 182
-Le Pegue 380
-Blavozy 1411
-Menglon 380
-Perouges 1208
-Feissons-sur-Salins 175
-Salins 156
-
-Tullins 7689
-
-Renage 3593
-Beaucroissant 1348
-Voissant 225
-Les Pres 26
-Les Pilles 241
-Allegre 1070
-Rognaix 407
-
-Froges 3522
-Le Champ-pres-Froges 1242
-Lumbin 1705
-Flumet 827
-Manigod 866
-Saint-Benigne 910
-Lesches-en-Diois 35
-Chatillon-en-Diois 588
-Rimon 31
-Limony 640
-Saint-Pierre-de-Boeuf 1326
-
-Saint-Pierre-de-Chandieu 4357
-Diemoz 2418
-Septeme 1718
-Beauvoir-de-Marc 1028
-Pommier-de-Beaurepaire 632
-
-Beaurepaire 4213
-Lapeyrouse-Mornay 858
-Moissieu-sur-Dolon 654
-Primarette 675
-Saint-Prim 946
-Saint-Prix 821
-Saint-Priest-Bramefant 696
-Pulverieres 323
-Varennes-sur-Teche 263
-Marclopt 364
-Marcy 611
-Malarce 246
-Devesset 286
-Chaneac 286
-Compains 173
-Machezal 364
-Chezy 222
-Chezery 407
-Pisieu 503
-Genissieux 1958
-Genissiat 929
-Loudes 852
-Copponex 696
-Ponsas 493
-Chaveyriat 891
-Lalleyriat 212
-Moriat 357
-Madriat 123
-Madic 249
-Pradines 624
-Montregard 624
-Beauregard 909
-Bellegarde-Poussieu 902
-Chareil-Cintrat 330
-Charentay 1122
-Champs-sur-Tarentaine-Marchal 1061
-Lanobre 1443
-Vinsobres 1070
-Pinsot 150
-Ornon 150
-Vernoux 140
-Brossainc 172
-Truinas 118
-Cheminas 250
-Saint-Antheme 777
-Gorrevod 592
-Aubres 370
-Abrest 2503
-Vabres 229
-Fabras 294
-Pebrac 142
-Sauviat 471
-
-Courpiere 4918
-
-Decines-Charpieu 24674
-
-Vaulx-en-Velin 37489
-
-Caluire-et-Cuire 42763
-
-Chatel-Guyon 5681
-Chatelus 120
-Marcillat-en-Combraille 934
-Vicq 313
-Saint-Cirgues-sur-Couze 290
-Saint-Cergues 2783
-Machilly 953
-Saxel 382
-Habere-Lullin 704
-Saint-Barthelemy-de-Sechilienne 569
-Pajay 866
-Larajasse 1572
-Duerne 701
-Souzy 618
-Pouzy-Mesangy 421
-Fix-Saint-Geneys 145
-Vacheres-en-Quint 35
-Saint-Quentin-sur-Sauxillanges 99
-Saint-Yorre 2896
-Proveysieux 517
-Bressieux 86
-Avressieux 441
-Domessin 1479
-Le Pont-de-Beauvoisin 2829
-Saint-Didier-sur-Beaujeu 483
-Saint-Didier-sur-Rochefort 414
-Saint-Didier-de-Bizonnes 223
-Conjux 182
-Conand 105
-Dizimieu 584
-Cronce 105
-Croisances 43
-Montaigu-le-Blin 368
-Montailleur 584
-Odenas 680
-Valcivieres 227
-Tiviers 151
-Veauce 46
-
-Veauche 8189
-Chamboeuf 1384
-
-Chazelles-sur-Lyon 4911
+Regny 1642
+Legny 474
+Chazey-Bons 724
 Chazemais 400
 
 Modane 4086
-Montgirod 410
-Montgilbert 79
-Montgreleix 66
-Cormoranche-sur-Saone 996
-Ferrieres-Saint-Mary 303
-Roannes-Saint-Mary 918
-La Besseyre-Saint-Mary 137
-Saint-Mary-le-Plain 158
-Sainte-Foy-Tarentaise 736
-Gilhoc-sur-Ormeze 404
-Chateauneuf-de-Bordette 81
-Chateauneuf-de-Vernoux 198
-Mirefleurs 1887
-Busseol 198
-
-Vic-le-Comte 4590
-
-Sury-le-Comtal 5046
-Chalain-le-Comtal 462
-Echalas 1216
-Chalamont 1807
-Chatillon-la-Palud 1396
-Saint-Pierre-la-Palud 2110
-Savigny 2025
-Juvigny 604
-Marcilly-le-Chatel 1256
-Pizay 725
-Trizac 662
-Clermont 364
-Vazeilles-pres-Saugues 45
-Challes-la-Montagne 218
-Souspierre 102
-Grospierres 664
-Saint-Thibaud-de-Couz 784
-Bourg-de-Thizy 2863
-Thizy-les-Bourgs 2718
-La Gresle 830
-
-Cours-la-Ville 4501
-Lamure-sur-Azergues 1052
-Saint-Maurice-sur-Eygues 582
-Maurines 104
-Maurs 2269
-Louroux-Hodement 389
-Lafeuillade-en-Vezie 544
-Jaligny-sur-Besbre 709
-
-Dompierre-sur-Besbre 3576
-Vaumas 544
-Neuilly-le-Real 1329
-Villy-le-Pelloux 478
-Neuville-les-Dames 1365
-Saint-Ilpize 217
-Saint-Illide 669
-
-Saint-Ismier 6630
-Saint-Michel-de-Saint-Geoirs 312
-Saint-Jacques-d'Ambur 312
-Saint-Etienne-du-Vigan 115
-Saint-Etienne-du-Bois 2257
-Saint-Etienne-de-Cuines 1311
-Sainte-Marie-de-Cuines 626
+Fourneaux 956
 Val Thorens 2500
-Thorens-Glieres 2829
-Saint-Martin-Bellevue 1938
+Chirens 2057
+Saint-Nicolas-de-Macherin 851
+Saint-Nicolas-des-Biefs 164
+Saint-Nicolas-la-Chapelle 400
+Pontaumur 922
+Chalmazel 473
+Chaley 115
+Autichamp 129
+Saint-Caprais 96
+Grilly 675
+Saint-Paul-le-Jeune 801
+Chavroches 258
+Chessy 1510
+Alix 735
+Alixan 2229
+
+Chatuzange-le-Goubet 4278
+Bouvante-le-Haut 235
+Rochefort-Samson 819
+Saint-Didier-sur-Rochefort 414
+La Cote-en-Couzan 85
+Saint-Georges-en-Couzan 480
+Urbise 128
+Courcais 315
+Urcay 310
+Lucey 255
+Sainte-Luce 25
+Saint-Hippolyte 123
+Saint-Hilaire-Cusson-la-Valmitte 262
+Badailhac 126
+Tremouille 204
+Genouilleux 435
+Montceaux 992
+Drace 761
+Chidrac 393
+Marchastel 168
+Beauchastel 1614
+Tulette 1826
+Azolette 122
+Yolet 490
+Rivolet 514
+
+Barby 3360
+Coutansouze 110
+Souzy 618
+Pouzy-Mesangy 421
+Mareugheol 175
+Brugheas 1271
+Bongheat 253
+Espenel 128
+Chenelette 334
+Teyssieres 71
+Veyssilieu 258
+
+Seyssins 7408
+
+Seyssinet-Pariset 13473
+
+Grenoble 158552
+
+Eybens 10195
+Bresson 808
+Aubres 370
+Saint-Antheme 777
+Boz 391
+Polliat 2221
+Diou 1594
+Buellas 1594
+Montracol 826
+Montreal 496
+
+Montreal-la-Cluse 3997
+Port 896
+Poule-les-Echarmeaux 896
+Brion 627
+
+Brioude 7451
+Lamothe 849
+Rotherens 210
+Bessey 386
+Josat 119
+Chamaloc 107
+Peslieres 57
+Pereyres 57
+Moudeyres 109
+Mayres 250
+La Chabanne 194
+La Chavanne 423
+Chavannaz 150
+Clery 247
+
+Millery 3604
+Taluyers 1982
+Chuyer 596
+Viricelles 373
+Lamaids 138
+Mesples 129
+Nassigny 177
+Mesigny 699
+Menthonnex-sous-Clermont 557
+Versonnex 1992
+Thusy 859
+Seyssel 918
+Meysse 1153
+Cruas 2526
+La Coucourde 795
+Coucouron 747
+Sault-Brenaz 1058
+Souclin 243
+
+Soucieu-en-Jarrest 3395
+Orlienas 2094
+Corlier 81
+Outriaz 273
+Saint-Francois-Longchamp 213
+Verel-de-Montbel 246
+Astet 54
+Saint-Mary-le-Plain 158
+Gilhoc-sur-Ormeze 404
+Saint-Hostien 624
+Hostiaz 67
+Hostun 815
+Le Touvet 2955
+
+Le Teil 8620
+Esteil 61
+Genestelle 281
+Beauvoir-en-Royans 76
+Oriol-en-Royans 479
+Sail-sous-Couzan 1009
+Jou-sous-Monjou 137
+Lachamp-Raphael 137
+Saint-Andre-Lachamp 130
+Givarlais 231
+Carlat 312
+Saint-Priest-en-Murat 233
+Prondines 291
+Pradines 624
+Tence 3048
+Lafarre 59
+Saint-Agreve 2834
+Saint-Agoulin 255
+Pragoulin 1131
+La Baume 253
+La Baume-de-Transit 830
+Saint-Restitut 1332
+Saint-Rirand 112
+Saint-Eustache 433
+Saint-Ennemond 627
+La Combe-de-Lancey 629
+Dommartin 654
+Saint-Jean-de-Soudain 1068
+
+Saint-Jean-de-Bournay 4211
+Saint-Agnin-sur-Bion 735
+Agnin 855
+Bouge-Chambalud 992
+Chambezon 97
+Cohade 739
+Chadeleuf 312
+Pradelles 662
+Billieme 295
+Billiat 452
+
+Bellegarde-sur-Valserine 11699
+Lancrans 1019
+Montanges 326
+Champfromier 618
+Champier 1048
+Eclose 580
+Biol 1343
+Saint-Victor-de-Cessieu 1810
+Cessieu 2292
+
+Ruy 4090
+Trept 1670
+Brangues 508
+Murs 232
+Saint-Genix-sur-Guiers 1958
+Aoste 1958
+Chimilin 1287
+Monsteroux-Milieu 559
+Vatilieu 365
+Saint-Sernin 1224
+Saint-Simon 1037
+Gouttieres 401
+
+Viry 3365
+Mauzun 67
+Ayn 299
+Saint-Romain-les-Atheux 823
+Tencin 1165
+Nonglard 519
+Meillard 284
+Gouise 220
+Pressiat 202
+Cressin 337
+Charroux 337
+Charraix 85
+Graix 136
+Benonces 268
+Oz 198
+Laps 517
+Janneyrias 1254
+Loddes 193
+Virlet 255
+Perpezat 402
+Authezat 518
+Murinais 375
+Lavastrie 229
+Lavars 121
+Condamine 342
+Contamine-Sarzin 382
+Mars 571
+La Valette 63
+Les Villettes 888
+Les Villards-sur-Thones 994
+
+Thones 6032
+Manigod 866
+Serraval 540
+Ferrassieres 123
+Chainaz-les-Frasses 578
+Araches-la-Frasse 1879
+Margencel 1682
+Argenty 482
+Argentine 831
+Barges 83
+Bellevaux 1273
+Bonnevaux 267
+Bathernay 218
+Betton-Bettonet 218
+Bettant 750
+Cottance 559
+Bogeve 921
+Les Assions 583
+Les Haies 645
+Le Chatelard 645
+Joannas 328
+Intres 131
+Saint-Forgeux-Lespinasse 421
+Montpascal 383
+Chezery 407
+Chezy 222
+Machezal 364
+Varennes-sur-Teche 263
+Teche 535
+Echevis 62
+Salagnon 1122
+Saint-Lattier 1119
+Saint-Antoine-l'Abbaye 1008
+Montrigaud 483
+Roybon 1364
+Thodure 643
+
+Villeurbanne 131445
+
+Bron 37825
+Montboucher-sur-Jabron 1531
+Espeluche 807
+Malataverne 1515
+
+Donzere 4700
+Colonzelle 460
+Issamoulenc 102
+
+Moulins 23095
+Culin 613
+Brezons 212
+La Renaudie 166
+
+La Talaudiere 6791
+
+Sorbiers 7549
+
+Saint-Jean-Bonnefonds 6076
+Planfoy 870
+Guereins 1165
+Montguers 59
+Vollore-Ville 725
+Neuf-Eglise 287
+Ranchal 287
+Propiac 82
+Lempty 309
+Bereziat 369
+Habere-Lullin 704
+Onnion 862
+Mieussy 1916
+Dizimieu 584
+
+Meximieux 7467
+Saint-Menoux 922
+Saint-Maigner 184
+Oingt 557
+Duingt 888
+Essert-Romand 390
+Esserts-Blay 714
+La Bathie 2215
+La Bridoire 1170
+Moire 201
+Yvoire 707
+Noiretable 1747
+Les Salles 435
+La Salle-en-Beaumont 261
+Vitrac 335
+Vitray 136
+Songieu 136
+Jongieux 250
+Pugieu 141
+La Morte 142
+La Motte-Fanjas 149
+Montboudif 234
+Cognet 38
+Lubilhac 139
+Saint-Martin-sous-Vigouroux 278
+Cohennoz 147
+Blomard 211
+Domarin 1557
+Joyeuse 1559
+Paladru 934
+Saint-Sixte 596
+Sainte-Foy-Saint-Sulpice 366
+Saint-Germain-de-Joux 528
+Pont-Salomon 1725
+Doizieux 662
+Haut Divajeu 662
+Quintal 983
+Saint-Just-pres-Brioude 412
+Creuzier-le-Neuf 978
+Creuzier-le-Vieux 3099
 
 Annecy-le-Vieux 21521
 
 Annecy 49232
-Velanne 452
-Saint-Jean-en-Val 284
-Saint-Aupre 1059
-Beaupont 536
-Domsure 440
-Simandre-sur-Suran 698
-Brion 627
+
+Meythet 8538
+Metz 2229
+
+Epagny 3581
+Montagny-les-Lanches 408
+Chapeiry 665
+
+Saint-Jorioz 5571
+Saint-Jodard 648
+Sainte-Helene-du-Lac 648
+Laissaud 565
+Chapareillan 2329
+Jaillans 638
+Villaz 2259
+Saint-Martin-Bellevue 1938
+Charvonnex 884
+Charix 295
 
 Nantua 4269
-Charix 295
-Champfromier 618
-Billiat 452
-Giat 891
-Chuyer 596
-Taluyers 1982
-Orlienas 2094
-Corlier 81
-Saint-Francois-Longchamp 213
-Bonvillaret 89
-Blomard 211
-La Segalassiere 98
-La Sone 642
-Salagnon 1122
-Lempdes-sur-Allagnon 1450
-Berrias-et-Casteljau 600
-Vielprat 65
-Dance 114
-Nieudan 107
-Lubilhac 139
-Saint-Martin-sous-Vigouroux 278
-Cohennoz 147
-Briennon 1711
-Nonieres 199
-Nozieres 272
-Arlempdes 122
-Virlet 255
-Faverges-de-la-Tour 1195
-Ars-les-Favets 225
-Mazirat 268
-Mizoen 174
-Medeyrolles 113
-Eyroles 18
-Arpavon 64
-Lavoute-Chilhac 322
-Malvieres 107
-Creuzier-le-Neuf 978
-Creuzier-le-Vieux 3099
-Vendat 2121
-Vendranges 250
-Sauxillanges 1116
-Echandelys 235
-Chandolas 365
-Lupe 303
+Geovreisset 836
+
+Oyonnax 25697
+
+Arbent 3986
+Dortan 2398
+Samognat 460
+Vandeins 557
+Drom 164
+Job 1058
+Lovagny 1011
+
+La Tour-de-Salvagny 3625
+
+Chatel-Guyon 5681
+Chatelus 120
+Villemoirieu 1600
+Viriville 1354
+Suze 238
+Naves-Parmelan 966
+Auberives-sur-Vareze 1393
+Clonas-sur-Vareze 1387
+Chavanay 2330
+Chavannes-sur-Reyssouze 639
+Saint-Jean-sur-Reyssouze 631
+Saint-Julien-sur-Reyssouze 563
+Davayat 535
+Bellentre 857
+Les Allues 2015
+Les Vans 2743
+Les Gets 1331
+Samoens 2581
+Magland 2961
+Landry 678
+Blandin 133
+Beausemblant 1246
+Lantignie 667
+Villie-Morgon 1748
+Charentay 1122
+Charavines 1545
+Saint-Amant-Roche-Savine 628
+Saint-Jean-de-Chevelu 628
+Couteuges 275
+Champetieres 275
+Marat 897
+Pebrac 142
+Olmet 142
+Sauviat 471
+Ravel 698
+
+Lezoux 5170
+Vezezoux 431
+Plats 536
+Thenesol 283
+Echenevex 1321
+
+Saint-Julien-en-Genevois 10108
+Bossey 606
+Saint-Etienne-de-Crossey 2699
+Saint-Etienne-de-Cuines 1311
+Sainte-Marie-de-Cuines 626
+
+Allevard 3783
+Allegre 1070
+Monlet 398
+Craponne-sur-Arzon 2794
+Beaune-sur-Arzon 202
+Aurel 217
+Rencurel 325
+
+Caluire-et-Cuire 42763
+Besse-et-Saint-Anastaise 1636
+Espalem 241
+Valvigneres 401
+Optevoz 579
+Sievoz 134
+Girgols 72
+Freterive 469
+
+Bellerive-sur-Allier 8841
+Brout-Vernet 1124
+Duerne 701
+Saint-Georges-de-Baroille 287
+Saint-Georges-d'Hurtieres 228
+Saint-Vincent-de-Durfort 228
+Chanaleilles 245
+Les Pilles 241
+
+Langeac 3997
+
+Yssingeaux 7286
+Lapte 1330
+
+Sainte-Sigolene 5734
+La Seauve-sur-Semene 1153
+
+Bas-en-Basset 3506
+Valprivas 422
+Beauzac 2162
+Retournac 2588
+Rognaix 407
+Rosieres 1376
+Coubon 2882
+Le Monastier-sur-Gazeille 1835
+Blassac 127
+Ferrussac 97
+Sainte-Colombe-sur-Gand 426
+Sainte-Reine 141
+Alba-la-Romaine 1194
+Saint-Romain-en-Jarez 945
+Pact 697
+Peisey-Nancroix 663
+Croisances 43
+Montaigu-le-Blin 368
+Fayet-Ronaye 122
+Bayet 651
+Ecoche 419
+Scientrier 719
+Detrier 309
+Bezaudun-sur-Bine 60
+Truinas 118
+Jozerand 374
+Joze 963
+Bulhon 375
+Orleat 1814
+Chiroubles 375
+Dorat 608
+Paslieres 1431
+La Monnerie-le-Montel 2124
+Palladuc 522
+Ballaison 1207
+Saint-Julien-Vocance 254
+Vocance 653
+
+Vaulx-en-Velin 37489
+Vaulx 812
+Araules 635
+Sain-Bel 2022
+Pourcheres 128
+Ourches 230
+La Besseyre-Saint-Mary 137
+Doyet 1190
+Bezenet 987
+Cezens 266
+Changy 594
+Les Clefs 515
+Les Deux Alpes 1520
+
+Le Versoud 4092
+Vers 583
+Perouges 1208
+Menglon 380
+Blavozy 1411
+Varacieux 695
+Saint-Etienne-le-Molard 763
+Fabras 294
+
+Givors 18198
+Seyssuel 2044
+Ceyssat 491
+Corps 491
+Nivollet 95
+Penol 314
+Chatonnay 1716
+Cuisiat 2108
 Glun 639
+Blesle 717
+
+Rive-de-Gier 14852
 La Roche-de-Glun 2956
 Saint-Jean-de-Muzols 2527
 Larnage 828
-Secheras 323
-Sarras 1918
-Talencieux 815
-Charancieu 607
-Chirens 2057
-Chirassimont 377
-Limonest 2984
-Limoise 206
-Innimond 103
-Condamine 342
-Charroux 337
-Paray-le-Fresil 423
-Paray-sous-Briailles 549
-Chateauneuf-les-Bains 321
+Farnay 1165
+Arnayon 37
 
-Saint-Paul-Trois-Chateaux 8028
-Lascelle 323
-Buellas 1594
-Montracol 826
-Diou 1594
-Giou-de-Mamou 709
-Saint-Pantaleon-les-Vignes 331
-Vieure 276
+Guilherand-Granges 11365
 Eurre 1087
-Vaunaveys-la-Rochette 587
 
-Crest 8517
-Aouste-sur-Sye 2145
-Saou 513
-Piegros-la-Clastre 806
-Mirabel-et-Blacons 861
-Aubenasson 34
-Saillans 969
-Jaillans 638
-La Motte-d'Aveillans 1810
-La Motte-Chalancon 421
-Saint-Germain-la-Chambotte 415
-Labastide-de-Virac 230
-Menet 519
-Lalouvesc 519
-Valouse 40
+Corbas 9753
+Luzinay 2139
+Pinay 278
+Jabrun 179
 
-La Fouillouse 4335
-La Forteresse 251
-Confort 543
-Champagny-en-Vanoise 626
-Pugny-Chatenod 771
-Chavenon 164
-Saint-Martin-de-Fugeres 265
-Saint-Pierre-de-Genebroz 265
-Chenelette 334
-Loddes 193
-Groslee 353
-Costaros 577
-Hostun 815
-Droiturier 349
-
-Lapalisse 3509
-Espalem 241
-La Muraz 776
-La Tour-en-Jarez 1187
-Coltines 405
-
-Ferney-Voltaire 7742
-
-Saint-Genis-Pouilly 7428
-Saint-Genis-l'Argentiere 919
-Argenty 482
-Saint-Agreve 2834
-Lafarre 59
-
-Yssingeaux 7286
-Retournac 2588
+Anse 5099
+Montanay 2546
+Montarcher 75
 Apinac 313
-Chaspinhac 572
-Saint-Etienne-de-Carlat 115
-Saint-Etienne-de-Crossey 2699
 
-Givors 18198
+Sciez 4898
+Excenevex 760
+Villecheneve 649
+Le Quartier 217
+Lelex 244
+Lhuis 801
+Dienne 303
+Pisieu 503
+Argis 435
 
-Millery 3604
+Mozac 3507
+Enval 1419
+Douhady 150
+Loubeyrat 898
+Mureils 337
+Aigueperse 2614
+Pirajoux 328
 
-Communay 4110
-Saint-Vincent-la-Commanderie 420
-Vitray 136
-Cognin-les-Gorges 577
-Saint-Georges-en-Couzan 480
-Sail-sous-Couzan 1009
-Lavigerie 104
-Avignonet 224
-Montclard 70
-Montchenu 485
-Montrigaud 483
-Vertrieu 509
+Estrablin 3492
+Septeme 1718
 
-Saint-Jean-de-Bournay 4211
-Olby 576
-Alboussiere 807
-Artonne 807
-Aiton 1260
-Mercury 2562
-Serraval 540
-Lavars 121
-Teissieres-les-Boulies 270
+Ytrac 3421
+Laroquebrou 1091
+Siran 536
+Rouffiac 240
+Louroux-Hodement 389
+Maurs 2269
+Veaunes 237
+
+Lorette 3202
+Labesserette 263
+Gourdieges 53
+Jarsy 263
+Saint-Thomas-la-Garde 536
+Saint-Thibaud-de-Couz 784
+Yronde 610
+Avrilly 173
+Villy-le-Pelloux 478
+Oytier-Saint-Oblas 1453
+Fix-Saint-Geneys 145
+Renaison 2828
+Lentigny 1388
+Neulise 1177
+Affoux 260
+Saint-Just-la-Pendue 1436
+Pontcharra-sur-Turdine 2274
+Saint-Forgeux 1436
+Yenne 2816
+Brison-Saint-Innocent 2023
+Drumettaz 2141
+La Giettaz 534
+Flumet 827
+Praz-sur-Arly 1197
+Peyrins 2478
+Neuvecelle 2456
+Lugrin 2164
+Chevenoz 544
+La Forclaz 215
+Reyvroz 461
+Armoy 1049
+Pleaux 1838
+Le Veurdre 620
+Menetrol 1758
+Verel-Pragondran 443
+Prunet 521
+Saint-Martin-de-Fugeres 265
+Conjux 182
+Charnecles 1476
+Rocles 377
+Treban 377
+Treteau 528
+Le Donjon 1191
+Lenax 298
+Glenat 226
 Chamrousse 568
-Chaussan 997
-Hyds 371
-Leigneux 358
-Palogneux 53
-Saulzet 340
+Saint-Julien-Molhesabate 205
+Gluiras 374
+Chirassimont 377
+Jure 215
+Mery 1276
+Neydens 1220
+La Pacaudiere 1199
+Saint-Martin-d'Estreaux 902
+Myans 966
+Giat 891
+Chozeau 881
+Blyes 767
+Alex 874
+Marcy 611
+Marcilloles 841
+Fons 277
+Eloise 774
+Leaz 508
+Malafretaz 735
+Boffres 535
+Villarlurin 306
+Engins 452
+Molompize 295
+Chalinargues 433
+Aurouze 209
+Leyvaux 37
+Lastic 117
+Labastide-de-Virac 230
+Panissage 382
 Velzic 379
+Poyols 71
 Valjouze 23
 Laval-sur-Doulon 62
-Bohas-Meyriat-Rignat 803
-Perignat-les-Sarlieve 2307
-Moissat Haut 782
-Paslieres 1431
-Lorcieres 226
-La Trinitat 64
-
-Pierre-Benite 9971
-Pierrefitte-sur-Loire 548
-
-Dieulefit 3214
-Rochepaule 312
-Epercieux-Saint-Paul 554
-Saint-Just-la-Pendue 1436
-Pers-Jussy 2386
-Le Sappey 366
-
-Saint-Julien-en-Genevois 10108
-
-Bourg-de-Peage 10090
-
-Chatuzange-le-Goubet 4278
-Saint-Angel 397
-Le Buisson 50
-
-Publier 5525
-Armoy 1049
-Planfoy 870
-Loriges 332
-Saint-Sauveur-en-Rue 1197
-Peaugres 1785
-Vesseaux 1350
-Gipcy 218
-Tours-sur-Meymont 550
+Saint-Projet-de-Salers 119
+Sanilhac 365
+Mezilhac 113
+Oradour 328
+Pulverieres 323
 Terjat 232
-Jaujac 1124
-Vaujany 333
-Mayres 250
+Pouzol 208
+Cros-de-Georand 184
+Sourniac 180
+Vedrines-Saint-Loup 161
+Ballons 73
 Goudet 66
-Gouttieres 401
-
-La Tour-de-Salvagny 3625
-Saligny-sur-Roudon 809
-Journans 367
-Le Quartier 217
-Le Gua 1839
-Livet-et-Gavet 1478
-Mont-de-Lans 1182
-Les Deux Alpes 1520
-
-Soucieu-en-Jarrest 3395
-Succieu 597
-Saint-Bonnet-de-Valclerieux 218
-Veigy 3002
-Coubon 2882
-Le Monastier-sur-Gazeille 1835
-Montpezat-sous-Bauzon 688
-Lalevade-d'Ardeche 1156
-Ruoms 2241
-Sampzon 191
-Lagorce 740
-Agonges 363
-Seez 2139
-Vezezoux 431
-Josat 119
-Job 1058
-Les Contamines-Montjoie 1127
-Seyssuel 2044
-Saint-Jean-sur-Reyssouze 631
-Izernore 1822
-Viriville 1354
-Viricelles 373
-Lamaids 138
-Meaudre 1200
-Sainte-Christine 139
-Menetrol 1758
-Teilhede 395
-Novalaise 1554
-Vauxrenard 297
-Ponsonnanche 248
-Pact 697
-Peisey-Nancroix 663
-Marignac-en-Diois 142
-Molompize 295
-Malataverne 1515
-Brout-Vernet 1124
-Chanos-Curson 1018
-Fourneaux 956
-Lanslebourg-Mont-Cenis 598
-Saint-Nectaire 705
-Roche-Charles-la-Mayrand 57
-La Combe-de-Lancey 629
-Saint-Sixte 596
-Taxat-Senat 213
-Crepol 505
-Notre-Dame-du-Pre 295
-Cayrols 229
-Droisy 77
-Escorailles 77
-La Valette 63
-Bezaudun-sur-Bine 60
+Armix 17

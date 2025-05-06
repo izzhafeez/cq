@@ -1,558 +1,168 @@
 
 
 Stockholm 975904
-Stocka 340
-Tocksfors 1221
-Raltlindor 25
-Lindo 4763
-Rindo 1100
-Vaxholm 4849
+
+Djursholm 8856
+Norsholm 566
+Madangsholm 411
+Jung 411
+Utvalnas 411
+Lerkil 411
+Docksta 401
+Olmstad 401
+
+Halmstad 66124
+Bastad 5146
+Brastad 2289
+Hunnebostrand 2053
+Halleviksstrand 225
+Marstrand 381
+Ronnang 1551
+Sifferbo 406
+Bleket 406
+Eket 412
+Torestorp 412
+Perstorp 5847
+Stenstorp 1823
+
+Astorp 9215
+Strovelstorp 1207
+Jonstorp 1972
+Sonstorp 436
+Kallstorp 241
+Kallsta 40
+Allsta 305
+Bollstabruk 1883
+Kungsgarden 998
+Kungsater 361
+Hogsater 744
+Fredrika 254
+Fredriksdal 318
+Skavkulla 784
+Ullared 699
+Hillared 639
+Aplared 463
+Sandared 2993
+Bredared 313
+Hedared 361
+Billsta 361
+Hallsta 917
+Hallberga 618
+Hallbybrunn 3323
+
+Torshalla 8928
+Torshalla Huvud 492
+Hallnas 309
+Kinnared 309
+Kinnarp 962
+Gunnarstorp 362
+Gunnarskog 275
+Tvarskog 399
+Orviken 399
+Balgviken 226
+Viken 4489
+
+Hoganas 14778
+Ranas 428
+
+Tranas 14550
+Moliden 300
+Gripenberg 300
+Garpenberg 515
+Norberg 4653
+Askeby 503
+Gullringen 503
+Tyringe 4712
+Finja 616
+Varsas 616
+Hjarsas 216
+Hemavan 216
+Avan 213
+Solberga 419
+Alberga 410
+Valberg 2848
+Haksberg 449
+Eriksberg 3200
+Fiskarhagen 122
+Pershagen 2235
+Brota-Brothagen 51
+Hasthagen 472
+Hastholmen 372
 Kaxholmen 1561
 Kladesholmen 367
 Olme 218
-Delary 218
-Skillingaryd 3965
-Linneryd 541
-Vaggeryd 5122
-Lekeryd 788
+Holmeja 226
+Venjan 226
+Lillhardal 403
+Ardala 745
+Lerdala 558
 
-Bankeryd 8506
-Bankekind 437
-Brokind 499
-Vikingstad 2335
-Malmslatt 5074
-Slaka 593
-Akarp 5959
-Hjarup 4744
-Klagerup 1940
-Klagstorp 548
-Vastra Klagstorp 266
-Blido 266
-Graddo 556
-Grano 261
-Herrang 377
-Ranas 428
-Rimbo 4882
-Grimsas 694
-Grimstorp 385
-Benareby 385
-Kareby 237
-Borggard 237
-Garde 130
-Ojersbo 130
-Geijersholm 243
-Borgholm 4344
-Stenungson 243
+Skovde 36842
+Sovde 363
+Soderskogen 363
+Sodersvik 352
+Soderala 961
 
-Stenungsund 13093
-Odsmal 1414
-Arod 873
-Rodbo 255
-Nysattra 255
-Sattra 336
-Brannland 336
-Branna 228
-Bralanda 1521
-Fargelanda 1986
-Velanda 592
-Svarta 592
-
-Hudiksvall 16081
-Vannasby 1581
-Vannas 4373
-Hissjon 471
-Ersmark 1650
-Botsmark 201
-Amsele 201
-Ramsele 964
-Rusksele 201
-
-Lycksele 8545
-Asele 1706
-Vidsel 526
-Mellansel 825
-Nolby 1200
-Norra Lagno 333
-Norra Bro 880
-
-Orebro 115765
-Storebro 1011
-Olmbrotorp 543
-Lotorp 685
-Skoldinge 685
-
-Ornskoldsvik 32493
-Gimat 870
-Gidea 270
-Liden 283
-Boliden 1661
-Nyland 945
-Kage 2376
-Kagerod 1516
-Backa 1516
-Asbacka 260
+Soderhamn 12259
 Malmon 260
 
 Malmo 301706
 
 Arlov 9108
-Farlov 1016
-Vinslov 3989
-Ballingslov 328
-Hallingsjo 459
-Eriksmyst 150
-Eriksmala 205
-Langviksmon 220
-Langvik 1206
-Angsvik 447
-Forsvik 365
-Lunde 365
+Akarp 5959
+Lilla Harrie 391
+Arrie 212
+Blombacka 212
+Korpilombolo 539
+Gessie Villastad 539
+Alstad 369
+Vastra Ingelstad 824
+Ostra Grevie 758
+Transtrand 369
 
-Lund 87244
-Furulund 4359
-
-Kavlinge 9320
-Kallinge 4664
-Skallinge 636
-Skillinge 975
-Borrby 975
-Abborrberget 1814
-Blotberget 259
-Vannasberget 207
-Glava 207
-Faglavik 209
-Falla 464
-Arentorp 464
-Grastorp 2946
-
-Astorp 9215
-Stenstorp 1823
-Torestorp 412
-Perstorp 5847
-Ljungbyhed 2127
-Ostra Ljungby 1740
-Munka-Ljungby 3148
-Ljunga 722
-Ljung 727
-Latorpsbruk 727
-Torpa 229
-Abytorp 811
-
-Aby 6917
-Jursla 1647
-Bjursas 1968
-Djuras 2128
-Djura 387
-Gravsnes 387
-Stavsnas 1784
-
-Gustavsberg 20774
-Stavsjo 221
-Halsjo 221
-Hallen 223
-Sjuhalla 221
-Hallaryd 673
-Horsaryd 73
-Backaryd 386
-Markaryd 4664
-Aryd 687
-Ryd 1474
-Eneryda 337
-Rydaholm 1587
-Angsholmen 222
-Spangsholm 374
-Vankiva 374
-Skivarp 1258
-Torarp 273
-Morarp 1935
-Paarp 2932
-Kattarp 732
-Hittarp 4545
-Allerum 722
-
-Lerum 26913
-Tollered 920
-Angered 1062
-Jonsered 929
-
-Kallered 6784
-Hallesas 100
-Hallesaker 371
-Langhem 1086
-Ganghester 2533
-Burea 2533
-Skrea 1846
-Merlanna 383
-Lanna 700
-Junosuando 314
-Gunsta 611
-Ensta 75
-Varsta 2470
-Norrbyvret 75
-
-Varby 10115
-
-Fittja 7500
-Fiskarhagen 122
-Pershagen 2235
-
-Forshaga 6361
-Deje 2702
-Holmeja 226
-Venjan 226
-Svenshogen 452
-Svenstorp 238
-Oggestorp 238
-Ostorp 242
-Vallvik 242
-Tallvik 497
-Alstermo 836
-Alsterbro 448
-Osterforse 245
-Soderfors 1704
-Svanvik 324
-Vastanvik 472
-Hasthagen 472
-Hastholmen 372
-Marmorbyn 372
-Marma 324
-Hammarby 533
-Ashammar 535
-Hammar 3311
-Hammarslund 587
-Tallboda 3311
-Boda 576
-Bole 418
-Oleby 367
-Aneby 3496
-
-Ronneby 12612
-Ronnebyhamn 749
-Torhamn 559
-Sturko 1325
-Bjorkoby 323
-Brakne-Hoby 1708
-Fengersfors 323
-Ravemala 323
-Mala 2043
-Norsjo 2057
-Orsjo 362
-Gunnarstorp 362
-Kinnarp 962
-Nar 209
-Genarp 2962
-Veberod 4850
-Loberod 1251
-Linderod 468
-Everod 953
-Diserod 1328
-Asperod 239
-Aspero 398
-Ockero 3568
-Kalvsund 208
-Sund 394
-Vena 394
-Henan 2243
-Ammenas 563
-Vattjom 563
-Mattsund 589
-Skottsund 1052
-Sundom 219
-Sundborn 923
-Ornas 1083
-Bjornas 808
-Bjorna 431
-Havdhem 270
-Sandhem 706
-Sandhult 563
-Lidhult 665
-Hyssna 665
-Rorbacksnas 200
-Marback 475
-
-Ulricehamn 10629
-Ulrika 204
-Krika 202
-Godegard 202
-Ringsegard 383
-Langsele 1642
-Gullbrandstorp 1642
-Gullbranna 667
-Mellbystrand 3412
-Vejbystrand 2764
-Skummeslovsstrand 454
-Forslov 2386
-Harslov 395
-Barslov 2753
-Glumslov 2093
-Grimslov 622
-Vaskinde 337
-Vindeln 2403
-Ullatti 230
-Vittskovle 230
-Vittsjo 1787
-Vi 5841
-Essvik 818
-Ankarsvik 986
-Ankarsrum 1234
-Overum 1166
-Falerum 236
-Ringarum 605
-Eringsboda 275
-Gunnarskog 275
-Tvarskog 399
-Skog 312
-Sorskog 30
-Vastra Karup 552
-Ostra Karup 789
-Morup 308
-Torup 1245
-Hyltebruk 3992
-Tuna 404
-Emtunga 284
-Hartungviken 400
-Svappavaara 400
-Tvaaker 2640
-Faker 241
-Jonaker 598
-Ovanaker 227
-Igelfors 227
-Sorfors 460
-Fornasa 460
-Bjorno 240
-Porjus 240
-Horja 206
-
-Jarna 6038
-Arnas 679
-Farnas 957
-Nusnas 741
-Siljansnas 1274
-Basna 655
-Ersnas 478
-Garsnas 1094
-Hammenhog 879
-Asenhoga 200
-Asen 262
-Fiskebackskil 262
-Ljungskile 3689
+Bunkeflostrand 13048
+Ingarostrand 290
+Odensberg 290
+Borensberg 2942
+Berg 1229
 
 Ljungsbro 6763
-Berg 1229
-Berga 713
-Molle 634
-Arild 713
-Farila 1398
-Kilafors 1197
-Sorstafors 270
-Fors 845
-Forsby 646
-Forsbacka 1754
-Backe 535
-Backberg 242
-Roback 2460
+Ljung 727
+Ljunga 722
+Asljunga 738
+Orkelljunga 5193
+Ostra Ljungby 1740
+Munka-Ljungby 3148
+Ljungbyhed 2127
 
-Umea 83249
-Taftea 1305
-Skelleftehamn 3069
-
-Skelleftea 35516
-
-Pitea 23067
-
-Lulea 43574
-Ranea 1966
-Overtornea 1906
-Tore 1051
-Nore 409
-Tollsjo 409
-Vollsjo 813
-
-Sjobo 7910
-Strangsjo 351
+Ljungby 15785
+Lagan 1550
+Bjarsjolagard 351
 Tavelsas 351
 Tavelsjo 461
 Kallax 461
 Hallabrottet 1806
-Hallabro 261
-Ralla 418
-Valla 1584
-Edsvalla 720
+Tingstade 229
+Torpa 229
+Abytorp 811
 
-Sundsvall 57606
-Sundsbruk 2098
-Alandsbro 928
-Norsbron 211
-Herrskog 211
-Spekerod 211
-
-Ekero 11505
-Parksidan 944
-Solsidan 209
-Overlida 540
-Blidsberg 540
-Eldsberga 679
-Tangaberg 965
-
-Varberg 34248
-Traslovslage 1985
-Ranneslov 458
-
-Eslov 18592
-Svalov 3852
-Annelov 442
-Dosjebro 866
-Vastra Karaby 244
-Ostra Ryd 477
-Stora Ror 209
-Stora Levene 809
-Stora 1967
-
-Nora 6597
-Gyttorp 671
-Garphyttan 1613
-Mullhyttan 534
-Ytterhogdal 534
-Ytteran 203
-Jamton 203
-Mjonas 257
-Bonas 370
-Obonas 646
-Bonan 859
-Viksater 859
-Sater 4613
-Tomtebo 633
-Aspeboda 219
-Ljungsarp 219
-
-Borlange 41955
-Jorlanda 1465
-Salanda 4240
-Skepplanda 1821
-Upplanda 222
-Skatan 222
-Ratan 213
-Tangen 15
-Rodeby 3508
-Kungsberga 708
-
-Kungsbacka 18698
-Vallda 3929
-
-Billdal 14874
-Brattas 339
-Branno 918
-Spjutsbygd 398
-Spjutstorp 202
-Vretstorp 852
-Tystberga 869
-
-Hallsberg 8146
-Persberg 249
-Persbo 343
-Piperskarr 579
-
-Vastervik 21178
-Vastra Amtervik 382
-
-Vasteras 117746
-Vasterby 383
-Osterby 527
-Slite 946
-Klintehamn 1490
-
-Oskarshamn 18287
-Paskallavik 1099
-Emsfors 317
-Timsfors 609
-Asarp 609
-
-Asa 6084
-Frillesas 2832
-Domsten 625
-
-Lindome 10942
-Ytterberg 100
-Vasterberg 238
-Overberg 57
-Evertsberg 232
-Hjortsberga 254
-Fredrika 254
+Kumla 16663
+Pilgrimstad 402
+Kimstad 1469
+Skarblacka 4023
+Karby 853
+Vikarbyn 1193
+Vika 582
 
 Arvika 13926
-Vika 582
-Rorvik 582
-Horvik 802
-Storvik 2251
-Bergsviken 2251
-Rosvik 1848
-Alvik 771
-Alvsbyn 4976
-Sundsbyn 20
-Sodra Sunderbyn 3162
-Sodra Bergsbyn 342
-Sodra Vi 1134
-Stora Vika 695
-Vita villorna 185
-Vitaby 351
-
-Taby 58123
-Enebyberg 5000
-
-Sundbyberg 34529
-Sundby 271
-Grodby 551
-Mellosa 551
-Ellos 1036
-Orslosa 322
-Los 354
-Vasterlosa 214
-Edeback 214
-Mehedeby 430
-Hedesunda 1067
-Arsunda 1012
-Vasterfarnebo 533
-Osterfarnebo 470
-Osterstad 324
-Ostervala 1696
-Ljusfallshammar 316
-Zinkgruvan 316
-Skruv 586
-Hjuvik 3754
-
-Bjuv 10602
-Hyllinge 2287
-Fyllinge 2830
-Harplinge 1498
-Getinge 1909
-Steninge 1112
-Tronninge 1569
-Veinge 1417
-Svanstein 207
-Svanskog 485
-Ovansjo 96
-Njurundabommen 1959
-Sommen 789
-Glommen 1082
-
-Falkenberg 24099
-Vinberg 606
-Svanberga 524
-Vassmolosa 524
-Hasslov 239
-Lovestad 636
-Skyttorp 636
-Skottorp 512
-Lottorp 562
-Korstrask 317
-Halvarsgardarna 317
-Vargarda 5384
-Vara 4052
-
-Skara 11437
-Hissmofors 308
-
-Hofors 6090
+Jossefors 711
+Amotfors 1347
+Amot 238
+Svenstorp 238
+Oggestorp 238
+Ostorp 242
+Vallvik 242
+Rydal 415
 Robertsholm 415
 Robertsfors 2030
 Savar 2968
@@ -560,645 +170,961 @@ Savast 3093
 Hastbyn 20
 Toftbyn 305
 Tofta 627
-Satofta 1160
+Klintehamn 1490
 
-Hoor 12152
+Oskarshamn 18287
+Oskarstrom 4172
+Arstad 321
+Riddarhyttan 321
+Garphyttan 1613
+Mullhyttan 534
+Ronneshytta 279
+Asbro 1321
+Ostansjo 869
+Utansjo 209
+Karungi 209
+Ostra Karup 789
+Sommen 789
+Glommen 1082
+Glommerstrask 231
+Korstrask 317
+Halvarsgardarna 317
+Rydsgard 1383
 
-Horby 7459
-Ludvigsborg 743
-Tronningenas 743
-Sunningen 589
-Odeborg 589
-
-Vanersborg 23119
-Orviken 399
-Balgviken 226
-Viken 4489
-
-Hoganas 14778
-Vinas 312
-Linanas 303
-Lillkyrka 303
-Grillby 1028
-Kallby 1737
+Skurup 8040
+Skivarp 1258
+Abbekas 757
+Gallo 757
+Mjallom 243
 Mjallby 1319
-Hjalm 272
+Kittelfjall 100
+Ytterberg 100
+Vasterberg 238
+Vasterby 383
+Merlanna 383
+Lanna 700
+Junosuando 314
+Gunsta 611
+Barby 347
+
+Varby 10115
+
+Fittja 7500
+Vittjarv 498
+Seittenkaari 498
+Stenkullen 2000
+
+Hammarkullen 7914
+Eriksbo 2564
+Oskar-Fredriksborg 732
+Fredriksberg 717
+Taberg 4486
+Barnarp 724
+
+Huskvarna 21500
+
+Varnamo 19061
+Stavreviken 222
+Skatan 222
+Ratan 213
+Sjalso 397
+Halso 586
+Skruv 586
+Kvisljungeby 586
+Bjorko 1495
+
+Bjorlanda 23088
+
+Torslanda 10129
+Andalen 1897
+
+Molndal 59430
+
+Molnlycke 17579
 Hjartum 385
+Benareby 385
+Grimstorp 385
+Grimsas 694
+Hestra 1327
+Klockestrand 327
+Stralsnas 450
+Rydsnas 282
+Ersnas 478
+Baldersnas 265
+Stavsnas 1784
 
-Partille 28648
-Stilleryd 355
+Gustavsberg 20774
 
-Karlshamn 20112
+Akersberga 32659
+Resaro 3249
+Saro 2982
+Vallda 3929
 
-Karlstad 61492
-Alster 756
-Skattkarr 1979
-Skare 5444
-Skarplinge 720
-Valberg 2848
-Alberga 410
-Taljo 410
-Lovstalot 1399
+Billdal 14874
+Brattas 339
+Rattvik 5160
+Ostvik 537
+Rutvik 896
+Gammelstad 4892
+Hummelsta 994
 
-Knivsta 7977
+Balsta 13138
+Olsta 652
+Ruda 652
+Furudal 396
+Skedala 359
 
-Marsta 27034
-Karsta 502
-Karby 853
-Fredriksfors 224
-Brottby 224
-Rot 662
-Rottne 2395
-Braas 1692
-Jadraas 243
-Bjorkviken 243
-Bjorkvik 511
-Jackvik 90
-Kvikkjokk 18
-Nikkaluokta 22
-Jukkasjarvi 607
-Lansjarv 68
-Jockfall 59
-Mockfjard 1920
-Vissefjarda 658
-Tosse 346
-Grangarde 346
-Grangesberg 2146
+Svedala 11796
+Idala 739
+Veberod 4850
+Loberod 1251
+Linderod 468
+Everod 953
+Diserod 1328
+Asperod 239
+Aspero 398
+Spjutsbygd 398
+Spjutstorp 202
+Godegard 202
+Ringsegard 383
+Langsele 1642
+Langsjogle 3
+Strangsjo 351
+Trangsviken 272
+Angsvik 447
+Forsvik 365
+Ursviken 3913
+Bergsviken 2251
+Rosvik 1848
+Alvik 771
+Sulvik 375
+Stenis 375
+Steninge 1112
+Getinge 1909
+Sloinge 991
+Koinge 217
+Person 217
+Persbo 343
+Piperskarr 579
 
-Lindesberg 9571
-Halltorp 292
-Hallefors 4449
-Storfors 2218
+Skara 11437
+Hissmofors 308
+Rofors 266
 
-Degerfors 7190
-Bjorneborg 1237
-Backhammar 296
-Fridafors 296
-Bodafors 1957
-Savsjo 5374
-
-Nassjo 17719
-
-Eksjo 10157
-Sjosa 488
-Trosa 5836
-Vagnharad 3397
-Vaggevarasj 75
-Vedevag 753
-
-Uddevalla 34781
-Uddebo 255
-
-Goteborg 572799
-Totebo 237
-Roteberg 379
-Anneberg 1398
-Rannebergen 4364
-
-Lovgardet 7113
-
-Gardsten 8025
-Gardstanga 366
-Edsta 223
-Tastarp 221
-Ostana 221
-Rostanga 874
-Bredsand 874
-Sandared 2993
-Bredared 313
-Aplared 463
-Hillared 639
-Limmared 1434
-Lima 418
-Gimo 2698
-Alunda 2506
-Osterbybruk 2331
-Orbyhus 2025
-Tobo 610
-Stoby 729
-Broby 3104
-Glimakra 1466
-Immeln 298
-Timmele 788
-Timmersdala 895
-Kivik 895
-Vik 327
-Juoksengi 327
-Sangis 543
-Kisa 3776
-Medle 543
-Hedlunda 205
-Nas 205
-Ostmark 205
-Kosta 985
+Hofors 6090
+Fors 845
+Forsby 646
+Forsbacka 1754
+Backe 535
+Backberg 242
+Backa 1516
+Asbacka 260
+Kattilstorp 260
+Kattilsmala 266
+Blido 266
+Blidsberg 540
+Eldsberga 679
+Arnas 679
+Nore 409
+Tollsjo 409
+Vollsjo 813
+Mullsjo 5584
+Furusjo 357
+Furuby 368
 Skolsta 368
 Ingelstad 1762
 Angelstad 247
 Ostavall 247
 Stava 264
-Svangsta 1904
-Morrum 3903
+Viksjofors 264
+Lesjofors 948
+Kvibille 948
+Billeberga 1050
+Billesholm 2794
+Ovesholm 283
+Ortofta 283
+Vartofta 529
+Enviken 840
+Vikmanshyttan 840
+Langshyttan 1609
+Ingelstrade 250
+Husby 250
+Ostra Husby 868
+Vastra Husby 488
+Kvillsfors 488
+Olsfors 617
+Bollebygd 3870
+Tollered 920
+Jonsered 929
+Angered 1062
+Hanger 333
+Ange 2889
+Tangen 15
+Rodeby 3508
+Kungsberga 708
+Berga 713
+Striberg 312
+Skog 312
+Sorskog 30
+Bjursas 1968
+Grycksbo 1870
+Sagmyra 552
+Bastutrask 405
+Lysvik 326
+Funbo 326
+Askoping 326
 
-Mora 12602
-Ostnor 523
-Holmsjo 370
-Holm 764
+Koping 18355
+Valskog 693
+Skogstorp 2180
+Ljungaverk 917
 
-Laholm 6527
-Lilla Tjarby 872
-Malilla 1348
-Morlunda 857
-Vattubrinken 356
-Brink 77
-Hybo 206
-Nyborg 823
-Bor 1263
-Navragol 222
-Vrango 379
-Kangos 245
-Trekanten 1599
-Stensjon 663
-Insjon 2150
-Talltrask 16
-Burtrask 1573
-Klovertrask 241
-Kallstorp 241
-Kallsta 40
-Allsta 305
-Bollstabruk 1883
-Kungsgarden 998
-Rydsgard 1383
+Eskilstuna 67359
+Tuna 404
+Landeryd 404
+Burseryd 932
+Smalandsstenar 4564
+Alandsbro 928
+Sundsbruk 2098
 
-Skurup 8040
-Kurland 560
-Skegrie 1156
-Arrie 212
-Vintrie 777
-Jorn 777
-
-Bunkeflostrand 13048
-Transtrand 369
-Berghem 369
-Torpsbruk 369
-Edsbruk 324
-Kanna 324
-Tannas 111
-Tanndalen 52
-Funasdalen 956
-Lofsdalen 101
-Vemdalen 549
-Ljungdalen 109
+Sundsvall 57606
+Edsvalla 720
+Valla 1584
 Bruksvallarna 66
 Sarna 675
-Asarna 280
-Karesuando 280
-Are 2768
-Vrena 630
-Javre 574
-Stavreviken 222
+Farnas 957
+Nusnas 741
+Siljansnas 1274
+Jonslund 304
+Onslunda 524
+Vassmolosa 524
+Mellosa 551
+Stora Mellosa 801
+Stora Mellby 349
+Hjaltevad 349
+Hjalm 272
+Hjalmared 266
+Klevshult 266
+Hult 473
+Urshult 942
 
-Brevik 8024
-Grevie 937
-Ostra Grevie 758
-Vastra Ingelstad 824
-Alstad 369
-Malsta 207
-
-Balsta 13138
-Olsta 652
-Ruda 652
-Brunna 3948
-
-Kungsangen 10151
-Kungsater 361
-Billsta 361
-Hallsta 917
-
-Torshalla 8928
-Hallberga 618
-Hallbybrunn 3323
-Holsbybrunn 783
-Overharde 553
+Almhult 9495
+Sibbhult 1431
+Hishult 328
+Ballingslov 328
+Vinslov 3989
+Onnestad 1392
+Farlov 1016
+Kvarlov 240
+Porjus 240
+Bjorno 240
+Bjorna 431
 Overhornas 602
 Arnasvall 345
 Svensbyn 345
 Bensbyn 602
 Edsbyn 4179
-Tandsbyn 453
-Orsundsbro 1302
-Landsbro 1438
+Vrango 379
+Rangedala 420
+Hamrangefjarden 546
+Landfjarden 277
+Gardby 277
+Garde 130
+Ojersbo 130
+Geijersholm 243
+Borgholm 4344
+Stenungson 243
 
-Vetlanda 13430
-Myresjo 728
-Rejmyre 886
-Lyrestad 474
-Ortagarden 474
-Tagarp 417
-Haljarp 3134
-Selja 547
-Klingsta 547
-Tingstade 229
-Hogstad 236
-Hogstorp 384
-Skogstorp 2180
-Ljungaverk 917
-
-Eskilstuna 67359
-
-Kil 7627
-Fageras 449
-Haksberg 449
-Eriksberg 3200
-Eriksbo 2564
-
-Hammarkullen 7914
-Stenkullen 2000
-Kullersta 320
-Irsta 2809
-Skarstad 433
-Arstad 321
-Riddarhyttan 321
-Langshyttan 1609
-Vikmanshyttan 840
-Ronneshytta 279
-Asbro 1321
-
-Bro 8266
-Bromsebro 213
-Avan 213
-Hemavan 216
-Ormaryd 216
-Yttermalung 216
-Malung 4927
-Malungsfors 574
-Billingsfors 1108
-Bengtsfors 3125
-Bengtsheden 537
-Linghed 529
-Linghem 2853
-
-Linkoping 106502
-
-Enkoping 22553
-
-Koping 18355
-Askoping 326
-Funbo 326
-Unbyn 449
-Skattungbyn 310
-Tun 207
-Tortuna 420
-Ulvkalla 420
-Alvkarleby 1517
-Alvkarleo 214
-Karlholmsbruk 1193
-Vikarbyn 1193
-Gardskar 354
-
-Skutskar 6279
-Furuvik 697
-Furudal 396
-Skedala 359
-Skede 345
-Hede 837
-Hedekas 392
-Tanumshede 1774
-Grebbestad 1877
-Brastad 2289
-Bastad 5146
-Salen 769
-Saleby 212
-Blombacka 212
-Korpilombolo 539
-
-Lomma 12368
-Torpshammar 477
-Saxtorpsskogen 1174
-Sandskogen 689
-
-Landskrona 32229
-
-Karlskrona 36477
-Skavkulla 784
-Koskullskulle 818
-Stockvik 2532
-
-Kvissleby 8785
-Dio 906
-Keinovuopio 6
-Stode 704
-Kode 1605
-
-Boden 16830
-Lejonbacken 70
-Enbacka 1899
-Romme 1735
-Torsang 712
-Orsa 5349
-Vamhus 831
-Lammhult 1694
-
-Almhult 9495
-Urshult 942
-Hult 473
-Syssleback 473
-Sunne 5026
-Sjunnerup 234
-Sjunnen 420
-Dannemora 238
-Sunnemo 276
-Hallstavik 4536
-Skebobruk 276
-Rydobruk 367
-Tunadal 367
-Rada 475
-Gallstad 536
+Stenungsund 13093
+Ljungskile 3689
+Svenshogen 452
+Odsmal 1414
+Eriksmala 205
+Langviksmon 220
+Langasjo 330
+Langas 539
+Morbylanga 1824
+Hagby 871
+Kahog 871
+Vastra Tommarp 286
+Soderakra 943
+Bergkvara 1021
+Vara 4052
+Gangletorp 464
+Grastorp 2946
+Stora Levene 809
+Stora Ror 209
+Stora 1967
 Vallsta 288
 Strassa 288
 Gusselby 292
-Klovsjo 292
-Hovsta 2831
-Glanshammar 778
-Villsharad 778
-Harad 508
-
-Strangnas 13693
-Bjorktorp 433
+Hassela 329
+Hasselfors 421
+Vase 519
+Baggetorp 519
+Hampetorp 306
 Bjorketorp 514
-Horred 1203
-Torreby 226
-Orrefors 766
-Johannishus 766
-Johannedal 2592
-Halledal 450
-Klockestrand 327
-Klockrike 248
-Osterslov 460
-Anderslov 1963
-Tving 548
+Bjorke 661
+Abyggeby 951
+Myggenas 1460
+Haggenas 361
+Hagge 297
+Morjarv 297
+Horja 206
+Blikstorp 206
+Hybo 206
+Fleninge 206
 Avinge 55
 
 Tullinge 16000
 
-Tumba 40832
-Malmback 1087
-Forserum 2080
-Lunne 278
-Betsede 278
-Aseda 2557
-Korsberga 731
-
-Akersberga 32659
-Resaro 3249
-Saro 2982
-Nya Langenas 339
-Kittelfjall 100
-Fjallbacka 850
-Idre 706
-Sexdrega 802
-Hallevik 1545
-Halleviksstrand 225
-Marstrand 381
-Hammarstrand 1116
-Loftahammar 435
-Nordano 435
-Horda 363
-Karda 315
-Forsheda 1510
-Eda 71
-Edane 666
-Nedansjo 310
-Ostansjo 869
-Utansjo 209
-Karungi 209
-Vittangi 791
-Vittaryd 306
-Hampetorp 306
-Baggetorp 519
-Hagge 297
-Morjarv 297
-Arjang 3302
-Han 25
-Hanger 333
-Ange 2889
-Valinge 280
-Balinge 2406
-Bjorklinge 3186
-Bjorke 661
-Abyggeby 951
-Myggenas 1460
-Hoviksnas 1750
-Kovikshamn 494
-Barsebackshamn 477
-Barseback 689
-Filsback 689
-Djurmo 689
-Djuro 1442
-Sinksundet 253
-Eksund 500
-Stensele 500
-Junsele 873
-Torsaker 873
-Undersaker 573
-Vaderstad 573
-Vad 291
-Palang 291
-Ang 301
-Ambjornarp 301
-Klippans Bruk 301
-
-Klippan 8411
-Kvidinge 1823
-
-Lidingo 42466
-
 Huddinge 90182
 
 Haninge 74968
+Arninge 295
+Rydbo 597
+Rydboholm 993
+Viskafors 3701
+Bodafors 1957
+Fridafors 296
 
-Handen 11524
+Degerfors 7190
+Storfors 2218
+Sorfors 460
+Sorforsa 1581
 
-Jordbro 10757
-Brota-Brothagen 51
-Kagghamra 206
-Blikstorp 206
-Fleninge 206
+Hudiksvall 16081
+Vannasby 1581
+Vannas 4373
+Hissjon 471
+Ekenassjon 1563
+Nikkala 417
+Tagarp 417
+Harslov 395
+Barslov 2753
+Glumslov 2093
+Grimslov 622
+Vaskinde 337
+Eneryda 337
+Rydaholm 1587
+Angsholmen 222
+Spangsholm 374
+Vankiva 374
+Bredviken 374
 
-Flen 6594
-Halleforsnas 1624
-Malmkoping 2106
-Arla 1272
-Jarlasa 515
-Horndal 1120
-Horn 547
-Hornefors 2514
-Kaunisvaara 76
-Juniskar 333
-Bygdsiljum 333
-Bygdea 512
-Logdea 516
-Gualov 516
+Sandviken 24724
+Simonstorp 242
+Ytternas 775
+Ytteran 203
+Jamton 203
+Bergsang 203
 
-Bromolla 7854
+Kungsangen 10151
+Sylta 763
+Brunna 3948
+Brunn 1180
+Kungshult 365
+Kungshamn 3657
+Vajern 659
+Hedekas 392
+Tanumshede 1774
+Grebbestad 1877
+Grebo 1047
+Toreboda 4626
+Algaras 408
+Sovestad 373
 
-Solvesborg 8972
+Mariestad 16122
+Marieby 458
+Ranneslov 458
 
-Alvesta 8627
+Eslov 18592
+Stehag 1191
+Stanstorp och Ormanas 422
+Satofta 1160
 
-Avesta 11949
-Krylbo 4072
+Hoor 12152
+Ludvigsborg 743
+Tronningenas 743
+Tronninge 1569
+Veinge 1417
+Fyllinge 2830
+Harplinge 1498
+Skarplinge 720
+Skare 5444
+Kareby 237
+Borggard 237
+Nyborg 823
+Odeborg 589
 
-Valbo 7147
+Vanersborg 23119
+Karlsborg 3624
+Borghamn 227
+Igelfors 227
+Fagelfors 437
+Bankekind 437
+Brokind 499
+Jarnforsen 510
+Bestorp 510
+Vinno 499
+Vinninga 1033
+Kallby 1737
 
-Gavle 74884
-Travad 451
-Glamsen 11
-Hemse 1668
-Hemsjo 370
-Varnhem 662
-Stjarnhov 555
-Rupstjarn 100
-Svarttjarn 5
-Ammarnas 95
-Tarnaby 492
-Karna 604
-Tjuvkil 1013
-Lerkil 411
+Lidkoping 22988
+Hokopinge 1164
 
-Soderkoping 7418
+Falkoping 17170
+Floby 1562
+Laggarberg 209
 
-Norrkoping 93765
-Vasterhus 275
-Fagerhult 389
-Skeppshult 389
-Skeppsvik 241
-Munga 241
-Vanga 241
-Tanga 225
-Stanga 335
-Burgsvik 335
-Skagersvik 243
-Sodersvik 352
-Soderala 961
+Varberg 34248
+Vinberg 606
 
-Soderhamn 12259
-Degerhamn 338
-Blixbo 338
-
-Kalix 7495
-Overkalix 1036
-
-Alingsas 26329
+Falkenberg 24099
+Skrea 1846
+Limedsforsen 383
+Johansfors 458
+Johannedal 2592
+Halledal 450
+Hallen 223
+Sjuhalla 221
+Stavsjo 221
+Savsjo 5374
+Stockaryd 1019
+Skillingaryd 3965
+Skillinge 975
+Skallinge 636
+Kallinge 4664
+Markaryd 4664
+Backaryd 386
+Hallaryd 673
+Horsaryd 73
+Orsa 5349
 Torsas 2000
 Olstorp 1017
 Olofstorp 3746
 
 Olofstrom 7526
 Jamshog 1612
+Odeshog 2554
+Gubbo 227
+Batskarsnas 227
+Garsnas 1094
+Hammenhog 879
+Ammenas 563
+Vattjom 563
+Vattnas 345
+Bettna 366
+Gardstanga 366
+Edsta 223
+Smedstorp 372
+Marmorbyn 372
+Kopparmora 2280
+Overby 253
+Overberg 57
+Hoverberg 206
+Kagghamra 206
+Osthamra 254
+Osthammar 4726
+Hammar 3311
+Hammarslund 587
+Tallboda 3311
+Boda 576
+Hogboda 334
+Unbyn 449
+Fanbyn 599
+Stugun 599
+Stode 704
+Gransjosvedjan 6
+Fransta 2062
+Ransta 850
+Fjallbacka 850
+Idre 706
+Sandhem 706
+Sandhult 563
+Sundhultsbrunn 301
+Ambjornarp 301
+Tjornarp 829
+Farosund 829
+Sundby 271
+Musko 271
+Fagerhult 389
+Skeppshult 389
+Skeppsvik 241
+Skepplanda 1821
+Salanda 4240
+Bralanda 1521
+Fargelanda 1986
+Velanda 592
+Svarta 592
+Svarte 921
+Hulu 273
+Hedeskoga 273
+Hede 837
+Vemdalen 549
+Lofsdalen 101
+Funasdalen 956
+Tanndalen 52
+Ljungdalen 109
+Tannas 111
+Tanno 201
+Amsele 201
+Ramsele 964
+Rusksele 201
+
+Lycksele 8545
+Asele 1706
+Insjon 2150
+Stensjon 663
+Paryd 663
+Aryd 687
+Traryd 655
+Basna 655
+Vallberga 655
+Tallberg 875
+
+Leksand 6107
+Vastanvik 472
+Vastra Karup 552
+Vastra Karaby 244
+Ostra Ryd 477
+Barsebackshamn 477
+Barseback 689
+Filsback 689
+Sandskogen 689
+Saxtorpsskogen 1174
+Torpshammar 477
+Ashammar 535
+Hammarby 533
+Vasterfarnebo 533
+Osterfarnebo 470
+Osterstad 324
+Ostervala 1696
+Osterbybruk 2331
+Osterby 527
+
+Vastervik 21178
+
+Vasteras 117746
+Enhagen-Ekbacken 1091
+Kolback 2034
 Stromsholm 676
 Kyrkesund 547
+Kvicksund 2179
+Eksund 500
+Stensele 500
+Junsele 873
+Torsaker 873
+Undersaker 573
+Vaderstad 573
+Tunnerstad 322
+Orslosa 322
+Forslov 2386
+Salen 769
+Saleby 212
+Oleby 367
+Tunadal 367
+
+Sigtuna 9074
+
+Vallentuna 31937
+
+Sollentuna 139606
+
+Kista 10254
+Gistad 283
+Fristad 5409
+Liden 283
+Boliden 1661
+Nyland 945
+Kage 2376
+Kagerod 1516
+Snogerod 208
+Magra 208
+Sjotofta 208
+Sjotorp 551
+Lotorp 685
+Skoldinge 685
+
+Ornskoldsvik 32493
+Gimat 870
+Skede 345
+Norrskedika 223
+Norr-Hede 241
+Norra Rorum 210
+Buskhyttan 210
+Grythyttan 859
+Bonan 859
+Obonas 646
+Bonas 370
+Holmsjo 370
+
+Holmsund 5962
+Obbola 2173
+Stocke 487
+Stocka 340
+Dals Rostock 882
+Dals Langed 1407
+Nya Langenas 339
+Hallesas 100
+
+Kallered 6784
+
+Lindome 10942
+Lindo 4763
+Vasterhus 275
+
+Norrkoping 93765
+
+Soderkoping 7418
+Eringsboda 275
+Palsboda 1610
+Stensbo 12
+Odensbacken 1378
+Repbacken 233
+Stollet 233
+Skollersta 1079
+Kullersta 320
+Irsta 2809
+Skarstad 433
+Karsta 502
+
+Marsta 27034
+Rosersberg 1765
+
+Jakobsberg 24046
+Persberg 249
+
+Hallsberg 8146
+Tulebo 229
+
+Trelleborg 29316
+Kurland 560
+Skegrie 1156
+
+Hollviken 14889
+Ljunghusen 2444
+
+Skanor med Falsterbo 7077
+Alster 756
+Alstermo 836
+Alsterbro 448
+Osterforse 245
+Soderfors 1704
+Svanvik 324
+Kanna 324
+Branna 228
+Gullbranna 667
+Gullbrandstorp 1642
+Bondstorp 218
+Dalstorp 734
+Gallstad 536
+Marback 475
+Otterbacken 686
+Gullspang 1568
+
+Finspang 12807
+Finsta 239
+Ensta 75
+Enstaberga 436
+Bergshammar 801
+
+Bergshamra 7300
+Stenhamra 3588
+Tureholm 799
+Sparreholm 734
+Holm 764
+
+Laholm 6527
+Lilla Tjarby 872
+Lilla Edet 3772
+Torreby 226
+Horred 1203
+
+Bjarred 9844
+Bjarlov 202
+Jarlasa 515
+Arla 1272
+Kjulaas 915
+Harad 508
+
+Strangnas 13693
+Bjorktorp 433
+Munktorp 453
+Ilsbo 453
+Delsbo 2185
+Friggesund 530
+Iggesund 3419
 Gesunda 260
 Svanesund 1946
-Kattilstorp 260
-Kattilsmala 266
-Klevshult 266
-Hishult 328
-Sibbhult 1431
-Kulltorp 328
-Skultorp 3644
+Svaneholm 1000
 
-Skovde 36842
-Backaskog 308
-Sya 308
-Rya 365
-Kungshult 365
-Kungshamn 3657
-Vajern 659
+Katrineholm 23283
+Katrinedal 399
+Munkedal 3910
+Hogstorp 384
+Klagstorp 548
+Vastra Klagstorp 266
+Vastra Hagen 1319
+
+Vastra Frolunda 15924
+Ostra Frolunda 321
+Alunda 2506
+Gimo 2698
+Lima 418
+Bole 418
+Grisslehamn 418
+
+Kvissleby 8785
+Dio 906
+Njurundabommen 1959
+Dingersjo 906
 Ojersjo 4394
-Sjovik 929
-Hovid 216
-Arvidsjaur 4655
-Blasmark 299
-Sjulsmark 353
-Kusmark 448
-Ovre Soppero 220
-Paulistrom 220
-Stromma 2468
-Rockhammar 265
-Baldersnas 265
-Nalden 986
-Valdemarsvik 2685
-Gusum 1149
-Husum 1563
-Ekenassjon 1563
-Ekeby 3292
-Askeby 503
-Heby 2724
+
+Landvetter 8839
+Ravlanda 1522
+Kovland 485
+Svanskog 485
+Ovansjo 96
+Nedansjo 310
+Edane 666
+Skattungbyn 310
+Skattkarr 1979
+Skinnskatteberg 2383
+
+Fagersta 11936
+Segersta 352
+Kilafors 1197
+Gammelgarden 281
+Sibo 281
+Bergvik 719
+Brosarp 719
+Asarp 609
+Asarna 280
+Karesuando 280
+Valinge 280
+Utvalinge 238
+Lingbo 420
+
+Helsingborg 104250
+Hittarp 4545
+Kattarp 732
+Hasslarp 542
+Hasslo 1606
+Hasslov 239
+Skoby 239
+Bjorkoby 323
+Ravemala 323
+Mala 2043
+Norsjo 2057
+Orsjo 362
+Timsfors 609
+Emsfors 317
+Stromsfors 525
+Krokek 5053
+Roke 204
+Ulrika 204
+Krika 202
+Klockrike 248
+Osterslov 460
+Anderslov 1963
+Tving 548
+Vingaker 4548
+Faker 241
+Jonaker 598
+Ovanaker 227
+Lovanger 810
+Rundvik 810
+
+Ludvika 15245
+Gonas 341
+Hjortnas 259
+Mortnas 1291
+Hemmesta 4577
+Tormestorp 1043
+Igelstorp 648
+Vallargardet 648
+Vargarda 5384
+Herrljunga 3982
+Essunga 145
+Nossebro 1884
+Torsebro 262
+Fiskebackskil 262
+Edeback 214
+Mehedeby 430
+Hedesunda 1067
+Arsunda 1012
+Sund 394
+Vena 394
+Vagnharad 3397
+Stocksjo 394
+Tocksfors 1221
+Bengtsfors 3125
+Billingsfors 1108
+Billinge 444
+Stjarnhov 555
+Rupstjarn 100
+Svarttjarn 5
+Ammarnas 95
+Tarnaby 492
+
+Jarna 6038
+Holo 1477
+Molnbo 1089
+Gnesta 5772
+Bjornlunda 838
+Jorn 777
+Tygelsjo 3420
+Halsjo 221
+Dalsjofors 3606
+Malsryd 910
+Malsta 207
+Glava 207
+Faglavik 209
+Paskallavik 1099
+Ulvkalla 420
+Sjunnen 420
+Sjunnerup 234
+Sunne 5026
+Sunnemo 276
+Dannemora 238
+
+Mora 12602
+Morarp 1935
+Torarp 273
+
+Ystad 18806
+Lovestad 636
+Skyttorp 636
+Gyttorp 671
+Halltorp 292
+Hallefors 4449
+
+Filipstad 6119
+
+Karlstad 61492
+Karlsvik 255
+Nysattra 255
+Sattra 336
+Brannland 336
+Branno 918
+Sennan 398
+Sunnansjo 614
+Sidensjo 380
+Odensjo 2646
+
+Jonkoping 93797
+Bygdea 512
+Haradsbygden 696
+Harads 496
+
+Boden 16830
+Lejonbacken 70
+Sundsbyn 20
+Alvsbyn 4976
+Sodra Bergsbyn 342
+Sodra Sunderbyn 3162
+
+Sodra Sandby 6306
+Sodra Vi 1134
+
+Vimmerby 8037
+Osterbymo 897
+
+Eksjo 10157
+
+Nassjo 17719
+Lunne 278
+Betsede 278
+Forserum 2080
+Orserum 356
+Virserum 1769
+Sjosa 488
+Malilla 1348
+
+Tomelilla 6826
+Signehog 239
+Svanberga 524
+Degeberga 1328
 Heberg 463
 Stigen 463
 Stigtomta 1949
-Sonstorp 436
-Jonstorp 1972
-Farhult 312
-Striberg 312
-Taberg 4486
-Barnarp 724
+Tomtebo 633
+Totebo 237
 
-Huskvarna 21500
+Goteborg 572799
+Bjorneborg 1237
+Backhammar 296
+Rockhammar 265
+Ostra Sonnarslov 265
+Ostra Odarslov 71
+Charlottenberg 2368
+Jattendal 258
+Vistheden 258
+Koppom 669
+Kopparnas 225
+Skumparp 225
+Skummeslovsstrand 454
+Mellbystrand 3412
+Vejbystrand 2764
+Grevie 937
 
-Nykvarn 7327
+Brevik 8024
 
-Sodertalje 70777
+Lidingo 42466
+Kvidinge 1823
+Hyllinge 2287
 
-Norrtalje 19365
-Billinge 444
+Bjuv 10602
+Bjornas 808
+Ornas 1083
+Torsang 712
+Romme 1735
+Stromma 2468
+Langvik 1206
+Svartbyn 265
+Svartvik 991
+Svartinge 3326
+Vittinge 566
+Hoting 648
+Simlangsdalen 648
+Dorotea 1491
+Roteberg 379
+Anneberg 1398
+Farila 1398
+Arild 713
+Molle 634
+Molltorp 1047
+Kulltorp 328
+Stoby 729
 
-Vellinge 6496
-Gavsta 539
-Gessie Villastad 539
-Langas 539
-Langasjo 330
-Oxaback 330
-Rannavag 330
-Granna 2726
-Jaderfors 307
-Sormjole 307
-Norrmjole 228
-Maleras 228
+Hassleholm 19309
+Uddeholm 619
+Hagfors 4869
+Munkfors 2834
+Mjonas 257
+Hara 234
+Eksharad 1020
+Ramsberg 203
+Norr Amsberg 238
+Trolmen Stromsberg 2
 
-Amal 9373
+Stromstad 7176
+Lunnarp 340
+Rosenlund 340
+Rosenfors 267
+Fritsla 2307
+Kinnarumma 267
 
-Saffle 9150
-
-Staffanstorp 15373
-Farmanstorp 140
-Harmanger 592
-Enanger 643
-Njutanger 849
-Iggesund 3419
-Friggesund 530
-Delsbo 2185
-Ilsbo 453
-Danmark 453
-Munktorp 453
-Almunge 816
-Munkedal 3910
-Dingle 901
-Gangletorp 464
-Stollet 233
-Skollersta 1079
-Hillerstorp 1746
-Anderstorp 5076
-Landeryd 404
-Burseryd 932
-Fliseryd 716
-Orserum 356
-Virserum 1769
-Kvillsfors 488
-Olsfors 617
-Bollebygd 3870
-Ravlanda 1522
-Kovland 485
+Kinna 15019
+Lidhult 665
+Hyssna 665
+Satila 1210
+Hallingsjo 459
+Eriksmyst 150
+Harryda 861
+Hindas 2901
+Indal 949
 Navekvarn 779
 Hogsjo 779
 Haggsjo 26
@@ -1207,256 +1133,204 @@ Harnosand 18426
 Arno 4124
 
 Nykoping 32224
-Bergshammar 801
 
-Bergshamra 7300
-Stenhamra 3588
-Tureholm 799
-Sparreholm 734
-Dalstorp 734
-Hassela 329
-Hasselfors 421
-Vase 519
-Anaset 622
-Hedenaset 285
-Undenas 238
-Utvalinge 238
-Lingbo 420
-
-Helsingborg 104250
-Odakra 5231
-Vallakra 800
-Soderakra 943
-Vastra Tommarp 286
-Ostra Tommarp 291
-Vastra Torup 210
-Norra Rorum 210
-Norr-Hede 241
-Norrskedika 223
-Dikanas 147
-Kinnared 309
-
-Kinna 15019
-Kinnarumma 267
-Rosenfors 267
-Jarnforsen 510
-Bestorp 510
-Vinno 499
-Vinninga 1033
-
-Lidkoping 22988
-Hokopinge 1164
-
-Falkoping 17170
-Floby 1562
-Floda 701
-Bjorbo 658
-Bjorboholm 1036
-Rydboholm 993
-Ovesholm 283
-Ortofta 283
-Dalsjofors 3606
-Malsryd 910
-Tingsryd 3087
-Konga 493
-Morgongava 1441
-Vargon 4981
-Gota 1002
-Lilla Edet 3772
-Lilla Harrie 391
-Marieholm 1604
-Marieby 458
-Marieberg 1181
-Innertavle 576
-Osthammar 4726
-Osthamra 254
-Vistheden 258
-Koppom 669
-Kopparnas 225
-Kopparberg 3065
-Norberg 4653
-Gullringen 503
-Gullerasen 359
-Solleron 860
-Sollebrunn 1482
-Brunn 1180
-Lundsbrunn 909
-Gotene 5027
-Gotlunda 302
-Skagelund 1
-Hallekis 683
-Vuollerim 683
-Ullervad 885
-Lerdala 558
-Ardala 745
-Dalaro 1849
-Idala 739
-
-Svedala 11796
-Klovedal 569
-Hedared 361
-Haggenas 361
-Vattnas 345
-Bettna 366
-Bottnaryd 717
-Unnaryd 823
-Broaryd 284
-Djupvik 284
-Djupekas 210
-Buskhyttan 210
-Grythyttan 859
-Gryt 333
-Grytgol 290
-Odensberg 290
-Borensberg 2942
-Brunnsberg 200
-Fjaras station 200
-Fjaras kyrkby 2385
-Bello 200
-Pello 193
-Pajala 2032
-Tarendo 482
-
-Gallivare 10362
-Gallo 757
-Segersang 757
-Segersta 352
-
-Fagersta 11936
-Fagersanna 684
-
-Tibro 8396
-
-Hjo 6203
-Hjorted 326
-Hjortnas 259
-Gonas 341
-Kyrkheddinge 259
-Kyrkhult 999
-Knared 1211
-Genevad 653
-Hjaltevad 349
-Bracke 1559
-Hackas 531
-As 1572
-
-Ostersund 49806
-Ope 441
-Jarpen 1539
-Garpenberg 515
-Gripenberg 300
-Mjoback 300
+Enkoping 22553
+Bredsand 874
+Bredbyn 1200
+Nolby 1200
 
 Mjolby 12858
 Skanninge 3358
-Ekangen 2485
-Alvangen 4759
-
-Kungalv 24101
-Margretetorp 255
-Salbohed 255
-Mohed 550
-Moheda 1880
-Gemla 1462
-
-Kumla 16663
-Tulebo 229
-
-Trelleborg 29316
-Killeberg 596
-Billeberga 1050
-Billesholm 2794
-Jokkmokk 2794
-Nikkala 417
-Kalarne 435
-Sandarne 1681
-Andalen 1897
-
-Torslanda 10129
-
-Bjorlanda 23088
-Bjorko 1495
-Kvisljungeby 586
-Asljunga 738
-Emmaljunga 268
-Orkelljunga 5193
-Eket 412
-Bleket 406
-Ronnang 1551
-Sifferbo 406
-Overboda 241
-Overby 253
-Hoverberg 206
-Idkerberget 252
-Stockamollan 293
-Stockaryd 1019
-Vrigstad 1461
-Hagsta 200
-Vastra Hagen 1319
-Vastra Husby 488
-Ostra Husby 868
-Krokek 5053
-Roke 204
-Molkom 1896
-Vickleby 438
-Myckle 416
-Klassbol 310
-Lassby 231
-Glommerstrask 231
-Arontorp 231
-Mantorp 3781
-Hovmantorp 3082
-Lessebo 2857
-Nossebro 1884
-Essunga 145
-Herrljunga 3982
-Laggarberg 209
-Horla 209
-Vedum 960
-Duved 637
-Lucksta 637
-Ucklum 531
-Dalum 651
+Sunningen 589
+Mattsund 589
+Skottsund 1052
+Sundom 219
+Sundborn 923
+Ingatorp 466
+Torbjorntorp 466
+Tvaralund 338
 
 Falun 37000
-Tvaralund 338
-Danholn 466
-Kopmanholmen 1194
-Hultafors 333
-Amynnet 333
+Ljungsarp 219
+
+Borlange 41955
+Jorlanda 1465
+Arod 873
+Huarod 254
+Hjortsberga 254
+Evertsberg 232
+Vastermyckelang 382
+Vastra Amtervik 382
+Alvdalen 1863
+Ekedalen 481
+Stalldalen 481
+Gnosjo 4528
+Hillerstorp 1746
+Anderstorp 5076
+
+Gislaved 10180
+Vislanda 1813
+Upplanda 222
 Aminne 222
-Glomminge 366
-Hemmingsmark 366
-Hemmesta 4577
-Mortnas 1291
-Antnas 889
-Gammelstad 4892
-Hummelsta 994
-Kummelnas 3360
+Linneryd 541
+Vaggeryd 5122
+Lekeryd 788
 
-Solna 66909
+Bankeryd 8506
+Skottorp 512
+Lottorp 562
+Atorp 234
+Hjortkvarn 234
+Glado Kvarn 438
 
-Sollentuna 139606
+Nykvarn 7327
 
-Vallentuna 31937
+Sodertalje 70777
 
-Sigtuna 9074
-Alsike 3833
+Norrtalje 19365
+Valje 1067
+Edsbruk 324
+Brandon 324
+Selanger 324
+Enanger 643
+Njutanger 849
+Harmanger 592
+Bergsjo 1292
+Smogen 1292
+Djura 387
+Gravsnes 387
+Tylosand 387
+Are 2768
+Foto 630
+Vrena 630
+Bjornange 630
+Duved 637
+Lucksta 637
+Raksta 629
+Arsta Havsbad 389
+Varsta 2470
+Norrbyvret 75
+Borrby 975
+Loderup 614
+Klagerup 1940
+Bara 3743
 
-Savja 9723
+Oxie 12665
+Gottne 212
+Rottne 2395
+Braas 1692
+Jadraas 243
+Bjorkviken 243
+Bjorkvik 511
+Jackvik 90
+Kvikkjokk 18
+Jokkmokk 2794
+Ekeby 3292
+Ekeby-Almby 1531
+Norra Bro 880
+Norra Asum 1248
+Nasum 1307
+
+Bromolla 7854
+Logdea 516
+Gualov 516
+Svalov 3852
+Marieholm 1604
+Mariedal 277
+Himle 277
+Lybeck 277
+
+Bro 8266
+Ramdala 277
+Dalaro 1849
+Kalarne 435
+Nordano 435
+Horda 363
+Bor 1263
+Navragol 222
+Karda 315
+Forsheda 1510
+
+Forshaga 6361
+Haga 319
 
 Uppsala 149245
 
 Sala 13087
 
 Onsala 12275
-Donso 1446
-Brandon 324
-Selanger 324
-Birka 324
-Barkaro 1404
-Enhagen-Ekbacken 1091
-Kolback 2034
+
+Kungsbacka 18698
+Fjaras kyrkby 2385
+Fjaras station 200
+Rorbacksnas 200
+Hoviksnas 1750
+Kovikshamn 494
+Karna 604
+Tjuvkil 1013
+Kode 1605
+Stora Hoga 2846
+Stora Herrestad 331
+Herrestad 2412
+Lyrestad 474
+Harestad 260
+Ljusne 1946
+
+Ljusdal 7259
+Jarvso 1557
+Lansjarv 68
+Jukkasjarvi 607
+Arvidsjaur 4655
+Vidsel 526
+Nasaker 526
+Hallesaker 371
+Langhem 1086
+Ganghester 2533
+Burea 2533
+Nasviken 910
+Drag 463
+
+Boras 71700
+Sjomarken 2596
+Arkelstorp 815
+Immeln 298
+Timmele 788
+Nykroppa 788
+Kopparberg 3065
+Abborrberget 1814
+Blotberget 259
+
+Malmberget 6017
+
+Gallivare 10362
+Vittangi 791
+Vittaryd 306
+Kilsmo 233
+Ryssby 691
+Lassby 231
+Klassbol 310
+Vannasberget 207
+Svanstein 207
+Vansbro 2042
+Ljungbyholm 1725
+Appelbo 490
+Nygard 490
+Grangarde 346
+Grangesberg 2146
+
+Lindesberg 9571
+Klovsjo 292
+Klovedal 569
+Klovertrask 241
+Burtrask 1573
+
+Skelleftea 35516
+Skelleftehamn 3069
+
+Solleftea 7399
+Orrviken 289
+Hammarstrand 1116
+Loftahammar 435
 
 Hallstahammar 10787
 
@@ -1465,772 +1339,898 @@ Ramnas 1333
 Skultuna 3378
 Hokasen 2986
 Tillberga 2151
-Vallberga 655
-Tallberg 875
+Aspas 474
+Ortagarden 474
+Barkaro 1404
+Soderbarke 973
+Smedjebacken 5258
+Enbacka 1899
+Sater 4613
+Viksater 859
+Bjorsater 437
+Rimforsa 2259
 
-Leksand 6107
-Haradsbygden 696
-Harads 496
-Kabdalis 91
-Moskosel 299
-Sorsele 1175
-Risogrund 594
-Guojkkasuoluoj 594
-Hakkas 374
-Bredviken 374
+Kramfors 6582
+Sikfors 211
+Herrskog 211
+Spekerod 211
 
-Sandviken 24724
-Rundvik 810
+Ekero 11505
+Parksidan 944
+Solsidan 209
+Tidan 989
 
-Ludvika 15245
-Ullared 699
-Ingared 1703
-Teckomatorp 1703
-Atorp 234
-Ingatorp 466
-Torbjorntorp 466
-Rolfstorp 537
-Ostvik 537
-Rutvik 896
-Rattvik 5160
-Finnerodja 575
-Vidja 741
-Stenis 375
-Stensbo 12
-Odensbacken 1378
-Repbacken 233
-Backebo 241
-Backefors 709
-Frandefors 640
-Frano 679
-Fransta 2062
-Gransjosvedjan 6
-Stugun 599
-Gunnebo 1022
-Hunnebostrand 2053
-Hunnestad 259
-Onnestad 1392
-Kristdala 1016
+Tidaholm 8175
+Skultorp 3644
+Axvall 1164
+Morup 308
+Torup 1245
+Vastra Torup 210
+Ostra Tommarp 291
+Vad 291
+Palang 291
 
-Kristianstad 39762
-Fristad 5409
-Gistad 283
-Rabbalshede 283
-Balsby 455
-Fjalkinge 1832
-Borgafjall 10
-Vallargardet 648
-Simlangsdalen 648
-Igelstorp 648
-Tormestorp 1043
-Stromsund 3690
-Hammerdal 1043
-Haverdal 1681
-Silverdalen 681
-Hultsfred 5510
-Sundhultsbrunn 301
-Solvarbo 301
-Harbo 714
-Jarbo 1813
-Vislanda 1813
-Sandslan 313
-Frufallan 884
-
-Boras 71700
-Sjomarken 2596
-Roma 905
-Vibble 1709
-Sibble 354
-Sibo 281
-Viby 936
-Kvibille 948
-Lesjofors 948
-Viksjofors 264
-Lorby 264
-Ambjorby 246
-Ysby 246
-Torsby 4419
-Askersby 251
-Askersund 3997
-Ammeberg 443
-Overtanger 240
-Kvarlov 240
-Bjarlov 202
-Harlosa 780
-Bjarsjolagard 351
-Lagan 1550
-
-Ljungby 15785
-Ljungbyholm 1725
-Vansbro 2042
-Appelbo 490
-Nygard 490
-Gardby 277
-Landfjarden 277
-Norrfjarden 1562
-Hamrangefjarden 546
-Rangedala 420
-Dals Langed 1407
-Dals Rostock 882
-Mellerud 3797
-Rud 217
-Person 217
-Koinge 217
-Sloinge 991
-Johansfors 458
-Limedsforsen 383
-Bergeforsen 1787
-
-Timra 10495
-Simris 235
-
-Simrishamn 6779
-Sidensjo 380
-Sunnansjo 614
-
-Tomelilla 6826
-Skoby 239
-Kyrkobyn 774
-Karlsvik 255
-Karlsborg 3624
-Borghamn 227
-Batskarsnas 227
-Gubbo 227
-Obbola 2173
-
-Holmsund 5962
-Stocke 487
-Stocksjo 394
-Sjotorp 551
-Sjotofta 208
-Magra 208
-Snogerod 208
-Nogersund 532
-Mariefred 3911
-Mariedal 277
-Himle 277
-Gamleby 2758
-Nye 202
-Nyehusen 271
-Musko 271
-Arsta Havsbad 389
-Stora Herrestad 331
-Herrestad 2412
-Harestad 260
-Hallestad 335
-
-Halmstad 66124
-Almsta 1376
-Olmstad 401
-Docksta 401
-Nordingra 282
-Rydsnas 282
-Stralsnas 450
-
-Tranas 14550
-Moliden 300
-Bjorkliden Fjallby 24
-Abisko 85
-Riksgransen 44
-Ransta 850
-Hamburgsund 706
-Grundsund 647
-Torsebro 262
-
-Lysekil 7734
-Varekil 912
-Torekov 1078
-Toreboda 4626
-Algaras 408
-Sovestad 373
-
-Mariestad 16122
-Varing 641
-Lugnas 641
-Gnarp 1199
-Gagnef 1199
-Gnesta 5772
-Molnbo 1089
-
-Molndal 59430
-
-Molnlycke 17579
-Lillpite 385
-Lillhardal 403
-Sveg 2543
-Svenstavik 916
-Liatorp 531
-Brunflo 3916
-Pilgrimstad 402
-Kimstad 1469
-Skarblacka 4023
-Norsholm 566
-Madangsholm 411
-Jung 411
-Utvalnas 411
-Hallnas 309
-
-Bollnas 13716
-Lottefors 374
-Arbra 1961
-Larbro 423
-Farosund 829
+Atvidaberg 7014
+Tangaberg 965
+Tanga 225
+Stanga 335
+Burgsvik 335
+Skagersvik 243
+Mollosund 243
 
 Oxelosund 11157
-Mollosund 243
-Timmernabben 1357
-Alem 797
-Aled 1690
-Oskarstrom 4172
-Skogsby 948
-Hogsby 1923
-Bockara 356
-Ockelbo 2875
-Amot 238
-Totra 285
-Saltvik 285
-Bergby 1549
-Bredaryd 1549
-Paryd 663
-Traryd 655
-Frinnaryd 226
-Agunnaryd 215
-Trono 215
-Trodje 337
-Smedjebacken 5258
-Soderbarke 973
-Soderskogen 363
-Sovde 363
-Lenhovda 1762
-Alvdalen 1863
-Vastermyckelang 382
+Djupekas 210
+Djupvik 284
+Atran 400
+Svappavaara 400
+Tuolluvaara 979
+Kaunisvaara 76
+Hornefors 2514
+Horn 547
+Klingsta 547
+Fellingsbro 1475
+Frovi 2480
+Hovsta 2831
+Lovstalot 1399
+
+Knivsta 7977
+Alsike 3833
+
+Savja 9723
+Tandsbyn 453
+Orsundsbro 1302
+Grillby 1028
+Linanas 303
+Lillkyrka 303
+Kyrkhult 999
+Knared 1211
+Ingared 1703
+Teckomatorp 1703
+Liatorp 531
+Ucklum 531
+Hackas 531
+Backaskog 308
+Sya 308
+Dvarsatt 745
+Kvanum 1278
+Granum 223
+Grano 261
+Ralla 418
+Hallabro 261
+Hallstavik 4536
+Skebobruk 276
+Rydobruk 367
+Nas Bruk 223
+Klippans Bruk 301
+
+Klippan 8411
+Vallkarra 412
+Hedkarra 201
+Botsmark 201
+Ersmark 1650
+
+Umea 83249
+Roback 2460
+Varobacka 765
+Bua 1792
+Frano 679
+Frandefors 640
+Backefors 709
+Backebo 241
+Munga 241
+Holsljunga 241
+Vanga 241
+Svangsta 1904
+Morrum 3903
+Stilleryd 355
+
+Partille 28648
+Sjovik 929
+
+Lerum 26913
+Allerum 722
+Odakra 5231
+Vallakra 800
+
+Uddevalla 34781
+Uddebo 255
+Salbohed 255
+
+Valbo 7147
+
+Gavle 74884
+Innertavle 576
+Finnerodja 575
+Vegby 575
+Gullerasen 359
+Solleron 860
+Vidja 741
+Ostnor 523
+Hemsjo 370
+Hemse 1668
+Hallestad 335
+Hallevik 1545
+Horvik 802
+Sexdrega 802
+Lorby 264
+
+Horby 7459
+Orbyhus 2025
+Utby 410
+Knutby 705
+Saxemara 429
+Fagelmara 397
+Fagelsta 316
+Zinkgruvan 316
+Taljo 410
+Bjorklinge 3186
+Balinge 2406
+
+Storvreta 6340
+Vattholma 1410
+Olmanas 787
+
+Asa 6084
+Domsten 625
+Klappa 625
+Lappe 221
+Rappestad 247
+Unnaryd 823
+Broaryd 284
+Ormaryd 216
+Yttermalung 216
+Malung 4927
+Malungsfors 574
+Javre 574
+Ambjorby 246
+Bjorbo 658
+Vissefjarda 658
+Mockfjard 1920
+Floda 701
+Hok 658
+Nyhammar 1052
+Tosse 346
+Saxdalen 620
+Hunnestad 259
+Vaplan 259
+Kyrkheddinge 259
+Frodinge 343
+Pukavik 343
+Svenstavik 916
+Brunflo 3916
+Ope 441
+
+Ostersund 49806
+As 1572
+Krokom 1953
+Nordkroken 456
+Vargon 4981
+Morgongava 1441
+Konga 493
+Tingsryd 3087
 Vackelsang 954
 Ulvaker 256
-Nasaker 526
-Hargshamn 289
-Orrviken 289
+Lenhovda 1762
+Asenhoga 200
+Asen 262
+Tallasen 608
+Stallarholmen 1671
+Mariefred 3911
+Nogersund 532
+Askersund 3997
+Askersby 251
+Torsby 4419
+Syssleback 473
+Rydeback 5904
+Gantofta 1322
+Paarp 2932
 
-Solleftea 7399
-Reftele 1289
-Smalandsstenar 4564
-Vadstena 5674
-
-Motala 30944
-Granby 240
-Fanbyn 599
-Matfors 3437
-Amotfors 1347
-Ostra Odarslov 71
-Ostra Sonnarslov 265
-Ostra Vemmerlov 234
-Hjortkvarn 234
-Glado Kvarn 438
-Skebokvarn 207
-Klutmark 207
-Flurkmark 210
-Bullmark 329
-
-Kalmar 38408
-Hjalmared 266
-Rofors 266
-Uddheden 266
-Gudhem 429
-Asby 429
-Saxemara 429
-Saxnas 127
-Sjoberg 10
-Bergsjo 1292
-Smogen 1292
-Osmo 3866
-Kilsmo 233
-Ryssby 691
-Vingaker 4548
-Smedstorp 372
-Smedby 3607
-Bredbyn 1200
-Lundby 203
-Bergsang 203
-Eksharad 1020
-Hara 234
-Nordmark 234
-Nordmaling 2671
-Lovanger 810
-Hova 1254
-Kopingebro 1254
-Otterbacken 686
-Gullspang 1568
-
-Finspang 12807
-Finsta 239
-Finja 616
-Varsas 616
-Hjarsas 216
+Landskrona 32229
+Haljarp 3134
+Jarpen 1539
+Morsil 781
+Lit 1117
+Hammerdal 1043
+Stromsund 3690
+Stromsbruk 360
+Stromsnasbruk 2246
+Emmaljunga 268
+Bjarnum 2755
 Hjarnarp 1095
 Svalsta 1095
 
 Angelholm 23240
-Strovelstorp 1207
-Hasslarp 542
-Hasslo 1606
-Drottningskar 467
-Drottningholm 348
-Rottneros 445
-Alvsered 445
-Atran 400
+Karlholmsbruk 1193
+Alvkarleo 214
+Alvkarleby 1517
+Salgsjon 214
+Yngsjo 565
+
+Ahus 9840
+Rinkaby 768
+Rinkabyholm 1631
+Sannahed 419
+Fagersanna 684
+
+Tibro 8396
+
+Hjo 6203
+Gotlunda 302
+Skagelund 1
+Lundsbrunn 909
+Gotene 5027
+Vuollerim 683
+Ullervad 885
+Lugnas 641
+Bergnaset 3604
+Anaset 622
+Hedenaset 285
+Undenas 238
+Lunde 365
+Sinksundet 253
+Norrsundet 966
+Orrefors 766
+Sturefors 2228
+Dannike 437
+Johannishus 766
+Listerby 966
+Ronnebyhamn 749
+
+Ronneby 12612
+Aneby 3496
+Mjoback 300
+Granna 2726
+Rannavag 330
+Oxaback 330
+Emmaboda 4818
+Nas 205
+Ostmark 205
+Kusmark 448
+Ovre Soppero 220
+Paulistrom 220
+
+Nybro 13039
+Rengsjo 245
+Kristvallabrunn 245
+Kangos 245
+Ekangen 2485
+
+Linkoping 106502
+Malmslatt 5074
+Slaka 593
+Vikingstad 2335
+Mantorp 3781
+Hovmantorp 3082
+Lessebo 2857
+Kosta 985
+Ostana 221
+Rostanga 874
+Vilshult 303
+Raby 924
+Nattraby 3284
+Farmanstorp 140
+
+Staffanstorp 15373
+Hjarup 4744
+
+Lomma 12368
+Glomminge 366
+Hemmingsmark 366
+
+Flen 6594
+Halleforsnas 1624
+Malmkoping 2106
+Akers Styckebruk 2730
+Hyltebruk 3992
+Sollebrunn 1482
+
+Alingsas 26329
+Overkalix 1036
+Ellos 1036
+Bjorboholm 1036
+Moholm 647
+Grundsund 647
+Oregrund 1589
+Risogrund 594
+Guojkkasuoluoj 594
+Hakkas 374
+Lottefors 374
+Arbra 1961
+Larbro 423
+Slite 946
+Roma 905
+Vibble 1709
+
+Visby 23402
+Flisby 215
+Trono 215
+Agunnaryd 215
+Frinnaryd 226
+Skane-Tranas 226
+Gota 1002
+Lodose 1540
+Nykil 322
+Alvhem 322
+Mjohult 322
+Farhult 312
+Vinas 312
+Segmon 416
+Slottsbron 1010
+Grums 5040
+Myckle 416
+Vickleby 438
+Molkom 1896
+Deje 2702
+
+Kil 7627
+Fageras 449
+Maleras 228
+Falerum 236
+Overum 1166
+Gamleby 2758
+Nye 202
+Kastlosa 202
+Harlosa 780
+Vasterlosa 214
+Vasterljung 377
+Marieberg 1181
+Herrang 377
+Almsta 1376
+Edsbro 578
+Landsbro 1438
+
+Vetlanda 13430
+Overharde 553
+Holsbybrunn 783
+Myresjo 728
+Rejmyre 886
+Grytgol 290
+Gryt 333
+Ostadkulle 401
+Koskullskulle 818
+Essvik 818
+Ankarsvik 986
+Ankarsrum 1234
+Gunnebo 1022
+Almvik 202
+Ramvik 746
+Asensbruk 746
+Norrmjole 228
+Sormjole 307
+Jaderfors 307
+
+Habo 7740
+Sjogestad 307
+Fjugesta 2160
+Vintrosa 2285
+Trosa 5836
+Frosakull 2296
+Sandarne 1681
+Skogsby 948
+Hogsby 1923
+Vattubrinken 356
+Brink 77
+Grodby 551
+Rodbo 255
+Margretetorp 255
+Vaxtorp 987
+Stopen 1373
+Kyrkobyn 774
+Nolvik 1373
+Tallvik 497
+Aseda 2557
+Korsberga 731
+Rorvik 582
+Sorvik 718
+Storvik 2251
+Hortlax 1128
+
+Pitea 23067
+Lillpite 385
+Oxeryd 544
+Fliseryd 716
+Monsteras 4998
+Blomstermala 2380
+Alem 797
+Timmernabben 1357
+Timmersdala 895
+Kivik 895
+Baskemolla 297
+Stockamollan 293
+Frufallan 884
+Falla 464
+Arentorp 464
+Sjuntorp 2213
+Arontorp 231
+Larv 231
+Laby 231
+Fladie 231
+Overlida 540
+Dalum 651
+
+Ulricehamn 10629
+Rada 475
+Idkerberget 252
+Aspered 293
+Nitta 360
+Hokerum 642
+Borgstena 426
+Vadstena 5674
+
+Gardsten 8025
+
+Lovgardet 7113
+
+Surte 6003
+Rannebergen 4364
+Kristineberg 331
+
+Kristinehamn 18557
+
+Kristianstad 39762
+Kristdala 1016
+Sosdala 1808
+Lindsdal 5709
+Smedby 3607
+Duno 419
+
+Kalmar 38408
+Bullmark 329
+Limmared 1434
+Tranemo 3224
+Ranea 1966
+Tore 1051
+Torekov 1078
+Storebro 1011
+
+Orebro 115765
+Mosas 899
+Latorpsbruk 727
+Torpsbruk 369
+Berghem 369
+Linghem 2853
+Linghed 529
+Svardsjo 1335
+Bengtsheden 537
+Rolfstorp 537
+Rolfs 1001
+
+Kalix 7495
+Marielund 1726
+
+Haparanda 6679
+Overtornea 1906
+Pello 193
+Bello 200
+Brunnsberg 200
+Hagsta 200
+Hogstad 236
+Vrigstad 1461
+Lammhult 1694
+Moheda 1880
+Mohed 550
+
+Bollnas 13716
+Kummelnas 3360
 
 Fisksatra 8117
 
 Saltsjobaden 9477
 
-Alta 9274
-Sylta 763
+Sjobo 7910
+Sjoberg 10
+Borgafjall 10
+Bjorkliden Fjallby 24
+Abisko 85
+Riksgransen 44
+Nikkaluokta 22
 
-Jakobsberg 24046
-Rosersberg 1765
-
-Upplands Vasby 36534
-Vaplan 259
-Saxdalen 620
-Ekedalen 481
-Stalldalen 481
-Gnosjo 4528
-Ossjo 223
-Forssjo 525
-Stromsfors 525
-
-Stromstad 7176
-Trolmen Stromsberg 2
-Stromsbruk 360
-Stromsnasbruk 2246
-Norsesund 268
-Bjarnum 2755
-
-Bjarred 9844
-Bjasta 1845
-Astol 238
-Optand 238
-Norr Amsberg 238
-Ramsberg 203
-Uddeholm 619
-Hagfors 4869
-Haga 319
-Hagby 871
-Kahog 871
-Sannahed 419
-Duno 419
-Solberga 419
-Rinkabyholm 1631
-Rinkaby 768
-Raby 924
-Nattraby 3284
-Fredriksdal 318
-Fredriksberg 717
-Mullsjo 5584
-Furusjo 357
-Furuby 368
-
-Vaxjo 65383
-Vaxtorp 987
-Stopen 1373
-Tumlehed 623
-
-Hassleholm 19309
-Grisslehamn 418
-
-Kristinehamn 18557
-Kristineberg 331
-Kallo-Knippla 331
-Halso 586
-Sjalso 397
-Runhallen 213
-Fagelmara 397
-Fagelsta 316
-Fagelfors 437
-Bjorsater 437
-Hogsater 744
-Huarod 254
-Eda Glasbruk 254
-Boda Glasbruk 201
-Tanno 201
-Hedkarra 201
-Vallkarra 412
-Axvall 1164
-Laxvik 486
-Laxa 3125
-Hortlax 1128
-Roknas 1259
-Krokom 1953
-Nordkroken 456
-Katrinedal 399
-
-Katrineholm 23283
-Svaneholm 1000
-Figeholm 730
-Vittjarv 498
-Seittenkaari 498
-Nitta 360
-Hokerum 642
-Hok 658
-Nyhammar 1052
+Kiruna 17037
+Tarendo 482
+Pajala 2032
+Jockfall 59
+Ljusfallshammar 316
 Olshammar 237
 Eggby 237
-Vegby 575
-Stangby 1943
-
-Sodra Sandby 6306
-Flyinge 992
-Flygsfors 220
-
-Nybro 13039
-Rengsjo 245
-Kristvallabrunn 245
-Lindsdal 5709
-Indal 949
-Hindas 2901
-Harryda 861
-Oxeryd 544
-
-Landvetter 8839
-Ytternas 775
-Simonstorp 242
-Monsteras 4998
-Blomstermala 2380
-Mjallom 243
-Tjallmo 518
 Bruzaholm 237
-
-Tidaholm 8175
-Fladie 231
-Larv 231
-Jarvso 1557
-
-Ljusdal 7259
-Ljusne 1946
-Ljunghusen 2444
-
-Hollviken 14889
-
-Skanor med Falsterbo 7077
-Listerby 966
-Norrsundet 966
-Fridlevstad 708
-
-Ystad 18806
-Hedeskoga 273
-Hulu 273
-Tenhult 3112
-Nykroppa 788
-Nykil 322
-Alvhem 322
-Mjohult 322
-Lodose 1540
-Loderup 614
-Hofterup 3814
-Tarnsjo 1174
-Odensjo 2646
-
-Jonkoping 93797
-Kortebo 512
-Svarte 921
-Svartvik 991
-Svartinge 3326
-Vittinge 566
-Tegelhagen 500
-Fegen 235
-Degeberga 1328
-Yngsjo 565
-
-Ahus 9840
-Husby 250
+Vaxholm 4849
+Rindo 1100
+Raltlindor 25
+Han 25
+Arjang 3302
+Verket 2
+Laxa 3125
+Ed 2994
+Mellerud 3797
+Mellansel 825
+Glanshammar 778
+Villsharad 778
+Uppharad 572
+Spillersboda 480
+Uddheden 266
 
 Hedemora 7371
-Ingelstrade 250
-Tradet 296
-Mogata 296
 
-Karlskoga 27490
-Valskog 693
+Avesta 11949
+Krylbo 4072
+Horndal 1120
+Birka 324
+Marma 324
+Glamsen 11
+Travad 451
+Furuvik 697
 
-Arboga 10841
-Kungsor 5885
-Kvicksund 2179
-Aspas 474
-Jarpas 789
-Kvanum 1278
-Dvarsatt 745
-Satila 1210
-Rygga 61
-Trangsviken 272
-Nasviken 910
-Ursviken 3913
-Byske 1785
-Skee 736
-Skalo 340
-Rosenlund 340
-Kebal 340
-Rydeback 5904
-Gantofta 1322
-Vartofta 529
-Svardsjo 1335
-Nedre Gardsjo 363
-Gards Kopinge 926
-Norra Asum 1248
-Nasum 1307
-Norje 814
-Farjestaden 5645
-Algutsrum 862
-Grums 5040
-Slottsbron 1010
-Segmon 416
-
-Skoghall 13605
-Hanaskog 1385
-Knislinge 3144
-Osbyholm 298
-
-Osby 7554
-Hastveda 1693
-Sjorrod 672
-Tyringe 4712
-Styrso 1324
-Akers Styckebruk 2730
-Stallarholmen 1671
-Lindholmen 1146
-Arninge 295
-Rydbo 597
-Myrviken 295
-Enviken 840
-Grycksbo 1870
-Sagmyra 552
-Drag 463
-Fjardhundra 907
-Vilshult 303
-Alghult 497
-Slatthult 231
-Vattholma 1410
-
-Storvreta 6340
-Barby 347
-Bara 3743
-
-Oxie 12665
-Bie 510
-Grebo 1047
-Molltorp 1047
-Dannike 437
-Sturefors 2228
-Jossefors 711
-Sankt Olof 666
-Holo 1477
-Moholm 647
-Roro 262
-Dorotea 1491
-Hoting 648
-Rosson 344
-Sorvik 718
-Vilhelmina 3572
-Storuman 2188
-Follinge 511
-Torshalla Huvud 492
-Stora Hoga 2846
-Stora Mellby 349
-Stora Mellosa 801
-Enstaberga 436
-Dyvelsten 241
-Holsljunga 241
-Svenljunga 3592
-Tranemo 3224
-Hestra 1327
-
-Gislaved 10180
-Ed 2994
-Asensbruk 746
-Lonsboda 1986
-Palsboda 1610
-Spillersboda 480
-Uppharad 572
-Edsbro 578
-Knutby 705
-Utby 410
-Svartbyn 265
-Raksta 629
-Soraker 2374
-Dingersjo 906
-Frodinge 343
-Pukavik 343
-
-Vimmerby 8037
-Osterbymo 897
-Langsjogle 3
+Skutskar 6279
+Gardskar 354
+Sibble 354
+Ysane 214
+Los 354
+Tierp 5826
+Tobo 610
+Harbo 714
+Jarbo 1813
+Farbo 498
+Figeholm 730
+Bockara 356
+Morlunda 857
 Mariannelund 1503
 Annelund 1226
-Borgstena 426
-Aspered 293
-Viskafors 3701
+Annelov 442
+Dosjebro 866
+Hofterup 3814
+Tarnsjo 1174
+Husum 1563
+Gusum 1149
+Ringarum 605
+Valdemarsvik 2685
+Nalden 986
+Stockvik 2532
+Vi 5841
+
+Timra 10495
+Vittsjo 1787
+Vittskovle 230
+Vindeln 2403
+Ullatti 230
+Slatthult 231
+Tenhult 3112
+Alghult 497
+Flygsfors 220
+Fengersfors 323
 Skapafors 323
-Nissafors 273
-Abbekas 757
-Nobbele 256
-Emmaboda 4818
+Hultafors 333
+Sorstafors 270
+Gidea 270
+Havdhem 270
+Gudhem 429
+Asby 429
 
-Habo 7740
-Laby 231
+Upplands Vasby 36534
 
-Grabo 6021
-Granum 223
-Nas Bruk 223
-Lappe 221
-Klappa 625
-Olmanas 787
-Hoja 200
-Flerohopp 200
-Kopparmora 2280
-Bovallstrand 447
-Kuggeboda 447
-Hogboda 334
-Odeshog 2554
-Boxholm 3269
-Bjurholm 1000
+Taby 58123
+Enebyberg 5000
 
-Djursholm 8856
+Sundbyberg 34529
 
-Kista 10254
-Kvistbro 212
-Gottne 212
-Tygelsjo 3420
-Smygehamn 1297
-Skarhamn 3495
-Skumparp 225
+Solna 66909
+Drottningholm 348
+Drottningskar 467
 
-Haparanda 6679
-Marielund 1726
-Rolfs 1001
+Karlskrona 36477
 
-Trollhattan 48573
-Sjuntorp 2213
-Skane-Tranas 226
-Tunnerstad 322
+Karlshamn 20112
 
-Surte 6003
-Hurva 376
-Stehag 1191
-Stanstorp och Ormanas 422
-Sosdala 1808
-Tollarp 3404
-Baskemolla 297
-Brantevik 380
-Onslunda 524
-Jonslund 304
-Bjornlunda 838
-Bjornange 630
-Tylosand 387
-Foto 630
-Morsil 781
-Sikfors 211
-Munkfors 2834
-Sorforsa 1581
-Rimforsa 2259
+Karlskoga 27490
+Ytterhogdal 534
+Vretstorp 852
+Tystberga 869
+Ammeberg 443
+Killeberg 596
 
-Kramfors 6582
+Osby 7554
+Osbyholm 298
+Knislinge 3144
+Hanaskog 1385
+Broby 3104
+Glimakra 1466
+Hastveda 1693
+Sjorrod 672
+Norsesund 268
+Norsbron 211
 Moklinta 327
-Blentarp 1452
+Juoksengi 327
+Vik 327
+Nordingra 282
+Dingle 901
+Hamburgsund 706
+
+Lysekil 7734
+Varekil 912
+Henan 2243
+Roro 262
+Skarhamn 3495
+Torhamn 559
+Sturko 1325
+Jamjo 2629
+Runhallen 213
+Bromsebro 213
+Dingtuna 1021
+Tortuna 420
+Hartungviken 400
+Emtunga 284
+
+Kungalv 24101
+Kungsor 5885
+Selja 547
+Kolsva 2440
+
+Arboga 10841
+Mankarbo 671
+
+Nora 6597
+Runemo 249
+Hjorted 326
+Kortebo 512
+Bottnaryd 717
+Kuttainen 218
+Delary 218
+Malmback 1087
+
+Lund 87244
+Furulund 4359
+
+Kavlinge 9320
+
+Loddekopinge 6481
+Kopingebro 1254
+Gards Kopinge 926
+Tollarp 3404
+Balsby 455
+Fjalkinge 1832
+Flyinge 992
+Hurva 376
 
 Dalby 6302
 
 Alby 11400
-Alvnas 753
+Vita villorna 185
+
+Tumba 40832
+Vaggevarasj 75
+Vedevag 753
 
 Nacka 25170
-Varobacka 765
-Bua 1792
-Veddige 2260
-Vessigebro 773
-Ostra Frolunda 321
 
-Vastra Frolunda 15924
-Sennan 398
-Hono 5293
-Nolvik 1373
-Sulvik 375
-Bergvik 719
-Brosarp 719
-Vintrosa 2285
-Mosas 899
-Kastlosa 202
-Almvik 202
-Ramvik 746
-Ramdala 277
-Lybeck 277
-Lysvik 326
-Bastutrask 405
-Kjulaas 915
-Tuolluvaara 979
+Alta 9274
+Rya 365
+Bovallstrand 447
+Kuggeboda 447
+Aspeboda 219
+Overboda 241
+Dyvelsten 241
+Flurkmark 210
+Danmark 453
+Nordmark 234
+Nordmaling 2671
+Bjurholm 1000
+Boxholm 3269
+Fornasa 460
 
-Kiruna 17037
+Motala 30944
+Granby 240
+Overtanger 240
+Tjallmo 518
+Vuoggatjalme 10
+Saxnas 127
+Dikanas 147
+Follinge 511
 
-Malmberget 6017
-Ekeby-Almby 1531
-Runemo 249
-Oregrund 1589
-Vasterljung 377
-Hallevadsholm 816
+Vellinge 6496
+Gavsta 539
+Fridlevstad 708
+Brakne-Hoby 1708
+Norje 814
 
-Visby 23402
-Flisby 215
-Rappestad 247
-Sjogestad 307
-Fjugesta 2160
-Mankarbo 671
-Farbo 498
-Stidsvig 730
-Tidan 989
+Solvesborg 8972
 
-Atvidaberg 7014
+Alvesta 8627
+Gemla 1462
 
-Varnamo 19061
-Tjornarp 829
-Lunnarp 340
-Verket 2
-Arkelstorp 815
-Bondstorp 218
+Vaxjo 65383
+Nobbele 256
+Hedlunda 205
+Lundby 203
+Ostra Vemmerlov 234
+Sankt Olof 666
+Tun 207
+Klutmark 207
+Skebokvarn 207
+Varnhem 662
+Rot 662
+Vamhus 831
+Gagnef 1199
+Djuras 2128
+Djuro 1442
+Djurmo 689
+Stangby 1943
+Genarp 2962
+Gnarp 1199
+Danholn 466
+Kopmanholmen 1194
+Norra Lagno 333
+Juniskar 333
+Bygdsiljum 333
+Amynnet 333
+Bjasta 1845
+Tastarp 221
+Blentarp 1452
+Vitaby 351
+
+Trollhattan 48573
+Lonsboda 1986
+Boda Glasbruk 201
+Eda Glasbruk 254
+Eda 71
+
+Lulea 43574
+Antnas 889
+Sjulsmark 353
+Blasmark 299
+Moskosel 299
+Kabdalis 91
+Arjeplog 1822
+Farjestaden 5645
+Algutsrum 862
+Rockneby 898
+Trekanten 1599
+Brantevik 380
+
+Simrishamn 6779
+Simris 235
+Rottneros 445
+Alvsered 445
+Kalvsund 208
+Ockero 3568
+Ockelbo 2875
+Astol 238
+Optand 238
+Bergby 1549
+Bredaryd 1549
+Saltvik 285
+Totra 285
 
 Nynashamn 14532
-
-Loddekopinge 6481
-Gaddede 312
-Oskar-Fredriksborg 732
-
-Filipstad 6119
-Ostadkulle 401
-Frosakull 2296
-Frovi 2480
-Fellingsbro 1475
-Kolsva 2440
-Skinnskatteberg 2383
-Jattendal 258
-Charlottenberg 2368
-Tierp 5826
-Ysane 214
-Salgsjon 214
-Valje 1067
-Bergnaset 3604
-Jamjo 2629
-Dingtuna 1021
-Bergkvara 1021
-Morbylanga 1824
-Rockneby 898
-Alfta 2348
-Gammelgarden 281
-Fritsla 2307
-Lit 1117
-Arjeplog 1822
-Asmundtorp 1563
-Tallasen 608
-Ingarostrand 290
-Rydal 415
-Tye 247
+Osmo 3866
+Stora Vika 695
 Stora Dyron 215
-Signehog 239
-Kuttainen 218
+Trodje 337
+Ryd 1474
+
+Skoghall 13605
+Hallekis 683
+Varing 641
+Hova 1254
+Mogata 296
+Tradet 296
+
+Handen 11524
+
+Jordbro 10757
+Nyehusen 271
+
+Amal 9373
+
+Saffle 9150
+
+Aby 6917
+Jursla 1647
+Forssjo 525
+Ossjo 223
+
+Grabo 6021
+Alvangen 4759
+Hultsfred 5510
+Silverdalen 681
+Haverdal 1681
+Aled 1690
+Laxvik 486
+Genevad 653
+Hallevadsholm 816
+Almunge 816
+Rimbo 4882
+Brottby 224
+Lindholmen 1146
+Fredriksfors 224
+Myrviken 295
+Hono 5293
+Hjuvik 3754
+Tumlehed 623
+Kallo-Knippla 331
+Styrso 1324
+Donso 1446
+Kisa 3776
+Medle 543
+Sangis 543
+Segersang 757
+Degerhamn 338
+Blixbo 338
+Svenljunga 3592
+Solvarbo 301
+Ang 301
+Reftele 1289
+Fegen 235
+Rud 217
+Vessigebro 773
+Tvaaker 2640
+Traslovslage 1985
+Talltrask 16
+Vilhelmina 3572
+Storuman 2188
+Sorsele 1175
+Bergeforsen 1787
+Soraker 2374
+Matfors 3437
+Keinovuopio 6
+Frillesas 2832
+Veddige 2260
+Flerohopp 200
+Hoja 200
+Rygga 61
+Heby 2724
+Fjardhundra 907
+Norrfjarden 1562
+Nar 209
+Horla 209
+Vedum 960
+Jarpas 789
+Sveg 2543
+Bracke 1559
+Hargshamn 289
+Smygehamn 1297
+Kvistbro 212
+Vintrie 777
+Alfta 2348
+Byske 1785
+Roknas 1259
+Asmundtorp 1563
+Taftea 1305
+Viby 936
+Alvnas 753
+Skee 736
+Skalo 340
+Kebal 340
+Stidsvig 730
+Graddo 556
+Olmbrotorp 543
+Bie 510
+Tegelhagen 500
+Nedre Gardsjo 363
+Tye 247
+Rosson 344
+Sandslan 313
+Rabbalshede 283
+Gaddede 312
+Nissafors 273
+Ysby 246
+Hovid 216
 Storlien 116
-Vuoggatjalme 10

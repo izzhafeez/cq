@@ -1,104 +1,104 @@
 
 
 Kabul 3043532
-Tagab 6400
 Paghman 49157
-
-Baghlan 108449
-Pul-e Khumri 56369
-Hukumati Dahanah-ye Ghori 3307
-Nahrin 22363
-Shahrak 15967
-Qal'ah-ye Shahr 7756
-Chiras 12779
-Mirabad 14160
-Zaranj 49851
-Farah 43561
-Anar Darah 10023
+Larkird 11635
+Tukzar 12021
+Sang-e Charak 15377
+Sangin 13579
+Gereshk 43588
+Lashkar Gah 43934
+Ashkasham 12120
+Jurm 12106
+Farkhar 10480
+Chahar Burj 11935
+Zindah Jan 10104
+Kuhsan 12087
+Qarah Bagh 12412
 Zarah Sharan 7366
 Sharan 2200
 Zarghun Shahr 13737
-
-Ghazni 141000
-Shibirghan 55641
-Sar-e Pul 52121
-Sang-e Charak 15377
-Tukzar 12021
-Lab-Sar 1068
-Larkird 11635
-Farkhar 10480
-Khanabad 71531
-
-Kunduz 161902
-Khandud 5521
-Ashkasham 12120
-Khash 15133
-Lashkar Gah 43934
-Gereshk 43588
-Markaz-e Hukumat-e Darweshan 9012
-Hukumati Azrah 12526
-Pul-e 'Alam 13247
-Baraki Barak 22305
-Bazarak 65000
-Jabal os Saraj 15032
-Charikar 53676
-Chahar Burj 11935
-
-Herat 272806
-Qalat 12191
-Arghestan 894
-Rustaq 25636
+Qal'ah-ye Shahr 7756
+Yangi Qal'ah 6541
 Art Khwajah 18623
 Dasht-e Archi 8263
 Qarchi Gak 8942
-Qarqin 15018
-Qarawul 24544
-Imam Sahib 9659
-Aibak 47823
-Khulm 64933
 
 Balkh 114883
 
 Mazar-e Sharif 303282
+Sar-e Pul 52121
+Shibirghan 55641
+Rudbar 11034
+'Alaqahdari Dishu 9196
+Pul-e 'Alam 13247
+Pul-e Khumri 56369
+Hukumati Dahanah-ye Ghori 3307
+Khanabad 71531
+
+Kunduz 161902
+Imam Sahib 9659
+Qarawul 24544
+Basawul 6835
+Markaz-e Woluswali-ye Achin 15098
+Markaz-e Hukumat-e Darweshan 9012
+Hukumati Azrah 12526
+Baraki Barak 22305
+Bazarak 65000
+Jabal os Saraj 15032
+Charikar 53676
+Sidqabad 7407
+Mirabad 14160
+Zaranj 49851
+Khash 15133
+Farah 43561
+Anar Darah 10023
+Kushk 16952
+Shindand 29264
+
+Herat 272806
+Karukh 17484
+Qala i Naw 9000
+Qalat 12191
+Kafir Qala 18086
+Tir Pul 6979
 
 Kandahar 391190
-Shindand 29264
-Zindah Jan 10104
-Qarah Bagh 12412
-Tir Pul 6979
-Kafir Qala 18086
-Kuhsan 12087
-Kushk 16952
-Karukh 17484
-Parun 1000
-Asmar 15708
-Markaz-e Woluswali-ye Achin 15098
-Basawul 6835
+Arghestan 894
+Tarinkot 10000
+Uruzgan 13388
+Panjab 13471
+Bamyan 61863
+Maydanshakhr 1600
+Mir Bachah Kot 5405
+Tagab 6400
+Tagaw-Bay 9096
+Chiras 12779
+Darzab 9642
+Maymana 75900
+Ghormach 30000
+Andkhoy 29208
+Qarqin 15018
+Khulm 64933
+Aibak 47823
+
+Baghlan 108449
+Nahrin 22363
+Taloqan 64256
+Rustaq 25636
+Fayzabad 44421
 Asadabad 48400
 
 Jalalabad 200331
 Mehtar Lam 17345
-Tarinkot 10000
-Sangin 13579
-Yangi Qal'ah 6541
-Bamyan 61863
-Panjab 13471
-Fayroz Koh 15000
-Fayzabad 44421
-Jurm 12106
-Ghormach 30000
-Maymana 75900
-Darzab 9642
-Tagaw-Bay 9096
+
+Ghazni 141000
 
 Gardez 103601
 Khost 96123
-Andkhoy 29208
-Taloqan 64256
-Qala i Naw 9000
-'Alaqahdari Dishu 9196
-Rudbar 11034
-Uruzgan 13388
-Sidqabad 7407
-Mir Bachah Kot 5405
-Maydanshakhr 1600
+Shahrak 15967
+Fayroz Koh 15000
+Asmar 15708
+Parun 1000
+Khandud 5521
+Lab-Sar 1068

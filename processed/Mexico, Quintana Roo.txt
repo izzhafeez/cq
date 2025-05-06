@@ -5,103 +5,106 @@ Zona Urbana Ejido Isla Mujeres 2653
 
 Isla Mujeres 12642
 Isla Holbox 1486
-La Presumida 1357
-Chiquila 1466
-Luis Echeverria Alvarez 899
-Santa Gertrudis 899
-Chan Santa Cruz 571
-San Diego 581
-Nicolas Bravo 4011
-Las Fincas 746
-San Francisco Botes 580
-San Angel 1041
-San Roman 530
-Allende 868
-Laguna Kana 914
-Ramonal 901
-
-Leona Vicario 5731
-Macario Gomez 510
-Sacxan 837
-Zacalaca 1010
-
-Bacalar 11513
-Salamanca 967
-Maya Balam 2018
-La Pantera 865
-Santa Maria Poniente 752
 Naranjal Poniente 754
 El Naranjal 662
 Senor 3095
-Filomeno Mata 636
+Chun-Yah 780
+Laguna Guerrero 654
+Santa Maria Poniente 752
 
 Jose Maria Morelos 11750
 San Felipe Primero 703
 
 Felipe Carrillo Puerto 25744
 Santa Rosa Segundo 1068
-Tihosuco 4994
-Dziuche 2870
-Dzitox 881
-Dzula 1223
-Xul-Ha 2037
-X-Hazil Sur 1422
-X-yatil 945
-Chun-Yah 780
-Laguna Guerrero 654
-Vicente Guerrero 552
-Presidente Juarez 1004
-Chumpon 717
-Chunhuhub 4644
-Chunhuas 568
-Huay Max 1399
-Huay-Pix 1649
-Tepich 2753
-X-pichil 1340
-Nachi Cocom 833
-Candelaria 963
-Los Divorciados 1118
-Carlos A. Madrazo 1825
+Lazaro Cardenas Segundo 699
 Alvaro Obregon 2869
+Carlos A. Madrazo 1825
+Los Divorciados 1118
 Altos de Sevilla 605
 Francisco Villa 882
 Mahahual 920
-Palmar 950
-Miguel Hidalgo y Costilla 676
-Miguel Aleman 688
-Ignacio Manuel Altamirano 574
 San Pedro Peralta 766
 Pedro Joaquin Coldwell 786
 Betania 584
-Nuevo Becar 557
-Nuevo Xcan 1130
-Ignacio Zaragoza 2213
+Vallehermoso 545
+Allende 868
+Laguna Kana 914
+Ramonal 901
+Chan Santa Cruz 571
+Santa Gertrudis 899
+La Presumida 1357
+La Pantera 865
+Maya Balam 2018
+Salamanca 967
 
-Kantunilkin 7150
-La Union 1099
-El Tintal 1074
-El Porvenir 505
-Tuzik 699
-
-Tulum 18233
-Bulukax 558
-Chanchen Primero 875
-Kancabchen 1083
-X Cabil 1087
-Sabidos 1342
-Saban 2167
-Juan Sarabia 1093
+Bacalar 11513
+Zacalaca 1010
+Nicolas Bravo 4011
+Las Fincas 746
+San Francisco Botes 580
+San Angel 1041
+San Diego 581
+San Roman 530
 Solferino 799
+Juan Sarabia 1093
+San Silverio 582
+Jesus Gonzalez Ortega 620
+San Francisco 767
+Othon P. Blanco 551
+El Ideal 818
+Caobas 1412
+Subteniente Lopez 1915
+Ucum 1495
+Tres Garantias 790
+Tixcacal Guardia 659
+Cacao 2056
+Javier Rojo Gomez 2911
+Macario Gomez 510
+Sacxan 837
+Ignacio Manuel Altamirano 574
+Ignacio Zaragoza 2213
+Nuevo Xcan 1130
+Nuevo Becar 557
+Luis Echeverria Alvarez 899
+Presidente Juarez 1004
+Vicente Guerrero 552
+Filomeno Mata 636
+La Esperanza 636
+Dziuche 2870
+Saban 2167
+Tihosuco 4994
+Chumpon 717
+Francisco Uh May 655
+Bulukax 558
+Nachi Cocom 833
+Candelaria 963
+X-pichil 1340
+Tepich 2753
+Kancabchen 1083
+El Tintal 1074
+Huay Max 1399
+Huay-Pix 1649
+Reforma 992
+Tuzik 699
+El Porvenir 505
+Yaxley 600
+
+Chetumal 151243
+Akumal 1310
+La Union 1099
+Sabidos 1342
+Dzula 1223
+X-yatil 945
+Xul-Ha 2037
+Palmar 950
+Miguel Hidalgo y Costilla 676
+Miguel Aleman 688
+Chanchen Primero 875
+X Cabil 1087
 Calderitas 5326
 Cocoyol 1019
-Polyuc 1226
-Ucum 1495
-Subteniente Lopez 1915
-El Ideal 818
-Othon P. Blanco 551
-San Francisco 767
-Francisco Uh May 655
-Barcelo Maya 606
+Morocoy 1293
 
 Playa del Carmen 149923
 
@@ -109,27 +112,24 @@ Cozumel 77236
 
 Puerto Aventuras 5979
 Puerto Arturo 606
-Pucte 1861
-San Isidro la Laguna 860
-Ciudad Chemuyil 1377
+Barcelo Maya 606
 
-Chetumal 151243
-Akumal 1310
-Yaxley 600
-Reforma 992
-Morocoy 1293
-Coba 1167
-Caobas 1412
-Cacao 2056
-Javier Rojo Gomez 2911
-Jose Narciso Rovirosa 1107
-Vallehermoso 545
-Tixcacal Guardia 659
-Tres Garantias 790
-Jesus Gonzalez Ortega 620
-La Esperanza 636
+Tulum 18233
+
+Leona Vicario 5731
+
+Kantunilkin 7150
 
 Alfredo V. Bonfil 14900
+Chunhuhub 4644
+Chunhuas 568
 Sergio Butron Casas 2235
-Lazaro Cardenas Segundo 699
-San Silverio 582
+Coba 1167
+Pucte 1861
+X-Hazil Sur 1422
+Chiquila 1466
+Jose Narciso Rovirosa 1107
+Ciudad Chemuyil 1377
+Dzitox 881
+Polyuc 1226
+San Isidro la Laguna 860

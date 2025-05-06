@@ -1,321 +1,126 @@
 
 
 Sao Paulo 12325232
-Uniao Paulista 1865
-Neves Paulista 8923
-Jaci 7196
-Jose Bonifacio 37366
-Barra Bonita 36126
-Capao Bonito 47118
-Ribeirao Branco 16211
-Ribeirao Grande 7679
-Ribeira 3330
-Itaoca 3330
-Itarare 50642
-Bom Sucesso de Itarare 3984
-Barra do Chapeu 5760
-Barra do Turvo 7632
-Sete Barras 12780
-Pereira Barreto 25677
-Barretos 122833
-Colina 18535
-Populina 4152
-Turmalina 1696
-Dolcinopolis 2112
-Mesopolis 1905
-Salesopolis 17252
-Santa Branca 14857
-Santa Isabel 57966
-Ilhabela 35591
-Sao Sebastiao 90328
-Redencao da Serra 3839
-Natividade da Serra 6642
-Rio Grande da Serra 51436
-
-Praia Grande 330845
-
-Sao Vicente 368355
-Icem 8304
-Pauliceia 7454
-Tupi Paulista 15583
-Florida Paulista 14790
-Inubia Paulista 4019
-Lucelia 21886
-Adamantina 35111
-Clementina 8757
-Santopolis do Aguapei 4817
-Rinopolis 9961
-Parapua 10949
-Osvaldo Cruz 33000
-Vera Cruz 10823
-Santa Cruz da Esperanca 2153
-Santa Cruz das Palmeiras 34737
-Santa Cruz da Conceicao 4544
-Conchal 28273
-
-Araras 135506
-Cordeiropolis 24826
-Cosmopolis 73474
-Cosmorama 7298
-Americo de Campos 5981
-Pontes Gestal 2577
-Palestina 13123
-Sales 6407
-Jales 49201
-Santa Salete 1552
-Santa Rita d'Oeste 2487
-Santa Clara d'Oeste 2113
-Palmeira d'Oeste 9227
-Aparecida d'Oeste 4158
-Aparecida 36185
-Potim 25130
-Potirendaba 17516
-Mendonca 5565
-
-Franca 355901
-Cristais Paulista 8718
-Lencois Paulista 68990
-Macatuba 17214
-
-Aracatuba 198129
-Piacatu 6038
-Iacri 6295
-Taiacu 6320
-Taiuva 5564
-Orindiuva 7194
-Riolandia 12689
-Guzolandia 5307
-Auriflama 15253
-Buritama 17281
-Turiuba 2020
-Macaubal 8147
-Nhandeara 11527
-Floreal 2900
-Arealva 8613
-Taciba 6329
-Altair 4186
-Pereiras 8773
-Pedreira 48463
-Jaguariuna 58722
-Ibiuna 79479
-Mairinque 47441
-Sao Roque 92060
-Cassia dos Coqueiros 2505
-Cajuru 26393
-Uru 1153
-Pongai 3400
-Iacanga 11858
-Reginopolis 9837
-Balbinos 5934
-Sabino 5614
-Tanabi 26101
-Balsamo 9139
-
-Pindamonhangaba 170132
-Tremembe 47714
-Jambeiro 6717
-Paraibuna 18263
-Paraiso 6496
-Novais 5945
-Avai 5436
-Avare 91232
-Cerqueira Cesar 20191
-Cerquilho 49802
-Tiete 42517
-Igaracu do Tiete 24749
-Mineiros do Tiete 12966
-Pederneiras 47111
-Itapui 14147
-Itaju 3887
-Itapolis 43331
-Penapolis 63757
-Avanhandava 13859
-Promissao 40828
-Guaicara 12294
-Guaimbe 5785
-Guaranta 6675
-Guara 21308
-Ituverava 42045
-Igarapava 30614
-Igarata 9583
-
-Jacarei 235416
-Guararema 30136
-Ibirarema 7841
-Ubirajara 4804
-Ibira 12518
-Irapua 8048
-Urupes 13888
-
-Bauru 379297
-Piratininga 13765
-Itatinga 20921
-Angatuba 25479
-Porangaba 10067
-Torre de Pedra 2422
-Aguas de Sao Pedro 3521
-Sao Pedro 35980
-Rio das Pedras 35738
-Saltinho 8393
-Salto 119736
-Salto Grande 9364
-Ribeirao do Sul 4539
-
-Ribeirao Pires 124159
-
-Maua 477552
-
-Santo Andre 721368
-
-Sao Bernardo do Campo 844483
 
 Sao Caetano do Sul 161957
+
+Sao Bernardo do Campo 844483
+Bernardino de Campos 11158
+Areiopolis 11158
+Rinopolis 9961
+Marinopolis 2106
+Aparecida d'Oeste 4158
+Palmeira d'Oeste 9227
+Santa Rita d'Oeste 2487
+Santa Clara d'Oeste 2113
 Santa Fe do Sul 32563
-Monte Alegre do Sul 8111
-Santo Antonio da Alegria 6977
-Santo Antonio de Posse 23529
-Santo Antonio do Pinhal 6827
-Sao Bento do Sapucai 10893
-Campos do Jordao 52405
-
-Sao Jose dos Campos 729737
-Sao Jose do Barreiro 4144
-Sao Jose do Rio Pardo 55124
-Sao Sebastiao da Grama 12159
-Sao Joao da Boa Vista 91771
-Aguas da Prata 8221
-Aguai 36648
-Taguai 14141
-Tejupa 4491
-Piraju 29869
-Sarutaia 3630
-Itai 27382
-Taquarituba 23256
-Coronel Macedo 4635
-Macedonia 3692
-Pedranopolis 2481
-Fernandopolis 69402
-Meridiano 3824
-Indiana 4879
-Narandiba 4904
-Pirapozinho 27754
-
-Sertaozinho 127142
-Cravinhos 35579
-Serra Azul 14981
-Serrana 45644
-Serra Negra 29452
-Lindoia 8092
-Aguas de Lindoia 18808
-Socorro 41352
-Mococa 68980
-Caconde 19009
-Vargem Grande do Sul 43110
-Itobi 7852
-Casa Branca 30520
-Tambau 23232
-Embauba 2449
-
-Taubate 317915
-Monteiro Lobato 4696
-Cacapava 95018
-Capivari 56379
-Taquarivai 5911
-Taquaral 2813
-Taquaritinga 57364
-Guariba 40487
-Jaboticabal 77652
-Jaborandi 6946
-Bora 838
-Echapora 6064
-Itaporanga 15173
-Iporanga 4199
-Jacupiranga 17889
-Pirangi 11471
-Rubineia 3170
-Santo Antonio do Jardim 5940
-Dirce Reis 1799
-
-Jandira 126356
-
-Barueri 276982
+Santa Salete 1552
+Santa Albertina 6022
+Santa Adelia 15561
+Ariranha 9761
 Bariri 35558
-Itariri 17598
-Pedro de Toledo 11421
-Sao Pedro do Turvo 7696
-Engenheiro Coelho 21249
-Barao de Antonina 3498
-Santo Antonio do Aracangua 8481
-Nova Castilho 1278
-Nova Luzitania 4160
-Gastao Vidigal 4860
+Itaju 3887
+Itajobi 15297
+Cajobi 10596
+Severinia 17661
+Florinia 2653
+Pedrinhas Paulista 3101
+Cruzalia 2046
 Galia 6482
 Cabralia Paulista 4243
 Paulistania 1834
 Espirito Santo do Turvo 4878
 Espirito Santo do Pinhal 44471
-Estiva Gerbi 11407
-Santa Gertrudes 27381
-
-Rio Claro 208008
-Cesario Lange 18375
-Quadra 3854
-Quata 14210
-Guatapara 7709
-Rincao 10812
-Barrinha 33180
-Torrinha 10056
-Pedrinhas Paulista 3101
-Cruzalia 2046
-Cruzeiro 82571
-
-Mogi das Cruzes 450785
-
-Suzano 300559
-Poa 118349
-Nipoa 5298
-Poloni 6113
-Colombia 6216
-Miguelopolis 22355
-Aramina 5655
-Pindorama 17216
-Marapoama 3064
-Itajobi 15297
-Cajobi 10596
-Severinia 17661
-Florinia 2653
-Taruma 15183
-Maracai 14036
-Guaracai 8290
-Murutinga do Sul 4506
-Andradina 57202
-Dracena 47043
-Boraceia 4868
-Borebi 2683
-Agudos 37401
-Morro Agudo 33288
-Orlandia 44360
-Sales Oliveira 11998
+Santo Antonio de Posse 23529
+Santo Antonio da Alegria 6977
+Monte Alegre do Sul 8111
+Campina do Monte Alegre 6057
+Angatuba 25479
+Porangaba 10067
+Torre de Pedra 2422
+Rio das Pedras 35738
+Saltinho 8393
+Altinopolis 16203
+Jardinopolis 44970
+Brodowski 25277
 Nuporanga 7478
 Votuporanga 95338
 Valentim Gentil 13532
+Clementina 8757
+Leme 104346
+Ipeuna 7687
+Charqueada 17367
+Rancharia 29726
+Conchal 28273
+Santa Cruz da Conceicao 4544
+Santa Cruz das Palmeiras 34737
+Santa Cruz da Esperanca 2153
+Cajuru 26393
+Icem 8304
+Orindiuva 7194
+Taiuva 5564
+Taiacu 6320
+Guapiacu 21775
+Jaci 7196
+Tapirai 7766
+Salto de Pirapora 45860
+Salto 119736
 
-Votorantim 123599
+Itu 175568
+Irapuru 8325
+Pacaembu 14263
+Embu-Guacu 69901
 
-Sorocaba 687357
-Aracoiaba da Serra 34776
-Santa Maria da Serra 6236
-Anhembi 6819
-Vinhedo 80111
+Embu das Artes 276535
+
+Cotia 253608
+Guatapara 7709
+Nova Guataporanga 2325
+Sao Joao do Pau d'Alho 2100
+Sao Joao de Iracema 1932
+Sao Joao das Duas Pontes 2561
+Sao Joao da Boa Vista 91771
+Sao Sebastiao da Grama 12159
+Divinolandia 11086
+Riolandia 12689
+Pontes Gestal 2577
+Cosmorama 7298
+Cosmopolis 73474
+Artur Nogueira 55340
+
+Limeira 308482
+Cordeiropolis 24826
+Santa Gertrudes 27381
+
+Santa Barbara d'Oeste 194390
+
+Americana 242018
+Nova Odessa 60956
+Nova Campina 9860
+
+Campinas 1213792
 
 Valinhos 131210
-Ourinhos 114352
-Canitar 5292
-Chavantes 12418
-Nantes 3179
+Vinhedo 80111
+Cravinhos 35579
+
+Sertaozinho 127142
+Dumont 10023
+Monte Mor 60754
+Monte Alto 50772
+Vista Alegre do Alto 8989
+Fernando Prestes 5794
+Fernandopolis 69402
+Pedranopolis 2481
+Parisi 2169
+Estrela d'Oeste 8419
+Guarani d'Oeste 1998
+Ouroeste 10539
+Indiapora 3886
+Indiana 4879
+Regente Feijo 20394
 
 Presidente Prudente 230371
-Regente Feijo 20394
 Presidente Bernardes 13023
 Presidente Venceslau 39583
 Presidente Epitacio 44389
@@ -324,388 +129,583 @@ Santo Expedito 3135
 Emilianopolis 3227
 Lucianopolis 2403
 Fernao 1727
-Fernando Prestes 5794
+Duartina 12433
+Martinopolis 26628
+Caiabu 4193
+Piracaia 27462
+Nazare Paulista 18698
+
+Braganca Paulista 170533
+Varzea Paulista 123071
+Maraba Paulista 5948
+Mirante do Paranapanema 18338
+Paranapanema 20395
+Itatinga 20921
+Tabatinga 16644
+Ibitinga 60600
+Taquaritinga 57364
+Taquaral 2813
+
+Araraquara 238339
+Americo Brasiliense 41032
+Americo de Campos 5981
+Alvares Florence 3647
+Floreal 2900
+Magda 3102
+Santo Antonio do Aracangua 8481
+
+Aracatuba 198129
+Piacatu 6038
+Gabriel Monteiro 2776
+Monteiro Lobato 4696
+Jambeiro 6717
+Ribeira 3330
+Ribeirao Branco 16211
+Ribeirao Grande 7679
+Ribeirao do Sul 4539
+Salto Grande 9364
+Ibirarema 7841
+Ubirajara 4804
+Alvinlandia 3237
+Orlandia 44360
+Sales Oliveira 11998
+Sales 6407
+Salesopolis 17252
+Santa Branca 14857
+Santa Isabel 57966
+Aruja 91157
+
+Itaquaquecetuba 375011
+Poa 118349
+
+Ferraz de Vasconcelos 196500
+Rio Grande da Serra 51436
+
+Taboao da Serra 293652
+
+Itapecerica da Serra 177662
+Sao Lourenco da Serra 15978
+Juquitiba 31646
+Juquia 18718
+Miracatu 19643
+Pedro de Toledo 11421
+Sao Pedro do Turvo 7696
+Engenheiro Coelho 21249
+Barao de Antonina 3498
+Luis Antonio 15292
+Santo Antonio do Pinhal 6827
+Sao Bento do Sapucai 10893
+Campos do Jordao 52405
+
+Sao Jose dos Campos 729737
+Sao Jose do Barreiro 4144
+Sao Jose do Rio Pardo 55124
+Vargem Grande do Sul 43110
+Vargem Grande Paulista 53468
+
+Itapevi 240961
+Itapeva 94804
+
+Itapetininga 165526
+Piratininga 13765
+
+Bauru 379297
+Sud Mennucci 7728
+Pereira Barreto 25677
+Pereiras 8773
+Altair 4186
+Taciba 6329
+Barra do Turvo 7632
+Barra do Chapeu 5760
+Itapirapua Paulista 4268
+Itapira 75234
+Mogi Mirim 93650
+
+Mogi Guacu 153033
+Estiva Gerbi 11407
+Restinga 7679
+Palestina 13123
 Santa Ernestina 5588
-Dobrada 9010
-Pradopolis 21873
-Mirandopolis 29706
-Lavinia 12285
+Santa Lucia 8854
+Rincao 10812
+Redencao da Serra 3839
+Natividade da Serra 6642
+Sao Luiz do Paraitinga 10690
+Paraibuna 18263
+Paraiso 6496
+Embauba 2449
+Tambau 23232
+Alambari 6129
+Tarabai 7540
+Nova Alianca 7068
+Torrinha 10056
+Barrinha 33180
+Jaboticabal 77652
+
+Piracicaba 407252
+Iracemapolis 24614
+Itapolis 43331
+Penapolis 63757
+Avanhandava 13859
+Barbosa 7468
+Aguas de Santa Barbara 6109
+Piquerobi 3699
+Piquete 13575
+Lavrinhas 7311
+Lagoinha 4889
+Roseira 10801
+Potim 25130
+Potirendaba 17516
+Ibira 12518
+Urupes 13888
+Ouro Verde 8620
+Pauliceia 7454
+Tupi Paulista 15583
+Florida Paulista 14790
+Inubia Paulista 4019
+Lucelia 21886
+Adamantina 35111
+Platina 3578
+Palmital 22272
+Palmares Paulista 13486
+Neves Paulista 8923
+Uniao Paulista 1865
+Macaubal 8147
+Macatuba 17214
+Lencois Paulista 68990
+Cristais Paulista 8718
+
+Franca 355901
+Patrocinio Paulista 14807
+Itirapua 6543
+Irapua 8048
+Parapua 10949
+Osvaldo Cruz 33000
+Vera Cruz 10823
+Santa Cruz do Rio Pardo 47943
+Chavantes 12418
+Canitar 5292
+Itarare 50642
+Bom Sucesso de Itarare 3984
+Guararema 30136
+
+Jacarei 235416
+Guarei 18887
+Guara 21308
+Jeriquara 3151
+Pedregulho 16811
+Pedreira 48463
+Jaguariuna 58722
+Holambra 15272
 Paulinia 112003
 
 Hortolandia 234259
 
 Sumare 286211
-Nova Odessa 60956
+Elias Fausto 17936
+Capivari 56379
+Rafard 9101
+Mombuca 3508
+Arealva 8613
+Matao 83626
 
-Americana 242018
+Cubatao 131626
 
-Santa Barbara d'Oeste 194390
-Aguas de Santa Barbara 6109
-Piquerobi 3699
-Queiroz 3460
-Junqueiropolis 20831
-Irapuru 8325
-Pacaembu 14263
-Embu-Guacu 69901
-
-Embu das Artes 276535
-Sao Joao das Duas Pontes 2561
-Sao Joao de Iracema 1932
+Sao Vicente 368355
+Gastao Vidigal 4860
+Nova Luzitania 4160
+Nova Castilho 1278
 General Salgado 10862
-Magda 3102
-Sagres 2430
-Brejo Alegre 2889
-Alto Alegre 4088
-Brauna 5741
-Glicerio 4829
-
-Birigui 124883
-Aracariguama 22860
-Pirapora do Bom Jesus 19178
-Bom Jesus dos Perdoes 25985
-Nazare Paulista 18698
-
-Braganca Paulista 170533
-Vargem 10692
-Pedra Bela 6110
-Sao Jose da Bela Vista 8960
-Sao Joaquim da Barra 52319
-Ipua 16604
-Itirapua 6543
-Patrocinio Paulista 14807
-Ribeirao Corrente 4752
-Jeriquara 3151
-
-Araraquara 238339
-Americo Brasiliense 41032
-Santa Lucia 8854
-Motuca 4795
-
-Botucatu 148130
-Sao Manuel 41123
-Pratania 5317
-Urania 9120
-Luiziania 5855
-Arco-Iris 1773
-Garca 44409
-Sao Miguel Arcanjo 33002
-Pilar do Sul 29402
-Capela do Alto 20985
-Salto de Pirapora 45860
-Piedade 55542
-
-Diadema 426757
-Santa Adelia 15561
-Santa Albertina 6022
-Bertioga 64723
-
-Guaruja 322750
-
-Guarulhos 1392121
-Aruja 91157
-
-Itaquaquecetuba 375011
-
-Ferraz de Vasconcelos 196500
-
-Osasco 699944
-
-Francisco Morato 177633
+Auriflama 15253
+Guzolandia 5307
+Pontalinda 4674
+Santana da Ponte Pensa 1467
+Tres Fronteiras 5832
+Caieiras 102775
 
 Franco da Rocha 156492
-Caieiras 102775
-Piracaia 27462
 
-Atibaia 144088
-Itatiba 122581
-Louveira 49993
-Silveiras 6339
-Lavrinhas 7311
-Lagoinha 4889
-Cunha 21459
-Euclides da Cunha Paulista 9325
-Maraba Paulista 5948
-Mirante do Paranapanema 18338
-Paranapanema 20395
-Paranapua 4095
-Vitoria Brasil 1846
-Aspasia 1818
-Elisiario 3697
-Parisi 2169
-Alvares Florence 3647
-Lorena 89125
-Canas 5204
-Cachoeira Paulista 33581
-Itapirapua Paulista 4268
-Itapira 75234
-Tapirai 7766
+Francisco Morato 177633
+Sao Francisco 2817
+Urania 9120
+Pratania 5317
+Sao Manuel 41123
+Sao Miguel Arcanjo 33002
+Miguelopolis 22355
+Aramina 5655
+Igarapava 30614
+Igarata 9583
+Igaracu do Tiete 24749
+Mineiros do Tiete 12966
+Pederneiras 47111
+Itapui 14147
+Itapura 4951
+Castilho 21267
+Monte Castelo 4166
+Monte Aprazivel 25373
+Poloni 6113
+Nipoa 5298
+Jaborandi 6946
+Bora 838
+Boraceia 4868
+Dracena 47043
+Junqueiropolis 20831
+Queiroz 3460
+Cassia dos Coqueiros 2505
+Mococa 68980
 Tapiratiba 12950
-Divinolandia 11086
-Alvinlandia 3237
-Analandia 5056
-Corumbatai 4064
+Caconde 19009
+Alfredo Marcondes 4184
+Arco-Iris 1773
+Santopolis do Aguapei 4817
+Sebastianopolis do Sul 3554
+Adolfo 3554
+Nhandeara 11527
+
+Pindamonhangaba 170132
+Tremembe 47714
+
+Taubate 317915
 Ibate 35472
 
 Sao Carlos 254484
-Itirapina 18387
-Ipeuna 7687
+Analandia 5056
+Corumbatai 4064
+Batatais 62980
+Caraguatatuba 123389
+Ubatuba 91824
+
+Indaiatuba 256223
+Itupeva 62813
+Louveira 49993
+Silveiras 6339
+Cruzeiro 82571
+
+Mogi das Cruzes 450785
+
+Suzano 300559
+Suzanapolis 4014
+Nova Canaa Paulista 1852
+Cachoeira Paulista 33581
+Canas 5204
+Cananeia 12541
+Pariquera-Acu 19723
+Jacupiranga 17889
+Iporanga 4199
+Apiai 24226
+Guapiara 17025
+Iaras 9517
+Cerqueira Cesar 20191
+Manduri 9910
+Oleo 2471
+Piraju 29869
+Pirajui 25719
+Presidente Alves 4080
+Avai 5436
+Balbinos 5934
+Sabino 5614
+Guaicara 12294
+Guaimbe 5785
+Getulina 11447
+Populina 4152
+Turmalina 1696
+Sandovalina 4354
+Estrela do Norte 2770
+Mira Estrela 3106
+Macedonia 3692
+Coronel Macedo 4635
+Taquarituba 23256
+Taquarivai 5911
+Buri 19965
+Timburi 2652
+Sarutaia 3630
+Tejupa 4491
+Taguai 14141
+Aguai 36648
+Aguas da Prata 8221
+Aguas de Lindoia 18808
+Lindoia 8092
+Pindorama 17216
+Panorama 15862
+Santa Mercedes 2943
+Santa Maria da Serra 6236
+Aracoiaba da Serra 34776
+Capela do Alto 20985
 Ipero 37964
 Boituva 62170
+Ituverava 42045
+Buritizal 4514
+Buritama 17281
+Zacarias 2752
+Aracariguama 22860
+Pirapora do Bom Jesus 19178
+Bom Jesus dos Perdoes 25985
 
-Itu 175568
-Itupeva 62813
-Itapeva 94804
-
-Itapevi 240961
-
-Itapecerica da Serra 177662
-
-Taboao da Serra 293652
-Sao Lourenco da Serra 15978
-Juquitiba 31646
-Juquia 18718
-Miracatu 19643
-Registro 56393
-Pariquera-Acu 19723
-Cajati 28494
-Cajamar 77934
-
-Santana de Parnaiba 142301
-Santana da Ponte Pensa 1467
-Pontalinda 4674
-Pontal 50852
-Dumont 10023
-Monte Mor 60754
-Monte Alto 50772
-Vista Alegre do Alto 8989
-Ariranha 9761
-Palmares Paulista 13486
+Atibaia 144088
+Itatiba 122581
+Morungaba 13781
+Tuiuti 6977
+Pinhalzinho 15388
+Pirapozinho 27754
+Narandiba 4904
+Arandu 6365
 Catanduva 122497
 Catigua 7855
-Tabapua 12485
-Uchoa 10151
-Cedral 9346
-Guapiacu 21775
-Ipigua 5476
-Mirassolandia 4919
-Mirassol 60303
-Bady Bassitt 17761
-Assis 105087
-Candido Mota 31346
-Candido Rodrigues 2799
 Iguape 30989
 Ilha Comprida 11362
 Ilha Solteira 26788
-Castilho 21267
-Monte Castelo 4166
-Nova Guataporanga 2325
-Sao Joao do Pau d'Alho 2100
-Santa Mercedes 2943
-Panorama 15862
-Ouro Verde 8620
-Onda Verde 4422
-Nova Granada 21689
-Nova Campina 9860
-Campina do Monte Alegre 6057
+Ilhabela 35591
+Pedra Bela 6110
+Sao Jose da Bela Vista 8960
+Sao Joaquim da Barra 52319
+Sete Barras 12780
+Registro 56393
+Reginopolis 9837
+Uru 1153
+Pongai 3400
+Mongagua 57648
+Itanhaem 103102
+Peruibe 69001
+Itariri 17598
+Piedade 55542
 
-Campinas 1213792
+Votorantim 123599
+Guaranta 6675
+Cafelandia 17843
+Lins 78503
+Promissao 40828
+Alto Alegre 4088
+Brejo Alegre 2889
+
+Birigui 124883
+Biritiba-Mirim 32936
+Jumirim 3418
+Laranjal Paulista 28785
+Monte Azul Paulista 18968
+Bebedouro 77555
+Viradouro 19017
+Terra Roxa 9437
+Serra Azul 14981
+Serrana 45644
+Serra Negra 29452
 Amparo 72677
 Teodoro Sampaio 23273
-Sandovalina 4354
-Estrela do Norte 2770
-Estrela d'Oeste 8419
-Guarani d'Oeste 1998
-Ouroeste 10539
-Viradouro 19017
-Bebedouro 77555
-Dourado 8878
-Trabiju 1738
-Boa Esperanca do Sul 15018
-Gaviao Peixoto 4815
-Nova Europa 11355
-Nova Alianca 7068
-Arandu 6365
-Manduri 9910
-Timburi 2652
-Buri 19965
-Buritizal 4514
-Pedregulho 16811
-Rifaina 3640
-Bocaina 12452
-
-Jau 151881
-Jarinu 30617
-Campo Limpo Paulista 85541
-Varzea Paulista 123071
-
-Jundiai 423006
-Apiai 24226
-Guapiara 17025
-Restinga 7679
-
-Itapetininga 165526
-Sarapui 10390
-Tatui 122967
-Caraguatatuba 123389
-Ubatuba 91824
-Sao Luiz do Paraitinga 10690
-Ibitinga 60600
-Tabatinga 16644
+Euclides da Cunha Paulista 9325
+Cunha 21459
+Aparecida 36185
 Guaratingueta 122505
-Roseira 10801
-Rosana 16281
+Lorena 89125
+Queluz 13606
+Areias 3896
+Anhumas 4144
+Arapei 2460
+Guararapes 33100
+Rubiacea 3162
+Rubineia 3170
+Santo Antonio do Jardim 5940
+Dirce Reis 1799
+Coroados 6129
+Pirangi 11471
+Itaporanga 15173
+Riversul 5443
+Itabera 17480
+Itai 27382
+Avare 91232
+Alvares Machado 24998
+Alvaro de Carvalho 5274
+Julio Mesquita 4800
+Garca 44409
+
+Marilia 240590
+Oriente 6542
+Pompeia 22172
+Quintana 6688
+Herculandia 9588
+Tupa 65570
+Iacri 6295
+Bastos 20953
+Sao Sebastiao 90328
+Sao Simao 15385
 Santa Rosa de Viterbo 26753
 Santa Rita do Passa Quatro 27600
 Porto Ferreira 56504
 Porto Feliz 53402
-Elias Fausto 17936
-Bastos 20953
+Tiete 42517
+Cerquilho 49802
+Cesario Lange 18375
+Quadra 3854
+Tatui 122967
+Sarapui 10390
+Pilar do Sul 29402
+Murutinga do Sul 4506
+Guaracai 8290
+Maracai 14036
+Taruma 15183
+Assis 105087
+Candido Mota 31346
+Candido Rodrigues 2799
+Sao Roque 92060
+Mairinque 47441
+Mairipora 101937
+
+Guarulhos 1392121
+
+Guaruja 322750
 
 Santos 433656
 
-Cubatao 131626
-Matao 83626
-Batatais 62980
-Brodowski 25277
-Jardinopolis 44970
-Altinopolis 16203
-Martinopolis 26628
+Santo Andre 721368
+
+Diadema 426757
+
+Maua 477552
+
+Ribeirao Pires 124159
+
+Ribeirao Preto 711825
+Ribeirao Bonito 13299
+Dourado 8878
+Trabiju 1738
+Boa Esperanca do Sul 15018
+Gaviao Peixoto 4815
+Sao Pedro 35980
+Aguas de Sao Pedro 3521
+Anhembi 6819
+Conchas 18019
+Bofete 11921
+Pardinho 6508
+
+Botucatu 148130
+Motuca 4795
+Guariba 40487
+Pradopolis 21873
+Mirandopolis 29706
+Lavinia 12285
+Valparaiso 26822
+Bento de Abreu 3005
+Cabreuva 50429
+Cajamar 77934
+
+Santana de Parnaiba 142301
+
+Barueri 276982
+
+Jandira 126356
+
+Carapicuiba 403183
+
+Osasco 699944
+
+Sorocaba 687357
+Aluminio 18767
+Ibiuna 79479
+
+Sao Jose do Rio Preto 464983
+Bady Bassitt 17761
+Mirassol 60303
+Mirassolandia 4919
+Ipigua 5476
+Onda Verde 4422
+Nova Granada 21689
+
+Praia Grande 330845
+Bertioga 64723
+
+Jundiai 423006
+Campo Limpo Paulista 85541
+Jarinu 30617
+Vargem 10692
+Joanopolis 13338
+Dolcinopolis 2112
+Mesopolis 1905
+Paranapua 4095
+Ubarana 6400
+Jose Bonifacio 37366
+Barra Bonita 36126
+Capao Bonito 47118
+Cacapava 95018
+
+Rio Claro 208008
+
+Araras 135506
+Pirassununga 76877
+Descalvado 33910
+Itirapina 18387
+Brotas 24636
+Dois Corregos 27512
+Ribeirao Corrente 4752
+Ribeirao dos Indios 2224
+Flora Rica 1430
 Mariapolis 4091
 Pracinha 4212
 Guaraci 11287
 Olimpia 55130
+Tabapua 12485
+Novais 5945
+Nova Europa 11355
+Dobrada 9010
+Itobi 7852
+Casa Branca 30520
+Vitoria Brasil 1846
+Jales 49201
+Aspasia 1818
 
-Limeira 308482
-Iracemapolis 24614
-
-Piracicaba 407252
-Mombuca 3508
-Rafard 9101
-Fartura 16070
-Artur Nogueira 55340
-Pitangueiras 40080
-Terra Roxa 9437
-Flora Rica 1430
-Ribeirao dos Indios 2224
-Alfredo Marcondes 4184
-Alvares Machado 24998
-Descalvado 33910
-Pirassununga 76877
-Morungaba 13781
-Tuiuti 6977
-Pinhalzinho 15388
-Pardinho 6508
-Bofete 11921
-Piquete 13575
-Queluz 13606
-Areias 3896
-Guarei 18887
-Areiopolis 11158
-Marinopolis 2106
-Nova Canaa Paulista 1852
-Suzanapolis 4014
-Sud Mennucci 7728
-Julio Mesquita 4800
-Pirajui 25719
-Presidente Alves 4080
-Alvaro de Carvalho 5274
-Bernardino de Campos 11158
-Oleo 2471
-Iaras 9517
-Guararapes 33100
-Rubiacea 3162
-Bilac 8117
-Gabriel Monteiro 2776
-Oriente 6542
-Pompeia 22172
-Arapei 2460
-Bananal 10993
-Cananeia 12541
-Eldorado 15544
-Coroados 6129
-Cardoso 12349
-Mira Estrela 3106
-Indiapora 3886
-Cafelandia 17843
-Lins 78503
-Getulina 11447
-Platina 3578
-Planalto 5304
-Ubarana 6400
-Barbosa 7468
-Zacarias 2752
-Rancharia 29726
-Joao Ramalho 4551
-Paraguacu Paulista 45945
-Lutecia 2636
-Oscar Bressane 2603
-Cabreuva 50429
-Bento de Abreu 3005
-Valparaiso 26822
-Salmourao 5337
-Palmital 22272
+Jau 151881
+Bocaina 12452
+Rifaina 3640
+Ipua 16604
+Morro Agudo 33288
+Agudos 37401
+Borebi 2683
+Borborema 16164
+Novo Horizonte 41414
 Campos Novos Paulista 4997
 Ocaucu 4291
-
-Marilia 240590
-Quintana 6688
-Herculandia 9588
-Tupa 65570
-Lupercio 4596
-Tarabai 7540
-Alambari 6129
-Holambra 15272
-Mogi Mirim 93650
-
-Mogi Guacu 153033
-Mongagua 57648
-Itanhaem 103102
-Peruibe 69001
-
-Carapicuiba 403183
-
-Cotia 253608
-Vargem Grande Paulista 53468
-Laranjal Paulista 28785
-Jumirim 3418
-Biritiba-Mirim 32936
-Mairipora 101937
-Guaira 41040
-Monte Azul Paulista 18968
-Monte Aprazivel 25373
-Adolfo 3554
-Moncoes 2267
-Conchas 18019
-Charqueada 17367
-Brotas 24636
-Ribeirao Bonito 13299
-
-Ribeirao Preto 711825
-
-Sao Jose do Rio Preto 464983
-Santa Cruz do Rio Pardo 47943
+Echapora 6064
+Oscar Bressane 2603
+Lutecia 2636
+Paraguacu Paulista 45945
+Quata 14210
+Joao Ramalho 4551
+Sagres 2430
+Salmourao 5337
+Bilac 8117
+Brauna 5741
+Glicerio 4829
+Luiziania 5855
+Barretos 122833
+Colina 18535
+Pitangueiras 40080
+Pontal 50852
+Ourinhos 114352
 Ipaussu 15069
-Paulo de Faria 8959
-
-Indaiatuba 256223
-Caiabu 4193
-Caiua 5946
-Leme 104346
-Novo Horizonte 41414
-Borborema 16164
-Dois Corregos 27512
-Luis Antonio 15292
-Sao Simao 15385
-Sao Francisco 2817
-Tres Fronteiras 5832
-Aluminio 18767
-Anhumas 4144
-Itabera 17480
-Riversul 5443
-Sebastianopolis do Sul 3554
-Joanopolis 13338
-Duartina 12433
-Iepe 8194
+Fartura 16070
+Andradina 57202
 Nova Independencia 4053
-Itapura 4951
+Socorro 41352
+Guaira 41040
+Colombia 6216
+Paulo de Faria 8959
+Cardoso 12349
+Meridiano 3824
+Cajati 28494
+Eldorado 15544
+Itaoca 3330
+Tanabi 26101
+Balsamo 9139
+Cedral 9346
+Uchoa 10151
+Elisiario 3697
+Marapoama 3064
+Mendonca 5565
+Planalto 5304
+Bananal 10993
+Rosana 16281
+Caiua 5946
+Iacanga 11858
+Iepe 8194
+Nantes 3179
+Lupercio 4596
 Lourdes 2300
+Turiuba 2020
+Moncoes 2267

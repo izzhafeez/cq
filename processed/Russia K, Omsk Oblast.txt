@@ -1,10 +1,10 @@
 
 
 Omsk 1154116
-Luzino 8964
-Azovo 5997
 Novovarshavka 5890
-Cherlak 10980
+Poltavka 7042
+Azovo 5997
+Luzino 8964
 Sherbakul' 6976
 Krutinka 7333
 Tyukalinsk 11275
@@ -14,11 +14,11 @@ Kormilovka 9616
 Kolosovka 5313
 
 Tara 27318
-Krasnyy Yar 5133
-Russkaya Polyana 5922
-Poltavka 7042
-Muromtsevo 10776
 Tevriz 6986
-Lyubinskiy 10231
-Okoneshnikovo 5205
+Russkaya Polyana 5922
 Pavlogradka 7582
+Cherlak 10980
+Okoneshnikovo 5205
+Muromtsevo 10776
+Lyubinskiy 10231
+Krasnyy Yar 5133

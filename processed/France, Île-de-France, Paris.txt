@@ -1,243 +1,47 @@
 
 
 Paris 2148271
+Villeparisis 23931
 
-Le Kremlin-Bicetre 27867
-Saint-Maurice 14282
-Saint-Mande 21261
-Saint-Mard 3761
-Dammartin-en-Goele 8552
-Montge-en-Goele 696
-Juilly 2195
-Claye-Souilly 11069
-Gressy 897
-Messy 975
-Chessy 2582
-Chalifert 1157
-Salins 1008
-Pierre-Levee 388
-Commeny 399
-Jossigny 580
-Poigny 452
-Egligny 303
-Chamigny 1326
-Vigny 1106
-Igny 9968
-Bievres 4310
-Sevres 23724
+Villepinte 37114
+Villepreux 9895
+Les Clayes-sous-Bois 17776
+Villaines-sous-Bois 615
+Morsang-sur-Seine 433
+Melz-sur-Seine 373
 
-Meudon 44652
+Ivry-sur-Seine 57897
 
-Saint-Cloud 28839
-La Celle-Saint-Cloud 21539
-Vaucresson 8693
-Montesson 15256
-Cesson 7557
+Vitry-sur-Seine 81001
+Saintry-sur-Seine 5308
+Soisy-sur-Seine 7552
+Grisy-sur-Seine 123
+Les Breviaires 980
+Vaires-sur-Marne 12547
 
-Corbeil-Essonnes 40527
-Saint-Germain-les-Corbeil 7481
-Etiolles 2788
-Lescherolles 459
-Marolles-sur-Seine 1521
-Villiers-le-Sec 149
-Villiers-le-Bacle 1154
-Isles-les-Meldeuses 658
-Isles-les-Villenoy 864
-Epiais-les-Louvres 64
-Louvres 9323
-Arnouville 12783
+Champs-sur-Marne 27776
+
+Villiers-sur-Marne 30252
+Bry-sur-Marne 16226
+
+Neuilly-sur-Marne 34465
+Gournay-sur-Marne 6073
+
+Noisy-le-Grand 62420
+Vert-le-Grand 2014
+Perdreauville 607
 Arnouville-les-Mantes 779
-Epinay-Champlatreux 80
-Champlan 2601
-
-Massy 38768
-Lassy 183
-Vendrest 691
-Andresy 12929
-Acheres 22555
-Acheres-la-Foret 1149
-Milly-la-Foret 4860
-Oncy-sur-Ecole 927
-Noisy-sur-Ecole 1886
-Moigny-sur-Ecole 1358
-Soisy-sur-Ecole 1395
-Cely 1086
-Belloy-en-France 1629
-Chailly-en-Biere 2334
-Saint-Martin-en-Biere 833
-Saint-Martin-la-Garenne 807
-Villeneuve-la-Garenne 22036
-
-Gennevilliers 42294
-
-Aubervilliers 70914
-
-La Courneuve 37287
-Villeneuve-sur-Auvers 633
-Mittainville 541
-Attainville 1834
-Moisselles 1016
-Moisson 833
-Issou 4469
-Wissous 4765
-Chilly-Mazarin 18870
-Chevilly-Larue 20125
-Rungis 5583
-Morangis 11369
-Morsang-sur-Orge 19917
-
-Savigny-sur-Orge 39698
-Juvisy-sur-Orge 12376
-Epinay-sur-Orge 9507
-Villiers-sur-Orge 3956
-Villemoisson-sur-Orge 7250
-Longpont-sur-Orge 6149
-Leuville-sur-Orge 3952
-Bretigny-sur-Orge 24317
-Saint-Michel-sur-Orge 20824
-
-Sainte-Genevieve-des-Bois 33689
-La Ville-du-Bois 6224
-Montlhery 6351
-Montlignon 2674
-
-Ermont 28117
-Domont 16684
-Montmorency 21156
-Montmagny 14708
-Soisy-sous-Montmorency 17436
-Saint-Brice-sous-Foret 13606
-Saint-Brice 798
-Courgent 425
-
-Argenteuil 101475
-Margency 2751
-Andilly 2138
-Sailly 380
-Brueil-en-Vexin 559
-Lainville-en-Vexin 790
-Magny-en-Vexin 5444
-Le Bellay-en-Vexin 257
-Cormeilles-en-Vexin 915
-Fremecourt 491
-Fremainville 498
-
-Romainville 24772
-Les Lilas 21124
-Les Loges-en-Josas 1539
-Jouy-en-Josas 8383
-Jouy-sur-Morin 2127
-Orly-sur-Morin 613
-Saint-Cyr-sur-Morin 1798
-Saint-Ouen-sur-Morin 594
-Saint-Germain-sous-Doue 419
-Doue 1029
-Le Vaudoue 787
-Vaudoy-en-Brie 740
-Leudon-en-Brie 157
-La Tombe 233
-Coulombs-en-Valois 620
-Chalou-Moulineux 394
-Meigneux 191
-Vignely 184
-Villuis 241
-Villeron 722
-Villeroy 621
-Richarville 426
-Arville 132
-Mondreville 389
-Egreville 2020
-Mereville 3250
-Abbeville-la-Riviere 286
-Ormoy-la-Riviere 942
-Fontaine-la-Riviere 182
-Genainville 521
-Ollainville 4883
-Avrainville 685
-Saint-Vrain 2816
-Montevrain 3442
-Coutevroult 586
-Boullay-les-Troux 612
-Mouroux 4604
-Mours 1566
-Beaumont-sur-Oise 9011
-Bernes-sur-Oise 2414
-Noisy-sur-Oise 705
-Asnieres-sur-Oise 2631
-Bruyeres-sur-Oise 3619
-Champagne-sur-Oise 4124
-Butry-sur-Oise 2108
-Mery-sur-Oise 9490
-Auvers-sur-Oise 6972
-Neuville-sur-Oise 1489
-Jouy-le-Moutier 19087
-Jouy-le-Chatel 1525
-Boissy-le-Chatel 2926
-Chauffry 932
-Auffreville-Brasseuil 602
-Boissets 228
-Boissettes 472
-Villette 510
-Maulette 751
-Maule 6272
-Aulnay-sur-Mauldre 1160
-La Falaise 645
-Epone 6770
-Pomponne 3324
-Saint-Thibault-des-Vignes 6545
-
-Pontault-Combault 34798
-Machault 691
-Jouarre 3742
-Arronville 669
-Congerville-Thionville 240
-Angerville 3457
-Monnerville 369
-Boutervilliers 311
-Angervilliers 1458
-Bouville 658
-Roinville 940
-Roinvilliers 65
-Mortery 166
-Mortcerf 1427
-La Celle-sur-Morin 1211
-Villiers-sur-Morin 1673
-Saint-Germain-sur-Morin 3024
-Saint-Germain-sur-Ecole 362
-Le Val-Saint-Germain 1513
-Saint-Germain-Laval 2983
-Laval-en-Brie 449
-Reuil-en-Brie 901
-La Ferte-sous-Jouarre 9443
-La Ferte-Alais 4051
-Guigneville-sur-Essonne 983
-Boutigny-sur-Essonne 3171
-Gironville-sur-Essonne 757
-Ballancourt-sur-Essonne 7001
-Courdimanche-sur-Essonne 297
-Nanteau-sur-Essonne 434
-Nanteau-sur-Lunain 742
-Vaux-sur-Lunain 210
-Bethemont-la-Foret 483
-Saint-Leu-la-Foret 16075
-Saint-Prix 7226
-Saint-Pathus 5296
-Saint-Soupplets 3307
-Souppes-sur-Loing 6002
-Bagneaux-sur-Loing 1569
-Grez-sur-Loing 1347
-Montigny-sur-Loing 2749
-Moret-sur-Loing 4866
-Samoreau 2371
-Samois-sur-Seine 2055
-Vulaines-sur-Seine 2273
-Varennes-sur-Seine 3494
-Montereau-Fault-Yonne 16993
-Misy-sur-Yonne 815
-La Brosse-Montceaux 729
-Cannes-Ecluse 2842
-Chevannes 1477
-Conde-Sainte-Libiaire 1477
+Hedouville 303
+Theuville 62
+Villemer 713
+Gironville 189
+Gadancourt 80
+Guitrancourt 645
+Saint-Illiers-la-Ville 284
+Villiers-sous-Grez 839
+Longvilliers 465
+Livilliers 391
+Hondevilliers 238
 Mondeville 725
 Itteville 5650
 Leudeville 1256
@@ -245,249 +49,234 @@ Marolles-en-Hurepoix 4921
 Marolles-en-Beauce 202
 Montchauvet 267
 Auvernaux 273
-Gouvernes 1132
-Avernes 827
+Breuil-Bois-Robert 701
+Merobert 493
+Villeconin 671
+Bouville 658
+Roinville 940
+Dourdan 10261
+Saint-Cyr-sous-Dourdan 1005
+Cucharmoy 245
+Charmont 34
+Rumont 136
+Millemont 216
 
-Taverny 27271
-Bessancourt 8026
-Tessancourt-sur-Aubette 967
-Seraincourt 1388
-Aincourt 921
-
-Elancourt 30831
-
-Guyancourt 31989
-Rocquencourt 3389
-Ocquerre 374
-Gometz-la-Ville 1053
-Cuisy 408
-Dhuisy 265
-Behoust 392
-Montmachoux 240
-Ury 806
-Saint-Mery 404
-Saint-Yon 863
-Boissy-sous-Saint-Yon 3762
-Boissy-Saint-Leger 15877
-Boussy-Saint-Antoine 6786
-Epinay-sous-Senart 12826
-Quincy-sous-Senart 7808
-Quincy-Voisins 5018
-Poincy 730
-Sancy 325
-
-Drancy 62488
-Le Raincy 13246
-Les Pavillons-sous-Bois 19730
-
-Clichy-sous-Bois 29062
-
-Aulnay-sous-Bois 80615
+Villemomble 28001
 
 Rosny-sous-Bois 41627
 
 Fontenay-sous-Bois 52075
 
-Le Perreux-sur-Marne 32015
-Bry-sur-Marne 16226
+Aulnay-sous-Bois 80615
+Les Pavillons-sous-Bois 19730
 
-Neuilly-sur-Marne 34465
+Clichy-sous-Bois 29062
+Jagny-sous-Bois 236
+Voulton 326
+Montgeroult 441
+Montgeron 22843
+Crosne 8592
 
-Villiers-sur-Marne 30252
-Chennevieres-sur-Marne 18314
-Bonneuil-sur-Marne 18723
-Ormesson-sur-Marne 9922
+Villeneuve-Saint-Georges 30881
+Villeneuve-le-Roi 17575
 
-Champigny-sur-Marne 76726
-
-Nogent-sur-Marne 31236
-Joinville-le-Pont 18154
-
-Charenton-le-Pont 30910
-
-Pontoise 30290
-
-Cergy-Pontoise 183430
-
-Cergy 57576
-Sagy 1189
-Flagy 588
-Dormelles 866
-Ecuelles 2815
-Arcueil 17308
-
-Cachan 26540
-
-Chatillon 32383
-Gentilly 15939
-Argentieres 361
-Favieres 1025
-Ferrieres-en-Brie 1810
-Roissy-en-Brie 20933
-
-Sucy-en-Brie 25014
-La Queue-en-Brie 11826
-La Queue-les-Yvelines 1939
-Saint-Leger-en-Yvelines 1395
-Le Perray-en-Yvelines 6206
-Dampierre-en-Yvelines 1145
-
-Saint-Quentin-en-Yvelines 146598
-
-Trappes 28367
-Milon-la-Chapelle 360
-La Chapelle-la-Reine 3042
+Choisy-le-Roi 35590
+Noisy-le-Roi 8218
+Marly-le-Roi 17404
+Mareil-Marly 3381
+Le Port-Marly 4640
+Le Pecq 16534
+Le Perchay 503
+Moussy 120
+Goussonville 593
+Obsonville 98
+Mauregard 259
+Saint-Jean-de-Beauregard 302
+Beauchery-Saint-Martin 404
+Bussy-Saint-Martin 629
+Bussy-Saint-Georges 10043
+Villiers-Saint-Georges 1128
+Auvers-Saint-Georges 1116
+Boissy-sous-Saint-Yon 3762
+Avrainville 685
+Ollainville 4883
+Egly 5259
+Chalautre-la-Grande 669
+Chalautre-la-Petite 635
+Sourdun 1525
+Provins 12685
+Savins 562
+Sognolles-en-Montois 384
+Mons-en-Montois 432
+Donnemarie-Dontilly 2879
+Montigny-Lencoup 1352
+Villeneuve-les-Bordes 561
+La Celle-les-Bordes 886
+Boisemont 738
+Bethemont-la-Foret 483
+Vaux-sur-Lunain 210
+Mouy-sur-Seine 420
+Gastins 639
+Saint-Augustin 1545
+Saints 1286
+Saint-Mard 3761
+Dammartin-en-Goele 8552
+Montge-en-Goele 696
+Monthyon 1459
+Ponthierry 12158
+Saint-Fargeau-Ponthierry 12097
+Nandy 6741
+Blandy 785
+Douy-la-Ramee 259
+Ormoy-la-Riviere 942
+Abbeville-la-Riviere 286
+Mereville 3250
+Estouches 211
+Chessy 2582
+Conches-sur-Gondoire 1886
+Bazoches-sur-Guyonne 507
+Bazoches-les-Bray 782
+Les Chapelles-Bourbon 362
 La Chapelle-Iger 165
 La Chapelle-Gauthier 1358
 La Chapelle-Rablais 856
 La Chapelle-Saint-Sulpice 188
 Saint-Loup-de-Naud 941
-Savins 562
-Provins 12685
-Sancy-les-Provins 294
-Villiers-Saint-Georges 1128
-Auvers-Saint-Georges 1116
-Etrechy 6461
+Saint-Leger 208
+Rupereux 91
+Villeneuve-sur-Auvers 633
+Villeneuve-sur-Bellot 1183
+Bellot 771
+Rebais 2081
+Chauffry 932
 Chauffour-les-Etrechy 126
 Montenils 45
-Fontenailles 974
-Fontenay-les-Briis 1797
-Briis-sous-Forges 3391
-Forges-les-Bains 3694
-Enghien-les-Bains 10951
+Montesson 15256
+Vaucresson 8693
+Cesson 7557
 
-Stains 32601
-Fontains 270
-Fontaine 466
-Chateau-Landon 3764
-Chateaubleau 292
-Tigeaux 405
-Dammartin-sur-Tigeaux 846
-Soisy-Bouy 769
-Boissy-Mauvoisin 599
-Cregy-les-Meaux 4061
-Mauregard 259
-Saint-Jean-de-Beauregard 302
-Beauchery-Saint-Martin 404
-La Chapelle-en-Vexin 331
-Rumont 136
-Charmont 34
-Millemont 216
-
-Villemomble 28001
-Ambleville 372
-Jambville 743
-Saint-Escobille 525
-Vincy-Manoeuvre 196
-Maincy 1908
-Rubelles 1837
-Bellot 771
-Villeneuve-sur-Bellot 1183
-Montdauphin 200
-Orphin 976
-Varennes-Jarcy 2019
-Vallangoujard 674
-Vauhallan 2175
-Hautefeuille 262
-Auteuil 911
-Septeuil 2212
-Rosay 387
-Rosny-sur-Seine 4936
+Corbeil-Essonnes 40527
+Saint-Germain-les-Corbeil 7481
+Saint-Germain-les-Arpajon 8695
+Arpajon 9742
+La Norville 4191
+Arville 132
+Richarville 426
+Villeroy 621
+Villeron 722
+Villers-en-Arthies 472
+Maisoncelles-en-Brie 749
+Liverdy-en-Brie 1145
+Buchelay 2325
+Treuzy-Levelay 472
+Pierre-Levee 388
+Commeny 399
+Jossigny 580
+Poigny 452
+Egligny 303
+Chamigny 1326
+Fericy 554
+Hericy 2842
+Samois-sur-Seine 2055
+Vulaines-sur-Seine 2273
+Varennes-sur-Seine 3494
+Montereau-Fault-Yonne 16993
+Misy-sur-Yonne 815
 Bray-sur-Seine 2135
 Chatenay-sur-Seine 1042
 
 Epinay-sur-Seine 46145
-Villetaneuse 12025
-Freneuse 3634
-Mericourt 383
-Gommecourt 597
-Bennecourt 1877
-Bonnieres-sur-Seine 4187
+Enghien-les-Bains 10951
 
-Asnieres-sur-Seine 86742
+Stains 32601
 
-Neuilly-sur-Seine 61300
+Garges-les-Gonesse 39847
 
-Courbevoie 85158
-Herbeville 328
+Gonesse 26758
+Bonneuil-en-France 818
+Roissy-en-France 2651
 
-Herblay 25153
-Pierrelaye 7295
-Beauchamp 9532
-Mauchamps 288
-Champcueil 2755
-Champdeuil 723
-Saint-Mesmes 504
-Saint-Mammes 3429
-Veneux-les-Sablons 5091
-Sablonnieres 692
-Chatignonville 96
-Nonville 610
-Montcourt-Fromonville 2480
-Fromont 174
-Villeneuve-Saint-Denis 730
+Tremblay-en-France 35591
+Chatenay-en-France 64
+Arronville 669
+Congerville-Thionville 240
+Champmotteux 256
+Grandchamp 244
+Nanteuil-sur-Marne 502
+Barcy 236
+Quiers 641
+Saint-Sulpice-de-Favieres 335
+Saint-Soupplets 3307
+Saint-Pathus 5296
+Saint-Prix 7226
+Saint-Leu-la-Foret 16075
+Milly-la-Foret 4860
+Acheres-la-Foret 1149
+Le Vaudoue 787
+Buthiers 704
+Roinvilliers 65
+Boinvilliers 293
+Boinville-en-Mantois 311
+Baby 73
+Vendrest 691
+Gaillon-sur-Montcient 660
+Dammartin-en-Serve 997
+Clery-en-Vexin 419
+Neuilly-en-Vexin 221
+Magny-en-Vexin 5444
+Le Bellay-en-Vexin 257
+Lainville-en-Vexin 790
+Brueil-en-Vexin 559
+Sailly 380
+Bailly 4300
 
-Saint-Denis 96128
+Versailles 85416
+Viroflay 16137
+Chaville 18735
+Ville-d'Avray 11431
+La Ville-du-Bois 6224
+Leuville-sur-Orge 3952
+Bretigny-sur-Orge 24317
+Longpont-sur-Orge 6149
+Villiers-sur-Orge 3956
+Epinay-sur-Orge 9507
 
-Saint-Ouen 39353
-Saint-Ouen-en-Brie 767
-Arbonne-la-Foret 1036
-Fontaine-Fourches 582
-Villeneuve-sous-Dammartin 582
-Villiers-sous-Grez 839
-Saint-Illiers-la-Ville 284
-Mantes-la-Ville 19947
+Savigny-sur-Orge 39698
+Juvisy-sur-Orge 12376
+Morsang-sur-Orge 19917
+Villemoisson-sur-Orge 7250
+Saint-Michel-sur-Orge 20824
 
-Mantes-la-Jolie 44263
-Limay 18559
-Limours 6414
-Les Molieres 1756
+Sainte-Genevieve-des-Bois 33689
+Sainte-Aulde 566
+Saint-Gervais 944
+Andelu 390
+Boissy-le-Sec 662
 
-Les Ulis 25785
-Bures-sur-Yvette 10411
-Gif-sur-Yvette 23541
-Villebon-sur-Yvette 9983
+Noisy-le-Sec 38955
 
-Palaiseau 31987
-Noiseau 4094
-Chenoise 1240
-Chenou 319
-Montainville 532
-Treuzy-Levelay 472
-Buchelay 2325
-Liverdy-en-Brie 1145
-Vert-le-Petit 2561
-Vert-le-Grand 2014
+Bondy 48268
+Bondoufle 9619
+Courcouronnes 14856
+Saint-Maurice-Montcouronne 1440
+Vaugrigneuse 1141
 
-Noisy-le-Grand 62420
-Gournay-sur-Marne 6073
-Vaires-sur-Marne 12547
-
-Champs-sur-Marne 27776
-Noisiel 15362
-Lognes 15519
-
-Boulogne-Billancourt 108782
-Boulancourt 358
-Nucourt 827
-Le Tertre-Saint-Denis 105
-Saint-Lambert 377
-Saint-Germain-Laxis 579
-Le Plessis-Placy 289
-Le Plessis-Pate 4031
-Le Plessis-Trevise 18618
-Le Plessis-aux-Bois 241
-Dannemarie 275
-Dannemois 713
-Orveau 192
-Reau 770
-Breau 343
-Champeaux 882
-Andrezel 399
-Guignes 2639
-Chaumes-en-Brie 3100
-Presles-en-Brie 1899
+Grigny 24940
+Perigny 2087
+Lesigny 8421
+Chevry-Cossigny 3575
+Ferolles-Attilly 1129
 Soignolles-en-Brie 2138
+Presles-en-Brie 1899
+Chaumes-en-Brie 3100
+Rozay-en-Brie 2887
+
+Sucy-en-Brie 25014
+La Queue-en-Brie 11826
+Roissy-en-Brie 20933
+Ferrieres-en-Brie 1810
+Ozoir-la-Ferriere 22530
+Favieres 1025
 Tournan-en-Brie 8309
 Neufmoutiers-en-Brie 1033
 Faremoutiers 2527
@@ -497,272 +286,84 @@ Vaucourtois 222
 Saint-Ange-le-Viel 235
 Neauphle-le-Vieux 741
 Nainville-les-Roches 512
-Saint-Hilaire 399
-Saint-Hilarion 847
-Saint-Clair-sur-Epte 847
-Montreuil-sur-Epte 377
-Videlles 595
+Genainville 521
+Fontaine-la-Riviere 182
+Fontaine 466
+Chateau-Landon 3764
+Chateaufort 1543
+Gometz-le-Chatel 1954
+Gif-sur-Yvette 23541
+Bures-sur-Yvette 10411
+Villebon-sur-Yvette 9983
 
-Chelles 46947
-Lechelle 574
-Sourdun 1525
-Chalautre-la-Petite 635
-Chalautre-la-Grande 669
-Saint-Germain-de-la-Grange 1827
-Thiverval-Grignon 1057
-
-Grigny 24940
-
-Ris-Orangis 25082
-Fleury-Merogis 9241
-Bondoufle 9619
-Courcouronnes 14856
-Lisses 7601
-Lissy 187
-Saint-Remy-la-Vanne 898
-Saint-Barthelemy 337
-Saint-Just-en-Brie 213
-Trocy-en-Multien 246
-May-en-Multien 873
-Cessoy-en-Montois 208
-Mons-en-Montois 432
-Sognolles-en-Montois 384
-Sigy 64
-Signy-Signets 632
-Boutigny 896
-Fublaines 1117
-Velizy-Villacoublay 21741
-Saclay 3048
-Orsay 17817
-Morsang-sur-Seine 433
-Villaines-sous-Bois 615
-Jagny-sous-Bois 236
-Voulton 326
-Montgeroult 441
-Frouville 394
-Herouville 553
-Breval 1735
-Orgeval 5081
-Villennes-sur-Seine 5070
-Verneuil-sur-Seine 16790
-Triel-sur-Seine 12574
+Palaiseau 31987
+La Falaise 645
+Epone 6770
+Mezieres-sur-Seine 3543
+Flins-sur-Seine 2328
+Mezy-sur-Seine 1892
 Vaux-sur-Seine 4600
-Menucourt 5382
-Maurecourt 3668
-Vaureal 20699
-Courdimanche 6256
-Emance 798
-Courances 371
-Arrancourt 139
-Saclas 1831
-
-Clamart 51400
-Chamarande 1075
-Grandchamp 244
-Gravon 126
-Bellefontaine 513
-Saint-Cyr-sous-Dourdan 1005
-Cucharmoy 245
-Ormoy 1311
-Mennecy 14646
-Pecy 740
-Limoges-Fourches 325
-Montigny-le-Guesdier 292
-Beaumont-du-Gatinais 1088
-Maisoncelles-en-Gatinais 123
-Maisoncelles-en-Brie 749
-Moisenay 1278
-Voisenon 1243
-Diant 211
-
-Pantin 52922
-Le Pre-Saint-Gervais 17786
-Saint-Gervais 944
-Andelu 390
-Dagny 350
-
-Gagny 38134
-Eragny 15385
-
-Conflans-Sainte-Honorine 36358
-Magny-le-Hongre 4061
-Lagny-sur-Marne 20649
-Thorigny-sur-Marne 9887
-Annet-sur-Marne 2759
-Fresnes-sur-Marne 480
-Precy-sur-Marne 527
-Mary-sur-Marne 1266
-Changis-sur-Marne 1038
-Mery-sur-Marne 558
-Saacy-sur-Marne 1866
-Bussieres 489
-La Boissiere-Ecole 762
-Adainville 773
-Bazainville 1304
-Tacoignieres 1003
-Garancieres 2381
-Crespieres 1554
-Villecresnes 8978
-Crosne 8592
-
-Villeneuve-Saint-Georges 30881
-Villeneuve-le-Roi 17575
-
-Choisy-le-Roi 35590
-
-Thiais 29724
-
-Athis-Mons 31225
-
-Vigneux-sur-Seine 26692
-Soisy-sur-Seine 7552
-Saintry-sur-Seine 5308
-
-Vitry-sur-Seine 81001
-
-Ivry-sur-Seine 57897
-Livry-sur-Seine 2074
-Vaux-le-Penil 11758
-Fontaine-le-Port 917
-Fontainebleau 19717
-Avon 15009
-Servon 2881
-Seine-Port 1935
-Grisy-sur-Seine 123
-Croissy-sur-Seine 10751
-Le Vesinet 16740
-Le Pecq 16534
-Le Port-Marly 4640
-Mareil-Marly 3381
-Marly-le-Roi 17404
-Noisy-le-Roi 8218
-Bailly 4300
-
-Versailles 85416
-Viroflay 16137
-Chaville 18735
-Ville-d'Avray 11431
-Marnes-la-Coquette 1595
-Garches 18930
-
-Le Chesnay 29154
-Le Chatelet-en-Brie 4968
-Chailly-en-Brie 1485
-Coulommiers 15274
-Pommeuse 2739
-Coulommes 430
-Carnetin 430
-Pontcarre 1980
-Carrieres-sur-Seine 12829
-
-Houilles 31121
-
-Bezons 27570
-Maisons-Laffitte 22772
-Le Mesnil-le-Roi 6515
-Le Mesnil-Aubry 962
-Ezanville 8950
-Vanville 200
-
-Vanves 26068
-
-Malakoff 29420
-
-Chatenay-Malabry 32715
-Fontenay-aux-Roses 24680
-
-L'Hay-les-Roses 29703
-Le Plessis-Robinson 22510
-Sceaux 21511
-
-Issy-les-Moulineaux 61447
-Montceaux-les-Meaux 628
-
-Meaux 53811
-Mareuil-les-Meaux 1762
-Nanteuil-les-Meaux 5499
-Nanteuil-sur-Marne 502
-Barcy 236
-Burcy 196
-Chambourcy 5372
-Aigremont 930
-
-Poissy 36431
-Carrieres-sous-Poissy 15465
-Chanteloup-les-Vignes 9521
-Chanteloup-en-Brie 1943
-Conches-sur-Gondoire 1886
-Valmondois 1289
-Parmain 5629
-Gretz-Armainvilliers 7831
-Boinvilliers 293
-Boinville-en-Mantois 311
-Baby 73
-Trilbardou 566
-Trilport 5080
-Port-Villez 186
-Blennes 526
-
-Vincennes 45923
-
-Montreuil 90652
-
-Bagnolet 33504
-
-Bagneux 38900
-Bourg-la-Reine 18870
-Le Bourget 12690
-
-Le Blanc-Mesnil 48077
-Le Mesnil-Saint-Denis 6915
-Levis-Saint-Nom 1826
-Saint-Nom-la-Breteche 4828
-L'Etang-la-Ville 4641
-Marly-la-Ville 6034
-Fosses 10543
-
-Gonesse 26758
-
-Garges-les-Gonesse 39847
-Dugny 10709
-
-Bobigny 44962
-
-Noisy-le-Sec 38955
-Boissy-le-Sec 662
-Paroy 215
-Sainte-Aulde 566
-Toussus-le-Noble 747
-Tousson 417
-La Hauteville 177
-La Haute-Maison 240
-Haute-Isle 317
-Beautheil 613
+Triel-sur-Seine 12574
+Verneuil-sur-Seine 16790
+Vernouillet 9965
 Autouillet 447
 Nantouillet 288
 Guiry-en-Vexin 185
 Gambaiseuil 60
 Gambais 2166
-Rebais 2081
-Saint-Denis-les-Rebais 860
-Lommoye 552
-Les Alluets-le-Roi 1344
-Les Essarts-le-Roi 6213
-Auffargis 1983
-Aufferville 488
-Breuil-Bois-Robert 701
-Merobert 493
-Chalo-Saint-Mars 1163
-Saint-Mars-Vieux-Maisons 204
-Saint-Martin-du-Boschet 204
-Saint-Martin-du-Tertre 2493
-Viarmes 4961
-Ormesson 260
-Goussonville 593
-Moussy 120
-Ichy 186
+Saint-Mery 404
+Saint-Yon 863
+Prunay-le-Temple 315
 
-Clichy 57467
+Savigny-le-Temple 25925
+Vert-Saint-Denis 8275
+
+Saint-Denis 96128
+
+Saint-Ouen 39353
+Saint-Ouen-en-Brie 767
+Arbonne-la-Foret 1036
+Villeneuve-sous-Dammartin 582
+Villeneuve-Saint-Denis 730
+Mulcent 74
+Luisetaines 227
+Pezarches 297
+Marchemoret 364
+Mareil-le-Guyon 364
+La Roche-Guyon 583
+Gommecourt 597
+Bennecourt 1877
+Mericourt 383
+Aincourt 921
+Seraincourt 1388
+Tessancourt-sur-Aubette 967
+Menucourt 5382
+Maurecourt 3668
+Andresy 12929
+Mandres-les-Roses 4243
+
+L'Hay-les-Roses 29703
+Fontenay-aux-Roses 24680
+
+Chatenay-Malabry 32715
+Sceaux 21511
+
+Issy-les-Moulineaux 61447
+Chalou-Moulineux 394
+Meigneux 191
+Vignely 184
+Villuis 241
+Berville 390
+
+Aubervilliers 70914
+
+Gennevilliers 42294
+Villeneuve-la-Garenne 22036
+
+La Garenne-Colombes 26385
+
+Colombes 82300
+Bois-Colombes 24300
 
 Levallois-Perret 62178
 
@@ -774,601 +375,1000 @@ Fleury-en-Biere 620
 Villiers-en-Biere 214
 Augers-en-Brie 285
 Arthies 285
-Villers-en-Arthies 472
 Vienne-en-Arthies 401
 Vieille-Eglise-en-Yvelines 754
-Flins-Neuve-Eglise 162
-La Villeneuve-en-Chevrie 566
-Villeneuve-le-Comte 1764
-Bailly-Romainvilliers 3692
-Serris 2530
-La Verriere 6427
-Coignieres 4439
-Maurepas 19009
-Le Tremblay-sur-Mauldre 988
-Bazoches-sur-Guyonne 507
-Bazoches-les-Bray 782
-Beton-Bazoches 770
-Chevru 931
-Chevreuse 5687
-Saint-Remy-les-Chevreuse 8072
-Saint-Cheron 4690
-Saint-Maurice-Montcouronne 1440
-Vaugrigneuse 1141
-Perigny 2087
-Lesigny 8421
-Chevry-Cossigny 3575
-Ferolles-Attilly 1129
-Feucherolles 2976
-Ronquerolles 794
-Persan 9314
-Perthes 2093
-Mauperthuis 473
-Vert 785
-Vicq 277
-Fontenay-le-Vicomte 928
-Fontenay-le-Fleury 12611
-Saint-Cyr-l'Ecole 16365
-Saint-Cyr-la-Riviere 460
-Saint-Hilliers 438
-Neuilly-en-Vexin 221
-Maudetour-en-Vexin 191
-Courchamp 177
-Chatres 609
-Grisy-les-Platres 590
-Grisy-Suisnes 2200
-Brie-Comte-Robert 15892
-Combs-la-Ville 22322
-Lieusaint 7018
-Saints 1286
-Montsoult 3532
-Baillet-en-France 1805
-Roissy-en-France 2651
+Dampierre-en-Yvelines 1145
+
+Saint-Quentin-en-Yvelines 146598
+
+Trappes 28367
+Souppes-sur-Loing 6002
+Bagneaux-sur-Loing 1569
+Grez-sur-Loing 1347
+Montigny-sur-Loing 2749
+Moret-sur-Loing 4866
+Samoreau 2371
+Reau 770
+Breau 343
+Bombon 991
+Champeaux 882
+Andrezel 399
+Guignes 2639
+Guigneville-sur-Essonne 983
+Boutigny-sur-Essonne 3171
+Moigny-sur-Ecole 1358
+Soisy-sur-Ecole 1395
+Oncy-sur-Ecole 927
+Noisy-sur-Ecole 1886
+Noisy-sur-Oise 705
+Asnieres-sur-Oise 2631
+Bruyeres-sur-Oise 3619
+Bernes-sur-Oise 2414
+Beaumont-sur-Oise 9011
+Champagne-sur-Oise 4124
+Butry-sur-Oise 2108
+Auvers-sur-Oise 6972
+Mery-sur-Oise 9490
+Frepillon 2399
+Etrepilly 887
+Juilly 2195
+Claye-Souilly 11069
+Gressy 897
+Messy 975
+Fresnes-sur-Marne 480
+Precy-sur-Marne 527
+Annet-sur-Marne 2759
+Lagny-sur-Marne 20649
+Thorigny-sur-Marne 9887
+Dampmart 3009
+
+Clamart 51400
+Chamarande 1075
+Mousseaux-sur-Seine 620
+Mousseaux-les-Bray 685
+Vaudoy-en-Brie 740
+Burcy 196
+Chambourcy 5372
+Chambry 921
+Varreddes 1991
+Jouarre 3742
+Machault 691
+
+Cachan 26540
+Arcueil 17308
+Champcueil 2755
+Mauchamps 288
+Beauchamp 9532
+Le Plessis-Bouchard 7420
+Le Plessis-Pate 4031
+Marcoussis 7756
+Marcq 631
+Saulx-Marchais 631
+Saulx-les-Chartreux 5241
+Champlan 2601
+
+Massy 38768
+Lassy 183
+Yebles 613
+Drocourt 428
+Nucourt 827
+Boulancourt 358
+
+Elancourt 30831
+
+Guyancourt 31989
+Rocquencourt 3389
+
+Le Chesnay 29154
+Garches 18930
+Luzarches 4149
+Le Plessis-Luzarches 152
+Le Plessis-Placy 289
+Vigny 1106
+Marles-en-Brie 1476
+Saint-Germain-Laxis 579
+Saint-Germain-Laval 2983
+Laval-en-Brie 449
+Reuil-en-Brie 901
+La Ferte-sous-Jouarre 9443
+Saint-Germain-sous-Doue 419
+Doue 1029
+Saint-Cyr-sur-Morin 1798
+Orly-sur-Morin 613
+Saint-Ouen-sur-Morin 594
+Mery-sur-Marne 558
+Saacy-sur-Marne 1866
+Mary-sur-Marne 1266
+Changis-sur-Marne 1038
+Saint-Jean-les-Deux-Jumeaux 1344
+
+Meaux 53811
+Nanteuil-les-Meaux 5499
+Mareuil-les-Meaux 1762
+Villenoy 3887
+Isles-les-Villenoy 864
+Epiais-les-Louvres 64
+Louvres 9323
 Puiseux-en-France 3096
-Bonneuil-en-France 818
 Mareil-en-France 587
 Le Heaulme 198
-Vimpelles 476
-Les Chapelles-Bourbon 362
-Thenisy 281
-Vert-Saint-Denis 8275
+Nointel 708
+Chaumontel 3278
+Seugy 1108
+Viarmes 4961
+Ormesson 260
+Ormesson-sur-Marne 9922
+Chennevieres-sur-Marne 18314
 
-Savigny-le-Temple 25925
-Nandy 6741
-Blandy 785
-Douy-la-Ramee 259
-Crouy-sur-Ourcq 1681
-Lizy-sur-Ourcq 3798
-Mezy-sur-Seine 1892
-Mezieres-sur-Seine 3543
-Flins-sur-Seine 2328
-Aubergenville 11934
-Gargenville 6952
-Hargeville 336
-Blaru 849
-Lardy 4629
-Janville-sur-Juine 1962
-Bouray-sur-Juine 1950
-Cerny 3365
-Iverny 537
-Cherence 154
-Chatenay-en-France 64
+Champigny-sur-Marne 76726
 
-Tremblay-en-France 35591
-Vaujours 5922
-Villevaude 1760
-Le Pin 1137
-Courtry 6610
-Coubron 4735
-Brou-sur-Chantereine 4682
-Montereau-sur-le-Jard 616
-Ville-Saint-Jacques 741
-Ecquevilly 4172
-Chapet 1189
-Bouafle 2115
-Gouaix 1582
-Janvry 622
+Nogent-sur-Marne 31236
 
-Evry 51900
-Chevry-en-Sereine 495
-Lorrez-le-Bocage-Preaux 1391
-Chaintreaux 863
-Remauville 443
-Villemarechal 871
-Villemareuil 373
-Citry 752
-Mitry-Mory 18562
-Villeparisis 23931
-
-Villepinte 37114
-Villepreux 9895
-Les Clayes-sous-Bois 17776
-
-Plaisir 36121
+Le Perreux-sur-Marne 32015
 Neuilly-Plaisance 18725
-Santeuil 619
+
+Neuilly-sur-Seine 61300
+
+Asnieres-sur-Seine 86742
+Carrieres-sur-Seine 12829
+
+Houilles 31121
+Cormeilles-en-Parisis 21973
+Montigny-les-Cormeilles 17910
+Cormeilles-en-Vexin 915
+Fremecourt 491
 Brignancourt 217
-Breancon 356
-Marines 3130
-Chars 1716
-Haravilliers 490
-Livilliers 391
-Hondevilliers 238
-Courquetaine 189
-Courtacon 195
-Obsonville 98
-Jaignes 338
-Jablines 629
-Rochefort-en-Yvelines 822
-Omerville 359
-Berville 390
-Guerville 1990
-Soindres 598
-Magnanville 5539
-Flexanville 557
-Orgerus 2364
-Saint-Forget 547
-Les Ecrennes 697
-Chauvry 301
+Santeuil 619
+Us 1248
+Epiais-Rhus 673
+
+Thiais 29724
+Orly 20528
+Rungis 5583
+Morangis 11369
+Chilly-Mazarin 18870
+Chevilly-Larue 20125
+Porcheville 2630
+Guercheville 255
+Auffreville-Brasseuil 602
+Boissets 228
+Boissettes 472
+Oissery 2247
+Courdimanche-sur-Essonne 297
+Nanteau-sur-Essonne 434
+Nanteau-sur-Lunain 742
+Bransles 511
+Gurcy-le-Chatel 423
+Boissy-le-Chatel 2926
+Jouy-le-Chatel 1525
+Chenoise 1240
+Chenou 319
+Montainville 532
+Attainville 1834
+Ezanville 8950
+Vanville 200
+Forfry 199
+Saint-Lambert 377
+Boissy-Saint-Leger 15877
+Boussy-Saint-Antoine 6786
+Epinay-sous-Senart 12826
+Quincy-sous-Senart 7808
+Quincy-Voisins 5018
+Poincy 730
+Signy-Signets 632
+Sammeron 1044
+Saint-Mammes 3429
+Saint-Mande 21261
+Saint-Maurice 14282
+
+Saint-Maur-des-Fosses 75402
+Fosses 10543
+Marly-la-Ville 6034
+Cernay-la-Ville 1841
+Senlisse 514
+Lisses 7601
+Lissy 187
+Sablonnieres 692
+Bonnieres-sur-Seine 4187
+Rosny-sur-Seine 4936
+Rolleboise 421
+Lescherolles 459
+Marolles-sur-Seine 1521
+Villiers-le-Sec 149
+Villiers-le-Bacle 1154
+Isles-les-Meldeuses 658
+Saint-Cyr-en-Arthies 242
+Saint-Cyr-la-Riviere 460
+Videlles 595
+
+Chelles 46947
+Lechelle 574
+Saint-Nom-la-Breteche 4828
+L'Etang-la-Ville 4641
+Mantes-la-Ville 19947
+
+Mantes-la-Jolie 44263
+Limay 18559
+Follainville-Dennemont 2021
+Ballainvilliers 2907
+Morainvilliers 2330
+Ecquevilly 4172
+Herbeville 328
+Maule 6272
+Aulnay-sur-Mauldre 1160
+Mareil-sur-Mauldre 1882
 Rouvres 657
 Grosrouvre 802
-Puiselet-le-Marais 344
+Saint-Germain-sur-Ecole 362
+Le Val-Saint-Germain 1513
+Angervilliers 1458
+Angerville 3457
+Monnerville 369
+Boutervilliers 311
 La Foret-le-Roi 377
 Les Granges-le-Roi 960
 Bois-le-Roi 5903
 Boissise-le-Roi 4021
 Boissise-la-Bertrand 973
-Pringy 2569
-Ponthierry 12158
-Saint-Fargeau-Ponthierry 12097
-Saint-Pierre-du-Perray 6140
-Saint-Pierre-les-Nemours 6435
-Fay-les-Nemours 465
-Nemours 13933
-Rennemoulin 137
-Follainville-Dennemont 2021
-Oinville-sur-Montcient 1183
-Gaillon-sur-Montcient 660
-Dammartin-en-Serve 997
-Clery-en-Vexin 419
-Drocourt 428
-Yebles 613
-Ableiges 1024
-Us 1248
-Chaussy 638
-Boitron 372
-Rolleboise 421
-Boisemont 738
-La Celle-les-Bordes 886
-Villeneuve-les-Bordes 561
-Montigny-Lencoup 1352
-Montigny-les-Cormeilles 17910
-Cormeilles-en-Parisis 21973
-Fontenay-en-Parisis 1806
-Fontenay-Mauvoisin 318
-Courcelles-sur-Viosne 294
-Courcelles-en-Bassee 226
-Bassevelle 389
-Everly 622
-Orly 20528
-Ablon-sur-Seine 5174
-Noyen-sur-Seine 355
-Jaulnes 329
-Marles-en-Brie 1476
-Armentieres-en-Brie 1321
-Choisy-en-Brie 1273
-Chevrainvilliers 249
-Morainvilliers 2330
-Ballainvilliers 2907
-Longjumeau 20771
-Jumeauville 583
-Clairefontaine-en-Yvelines 938
-Hodent 285
-Congis-sur-Therouanne 2011
-Compans 775
-Esmans 867
-Bransles 511
-Voinsles 546
-Voisins-le-Bretonneux 13486
+La Boissiere-Ecole 762
+Bussieres 489
+Coignieres 4439
+La Verriere 6427
+Verrieres-le-Buisson 16789
 
-Montigny-le-Bretonneux 39063
-Magny-les-Hameaux 9203
-Chateaufort 1543
-Neauphle-le-Chateau 2933
-Villiers-Saint-Frederic 2587
-Jouars-Pontchartrain 5012
+Antony 59845
+
+Fresnes 24803
+
+Suresnes 44697
+
+Puteaux 40646
+
+Courbevoie 85158
+Courtry 6610
+Sivry-Courtry 995
+Livry-sur-Seine 2074
+Le Mee-sur-Seine 22058
+Dammarie-les-Lys 21066
+La Rochette 3067
+Chartrettes 2647
 Chartronges 295
 Champcenest 113
+Epinay-Champlatreux 80
 Vayres-sur-Essonne 931
 Prunay-sur-Essonne 302
-Villiers-le-Mahieu 649
-Villiers-Adam 828
-Gressey 499
-Civry-la-Foret 323
-Le Tartre-Gaudran 30
-Le Coudray-Montceaux 2956
-Bezalles 177
+Soisy-Bouy 769
+Saint-Simeon 809
+Dammartin-sur-Tigeaux 846
+Tigeaux 405
+Cregy-les-Meaux 4061
+Boissy-Mauvoisin 599
+Jouy-Mauvoisin 533
+Crouy-sur-Ourcq 1681
+Lizy-sur-Ourcq 3798
+Trilport 5080
+Trilbardou 566
+Chaussy 638
+Ambleville 372
+Egreville 2020
+Mondreville 389
 Garentreville 87
-Bernay-Vilbert 857
-Cernay-la-Ville 1841
-Senlisse 514
-Choisel 570
-Thoiry 1015
-Boissy-sans-Avoir 545
-Galluis 1099
-Mere 1789
-Meriel 4319
-Frepillon 2399
-Etrepilly 887
-Varreddes 1991
-Chambry 921
-Sonchamp 1625
-Ponthevrard 544
-Saint-Arnoult-en-Yvelines 5698
+Bezalles 177
+Nesles-la-Vallee 1947
+Labbeville 515
+Valmondois 1289
+Parmain 5629
+L'Isle-Adam 11160
+Villiers-Adam 828
+Villiers-le-Mahieu 649
+Le Tartre-Gaudran 30
+Civry-la-Foret 323
+Saint-Hilaire 399
+Saint-Hilarion 847
+Saint-Clair-sur-Epte 847
+Montreuil-sur-Epte 377
+
+Montreuil 90652
+
+Vincennes 45923
+Blennes 526
+Cessoy-en-Montois 208
+May-en-Multien 873
+Trocy-en-Multien 246
+Aulnoy 400
+Baulne 1453
+Jaulnes 329
+Orveau 192
+Dannemois 713
+Dannemarie 275
+Congis-sur-Therouanne 2011
+Compans 775
+Maulette 751
+Jouy-sur-Morin 2127
+Clairefontaine-en-Yvelines 938
 Meulan-en-Yvelines 8829
 Hardricourt 1941
 Themericourt 247
 Noisy-Rudignon 536
 Cravent 379
+Montdauphin 200
+Orphin 976
+Vallangoujard 674
+Vauhallan 2175
+Hautefeuille 262
+Breuillet 7755
+Bruyeres-le-Chatel 3184
+Fontenay-les-Briis 1797
+Forges-les-Bains 3694
+Briis-sous-Forges 3391
+Saint-Brice-sous-Foret 13606
+Montmorency 21156
+Montmagny 14708
+Soisy-sous-Montmorency 17436
+Margency 2751
 
-Draveil 29316
-Paray-Vieille-Poste 7559
+Argenteuil 101475
+
+Sannois 26869
+Noiseau 4094
+Valpuiseaux 541
+Crevecoeur-en-Brie 316
+Adainville 773
+Bazainville 1304
+Tacoignieres 1003
+Garancieres 2381
+Crespieres 1554
+Thiverval-Grignon 1057
+Saint-Germain-de-la-Grange 1827
+Villiers-Saint-Frederic 2587
+Neauphle-le-Chateau 2933
+Neauphlette 847
+Saint-Martin-du-Boschet 204
+Saint-Martin-du-Tertre 2493
+Saint-Martin-des-Champs 604
+La Ferte-Gaucher 4567
+La Ferte-Alais 4051
+Cerny 3365
+Iverny 537
+Cherence 154
+Valence-en-Brie 715
+Vaudherland 93
+Villevaude 1760
+Le Pin 1137
+Coubron 4735
+Coubert 1459
+Davron 405
+Vetheuil 837
+Champdeuil 723
+Saint-Mesmes 504
+Saint-Brice 798
+Courgent 425
+Le Bourget 12690
+
+Le Blanc-Mesnil 48077
+
+Drancy 62488
+Sancy 325
+Sancy-les-Provins 294
+Vulaines-les-Provins 75
+Chennevieres-les-Louvres 230
+Goupillieres 399
+Les Molieres 1756
+Limours 6414
+Mours 1566
+Nemours 13933
+Saint-Pierre-les-Nemours 6435
+Fay-les-Nemours 465
+Bougligny 707
+Poligny 895
+Igny 9968
+Bievres 4310
+Sevres 23724
+
+Meudon 44652
+Leudon-en-Brie 157
+La Tombe 233
+La Tretoire 424
+Fretoy 123
+La Frette-sur-Seine 4649
+
+Pierrefitte-sur-Seine 27914
+Villetaneuse 12025
+Villette 510
+Vicq 277
+Vert 785
+Vert-le-Petit 2561
+Vaux-le-Penil 11758
+Fontaine-le-Port 917
+Fontainebleau 19717
+Avon 15009
+Gravon 126
+Bellefontaine 513
+Fontains 270
+Boissy-aux-Cailles 297
+Boissy-le-Cutte 1258
+Janville-sur-Juine 1962
+Bouray-sur-Juine 1950
+Lardy 4629
+Saint-Vrain 2816
+Montevrain 3442
+Coutevroult 586
+Solers 1357
+Ussy-sur-Marne 924
+Mittainville 541
+Cheptainville 1543
+Magny-les-Hameaux 9203
+
+Montigny-le-Bretonneux 39063
+Voisins-le-Bretonneux 13486
+Fontenay-Mauvoisin 318
+Courcelles-sur-Viosne 294
+Courcelles-en-Bassee 226
+Maisoncelles-en-Gatinais 123
+Boullay-les-Troux 612
+Lizines 173
+Marines 3130
+Breancon 356
+
+Franconville 34284
+Nonville 610
+Montcourt-Fromonville 2480
+Amponville 332
+Gironville-sur-Essonne 757
+Maisse 2776
+Moisselles 1016
+
+Sarcelles 57979
+
+Villiers-le-Bel 27028
+Ecouen 7583
+Condecourt 519
+Montereau-sur-le-Jard 616
+La Madeleine-sur-Loing 372
+Chaintreaux 863
+Lorrez-le-Bocage-Preaux 1391
+Montalet-le-Bois 305
+Puiselet-le-Marais 344
+Gesvres-le-Chapitre 154
+Raizeux 775
+Gazeran 1219
+
+Rambouillet 26674
+Le Perray-en-Yvelines 6206
+Saint-Leger-en-Yvelines 1395
+La Queue-les-Yvelines 1939
+Galluis 1099
+Mere 1789
+Boissy-sans-Avoir 545
+Auteuil 911
+Septeuil 2212
+Rosay 387
+Favrieux 131
+La Villeneuve-en-Chevrie 566
+Flins-Neuve-Eglise 162
+Longnes 1435
+Lognes 15519
+Saint-Thibault-des-Vignes 6545
+Pomponne 3324
+Eaubonne 24096
+Bonnelles 2064
+Bullion 1931
+Saint-Arnoult-en-Yvelines 5698
+Rochefort-en-Yvelines 822
+Jablines 629
+Ablis 2845
+Ponthevrard 544
+Sonchamp 1625
+Courchamp 177
+Chatres 609
+Grisy-les-Platres 590
+Grisy-Suisnes 2200
+Villecresnes 8978
+Santeny 3266
+Vinantes 313
+Herme 586
+Montfermeil 23829
 Meilleray 438
 Menouville 88
-Villenoy 3887
-Chatenoy 147
+Arnouville 12783
+Frouville 394
+Herouville 553
+Breval 1735
+Limeil-Brevannes 19104
+Valenton 11969
+
+Charenton-le-Pont 30910
+Joinville-le-Pont 18154
+
+Maisons-Alfort 53964
+
+Alfortville 37290
+
+Creteil 84833
+Bonneuil-sur-Marne 18723
+
+Yerres 28897
+Brunoy 24096
+
+Draveil 29316
+
+Vigneux-sur-Seine 26692
+Ablon-sur-Seine 5174
+Noyen-sur-Seine 355
+Montmachoux 240
+Ury 806
 Les Marets 149
 
 Les Mureaux 32134
 Les Mesnuls 936
 Villecerf 814
 Guillerval 752
-Guibeville 687
-Saint-Simeon 809
-Villebeon 466
-Tancrou 317
-Vieux-Champagne 207
-Champagne-sur-Seine 6608
-Thomery 3288
-Vernou-la-Celle-sur-Seine 2742
-Vernouillet 9965
-Medan 1463
-Houdan 3150
-Dourdan 10261
-Bourdonne 446
+Haravilliers 490
+Survilliers 3869
+Saint-Witz 2354
+Vemars 2177
+Moussy-le-Neuf 2603
+Moussy-le-Vieux 1102
+Longperrier 2260
+Othis 7084
+
+Athis-Mons 31225
+Paray-Vieille-Poste 7559
+Bernay-Vilbert 857
+Chevrainvilliers 249
+Choisy-en-Brie 1273
+Armentieres-en-Brie 1321
+Amenucourt 186
+Evecquemont 705
+Pecqueuse 623
+Ocquerre 374
+Gometz-la-Ville 1053
+Cuisy 408
+Crisenoy 639
 Gouzangrez 183
 Luzancy 940
 Orcemont 883
-Torcy 24386
-Collegien 3261
-Bussy-Saint-Martin 629
-Bussy-Saint-Georges 10043
-Guermantes 1537
-Mormant 4765
-Bombon 991
+Bazemont 1610
+Aigremont 930
 
-Rambouillet 26674
-Gazeran 1219
-Raizeux 775
-Thieux 756
-Buthiers 704
-Amponville 332
-Larchant 771
-Echarcon 604
-Marcoussis 7756
-Linas 6050
-Vinantes 313
-Herme 586
+Poissy 36431
+Carrieres-sous-Poissy 15465
+Acheres 22555
 Cocherel 569
 Guernes 880
-Guercheville 255
-Porcheville 2630
-Juziers 3545
-Quiers 641
-Saint-Sulpice-de-Favieres 335
-La Frette-sur-Seine 4649
-Mouy-sur-Seine 420
-Gastins 639
-Le Plessis-Luzarches 152
-Luzarches 4149
-Chaumontel 3278
-Seugy 1108
-Puiseux-Pontoise 445
-Puisieux 311
-Cerneux 304
-Jeufosse 362
-
-Saint-Maur-des-Fosses 75402
-
-Creteil 84833
-
-Maisons-Alfort 53964
-
-Alfortville 37290
-Nerville-la-Foret 819
-L'Isle-Adam 11160
-Nesles-la-Vallee 1947
-Labbeville 515
-Villabe 5090
-Le Thillay 3887
-
-Goussainville 30047
-
-Villiers-le-Bel 27028
-Ecouen 7583
-
-Sarcelles 57979
-Groslay 7902
-Deuil-la-Barre 21560
-
-Pierrefitte-sur-Seine 27914
-Villiers-sur-Seine 354
-Paley 453
-Courpalay 1391
-Rozay-en-Brie 2887
-La Houssaye-en-Brie 1589
-Fontenay-Tresigny 5047
-Fontenay-Saint-Pere 977
-Theuville 62
-Hedouville 303
-Nezel 992
-Bazemont 1610
-Bouffemont 5652
-Evecquemont 705
-Pecqueuse 623
-Solers 1357
-Ussy-sur-Marne 924
-Rupereux 91
-Saint-Leger 208
-Lizines 173
-Le Mesnil-Amelot 767
-Melz-sur-Seine 373
-Marcilly 380
-Marcq 631
-Saulx-Marchais 631
-Saulx-les-Chartreux 5241
-Villejust 1742
-
-Villejuif 48048
-
-Montrouge 38708
-Montry 3434
-Couilly-Pont-aux-Dames 2033
-Rouilly 470
-Sainte-Colombe 1859
-
-Colombes 82300
-Bois-Colombes 24300
-
-La Garenne-Colombes 26385
-
-Puteaux 40646
-
-Suresnes 44697
-
-Fresnes 24803
-
-Antony 59845
-Valenton 11969
-Limeil-Brevannes 19104
-
-Yerres 28897
-Brunoy 24096
-Aulnoy 400
-Baulne 1453
-Bouqueval 303
-Touquin 1097
-Le Plessis-Feu-Aussoux 408
-Le Plessis-Gassot 79
-Le Plessis-Bouchard 7420
-
-Franconville 34284
-
-Sannois 26869
-Saint-Gratien 19737
-Eaubonne 24096
-Bonnelles 2064
-Bullion 1931
-Buc 6120
-Buhy 283
-Crisenoy 639
-La Tretoire 424
-Penchard 884
-Croissy-Beaubourg 2135
-Balloy 389
-Rampillon 664
-Nangis 8271
-Bailly-Carrois 1044
-Clos-Fontaine 270
-La Croix-en-Brie 725
-Les Ormes-sur-Voulzie 856
-Echouboulains 540
-Vulaines-les-Provins 75
-Chennevieres-les-Louvres 230
-Goupillieres 399
-Episy 536
-Piscop 725
-Lesches 584
-Estouches 211
-
-Chatou 30091
-Bougival 8895
-Bougligny 707
-Poligny 895
-Morigny-Champigny 4199
-Etampes 23012
-Brieres-les-Scelles 891
-Mandres-les-Roses 4243
-Santeny 3266
-Ozoir-la-Ferriere 22530
-Verrieres-le-Buisson 16789
-Longperrier 2260
-Othis 7084
-Moussy-le-Vieux 1102
-Moussy-le-Neuf 2603
-Vemars 2177
-Saint-Witz 2354
-Survilliers 3869
-Longvilliers 465
-Prunay-le-Temple 315
-Guitrancourt 645
-Gadancourt 80
-Gironville 189
-Pamfou 914
-Fouju 572
+Avernes 827
+Gouvernes 1132
+Guermantes 1537
+Chanteloup-en-Brie 1943
+Chanteloup-les-Vignes 9521
 Courson-Monteloup 621
-Davron 405
-Coubert 1459
-Vetheuil 837
-Breuillet 7755
-Bruyeres-le-Chatel 3184
-Egly 5259
-Arpajon 9742
-Saint-Germain-les-Arpajon 8695
-La Norville 4191
-Menerville 199
-Le Perchay 503
-Boigneville 493
-Voulx 1772
-Voulangis 1405
-Bouleurs 1358
-La Chapelle-sur-Crecy 4249
-Guerard 2134
-Longuesse 554
+Fouju 572
+Thoury-Ferottes 670
+Flagy 588
+Dormelles 866
+Ecuelles 2815
+Rubelles 1837
+Maincy 1908
+Le Raincy 13246
+
+Gagny 38134
+Dagny 350
+Eragny 15385
+
+Conflans-Sainte-Honorine 36358
+Sainte-Colombe 1859
 Longueville 1862
-Longnes 1435
-Favrieux 131
-Fourqueux 4433
-
-Saint-Germain-en-Laye 41142
-Louveciennes 7523
-Ennery 2170
-Osny 16545
-Saint-Ouen-l'Aumone 22977
-Epiais-Rhus 673
-Aubepierre-Ozouer-le-Repos 949
-Ozouer-le-Voulgis 1617
-Mousseaux-les-Bray 685
-Mousseaux-sur-Seine 620
-Marchemoret 364
-Pezarches 297
-Luisetaines 227
-Mulcent 74
-Maffliers 1668
-Les Breviaires 980
-Fretoy 123
-Osmoy 412
-Saint-Fiacre 425
-Charmentray 255
-Charny 1272
-Tigery 1406
-Chavenay 1850
-Barbey 163
-Barbizon 1629
-La Rochette 3067
-Chartrettes 2647
-Dammarie-les-Lys 21066
-Le Mee-sur-Seine 22058
-
-Melun 38953
+Longuesse 554
 Banthelu 124
 Boisdon 82
 Bois-Herpin 74
 Villenauxe-la-Petite 414
-Authon-la-Plaine 325
-Chatillon-la-Borde 222
+Ozouer-le-Voulgis 1617
+Aubepierre-Ozouer-le-Repos 949
+Fromont 174
+Domont 16684
+
+Ermont 28117
+Montlignon 2674
+Montlhery 6351
+Linas 6050
+Nozay 4833
+Villejust 1742
+
+Villejuif 48048
+
+Le Kremlin-Bicetre 27867
+Gentilly 15939
+
+Chatillon 32383
 
 Viry-Chatillon 31131
-Gurcy-le-Chatel 423
-Gometz-le-Chatel 1954
-Saint-Aubin 745
-Saint-Augustin 1545
-Lumigny-Nesles-Ormeaux 1448
-Germigny-sous-Coulombs 182
-Nointel 708
-Brouy 120
-Jouy-Mauvoisin 533
-Beauvoir 211
-Boissy-aux-Cailles 297
-Boissy-le-Cutte 1258
+Chatillon-la-Borde 222
+Saint-Martin-la-Garenne 807
+Courquetaine 189
+Fourqueux 4433
+
+Saint-Germain-en-Laye 41142
+Saint-Germain-sur-Morin 3024
+Villiers-sur-Morin 1673
+La Celle-sur-Morin 1211
+La Chapelle-sur-Crecy 4249
+Voulangis 1405
+Nangis 8271
+Rampillon 664
+La Croix-en-Brie 725
+Clos-Fontaine 270
+Fontenailles 974
+Bailly-Carrois 1044
+Bailly-Romainvilliers 3692
+
+Romainville 24772
+Les Lilas 21124
+Les Loges-en-Josas 1539
+Jouy-en-Josas 8383
+Saclay 3048
+Saclas 1831
+Arrancourt 139
 La Foret-Sainte-Croix 116
-Mespuits 166
-Valpuiseaux 541
-Crevecoeur-en-Brie 316
-Poigny-la-Foret 919
+Chalo-Saint-Mars 1163
+Saint-Mars-Vieux-Maisons 204
+La Haute-Maison 240
+La Hauteville 177
+Tousson 417
+Toussus-le-Noble 747
+Paroy 215
+La Grande-Paroisse 2474
+Vernou-la-Celle-sur-Seine 2742
+Champagne-sur-Seine 6608
+Thomery 3288
+Omerville 359
+Guerville 1990
+Soindres 598
+Magnanville 5539
+Flexanville 557
+Orgerus 2364
+Orgeval 5081
+Villennes-sur-Seine 5070
+Medan 1463
+Chapet 1189
+Bouafle 2115
+Aubergenville 11934
+Gargenville 6952
+Issou 4469
+Wissous 4765
+Moisson 833
+Freneuse 3634
+Pommeuse 2739
+Mouroux 4604
+Coulommiers 15274
+Coulommes 430
+Carnetin 430
+Chalifert 1157
+Coupvray 2964
+Esbly 5609
+Montry 3434
 
-Sartrouville 53980
-Perdreauville 607
-Villemer 713
-Emerainville 7002
-Cheptainville 1543
-Bois-d'Arcy 13475
+Montrouge 38708
 
-Bondy 48268
-Condecourt 519
-Thoury-Ferottes 670
+Malakoff 29420
+
+Vanves 26068
+
+Bagneux 38900
+Bourg-la-Reine 18870
+La Chapelle-la-Reine 3042
+Larchant 771
+Brou-sur-Chantereine 4682
+Chevry-en-Sereine 495
+
+Evry 51900
+
+Ris-Orangis 25082
+Fleury-Merogis 9241
+Fontenay-le-Fleury 12611
+Saint-Cyr-l'Ecole 16365
+La Celle-Saint-Cloud 21539
+
+Saint-Cloud 28839
+Saint-Cheron 4690
+Souzy-la-Briche 455
+Deuil-la-Barre 21560
+Groslay 7902
+Andilly 2138
+Rouilly 470
+Couilly-Pont-aux-Dames 2033
+
+Cergy-Pontoise 183430
+
+Pontoise 30290
+Neuville-sur-Oise 1489
+Jouy-le-Moutier 19087
+Vaureal 20699
+Courdimanche 6256
+Emance 798
+Saint-Hilliers 438
+Maffliers 1668
+Mauperthuis 473
+Perthes 2093
+Cely 1086
+Saint-Martin-en-Biere 833
+Chailly-en-Biere 2334
+Chailly-en-Brie 1485
+Amillis 750
+Chevru 931
+Chevreuse 5687
+Saint-Remy-les-Chevreuse 8072
+Milon-la-Chapelle 360
+La Chapelle-en-Vexin 331
+Episy 536
+Recloses 661
 Bourron-Marlotte 3061
 Montarlot 251
-Verdelot 716
+Ville-Saint-Jacques 741
+Esmans 867
+Cannes-Ecluse 2842
+Chevannes 1477
+Conde-Sainte-Libiaire 1477
+Conde-sur-Vesgre 1095
+Vieux-Champagne 207
+Tancrou 317
+Citry 752
+Villemareuil 373
+Villemarechal 871
+Etrechy 6461
+Morigny-Champigny 4199
+Etampes 23012
+Brieres-les-Scelles 891
+Veneux-les-Sablons 5091
+Montceaux-les-Meaux 628
+La Brosse-Montceaux 729
+Le Coudray-Montceaux 2956
+Fontaine-Fourches 582
+Limoges-Fourches 325
+Pecy 740
+Montigny-le-Guesdier 292
+Beaumont-du-Gatinais 1088
+Bannost-Villegagnon 529
+Port-Villez 186
+Limetz-Villez 1838
+Combs-la-Ville 22322
+Lieusaint 7018
+Moissy-Cramayel 16259
+Croissy-sur-Seine 10751
+Le Vesinet 16740
+
+Chatou 30091
+Chatenoy 147
+Behoust 392
+La Houssaye-en-Brie 1589
+Fontenay-Tresigny 5047
+Argentieres 361
+Mormant 4765
+Courpalay 1391
+Flacourt 132
+Coutencon 252
+Fontenay-Saint-Pere 977
+Ichy 186
+
+Clichy 57467
+
+La Courneuve 37287
+Villeneuve-le-Comte 1764
+Serris 2530
+Magny-le-Hongre 4061
+Poigny-la-Foret 919
+Nerville-la-Foret 819
+Baillet-en-France 1805
+Montsoult 3532
+Bouffemont 5652
+Aufferville 488
+Lesches 584
+Varennes-Jarcy 2019
+Les Ecrennes 697
+Saint-Forget 547
+Saint-Fiacre 425
+Maudetour-en-Vexin 191
+Charmentray 255
+Charny 1272
+Chars 1716
+Penchard 884
+Croissy-Beaubourg 2135
+Everly 622
+Janvry 622
+Gouaix 1582
+Passy-sur-Seine 39
+Sigy 64
+Balloy 389
+Bassevelle 389
+Vimpelles 476
+Beauvoir 211
+Jumeauville 583
+Remauville 443
+
+Sartrouville 53980
+
+Bezons 27570
+Maisons-Laffitte 22772
+Le Mesnil-le-Roi 6515
+Le Mesnil-Aubry 962
+Le Mesnil-Amelot 767
+Le Mesnil-Saint-Denis 6915
+Levis-Saint-Nom 1826
+Plessis-Saint-Benoist 291
+Le Plessis-Gassot 79
+Le Plessis-Trevise 18618
+
+Pontault-Combault 34798
+Pontcarre 1980
+Jouars-Pontchartrain 5012
+Le Tremblay-sur-Mauldre 988
+Maurepas 19009
+Les Essarts-le-Roi 6213
+Auffargis 1983
+Choisel 570
+Moisenay 1278
+Voisenon 1243
+Diant 211
+Barbey 163
+Barbizon 1629
+Belloy-en-France 1629
+Pringy 2569
+
+Melun 38953
+Le Chatelet-en-Brie 4968
+Saint-Just-en-Brie 213
+Saint-Barthelemy 337
+Torfou 264
+Chatignonville 96
+Saint-Remy-la-Vanne 898
+Thenisy 281
+Le Tertre-Saint-Denis 105
+Saint-Denis-les-Rebais 860
+Lommoye 552
+Les Alluets-le-Roi 1344
+Puisieux 311
+Guibeville 687
+Hargeville 336
+Vincy-Manoeuvre 196
+Saint-Escobille 525
+Jambville 743
 Montolivet 226
 Bray-et-Lu 796
-Saint-Sauveur-les-Bray 312
-Saint-Sauveur-sur-Ecole 1152
-Conde-sur-Vesgre 1095
-La Grande-Paroisse 2474
+Boitron 372
+Fremainville 498
+Oinville-sur-Montcient 1183
+Juziers 3545
+Villiers-sur-Seine 354
+Paley 453
+Brouy 120
+Courances 371
+Jutigny 575
+Boutigny 896
+Fublaines 1117
+Authon-la-Plaine 325
+Marcilly 380
+Cerneux 304
+Jeufosse 362
+Houdan 3150
+Thoiry 1015
+Beynes 7914
+
+Plaisir 36121
+Feucherolles 2976
+Ronquerolles 794
+Persan 9314
 La Genevraye 632
 
 Sevran 47334
 
 Livry-Gargan 39518
-Sivry-Courtry 995
-Hericy 2842
-Fericy 554
+Vaujours 5922
+Mitry-Mory 18562
+Le Thillay 3887
+
+Goussainville 30047
+Fontenay-en-Parisis 1806
+Fontenay-le-Vicomte 928
+Ballancourt-sur-Essonne 7001
+Piscop 725
+Mennecy 14646
+Ormoy 1311
+Villabe 5090
+Velizy-Villacoublay 21741
+
+Boulogne-Billancourt 108782
+Bessancourt 8026
+
+Taverny 27271
+Pierrelaye 7295
+Saint-Ouen-l'Aumone 22977
+
+Cergy 57576
+Osny 16545
+Ennery 2170
+Rennemoulin 137
+Louveciennes 7523
+Bougival 8895
+Marnes-la-Coquette 1595
+Buc 6120
+Saint-Aubin 745
+Orsay 17817
+
+Les Ulis 25785
+Les Ormes-sur-Voulzie 856
+Echouboulains 540
+Bouleurs 1358
+Guerard 2134
+Mortcerf 1427
+Mortery 166
+Mespuits 166
+
+Pantin 52922
+Le Pre-Saint-Gervais 17786
+
+Bagnolet 33504
+
+Bobigny 44962
+Dugny 10709
+
+Herblay 25153
+Saint-Gratien 19737
+Torcy 24386
+Noisiel 15362
+Collegien 3261
+Etiolles 2788
+Saint-Pierre-du-Perray 6140
+Echarcon 604
+Thieux 756
+Saint-Sauveur-sur-Ecole 1152
+Saint-Sauveur-les-Bray 312
+Coulombs-en-Valois 620
+Servon 2881
+Seine-Port 1935
+Osmoy 412
+Le Plessis-Robinson 22510
+Le Plessis-aux-Bois 241
+Hodent 285
 Darvault 862
-Montfermeil 23829
-Montgeron 22843
-Sammeron 1044
-Saint-Jean-les-Deux-Jumeaux 1344
-Chauconin-Neufmontiers 1770
-Villeconin 671
-Souzy-la-Briche 455
-Moissy-Cramayel 16259
-Oissery 2247
-Maisse 2776
-Beynes 7914
-Esbly 5609
-Coupvray 2964
-Dampmart 3009
-Champmotteux 256
-Valence-en-Brie 715
-Vaudherland 93
-Plessis-Saint-Benoist 291
-Nozay 4833
-Bannost-Villegagnon 529
-Recloses 661
-La Ferte-Gaucher 4567
-Saint-Martin-des-Champs 604
-Amillis 750
-Ablis 2845
-Corbreuse 1575
-Pussay 1733
-Donnemarie-Dontilly 2879
-Mareil-sur-Mauldre 1882
-Mareil-le-Guyon 364
-La Roche-Guyon 583
-Limetz-Villez 1838
-Monthyon 1459
-Neauphlette 847
-Saint-Cyr-en-Arthies 242
-Amenucourt 186
-Genicourt 579
-Flacourt 132
-Coutencon 252
-Jutigny 575
-Torfou 264
-Forfry 199
+Nezel 992
+Pamfou 914
+Salins 1008
+Longjumeau 20771
+Lumigny-Nesles-Ormeaux 1448
+Touquin 1097
+Le Plessis-Feu-Aussoux 408
+Beton-Bazoches 770
+Brie-Comte-Robert 15892
+Gretz-Armainvilliers 7831
+Emerainville 7002
+Bois-d'Arcy 13475
+Meriel 4319
+Chavenay 1850
+Tigery 1406
 Buno-Bonnevaux 546
-Montalet-le-Bois 305
-La Madeleine-sur-Loing 372
-Passy-sur-Seine 39
-Gesvres-le-Chapitre 154
+Bourdonne 446
+Dhuisy 265
+Voulx 1772
+Boigneville 493
+Menerville 199
+Chauconin-Neufmontiers 1770
+Chauvry 301
+Pussay 1733
+Corbreuse 1575
+Sagy 1189
+Ableiges 1024
+Blaru 849
+Verdelot 716
+Genicourt 579
+Beautheil 613
+Haute-Isle 317
+Voinsles 546
+Puiseux-Pontoise 445
+Courtacon 195
+Jaignes 338
+Chateaubleau 292
+Gressey 499
+Villebeon 466
+Bouqueval 303
+Buhy 283
+Germigny-sous-Coulombs 182

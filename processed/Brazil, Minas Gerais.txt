@@ -3,92 +3,46 @@
 Belo Horizonte 2521564
 
 Nova Lima 96157
-Rio Acima 10420
-Mario Campos 15619
-Sarzedo 33413
-Varzelandia 19305
-Verdelandia 9443
+Nova Uniao 5732
+Sao Pedro da Uniao 4610
+Juruaia 10681
+Uruana de Minas 3260
+Brasilandia de Minas 16748
+Divinolandia de Minas 7614
+Santa Efigenia de Minas 4381
+Sardoa 6361
+Sao Gotardo 35782
+Matutina 3741
+Catuti 4965
 Mato Verde 12412
-Mata Verde 8644
-Aguas Vermelhas 13599
-Divisa Alegre 6868
-Divisopolis 11211
-
-Divinopolis 240408
-Divino 19976
-Orizania 8079
-Berizal 4764
-Novorizonte 5324
-Fruta de Leite 5299
-
-Frutal 60012
-
-Ituiutaba 105255
-Iturama 39690
-Santo Antonio do Grama 3886
-Pedra do Anta 3005
-Pedra Dourada 2532
-Miradouro 10787
-Fervedouro 11054
-Ervalia 18958
-Sao Miguel do Anta 6944
-Sao Sebastiao do Anta 6627
-Sao Domingos das Dores 5658
-Sao Domingos do Prata 17327
-Bela Vista de Minas 10262
-Sao Sebastiao da Bela Vista 5552
-Pequeri 3330
-Jequeri 12315
-Queluzito 1943
-Bonito de Minas 11369
-Soledade de Minas 6189
+Verdelandia 9443
+Varzelandia 19305
+Luislandia 6718
+Brasilia de Minas 32405
 
 Para de Minas 94808
 Fortuna de Minas 2967
 Cachoeira da Prata 3591
 Cachoeira de Minas 11579
-Cachoeira Dourada 2706
-Pratapolis 8566
-Ritapolis 4562
-Casa Grande 2254
-Lagoa Grande 9608
-Lagoa Formosa 18111
-Cruzeiro da Fortaleza 3639
-Fortaleza de Minas 4437
-Itau de Minas 16199
-Taquaracu de Minas 4099
-Nova Uniao 5732
-Sao Pedro da Uniao 4610
+Cachoeira de Pajeu 9442
+Pedra Azul 24329
+Serra Azul de Minas 4292
+Materlandia 4436
 
-Sao Sebastiao do Paraiso 71445
-Itamogi 10157
-Itamonte 15714
-Itanhandu 15423
-Itanhomi 12244
-Tarumirim 14302
-Tumiritinga 6765
-Galileia 6790
-Ataleia 12678
-Ouro Verde de Minas 5914
-Frei Gaspar 5869
-Frei Inocencio 9664
-Jampruca 5429
-Campanario 3730
-Campanha 16762
-Cambuquira 12812
-Lambari 20907
-Caxambu 21610
-Baependi 19199
-Abaete 23250
-Cedro do Abaete 1157
+Uberlandia 699097
+Indianopolis 6951
+Pedrinopolis 3643
+Perdizes 16321
+Perdigao 11755
+Conceicao do Para 5533
+Sao Goncalo do Para 12597
 Sao Goncalo do Abaete 8459
-Sao Goncalo do Rio Abaixo 11019
-Sao Sebastiao da Vargem Alegre 3024
-Vargem Alegre 6470
-Bugre 3983
-Iapu 11045
-Inhapim 24079
-Capim Branco 9826
+Cedro do Abaete 1157
+Abaete 23250
+Quartel Geral 3584
+Sao Geraldo 12562
+
+Visconde do Rio Branco 42965
 Ouro Branco 39867
 
 Ouro Preto 74558
@@ -98,235 +52,88 @@ Romaria 3520
 Coromandel 27966
 Abadia dos Dourados 7006
 Douradoquara 1912
-
-Araguari 117825
-Tupaciguara 25398
-Monte Alegre de Minas 21236
-Monte Santo de Minas 21513
-Arceburgo 10883
-Felisburgo 7504
-Umburatiba 2596
-Bambui 23898
-Tapirai 1872
-Tapira 4832
-
-Araxa 107337
-Ibia 25358
-Rio Paranaiba 12335
-Carmo do Paranaiba 30334
-Arapua 2835
-Tiros 6424
-Santa Rosa da Serra 3357
-Serra da Saudade 776
-Estrela do Indaia 3491
-Dores do Indaia 13427
-Pedra do Indaia 3974
-Cajuri 3974
-Carmo do Cajuru 22693
-Carmo da Mata 11511
-Carmopolis de Minas 19559
-Carmo de Minas 14947
-
-Sao Lourenco 46202
-Pouso Alto 5900
+Grupiara 1387
+Sao Jose do Goiabal 5387
+Sao Jose do Alegre 4210
 
 Pouso Alegre 152549
 Bom Repouso 10537
 Corrego do Bom Jesus 3694
-Bom Jesus do Galho 14862
-Bom Jesus do Amparo 6133
-Bom Jesus da Penha 4244
-Nova Resende 16832
-Resende Costa 11540
-Dores de Campos 10223
-Prados 9080
-Tiradentes 8072
-Santa Cruz de Minas 8664
-Santa Cruz de Salinas 4107
+Corrego Danta 3191
+Tapirai 1872
+Tapira 4832
 
-Salinas 41699
-Cristalia 5982
-Cristais 12931
-Aguanil 4522
-
-Campo Belo 54186
-Campo do Meio 11651
-Campos Gerais 28842
-Piedade dos Gerais 5009
-Sao Geraldo da Piedade 3910
-Sardoa 6361
-Santa Efigenia de Minas 4381
-Divinolandia de Minas 7614
-Virgolandia 5340
-Nacip Raydan 3220
-Jose Raydan 5050
-Sao Jose do Jacuri 6431
-Sao Jose da Safira 4280
-Sao Jose da Barra 7480
-Sao Joao Batista do Gloria 7498
-Sao Francisco do Gloria 4800
-Sao Francisco de Sales 6274
-
-Sao Francisco 56477
-Sao Joao do Pacui 4448
-Sao Joao da Lagoa 4932
-Lagoa dos Patos 4082
-Claro dos Pocoes 7514
-
-Montes Claros 413487
-Carmo do Rio Claro 21268
-Conceicao da Aparecida 10322
-Conceicao do Para 5533
-Sao Goncalo do Para 12597
-Sao Goncalo do Rio Preto 3173
-Wenceslau Braz 2548
-Sao Bras do Suacui 3754
-Sao Pedro do Suacui 5202
-Santa Maria do Suacui 14611
-Santa Maria do Salto 5217
-Salto da Divisa 7012
-Jordania 10842
-Borda da Mata 19614
-Sao Joao da Mata 2746
-Espirito Santo do Dourado 4710
-Silvianopolis 6248
-Alvinopolis 15169
-Dom Silverio 5232
-Rio Doce 2620
-Rio Casca 13473
-Piedade de Ponte Nova 4140
-
-Ponte Nova 59875
-Oratorios 4663
-Amparo do Serra 4678
-Serro 20940
-Serra Azul de Minas 4292
-Pedra Azul 24329
-Cachoeira de Pajeu 9442
-Medina 20759
+Araxa 107337
 Veredinha 5727
 Capelinha 38057
 Setubinha 12378
 Ladainha 18193
 Pote 16616
+Itambacuri 23209
+Jampruca 5429
+Frei Inocencio 9664
+Frei Gaspar 5869
+Ouro Verde de Minas 5914
+Soledade de Minas 6189
+Bonito de Minas 11369
+Santa Rita de Minas 7268
+Santa Rita de Caldas 8924
+Caldas 14541
 
-Teofilo Otoni 140937
-Cristiano Otoni 5156
-Cristina 10226
-Dom Vicoso 2997
-
-Vicosa 79388
-
-Visconde do Rio Branco 42965
-Sao Geraldo 12562
-Sao Geraldo do Baixio 4059
-Goiabeira 3378
-Cuparaque 5005
-Naque 7051
-Periquito 6773
-Mesquita 5546
-Jequitai 7468
-Ressaquinha 4817
-Ingai 2776
-Itinga 15022
+Pocos de Caldas 168641
+Bandeira do Sul 5778
+Botelhos 14949
+Carvalhos 4461
 Seritinga 1854
 Serranos 1956
 Carrancas 4049
 Conceicao da Barra de Minas 3946
 Nazareno 8660
 Itutinga 3768
-Itumirim 6000
-Ibituruna 2996
-Bom Sucesso 17607
-Nepomuceno 26826
-Coqueiral 9128
-Sao Roque de Minas 7076
-Uniao de Minas 4284
-Carneirinho 10066
-Porteirinha 37864
-Nova Porteirinha 7497
-
-Janauba 72018
-Jaiba 39388
-Japaraiba 4384
-
-Lagoa da Prata 52711
-Prata 28017
-Comendador Gomes 3120
-Comercinho 6774
-Jequitinhonha 25474
-Jequitiba 5207
-Alto Jequitiba 8301
-Alto Caparao 5894
-Caparao 5451
-Espera Feliz 25122
-Caiana 5541
-Acaiaca 3994
-Aracai 2354
-
-Paracatu 93862
-Guarda-Mor 6569
+Jacutinga 26264
+Santa Rita de Jacutinga 4863
+Santa Rita de Ibitipoca 3402
+Ibertioga 5010
+Albertina 3011
+Arantina 2787
+Bom Jardim de Minas 6459
+Bocaina de Minas 5089
+Passa-Vinte 2031
+Rio Preto 5485
+Olaria 1720
+Lima Duarte 16724
+Pedro Teixeira 1806
+Bias Fortes 3329
+Oliveira Fortes 2130
+Silveirania 2264
 Guarani 8918
 Guarara 3775
 Bicas 14554
 Sao Joaquim de Bicas 32148
 Dom Joaquim 4451
 Tocos do Moji 4109
+Sao Bras do Suacui 3754
+Sao Pedro do Suacui 5202
+Santa Maria do Suacui 14611
+Santa Maria do Salto 5217
+Salto da Divisa 7012
+Divisopolis 11211
+Divisa Alegre 6868
+Divisa Nova 6025
+Serrania 7668
 
-Pocos de Caldas 168641
-Caldas 14541
-Santa Rita de Caldas 8924
-Ibitiura de Minas 3492
-Uruana de Minas 3260
-Santa Fe de Minas 3826
-Ponto Chique 4283
-Riachinho 8134
-Riacho dos Machados 9476
+Alfenas 80494
+Fama 2376
+Paraguacu 21605
 
-Machado 42413
-Poco Fundo 16846
-Corrego Fundo 6382
-Pains 8296
-Paineiras 4462
-Itambe do Mato Dentro 2056
-Conceicao do Mato Dentro 17503
-Morro do Pilar 3153
-Ferros 9696
-Sao Sebastiao do Rio Preto 1492
-Santo Antonio do Rio Abaixo 1760
-Antonio Dias 9275
-Dionisio 7609
-Sao Jose do Goiabal 5387
-Sao Jose do Divino 3856
-Sao Joao do Manteninha 5918
-Mantena 27647
+Araguari 117825
+Tupaciguara 25398
+Monte Alegre de Minas 21236
+Barao de Monte Alto 5354
+Barao de Cocais 32866
 
-Diamantina 47825
-Arantina 2787
-Bom Jardim de Minas 6459
-Bocaina de Minas 5089
-Passa-Vinte 2031
-Sao Vicente de Minas 7815
-Madre de Deus de Minas 5109
-Piedade do Rio Grande 4466
-Vargem Grande do Rio Pardo 5026
-Rio Pardo de Minas 31045
-Santo Antonio do Retiro 7297
-Montezuma 8315
-Monte Azul 20696
-Mamonas 6554
-Gameleiras 5096
-Vieiras 3589
-Teixeiras 11670
-Pedro Teixeira 1806
-Bias Fortes 3329
-Oliveira Fortes 2130
-Silveirania 2264
-Rio Pomba 17959
-Rio Novo 8957
-Corrego Novo 2728
-Corrego Danta 3191
-Luz 18257
+Sabara 137125
+Santa Barbara 31604
 
 Santa Luzia 220444
 
@@ -334,607 +141,800 @@ Lagoa Santa 65657
 
 Sete Lagoas 241835
 Prudente de Morais 10834
-Barao de Monte Alto 5354
+Capim Branco 9826
+Matozinhos 38151
+
+Pedro Leopoldo 64712
+
+Leopoldina 52640
+
+Cataguases 75540
+Santana de Cataguases 3891
+Mirai 15111
 Patrocinio do Muriae 5715
 
 Muriae 109392
 Juvenilia 5715
-Gouveia 11818
+Cruzilia 15474
+Baependi 19199
+Caxambu 21610
+Cambuquira 12812
+Cambui 29814
+Bambui 23898
+Medeiros 3832
+Rodeiro 8224
+Tabuleiro 3708
+Gameleiras 5096
+Taiobeiras 34397
+Ninheira 10326
+Sao Joao do Paraiso 23709
+Indaiabira 7339
+Pedra do Indaia 3974
+Cajuri 3974
+Carmo do Cajuru 22693
+Carmo da Mata 11511
+Carmopolis de Minas 19559
+Piracema 6398
+Rio Piracicaba 14332
+
+Joao Monlevade 80416
+Grao Mogol 15890
+Cristalia 5982
+Itacambira 5417
+Juramento 4345
+Glaucilandia 3164
+Crucilandia 5054
+Bonfim 6860
+Bonfinopolis de Minas 5444
+Dom Bosco 3655
+Vargem Bonita 2148
+Pedra Bonita 7128
+Pedra Dourada 2532
+Miradouro 10787
+Fervedouro 11054
+Vieiras 3589
+Teixeiras 11670
+
+Vicosa 79388
+Dom Vicoso 2997
+Virginia 8663
+Capitolio 8663
+Capitao Eneas 15313
+Luminarias 5438
+Tres Marias 32716
+Morada Nova de Minas 8910
+Alvorada de Minas 3605
+Serro 20940
 Catas Altas 5421
 Catas Altas da Noruega 3653
 Capela Nova 4634
 Caranaiba 3166
 Carandai 25669
-Carai 23780
-Padre Paraiso 20252
-Santana do Paraiso 35369
-Sao Joao do Paraiso 23709
-Indaiabira 7339
-
-Itabira 120904
-Santa Maria de Itabira 10857
-Passabem 1633
-Passa Tempo 8057
-Sao Tiago 10960
-
-Sao Joao del Rei 90497
-Coronel Xavier Chaves 3441
-Coronel Pacheco 3090
-Rochedo de Minas 2320
-Maripa de Minas 2987
-Itamarati de Minas 4375
-Irai de Minas 7027
-Icarai de Minas 12097
-Ubai 12599
-
-Uba 116797
-Pirauba 10759
-Tocantins 16715
-Rodeiro 8224
-Tabuleiro 3708
-Aracitaba 2059
-Paiva 1523
-Estiva 11386
-Sao Sebastiao do Oeste 6863
-Sao Sebastiao do Maranhao 9963
-Agua Boa 13523
-Itaguara 13435
-Piracema 6398
-Guiricema 8343
-Moema 7554
-Faria Lemos 3221
 Carangola 33011
-Piranga 17634
-Manga 18226
-Sao Joao das Missoes 13125
-Sao Joao da Ponte 25098
-Patis 6002
-
-Ipatinga 265409
-Ipaba 18769
-
-Sabara 137125
-Santa Barbara 31604
-Barao de Cocais 32866
-
-Caete 45047
-Raposos 16429
-Arapora 6931
-Canapolis 12201
-Capinopolis 16234
-Alpinopolis 19958
-Pintopolis 7524
-Bertopolis 4607
-Santa Helena de Minas 6386
-Machacalis 7111
-Chacara 3186
-Goiana 3990
-Sao Joao Nepomuceno 26447
-Descoberto 5029
-Santana do Deserto 3981
-Santana do Jacare 4834
-Santana da Vargem 7073
-
-Varginha 136602
-Eloi Mendes 28320
-Mendes Pimentel 6446
-Pimenta 8688
-Piumhi 34918
-Chiador 2671
-Senador Cortes 2003
-Mar de Espanha 12901
-Rio Espera 5402
-Alto Rio Doce 10859
-Cipotanea 6799
-Senhora de Oliveira 5786
-Senhora dos Remedios 10467
-Santana dos Montes 3765
-Santo Antonio do Monte 28427
-Araujos 9401
-Perdigao 11755
-Igaratinga 11005
-
-Igarape 43817
-Pirapetinga 10772
-Recreio 10520
-Santo Antonio do Aventureiro 3602
-Santo Antonio do Amparo 18613
-Santo Antonio do Jacinto 11604
-Jacinto 12323
-Ijaci 6610
-
-Lavras 104783
-Itaverava 5369
-Claraval 4853
-Ibiraci 13986
-Ibiracatu 5369
-
-Ibirite 182153
-
-Itabirito 52446
-Itabirinha 11576
-Nova Belem 3128
-Nova Modica 3573
-Nova Era 17551
-
-Nova Serrana 105520
-Nova Ponte 15800
-Papagaios 15800
-Itapagipe 15379
-Itaipe 12836
-Catuji 6257
-Catuti 4965
-Matutina 3741
-Sao Gotardo 35782
-Sao Goncalo do Sapucai 25561
-
-Santa Rita do Sapucai 43753
-Santa Rita de Minas 7268
-Fronteira dos Vales 4561
-Fronteira 18492
-Planura 12292
-
-Januaria 67852
-Pedras de Maria da Cruz 12212
-Brasilia de Minas 32405
-Brasilandia de Minas 16748
-Natalandia 3308
-Dom Bosco 3655
-Bonfinopolis de Minas 5444
-Serranopolis de Minas 4809
-Pai Pedro 6094
-Sao Pedro dos Ferros 7706
-Sao Joao do Oriente 7444
-Belo Oriente 26994
-Guidoval 7051
-Pitangui 28215
-Onca de Pitangui 3152
-Piranguinho 8640
-Pirangucu 5488
-
-Itajuba 97334
-Pirajuba 6348
-Conceicao das Alagoas 28346
-Conceicao das Pedras 2813
-Guaranesia 19017
-Joanesia 4476
-Divinesia 3424
-Botumirim 6288
-Luminarias 5438
-Tres Marias 32716
-Morada Nova de Minas 8910
-Biquinhas 2498
-Quartel Geral 3584
-Lima Duarte 16724
-
-Santos Dumont 46421
-Francisco Dumont 5242
-Francisco Sa 26369
-Juramento 4345
-Sacramento 26374
-Conquista 6969
-Delta 10768
-Delfinopolis 7131
-Cassia 17740
-
-Passos 115337
-Passa Quatro 16393
-Virginia 8663
-Virginopolis 10484
-Sabinopolis 15416
-Guanhaes 34573
-Dores de Guanhaes 5154
-Braunas 4769
-
-Itauna 93847
-Mateus Leme 31364
-Juatuba 27392
-Jaboticatubas 20418
-
-Vespasiano 129765
-Sao Jose da Lapa 24135
-Confins 6800
-
-Contagem 668949
-Cantagalo 4551
-Mathias Lobato 3179
-Taparuba 3101
-Santa Barbara do Monte Verde 3182
-Ribeirao Vermelho 4047
-Rio Vermelho 12739
-Coluna 8841
-Frei Lagonegro 3487
-Alagoa 2665
-Aiuruoca 5976
-
-Bocaiuva 50256
-Guaraciama 4989
-Glaucilandia 3164
-Crucilandia 5054
-Bonfim 6860
-Rio Manso 5879
-Santana do Manhuacu 8667
+Caiana 5541
+Caparao 5451
+Alto Caparao 5894
+Alto Jequitiba 8301
+Manhumirim 22802
 
 Manhuacu 91169
-Manhumirim 22802
 Sao Joao do Manhuacu 11674
-Luisburgo 6258
-Cordisburgo 8897
-Paraopeba 24700
-Caetanopolis 11749
-Indianopolis 6951
-Pedrinopolis 3643
-Perdizes 16321
-Perdoes 21485
-Cana Verde 5594
-Campina Verde 19752
-Cabo Verde 14075
-Monte Belo 13152
-
-Monte Carmelo 47931
-Estrela do Sul 8018
-Serra do Salitre 11668
-Guimarania 8105
-
-Patrocinio 91449
-
-Patos de Minas 153585
-Presidente Olegario 19627
-Presidente Bernardes 5341
-Bras Pires 4293
-
-Tres Pontas 56940
-
-Tres Coracoes 80032
-Sao Bento Abade 5349
-Senador Jose Bento 1461
-Senador Amaral 5361
-Cambui 29814
-Consolacao 1784
-Conceicao dos Ouros 11748
-Paraisopolis 21221
-Brazopolis 14410
-Josenopolis 4889
-Marmelopolis 2728
-Delfim Moreira 8016
-Aimores 25141
-Resplendor 17396
-Itueta 6063
-Santa Rita do Itueto 5457
-Conselheiro Pena 22949
-Engenheiro Caldas 11202
-Alvarenga 3844
-Pocrane 8359
-Ipanema 20000
-Conceicao de Ipanema 4578
+Santana do Manhuacu 8667
 Sao Jose do Mantimento 2806
 Chale 5699
-Chapada Gaucha 13953
-Formoso 9688
-Monte Formoso 4923
-Aguas Formosas 19247
-Crisolita 6760
-Novo Oriente de Minas 10778
-Carlos Chagas 18674
-Nanuque 40665
-Serra dos Aimores 8713
-Serrania 7668
-Divisa Nova 6025
-Areado 15181
-Alterosa 14517
-Campos Altos 15563
-Pratinha 3631
+Conceicao de Ipanema 4578
+Ipanema 20000
+Sao Domingos das Dores 5658
+Sao Sebastiao do Anta 6627
+Sao Sebastiao do Oeste 6863
 
-Caratinga 92603
-Piedade de Caratinga 8702
-Ubaporanga 12493
-Entre Folhas 5377
+Divinopolis 240408
+Alvinopolis 15169
+Dom Silverio 5232
+Rio Doce 2620
+Rio Casca 13473
+Mario Campos 15619
+Martinho Campos 13443
+Pompeu 32035
+Papagaios 15800
+Itapagipe 15379
+Taparuba 3101
+Sao Sebastiao da Bela Vista 5552
+Pequeri 3330
+Jequeri 12315
+Campo Florido 8269
+
+Campo Belo 54186
+Campo do Meio 11651
+Campos Gerais 28842
+Piedade dos Gerais 5009
+Piedade do Rio Grande 4466
+Madre de Deus de Minas 5109
+Sao Vicente de Minas 7815
+Andrelandia 12206
+Angelandia 8557
+Malacacheta 18602
+Franciscopolis 5338
+Francisco Sa 26369
+
+Sao Francisco 56477
+Sao Romao 12529
+Sao Joao do Pacui 4448
+Sao Joao da Lagoa 4932
+Sao Joao da Mata 2746
+Borda da Mata 19614
+Senador Jose Bento 1461
+Senador Amaral 5361
+Senador Cortes 2003
+Chiador 2671
+Pescador 4256
+Nova Modica 3573
+Nova Belem 3128
+Nova Era 17551
+Bela Vista de Minas 10262
+Sao Domingos do Prata 17327
+Rio do Prado 5133
+Santo Antonio do Jacinto 11604
+Jacinto 12323
+Jordania 10842
+Jesuania 4780
+Aguanil 4522
+Cana Verde 5594
+Santana do Jacare 4834
+Santana da Vargem 7073
+Coqueiral 9128
+Sao Roque de Minas 7076
+Itau de Minas 16199
+Taquaracu de Minas 4099
+Jaguaracu 3142
+Marlieria 4034
+Dionisio 7609
+Antonio Dias 9275
+Santo Antonio do Monte 28427
+Santo Antonio do Grama 3886
+Iturama 39690
+Uniao de Minas 4284
+Varjao de Minas 7138
+
+Patos de Minas 153585
 Entre Rios de Minas 15380
 Desterro de Entre Rios 7255
 Desterro do Melo 2884
 Santa Barbara do Tugurio 4407
 
 Barbacena 138204
-Barroso 20897
 Alfredo Vasconcelos 6981
 Diogo de Vasconcelos 3790
-Conceicao do Rio Verde 13684
-Sao Sebastiao do Rio Verde 2250
-Capitolio 8663
-Capitao Andrade 5514
-Sobralia 5514
-Fernandes Tourinho 3466
+Acaiaca 3994
+Barra Longa 5015
+Sao Jose da Barra 7480
+Sao Joao Batista do Gloria 7498
 
-Governador Valadares 281046
-Alpercata 7436
-Natercia 4728
-Eugenopolis 11330
+Passos 115337
+Passabem 1633
+Sao Sebastiao do Rio Preto 1492
+Santo Antonio do Rio Abaixo 1760
+Sao Goncalo do Rio Abaixo 11019
+Sao Goncalo do Rio Preto 3173
+Wenceslau Braz 2548
+Brazopolis 14410
+Paraisopolis 21221
+Goncalves 4355
+Jose Goncalves de Minas 4487
+Berilo 11872
+Berizal 4764
+Aguas Vermelhas 13599
+Rio Vermelho 12739
+Ribeirao Vermelho 4047
+Santa Barbara do Monte Verde 3182
+Pedra do Anta 3005
+Ingai 2776
+Ressaquinha 4817
+Biquinhas 2498
+Periquito 6773
+Sobralia 5514
+Ervalia 18958
+Sao Miguel do Anta 6944
+Canaa 4548
+Canapolis 12201
+Capinopolis 16234
+Alpinopolis 19958
+Bom Jesus da Penha 4244
+Bom Jesus do Galho 14862
+Pingo-d'Agua 4986
+Olhos d'Agua 6171
+Gonzaga 6171
+
+Bocaiuva 50256
+Guaraciama 4989
+Guaraciaba 10315
+Porto Firme 11348
+Senador Firmino 7858
+Dores do Turvo 4230
+Dores do Indaia 13427
+Estrela do Indaia 3491
+Estrela do Sul 8018
+Serra do Salitre 11668
+Serra da Saudade 776
+Santa Rosa da Serra 3357
+
+Nova Serrana 105520
+Nova Ponte 15800
+Sao Joao da Ponte 25098
+Patis 6002
+
+Ipatinga 265409
+
+Caratinga 92603
+Piedade de Caratinga 8702
+Imbe de Minas 6940
+Santa Fe de Minas 3826
+Ponto Chique 4283
+Ponto dos Volantes 12179
+Itaobim 21029
+Itinga 15022
+Tumiritinga 6765
+Tarumirim 14302
+Capitao Andrade 5514
+
+Andradas 41396
+Ibitiura de Minas 3492
+Maripa de Minas 2987
+Rochedo de Minas 2320
+Rio Pardo de Minas 31045
+Vargem Grande do Rio Pardo 5026
+Montezuma 8315
+Monte Azul 20696
+Mamonas 6554
+Itamonte 15714
+Itamogi 10157
+Monte Santo de Minas 21513
+Monte Siao 24029
+Bueno Brandao 10991
+Inconfidentes 7358
+Ouro Fino 33791
+Delfinopolis 7131
+Cassia 17740
+Capetinga 6890
+Pirapetinga 10772
+Recreio 10520
+Laranjal 6833
+Divino das Laranjeiras 4974
+Sao Jose do Divino 3856
+Sao Jose do Jacuri 6431
+Sao Jose da Safira 4280
+Sao Jose da Lapa 24135
+
+Vespasiano 129765
+
+Bom Despacho 51028
+Araujos 9401
+Leandro Ferreira 3226
+Sao Pedro dos Ferros 7706
+Sao Joao do Oriente 7444
+Belo Oriente 26994
+Mesquita 5546
+Jequitai 7468
+Jequitiba 5207
+Baldim 7803
+Funilandia 4392
+Natalandia 3308
+
+Unai 84930
+Cabeceira Grande 6988
+Lagoa Grande 9608
+Lagoa Formosa 18111
+Cruzeiro da Fortaleza 3639
+Guimarania 8105
+Carmo do Paranaiba 30334
+Rio Paranaiba 12335
+Arapua 2835
+Arapora 6931
+Centralina 10346
+Central de Minas 7046
+Mendes Pimentel 6446
+Sao Felix de Minas 3362
+Carmo de Minas 14947
+
+Sao Lourenco 46202
+Pouso Alto 5900
+Sao Sebastiao do Rio Verde 2250
+Conceicao do Rio Verde 13684
+Sao Thome das Letras 7120
+Sao Bento Abade 5349
+Carmo da Cachoeira 12182
+Palmopolis 5349
 Buenopolis 10353
 Joaquim Felicio 4727
 Felicio dos Santos 4704
 Santo Antonio do Itambe 3799
-Materlandia 4436
+Santo Antonio do Amparo 18613
+Bom Sucesso 17607
+Ibituruna 2996
+Ijaci 6610
 
-Uberlandia 699097
+Lavras 104783
+Entre Folhas 5377
+Vargem Alegre 6470
+Sao Sebastiao da Vargem Alegre 3024
+Bom Jesus do Amparo 6133
+Amparo do Serra 4678
+Oratorios 4663
+Santa Vitoria 19872
+Ipiacu 4225
 
-Uberaba 337092
-Mirabela 13620
-Mirai 15111
-Santana de Cataguases 3891
+Ituiutaba 105255
+Inimutaba 7560
 
-Cataguases 75540
-Dona Eusebia 6619
+Curvelo 80616
+Morro da Garca 2437
+Morro do Pilar 3153
+Senhora do Porto 3519
+Guanhaes 34573
+Dores de Guanhaes 5154
+Ferros 9696
+Barroso 20897
+Dores de Campos 10223
+Prados 9080
+Leme do Prado 4920
+Chapada do Norte 15345
+Minas Novas 31497
+
+Ponte Nova 59875
+Piedade de Ponte Nova 4140
+Santa Cruz do Escalvado 4725
+Santa Cruz de Minas 8664
+Santa Cruz de Salinas 4107
+
+Salinas 41699
+Novorizonte 5324
+Fruta de Leite 5299
+
+Frutal 60012
+Planura 12292
+Pirajuba 6348
+
+Itajuba 97334
+Pirangucu 5488
+Piranguinho 8640
+Piranga 17634
+Senhora de Oliveira 5786
+Senhora dos Remedios 10467
+Santana dos Montes 3765
+Santana do Paraiso 35369
+Ipaba 18769
+Bugre 3983
+Iapu 11045
+Dom Cavati 5048
+Inhapim 24079
+Ubaporanga 12493
+
+Pirapora 56640
+Buritizeiro 28121
+Engenheiro Navarro 7241
+Engenheiro Caldas 11202
+Fernandes Tourinho 3466
+Gurinhata 5577
+Itabirinha 11576
+Sao Joao do Manteninha 5918
+Mantena 27647
+Vazante 20642
+Lagamar 7600
+Itamarandiba 34936
+Sao Sebastiao do Maranhao 9963
+Jose Raydan 5050
+Nacip Raydan 3220
+Virgolandia 5340
+Turvolandia 5070
+Cordislandia 3542
+Carvalhopolis 3597
+Poco Fundo 16846
+Corrego Fundo 6382
+Pains 8296
+Paineiras 4462
+Itambe do Mato Dentro 2056
+Conceicao do Mato Dentro 17503
+Carmesia 2646
+
+Monte Carmelo 47931
+Marmelopolis 2728
+Corrego Novo 2728
+Delfim Moreira 8016
+Simao Pereira 2618
+Matias Barbosa 14548
+Matias Cardoso 11260
+Camanducaia 21801
+Santa Juliana 14255
+Queluzito 1943
+Cachoeira Dourada 2706
+Fronteira dos Vales 4561
+Fronteira 18492
+Porteirinha 37864
+Nova Porteirinha 7497
+
+Janauba 72018
+Pirauba 10759
+Tocantins 16715
+
+Uba 116797
 Astolfo Dutra 14270
+Francisco Dumont 5242
+Claro dos Pocoes 7514
+Lagoa dos Patos 4082
+Lagoa Dourada 13063
+Resende Costa 11540
+Nova Resende 16832
+Conceicao da Aparecida 10322
+Carmo do Rio Claro 21268
+Ilicinea 12444
+Guape 14258
+Piumhi 34918
+Pimenta 8688
+Doresopolis 1533
+Iguatama 7923
+Arcos 40380
+Japaraiba 4384
+
+Lagoa da Prata 52711
+Prata 28017
+Comendador Gomes 3120
+
+Governador Valadares 281046
+Alpercata 7436
+Itanhomi 12244
+Itanhandu 15423
+Pitangui 28215
+Onca de Pitangui 3152
+Santana de Pirapama 7589
+Santana do Riacho 4315
+Santana do Deserto 3981
+Mar de Espanha 12901
+Campanha 16762
+Campanario 3730
+Campestre 21054
+Estrela Dalva 2325
+Cantagalo 4551
+Mathias Lobato 3179
+Belmiro Braga 3425
+Divinesia 3424
+Joanesia 4476
+Guaranesia 19017
+Conceicao das Pedras 2813
+Conceicao das Alagoas 28346
+Verissimo 4045
+Simonesia 19736
 Reduto 7201
-Durande 7870
 Martins Soares 8531
 Raul Soares 23711
 Caputira 9308
 Vermelho Novo 4846
 Santa Barbara do Leste 8181
-Simonesia 19736
-Verissimo 4045
-Agua Comprida 1992
-Santa Margarida 16302
-Matipo 19005
-Abre Campo 13444
-Sericita 7333
-Pedra Bonita 7128
-Vargem Bonita 2148
-Carbonita 9414
-Itamarandiba 34936
-Aricanduva 5269
-Camanducaia 21801
-Santa Juliana 14255
-Santana do Riacho 4315
-Santana de Pirapama 7589
 Limeira do Oeste 7589
 Rosario da Limeira 4622
-Medeiros 3832
-Bandeira 4766
-Bandeira do Sul 5778
-Botelhos 14949
-Campestre 21054
-Estrela Dalva 2325
-Pedralva 11146
-Sao Jose do Alegre 4210
-Maria da Fe 14056
-Olaria 1720
-Rio Preto 5485
-Santa Rita de Jacutinga 4863
-Santa Rita de Ibitipoca 3402
-Ibertioga 5010
-Albertina 3011
-Jacutinga 26264
-Monte Siao 24029
-Bueno Brandao 10991
-Inconfidentes 7358
-Ouro Fino 33791
-Porto Firme 11348
-Senador Firmino 7858
-Dores do Turvo 4230
-Turvolandia 5070
-Cordislandia 3542
-Luislandia 6718
-Andrelandia 12206
-Angelandia 8557
-Malacacheta 18602
-Marilac 4097
-Berilo 11872
-Francisco Badaro 10321
-Jenipapo de Minas 7738
-Chapada do Norte 15345
-Minas Novas 31497
-Turmalina 20125
-Centralina 10346
-Central de Minas 7046
-Curral de Dentro 7799
-Taiobeiras 34397
-Ninheira 10326
-
-Joao Pinheiro 47726
-Varjao de Minas 7138
-Imbe de Minas 6940
-Dom Cavati 5048
-Pavao 8419
-Campo Azul 3824
-Campo Florido 8269
-Florestal 7533
-
-Esmeraldas 71551
-
-Ribeirao das Neves 338197
-Divino das Laranjeiras 4974
-Laranjal 6833
-Palma 6611
-Varzea da Palma 39803
-Buritizeiro 28121
-Buritis 25013
-Arinos 17862
-Espinosa 31610
-
-Bom Despacho 51028
-Camacho 2869
-Itapecerica 21761
-Itapeva 9881
-Extrema 36951
-Toledo 6297
-Munhoz 5994
-Matozinhos 38151
-
-Pedro Leopoldo 64712
-
-Leopoldina 52640
-Argirita 2704
-Sao Jose da Varginha 5079
-Pequi 4432
-Maravilhas 8046
-Miravania 4914
-Montalvania 14747
-Itacarambi 18164
-Itacambira 5417
-Gonzaga 6171
-Couto de Magalhaes de Minas 4423
-Senador Modestino Goncalves 4105
-Goncalves 4355
-Jose Goncalves de Minas 4487
-Leme do Prado 4920
-Rio do Prado 5133
-Antonio Prado de Minas 1587
-Tombos 7850
-Matias Barbosa 14548
-Simao Pereira 2618
-Sao Romao 12529
-Ibiai 8437
-
-Pirapora 56640
-Lassance 6503
-Augusto de Lima 4851
-Santo Hipolito 3065
-Monjolos 2202
-Antonio Carlos 11459
-Ewbank da Camara 3923
-Carmo da Cachoeira 12182
-Palmopolis 5349
-Sao Thome das Letras 7120
-Sao Tomas de Aquino 7000
-Capetinga 6890
-Jacui 7691
-Jaguaracu 3142
-Paraguacu 21605
-Fama 2376
-
-Alfenas 80494
-
-Almenara 42143
-Rubim 10256
-Itaobim 21029
-Ponto dos Volantes 12179
-Joaima 15455
-
-Joao Monlevade 80416
-Sao Joao Evangelista 15767
-Paulistas 4812
+Guiricema 8343
 Paula Candido 9584
 Sao Francisco de Paula 6520
 
 Oliveira 41840
 Claudio 28859
-Piau 2733
-Ipiacu 4225
-Santa Vitoria 19872
-Corinto 23668
-Morro da Garca 2437
-Arcos 40380
-Iguatama 7923
-Guape 14258
-Ilicinea 12444
-Boa Esperanca 40219
-Candeias 14888
-Cabeceira Grande 6988
+Itaguara 13435
+Itatiaiucu 11252
+Rio Manso 5879
+Brumadinho 40666
+Riachinho 8134
+Urucuia 17173
+Urucania 10345
+Orizania 8079
+Divino 19976
+Luisburgo 6258
+Felisburgo 7504
+Joaima 15455
+Jequitinhonha 25474
 
-Unai 84930
-Ipuiuna 10118
-Congonhal 12082
+Almenara 42143
+Rubim 10256
+Rio Espera 5402
+Alto Rio Doce 10859
+Cipotanea 6799
+Bras Pires 4293
+Presidente Bernardes 5341
+Presidente Olegario 19627
+Presidente Juscelino 3606
+Presidente Kubitschek 3001
+Datas 5421
+Gouveia 11818
+
+Diamantina 47825
+Couto de Magalhaes de Minas 4423
+Senador Modestino Goncalves 4105
+Coluna 8841
+Frei Lagonegro 3487
+Alagoa 2665
+Aiuruoca 5976
+Liberdade 5031
+Sao Geraldo da Piedade 3910
+Sao Geraldo do Baixio 4059
+Goiabeira 3378
+Cuparaque 5005
+Naque 7051
+Acucena 9368
+Braunas 4769
+
+Itauna 93847
+Mateus Leme 31364
+Juatuba 27392
+Jaboticatubas 20418
+Catuji 6257
+Itaipe 12836
+Novo Cruzeiro 31335
+Novo Oriente de Minas 10778
+Crisolita 6760
+Rubelita 5798
+Coronel Murta 9215
+Coronel Pacheco 3090
+Goiana 3990
+Rio Novo 8957
+Rio Pomba 17959
+Merces 10758
+Paiva 1523
+Aracitaba 2059
+Aracai 2354
+
+Paracatu 93862
+Guarda-Mor 6569
+
+Joao Pinheiro 47726
+Conselheiro Pena 22949
+Galileia 6790
+Santa Rita do Itueto 5457
+Itueta 6063
+Resplendor 17396
+Aimores 25141
+Serra dos Aimores 8713
+Nanuque 40665
+Carlos Chagas 18674
+Antonio Carlos 11459
+
+Santos Dumont 46421
+Ewbank da Camara 3923
+Itamarati de Minas 4375
+Irai de Minas 7027
+Icarai de Minas 12097
+Ubai 12599
+Pintopolis 7524
+Bertopolis 4607
+Santa Helena de Minas 6386
+Machacalis 7111
+Chacara 3186
+Itacarambi 18164
+Sao Joao das Missoes 13125
+Manga 18226
+Miravania 4914
+Montalvania 14747
+
+Contagem 668949
+
+Ibirite 182153
+
+Itabirito 52446
+Rio Acima 10420
+Raposos 16429
+Araponga 8453
+Sericita 7333
+Abre Campo 13444
+Matipo 19005
+Santa Margarida 16302
+Santa Maria de Itabira 10857
+
+Itabira 120904
+Ibiraci 13986
+Claraval 4853
+Maravilhas 8046
+Pequi 4432
+Sao Jose da Varginha 5079
+
+Varginha 136602
+Eloi Mendes 28320
+Monsenhor Paulo 8727
+Sao Goncalo do Sapucai 25561
+
+Santa Rita do Sapucai 43753
+Conceicao dos Ouros 11748
+Consolacao 1784
+Coracao de Jesus 26611
+Mirabela 13620
+Japonvar 7982
+Lontra 9714
+Pedras de Maria da Cruz 12212
+
+Januaria 67852
+Conego Marinho 7686
+Carneirinho 10066
+Pavao 8419
+Campo Azul 3824
+Campina Verde 19752
+Mata Verde 8644
+Bandeira 4766
+Candeias 14888
+Camacho 2869
+
+Machado 42413
+Riacho dos Machados 9476
+Serranopolis de Minas 4809
+Pai Pedro 6094
+Pedralva 11146
+Maria da Fe 14056
+Cristina 10226
+Cristiano Otoni 5156
+
+Teofilo Otoni 140937
+Antonio Prado de Minas 1587
+Tombos 7850
+Faria Lemos 3221
+Espera Feliz 25122
+Boa Esperanca 40219
+Cristais 12931
+Paulistas 4812
+Sao Joao Evangelista 15767
+Pecanha 17537
+Coroaci 9943
+
+Coronel Fabriciano 110290
+
+Timoteo 90568
+Guidoval 7051
+
+Juiz de Fora 573285
+Monte Formoso 4923
+Aguas Formosas 19247
+Formoso 9688
+Buritis 25013
+Arinos 17862
+Espinosa 31610
+Espirito Santo do Dourado 4710
+Silvianopolis 6248
+Caetanopolis 11749
+Paraopeba 24700
+Cordisburgo 8897
+Arceburgo 10883
+
+Guaxupe 52078
+Muzambinho 20545
+Monte Belo 13152
+Cabo Verde 14075
+Areado 15181
+Careacu 6792
+Heliodora 6591
+Lambari 20907
+Olimpio Noronha 2809
+Congonhas do Norte 5046
 
 Congonhas 55309
 Jeceaba 4852
 Belo Vale 7719
 Moeda 4934
-Brumadinho 40666
-Inhauma 6312
-Gurinhata 5577
-Belmiro Braga 3425
-Lagamar 7600
-Vazante 20642
-Grupiara 1387
-Cascalho Rico 3092
-Carvalhos 4461
-Carvalhopolis 3597
-Padre Carvalho 6423
-Rubelita 5798
-Coronel Murta 9215
+Sarzedo 33413
+Varzea da Palma 39803
+Palma 6611
+Volta Grande 5261
+Casa Grande 2254
+Piau 2733
+Pratapolis 8566
+Ritapolis 4562
+Eugenopolis 11330
+Natercia 4728
+Comercinho 6774
+Medina 20759
+Curral de Dentro 7799
+Tiradentes 8072
 
-Coronel Fabriciano 110290
+Sao Joao del Rei 90497
+Coronel Xavier Chaves 3441
+Sao Tiago 10960
+Sao Tomas de Aquino 7000
 
-Timoteo 90568
+Sao Sebastiao do Paraiso 71445
+Jacui 7691
+Fortaleza de Minas 4437
+Alterosa 14517
 
 Betim 444784
-Lamim 3379
 
-Conselheiro Lafaiete 129606
-Engenheiro Navarro 7241
-Olhos d'Agua 6171
-Pingo-d'Agua 4986
-Marlieria 4034
-Sem-Peixe 2606
-Santa Cruz do Escalvado 4725
-Urucania 10345
-Urucuia 17173
-Itatiaiucu 11252
-Matias Cardoso 11260
-Capitao Eneas 15313
-Coimbra 7594
-Sapucai-Mirim 6989
+Igarape 43817
+Igaratinga 11005
+Pratinha 3631
+Campos Altos 15563
+Ibia 25358
+Ibiai 8437
 
-Juiz de Fora 573285
-Alvorada de Minas 3605
-Presidente Kubitschek 3001
-Presidente Juscelino 3606
-Inimutaba 7560
+Montes Claros 413487
 
-Curvelo 80616
-Itambacuri 23209
-Franciscopolis 5338
-Novo Cruzeiro 31335
-Cruzilia 15474
-Minduri 3893
-Liberdade 5031
-Santana do Garambeu 2476
+Tres Coracoes 80032
 
-Formiga 67822
-Doresopolis 1533
-
-Guaxupe 52078
-Juruaia 10681
-Muzambinho 20545
-Martinho Campos 13443
-Pompeu 32035
-Felixlandia 15433
-Sao Felix de Minas 3362
-Pescador 4256
-
-Andradas 41396
-Lagoa Dourada 13063
+Tres Pontas 56940
+Nepomuceno 26826
+Sao Joao Nepomuceno 26447
+Descoberto 5029
+Argirita 2704
+Santo Antonio do Aventureiro 3602
+Alem Paraiba 35401
+Padre Paraiso 20252
+Carai 23780
 Aracuai 36712
 Virgem da Lapa 13740
-Grao Mogol 15890
-Volta Grande 5261
-Alem Paraiba 35401
-Mutum 26961
+Francisco Badaro 10321
+Jenipapo de Minas 7738
+Turmalina 20125
+Carbonita 9414
+Aricanduva 5269
+Agua Boa 13523
+Agua Comprida 1992
+Delta 10768
+Conquista 6969
+Sacramento 26374
+
+Uberaba 337092
+Cascalho Rico 3092
+Padre Carvalho 6423
+
+Ribeirao das Neves 338197
+Confins 6800
+
+Esmeraldas 71551
+Florestal 7533
+Inhauma 6312
 Lajinha 19918
-Pecanha 17537
-Coroaci 9943
-Guaraciaba 10315
-Rio Piracicaba 14332
-Barra Longa 5015
-Araponga 8453
-Canaa 4548
-Coracao de Jesus 26611
-Jesuania 4780
-Olimpio Noronha 2809
-Congonhas do Norte 5046
-Senhora do Porto 3519
-Carmesia 2646
-Acucena 9368
-Careacu 6792
-Heliodora 6591
-Monsenhor Paulo 8727
-Merces 10758
-Lontra 9714
-Japonvar 7982
-Conego Marinho 7686
-Baldim 7803
-Funilandia 4392
-Datas 5421
-Leandro Ferreira 3226
+Durande 7870
+Mutum 26961
+Pocrane 8359
+Alvarenga 3844
+
+Conselheiro Lafaiete 129606
+Ibiracatu 5369
+Itaverava 5369
+Lamim 3379
+
+Patrocinio 91449
+Passa Quatro 16393
+Passa Tempo 8057
+Lassance 6503
+Augusto de Lima 4851
+Santo Hipolito 3065
+Monjolos 2202
+Corinto 23668
+Felixlandia 15433
+
+Formiga 67822
+Itapecerica 21761
+Itapeva 9881
+Extrema 36951
+Toledo 6297
+Munhoz 5994
+Estiva 11386
+Congonhal 12082
+Ipuiuna 10118
+
+Caete 45047
+Jaiba 39388
+Santo Antonio do Retiro 7297
+Tiros 6424
+Luz 18257
+Perdoes 21485
+Itumirim 6000
+Botumirim 6288
+Sapucai-Mirim 6989
+Josenopolis 4889
+Sabinopolis 15416
+Virginopolis 10484
+Chapada Gaucha 13953
+Ataleia 12678
+Coimbra 7594
+Moema 7554
+Dona Eusebia 6619
+Sao Francisco de Sales 6274
+Sao Francisco do Gloria 4800
+Santana do Garambeu 2476
+Minduri 3893
+Marilac 4097
+Sem-Peixe 2606
+Umburatiba 2596

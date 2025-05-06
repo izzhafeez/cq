@@ -2,60 +2,60 @@
 
 Nagoya 2332176
 Kitanagoya 86385
-Toyoyama 15613
+Iwakura 47983
+Tokoname 58710
+Taketoyo 43535
+
+Toyota 422330
+Toyone 1017
+Toei 2942
+Shinshiro 44355
+Toyokawa 184661
+
+Toyohashi 371920
+Gamagori 79538
+Kota 42449
+Nishio 169046
+Takahama 46106
+Higashiura 49596
+Agui 28383
+Handa 117884
+Hekinan 72458
+Togo 43903
+Toyoake 69295
+Obu 93123
+Tokai 113787
+Chita 84364
+Minamichita 16617
+Mihama 22496
+Yatomi 43025
+Kanie 37338
+Oharu 32399
 Ama 86126
 Tsushima 60942
-Aisai 60829
-Tokai 113787
-Obu 93123
 Tobishima 4575
-Kanie 37338
-Nishio 169046
-Kota 42449
-Gamagori 79538
-Ogori 59360
-Yatomi 43025
+Aisai 60829
+Inazawa 134751
 
 Ichinomiya 380073
 Konan 98255
 Fuso 34133
 Oguchi 24305
-Chita 84364
-Agui 28383
-Higashiura 49596
-
-Toyohashi 371920
-Oharu 32399
-Kiyosu 67352
-Miyoshi 61952
-Togo 43903
-Toyoake 69295
-Taketoyo 43535
-Mihama 22496
-Minamichita 16617
-Shitara 4437
-Shinshiro 44355
-Nisshin 91520
-Nagakute 60162
-Iwakura 47983
 Komaki 148831
-
-Okazaki 384654
-Inazawa 134751
-Toyokawa 184661
-
-Toyota 422330
-Seto 127792
-Owariasahi 83144
-Kariya 153834
-Chiryu 72193
-Anjo 187990
-Hekinan 72458
-Handa 117884
-Takahama 46106
+Toyoyama 15613
 Inuyama 73090
 
 Kasugai 308681
-Tokoname 58710
-Toyone 1017
-Toei 2942
+Owariasahi 83144
+Nagakute 60162
+Nisshin 91520
+Miyoshi 61952
+Kiyosu 67352
+Ogori 59360
+
+Okazaki 384654
+Anjo 187990
+Chiryu 72193
+Kariya 153834
+Seto 127792
+Shitara 4437

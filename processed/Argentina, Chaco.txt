@@ -1,55 +1,64 @@
 
 
 Resistencia 290723
-Presidencia Roca 4201
-
-Presidencia Roque Saenz Pena 89882
-Napenay 2661
-Avia Terai 6203
-La Tigra 2866
-La Clotilde 3382
-Chorotis 941
-Colonia Popular 191
-Colonia Baranda 336
-Colonia Benitez 2212
-Margarita Belen 5701
-Las Garcitas 3711
-Colonias Unidas 3282
-Colonia Elisa 3471
-La Escondida 3261
-La Verde 2717
-General Vedia 1751
-General Pinedo 13042
-General Capdevila 405
-Gancedo 4284
-Laguna Blanca 547
-Makalle 4322
-Fortin Lavalle 687
-Fortin Las Chunas 302
-
-Las Brenas 22953
-
-Charata 26497
-Charadai 1519
-Basail 1929
 
 Barranqueras 54698
 Barrio de los Pescadores 795
 Selvas del Rio de Oro 606
 Pampa Almiron 1278
-Pampa Landriel 333
 Pampa del Indio 9204
+Presidencia Roca 4201
+
+Presidencia Roque Saenz Pena 89882
+Napenay 2661
+Avia Terai 6203
+Lapachito 888
+La Verde 2717
+Chorotis 941
+Laguna Limpia 1207
+Colonia Popular 191
+Colonia Baranda 336
+Colonia Benitez 2212
+Margarita Belen 5701
+Villa Berthet 10224
+
+Villa Angela 41403
+Samuhu 1251
+Enrique Urien 515
+Rio Muerto 1052
+Horquilla 122
+Taco Pozo 7813
+Fuerte Esperanza 1376
+El Espinillo 1261
+Villa Rio Bermejito 3752
+Fortin Lavalle 687
+Fortin Las Chunas 302
+
+Las Brenas 22953
+Las Palmas 4914
+La Leonesa 8823
+Los Frentones 5520
 Pampa del Infierno 9063
 Concepcion del Bermejo 5309
 Puerto Bermejo 1733
 Puerto Bermejo Viejo 86
 Venados Grandes 303
 Coronel Du Graty 7509
+Santa Sylvina 7340
+Hermoso Campo 5011
+Campo Largo 9069
+Corzuela 10335
 
-Villa Angela 41403
-Villa Berthet 10224
-Villa Rio Bermejito 3752
-El Espinillo 1261
+Charata 26497
+General Pinedo 13042
+General Capdevila 405
+General Vedia 1751
+Estacion General Obligado 31
+Puerto Eva Peron 609
+Puerto Tirol 8819
+Puerto Vilelas 8278
+
+Fontana 32027
 Villa El Palmar 879
 Tres Isletas 16976
 Zaparinqui 700
@@ -58,45 +67,36 @@ Juan Jose Castelli 27201
 
 General Jose de San Martin 28124
 Ciervo Petiso 786
-Puerto Eva Peron 609
-Puerto Tirol 8819
-Puerto Vilelas 8278
-
-Fontana 32027
-Santa Sylvina 7340
-La Sabana 242
-Cote Lai 1323
-Presidencia de la Plaza 9642
+Colonias Unidas 3282
+Colonia Elisa 3471
+Capitan Solari 1888
+Las Garcitas 3711
 Machagai 21997
 Colonia Aborigen 1272
 
 Quitilipi 24517
-Itin 441
-Isla del Cerrito 1758
-Las Palmas 4914
-La Leonesa 8823
-Los Frentones 5520
-Campo Largo 9069
-Hermoso Campo 5011
-Corzuela 10335
-Horquilla 122
-Rio Muerto 1052
-El Sauzalito 3374
-El Sauzal 715
-Wichi 773
-Lapachito 888
-Napalpi 39
-Estacion General Obligado 31
-Meson de Fierro 423
-Haumonia 77
-Laguna Limpia 1207
+Presidencia de la Plaza 9642
+Cote Lai 1323
+Charadai 1519
+La Sabana 242
+Basail 1929
 San Bernardo 9379
-Enrique Urien 515
-Samuhu 1251
-Taco Pozo 7813
-Nueva Pompeya 2259
-Fuerte Esperanza 1376
+La Clotilde 3382
+La Tigra 2866
 Miraflores 4737
-Capitan Solari 1888
+Nueva Pompeya 2259
+Wichi 773
+El Sauzal 715
+El Sauzalito 3374
+Makalle 4322
+Laguna Blanca 547
+La Escondida 3261
 La Eduvigis 392
 Ingeniero Barbet 277
+Gancedo 4284
+Pampa Landriel 333
+Isla del Cerrito 1758
+Itin 441
+Meson de Fierro 423
+Napalpi 39
+Haumonia 77

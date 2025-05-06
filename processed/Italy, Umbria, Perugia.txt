@@ -3,125 +3,274 @@
 Perugia 120137
 
 Chiugiana-La Commenda 10604
-Lacugnano 1202
-Fontignano 1029
-
-Tavernelle 3177
-Verna 673
-Vagliano 360
-Mestigliano 422
-Mantignana 2053
-
-Citta della Pieve 3360
-Osteria del Gatto 1415
-Pianlungo 814
-Pietralunga 1276
-San Pietro 773
-Pietrauta 229
-Pietrafitta 786
-Purello 622
-Pucciarelli 633
-Fontechiaruccia 364
-Santa Lucia 299
-Santa Maria 577
-Fighille 577
-Colle 451
-Macchie 840
-Papiano 286
-Capitone 474
-Capitan Loreto 1109
-
-Cannara 2888
-Cannaiola 783
-Madonna di Baiano 1046
-Madonna Campagna 205
-Case Santa Maria Maddalena 217
-Montenero 204
-Montecampano 205
-Montecastelli 356
-Montecastrilli 1339
-
-Acquasparta 3161
-Massa Martana 1221
-
-Todi 5620
-Ponterio-Pian di Porto 1460
-Pian di San Martino 303
-San Savino 716
-Mugnano 871
-Bagnara 237
-Protte 220
-Promano 680
-Moiano 759
-Vaiano 221
-San Maiano 260
-San Brizio 256
-San Leo Bastia 210
-Pontecuti Nuovo 210
-Ponte Nuovo 607
-Pontenuovo 240
-Migiana 240
-Piana 292
-Preci 292
-Fabrecce 381
-Calzolaro 381
-Orvieto Scalo 2285
-Morano Osteria 255
-Porano 1624
-Porchiano 281
-Verchiano 225
-Branca 918
-Fanciullata 423
-Marcellano 585
-Morcella 211
-Monte Petriolo 211
-Monteleto 334
-Parrano 334
-Carraia 226
-Colpalombo 215
-
-Colombella 3199
-
-Petrignano 3184
-
-Bastia umbra 17831
-
-Santa Maria degli Angeli 7719
-Sant'Angelo di Celle 919
-San Martino in Campo 2662
 
 Torgiano 2816
 Brufa 956
-Bruna 1265
-Gabelletta 413
-Farnetta 253
-Case Lunghe 253
-Casacastalda 624
-Bastardo 2027
+Alviano 388
+Stazione di Alviano 287
+Stazione di Allerona 1107
+San Feliciano 908
+Paciano 529
+Corciano 806
+Corciano-Pigge 515
+Fontanelle 242
 Fontanelle di Bardano 223
 Crocicchio 223
 Paolicchie 223
 Ospedalicchio 1405
 Spada 494
-Spina 564
-Piosina 615
+Celalba 357
+Cerreto di Spoleto 366
+Monteleone di Spoleto 275
+Annifo 275
+Castel San Giovanni 288
+Montecampano 205
+Madonna Campagna 205
+Madonna di Baiano 1046
+Moiano 759
+Vaiano 221
+Buonacquisto 221
+Capodacqua 276
+Sant'Egidio 901
+Soccorso 909
+Poggio 410
+Villastrada 295
+Villa 719
+Crocemarroggia 277
+Arrone 1520
+
+Terni 97050
+Stroncone 2332
+Niccone 285
+Calzolaro 381
+Cantalupo 358
+Fabrecce 381
+Fabro 1028
+Pozzuolo 1028
+Pozzo 255
+Allerona 388
 Resina I 538
 Resina II 271
 Baschi 941
-Cascia 1555
-Casalina 426
-Polino 207
+Piediluco 476
+Gualdo Cattaneo 413
+Gualdo 210
+Pontecuti Nuovo 210
+Ponte Nuovo 607
+Porano 1624
+Morano Osteria 255
+Osteria del Gatto 1415
+
+Citta della Pieve 3360
+Colonnetta di Prodo 311
+Miralduolo 235
+San Pellegrino 391
+San Pietro 773
+Pietrauta 229
+Pietrafitta 786
+Purello 622
+Ponticelli 622
+Torricella 234
+Morcella 211
+Marcellano 585
+Fanciullata 423
+Gabelletta 413
+Farnetta 253
+Cornetto 265
+Bettona 615
+Tordibetto 293
+Vasciano 229
+
+Marsciano 9631
+Collepepe 1347
+Colle 451
+Macchie 840
+Papiano 286
+Piana 292
+Nera Montoro 384
+Grutti 599
+Preci 292
+Termine 414
+San Secondo 1199
+Casa del Diavolo 1332
+Fosso del Diavolo 305
+Borghetto 273
+Scheggino 273
+Scheggia 740
+Eggi 484
+Bazzano Inferiore 308
+Morrano Nuovo 234
 Canale Nuovo 563
-San Vitale 603
-Turrita 231
-Castel Ritaldi 569
-Palazzo 1817
+Acqua Vogliera 460
+Polino 207
+Casalina 426
+Casacastalda 624
+Bastardo 2027
+Torreorsina 223
+Torresquadrata 249
+Quadrelli 340
+Pucciarelli 633
+Sugano 338
+Fratta Todina 686
+Cesi 640
+Vernazzano Basso 309
+Verna 673
+Vagliano 360
+Mestigliano 422
+Attigliano 1754
+
+San Gemini 3375
+Pierantonio 897
+Montone 567
+Morra 236
 Collazzone 392
 Signoria 289
+Lerchi 575
+Verchiano 225
+Porchiano 281
+Due Santi 281
+Case Santa Maria Maddalena 217
+Montenero 204
+Pontenuovo 240
+Migiana 240
+Mocaiana 337
+Castel dell'Aquila 521
+Castel Rigone 415
+Castel Ritaldi 569
+Monte Castello di Vibio 538
 
-Foligno 47747
-Papigno 424
-San Pellegrino 391
+Citta di Castello 22497
+Cerbara 1955
+
+Selci-Lama 4837
+Trestina 1806
+
+Umbertide 11040
+Colle Umberto I 496
+San Vitale 603
+San Venanzo 980
+Cannaiola 783
+
+Cannara 2888
+Capitan Loreto 1109
+Ponte San Lorenzo 693
+Montecchio 758
+Montecastelli 356
+Montecastrilli 1339
+
+Acquasparta 3161
+Massa Martana 1221
+Santa Maria 577
+Fighille 577
+Villa Col dei Canali 259
+Villanova 342
+Badiola 315
+Badiali 457
+Il Rigo 555
+Collestatte 398
+Collestatte Piano 507
+Gaifana-Colle 500
+Fabro Scalo 1614
+Nocera Scalo 263
+Nocera Umbra 1690
+Rivotorto 1425
+Ponterio-Pian di Porto 1460
+Pian di San Martino 303
+San Martino in Campo 2662
+San Martino in Trignano 1581
+Padule-San Marco 2413
+Cipolleto 1034
+
+Spoleto 19266
+San Giovanni di Baiano 1873
+San Giacomo 2055
+
+San Giustino 4862
+San Faustino 206
+Ferentillo 1272
+Sigillo 2192
+Bevagna 2705
+Bagnara 237
+Protte 220
+San Savino 716
+Mugnano 871
+Lacugnano 1202
+Fontignano 1029
+
+Passignano sul Trasimeno 4464
+Tuoro sul Trasimeno 2306
+
+Castiglione del Lago 5344
+Castiglione della Valle 527
+San Biagio della Valle 614
+Tordandrea 939
+Sant'Andrea delle Fratte II 264
+Lugnano in Teverina 997
+Penna in Teverina 905
+Santa Maria in Valle 617
+Colvalenza 747
+
+Magione 6363
+Ripabianca 571
+Ripa 917
+Palazzo Mancinelli-Vaccara 718
+Palazzo 1817
+Strozzacapponi 374
+Montoro 249
+Monteleto 334
+Parrano 334
+Piegaro 757
+Via Lippia 1521
+Monte Petriolo 211
+Ponte Pattoli 1869
+Monte Bagnolo I 265
+Monteleone d'Orvieto 601
+Spina 564
+Valtopina 714
+Stazione di Padule 1014
+Casanova di Torre 811
+
+Gualdo Tadino 9750
+Budino 317
+Casteltodino 1097
+
+Todi 5620
+Pantalla 1430
+Pantanella 277
+Pianello 798
+San Brizio 256
+San Maiano 260
+Sellano 247
+Moricone 214
+
+Ciconia 4540
+
+Orvieto 5440
+Sferracavallo 1990
+Castel Giorgio 1652
+Ficulle 848
+
+Tavernelle 3177
+Sant'Angelo di Celle 919
+San Niccolo di Celle 1086
+Finocchieto 231
+Turrita 231
+Costano 1127
+Costacciaro 533
+Taizzano 489
+Osteria di Ramazzano 813
+Santa Maria Disette 229
+
+Santa Maria degli Angeli 7719
+
+Bastia umbra 17831
+San Leo Bastia 210
+San Liberato 590
+Maceratola 763
+Otricoli 962
+Fornaci 763
+Fornole 1308
+Avigliano Umbro 1506
 
 Spello 4410
 Uppello 263
@@ -129,251 +278,102 @@ Picciche 263
 Piccione 865
 
 Deruta 4162
-Grutti 599
-Nera Montoro 384
-Montoro 249
-Strozzacapponi 374
-Pozzo 255
-Pozzuolo 1028
-Miralduolo 235
-Colonnetta di Prodo 311
-
-Citta di Castello 22497
-Monte Castello di Vibio 538
-Alviano 388
-Stazione di Alviano 287
-Stazione di Allerona 1107
-San Feliciano 908
-Paciano 529
-Corciano 806
-
-Norcia 2964
-San Giacomo 2055
-San Giovanni di Baiano 1873
-
-Spoleto 19266
-Cerreto di Spoleto 366
-Celalba 357
-Campello sul Clitunno 2058
-Tuoro sul Trasimeno 2306
-
-Passignano sul Trasimeno 4464
-
-Assisi 3732
-Ponte d'Assi 602
-Lisciano Niccone 317
-Niccone 285
-Viceno 285
-Cesi 640
-Vernazzano Basso 309
-Fratta Todina 686
-Casteltodino 1097
-Torchiagina 655
-Annifo 275
-Castel San Giovanni 288
-Castel Giorgio 1652
 Giove 1238
 
 Amelia 5537
 Guadamello 203
 Dunarobba 203
-Bagnaia 287
+Fossato di Vico 421
 Passaggio 1106
-Poggio 410
-Sant'Egidio 901
-Soccorso 909
-Torreorsina 223
-Casanova di Torre 811
-San Martino in Trignano 1581
-Stazione di Padule 1014
-Padule-San Marco 2413
-Cipolleto 1034
+Bagnaia 287
+Stazione di Parlesca e Solfagnano 850
+Monterubiaglio 619
+San Benigno 286
+Papigno 424
+
+Foligno 47747
+
+Trevi 4906
+San Terenziano 1153
 
 Gubbio 14378
-
-Gualdo Tadino 9750
-Gualdo 210
-Gualdo Cattaneo 413
-Case Nuove 634
-Morrano Nuovo 234
-Morra 236
-Montone 567
-Fornaci 763
-Fornole 1308
-Avigliano Umbro 1506
-Attigliano 1754
-
-San Gemini 3375
-Pierantonio 897
-Nocera Scalo 263
-Fabro Scalo 1614
-Fabro 1028
-Valfabbrica 1534
-Calvi dell'Umbria 548
-Castel dell'Aquila 521
-Casteldilago 475
-Gaifana-Colle 500
-Collestatte 398
 Montegabbione 628
-Montecchio 758
-Ponte San Lorenzo 693
-San Terenziano 1153
-Pantalla 1430
-Collepepe 1347
-
-Marsciano 9631
-Vasciano 229
-Santa Maria Disette 229
-Osteria di Ramazzano 813
-Taizzano 489
-Ponticelli 622
-Torricella 234
-Castel Rigone 415
-Il Rigo 555
-Lerchi 575
-Badiali 457
-Badiola 315
-Villanova 342
-Sigillo 2192
-Bevagna 2705
-Comparati 581
+Marmore 835
+Cerqueto 835
 Sant'Enea 754
 Sant'Arcangelo 967
 Sant'Anatolia di Narco 268
-Collestatte Piano 507
-Ponte Pattoli 1869
-Monte Bagnolo I 265
-Cornetto 265
-Bettona 615
-Tordibetto 293
-Tordandrea 939
-Sant'Andrea delle Fratte II 264
-Lugnano in Teverina 997
-Penna in Teverina 905
-Santa Maria in Valle 617
-Colvalenza 747
-Otricoli 962
-Moricone 214
-Sellano 247
-Pantanella 277
-Pianello 798
-Fontanelle 242
-Corciano-Pigge 515
-Gioiello 254
-Agello 909
-Capodacqua 276
-Vigne 329
-Carbonesca 329
-Oscano 1293
-Costano 1127
-Costacciaro 533
-Testaccio 562
-Cortaccione 748
-
-Magione 6363
-Ripabianca 571
-Ripa 917
-Palazzo Mancinelli-Vaccara 718
-La Cinella 503
-Civitella del Lago 433
-
-Castiglione del Lago 5344
-Castiglione della Valle 527
-Mocaiana 337
 Pistrino 1569
-Montefalco 1290
-Montefranco 573
-Po' Bandino 994
-Budino 317
+Fontechiaruccia 364
+Carraia 226
+Colpalombo 215
+
+Colombella 3199
+
+Petrignano 3184
+
+Assisi 3732
+Ponte d'Assi 602
+Lisciano Niccone 317
 Olmeto 227
 Beroide 230
+Civitella del Lago 433
+Branca 918
+Montefranco 573
+Semonte-Casamorcia 2459
 
-Umbertide 11040
-Colle Umberto I 496
-Finocchieto 231
-San Niccolo di Celle 1086
-Fossato di Vico 421
-Fosso del Diavolo 305
-Borghetto 273
-Scheggino 273
-Scheggia 740
-Eggi 484
-Bazzano Inferiore 308
-Ferentillo 1272
-Villa 719
-Crocemarroggia 277
-Arrone 1520
-Stroncone 2332
-
-Terni 97050
+Norcia 2964
 
 Narni 5279
 
 Narni Scalo 5010
-Panicale 510
-Panicarola 723
-Sambucetole 278
-Monteleone di Spoleto 275
-Piediluco 476
-Piegaro 757
-Via Lippia 1521
-San Liberato 590
-Maceratola 763
+Orvieto Scalo 2285
+Fiamenga 558
+Bruna 1265
+Case Nuove 634
+Case Lunghe 253
+Pianlungo 814
+Pietralunga 1276
+Cinquemiglia 472
+Castiglion Fosco 254
+Gioiello 254
+Campello sul Clitunno 2058
+Capitone 474
+Mantignana 2053
+Testaccio 562
+Cortaccione 748
+Promano 680
+La Trinita 396
+San Carlo 262
+Colfiorito 396
+Pila 1811
+Cascia 1555
+Oscano 1293
+Po' Bandino 994
+Piosina 615
+Fratticiola Selvatica 522
+La Cinella 503
+Valfabbrica 1534
+Calvi dell'Umbria 548
+Le Cupe 336
+Montefalco 1290
 Camerata 208
 Citerna 299
-Termine 414
-San Secondo 1199
-Casa del Diavolo 1332
-Villa Col dei Canali 259
-Monterubiaglio 619
-Stazione di Parlesca e Solfagnano 850
-San Benigno 286
-San Biagio della Valle 614
+Santa Lucia 299
+Sambucetole 278
+Panicarola 723
+Panicale 510
+Guardea 1203
 Castel Viscardo 1085
 Castelnuovo 791
 Solomeo 456
 San Fatucchio 791
-San Faustino 206
-
-San Giustino 4862
-Le Cupe 336
-Semonte-Casamorcia 2459
-Monteleone d'Orvieto 601
-
-Orvieto 5440
-Sferracavallo 1990
-
-Ciconia 4540
-Ficulle 848
-Allerona 388
-Fiamenga 558
-Sugano 338
-Cantalupo 358
-
-Trevi 4906
-Trestina 1806
-Cerbara 1955
-
-Selci-Lama 4837
-Fratticiola Selvatica 522
-Nocera Umbra 1690
-Rivotorto 1425
-Colfiorito 396
-La Trinita 396
-San Carlo 262
-Castiglion Fosco 254
-Cinquemiglia 472
-Valtopina 714
-Pila 1811
-Villastrada 295
-Guardea 1203
-Quadrelli 340
+Agello 909
+Carbonesca 329
+Torchiagina 655
+Comparati 581
+Casteldilago 475
 Montepennino 340
-Buonacquisto 221
-Acqua Vogliera 460
-Torresquadrata 249
-San Venanzo 980
-Marmore 835
-Cerqueto 835
-Due Santi 281
+Vigne 329
+Viceno 285
 Titta 258

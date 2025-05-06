@@ -1,88 +1,88 @@
 
 
 Katowice 310764
-Swietochlowice 53150
 Myslowice 75446
-Ledziny 16426
-Bedzin 59068
-Czeladz 33745
-Siemianowice Slaskie 70170
-Miasteczko Slaskie 7524
-Piekary Slaskie 57917
-Tarnowskie Gory 60847
-Radzionkow 17203
-Radziechowy 5454
-Zywiec 32449
-Lodygowice 6989
-Wilkowice 6761
-Pyskowice 18770
-
-Gliwice 187474
-Knurow 39595
-Ornontowice 5733
-Orzesze 19539
-Czerwionka-Leszczyny 28626
-
-Rybnik 140924
-Zory 62094
-Swierklany 7652
+Pawlowice 9771
 Marklowice 5365
 Wodzislaw Slaski 49346
-Wisla 11335
-Ustron 15956
-Jastrzebie-Zdroj 92465
-Zebrzydowice 5368
-Pawlowice 9771
-Pszczyna 26066
-Goczalkowice-Zdroj 6566
-Czechowice-Dziedzice 35445
+Chelm Slaski 6023
+Imielin 8322
+Wojkowice 9233
+Wilkowice 6761
+Lodygowice 6989
+Zywiec 32449
 
-Bielsko-Biala 174534
-Bierun 19876
+Sosnowiec 216420
+Siemianowice Slaskie 70170
+Czeladz 33745
+Wola 8657
+Bojszowy 6584
+Pszow 14418
+Rydultowy 22070
+Kalety 8676
+Miasteczko Slaskie 7524
+Piekary Slaskie 57917
+Radzionkow 17203
+Radziechowy 5454
+Czechowice-Dziedzice 35445
+Goczalkowice-Zdroj 6566
+Pszczyna 26066
+Szczyrk 5801
+Brenna 6148
+Jaworze 6786
+Jasienica 5088
+Skoczow 14892
+Ustron 15956
+Wisla 11335
+Istebna 5076
+Swierklany 7652
 Siewierz 5514
 Zawiercie 52091
 Poreba 8861
-Brenna 6148
-Jasienica 5088
-Jaworze 6786
-Jaworzno 94732
-Imielin 8322
-Radlin 18105
-Rydultowy 22070
-Pszow 14418
-Bojszowy 6584
+Lazy 7215
+Dabrowa Gornicza 125905
+Laziska Gorne 22279
+Orzesze 19539
+Ornontowice 5733
+Knurow 39595
+
+Gliwice 187474
+Pyskowice 18770
+
+Zabrze 181128
+
+Ruda Slaska 142510
+Swietochlowice 53150
 Chorzow 111692
 Pisarzowice 5190
 Kozy 12271
-Lazy 7215
-Laziska Gorne 22279
 
-Ruda Slaska 142510
-Chelm Slaski 6023
-Wola 8657
-Mikolow 39505
-Tychy 129378
-Kalety 8676
-Lubliniec 24394
+Bielsko-Biala 174534
 Blachownia 9941
 
 Czestochowa 236796
 Klobuck 13250
-Myszkow 32817
-Slawkow 7088
-Dabrowa Gornicza 125905
-
-Zabrze 181128
-
-Bytom 176902
-Wojkowice 9233
-
-Sosnowiec 216420
+Lubliniec 24394
 Czaniec 5680
 Koniecpol 6345
+Myszkow 32817
+Slawkow 7088
+Jaworzno 94732
+Ledziny 16426
+Bedzin 59068
+
+Bytom 176902
+
+Rybnik 140924
+Czerwionka-Leszczyny 28626
+Zory 62094
+Jastrzebie-Zdroj 92465
+Zebrzydowice 5368
+Cieszyn 36248
+Tychy 129378
+Bierun 19876
+Tarnowskie Gory 60847
 Raciborz 56289
 Kuznia Raciborska 5587
-Cieszyn 36248
-Skoczow 14892
-Szczyrk 5801
-Istebna 5076
+Radlin 18105
+Mikolow 39505

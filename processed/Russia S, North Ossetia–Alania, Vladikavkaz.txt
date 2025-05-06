@@ -1,51 +1,122 @@
 
 
 Vladikavkaz 311693
-Fazikau 63
-Kharisdzhin 10
-Dzhimara 34
-Nizhniy Zaramag 11
-Faraskata 16
-Farn 1390
-Novyy Batako 3011
-Zil'ga 2203
-Ol'ginskoe 3060
-
-Mayskoe 7315
-Novoe 3258
-Ramonovo 820
-Tsalikovo 387
-Suadag 1202
-Mayramadag 1475
-Tsamad 2
-Zintsar 99
-Kartsa 67
-Nart 1370
-Nar 6
-Khukali 6
-Kalukh 41
-Novyy Urukh 495
-Sredniy Urukh 471
-
-Chikola 7017
-Sovetskoe 503
-Sovetskiy 314
+Dallagkau 45
+Barzikau 66
+Urikau 114
+Khurikau 921
+Kusovo 151
+Razdzog 513
 Razdol'noe 1080
 
 Pavlodol'skaya 5456
-Lukovskaya 5222
-Terskaya 2662
-Chernoyarskaya 687
 Novoosetinskaya 607
-Osetinskiy 48
-Pervomayskiy 494
+Chernoyarskaya 687
+Terskaya 2662
+Lukovskaya 5222
 Lukovskiy 14
 Kakadur 14
-Dur-Dur 2239
-Surkh-Digora 2016
+Lamardon 48
 
-Digora 10856
-Krasnogor 1613
+Ardon 18774
+Kadgaron 3093
+Nogkau 934
+Tsalikovo 387
+Suadag 1202
+Mayramadag 1475
+Nizhnyaya Saniba 1657
+Verkhnyaya Saniba 1806
+Staraya Saniba 175
+Verkhniy Unal 45
+Nizhniy Unal 115
+Tsamad 2
+Lats 44
+Kartsa 67
+Dzivgis 23
+Kodakhdzhin 71
+Kharisdzhin 10
+Dzhimara 34
+Kardzhin 3067
+Darg-Kokh 2163
+Dargavs 155
+Osetinskiy 48
+Pervomayskiy 494
+
+Mayskoe 7315
+Ol'ginskoe 3060
+
+Chermen 8508
+Novoe 3258
+Ramonovo 820
+Novo-Georgievskoe 755
+Tsmiti 129
+Tsmi 29
+Nizhniy Lars 166
+Nizhniy Kani 13
+Verkhniy Kani 57
+Verkhniy Zaramag 52
+Verkhniy Tsey 18
+Nizhniy Tsey 3
+Nizhniy Zaramag 11
+Faraskata 16
+Khidikus 117
+Fazikau 63
+Abaytikau 42
+Kesatikau 1
+Tmenikau 12
+Tagardon 1
+Tsasem 1
+Tapankau 1
+Potyfaz 1
+Lisri 1
+Elgona 1
+Nizhniy Zadalesk 51
+Nizhniy Zgid 25
+Verkhniy Zgid 76
+Vakats 87
+Mizur 3166
+Sadon 87
+Sadovyy 539
+Lyuby Kondratenko 80
+Fasnal 74
+Dzagepbarz 137
+Koban 381
+Odola 29
+Zrigatta 13
+Biz 13
+Makhchesk 118
+Satat 17
+Gusyra 21
+Kholst 21
+Nizhniy Nar 21
+Verkhniy Nar 5
+Verkhniy Zadalesk 5
+Donifars 5
+Khod 5
+Krasnyy Khod 141
+Malyy Malgobek 125
+Druzhba 27
+Moska 27
+Bad 3
+Tib 34
+Slas 3
+Arkhon 10
+
+Arkhonskaya 8149
+Nart 1370
+Michurino 1559
+Kirovo 1461
+Komarovo 599
+Veseloe 860
+Troitskoe 3695
+Kievskoe 1424
+
+Mozdok 38768
+Kalininskiy 1964
+Sovetskiy 314
+Sovetskoe 503
+
+Chikola 7017
 Nikolaevskaya 2004
 
 Zmeyskaya 6888
@@ -54,167 +125,96 @@ El'khotovo 12626
 Sukhotskoe 785
 Vinogradnoe 2333
 
-Nogir 11480
-Ir 3428
-Iran 555
-Nizhniy Biragzang 555
-Verkhniy Biragzang 851
-Verkhniy Kani 57
-Verkhniy Zaramag 52
-Verkhniy Tsey 18
-Nizhniy Tsey 3
-Bad 3
-Sadon 87
-Vakats 87
-Lats 44
-Urikau 114
-Barzikau 66
-Fiagdon 1124
-
-Ardon 18774
-Kardzhin 3067
-Darg-Kokh 2163
-Dargavs 155
-Dzinaga 155
-Tagardon 1
-Tsasem 1
-Tsemsa 7
-Sakhsat 7
-Akhsau 105
-Kuraytta 4
-Kurtat 3183
-Dachnoe 3851
-
-Kambileevskoe 7485
-Kievskoe 1424
-Novo-Georgievskoe 755
-Tsmiti 129
-Tsmi 29
-Kodakhdzhin 71
-Odola 29
-Nizhniy Lars 166
-Nizhniy Kani 13
-Zrigatta 13
-Satat 17
-Makhchesk 118
-
-Chermen 8508
-Tmenikau 12
-Kesatikau 1
-Abaytikau 42
-Tib 34
-Tibsli 4
-Slas 3
+Kizlyar 10813
 
 Beslan 36728
-Malgobek 407
-Malyy Malgobek 125
-Druzhba 27
-Brut 1485
+Farn 1390
+Novyy Batako 3011
+Zil'ga 2203
 Khumalag 3728
-
-Alagir 20949
-Tsrau 2265
-Lisri 1
-Akhsarisar 325
-Khaznidon 879
-Khataldon 1278
-Rassvet 447
-Michurino 1559
-Khurikau 921
-Kusovo 151
-Kusu 28
-Matsuta 36
-Kamata 28
-Kalnakhta 22
-Nizhniy Zadalesk 51
-Nizhniy Zgid 25
-Verkhniy Zgid 76
-Verkhniy Nar 5
-Verkhniy Zadalesk 5
-Donifars 5
-Ursdon 6
-Kora-Ursdon 1190
-Karman-Sindzikau 2293
-Karmadon 91
-Staraya Saniba 175
-Verkhnyaya Saniba 1806
-Nizhnyaya Saniba 1657
-
-Gizel' 7814
-Tel'mana 298
-Elbaevo 504
-Priterechnyy 1710
-Krasnyy Khod 141
-Khod 5
-Arkhon 10
-
-Arkhonskaya 8149
-Alkhanchurt 1155
-
-Mikhaylovskoe 9217
-
-Zavodskoy 16792
-Tarskoe 3845
+Brut 1485
+Tsalyk 2067
+Zamankul 1793
+Komsomol'skoe 1315
 
 Oktyabr'skoe 10436
-Komsomol'skoe 1315
-Zamankul 1793
-Razdzog 513
-Tsalyk 2067
-Daykau 4
-Dallagkau 45
-Nogkau 934
-Kadgaron 3093
+
+Kambileevskoe 7485
+Ir 3428
+Dachnoe 3851
+Kurtat 3183
 Dongaron 1277
 Komgaron 1549
 
 Sunzha 11715
-Nizhniy Unal 115
-Verkhniy Unal 45
-Dzivgis 23
-Zgil 5
-Lezgor 14
-Predgornoe 1058
-
-Kizlyar 10813
-Biz 13
-Mizur 3166
+Tarskoe 3845
+Balta 926
+Chmi 375
+Ezmi 196
+Karmadon 91
+Karman-Sindzikau 2293
+Kora-Ursdon 1190
+Ursdon 6
+Khukali 6
+Akhsau 105
+Sakhsat 7
+Tsemsa 7
 Buron 548
-Kirovo 1461
-Komarovo 599
-Veseloe 860
-Troitskoe 3695
+Kamskho 7
+Zintsar 99
+Fiagdon 1124
+Verkhniy Biragzang 851
+Nizhniy Biragzang 555
 
-Mozdok 38768
-Mostizdakh 752
-Moska 27
-Khidikus 117
-Gusyra 21
-Kholst 21
-Nizhniy Nar 21
-Dzuarikau 1697
-Lesken 2285
+Alagir 20949
+Iran 555
+Tsrau 2265
+
+Digora 10856
+Surkh-Digora 2016
+Dur-Dur 2239
+Stavd-Durt 1193
+Sredniy Urukh 471
+Novyy Urukh 495
 Toldzgun 495
+Khaznidon 879
+Akhsarisar 325
+Kalukh 41
+Matsuta 36
+Kalnakhta 22
+Kamata 28
 Dunta 35
 Dagom 4
-Elgona 1
-Tapankau 1
-Potyfaz 1
-Fasnal 74
-Dzagepbarz 137
-Koban 381
-Batako 1085
-Lamardon 48
-Kalininskiy 1964
-Galiat 18
-Stur-Digora 196
-Ezmi 196
-Chmi 375
-Balta 926
+Kuraytta 4
+Tibsli 4
+Zgil 5
+Daykau 4
+
+Zavodskoy 16792
+
+Mikhaylovskoe 9217
+
+Nogir 11480
+
+Gizel' 7814
+Alkhanchurt 1155
+Lesken 2285
+Priterechnyy 1710
+Tel'mana 298
+Elbaevo 504
+Malgobek 407
+Dzuarikau 1697
+Krasnogor 1613
+Mostizdakh 752
 Kosta 1505
-Stavd-Durt 1193
-Sadovyy 539
-Lyuby Kondratenko 80
+Khataldon 1278
+Rassvet 447
+Batako 1085
+Dzinaga 155
+Predgornoe 1058
+Stur-Digora 196
+Kusu 28
 Kamunta 27
-Kamskho 7
+Galiat 18
+Lezgor 14
+Nar 6

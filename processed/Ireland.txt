@@ -2,136 +2,17 @@
 
 Dublin 554554
 
-Crumlin 11294
-
-Dundrum 12152
-Drumcondra 4465
-Drumconrath 370
-Rathdrum 1586
-Rathnew 2964
-
-Ratoath 9043
-Moate 2731
-Ballycumber 219
-Ballymore 433
-Ballymahon 1563
-Keenagh 498
-Nenagh 5500
-Nenagh Bridge 6672
-O'Briensbridge 383
-Castleconnell 1917
-Castlecomer 1456
-Moneenroe 761
-Clogh 358
-Cloghan 612
-Knocknalower 612
-Knock 811
-Knocklong 265
-Knockbridge 583
-Louth 715
-Tallanstown 673
-Carlanstown 631
-Kernanstown 221
-Beaulieu House 221
-Beaulieu Cross 221
-Ballyroe Cross Roads 191
-
-Athy 12855
-
-Enniscorthy 9709
-
-Ennis 24427
-Ennistimon 957
-Lehinch 642
-Inchigeelagh 160
-Shanballymore 160
-Ballymakeery 425
-Galbally 238
-
-Balally 9051
-
-Sandyford 22288
-
 Sandymount 8967
 Dollymount 5070
 Ballymun 6262
 
 Finglas 19768
 Glasnevin 3633
-Monasterevin 3710
-Killenard 622
-Killenaule 713
-Naul 445
-Stamullin 3130
-Mullinavat 259
-Carrignavar 499
-
-Navan 24545
-Smithborough 363
-Athboy 2397
-Kildalkey 663
-Dalkey 6622
-
-Sallynoggin 6916
-Ballynoe 146
-Tallow 962
-
-Mallow 9495
-Drommahane 872
-Dromina 269
-Dromcollogher 548
-Collon 814
-Collooney 1369
-Coolaney 866
-Oola 311
-Toomyvara 311
-Emyvale 696
+Cabra 4389
+Cabragh 159
 Bellanode 473
-Belturbet 1277
-Castlemartyr 1277
-Castlemaine 187
-Castletownshend 187
-Castleisland 2513
-Kilcummin Farmhill 368
-
-Killarney 7300
-Blarney 2437
-Killumney 1046
-Killimor 335
-Kill 3095
-Johnstown 1004
-Eadestown 5346
-Keadew 187
-Kilmeaden 193
-Mooncoin 1166
-Cheekpoint 334
-Rosses Point 824
-Quigley's Point 227
-Moville 1481
-Glenville 489
-Killavullen 257
-Kilcullen 3473
-Old Kilcullen 2110
-Old Kildimo 409
-Oldtown 455
-Golden 269
-Shanagolden 294
-
-Shannon 9673
-Innishannon 767
-Cross Barry 354
-Ross Carbery 534
-
-Derry 10000
-Courtmacsherry 520
-Kilkishen 520
-
-Kilkenny 21589
-Kilmaganny 226
-Kilmaine 166
-Kilmainham Wood 312
-Dunfanaghy 312
-Laghy 197
+Monaghan 5937
+Tullaghan 228
 Mullagh 1137
 Mullaghmore 128
 Clashmore 252
@@ -143,28 +24,84 @@ Ballinagh 766
 Ballinamore 889
 Headford 889
 Woodford 282
-Butlersbridge 282
-Goresbridge 361
-Bennettsbridge 729
-Kilbride 281
-Lawcus 355
-Portlaw 1696
-
-Portlaoise 13622
-
-Portarlington 7788
-Carlingford 1045
-Templetuohy 323
-Burtonport 323
-Courtown 2857
-Castletown 1195
-Moone 1195
-Stratford 217
 Ford 654
 
 Wexford 19913
 Ballyliffin 461
-Ballylinan 1084
+Ballyhoge 262
+Ballymurn 464
+Ballaghkeen 477
+
+Tallaght 64282
+
+Oldbawn 9784
+Newbawn 184
+Crookstown 285
+Adamstown 258
+Johnstown 1004
+Eadestown 5346
+
+Jobstown 10825
+Saggart 2144
+Carrigart 228
+Carrigans 336
+Carrigallen 384
+Carrick 282
+Butlersbridge 282
+Goresbridge 361
+Bennettsbridge 729
+Kilbride 281
+Kilbrin 174
+Kilronan 297
+Ardskeagh 297
+Donaskeagh 147
+Cappawhite 369
+Cappamore 675
+Pallasgreen 589
+Pallaskenry 664
+Askeaton 1149
+Killadysert 378
+Killala 574
+Inishcrone 1223
+Shinrone 634
+Ballinroad 1097
+Ballinrobe 2704
+Kilmaine 166
+Kilmainham Wood 312
+Dunfanaghy 312
+Larganreagh 415
+Killeagh 721
+Kill 3095
+Kilteel 225
+Kilteely 214
+Kinsaley 214
+Kinsale 3843
+Belgooly 765
+Riverstick 592
+Riverstown 374
+Calverstown 648
+Old Kilcullen 2110
+Kilcullen 3473
+Moycullen 1559
+Ballycullane 285
+Ballycumber 219
+Ballymore 433
+Ballymahon 1563
+Ballymacoda 128
+Ballynoe 146
+Tallow 962
+
+Mallow 9495
+Drommahane 872
+Dromina 269
+Dromcollogher 548
+Twomileborris 548
+Borris 646
+O'Briensbridge 383
+Castleconnell 1917
+Castlecomer 1456
+Moneenroe 761
+Nurney 389
 Ballinabranagh 389
 Clarinbridge 389
 Leighlinbridge 828
@@ -176,798 +113,861 @@ Glanworth 547
 Fermoy 4933
 
 Ballyfermot 8558
-Chapelizod 5296
+Ballyferriter 200
+Dingle 1965
+Baltinglass 2061
+Rathvilly 881
+Rathtoe 303
+Rathard 560
+Fethard 1541
+Lahardaun 156
+Kilkelly 372
 
-Blanchardstown 16511
-Hartstown 5882
-Robertstown 669
-Blackwood 693
-Allenwood Cross Roads 845
-Brownstown Cross Roads 846
-Ballysax 333
-Ballyshannon 2683
-Bundoran 1865
-Grange 578
-Strandhill 1596
-Stradbally 1154
-Ballintra 209
-Ballincar 444
-Ballintogher 313
-Ballyporeen 313
-Saleen 374
-Kinsale 3843
-Ballinspittle 194
-Littleton 410
-Ballyhander 410
-Dunderrow 197
-Dunderry 186
-Murntown 363
-Kentstown 1099
-Duleek 3988
-Dunleer 1786
-Dunlewy 3400
-Dungloe 1183
-Loughanure 337
-Ballyboughal 352
-Shanbally 337
-Annagary 253
-Rann Na Feirste 352
-Cnoc Na Muirleog 415
-Larganreagh 415
-Meenlaragh 442
+Kilkenny 21589
+Gowran 742
+Dowra 147
+Kilfenora 220
+Kilflynn 126
+Bridgetown 385
+
+Celbridge 19537
+Bridebridge 203
+Castlebridge 1726
+Sixmilebridge 2507
+Kilmurry 291
+Kilmacow 627
+Kilmacrenan 685
+Kilmead 299
+Kildangan 299
+
+Kildare 8142
+Cherryville 6380
+Killenard 622
+Ballybrittas 331
+Brittas 171
+Kilbrittain 196
+Rathdowney 1208
+Mountrath 1661
+Mountmellick 3547
+
+Portlaoise 13622
+
+Portarlington 7788
+Carlingford 1045
+Castlebellingham 1035
+
+Castlebar 12874
+Croagh 222
+Belcarra 222
 Falcarragh 860
-Carragh 882
-Ladytown 452
-Milltown 365
-Piltown 1187
-Carrick-on-Suir 5710
-Carrick-on-Shannon 3980
-Leitrim 485
+Meenlaragh 442
+Laragh 340
+Roundwood 833
+Roundstone 245
+
+Greystones 13492
 Trim 1800
 Charlesland 1800
 Charlestown 914
 Swinford 1435
 Foxford 1326
 Knightstown 156
-Scotstown 370
-Nobber 357
-Skibbereen 2098
-Leap 240
-Drimoleague 468
-Baltimore 347
-Timoleague 373
-Killeagh 721
-Shillelagh 341
-Watergrasshill 1161
-Waterville 465
-Ballyferriter 200
-Dingle 1965
-Castlegregory 243
-Spa 460
-Tyrrellspass 506
-Rochfortbridge 1494
-Bridebridge 203
-Castlebridge 1726
-Castleellis 293
-Castlebellingham 1035
-Dromiskin 1115
-Inniskeen 265
-Enniskerry 1811
-Kilmacanoge 1028
-Kilmacow 627
-Annacotty 2856
-Ballycannan 646
-Borris 646
-Borrisokane 964
-Borrisoleigh 708
-Templemore 2264
-Commons 152
-The Commons 152
-Moneygall 310
-Ballygar 660
-Ballyforan 172
-Ballyfarnan 205
-Multyfarnham 376
-Castlepollard 1042
-Oldcastle 1384
-Virginia 2282
-Delvin 697
-Lixnaw 634
+Hartstown 5882
 
-Leixlip 15452
-Confey 5389
-Eyrecourt 264
-
-Ashbourne 11355
-Nurney 389
-Carney 349
-Bansha 349
-Newtownshandrum 405
-Newtown 296
-Newtownforbes 759
-Cappoquin 759
-Quin 935
-Newmarket on Fergus 1773
-Newmarket 988
-Kanturk 2263
-Buttevant 945
-Sutton 3837
-Ballycotton 476
-Shanagarry 414
-Bellanagare 142
-Castlerea 1985
-Castletownbere 912
-Kilcrohane 90
-Kilcar 248
-Killybegs 1297
-Derrybeg 1553
-Brinlack 441
-Lackagh 504
-Claregalway 1217
-
-Galway 70686
-Bearna 1878
-Lisdoonvarna 739
-Doonbeg 272
-Turlough 272
-Loughglinn 204
-Glin 577
-Ballinlough 300
-Moylough 503
-Loughrea 5062
-Craughwell 665
-Athenry 3950
-Omeath 503
-Athea 385
-Rathkeale 1550
-Askeaton 1149
-Pallaskenry 664
-Pallasgreen 589
-Cappamore 675
-Cappawhite 369
-Tipperary 4976
-Monard 205
-Donard 187
-Clonard 339
-Kinnegad 2662
-Donegal 2607
-Clonegal 245
-Ballon 684
-Tullow 3972
-
-Carlow 20055
-Tinryland 418
-Ballylanders 331
-Ballybrittas 331
-Brittas 171
-Kilteel 225
-Kilteely 214
-Kinsaley 214
-Sallins 5283
-
-Naas 20713
-Anascaul 299
-Kildangan 299
-
-Kildare 8142
-Cherryville 6380
-Kilberry 408
-Kilbeggan 1199
-Castletown Geoghegan 150
-Castletownroche 435
-Clonroche 329
-Sneem 258
-Clonee 631
-Clonmellon 634
-Clonmany 470
-Conna 470
-Ballyconnell 1061
-Crossmolina 1061
-Camolin 393
-Ferns 1362
-Carnew 1091
-Ballycanew 502
-Ballyedmond 116
-Ballydesmond 206
-Ballydehob 271
-Schull 658
-Churchtown 509
-Churchbay 322
-Crosshaven 2093
-Redcross 241
-Holycross 714
-Bohola 170
-Rosegreen 170
-Gorteen 349
-Gort 2644
-Boston 570
-Gormanston 500
-Ring 500
-Ringaskiddy 478
-
-Cobh 10501
-
-Cork 190384
-Gortahork 197
-Killeigh 197
-Glenbeigh 285
-Glen 455
-Glencullen 268
-
-Foxrock 12870
-
-Blackrock 8821
-Monkstown 5555
-Crookstown 285
-Ballycullane 285
-Moycullen 1559
-Passage East 806
-Dunmore East 1559
-Kilmore Quay 400
-
-Kilquade 14886
-Kilpedder 1287
-Edenderry 4890
-Derrinturn 1541
-Fethard 1541
-Rathangan 2374
-Drangan 136
-Mullinahone 481
-Gortnahoe 304
-Urlingford 973
-
-Thurles 7588
-Arthurstown 135
-Duncannon 328
-Liscannor 129
-Liscarroll 230
-Scarriff 816
-Glengarriff 250
-Carrigart 228
-Carrigans 336
-Kildrum 581
-Drumkeen 151
-Drumkeeran 252
-
-Youghal 6868
-Unionhall 252
-Ballybunnion 1354
-Ballyduff 532
-Ballyhooly 412
-Ballyheige 628
-Ballyhoge 262
-Ballymurn 464
-Ballaghkeen 477
-Bangor 293
-Gorey 6040
-Killinierin 217
-Fieries 491
+Palmerstown 7197
 Villierstown 279
 Aglish 343
 Drumlish 835
 Drumsna 247
 Drumshanbo 857
-Mohill 928
+Carrick-on-Shannon 3980
+Carrick-on-Suir 5710
+Piltown 1187
+Miltown Malbay 777
+Newtown Sandes 401
+Newtown 296
+Newtownforbes 759
+Cappoquin 759
+Fennagh 384
+Arvagh 380
+Kilnaleck 384
+Killeshandra 364
+Killester 5099
+Artane 5328
+Athea 385
+Oilgate 385
+Kilgarvan 181
+Kenmare 2175
+Spiddal 250
+Bantry 3348
+Banteer 323
+Burtonport 323
+Courtown 2857
+Castletown 1195
+Castletownbere 912
+Kilcrohane 90
+Kilcar 248
+Geashill 375
+Dunhill 209
+Dunkineely 375
+Mogeely 327
+Knockglass 443
+Knockraha 341
+Shillelagh 341
+Watergrasshill 1161
 Carrigtwohill 4551
 
 Carrigaline 14775
 Ballygarvan 540
+Ballygar 660
+Ballyforan 172
+Ballyfarnan 205
+Toomyvara 311
+Emyvale 696
+Clones 1834
+Clonee 631
+Clonmellon 634
+Clonard 339
+Kinnegad 2662
+Donegal 2607
+Clonegal 245
+Easky 245
+Kerrykeel 388
+Enniskerry 1811
+Enniskeane 700
+Innishannon 767
 
-Dungarvan 7551
-Kilgarvan 181
-Kenmare 2175
-Dunmanway 1585
-Dunmore 577
-Tuam 6130
-Corrofin 549
-Corofin 689
-Inagh 204
-Ballinagar 420
-Coolagary 458
-Clonbullogue 422
-Louisburgh 422
-Burnfoot 466
-Grahormack 466
-Kilcormac 870
-Rathcormac 1534
+Shannon 9673
+Newmarket on Fergus 1773
+Newmarket 988
+Kanturk 2263
+Derrinturn 1541
+Edenderry 4890
+Dunderry 186
+Murntown 363
+Kentstown 1099
+Duleek 3988
+Balbradagh 363
+
+Balbriggan 23364
+Balrothery 1866
+Knockcroghery 307
+Knock 811
+Kiltamagh 1127
+Balla 671
+Ballaghaderreen 1822
+Bellanagare 142
+Castlerea 1985
+Ballintober 137
+Ballinlough 300
+Ballyhaunis 2312
+Ballyhaise 620
+Ballyhander 410
+Dunderrow 197
+Laghy 197
+Killeigh 197
+Borrisoleigh 708
+Templemore 2264
+Templetuohy 323
+Jenkinstown Cross 323
+Tallanstown 673
+Scotstown 370
+Carlanstown 631
+Kells 4820
+Tyrrellspass 506
+Rochfortbridge 1494
+
+An Muileann gCearr 17262
+Multyfarnham 376
+Castlepollard 1042
+Oldcastle 1384
+Virginia 2282
+Ballyjamesduff 2568
+Ballyduff 532
+Ballyhooly 412
+Ballyheige 628
+Ardfert 800
+Spa 460
+
+Tralee 22941
+Saleen 374
+Ballygawley 321
+Ballymote 1539
+Shanballymore 160
+Ballymakeery 425
+Galbally 238
+Ballingeary 238
+Ballinameen 188
+Ballindine 350
+Cloughduv 350
+Cloughjordan 511
+Rockcorry 310
+
+Foxrock 12870
+
+Blackrock 8821
+Monkstown 5555
+
+Dun Laoghaire 185400
+Cloghan 612
+Knocknalower 612
+Knocknagree 199
+Legan 199
+Castletown Geoghegan 150
+Kilbeggan 1199
+Clara 3242
+Bunratty 219
+Drumconrath 370
+Drumcondra 4465
+
+Dundrum 12152
+Newtownshandrum 405
+Golden 269
+Shanagolden 294
+Foynes 542
+Cloyne 1562
+Aghada 1015
+
+Cobh 10501
+Ringaskiddy 478
+Ring 500
+Gormanston 500
+St Johnston 583
+Knockbridge 583
+Knocklong 265
+Coolgreany 370
+Coolboy 144
 Rathcool 198
 Rathcoole 3421
-Saggart 2144
+Newcastle 2659
+Newcastle West 6327
+Silvermines 288
+Ardagh 288
+Ardara 731
+Loughfad Hill 155
+Loughanure 337
+Ballyboughal 352
+Shanbally 337
+Annagary 253
+Annagassan 180
+Crossakeel 180
+Redcross 241
+Barndarrig 233
+Rathdrum 1586
+Rathnew 2964
+Ashford 1449
+Freshford 685
+Ballitore 685
+Ballivor 1727
+Kildalkey 663
+Dalkey 6622
 
-Jobstown 10825
+Sallynoggin 6916
 
-Tallaght 64282
+Balally 9051
 
-Oldbawn 9784
-Newbawn 184
+Ballyboden 9611
+Ballybofey 4852
+Killygordon 608
+Castlefin 787
+Convoy 1438
+Drumkeen 151
+Kildrum 581
+Collinstown 336
+Loughlinstown 3665
 
-New Ross 6695
-
-An Ros 9231
+Shankill 10102
+Bray 6477
+Kilmacanoge 1028
+Kilmacthomas 871
+Kilmeaden 193
+Mooncoin 1166
+Portlaw 1696
+Portroe 468
 Portraine 1372
 
 Portmarnock 9285
 
 Baldoyle 8043
-Boyle 2199
-Elphin 613
-Tulsk 195
-Roosky 523
-Dromod 432
-Dromore West 218
-Inishcrone 1223
-Killala 574
-Balla 671
-Croagh 222
-Dooagh 582
-Achill Sound 275
-Dunhill 209
-Geashill 375
-Dunkineely 375
-Mogeely 327
-Knockglass 443
-Knockraha 341
-Knocknagree 199
-Legan 199
-Gneevgullia 256
-Tullaghan 228
-Tulla 662
-Kilmurry 291
-Sixmilebridge 2507
-Cratloe 674
-Killaloe 1292
-Newport 1806
-Portroe 468
-Mountcharles 468
-Mountrath 1661
-Mountmellick 3547
-Mountbellew 784
-Valleymount 1756
-Blessington 5010
-Kilmessan 586
-Kilmead 299
-Kilmacrenan 685
-Ballitore 685
-Freshford 685
-Ashford 1449
-
-Wicklow 14048
-
-Arklow 11761
-Mucklagh 810
-Aughrim 1364
-Ballinaclash 301
-Kildorrery 301
-Kildavin 194
-Dunlavin 830
-Calverstown 648
-Riverstown 374
-Riverstick 592
-Belgooly 765
-Coolgreany 370
-Kilcoole 4049
-Kilcock 5533
-Kilcloon 264
-Cloonboo 381
-Annaghdown 234
-Rathdowney 1208
-Kilbrittain 196
-Kilbrin 174
-Kilronan 297
-Kilrane 594
-Mulranny 242
-Clarina 275
-Claremorris 3412
-Emo 245
-Roundstone 245
-Roundwood 833
-Laragh 340
-Clara 3242
-Bunratty 219
-Kinnitty 359
-Fenit 527
-Ballingarry 527
-Ballingeary 238
-Ballinameen 188
-Ballindine 350
-Cloughduv 350
-Kinlough 1018
-Cliffony 483
-Aughnacliffe 148
-Fennagh 384
-Kilnaleck 384
-Ballinalee 308
-Furbogh 308
-Killadysert 378
-Tarbert 551
-Newtown Sandes 401
-Oilgate 385
-Bridgetown 385
-
-Celbridge 19537
-Ballyoulster 480
-Killester 5099
-Artane 5328
-
-Beaumont 8609
-Belmont 209
-Belmullet 1089
-Durrow 843
-Durrus 334
-Kilrush 2712
-Kilmihil 426
-Lissycasey 308
-Ballycastle 234
-
-Castlebar 12874
-Belcarra 222
-Kiltamagh 1127
-Kilkelly 372
-Kells 4820
-Millstreet 1574
-Lyre 134
-Ballymore Eustace 872
-Grenagh 562
-Narraghmore 345
-Farran 335
-Rathard 560
-
-Rathgar 8394
-Athgarvan 1016
-
-Droichead Nua 18860
-Clogherhead 1993
-
-Drogheda 33441
-Tullyallen 1358
-Donore 692
-Bandon 5492
-Carndonagh 2534
-Malin 106
-Kilmallock 1635
-Bruree 541
-Bruff 783
-Muff 1271
-Moroe 1271
-Carraroe 814
-Oughterard 1333
-Broadford 295
-Ballinroad 1097
-Ballinrobe 2704
-Cong 178
-
-Longford 7787
-Ballylongford 418
-Bweeng 418
-Gweedore 4200
-Oranmore 4799
-Grangemore 215
-Brannockstown 215
-Knockananna 141
-Knocktopher 144
-Coolboy 144
-Hacketstown 600
-Rathvilly 881
-Rathtoe 303
-Rathmore 778
-Rathmolyon 298
-Summerhill 832
-Enfield 2929
-Johnstown Bridge 650
-Longwood 1378
-Ballivor 1727
-Rathwire 1226
-
-An Muileann gCearr 17262
+Sutton 3837
+Ballycotton 476
+Shanagarry 414
+Ballinagar 420
 Daingean 1037
 Frenchpark 420
-Freemount 123
-Twomileborris 548
-Ballyagran 190
-Granard 1021
-Lough Gowna 161
-Loughlinstown 3665
-
-Shankill 10102
-Bray 6477
-Cabra 4389
-Cabragh 159
-Monaghan 5937
-Clones 1834
-Cootehill 1713
-Shercock 531
-Bailieborough 2530
-Lanesborough 1377
-Fiddown 366
-Tarmonbarry 366
-Swanlinbar 211
-The Swan 213
-Clonygowan 190
-Rath Luirc 3672
-Doon 509
-Doneraile 757
-Oulart 257
-Clondulane 333
-
-Clane 6702
-Slane 1349
-Rosslare 1547
-Tagoat 466
-Taghmon 623
-Barntown 461
-Barndarrig 233
-Carrigallen 384
-Carrick 282
-Carrickmacross 3995
-Kingscourt 2326
-Roscommon 5693
-Knockcroghery 307
-Rockcorry 310
-Mountshannon 152
-Toornafulla 152
-Ballinunty 152
-Ballintober 137
-Tobercurry 1747
-Ballymote 1539
-Ballygawley 321
+Coolagary 458
+Oola 311
+Coolaney 866
+Collooney 1369
 Ballisodare 1344
-Adare 1106
-Aghada 1015
-Ballaghaderreen 1822
-Ballyhaunis 2312
-Ballyhaise 620
-Killeshandra 364
-Arvagh 380
-Ballyvaghan 258
-Adamstown 258
-Garristown 433
-Listowel 4143
-Tower 3306
+Ballincar 444
+Ballintogher 313
+Ballyporeen 313
+Dromahair 748
+Cromane 115
+Killorglin 2082
+
+Killarney 7300
+Blarney 2437
 Model Village 345
-Whitechurch 573
-Whitegate 1067
-Collinstown 336
+Glenville 489
+Glen 455
+Oldtown 455
+
+Laytown 10889
+Julianstown 616
+Stamullin 3130
+Naul 445
+Killenaule 713
+Drangan 136
+Mullinahone 481
+Mullinavat 259
+Carrignavar 499
+
+Waterford 47904
+Slieverue 499
+Tieveborne 351
+Fahan 569
+Palatine 351
+Bridge End 497
 Newtown Cunningham 1067
 Manorcunningham 643
 
 Letterkenny 16901
 Letterfrack 192
 Clifden 2056
-Strokestown 814
-Rosscahill 295
-Cahir 3578
-Ardfinnan 946
-Kilfinnane 778
-Rhode 778
+Cliffony 483
+Grange 578
+Grangemore 215
+Brannockstown 215
+Athgarvan 1016
 
-Firhouse 6859
+Droichead Nua 18860
+Milltown 365
+Ladytown 452
+Carragh 882
+Narraghmore 345
+Farran 335
+Killimor 335
+Killumney 1046
+Killurin 163
+Clonaslee 518
+Rathmullan 518
 
-Knocklyon 14628
+Tullamore 11575
+Tulla 662
+Quin 935
 
-Ballyboden 9611
-Ballybofey 4852
-Killygordon 608
-Millford 970
-Milford 251
-Pollagh 251
-Ferbane 1165
-Banagher 1653
-Birr 4549
-
-Cabinteely 10038
-Banteer 323
-Bantry 3348
-Spiddal 250
-Hospital 630
-Emly 348
-Lemybrien 206
-Kilmacthomas 871
-Thomastown 2273
-Inistioge 260
-Graiguenamanagh 1543
-Gowran 742
-Dowra 147
-Kilfenora 220
-Donaskeagh 147
-Ardskeagh 297
-Ardagh 288
-Ardara 731
-Loughfad Hill 155
-Glenties 869
-Glencolumbkille 212
-Glenealy 670
-Kinsealy-Drinan 5814
-
-Swords 36924
-
-Malahide 15846
-Bayside 4511
-Baylin 244
-Glassan 198
-Annagassan 180
-Crossakeel 180
-Jenkinstown Cross 323
-Fountainstown 894
-Maddenstown 145
-Oram 145
-Ramelton 1212
-Tinahely 970
-Palatine 351
-Tieveborne 351
-Raharney 227
-Fahan 569
-Ballyclerahan 807
-
-Cluain Meala 17394
-Kilsheelan 809
-Cashel 2798
-Crusheen 467
-Ardnacrusha 1414
-Moyross 4448
-Ballyroan 455
-Caherconlish 1279
-Clonlara 627
-
-Limerick 90054
-Patrickswell 841
-Mungret 286
-Greencastle 817
-Newcastle 2659
-Newcastle West 6327
-Silvermines 288
-Foynes 542
-Cloyne 1562
-
-Dunboyne 6959
-Culdaff 264
-Straffan 635
-
-Tralee 22941
-Ardfert 800
-Abbeydorney 412
-Abbeyfeale 2007
-Abbeyleix 1827
-Ballycolla 138
-Ballyragget 1089
-Errill 196
-
-Skerries 9671
-Loughshinny 670
-
-Lusk 7022
-Cloontuskert 188
+Ennis 24427
+Ennistimon 957
+Lehinch 642
+Inchigeelagh 160
 Clondrohid 188
 
 Clondalkin 14508
 
-Raheny 7197
+Dundalk 33428
+Dromiskin 1115
+Dromod 432
+Roosky 523
+Tarmonbarry 366
+Cross Barry 354
+Ballyroe Cross Roads 191
+Beaulieu Cross 221
+Beaulieu House 221
+Kernanstown 221
+Tinryland 418
+Bweeng 418
+Ballylongford 418
+Ballylinan 1084
+Ballylanders 331
+Newbliss 331
+Lissycasey 308
+Ballinalee 308
+Furbogh 308
+Kilmihil 426
+Turlough 272
+Loughglinn 204
+Inagh 204
+Corofin 689
+Corrofin 549
+Cloonboo 381
+Annaghdown 234
+Claregalway 1217
 
-Palmerstown 7197
-
-Castleknock 8301
-
-Lucan 15269
-Puckaun 273
-Monivea 296
-Rivermeade 543
-Cahersiveen 1168
-Chapeltown 80
-Cromane 115
-Killorglin 2082
-Baile an Mhuilinn 838
-Lisronagh 187
-Beaufort 228
-Kilflynn 126
-Ballynacarrigy 287
-Edgeworthstown 1744
-
-Dun Laoghaire 185400
-Fairview 3821
-Dromahair 748
-Manorhamilton 1336
-Miltown Malbay 777
-
-Laytown 10889
-Julianstown 616
-
-Balbriggan 23364
-Balrothery 1866
+Galway 70686
+Bearna 1878
+Lisdoonvarna 739
+Doonbeg 272
+Doon 509
+Liscarroll 230
+Churchtown 509
+Churchbay 322
+Crosshaven 2093
+Fountainstown 894
+Passage West 4907
+Passage East 806
+Dunmore East 1559
+Kilmore Quay 400
+Danescastle 306
+Glenbeigh 285
+Cloonfad 285
+Kilcloon 264
+Kilcock 5533
 
 Maynooth 12510
 Ballyclogh 264
-Clogheen 491
-Ballymacarbry 132
-Ballymacoda 128
-
-Midleton 8891
-Passage West 4907
-Westport 6200
-Lahardaun 156
+Eyrecourt 264
+Kingscourt 2326
+Carrickmacross 3995
+Inniskeen 265
+Louth 715
 Ardee 4008
-Tinure 456
+Dunleer 1786
+Dunlewy 3400
+Gweedore 4200
+Rann Na Feirste 352
+Cnoc Na Muirleog 415
+Millford 970
+Milford 251
+Pollagh 251
+Ferbane 1165
+Kilcormac 870
+Kinnitty 359
+Birr 4549
+Banagher 1653
+Graiguenamanagh 1543
+Glenamaddy 500
 
-Terenure 7674
+Dungarvan 7551
+Ballydesmond 206
+Lemybrien 206
+Ballymacarbry 132
+
+Cluain Meala 17394
+Ballyclerahan 807
+Bohola 170
+Rosegreen 170
+Greencastle 817
+Moville 1481
+Waterville 465
+Scarriff 816
+Glengarriff 250
+Ballingarry 527
+Rathkeale 1550
+Abbeyfeale 2007
+Abbeydorney 412
+Abbeyleix 1827
+Ballycolla 138
+Durrow 843
+Durrus 334
+Arthurstown 135
+Duncannon 328
+Liscannor 129
+Ballycannan 646
+Ballycanew 502
+Ballyedmond 116
+Camolin 393
+Crossmolina 1061
+Belturbet 1277
+Castlemartyr 1277
+Castlemaine 187
+Castletownshend 187
+Castletownroche 435
+
+Youghal 6868
+Unionhall 252
+Myshall 302
+Kilmyshall 140
+Bunclody 2012
+Buncrana 5546
+Granard 1021
+Aughnacliffe 148
+Fiddown 366
+
+Longford 7787
+Urlingford 973
+Gortnahoe 304
+Gort 2644
+Gorteen 349
+Bansha 349
+Dunshaughlin 3903
+
+Ratoath 9043
+
+Ashbourne 11355
+Rivermeade 543
+
+Swords 36924
+Kinsealy-Drinan 5814
+Clarina 275
+Claremorris 3412
+Borrisokane 964
+Borris in Ossory 475
+Errill 196
+
+Skerries 9671
+Loughshinny 670
+Kinlough 1018
+Bundoran 1865
+Oranmore 4799
+Dunmore 577
+Tuam 6130
+Glin 577
+Moylough 503
+Loughrea 5062
+Craughwell 665
+Aughrim 1364
+Mucklagh 810
+Knocktopher 144
+Knockananna 141
+Hacketstown 600
+Robertstown 669
+Blackwood 693
+Allenwood Cross Roads 845
+Brownstown Cross Roads 846
+Ballysax 333
+Ballyshannon 2683
+Ballintra 209
+Duagh 209
+Pettigoe 239
+Belmont 209
+
+Beaumont 8609
+Beaufort 228
+Kilcummin Farmhill 368
+Mohill 928
+Cootehill 1713
+Shercock 531
+Caherconlish 1279
+Ballyroan 455
+Ballyragget 1089
+Belmullet 1089
+Glencullen 268
+
+Sandyford 22288
+
+Cabinteely 10038
 
 Donnybrook 10645
-Croom 1157
-Raphoe 1157
 
-Tra Mhor 9164
+Rathgar 8394
 
-Waterford 47904
-Slieverue 499
+Terenure 7674
+Tinure 456
+Tullyallen 1358
+Donore 692
 
-Sligo 20228
-Pettigoe 239
-Duagh 209
-Blacklion 229
-Castleblayney 3006
-St Johnston 583
+Drogheda 33441
+Clogherhead 1993
+Termonfeckin 1443
+Confey 5389
 
-Dundalk 33428
-Duniry 2
-Portumna 1530
-Cloughjordan 511
-Glaslough 348
+Leixlip 15452
+Ballyoulster 480
+
+Lucan 15269
+
+Raheny 7197
+Chapelizod 5296
+Chapeltown 80
+Cahersiveen 1168
+Castlegregory 243
+Ballycastle 234
+Rosscahill 295
+Broadford 295
+Oughterard 1333
+Tipperary 4976
+Monard 205
+Donard 187
+Keadew 187
+Lisronagh 187
+Carndonagh 2534
+Malin 106
+Clonmany 470
+Conna 470
+Ballyconnell 1061
+Swanlinbar 211
+The Swan 213
+Clogh 358
+Clogheen 491
+Ardfinnan 946
+Kilfinnane 778
+Rhode 778
+Rathmore 778
+Rathmolyon 298
+Summerhill 832
+Enfield 2929
+Johnstown Bridge 650
+Longwood 1378
+Rathwire 1226
+Delvin 697
+Lixnaw 634
+Athboy 2397
+Smithborough 363
+Lanesborough 1377
+Bailieborough 2530
+Baile an Mhuilinn 838
+Doneraile 757
+Buttevant 945
+Rath Luirc 3672
+Bruree 541
+Kilmallock 1635
+Bruff 783
+Hospital 630
+Ballinspittle 194
+Littleton 410
+
+Midleton 8891
+Timoleague 373
+Drimoleague 468
+Mountcharles 468
+Dunmanway 1585
+Leap 240
+
+Derry 10000
+Courtmacsherry 520
+Kilkishen 520
+Kildavin 194
 Creeslough 410
-Bree 201
-Brosna 210
-Roscrea 5403
-Borris in Ossory 475
-Carrigkerry 180
-Kerrykeel 388
-Buncrana 5546
-Bunclody 2012
-Kilmyshall 140
-Myshall 302
-Easky 245
-Enniskeane 700
-Clonakilty 4065
-Clonaslee 518
-Rathmullan 518
-Killurin 163
+Glaslough 348
+Emly 348
+Carney 349
+Carnew 1091
+Raharney 227
+Quigley's Point 227
+Rosses Point 824
+Cheekpoint 334
+Campile 411
 
-Tullamore 11575
+New Ross 6695
+
+An Ros 9231
+Glenealy 670
+Glenties 869
+Glencolumbkille 212
+Killybegs 1297
+Derrybeg 1553
+Brinlack 441
+Lackagh 504
+Blacklion 229
+Manorhamilton 1336
+Ramelton 1212
+Tinahely 970
+Whitegate 1067
+Whitechurch 573
+Grenagh 562
+Nenagh 5500
+Nenagh Bridge 6672
+Puckaun 273
+Monivea 296
+Killaloe 1292
+Newport 1806
+Moroe 1271
+Annacotty 2856
+
+Limerick 90054
+Patrickswell 841
+Mungret 286
+Moyross 4448
+Rosslare 1547
+Burnfoot 466
+Grahormack 466
+Rathcormac 1534
+Castlelyons 292
+
+Castleknock 8301
+
+Blanchardstown 16511
+
+Dunboyne 6959
+Culdaff 264
+Straffan 635
+Stratford 217
+Gorey 6040
+Killinierin 217
+Fieries 491
+Cahir 3578
+Cashel 2798
+Holycross 714
+
+Thurles 7588
+Ballinunty 152
+The Commons 152
+Commons 152
+Roscommon 5693
+Roscrea 5403
+Moneygall 310
+Mountshannon 152
+Toornafulla 152
+Reardnogy 176
+Ardnacrusha 1414
+Crusheen 467
+Boston 570
+Feakle 113
+Clonlara 627
+Clonroche 329
+Sneem 258
+Taghmon 623
+Barntown 461
+Piercetown 555
+Tagoat 466
+Kilrane 594
+Kilrush 2712
+Tarbert 551
+Ross Carbery 534
+Clonakilty 4065
+Bandon 5492
+Gortahork 197
+Bree 201
+
+Cork 190384
+Tower 3306
+Listowel 4143
+Garristown 433
+Moate 2731
+Baylin 244
+Glassan 198
 
 Athlone 21349
 Cavan 6388
-Ballinasloe 6388
 
-Greystones 13492
-Newtownmountkennedy 2410
+Navan 24545
+Kilmessan 586
+Kilmeage 997
+Prosperous 2248
+
+Clane 6702
+Slane 1349
+Castleisland 2513
+Brosna 210
+Gneevgullia 256
+Millstreet 1574
+Lyre 134
+Ballymore Eustace 872
+Oulart 257
+
+Naas 20713
+Sallins 5283
+Blessington 5010
+Valleymount 1756
+Freemount 123
+Mountbellew 784
+Omeath 503
+Athenry 3950
+Duniry 2
+Portumna 1530
+Westport 6200
+Mulranny 242
+Achill Sound 275
+Dooagh 582
+Cong 178
+Collon 814
+Carraroe 814
+Kinvarra 620
+Lough Gowna 161
+Edgeworthstown 1744
+Ballynacarrigy 287
+Carrigkerry 180
+Kilberry 408
+
+Athy 12855
+Anascaul 299
+Suncroft 735
+Clondulane 333
+Boherbue 333
+Dunlavin 830
+Castledermot 1398
+
+Carlow 20055
+Shrule 418
+Tullow 3972
+Ballon 684
+Emo 245
+Ferns 1362
+
+Enniscorthy 9709
+Bangor 293
+Castleellis 293
+Castleblayney 3006
+Maddenstown 145
+Oram 145
+
+Sligo 20228
+Strandhill 1596
+Stradbally 1154
+Monasterevin 3710
+Rathangan 2374
+Clonbullogue 422
+Louisburgh 422
+
+Malahide 15846
 
 Donabate 6778
+
+Lusk 7022
+Bayside 4511
 Howth 4574
-Dunshaughlin 3903
-Causeway 264
-Halfway 201
-Macroom 3169
-Coachford 431
-Ballyjamesduff 2568
-Kinvarra 620
-Callan 2330
-Prosperous 2248
-Kilmeage 997
-Boherbue 333
-Suncroft 735
-Baltinglass 2061
-Castledermot 1398
-Shrule 418
-Leifear 1658
-Feakle 113
-Termonfeckin 1443
-Cloonfad 285
-Danescastle 306
-Castlefin 787
-Convoy 1438
+Fairview 3821
+
+Crumlin 11294
+
+Knocklyon 14628
+
+Firhouse 6859
+
+Kilquade 14886
+Kilcoole 4049
+Kilpedder 1287
+Newtownmountkennedy 2410
+
+Wicklow 14048
+
+Arklow 11761
 Avoca 753
-Shinrone 634
-Balbradagh 363
-Piercetown 555
-Glenamaddy 500
+Ballinaclash 301
+Kildorrery 301
+Old Kildimo 409
+Adare 1106
+Raphoe 1157
+Fenit 527
+Ballyagran 190
+Croom 1157
+Macroom 3169
+Cloontuskert 188
+Coachford 431
+Halfway 201
+
+Tra Mhor 9164
 Shannonbridge 206
-Bridge End 497
-Campile 411
-Newbliss 331
-Castlelyons 292
-Reardnogy 176
+Kilsheelan 809
+Kilmaganny 226
+Callan 2330
+Lawcus 355
+Thomastown 2273
+Inistioge 260
+Ballyvaghan 258
+Ballinasloe 6388
+Boyle 2199
+Elphin 613
+Tulsk 195
+Leitrim 485
+Skibbereen 2098
+Nobber 357
+Tobercurry 1747
+Dromore West 218
+Baltimore 347
+Ballydehob 271
+Schull 658
+Leifear 1658
+Ballybunnion 1354
+Muff 1271
+Moone 1195
+Dungloe 1183
+Strokestown 814
+Cratloe 674
+Keenagh 498
+Causeway 264
+Killavullen 257
+Drumkeeran 252
+Clonygowan 190

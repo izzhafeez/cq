@@ -1,173 +1,56 @@
 
 
 Munich 1471508
-Munningen 1821
-Deiningen 2070
-Finningen 1681
-Schwenningen 1478
-Wertingen 8958
-Mertingen 3748
+Unterfohring 10500
 
-Meitingen 11201
-Ehingen 1022
-Wechingen 1416
+Unterhaching 20852
 
-Eching 12804
+Oberhaching 12470
 
-Garching bei Munchen 15303
-
-Neufahrn bei Freising 18255
-
-Freising 42570
-Marzling 2899
-Zolling 4029
-Haag an der Amper 2909
-Garching an der Alz 8796
-Burgkirchen an der Alz 10756
-
-Trostberg an der Alz 11676
-Tacherting 5704
-Taching am See 1937
-Waging am See 6291
-Sankt Leonhard am Wonneberg 1443
-Leonberg 1051
-Berg 7472
-Windischeschenbach 5659
-Mitteleschenbach 1573
-Wolframs-Eschenbach 2911
-Buchenbach 5255
-Tuchenbach 1185
-Kirchensittenbach 2238
-Attenkirchen 2585
-Schweitenkirchen 4876
-Vierkirchen 4216
-Bergkirchen 6955
-
-Dachau 39740
-Windach 3449
-Eresing 1709
-Aresing 2741
-Teising 1971
-Eisingen 3539
-Waldbrunn 2582
-Waldbuttelbrunn 5099
-Gerbrunn 6149
-Erlabrunn 1584
-Thungersheim 2726
-Thungen 1369
-Retzstadt 1622
-Hettstadt 3780
-Helmstadt 2579
-Himmelstadt 1798
-
-Karlstadt 15272
-Karsbach 1844
-Karbach 1403
-Haarbach 2604
-Beutelsbach 1088
-Reut 1793
-Reuth 1277
-
-Bayreuth 75061
-Seybothenreuth 1373
-Immenreuth 1901
-Pullenreuth 1902
-Kirchendemenreuth 950
-Tirschenreuth 9410
-Neualbenreuth 1572
-Puchersreuth 1667
-Floss 3534
-Flossenburg 1747
-Georgenberg 1507
-Bergen 4731
-Vachendorf 1770
-Eichendorf 6617
-Wallerfing 1388
-Wallersdorf 6702
-Wallerstein 3473
-
-Nordlingen 19492
-Reimlingen 1345
-Remlingen 1543
-Uettingen 1887
-Petting 2346
-Otting 819
-Mottingen 2558
-Oettingen in Bayern 5336
-
-Weissenburg in Bayern 17801
-Ellingen 3738
-Nennslingen 1465
-Burgsalach 1262
-Saldenburg 2040
-Riedenburg 5689
-Siegenburg 3376
-
-Mainburg 13959
-Biburg 1297
-
-Vilsbiburg 11416
-Vilsheim 2404
-Altfraunhofen 2057
-Neufraunhofen 1089
-Fraunberg 3236
-Wartenberg 4548
-Rettenberg 4043
-Buchenberg 3898
-Waltenhofen 9045
-Ottenhofen 1720
-Dietenhofen 5709
-Dietersheim 2138
-Ergersheim 1169
-Hemmersheim 697
-Tauberrettersheim 839
-Aub 1637
-
-Rothenburg ob der Tauber 11106
-Neusitz 1990
-Teuschnitz 2247
-Pressig 4277
-Presseck 2159
-Grafengehaig 1026
-Grafenau 8870
-Hohenau 3536
-Neuschonau 2432
-Schonau 2058
-Dietersburg 3132
-Unterdietfurt 2174
-Dietfurt 6161
-
-Furth 112025
-Langfurth 2211
-Burk 1241
-Burkardroth 7893
-Wartmannsroth 2313
-
-Hammelburg 12004
+Taufkirchen 17791
+Feldkirchen 5573
+Aschheim 6531
+Hochheim 1295
+Hochstadt bei Thiersheim 1225
+Thierstein 1278
 Kammerstein 2709
 Frammersbach 4737
-Oberpframmern 2188
-Egmating 2008
-Atting 1716
-Rattiszell 1412
-Rattenberg 1841
-Guttenberg 577
-Irlbach 1165
-Altenmunster 3846
-Waldstetten 1263
-Ettenstatt 842
-Grabenstatt 4152
-Eggstatt 2809
-Griesstatt 2485
-Ramerberg 1346
-Amerang 3574
-Chamerau 2667
+Karsbach 1844
+Gossenheim 1319
+Eussenheim 3302
+Greussenheim 1628
+Uettingen 1887
+Eisingen 3539
+Teising 1971
+Aresing 2741
+Massing 4144
+Thalmassing 5442
+Buchbrunn 1061
+Nennslingen 1465
+Ellingen 3738
 
-Cham 17314
-Willmering 2193
-Waffenbrunn 1999
-Brunn 1311
+Treuchtlingen 13141
+Pappenheim 4476
+Monheim 4950
+Asbach-Baumenheim 4346
+
+Oberasbach 17306
+
+Zirndorf 25734
+Ammerndorf 2099
+Cadolzburg 10164
+
+Gunzburg 19737
+Burgau 9576
+Horgau 2459
+Marktschorgast 1660
+Dombuhl 1660
+
+Dinkelsbuhl 11724
+Schopfloch 2884
+Hasloch 1414
 Bischbrunn 1880
+Brunn 1311
 Schollbrunn 938
 Mespelbrunn 2307
 Heimbuchenthal 2219
@@ -175,20 +58,124 @@ Altenbuch 1311
 Rothenbuch 1976
 Neuhutten 1252
 Glashutten 1569
-Pottenstein 5501
-Hartenstein 1534
-Partenstein 2844
-Steinfeld 2302
-Birkenfeld 2153
+Mistelgau 3858
+Bad Berneck im Fichtelgebirge 4723
+Fichtelberg 2111
+Zell im Fichtelgebirge 2275
+Oberhaid 4680
+Oberhausen 2558
+Auhausen 1107
+
+Gunzenhausen 16477
+Kutzenhausen 2482
+Spatzenhausen 820
+Waltenhausen 726
+Waltenhofen 9045
+Attenhofen 1352
+Hattenhofen 1415
+Egenhofen 3252
+Pfaffenhofen 1717
+Inchenhofen 2390
+Hollenbach 2372
+Sielenbach 1446
+Gachenbach 2320
+Unterneukirchen 2987
+Ehekirchen 3782
+Neukirchen 4071
+Eschlkam 3575
+Eschlsaign 1
+Arrach 2769
+Drachselsried 2358
+Achslach 1089
+Patersdorf 1822
+Teisnach 2962
+Rinchnach 3348
+Schollnach 5120
+Schofweg 1314
+Neuschonau 2432
+Hohenau 3536
+Grafenau 8870
+Frauenau 2966
+Zwiesel 10327
+Lindberg 2355
+Windberg 1059
+Willanzheim 1590
+Holzheim 3755
+Holzheim bei Oder 989
+Holzgunz 1170
+Gunzach 1522
+Obergunzburg 6424
+Untrasried 1515
+Dietmannsried 8044
+Altusried 9950
+Gorisried 1269
+Kraftisried 713
+Oberreichenbach 1204
+Reichenschwand 2295
+Schwaigen 621
+Schwaig 8340
+Markt Nordheim 1182
+Nordheim 1012
+Ungerhausen 1056
+Aufhausen 1767
+Hausen 3625
+Heroldsbach 5058
+Heroldsberg 7429
+Kalchreuth 3031
+Uttenreuth 4545
+Bubenreuth 4516
+Neualbenreuth 1572
+Tirschenreuth 9410
+Kirchendemenreuth 950
+Pullenreuth 1902
+Immenreuth 1901
+Seybothenreuth 1373
+Reuth 1277
+
+Bayreuth 75061
+Bindlach 7229
+Lachen 1390
+Jachenau 891
+
+Eichenau 11637
+Neureichenau 4480
+Jandelsbrunn 3408
+Pommelsbrunn 5432
+
+Hersbruck 12404
+Schwarzenbruck 8690
+
+Schwabach 38554
+Rednitzhembach 7034
+Kodnitz 1694
+Ruckholz 835
+Bruck 1213
+Zandt 1875
+Stotten am Auerberg 1856
+Stottwang 1847
+Mauerstetten 2922
+Scherstetten 1008
+Mittelneufnach 1058
+Langenneufnach 1751
+Wiesent 2561
+Wiesen 1139
+Wiesthal 1445
+Ramsthal 1212
+Sulzthal 944
+Sulzheim 2014
+Kolitzheim 5602
+Gnotzheim 878
+Markt Berolzheim 1370
+Alesheim 1003
+Illesheim 824
+Tagmersheim 1083
+Ermershausen 621
+Westheim 1215
+Ziertheim 1011
+Kreuzwertheim 3862
 Marktheidenfeld 11024
-Henfenfeld 1926
-Estenfeld 4907
-Kurnach 4332
-Thurnau 4502
-Waldthurn 2189
-Marktschellenberg 1855
-Bellenberg 4607
-Fellen 928
+Birkenfeld 2153
+Steinfeld 2302
 Erlenbach 2381
 Rechtenbach 1046
 
@@ -199,199 +186,130 @@ Gemunden am Main 11375
 Neunkirchen am Main 7784
 Neunkirchen am Sand 4758
 Rattenkirchen 946
-Geratskirchen 825
-Trautskirchen 1348
-Emskirchen 6197
-Wilhermsdorf 5105
-Adelsdorf 7245
-Simmelsdorf 3372
-Ammerndorf 2099
+Attenkirchen 2585
+Schweitenkirchen 4876
+Paunzhausen 1533
+Fahrenzhausen 4466
+Haimhausen 4680
+Petershausen 5965
+Allershausen 4734
+Kirchdorf 2652
+Vierkirchen 4216
+Bergkirchen 6955
 
-Zirndorf 25734
+Dachau 39740
+Fischbachau 5471
+Langenpreising 2496
 
-Oberasbach 17306
-Oberelsbach 2970
-Obermichelbach 2970
-Michelau 6839
+Freising 42570
 
-Lichtenfels 21336
-Lichtenau 3741
-Lichtenberg 1184
-Oberleichtersbach 2077
-Ustersbach 1214
-Aldersbach 4293
-Rossbach 2944
-Grossbardorf 1006
-Grosseibstadt 1199
-Aubstadt 781
-Hollstadt 1688
-Munnerstadt 7987
-Burglauer 1658
-Niederlauer 1801
-Sauerlach 5991
-Brunnthal 4628
-Hohenbrunn 8590
-Hohenkirchen-Siegertsbrunn 9465
-Grasbrunn 5737
+Neufahrn bei Freising 18255
 
-Ottobrunn 19204
-Putzbrunn 5747
-Brunnen 1609
+Garching bei Munchen 15303
 
-Konigsbrunn 27494
-Konigstein 1761
-Konigsdorf 2923
-Kreut 3889
-Bad Heilbrunn 3697
-Weibersbrunn 2142
-Schauenstein 2142
+Eching 12804
+Wechingen 1416
+Happurg 3779
+Purgen 3186
+Bergen 4731
 
-Stein 13902
+Stadtbergen 14705
 
-Wendelstein 16220
-
-Feucht 13482
-Schwarzenbruck 8690
-
-Schwabach 38554
-Rednitzhembach 7034
-Kodnitz 1694
-Koditz 2721
-Feilitzsch 2932
-Trogen 1636
-Bogen 10259
-Roggenburg 2642
-Burggen 1686
-Ingenried 812
-Friesenried 1523
-Irsee 1345
-Hirschbach 1299
-Hirschau 6258
-Schirmitz 2120
-
-Weiden 42550
-Weidenbach 2276
-Weiding 2472
-Runding 2336
-
-Roding 11406
-Posing 969
-Moosinning 5166
-Hallbergmoos 8074
+Augsburg 259196
 
 Moosburg 17363
 Wang 2284
-Volkenschwand 1634
-Obersussbach 1682
-Massbach 4819
-Rannungen 1209
-Nudlingen 4273
+Horgertshausen 1944
+Mauern 2752
+Auerbach 9089
+Vorbach 1052
+Speichersdorf 6284
+Ebersdorf 6378
+Seubersdorf 5035
+Malgersdorf 1198
+Salgen 1459
+Hawangen 1237
+Durrwangen 2673
 
-Bad Kissingen 21328
+Feuchtwangen 12267
 
-Kissing 11150
-Dasing 5321
-Obergriesbach 2050
+Feucht 13482
 
-Friedberg 29189
-Ried 2987
-Rieden 2983
-Niederrieden 1340
-Oberrieden 1247
-Pfaffenhausen 2429
-Tussenhausen 2921
-Hausen 3625
-Auhausen 1107
+Wendelstein 16220
 
-Gunzenhausen 16477
-Muhr am See 2155
-Haundorf 2751
-Bundorf 972
-Hofheim in Unterfranken 5199
-Thundorf in Unterfranken 1202
-
-Alzenau in Unterfranken 18932
-Blankenbach 1683
-Schollkrippen 3868
-Ippesheim 1125
-Alesheim 1003
-Markt Berolzheim 1370
-Gnotzheim 878
-Kolitzheim 5602
-Sulzheim 2014
-Gerolzhofen 6781
-Dingolshausen 1256
-Waigolshausen 2931
-Werneck 10673
-Niederwerrn 7974
-Geldersheim 2598
-Euerbach 3158
-Euerdorf 1632
-Sulzthal 944
-Ramsthal 1212
-Wilhelmsthal 4123
-Wilhelmsdorf 1269
-Rattelsdorf 4550
-Grattersdorf 1424
-Mainstockheim 1834
-Heidenheim 2589
-Weigenheim 978
-Hettenshausen 1935
-Kettershausen 1753
-Ebershausen 618
+Stein 13902
+Steinach 2938
+Untersteinach 1989
+Untersiemau 4208
+Genderkingen 1147
+Kirchham 2435
+Kirchhaslach 1283
+Kirchheim 2563
+Eppishausen 1822
 Aletshausen 1140
+Ebershausen 618
+Kettershausen 1753
+Babenhausen 5342
 Deisenhausen 1533
 Ichenhausen 8499
 Thannhausen 6336
 Balzhausen 1262
-Munsterhausen 2067
-Munster 1078
+Aichen 1171
 Walkertshofen 1120
 Gessertshausen 4424
-Hebertshausen 5121
-Petershausen 5965
-Allershausen 4734
-Kirchdorf 2652
-Kirchdorf am Inn 5366
-Simbach am Inn 9979
-Simbach 3672
-Reisbach 7610
-Reischach 2581
-Perach 1225
-Erlbach 1239
-Julbach 2317
-Oberthulba 5151
-Aura an der Saale 862
+Zusmarshausen 6384
+Oberottmarshausen 1648
+Kleinaitingen 1428
+Grossaitingen 4747
+Untermeitingen 6415
+Obermeitingen 1600
 
-Bad Neustadt an der Saale 16064
-Saal an der Saale 1595
-Wulfershausen 1469
-Elfershausen 3005
-Ermershausen 621
-Westheim 1215
-Ziertheim 1011
-Tagmersheim 1083
-Hochstadt bei Thiersheim 1225
-Holzheim bei Oder 989
-Holzgunz 1170
-Gundelsheim 3292
-Gundelfingen 7889
-Offingen 4099
-Marktoffingen 1382
-Leupoldsgrun 1382
-Geroldsgrun 3189
-Bad Steben 3640
-Obere Zeitelwaidt 2
-Untere Zeitelwaidt 13
-Krotenmuhle 9
-Haidmuhle 1488
-Schmidmuhlen 2481
-Schmidgaden 2881
-Stulln 1683
-Kollnburg 2934
-Schollnach 5120
-Breitbrunn 1423
-Breitenbrunn 3506
+Meitingen 11201
+Wertingen 8958
+Mertingen 3748
+Ehingen 1022
+Nordendorf 2274
+Altendorf 2017
+Weigendorf 1292
+Weigenheim 978
+Heidenheim 2589
+Hafenlohr 1846
+Hettenshausen 1935
+Mainstockheim 1834
+Stockelsberg 560
+Stetten 1365
+Pastetten 2281
+
+Vaterstetten 21007
+
+Haar 17560
+Haarbach 2604
+Rossbach 2944
+Aldersbach 4293
+Beutelsbach 1088
+Bad Griesbach 8431
+Bad Birnbach 5533
+Aidenbach 3038
+Weidenbach 2276
+Reichenbach 1178
+Walderbach 2087
+Wald 2787
+Bernhardswald 5596
+Tegernheim 4439
+Donaustauf 3745
+
+Regenstauf 14999
+
+Regensburg 129151
+
+Regen 12296
+Strasskirchen 3348
+Emskirchen 6197
+Trautskirchen 1348
+Geratskirchen 825
+Ronsberg 1675
+Wackersberg 3463
+Wackersdorf 4900
 Ensdorf 2275
 Ebermannsdorf 2524
 Ebermannstadt 6864
@@ -400,213 +318,742 @@ Sulzfeld 1808
 Sulzfeld am Main 1293
 
 Kitzingen 21387
-Otzing 1956
-Kunzing 3262
-Winzer 3964
-Aussernzell 1423
-Innernzell 1722
-Obernzell 3843
-Furstenzell 7719
-Furstenstein 3459
-Fursteneck 1058
-Rohrnbach 4579
-Rohr 3372
-Rohrbach 6015
-Wolnzach 10973
-Gunzach 1522
-Obergunzburg 6424
+Lutzingen 986
+Steinsfeld 1308
+Winterhausen 1558
+Munsterhausen 2067
+Munster 1078
+Ilmmunster 2204
+Altomunster 7275
+Ruppertskirchen 30
+Walpertskirchen 1960
+Oberostendorf 1268
+Westendorf 1825
+Sommerkahl 1222
+Pforzen 2130
+Gerzen 1864
+Osterzell 688
+Gollhofen 870
+Stadelhofen 1264
+Buchhofen 971
+Sonderhofen 826
+Linderhof 400
+Lauterhofen 3773
 
-Gunzburg 19737
-Burgau 9576
-Horgau 2459
-Rommelsried 650
-Adelsried 2240
-Heretsried 1047
+Osterhofen 11870
 
-Geretsried 23364
-Eurasburg 4397
+Vilshofen 16695
+Reut 1793
+Kreut 3889
+Konigsdorf 2923
+Konigstein 1761
+Hartenstein 1534
+Pottenstein 5501
+Gossweinstein 4147
+Egloffstein 2105
+Marloffstein 1612
+Spardorf 1953
+Hessdorf 3419
+Baiersdorf 7071
+Langensendelbach 2837
 
-Regensburg 129151
+Erlangen 102675
+Langenzenn 10629
+Neuhof an der Zenn 2091
 
-Regenstauf 14999
-Donaustauf 3745
-Worth an der Donau 4524
-Worth an der Isar 2400
+Neustadt an der Aisch 12448
 
-Schwarzenbach an der Saale 11375
-Oberkotzau 5920
-Oberhaid 4680
-Oberhausen 2558
-Ungerhausen 1056
-Aufhausen 1767
-Jettenbach 755
-Rettenbach 1841
-Konzell 1810
-Inzell 4320
-Ruhpolding 6419
-Piding 5259
+Hochstadt an der Aisch 13418
+Hiltenfingen 1541
+Gremsdorf 1541
+Frensdorf 4827
+Pettstadt 1886
+Hallstadt 8485
+Grosswallstadt 4081
+Kleinwallstadt 5816
+Kleinostheim 8409
 
-Bad Reichenhall 16910
-Bayerisch Gmain 2940
-Ainring 10028
+Grossostheim 16346
+Niedernberg 4793
+Sulzbach am Main 7057
+Obernburg am Main 8853
+Klingenberg am Main 6294
+Worth am Main 4983
+Erlenbach am Main 10208
+Stockstadt am Main 7663
+Mainaschaff 8382
 
-Freilassing 15909
-Massing 4144
-Thalmassing 5442
-Sengenthal 2633
-Engelthal 1093
-Offenhausen 1616
-Pfeffenhausen 4770
+Aschaffenburg 68551
+Waldaschaff 4056
+Eschau 4129
+Monchberg 2530
+
+Munchberg 11557
+Wirsberg 2003
+Neuenmarkt 3145
+Marktleugast 3688
+Ludwigschorgast 998
+Trebgast 1704
+Himmelkron 3531
+Goldkronach 3711
+Warmensteinach 2379
+Bischofsgrun 2072
+Bischofsmais 3240
+Wildpoldsried 2501
+Ried 2987
+Rieden 2983
+Riedenberg 1090
+Bad Bruckenau 7304
+Bad Bocklet 4642
+
+Bad Kissingen 21328
+Nudlingen 4273
+
+Nordlingen 19492
+Reimlingen 1345
+Mottingen 2558
+Otting 819
+Daiting 807
+Buchdorf 1619
+Kaisheim 4344
+Huisheim 1663
+Harburg 5694
+Wasserburg 3238
+
+Wasserburg am Inn 12374
+Aschau am Inn 2907
+Kraiburg am Inn 4127
+
+Waldkraiburg 24676
+Biburg 1297
+
+Mainburg 13959
+Siegenburg 3376
+Rottenburg an der Laaber 7702
 Scheinfeld 4770
 Oberscheinfeld 1315
 Oberschwarzach 1425
 Schwarzach 2898
 Niederwinkling 2252
 Niederalteich 1895
-Niederaichbach 3602
-Kirchdorf im Wald 2176
-Buch am Wald 991
-Raitenbuch 1176
-Wiesentheid 4759
-Wiesent 2561
-Wiesen 1139
-Wiesthal 1445
-Stornstein 1445
-Thierstein 1278
-Thiersheim 2117
-Arzberg 6075
-Schirnding 1471
-Tschirn 621
-Schwaigen 621
-Reichenschwand 2295
-Oberreichenbach 1204
-Kraftisried 713
-Gorisried 1269
-Untrasried 1515
-Dietmannsried 8044
-Altusried 9950
-Wiggensbach 4656
-Iggensbach 2132
-Hohenwarth 2132
-Hohenburg 1725
-Hohenfels 2156
+Winzer 3964
+Inzell 4320
+Konzell 1810
+Rattiszell 1412
+Rattenberg 1841
+Rettenberg 4043
+Buchenberg 3898
+Buchenbach 5255
+Mitteleschenbach 1573
+Wolframs-Eschenbach 2911
+Haundorf 2751
+Bundorf 972
+Hofheim in Unterfranken 5199
+Thundorf in Unterfranken 1202
+Guttenberg 577
+Irlbach 1165
+Altenmunster 3846
+Postmunster 2405
+Ascha 1517
+Falkenfels 1001
+Falkenstein 3354
+Michelsneukirchen 1806
+Schorndorf 2554
+Traitsching 4074
+Zoschingen 743
+Schleching 1854
+Stadlern 634
+Hallerndorf 3928
+Oberndorf 2355
+Rain 8438
+Niederschonenfeld 1419
+Langenfeld 1022
 
 Burglengenfeld 12095
-Maxhutte-Haidhof 10674
-Waidhofen 2152
-Maierhofen 1582
-Hurlach 1582
-Lachen 1390
-Achslach 1089
-Drachselsried 2358
-Arnbruck 2048
-Bruck 1213
-Zandt 1875
-Landensberg 726
-Ronsberg 1675
-Wackersberg 3463
-Selbitz 4758
+Hohenfels 2156
+Hohenburg 1725
+Hohenbrunn 8590
+Hohenkirchen-Siegertsbrunn 9465
+Grasbrunn 5737
+Putzbrunn 5747
 
-Selb 17132
-Fichtelberg 2111
-Zell im Fichtelgebirge 2275
-Bad Berneck im Fichtelgebirge 4723
-Maihingen 1244
-Gesees 1244
-Wonsees 1219
-Wonfurt 1955
-Teisendorf 9019
-Rugendorf 1071
-Kunreuth 1411
-Willmars 707
-Villenbach 1283
-Hollenbach 2372
+Ottobrunn 19204
+Brunnthal 4628
+Sauerlach 5991
+Strasslach-Dingharting 2899
+Baierbrunn 2755
+Gerbrunn 6149
+Waldbrunn 2582
+Waldbuttelbrunn 5099
+Erlabrunn 1584
+Thungersheim 2726
+Thungen 1369
+Retzstadt 1622
+
+Karlstadt 15272
+Himmelstadt 1798
+Hettstadt 3780
+Helmstadt 2579
+Wilhelmsthal 4123
+Pressig 4277
+Presseck 2159
+Grafengehaig 1026
+Grafenberg 4105
+Offenberg 3364
+Metten 4335
+Mettenheim 3307
+Buttenheim 3242
+
+Hirschaid 11508
+Strullendorf 7926
+Litzendorf 6101
+Zapfendorf 5017
+Grafendorf 1459
+Bad Konigshofen im Grabfeld 7066
+Gaukonigshofen 2335
+Albertshofen 2094
+Iphofen 4413
+Pielenhofen 1315
+Markt Bibart 1978
+Markt Einersheim 1190
+Ergersheim 1169
+Dietersheim 2138
+Ipsheim 2162
+
+Bad Windsheim 12022
+Seinsheim 1102
+Hemmersheim 697
+Tauberrettersheim 839
+
+Rothenburg ob der Tauber 11106
+Neusitz 1990
+Gebsattel 1826
+Rattelsdorf 4550
+Wolfersdorf 2327
+Perasdorf 646
+Neuendorf 917
+Riederszell 50
+Sigmarszell 2641
+Weissensberg 2655
+Missen-Wilhams 1441
+Weitnau 5143
+Weitramsdorf 5183
+Ahorn 4624
+
+Coburg 41901
+
+Neustadt bei Coburg 16715
+Weidhausen bei Coburg 3331
+Schneckenlohe 1160
+Eckersdorf 5071
+Harsdorf 1076
+Petersdorf 1719
 Rollbach 1719
-Gachenbach 2320
-Unterneukirchen 2987
-Oberneukirchen 810
-Obertaufkirchen 2424
-Bodenkirchen 5442
-Roden 1089
-Velden 6488
-Welden 3614
+Kuhbach 3997
+Buchbach 3128
+Hirschbach 1299
+Leuchtenberg 1299
+Lichtenberg 1184
+Untere Zeitelwaidt 13
+Obere Zeitelwaidt 2
+Schnabelwaid 989
+Creussen 4871
 
-Eggenfelden 12860
-Hebertsfelden 3756
+Fussen 13893
+Schwangau 3505
+Hohenschwangau 1000
+Unterschwaningen 928
+Ofterschwang 2021
+Balderschwang 206
+Bolsterlang 1048
+Obermaiselstein 981
+Treffelstein 1033
+Bad Staffelstein 10618
 Ebensfeld 5721
 Konigsfeld 1372
 Hollfeld 5206
 Waischenfeld 3167
 Plankenfels 900
-Langenfeld 1022
-Nordendorf 2274
-Oberndorf 2355
-Asbach-Baumenheim 4346
-Mettenheim 3307
-Metten 4335
+Neudrossenfeld 3895
+Elsenfeld 8727
+Geisenfeld 9769
+Ernsgaden 1445
+Berchtesgaden 7655
+Bischofswiesen 7535
+Schonau am Konigssee 5319
+Bernau am Chiemsee 6645
+Prien am Chiemsee 10060
+Chiemsee 311
+Chieming 4503
+Aschau im Chiemgau 5410
+Grassau 6323
+Staudach-Egerndach 1172
+Rottach-Egern 5106
+Tegernsee 3770
+Gmund am Tegernsee 6086
+Waakirchen 5464
 
-Deggendorf 31081
-Duggendorf 1605
-Nittendorf 9226
-Rottendorf 5234
-Pettendorf 3268
-Neunburg vorm Wald 8172
-Wald 2787
-Walderbach 2087
-Reichenbach 1178
-Reichenberg 4004
-Kist 2547
-Raisting 2173
+Holzkirchen 15199
+Otterfing 4383
+Wallerfing 1388
+Wallersdorf 6702
+Otzing 1956
+Kunzing 3262
+Hofkirchen 3712
+Obertaufkirchen 2424
+Bodenkirchen 5442
+Steinkirchen 1185
+Tuchenbach 1185
+Hohenpolding 1410
+Ruhpolding 6419
+Piding 5259
 
-Peiting 12106
+Bad Reichenhall 16910
+Bayerisch Gmain 2940
+Bayerisch Eisenstein 1318
+Bodenmais 3362
+Bodenwohr 4025
+Grafenwohr 6790
+Grafenwiesen 1622
+Kotzting 7471
+Oberkotzau 5920
+Dohlau 4235
+Kirchlauter 1445
+Lauter 1141
+Lautertal 4150
+Meeder 4107
+Niederfullbach 1672
+Wollbach 1242
+Lupburg 2336
+Weissenohe 1080
+Todtenweis 1443
+Tettenweis 1702
+Kronburg 1736
+Stadtprozelten 1702
+Dorfprozelten 1911
+Miltenberg 9613
+Burgstadt 4342
+Wilburgstetten 2183
+Oberreute 1566
+Oberroth 824
+Unterroth 951
+Altenstadt 4790
+Kellmunz 1391
+Boos 1946
+Vorra 1810
+Woringen 1812
+Benningen 2118
+
+Memmingen 41135
+Gundremmingen 1502
+Memmingerberg 2579
+Osterberg 873
+Ramerberg 1346
+Amerang 3574
+Chamerau 2667
+
+Cham 17314
+Willmering 2193
+Waffenbrunn 1999
+Weissenbrunn 3110
+
+Kronach 18248
+Stadtsteinach 3563
+Steinbach 3522
+Oberschweinbach 1480
+Mammendorf 4540
+Geltendorf 5490
+Eresing 1709
+Windach 3449
+
+Lindau 24518
+Bodolz 3086
+Nonnenhorn 1570
+Stiefenhofen 1738
+
+Sonthofen 21285
+
+Gersthofen 20254
+Gablingen 4707
+Langweid 7653
+
+Weiden 42550
+Schirmitz 2120
+Dormitz 1966
+Neunkirchen am Brand 8243
+Kleinsendelbach 1542
+Esselbach 2018
+Karbach 1403
+Urspringen 1350
+Wehringen 2877
+
+Bobingen 16682
+Bobing 1694
+Rottenbuch 1771
+Rottenbach 4649
+Hemhofen 5322
+Ottenhofen 1720
+Dietenhofen 5709
+Grosshabersdorf 4274
+Heilsbronn 9374
+Veitsbronn 6194
+Pilsting 6194
+Atting 1716
+Roggenburg 2642
+Aholfing 1735
+Leiblfing 3919
+
+Dingolfing 18805
+Gottfrieding 2160
+Greding 7238
+Zorneding 8581
+Kirchseeon 9174
+Seeon-Seebruck 4513
+Pittenhart 1614
+Dittenheim 1786
+Allmannshofen 828
+Wittelshofen 1274
+Worth an der Isar 2400
+
+Schwarzenbach an der Saale 11375
+Schwarzenbach 1129
+Gstadt am Chiemsee 1355
+Wipfeld 1126
+Apfeldorf 1056
+Vilgertshofen 2445
+Waidhofen 2152
+Maierhofen 1582
+Hurlach 1582
+Lamerdingen 1872
+Ettringen 3372
+Turkheim 6632
+Erkheim 3046
+Sontheim 2490
+Ottobeuren 8095
+Bernbeuren 2240
+Bonstetten 1225
+Aystetten 3026
+Adelsried 2240
+Rommelsried 650
+Heretsried 1047
+
+Geretsried 23364
+Eurasburg 4397
+Munsing 4047
+Finsing 4068
+Pliening 4812
+Forstinning 3473
+Moosinning 5166
+Hallbergmoos 8074
+Kohlberg 1270
+
+Amberg 44737
+
+Bamberg 70047
+Colmberg 2142
+Lehrberg 3104
+Arberg 2247
+Absberg 1336
+Abenberg 5484
+Stubenberg 1503
+Ering 1885
+Mehring 2242
+Winhoring 4917
+Steinhoring 3759
+
+Ebersberg 11041
+
+Grafing bei Munchen 12497
+Pfaffing 3782
+Eiselfing 2956
+Halfing 2754
+Ustersbach 1214
+Oberleichtersbach 2077
+Westerheim 2077
+Ederheim 1146
+Forheim 603
+Alerheim 1708
+Deiningen 2070
+Munningen 1821
+Finningen 1681
+Schwenningen 1478
+Bissingen 3605
+Modingen 1353
+Amerdingen 861
+
+Lauingen 11029
+Durrlauingen 1710
+Offingen 4099
+Gundelfingen 7889
+Aislingen 1455
+Wittislingen 2360
+
+Dillingen an der Donau 18734
+Hochstadt an der Donau 6795
+Blindheim 1693
+Burgwindheim 1465
+Geiselwind 2412
+Abtswind 785
+Rudenhausen 852
+Offenhausen 1616
+Pfaffenhausen 2429
+Tussenhausen 2921
+Markt Wald 2359
+Markt Erlbach 5716
+Erlbach 1239
+Julbach 2317
+Kirchdorf am Inn 5366
+Simbach am Inn 9979
+Simbach 3672
+Reisbach 7610
+Marklkofen 3818
+Gangkofen 6638
+Egglkofen 1279
+Adlkofen 3934
+Mengkofen 5695
+Pfakofen 1531
+Kofering 2329
+Alteglofsheim 3187
+Bischofsheim an der Rhon 5181
+Ostheim vor der Rhon 3729
+Bastheim 2689
+Oberstreu 1689
+Heustreu 1287
+
+Bad Neustadt an der Saale 16064
+Saal an der Saale 1595
+Aura an der Saale 862
+Euerdorf 1632
+Euerbach 3158
+Geldersheim 2598
+Gochsheim 6495
+Gelchsheim 848
+Oberickelsheim 713
+Gundelsheim 3292
+Prosselsheim 1213
+Oberpleichfeld 1051
+Unterpleichfeld 2718
+Guntersleben 4472
+Rimpar 7718
+Schondra 1855
+Schondorf am Ammersee 3877
+Utting am Ammersee 3983
+Herrsching am Ammersee 10000
+Diessen am Ammersee 10050
+Unterdiessen 1323
+Waal 2152
+Jengen 2433
+Sengenthal 2633
+Engelthal 1093
+Henfenfeld 1926
+Estenfeld 4907
+
+Furstenfeldbruck 33533
+Turkenfeld 3397
+Greifenberg 2024
+Zachenberg 2173
 
 Peissenberg 12695
 Hohenpeissenberg 3924
-Zachenberg 2173
-Diessen am Ammersee 10050
-Utting am Ammersee 3983
-Schondorf am Ammersee 3877
-Herrsching am Ammersee 10000
-Andechs 3181
-Flachslanden 2559
-Rugland 1258
-Unterleinleiter 1258
-Unterreit 1673
-Winterhausen 1558
-Steinsfeld 1308
-Lutzingen 986
-Tutzing 9517
+Gleissenberg 955
+Weiding 2472
+Runding 2336
 
-Gauting 19216
-Mauth 2566
-Hinterschmiding 2578
-Grainet 2425
-Rain 8438
-Aindling 4451
-Rehling 2381
-Gablingen 4707
+Roding 11406
+Posing 969
+Stamsried 2276
+Pemfling 2267
+Schaufling 1494
+Fladungen 2337
+Hendungen 1015
+Rofingen 1179
+Gerolfingen 1066
+Rockingen 789
 
-Gersthofen 20254
+Pocking 14646
+Chostlarn 1941
+Zeilarn 2291
+Tann 4039
+Tannesberg 1536
+Rodelsee 1536
+Rodelmaier 947
+Hollstadt 1688
+Aubstadt 781
+Grosseibstadt 1199
+Grossbardorf 1006
+Massbach 4819
+Rannungen 1209
+Schonungen 8230
+Siegsdorf 8230
+Donnersdorf 1938
+Lonnerstadt 1919
+Munnerstadt 7987
+Burglauer 1658
+Niederlauer 1801
+Niederrieden 1340
+Oberrieden 1247
+Herrieden 7751
+Burgoberbach 3391
+Biberbach 3492
+Zellingen 6365
+Alling 3286
+Krailling 7528
+Wessling 5172
+Assling 4288
+Eschenlohe 1647
+Schechen 4430
+Irschenberg 3079
 
-Sonthofen 21285
-Stiefenhofen 1738
-Grunenbach 1364
-Opfenbach 2260
-Hergensweiler 1723
-Weiler-Simmerberg 6510
-Weissensberg 2655
-Sigmarszell 2641
-Riederszell 50
-Neuendorf 917
-Perasdorf 646
-Wolfersdorf 2327
-Wolferstadt 1113
-Schonthal 2037
-Unsleben 996
-Simmershofen 996
-Waldershof 4634
+Bruckmuhl 15851
+Vagen 1792
+Hagenbuchach 1251
+Landensberg 726
 
-Marktredwitz 18204
+Abensberg 12570
+
+Neustadt an der Donau 12899
+Vohburg an der Donau 7101
+
+Neuburg an der Donau 28370
+Rohrenfels 1489
+Rothenfels 1088
+Buch am Wald 991
+Kirchdorf im Wald 2176
+Niederaichbach 3602
+Wiedergeltingen 1377
+Weiltingen 1433
+Weil 3664
+
+Weilheim 21401
+Theilheim 2337
+Randersacker 3459
+Emersacker 1435
+Laugna 1583
+Zusamaltheim 1290
+Hohenaltheim 629
+Langenaltheim 2450
+Solnhofen 1817
+Rogling 669
+Egling 5061
+Reichertshausen 4986
+
+Wolfratshausen 17191
+Icking 3586
+Schaftlarn 5281
+Zeitlarn 5849
+Zeitlofs 2228
+Fuchsstadt 1819
+Ludwigsstadt 3790
+Tettau 2516
+Ettal 814
+Farchant 3722
+Kirchanschoring 2980
+Mantel 2951
+Villenbach 1283
+Sommerach 1432
+Sommerhausen 1664
+Bad Kohlgrub 2416
+Saulgrub 1664
+Grub 3129
+Nagel 1941
+Hagelstadt 1852
+Eibelstadt 2907
+Giebelstadt 4379
+Biebelried 1183
+Rottendorf 5234
+Pettendorf 3268
+Neunburg vorm Wald 8172
+Furth im Wald 9480
+Waldmunchen 7392
+
+Schwabmunchen 13232
+Graben 3250
+Grabenstatt 4152
+Eggstatt 2809
+Griesstatt 2485
+Vogtareuth 3045
+Sochtenau 2616
+Lichtenau 3741
+Weihmichl 2479
+Bichl 2007
+Benediktbeuern 3437
+Reichersbeuern 2142
+Schauenstein 2142
+Greiling 1369
+
+Freilassing 15909
+Ainring 10028
+Kleinrinderfeld 2094
+Kist 2547
+Maitenbeth 1868
+Raitenbuch 1176
+Wiesentheid 4759
+Wiesenthau 1711
+Pinzberg 1938
+
+Penzberg 16079
+Arzberg 6075
+Leonberg 1051
+Berg 7472
+Windischeschenbach 5659
+Krummennaab 1675
+Neustadt an der Waldnaab 6153
+Puchersreuth 1667
+Floss 3534
+Flossenburg 1747
+Eisenburg 1502
+Ortenburg 7317
+Saldenburg 2040
+Thurmansbang 2458
+Hutthurm 5950
+Buchlberg 3984
+Witzmannsberg 1742
+Salzweg 6805
+Salz 2311
+Neubrunn 2311
+Brunnen 1609
+
+Konigsbrunn 27494
+
+Kissing 11150
+Dasing 5321
+Essing 1002
+Rentweinsdorf 1637
+Walsdorf 2541
+Adelsdorf 7245
+Wilhermsdorf 5105
+Wilhelmsdorf 1269
+Hohenfurch 1512
+Hohenberg an der Eger 1567
+
+Trostberg an der Alz 11676
+Garching an der Alz 8796
+Burgkirchen an der Alz 10756
+Niederbergkirchen 1227
+Neumarkt-Sankt Veit 6231
+
+Neumarkt in der Oberpfalz 39557
+Bruck in der Oberpfalz 4510
+Nittenau 8478
+Nittendorf 9226
+Duggendorf 1605
+Wolfsegg 1506
+Kallmunz 2895
+Rotthalmunster 5115
+Bad Fussing 6701
+Neuhaus am Inn 3398
+Neuhaus an der Pegnitz 2974
+
+Pegnitz 14279
+Segnitz 846
+Trausnitz 1021
+Zangberg 1021
+Lohberg 2151
+Hochberg 9372
+Veitshochheim 10279
+Margetshochheim 3256
+Zell am Main 4035
+Hochstadt am Main 1702
 Redwitz an der Rodach 3392
 Marktrodach 4007
 Marktgraitz 1331
@@ -614,632 +1061,168 @@ Marktl 2654
 Marktleuthen 3673
 Unterammergau 1435
 Oberammergau 5344
-Sommerhausen 1664
-Sommerach 1432
-Sommerkahl 1222
-Pforzen 2130
-Gerzen 1864
-Schalkham 898
-Aham 1957
-Hohenpolding 1410
-
-Ergolding 11438
-Stetten 1365
-Scherstetten 1008
-Mittelneufnach 1058
-Langenneufnach 1751
-Langenbach 3755
-
-Erlangen 102675
-Langensendelbach 2837
-Kleinsendelbach 1542
-Neunkirchen am Brand 8243
-Dormitz 1966
-Mitwitz 3076
-Schneckenlohe 1160
-Eschenlohe 1647
-Schechen 4430
-Irschenberg 3079
-
-Bruckmuhl 15851
-Vagen 1792
-Valley 2968
-Weyarn 3217
-Warngau 3600
-
-Holzkirchen 15199
-Waakirchen 5464
-Waldkirchen 10757
-Feldkirchen 5573
-
-Taufkirchen 17791
+Oberpframmern 2188
+Egmating 2008
+Aying 4040
+Glonn 4317
 Niedertaufkirchen 1333
-Kirchseeon 9174
-Seeon-Seebruck 4513
-Ubersee 4896
-Chiemsee 311
-Prien am Chiemsee 10060
-Bernau am Chiemsee 6645
-Aschau im Chiemgau 5410
-Chieming 4503
-Nussdorf 2475
-Nussdorf am Inn 2590
-Flintsbach 2870
+Lohkirchen 660
+Grattersdorf 1424
+Schlammersdorf 934
+Herrngiersdorf 1103
+Geroldshausen 1246
+Neukirchen-Balbini 1162
+Pfatter 3059
+Rugendorf 1071
+Teisendorf 9019
+Wonfurt 1955
 
-Miesbach 11354
-Hausham 8177
-Schliersee 6416
-Tegernsee 3770
-Gmund am Tegernsee 6086
-Rottach-Egern 5106
-Staudach-Egerndach 1172
-Grassau 6323
+Ochsenfurt 11492
+Sachsen 3349
+Flachslanden 2559
+Rugland 1258
 
-Passau 50560
-Neuburg 4313
-Ortenburg 7317
-Burtenbach 3323
-Jettingen-Scheppach 6865
-Rosshaupten 2189
-Seeshaupt 2862
-Seehausen am Staffelsee 2416
-
-Murnau am Staffelsee 11958
-Riegsee 1164
-Siegsdorf 8230
-Donnersdorf 1938
-Ebersdorf 6378
-
-Neustadt bei Coburg 16715
-
-Coburg 41901
-Weidhausen bei Coburg 3331
-Aidhausen 1934
-Waidhaus 2467
-Pleystein 2730
-Vohenstrauss 7550
-
-Traunstein 18422
-
-Traunreut 21244
-Palling 3416
-Polling 3465
-Tussling 3240
-Assling 4288
-Wessling 5172
-Alling 3286
-Krailling 7528
-Planegg 10510
-
-Grafelfing 12978
-Eiselfing 2956
-Halfing 2754
-Eglfing 933
-Huglfing 2476
+Landshut 60488
+Kumhausen 4812
+Geisenhausen 6367
+Eging 3876
+Toging am Inn 9392
+Waging am See 6291
+Taching am See 1937
+Muhr am See 2155
+Ornbau 1730
+Pornbach 1969
+Reichertshofen 7298
+Weichering 2244
 Obersochering 1454
 Kochel 4172
-Schlehdorf 1203
-Bichl 2007
-Benediktbeuern 3437
-Reichersbeuern 2142
-Reichertshausen 4986
-
-Wolfratshausen 17191
-Icking 3586
-
-Pocking 14646
-Ering 1885
-
-Mering 12820
-Scheuring 1794
-Neuried 7469
-Riedering 5315
-Stephanskirchen 9554
-Stephansposching 3080
-Mariaposching 1397
-Zoschingen 743
-Schleching 1854
-Stadlern 634
-Hallerndorf 3928
-Schorndorf 2554
-Traitsching 4074
-Train 1777
-Grainau 3674
-
-Garmisch-Partenkirchen 26022
-Farchant 3722
-Antdorf 1106
-Iffeldorf 2528
-Apfeldorf 1056
-Zapfendorf 5017
-Litzendorf 6101
-Schesslitz 7195
-Memmelsdorf 9001
-Kemmern 2639
-Emmering 6081
-
-Germering 36834
-
-Puchheim 19357
-Aschheim 6531
-
-Oberschleissheim 11290
-
-Unterschleissheim 25567
-Haimhausen 4680
-Fahrenzhausen 4466
-Paunzhausen 1533
-Rudelzhausen 3114
-Adelzhausen 1498
-Odelzhausen 4275
-Egenhofen 3252
-Hattenhofen 1415
-Adelshofen 1568
-Wittelshofen 1274
-
-Hof 49239
-Dohlau 4235
-Roslau 2402
-Trostau 2583
-Postau 1644
-Moosthenning 4700
-
-Dingolfing 18805
-Leiblfing 3919
-Aholfing 1735
-Gerolfingen 1066
-Rockingen 789
-Wassertrudingen 6245
-Fremdingen 2192
-Wemding 5669
-Polsingen 2042
-Bissingen 3605
-Tapfheim 4077
-Blindheim 1693
-Burgwindheim 1465
-Geiselwind 2412
-Abtswind 785
-Rudenhausen 852
-Castell 820
-Pastetten 2281
-
-Vaterstetten 21007
-
-Haar 17560
-Haag 959
-Haag in Oberbayern 6218
-
-Wasserburg am Inn 12374
-Aschau am Inn 2907
-Kraiburg am Inn 4127
-
-Waldkraiburg 24676
-Ampfing 6188
-Neufahrn 3899
-Laufach 5354
-Sailauf 3811
-Naila 8441
-Zeilarn 2291
-Chostlarn 1941
-Zeitlarn 5849
-
-Lappersdorf 12744
-Petersdorf 1719
-Patersdorf 1822
-Teisnach 2962
-Bayerisch Eisenstein 1318
-Bodenmais 3362
-Bodenwohr 4025
-Bruck in der Oberpfalz 4510
-
-Neumarkt in der Oberpfalz 39557
-Pilsach 2659
-Pilsting 6194
-
-Landau an der Isar 12997
-Veitsbronn 6194
-Heilsbronn 9374
-Petersaurach 5116
-Neuendettelsau 7836
-Dettelbach 6888
-Esselbach 2018
+Michelau 6839
+Obermichelbach 2970
 Haselbach 1683
 Ruderting 3074
-Hutthurm 5950
-Thurmansbang 2458
-Witzmannsberg 1742
-Salzweg 6805
-Wegscheid 5817
-Scheidegg 4198
-Schwindegg 3501
-Tiefenbach 3501
-Buchbach 3128
-Buch 3709
-Surberg 3176
-Arberg 2247
-Lehrberg 3104
-Colmberg 2142
-
-Amberg 44737
-
-Bamberg 70047
-Hallstadt 8485
-Pettstadt 1886
-Strullendorf 7926
-
-Hirschaid 11508
-Buttenheim 3242
-Dittenheim 1786
-Allmannshofen 828
-Weiltingen 1433
-Wiedergeltingen 1377
-Marktzeuln 1803
-Kasendorf 2602
-Gattendorf 1217
-Wattendorf 694
-Winterbach 808
-Zenting 1179
-Laberweinting 3463
-Mintraching 4668
-Sunching 1934
-
-Manching 11239
-Leipheim 6822
-Megesheim 900
-Herbstadt 652
-Toging am Inn 9392
-Hohenaltheim 629
-Hohenschwangau 1000
-Unterschwaningen 928
-Ofterschwang 2021
-Balderschwang 206
-Bolsterlang 1048
-Obermaiselstein 981
-Oberstdorf 9788
-Oberstaufen 7190
-Laufen 6869
-Fridolfing 4133
-Tittmoning 6084
-Tittling 3800
-
-Plattling 12390
-Lalling 1589
-Hunding 1238
+Tacherting 5704
+Engelsberg 2801
+Trunkelsberg 1810
 Amendingen 3724
+Steinheim 2878
+Meinheim 928
+Fellen 928
+Bellenberg 4607
 
-Memmingen 41135
-Gundremmingen 1502
-Benningen 2118
-Woringen 1812
-Winhoring 4917
-Mehring 2242
-
-Burghausen 18263
-Haiming 2516
-Thaining 908
-Hainsfarth 1486
-Insingen 1144
-Finsing 4068
-Pliening 4812
-Forstinning 3473
-Markt Schwaben 10857
-
-Poing 11592
-Loiching 3506
-Glattbach 3506
-Bach 1759
-Dieterskirchen 1082
-Mitterskirchen 2078
-Wurmannsquick 3710
-Tann 4039
-Tannesberg 1536
-Rodelsee 1536
-Grosslangheim 1536
-Kleinlangheim 1691
-Seinsheim 1102
-Markt Einersheim 1190
-Markt Bibart 1978
-Markt Taschendorf 1075
-Markt Indersdorf 9263
-Weichs 3123
-
-Eichstatt 13125
-Weichering 2244
-Reichertshofen 7298
-Baar-Ebenhausen 4862
-
-Schrobenhausen 16143
-Langenmosen 1496
-Ehekirchen 3782
-Pottmes 6315
-Oberottmarshausen 1648
-Kleinaitingen 1428
-Grossaitingen 4747
-Obermeitingen 1600
-Untermeitingen 6415
-Klosterlechfeld 2351
-Unterpleichfeld 2718
-Oberpleichfeld 1051
-Bergtheim 3460
-Theilheim 2337
-
-Weilheim 21401
-Pahl 2377
-Kleinkahl 1849
-Kleinostheim 8409
-
-Grossostheim 16346
-Grosswallstadt 4081
-Kleinwallstadt 5816
-Elsenfeld 8727
-Obernburg am Main 8853
-Erlenbach am Main 10208
-Worth am Main 4983
-Klingenberg am Main 6294
-Sulzbach am Main 7057
-Stockstadt am Main 7663
-Hochstadt am Main 1702
-
-Hochstadt an der Aisch 13418
-
-Neustadt an der Aisch 12448
-Neuhof an der Zenn 2091
-Langenzenn 10629
-Obernzenn 2679
-Oberdachstetten 1720
-Gutenstetten 1393
-Heiligenstadt 3690
-Altenstadt 4790
-Altenkunstadt 5608
-Burgkunstadt 6991
-Stadtsteinach 3563
-Steinbach 3522
-Marktleugast 3688
-Neuenmarkt 3145
-Markt Rettenbach 3688
-Markt Erlbach 5716
-Markt Wald 2359
-Eppishausen 1822
-Kirchheim 2563
-Kirchhaslach 1283
-Kirchham 2435
-Genderkingen 1147
+Vohringen 13207
 
 Senden 22275
 
-Vohringen 13207
-Wehringen 2877
-
-Bobingen 16682
-Bobing 1694
-Bidingen 1738
-Stottwang 1847
-Stotten am Auerberg 1856
-Mauerstetten 2922
-
-Kaufbeuren 42505
-Bernbeuren 2240
-Ottobeuren 8095
-Wolfertschwenden 1852
-Bohen 681
-Hohenthann 3741
-Altenthann 1607
-Bernhardswald 5596
-Tegernheim 4439
-Alteglofsheim 3187
-Egloffstein 2105
-Marloffstein 1612
-Spardorf 1953
-Buckenhof 3296
-Uttenreuth 4545
-Bubenreuth 4516
-Kalchreuth 3031
-Heroldsberg 7429
-Heroldsbach 5058
-Baiersdorf 7071
-Hessdorf 3419
-Gremsdorf 1541
-Frensdorf 4827
-Igensdorf 4645
-Grafenberg 4105
-Hiltpoltstein 1601
-Gossweinstein 4147
-Grossweil 1409
-Hagenbuchach 1251
-Karlskron 4661
-
-Karlsfeld 17920
-Edelsfeld 2012
-Alfeld 1168
-Weigendorf 1292
-Altendorf 2017
-Geltendorf 5490
-Turkenfeld 3397
-Greifenberg 2024
-Breitenberg 2163
-
-Hauzenberg 12522
-Abenberg 5484
-Georgensgmund 6582
-Sandberg 2890
-Lindberg 2355
-Zwiesel 10327
-Frauenau 2966
-Fraueneuharting 1416
-Erharting 932
-
-Muhldorf 17622
-Muhlhausen 1723
-Pommersfelden 2874
-Kiefersfelden 6912
-Oberaudorf 4756
-Oberostendorf 1268
-Pirk 1960
-Walpertskirchen 1960
-Ruppertskirchen 30
-Altomunster 7275
-Ilmmunster 2204
-Scheyern 4450
-
-Schwandorf in Bayern 28235
-Wackersdorf 4900
-Eckersdorf 5071
-Harsdorf 1076
-Trebgast 1704
-Ludwigschorgast 998
-Ludwigsstadt 3790
-Tettau 2516
-Ettal 814
-Rosstal 10052
-Grosshabersdorf 4274
-Grossheubach 5126
-Kleinheubach 3436
-Leidersbach 4997
-
-Hosbach 13203
-Goldbach 10044
-Ergoldsbach 7482
-Bayerbach 1733
-
-Essenbach 11070
-Weissdorf 1382
-Stallwang 1382
-Etzelwang 1562
-Illschwang 2091
-Schwangau 3505
-Lengenwang 1375
-Haldenwang 3634
-Lauben 3274
-Stubenberg 1503
-Rotthalmunster 5115
-Bad Fussing 6701
-Bad Griesbach 8431
-Bad Birnbach 5533
-Aidenbach 3038
-Bad Wiessee 4293
-
-Bad Windsheim 12022
-Ipsheim 2162
-Sugenheim 2388
-Uffenheim 6542
-Riedenheim 787
-Gelchsheim 848
-Oberickelsheim 713
-Obernbreit 1829
-Marktbreit 3700
-Marktbergel 1687
-
-Stadtbergen 14705
-
-Augsburg 259196
-Diedorf 10006
-
-Dorfen 13487
-Grafendorf 1459
-Bad Konigshofen im Grabfeld 7066
-Gaukonigshofen 2335
-Albertshofen 2094
-Iphofen 4413
-Pielenhofen 1315
-Attenhofen 1352
-Baisweil 1352
-Weil 3664
-Kaufering 9820
-Penzing 3707
-Schwifting 871
-Purgen 3186
-Happurg 3779
-Pappenheim 4476
-Monheim 4950
-Riekofen 819
-Kofering 2329
-Pfakofen 1531
-Mengkofen 5695
-Weng 1389
-Wenzenbach 8101
-Schwarzenbach 1129
-Schwarzenfeld 6398
-Schwarzhofen 1496
-Niedermurach 1356
-Oberviechtach 5022
-Bechtsrieth 1096
-Etzenricht 1672
-Poppenricht 3319
-Poppenhausen 4119
-Rutschenhausen 200
-Wasserlosen 3524
-Wasserburg 3238
-Bubesheim 1414
+Neu-Ulm 51389
+Nersingen 9177
+Pfaffenhofen an der Roth 7158
+Rieden an der Kotz 3213
+Bachingen an der Brenz 1320
 Haunsheim 1599
-Wittislingen 2360
-Aislingen 1455
-Glott 1135
-Glonn 4317
-Lonnerstadt 1919
-Uehlfeld 2908
-Schlusselfeld 5848
-Burghaslach 2514
-Burgebrach 6412
-Stegaurach 6804
-Gerach 1020
-Baunach 3998
+Bubesheim 1414
+Ippesheim 1125
+Sparneck 1802
+Guteneck 905
+Fursteneck 1058
+Furstenstein 3459
+Furstenzell 7719
+Obernzell 3843
+Aussernzell 1423
+Innernzell 1722
+Eppenschlag 952
+Volkenschwand 1634
+Obersussbach 1682
 Breitengussbach 4643
 Ebelsbach 3946
 Eltmann 5614
 Emtmannsberg 1146
-Forheim 603
-Ederheim 1146
-Alerheim 1708
-Westerheim 2077
-Nordhalben 2077
-Nordheim 1012
-Markt Nordheim 1182
-Schwaig 8340
-Lohberg 2151
-Kirchberg 4279
-Hochberg 9372
-Veitshochheim 10279
-Margetshochheim 3256
-Hochheim 1295
-Schwabsoien 1344
-Schwabhausen 5911
-Hilgertshausen-Tandern 3258
-Horgertshausen 1944
-Mauern 2752
-Berglern 2423
-Eitting 2238
-Oberding 5101
+Wartmannsroth 2313
 
-Erding 33519
-Stammham 3487
-Stammbach 2623
-
-Kulmbach 27565
-Kulmain 2452
-Plossberg 3531
-Brand 1206
-Bad Alexandersbad 1188
+Hammelburg 12004
+Velburg 5373
+Parsberg 6772
+Ursberg 3579
+Bayersried 640
+Bayerbach 1733
+Postau 1644
+Trostau 2583
 Wunsiedel 10295
 Friedenfels 1352
-Krummennaab 1675
-Neustadt an der Waldnaab 6153
+Fuchsmuhl 1774
+Pechbrunn 1493
+Mitterteich 7252
+Mitterfels 2405
+Mitterskirchen 2078
+Dieterskirchen 1082
+Bach 1759
+Habach 1116
 
-Neustadt an der Donau 12899
-Vohburg an der Donau 7101
+Ansbach 31839
+Windsbach 6235
+Ergoldsbach 7482
+Mallersdorf-Pfaffenberg 6742
+Laberweinting 3463
+Zenting 1179
+Salching 2532
+Malching 1285
 
-Neuburg an der Donau 28370
-Rohrenfels 1489
-Ohrenbach 663
-Kirchehrenbach 2304
-Lauterhofen 3773
-Sonderhofen 826
-Linderhof 400
-Waltenhausen 726
-Spatzenhausen 820
-Essing 1002
-Rentweinsdorf 1637
-Walsdorf 2541
-Inning am Ammersee 4111
+Olching 23978
+
+Gilching 16859
+
+Puchheim 19357
+
+Germering 36834
+Emmering 6081
+Kottgeisering 1488
+Grafrath 3630
+Worthsee 4589
+Worth 4559
+
+Donauworth 18364
+Worth an der Donau 4524
+Brennberg 1834
+Altenthann 1607
+Hohenthann 3741
+
+Burgthann 11567
+Leinburg 6446
+
+Rothenbach an der Pegnitz 12224
+
+Lauf an der Pegnitz 26403
+Ruckersdorf 4518
+Igensdorf 4645
+Hiltpoltstein 1601
+Obertrubach 2185
+Obertraubling 7037
+
+Neutraubling 12620
+Barbing 4776
+Obing 3938
+Kienberg 1320
+Schonberg 964
+Schonstett 1214
+Schonsee 2720
+Eslarn 3117
+Winklarn 1473
+Reit im Winkl 2584
+Weissenstadt 3545
+Unterwossen 3545
+Marquartstein 3125
+
+Traunstein 18422
+
+Traunreut 21244
+Kunreuth 1411
+Willmars 707
+Sankt Englmar 1568
+Sankt Wolfgang 4102
+Isen 5222
+Buch am Buchrain 1355
+Buch 3709
+Surberg 3176
+Hetzles 1286
 Schnaitsee 3571
 Schnaittach 8238
 Schnaittenbach 4375
@@ -1247,817 +1230,834 @@ Gebenbach 923
 Hahnbach 5257
 
 Sulzbach-Rosenberg 20780
+Poppenricht 3319
+Etzenricht 1672
+Weiherhammer 4036
+Weihenzell 2829
+
+Grobenzell 19110
+
+Schrobenhausen 16143
+Baar-Ebenhausen 4862
+Rohrbach 6015
+Wolnzach 10973
+Au in der Hallertau 5427
+Haag an der Amper 2909
+Zolling 4029
+Marzling 2899
+Lalling 1589
+Hunding 1238
+Kirchberg 4279
+Bischberg 5819
+Viereth-Trunstadt 3684
+Burgkunstadt 6991
+Altenkunstadt 5608
+Weismain 4840
+Mainleus 6836
+
+Kulmbach 27565
+Stammbach 2623
+Stammham 3487
+Oberding 5101
+
+Erding 33519
+Bockhorn 3425
+Fraunberg 3236
+Wartenberg 4548
+Berglern 2423
+Eitting 2238
+Petting 2346
+Sankt Leonhard am Wonneberg 1443
+Nussdorf 2475
+Nussdorf am Inn 2590
+Flintsbach 2870
+
+Miesbach 11354
+Hausham 8177
+Schliersee 6416
+Ubersee 4896
+Irsee 1345
+Eggenthal 1299
+Hartenthal 42
+Breitenthal 1293
+Breitenberg 2163
+
+Hauzenberg 12522
+Untergriesbach 6294
+Obergriesbach 2050
+
+Aichach 21042
+Schiltberg 1824
+Schillingsfurst 2847
+Diebach 1171
+Ohrenbach 663
+Kirchehrenbach 2304
+Kirchensittenbach 2238
+Rettenbach 1841
+Prackenbach 2688
+Blankenbach 1683
+Schollkrippen 3868
+Kleinkahl 1849
+Heinrichsthal 918
+Heigenbrucken 2417
+Laufach 5354
+Sailauf 3811
+Naila 8441
+Bad Steben 3640
+Unsleben 996
+Simmershofen 996
+Waldershof 4634
+Thiersheim 2117
+Schirnding 1471
+Tschirn 621
+Sulzdorf 1287
 Sulzberg 4587
 Burgberg 3124
 Burgbernheim 3055
-Mainbernheim 2294
-Geroda 941
+Uffenheim 6542
+Sugenheim 2388
+Baudenbach 1195
+Laudenbach 1399
+Rudenau 866
+Kleinheubach 3436
+Grossheubach 5126
+Grossheirath 2640
+Sesslach 4088
+Pfarrweisach 1608
+Maroldsweisach 3788
+Burgpreppach 1480
+Jettingen-Scheppach 6865
+Rosshaupten 2189
+Waldthurn 2189
+Thurnau 4502
+
+Murnau am Staffelsee 11958
+Seehausen am Staffelsee 2416
+Riegsee 1164
+Eglfing 933
+Huglfing 2476
+
+Grafelfing 12978
+Planegg 10510
+Oberschonegg 985
+Ellzee 1167
+Egg an der Gunz 1167
+Pless 848
+Fellheim 1197
+Buxheim 3060
+Marxheim 2574
+Gadheim 1255
+Sondheim vor der Rhon 1025
+Ziemetshausen 3049
+Hebertshausen 5121
+Hilgertshausen-Tandern 3258
+Schwabhausen 5911
+Markt Indersdorf 9263
+Weichs 3123
+
+Eichstatt 13125
+Mellrichstadt 6254
+Wulfershausen 1469
+Vestenbergsgreuth 1595
+Stadtlauringen 4496
+Aidhausen 1934
+Waidhaus 2467
+Pleystein 2730
+Parkstein 2289
+Parkstetten 2992
+
+Straubing 44580
+Alterhofen 3454
+Oberschneiding 2745
+
+Oberschleissheim 11290
+
+Unterschleissheim 25567
+Hinterschmiding 2578
+Grainet 2425
+Grainau 3674
+
+Garmisch-Partenkirchen 26022
+Partenstein 2844
+Rieneck 2147
+Burgsinn 2709
+Mittelsinn 940
+Obersinn 1048
+Aura im Sinngrund 1063
+Grunwald 10836
+Pullach im Isartal 8589
+Neuried 7469
+Scheuring 1794
+
+Mering 12820
+Schmiechen 1144
+Prittriching 2345
+Loiching 3506
+Glattbach 3506
+
+Hosbach 13203
+Leidersbach 4997
+Weilersbach 1985
+Thaining 908
+Hainsfarth 1486
+Schwabsoien 1344
+Stornstein 1445
+Arnstein 8409
+Werneck 10673
+Waigolshausen 2931
+Dingolshausen 1256
+Gerolzhofen 6781
+Schwarzhofen 1496
+Schwarzenfeld 6398
+Stulln 1683
+Schmidgaden 2881
+Schmidmuhlen 2481
+Haidmuhle 1488
+Krotenmuhle 9
+Altenmarkt 4219
+Neubeuern 4234
+
+Raubling 11382
+
+Bad Aibling 17672
+
+Kolbermoor 17941
+Rohrmoos 6199
+Rohr 3372
+Rosstal 10052
+Stallwang 1382
+Hoslwang 1228
+Etzelwang 1562
+Illschwang 2091
+Ammerthal 2017
+Ursensollen 3690
+Kastl 2701
+Alfeld 1168
+Edelsfeld 2012
+Lulsfeld 844
+
+Karlsfeld 17920
+Karlskron 4661
+Karlshuld 5012
+Langenmosen 1496
+Langenbach 3755
+Glott 1135
+Marktschellenberg 1855
+Marktsteft 1779
+Wolferstadt 1113
+Schonthal 2037
+Schonau 2058
+Dietersburg 3132
+
+Pfarrkirchen 11894
+Triftern 5419
+Mahring 1949
+Barnau 3475
+Thyrnau 4075
+
+Alzenau in Unterfranken 18932
+
+Mombris 12287
+Johannesberg 3914
+Johanniskirchen 2470
+Pleiskirchen 2407
+Insingen 1144
+Waldstetten 1263
+Ettenstatt 842
+Gutenstetten 1393
+Heiligenstadt 3690
+Diespeck 3690
+Munchsteinach 1463
+Berg im Gau 1195
+
+Landsberg am Lech 27017
+Schwifting 871
+Schwindegg 3501
+Windelsbach 1037
+Oberelsbach 2970
+Halsbach 830
+Aiglsbach 1677
+Elsendorf 2073
+Kasendorf 2602
+Gattendorf 1217
+Regnitzlosau 2648
+Rehau 10058
+Schonwald 3741
+
+Selb 17132
+Selbitz 4758
+Trabitz 1406
+Pressath 4654
+Speinshart 1181
+Babensham 2892
+Wettringen 964
+Langerringen 3802
+Gars 3802
+Ramsau 1806
+Haag in Oberbayern 6218
+Schongeising 1806
+
+Schongau 12442
+
+Peiting 12106
+Raisting 2173
+Rimsting 3476
+Inning am Ammersee 4111
+Inning am Holz 1429
+Aham 1957
+Neufraunhofen 1089
+Altfraunhofen 2057
+Vilsheim 2404
+Eggolsheim 6313
+
+Forchheim 30442
+Effeltrich 2771
+Apfeltrach 951
+Dirlewang 2148
+Unteregg 1370
+Unterreit 1673
+Winterrieden 885
+Lautrach 1198
+Mintraching 4668
+Sunching 1934
+Motzing 1447
+Perkam 1411
+Geiselhoring 6872
+Mehlmeisel 1409
+Grossweil 1409
+Baisweil 1352
+Hergensweiler 1723
+Weiler-Simmerberg 6510
+Scheidegg 4198
+Wegscheid 5817
+Heideck 5011
+Sandberg 2890
+Georgensgmund 6582
+Georgenberg 1507
+Vohenstrauss 7550
+Moosbach 2598
+Teunz 2035
+Oberviechtach 5022
+Bechtsrieth 1096
+Irchenrieth 1117
+Kupferberg 1129
+Samerberg 2569
+Rohrdorf 5460
+Hunderdorf 3352
+Bogen 10259
+Trogen 1636
+Feilitzsch 2932
+Teublitz 7405
+Maxhutte-Haidhof 10674
+
+Schwandorf in Bayern 28235
+Oettingen in Bayern 5336
+
+Weissenburg in Bayern 17801
+Pleinfeld 7482
+Bergrheinfeld 4971
+Grafenrheinfeld 3342
+Sennfeld 4054
+Schwanfeld 2032
+Arnschwang 2058
+Rimbach 2022
+Hohenwarth 2132
+Hohenkammer 2256
+Sachsenkam 1251
+Prichsenstadt 3216
+Kleinlangheim 1691
+Grosslangheim 1536
+Burgheim 4616
+
+Burghausen 18263
+Haiming 2516
+Mamming 2948
+Aholming 2234
+
+Plattling 12390
+Tittling 3800
+Pentling 5485
+Sinzing 6724
+Anzing 3531
+Penzing 3707
+Kaufering 9820
+Riedering 5315
+Stephanskirchen 9554
+Stephansposching 3080
+Mariaposching 1397
+Berching 8696
+Merching 3133
+Martinsheim 1062
+Erharting 932
+Fraueneuharting 1416
+Albaching 1558
+Tyrlaching 1031
+
+Manching 11239
+Leipheim 6822
+Megesheim 900
+Herbstadt 652
+Ohlstadt 3368
+Schlehdorf 1203
+Antdorf 1106
+
+Altdorf 15312
+Winkelhaid 3971
+Dinkelscherben 6742
+Erbendorf 5364
+Eichendorf 6617
+Vachendorf 1770
+Puschendorf 2274
+Markt Taschendorf 1075
+Burghaslach 2514
+Schlusselfeld 5848
+Uehlfeld 2908
+Gerhardshofen 2510
+Adelshofen 1568
+Landsberied 1384
+Moorenweis 3652
+Weissdorf 1382
+
+Essenbach 11070
+Jettenbach 755
+Philippsreut 754
+Perlesreut 2971
+Ringelai 2151
+Freyung 6987
+Freystadt 8555
+Berngau 2338
+Warngau 3600
+Weyarn 3217
+Valley 2968
+Allersberg 8054
+Pyrbaum 5836
+Postbauer-Heng 7358
 Hengersberg 7551
 Oberbergkirchen 1629
-Niederbergkirchen 1227
-Neumarkt-Sankt Veit 6231
-Sankt Englmar 1568
-Sankt Wolfgang 4102
-Isen 5222
-Buch am Buchrain 1355
-Lengdorf 2648
-Bockhorn 3425
-Ruckholz 835
-Rimsting 3476
-Hetzles 1286
-Pless 848
-Pleinfeld 7482
-Absberg 1336
+Merkendorf 2898
+Seukendorf 3287
+Weisendorf 6118
+Mohrendorf 4349
+Buckenhof 3296
+Frickenhausen 1289
+Prebitz 1148
+Wurmsham 1351
+Wurmannsquick 3710
 
-Abensberg 12570
+Eggenfelden 12860
+Hebertsfelden 3756
+Pommersfelden 2874
+Muhlhausen 1723
+Uchtelhausen 4073
+Luhe-Wildenau 3505
+Wildenberg 1353
+Freudenberg 4268
+Hirschau 6258
+Freihung 2610
+Pfreimd 5565
+Nabburg 5994
+Neuburg 4313
+
+Passau 50560
+Obernbreit 1829
+Marktbreit 3700
+Marktbergel 1687
+Uffing 2994
+Affing 5171
+Rehling 2381
+Aindling 4451
+Thierhaupten 3841
+Seeshaupt 2862
+Iffeldorf 2528
+
+Muhldorf 17622
+Polling 3465
+Tussling 3240
+
+Altotting 12902
+Neuotting 8741
+Rottingen 1679
+Riedenheim 787
+Aub 1637
+Butthard 1300
+Buttenwiesen 5750
+Steinwiesen 3869
+Wallenfels 3101
+
+Lichtenfels 21336
+Mitwitz 3076
+
+Marktredwitz 18204
+Bad Alexandersbad 1188
+Bad Abbach 10882
+Teugn 1508
 Saal 5626
 
 Kelheim 15723
 
 Mindelheim 14122
-Apfeltrach 951
-Dirlewang 2148
-Hartenthal 42
-Eggenthal 1299
-Unteregg 1370
-
-Regen 12296
-Rinchnach 3348
-Strasskirchen 3348
-Pleiskirchen 2407
-Johanniskirchen 2470
-
-Dinkelsbuhl 11724
-Dombuhl 1660
-Eichenbuhl 2756
-Burgstadt 4342
-Miltenberg 9613
+Sindelsdorf 1036
+Simmelsdorf 3372
+Gammelsdorf 1471
+Bruckberg 5071
+Arnbruck 2048
+Lam 2884
+Iggensbach 2132
+Wiggensbach 4656
+Lauben 3274
+Haldenwang 3634
+Lengenwang 1375
+Nesselwang 3498
+Oy-Mittelberg 4544
+Wertach 2423
 Miltach 2359
 Viechtach 8653
-Prackenbach 2688
-Blaibach 2127
-Haibach 8600
+Kollnburg 2934
+Geiersthal 2236
+Ruhmannsfelden 2190
+Gotteszell 1267
+Dietramszell 5252
+Dietfurt 6161
+Riedenburg 5689
+Painten 2280
+Hemau 8627
+Beratzhausen 5583
+Deuerling 2124
+Schierling 7347
+Langquaid 5159
+Langfurth 2211
 
-Aschaffenburg 68551
-Mainaschaff 8382
-Waldaschaff 4056
-Ascha 1517
-Falkenfels 1001
-Falkenstein 3354
-Falkenberg 3956
-Ruhstorf 7098
-Arnstorf 6570
-Arnstein 8409
-Thanstein 1045
-Krombach 2172
-Biberbach 3492
-Zellingen 6365
-Grafenwohr 6790
-Grafenwiesen 1622
-Buttenwiesen 5750
-Steinwiesen 3869
-Wallenfels 3101
-Rothenfels 1088
+Furth 112025
+
+Nurnberg 499237
+
+Starnberg 23086
+Feldafing 4293
+Seefeld 7033
+Sonnefeld 5345
+Sonnen 1528
+Schesslitz 7195
+Memmelsdorf 9001
+Kemmern 2639
+Baunach 3998
+Kurnach 4332
+Bergtheim 3460
+Volkach 9585
+Dettelbach 6888
+Neuendettelsau 7836
+Petersaurach 5116
+Stegaurach 6804
+Burgebrach 6412
+Bobrach 1622
+Bernried 4972
+Ingenried 812
+Bidingen 1738
+Biessenhofen 4006
+Ruderatshofen 1709
+Aitrang 2012
+Unterthingau 2747
+Hottingen 1269
+Seeg 2829
+Pfronten 7890
+Frontenhausen 4430
+Tuntenhausen 6642
+Rott 3616
+Grosskarolinenfeld 6865
+
+Rosenheim 60167
+Prutting 2325
+Bad Endorf 7465
+Wattendorf 694
+Winterbach 808
+Baierbach 774
+Roden 1089
+
+Rodental 13712
+Dentlein am Forst 2520
+Burk 1241
+Burkardroth 7893
+Oberthulba 5151
+Elfershausen 3005
+Leutershausen 5592
+Weilbach 2342
+Spiegelau 4132
+Welden 3614
+Velden 6488
+Wiesenfelden 3596
+Kirchroth 3699
 
 Roth 25083
 Rothenbach 1783
 Schneizlreuth 1538
 Sulzemoos 2507
 Moosach 1333
-Moosbach 2598
-Eslarn 3117
-Winklarn 1473
-Reit im Winkl 2584
-Weissenstadt 3545
-Unterwossen 3545
-Unterdiessen 1323
-Lamerdingen 1872
-Amerdingen 861
-Modingen 1353
-Bachhagel 2459
-Hagelstadt 1852
-Eibelstadt 2907
-Giebelstadt 4379
-Biebelried 1183
-Bieberehren 1000
-Strahlungen 928
-Gestratz 1248
-Beratzhausen 5583
-Hemau 8627
-Untersiemau 4208
-Untersteinach 1989
-Steinach 2938
-Munchsteinach 1463
-Berg im Gau 1195
-Baudenbach 1195
-Laudenbach 1399
-Rudenau 866
-Ruderatshofen 1709
-Aitrang 2012
-Unterthingau 2747
 
-Unterhaching 20852
+Maisach 12507
+Pilsach 2659
+Deining 4289
 
-Oberhaching 12470
-Grunwald 10836
-Pullach im Isartal 8589
-Furth im Wald 9480
-Arnschwang 2058
-Rimbach 2022
-Kotzting 7471
-Rotz 3548
-Stamsried 2276
-Pemfling 2267
-Schaufling 1494
-Fladungen 2337
-Hendungen 1015
-Segnitz 846
-Trausnitz 1021
-Trabitz 1406
-Pressath 4654
-Ebnath 1374
-Nagel 1941
-Neusorg 2061
-Heustreu 1287
-Oberstreu 1689
-Mellrichstadt 6254
-Prichsenstadt 3216
-Sachsen 3349
-Sachsenkam 1251
-Hohenkammer 2256
-Ammerthal 2017
-Ursensollen 3690
-Kastl 2701
-Bastheim 2689
-Ostheim vor der Rhon 3729
-Bischofsheim an der Rhon 5181
-Wildflecken 3352
-Bad Bruckenau 7304
-Bad Bocklet 4642
-Bad Endorf 7465
-Elsendorf 2073
-Weisendorf 6118
-Grossenseebach 2378
-Rottenbach 4649
-Hemhofen 5322
-Inchenhofen 2390
-Pfaffenhofen 1717
-Wallgau 1446
-Sielenbach 1446
-
-Aichach 21042
-Kuhbach 3997
-Schiltberg 1824
-Hiltenfingen 1541
-Kemnath 5322
-
-Kempten 61399
-Durach 6675
-Betzigau 2848
-Knetzgau 6647
-Sand 3181
-Zeil 6016
-
-Hassfurt 13562
+Ismaning 14596
+Eichenried 2035
+Friesenried 1523
+Priesendorf 1544
+Stettfeld 1302
+Hofstetten 1764
+Funfstetten 1373
+Riekofen 819
+Wemding 5669
+Fremdingen 2192
+Wassertrudingen 6245
+Wasserlosen 3524
+Rutschenhausen 200
+Poppenhausen 4119
+Niederwerrn 7974
+Dittelbrunn 7620
 
 Schweinfurt 54012
 Schwebheim 4023
-Schwanfeld 2032
-Sennfeld 4054
-Bergrheinfeld 4971
-Grafenrheinfeld 3342
 Rothlein 4875
-Oberroth 824
-Unterroth 951
+Grettstadt 4106
+
+Ingolstadt 120658
+Gaimersheim 10840
+Munchsmunster 2938
+Train 1777
+Pfeffenhausen 4770
+Rudelzhausen 3114
+Adelzhausen 1498
+Odelzhausen 4275
+Erdweg 5629
+Wallgau 1446
+Ellgau 1004
+
+Immenstadt im Allgau 14431
+Blaichach 5625
+Fischach 4733
+Reischach 2581
+Perach 1225
+Gerach 1020
+Durach 6675
+Niedermurach 1356
+Gleiritsch 687
+Wolfertschwenden 1852
+Bohen 681
+Hohenlinden 2769
+Markt Schwaben 10857
+
+Poing 11592
+
+Neubiberg 12717
+Weibersbrunn 2142
+Bad Heilbrunn 3697
+
+Bad Tolz 17434
+Gaissach 3028
+Lenggries 9432
+Lengdorf 2648
+
+Dorfen 13487
+Tiefenbach 3501
+Opfenbach 2260
+Grunenbach 1364
+Gestratz 1248
+Heimenkirch 3723
+Oberstaufen 7190
+Oberstdorf 9788
+Wallerstein 3473
+Ihrlerstein 4419
+Steindorf 943
+Thanstein 1045
+Krombach 2172
+
+Krumbach 12805
+Kirchenthumbach 3448
+Vilseck 6560
+
+Vilsbiburg 11416
+Schalkham 898
+Niederviehbach 2444
+Weng 1389
+Moosthenning 4700
+
+Landau an der Isar 12997
+
+Pfaffenhofen an der Ilm 23192
+Scheyern 4450
+Gerolsbach 3244
+Jetzendorf 2919
+Loitzendorf 648
+Frankenwinheim 1025
+Kueps Oberfranken 8282
+Stockheim 5286
+Teuschnitz 2247
+Nordhalben 2077
+Geroldsgrun 3189
+Leupoldsgrun 1382
+Koditz 2721
+
+Hof 49239
+Konradsreuth 3540
+Marktoffingen 1382
+
+Marktoberdorf 18505
+Oberdachstetten 1720
+Obernzenn 2679
+Unterleinleiter 1258
+Klosterlechfeld 2351
+Halblech 3521
+Lechbruck 2442
+Schwabbruck 905
+Burggen 1686
+
+Deggendorf 31081
+Oberporing 1143
+Arnstorf 6570
+Ruhstorf 7098
+Falkenberg 3956
+Unterdietfurt 2174
+Untermerzbach 1759
+Strahlungen 928
+Bieberehren 1000
+Hopferau 1050
+Oberaudorf 4756
+Kiefersfelden 6912
+Bayrischzell 1601
+Brannenburg 5646
+Bad Feilnbach 7203
+Oerlenbach 5411
+Frasdorf 3005
+
+Lappersdorf 12744
+Wenzenbach 8101
+Leutenbach 1775
+Burtenbach 3323
+Markt Rettenbach 3688
+Helmbrechts 9493
+Rechtmehring 1772
+Soyen 2712
+Reichertsheim 1662
+Reichling 1662
+Reichenberg 4004
+Eichenbuhl 2756
+Kirchzell 2468
+Waldkirchen 10757
+Rohrnbach 4579
+Mauth 2566
+Motten 1939
+Wildflecken 3352
+Wildsteig 1245
+Steingaden 2828
+Prem 895
+
+Kaufbeuren 42505
+
+Bad Worishofen 14028
+Rennertshofen 5013
+Pottmes 6315
+
+Wurzburg 133731
+Burgsalach 1262
+
+Hilpoltstein 13069
+Spalt 5216
+Pfofeld 1441
+Polsingen 2042
+Monchsdeggingen 1497
+Tapfheim 4077
+Binswangen 1326
+Jesenwang 1480
+Mittenwald 7996
+Krun 2032
+
+Kempten 61399
+Betzigau 2848
+Legau 3215
+Dickenreishausen 897
+Heimertingen 1758
 
 Illertissen 16522
 
 Weissenhorn 13377
-Pfaffenhofen an der Roth 7158
-Rieden an der Kotz 3213
-Bachingen an der Brenz 1320
-
-Dillingen an der Donau 18734
-Hochstadt an der Donau 6795
-Binswangen 1326
-Zusamaltheim 1290
-Zusmarshausen 6384
-Dinkelscherben 6742
-Fischach 4733
-Fischbachau 5471
-Langenpreising 2496
-Todtenweis 1443
-Weissenohe 1080
-Lupburg 2336
-Wollbach 1242
-Guteneck 905
-Sparneck 1802
-Rieneck 2147
-Burgsinn 2709
-Obersinn 1048
-Mittelsinn 940
-Mittelstetten 1630
-Althegnenberg 1843
-Langenaltheim 2450
-Solnhofen 1817
-Rogling 669
-Egling 5061
-Greiling 1369
-Reichling 1662
-Ramsau 1806
-Weitramsdorf 5183
-Ahorn 4624
-Niederfullbach 1672
-Grossheirath 2640
-Sesslach 4088
-Pfarrweisach 1608
-Maroldsweisach 3788
-Burgpreppach 1480
-Prem 895
-Lechbruck 2442
-Schwabbruck 905
-
-Schongau 12442
-Steingaden 2828
-Wildsteig 1245
-Rottenbuch 1771
-Rott 3616
-Rottingen 1679
-Hottingen 1269
-Seeg 2829
-Weihenzell 2829
-
-Grobenzell 19110
-
-Olching 23978
-
-Gilching 16859
-Malching 1285
-Salching 2532
-Frankenwinheim 1025
-Steinheim 2878
-Meinheim 928
-Gossenheim 1319
-Eussenheim 3302
-Greussenheim 1628
-Creussen 4871
-Schnabelwaid 989
-
-Pegnitz 14279
-Neuhaus an der Pegnitz 2974
-
-Lauf an der Pegnitz 26403
-
-Rothenbach an der Pegnitz 12224
-Ruckersdorf 4518
-
-Hersbruck 12404
-Pommelsbrunn 5432
-Jandelsbrunn 3408
-Neureichenau 4480
-
-Eichenau 11637
-Jachenau 891
-Nittenau 8478
-Sochtenau 2616
-Vogtareuth 3045
-Prutting 2325
-
-Rosenheim 60167
-
-Kolbermoor 17941
-Rohrmoos 6199
-Rohrdorf 5460
-Samerberg 2569
-Neubeuern 4234
-Altenmarkt 4219
-
-Raubling 11382
-
-Bad Aibling 17672
-Bad Feilnbach 7203
-Brannenburg 5646
-Eisenburg 1502
-Vorra 1810
-Arrach 2769
-Eschlsaign 1
-Eschlkam 3575
-Eschau 4129
-Monchberg 2530
-
-Munchberg 11557
-Helmbrechts 9493
-Rechtmehring 1772
-Soyen 2712
-Sonnen 1528
-Sonnefeld 5345
-Seefeld 7033
-Worthsee 4589
-Worth 4559
-
-Donauworth 18364
-Kaisheim 4344
-Huisheim 1663
-Harburg 5694
-Funfstetten 1373
-Hofstetten 1764
-Vilgertshofen 2445
-Denklingen 2461
-Jengen 2433
-Waal 2152
-
-Buchloe 11978
-Buchlberg 3984
-Kohlberg 1270
-Weiherhammer 4036
-Parkstein 2289
-Parkstetten 2992
-
-Straubing 44580
-Obertraubling 7037
-
-Neutraubling 12620
-Barbing 4776
-Obing 3938
-Pittenhart 1614
-Hoslwang 1228
-Nesselwang 3498
-Oy-Mittelberg 4544
-Wertach 2423
-Lautertal 4150
-
-Rodental 13712
-Rodelmaier 947
-Vestenbergsgreuth 1595
-Freudenberg 4268
-Riedenberg 1090
-Schondra 1855
-Schonberg 964
-Schonstett 1214
-Bonstetten 1225
-Aystetten 3026
-Langweid 7653
-Thierhaupten 3841
-Ellgau 1004
-Puschendorf 2274
-Erbendorf 5364
-Fuchsmuhl 1774
-Pechbrunn 1493
-Buchbrunn 1061
-Heideck 5011
-
-Hilpoltstein 13069
-Allersberg 8054
-Pyrbaum 5836
-Postbauer-Heng 7358
-Auerbach 9089
-Vorbach 1052
-Speichersdorf 6284
-Speinshart 1181
-Martinsheim 1062
-Heimertingen 1758
-Buxheim 3060
-Fellheim 1197
-Boos 1946
-Ottensoos 2051
-Motten 1939
-Zeitlofs 2228
-Aura im Sinngrund 1063
-Grub 3129
-Bischofsgrun 2072
-Warmensteinach 2379
-Kirchenpingarten 1405
-Steinkirchen 1185
-Inning am Holz 1429
-Baierbach 774
-Baierbrunn 2755
-Strasslach-Dingharting 2899
-Schaftlarn 5281
-
-Starnberg 23086
-Feldafing 4293
-Affing 5171
-Pfaffing 3782
-Albaching 1558
-Maitenbeth 1868
-Hohenlinden 2769
-Steinhoring 3759
-
-Ebersberg 11041
-
-Grafing bei Munchen 12497
-Waldmunchen 7392
-Gleissenberg 955
-Weissenbrunn 3110
-
-Kronach 18248
-Goldkronach 3711
-Himmelkron 3531
-Kronburg 1736
-Tettenweis 1702
-Moorenweis 3652
-Kottgeisering 1488
-Grafrath 3630
-Landsberied 1384
-
-Landsberg am Lech 27017
-
-Landshut 60488
-Kumhausen 4812
-Geisenhausen 6367
-Frontenhausen 4430
-Pfronten 7890
-Pfreimd 5565
-Freihung 2610
-Vilseck 6560
-
-Vilshofen 16695
-
-Osterhofen 11870
-Alterhofen 3454
-Oberschneiding 2745
-Hunderdorf 3352
-
-Marktoberdorf 18505
-Biessenhofen 4006
-Westendorf 1825
-Steindorf 943
-Willanzheim 1590
-Windberg 1059
-Sulzdorf 1287
-Stadelhofen 1264
-Buchhofen 971
-Aufsess 1410
-Wolfsegg 1506
-Kallmunz 2895
-Kellmunz 1391
-Trunkelsberg 1810
-Stockelsberg 560
-Stockheim 5286
-Erkheim 3046
-Sontheim 2490
-Ellzee 1167
-Egg an der Gunz 1167
-Hohenberg an der Eger 1567
-Rottenburg an der Laaber 7702
-Weihmichl 2479
-Gammelsdorf 1471
-Bruckberg 5071
-Heigenbrucken 2417
-Heinrichsthal 918
-Eichenried 2035
-Irchenrieth 1117
-Kupferberg 1129
-Osterberg 873
-Philippsreut 754
-Frickenhausen 1289
-Dickenreishausen 897
-Mickhausen 1367
-Gadheim 1255
-Sondheim vor der Rhon 1025
-Ziemetshausen 3049
-Topen 1175
-
-Penzberg 16079
-Pinzberg 1938
-Effeltrich 2771
-Treffelstein 1033
-Bad Staffelstein 10618
-Weismain 4840
-Mainleus 6836
-Leutershausen 5592
-Weilbach 2342
-Weilersbach 1985
-
-Ansbach 31839
-Windsbach 6235
-Windelsbach 1037
-Trappstadt 1037
-Ohlstadt 3368
-
-Ingolstadt 120658
-Gaimersheim 10840
-Karlshuld 5012
-Pornbach 1969
-Ornbau 1730
-Burgoberbach 3391
-Herrieden 7751
-Winterrieden 885
-Seubersdorf 5035
-Malgersdorf 1198
-Salgen 1459
-Hawangen 1237
-Durrwangen 2673
-
-Feuchtwangen 12267
-Schopfloch 2884
-Hopferau 1050
-Wipfeld 1126
-Gstadt am Chiemsee 1355
-Hohenfurch 1512
-
-Ochsenfurt 11492
-Gochsheim 6495
-Schonungen 8230
-Schongeising 1806
-Langerringen 3802
-Wettringen 964
-Ettringen 3372
-Turkheim 6632
-
-Bad Worishofen 14028
-Rennertshofen 5013
-Burgheim 4616
-Niederschonenfeld 1419
-Oberschonegg 985
-Babenhausen 5342
-Babensham 2892
-Graben 3250
-
-Schwabmunchen 13232
-Munchsmunster 2938
-Ernsgaden 1445
-Berchtesgaden 7655
-Bischofswiesen 7535
-Bischofsmais 3240
-Wildpoldsried 2501
-Wildenberg 1353
-Luhe-Wildenau 3505
-Marxheim 2574
-Uchtelhausen 4073
-Leuchtenberg 1299
-Leutenbach 1775
-Wiesenthau 1711
-
-Forchheim 30442
-Eggolsheim 6313
-Prosselsheim 1213
-Volkach 9585
-Gerolsbach 3244
-Halsbach 830
-Engelsberg 2801
-Kirchweidach 2274
-Oberschweinbach 1480
-Mammendorf 4540
-Mamming 2948
-Aholming 2234
-Oberporing 1143
-Geiselhoring 6872
-Perkam 1411
-Motzing 1447
-Anzing 3531
-Sinzing 6724
-Pentling 5485
-Bad Abbach 10882
-Teugn 1508
-Laugna 1583
-Lauter 1141
-Stettfeld 1302
-Viereth-Trunstadt 3684
-Grettstadt 4106
-Freystadt 8555
-Berngau 2338
-Deining 4289
-Velburg 5373
-Parsberg 6772
-Ursberg 3579
-Bayersried 640
-
-Krumbach 12805
-Kirchenthumbach 3448
-Neukirchen 4071
-Michelsneukirchen 1806
-Neukirchen-Balbini 1162
-Geroldshausen 1246
-Kutzenhausen 2482
-Herrngiersdorf 1103
-Schlammersdorf 934
-Hafenlohr 1846
-Lohkirchen 660
-Geslau 1424
-
-Lauingen 11029
-Durrlauingen 1710
-Stadtlauringen 4496
-Dittelbrunn 7620
-Neubrunn 2311
-Memmingerberg 2579
-Salz 2311
-Kreuzwertheim 3862
-Hasloch 1414
-Dorfprozelten 1911
-Stadtprozelten 1702
-Uffing 2994
-Rofingen 1179
-Lulsfeld 844
-Illesheim 824
-Zangberg 1021
-Loitzendorf 648
-Jetzendorf 2919
-
-Pfaffenhofen an der Ilm 23192
-Au in der Hallertau 5427
-Nandlstadt 5044
-Aiglsbach 1677
-Geisenfeld 9769
-Kirchlauter 1445
-Lautrach 1198
-Prebitz 1148
-Wurmsham 1351
-
-Wurzburg 133731
-Randersacker 3459
-Emersacker 1435
-Holzheim 3755
-Bodolz 3086
-
-Lindau 24518
-Nonnenhorn 1570
-Heimenkirch 3723
-Missen-Wilhams 1441
-Weitnau 5143
-
-Immenstadt im Allgau 14431
-Blaichach 5625
-Aichen 1171
-Reichertsheim 1662
-Gars 3802
-Gallmersgarten 805
-Marktsteft 1779
-Marktschorgast 1660
-Schillingsfurst 2847
-Diebach 1171
-Gebsattel 1826
-Pfatter 3059
-Mantel 2951
-Kirchanschoring 2980
-Hofkirchen 3712
-Egglham 2439
-Tabor 100
-Bobrach 1622
-Bernried 4972
-Offenberg 3364
-Kienberg 1320
-Niedernberg 4793
-Momlingen 5066
-
-Mombris 12287
-Johannesberg 3914
-
-Burgthann 11567
-Leinburg 6446
-Winkelhaid 3971
-
-Altdorf 15312
-Spalt 5216
-Pfofeld 1441
-
-Treuchtlingen 13141
-Daiting 807
-Buchdorf 1619
-Monchsdeggingen 1497
-Eging 3876
-Adlkofen 3934
-Egglkofen 1279
-Gangkofen 6638
-Marklkofen 3818
-Gottfrieding 2160
-Greding 7238
-Zorneding 8581
-
-Neubiberg 12717
-Bischberg 5819
-Priesendorf 1544
-Wachenroth 2205
-Kirchroth 3699
-Postmunster 2405
-Munsing 4047
-Nersingen 9177
-
-Neu-Ulm 51389
-Kinsau 999
-Wiesau 4550
-Wiesenfelden 3596
-Brennberg 1834
-
-Nurnberg 499237
-Seukendorf 3287
-Cadolzburg 10164
-
-Herzogenaurach 23319
-Mohrendorf 4349
-Merkendorf 2898
-Kirchzell 2468
-Bayrischzell 1601
-Osterzell 688
-Gollhofen 870
-Tyrlaching 1031
-Berching 8696
-Merching 3133
-Schierling 7347
-Langquaid 5159
-Marquartstein 3125
-
-Furstenfeldbruck 33533
-
-Maisach 12507
-Gaissach 3028
-
-Bad Tolz 17434
-Lenggries 9432
-Untergriesbach 6294
-Untermerzbach 1759
-Unterfohring 10500
-
-Ismaning 14596
-Ruhmannsfelden 2190
-Gotteszell 1267
-Dietramszell 5252
-Otterfing 4383
-Mitterfels 2405
-Mitterteich 7252
-Waldsassen 7505
-Schonwald 3741
-Rehau 10058
-Regnitzlosau 2648
-Konradsreuth 3540
-Perlesreut 2971
-Ringelai 2151
-Freyung 6987
-Gefrees 4876
-Thyrnau 4075
-Barnau 3475
-Mahring 1949
 Theisseil 1261
 Wernberg-Koblitz 5830
-Teublitz 7405
-Teunz 2035
-Gleiritsch 687
-Nabburg 5994
-Kummersbruck 10365
+Breitenbrunn 3506
+Breitbrunn 1423
+Bad Wiessee 4293
+Egglham 2439
+Tabor 100
 
-Fussen 13893
-Halblech 3521
-Saulgrub 1664
-Bad Kohlgrub 2416
-Obertrubach 2185
+Friedberg 29189
+Mittelstetten 1630
+Althegnenberg 1843
 
-Altotting 12902
-Neuotting 8741
-
-Pfarrkirchen 11894
-Triftern 5419
-Prittriching 2345
-Schmiechen 1144
-Feldkirchen-Westerham 10399
-Aying 4040
-Tuntenhausen 6642
-Grosskarolinenfeld 6865
-Neudrossenfeld 3895
-Bindlach 7229
-Mistelgau 3858
-Legau 3215
-Spiegelau 4132
-Butthard 1300
-Gerhardshofen 2510
-Diespeck 3690
-Wiesenbronn 971
-Jesenwang 1480
-Mittenwald 7996
-Krun 2032
-Sindelsdorf 1036
-Frasdorf 3005
-Fuchsstadt 1819
-Oerlenbach 5411
-Kueps Oberfranken 8282
-Wirsberg 2003
-Rimpar 7718
-Guntersleben 4472
-Zell am Main 4035
-Kleinrinderfeld 2094
-Mallersdorf-Pfaffenberg 6742
-Niederviehbach 2444
-Meeder 4107
-Erdweg 5629
-Schofweg 1314
-Eppenschlag 952
-Schonau am Konigssee 5319
-Schonsee 2720
-Ihrlerstein 4419
-Painten 2280
-Deuerling 2124
+Herzogenaurach 23319
+Grossenseebach 2378
+Kemnath 5322
+Ebnath 1374
+Brand 1206
+Neusorg 2061
+Kulmain 2452
+Plossberg 3531
+Kirchenpingarten 1405
+Gallmersgarten 805
+Haag 959
+Geslau 1424
+Roslau 2402
 Kirchenlamitz 3939
-Lam 2884
-Geiersthal 2236
-Breitenthal 1293
+Oberneukirchen 810
+Neufahrn 3899
+Ampfing 6188
+Fridolfing 4133
+Tittmoning 6084
+Kirchweidach 2274
+Palling 3416
+Momlingen 5066
+Remlingen 1543
+Denklingen 2461
+Wessobrunn 2076
+Pahl 2377
+Tutzing 9517
+Andechs 3181
+
+Gauting 19216
+
+Hassfurt 13562
+Knetzgau 6647
+Sand 3181
+Zeil 6016
+
+Buchloe 11978
+
+Ergolding 11438
+Goldbach 10044
+Haibach 8600
+Blaibach 2127
+Feldkirchen-Westerham 10399
+Kummersbruck 10365
+Diedorf 10006
+Poxdorf 1528
+Waldsassen 7505
+Laufen 6869
+Nandlstadt 5044
+Trappstadt 1037
+Gefrees 4876
+Wonsees 1219
+Gesees 1244
+Wiesau 4550
+Aufsess 1410
+Mainbernheim 2294
+Geroda 941
 Kuhlenthal 835
 Schnelldorf 3614
-Dentlein am Forst 2520
-Wilburgstetten 2183
-Oberreute 1566
-Neuhaus am Inn 3398
-Wessobrunn 2076
-Poxdorf 1528
-Mehlmeisel 1409
-Urspringen 1350
-Habach 1116
+Rotz 3548
+Bachhagel 2459
+Wachenroth 2205
+Ottensoos 2051
+Pirk 1960
+Kinsau 999
+Marktzeuln 1803
+Topen 1175
+Mickhausen 1367
+Maihingen 1244
+Wiesenbronn 971
+Castell 820

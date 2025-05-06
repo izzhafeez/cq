@@ -3,82 +3,69 @@
 Tianjin 8382745
 
 Tianmu 116084
-Xiaodian 34512
-Yixingbu 41985
-Wangbuzhuang 32301
+Beicang 46921
+Xiacang 41717
+Shangcang 33380
+Bieshan 43848
+Limingzhuang 23582
 Huangzhuang 11475
 Datangzhuang 13512
 Erwangzhuang 13120
 Dazhangzhuang 29900
-Dazhongzhuang 36406
-Bamencheng 25325
-Xincheng 43128
-
-Gegu 69023
-Haogezhuang 18752
-Koudong 29181
-Dongjituo 29769
-Shuangjie 54564
-
-Shuangkou 63999
-Wangkou 32622
-Liangtou 24832
-Taitou 22794
-Duliu 36490
-
-Yangliuqing 118291
-Qingguang 43280
-Chengguan 27050
-Dongmaquan 15850
-Shangmatai 22081
-Zhongwang 31128
-Zhongtang 55586
-Wangwenzhuang 41363
-
-Balitai 59177
-Daliang 39379
+Douzhangzhuang 23421
+Huanghuadian 24100
+Sicundian 17247
+Nancaicun 47091
 Dajianchang 22323
 Meichang 35033
-Beicang 46921
-
-Zhongbei 92814
-Zhangjiawo 47786
+Caozili 27133
+Taitou 22794
+Xiditou 45407
+Zhouhewan 22692
+Yinliu 23915
+Dongzhao Gezhuang 19633
+Haogezhuang 18752
+Shigezhuang 25783
+Xinkaikou 25748
+Xiawuqi 23889
 Xiawotou 26769
 Dongshigu 15994
-Shangcang 33380
-Bieshan 43848
-Limingzhuang 23582
-Dongzhao Gezhuang 19633
-Yinliu 23915
 Dong'erying 16961
-Bangjun 31343
-Banqiao 10152
-Miaozhuang 17296
-Lianzhuang 17315
-Guanzhuang 30640
-Xujiatai 10634
-Niujiapai 16755
-Dahuangbao 18432
-Dabai Zhuang 18139
-Dabei Jiangu 14846
-Beihuaidian 20936
-Xiditou 45407
-Panzhuang 30213
-Zaojiacheng 29536
-Biaokou 20501
-Niudaokou 47168
 Houjiaying 37346
 Xiaying 18759
 Luozhuangzi 12253
 Yuyang 57669
-Chuanfangyu 14548
-Fangjiazhuang 30338
-Yangjinzhuang 33028
-Xiacang 41717
-Xin'an 30783
-Xinzhuang 38666
+Yangjiabo 21559
+Shangmatai 22081
+Zhongwang 31128
+Xiaowangzhuang 23084
+Zhongtang 55586
+Wangwenzhuang 41363
+
+Balitai 59177
+Beizhakou 45741
+
+Xianshuigu 148602
+Shuangqiaohe 37193
 
 Shuanggang 103185
+Xinzhuang 38666
+Yangjinzhuang 33028
+Panzhuang 30213
+Zaojiacheng 29536
+Xincheng 43128
+
+Gegu 69023
+
+Xiaozhan 82582
+Miaozhuang 17296
+Lianzhuang 17315
+Yanzhuang 33181
+Ziya 31757
+Wangkou 32622
+
+Shuangkou 63999
+Shuangjie 54564
 Shuangtang 16656
 Dafengdui 16105
 Fengtai 23790
@@ -86,54 +73,67 @@ Yuelong 15014
 Xilong Huyu 25196
 Chutouling 34362
 Mashenqiao 34763
-Shuangqiaohe 37193
-
-Xianshuigu 148602
-Beizhakou 45741
-Xizhaizhuang 13310
-Tangguantun 44167
-Chenguantun 29237
-Yanzhuang 33181
-Ziya 31757
-Sangzi 36586
+Banqiao 10152
+Dabei Jiangu 14846
+Daliang 39379
+Damengzhuang 22162
+Baigutun 21443
+Dakoutun 56526
+Hebeitun 30418
+Cuihuangkou 51541
+Lintingkou 31810
+Wangbuzhuang 32301
 Youguzhuang 24601
 Dawang Guzhuang 25061
-Baigutun 21443
-Damengzhuang 22162
-Nancaicun 47091
-Sicundian 17247
-Huanghuadian 24100
-Douzhangzhuang 23421
-Chenju 30193
-Chagugang 44843
-Wangqingtuo 45016
-Xinkou 42274
-Xinkaikou 25748
-Shigezhuang 25783
-Huogezhuang 26607
-Taiping 37074
+Gaocun 18210
+Hexiwu 45814
+Chengguan 27050
+Dongmaquan 15850
+Koudong 29181
+Dongjituo 29769
+Bamencheng 25325
+Dazhongzhuang 36406
+Caigongzhuang 21498
 Ninghe 21689
 
 Jinghai 154325
 Jingwu 49176
+Zhangjiawo 47786
+Fangjiazhuang 30338
+Xin'an 30783
 
-Dasi 113290
-Dakoutun 56526
-Hebeitun 30418
-Xiawuqi 23889
-Hexiwu 45814
-Gaocun 18210
-Cuihuangkou 51541
-Lintingkou 31810
-
-Xiaozhan 82582
-Xiaowangzhuang 23084
+Yangliuqing 118291
+Qingguang 43280
+Wangqingtuo 45016
+Chagugang 44843
+Chenju 30193
+Chenguantun 29237
+Tangguantun 44167
+Xizhaizhuang 13310
 
 Daqiuzhuang 72194
 Tuanbo 18299
-Yangjiabo 21559
-Baijian 18646
+
+Dasi 113290
+
+Zhongbei 92814
+Xinkou 42274
+Duliu 36490
+Liangtou 24832
+Niudaokou 47168
+Biaokou 20501
+Beihuaidian 20936
 Qilihai 28007
-Caozili 27133
-Zhouhewan 22692
-Caigongzhuang 21498
+Yixingbu 41985
+Xiaodian 34512
+Taiping 37074
+Huogezhuang 26607
+Baijian 18646
+Sangzi 36586
+Bangjun 31343
+Xujiatai 10634
+Guanzhuang 30640
+Dahuangbao 18432
+Niujiapai 16755
+Dabai Zhuang 18139
+Chuanfangyu 14548

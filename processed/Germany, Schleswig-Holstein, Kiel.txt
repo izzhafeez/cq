@@ -2,208 +2,284 @@
 
 Kiel 232758
 
-Schonkirchen 6375
-Monkeberg 3551
-Monkloh 268
-Hingstheide 81
-
-Heide 20599
-Suderheistedt 559
-Norderheistedt 149
-
-Norderstedt 71439
-Hasloh 3460
-Alveslohe 2449
-Bilsen 720
-Schillsdorf 890
-Kisdorf 3445
-Oersdorf 890
-Dobersdorf 1259
-
-Raisdorf 7611
-
-Klausdorf 6047
-Rausdorf 240
-Bunsdorf 591
-Jardelund 351
-Warder 616
-Gulzow 1289
-Gudow 1668
-Guster 1216
-Sterley 941
-Schulldorf 561
-Schulendorf 452
-Prasdorf 452
-Rastorf 879
-Kastorf 1145
-Waabs 1462
-Taarstedt 862
-Ramstedt 438
-Bramstedtlund 258
-Goldelund 399
-Joldelund 743
-Goldebek 364
-Hardebek 514
-Haale 514
-Vaale 1318
-Kaaks 408
-Aasbuttel 94
-Nienbuttel 144
-Ottenbuttel 746
-Nutteln 305
-Buttel 48
-
-Brunsbuttel 13950
-Reinsbuttel 416
-Norstedt 416
-Oster-Ohrstedt 697
-Silberstedt 2213
-Jubek 2581
-Neuberend 1142
-
-Schleswig 24114
-Owschlag 3603
-Schlesen 555
-Wesenberg 968
-Hamberge 1357
-Grambek 389
-Meezen 389
-Leezen 1677
-Mozen 461
-Osterrade 461
-Westerrade 512
-
-Hohenwestedt 5092
-Westerhorn 1293
-Westre 397
-Treia 1514
-Lieth 402
-Ziethen 888
-Seth 2026
-Seeth 688
-Norderbrarup 688
-Suderbrarup 3887
-Rude 391
-
-Sorup 4118
-Satrup 3581
-Saustrup 241
-Tastrup 464
-Hurup 1180
-Munkbrarup 1073
-Dollerup 1035
-Grundhof 981
-Esgrus 870
-Niesgrau 600
-Steinberg 1031
-Steinbergkirche 1445
-Mohrkirch 1037
-Rabenkirchen-Fauluck 683
-
-Kaltenkirchen 19747
-Kattendorf 914
-Ottendorf 836
-
 Kronshagen 11856
 Danischenhagen 3402
+Probsteierhagen 1899
+Schulendorf 452
 
-Altenholz 9737
-Altenhof 304
-Goosefeld 794
-Ahlefeld 150
-Ascheffel 966
-Damendorf 456
-Latendorf 608
-Haby 608
-Osterby 906
-Osterstedt 668
-Neufeld 668
-Neufelderkoog 140
-Felde 2159
-Hohenfelde 1104
-Bendfeld 260
-Fargau-Pratjau 815
+Heikendorf 8056
+Ottendorf 836
+Tuttendorf 1197
+Grube 1007
+Luhnstedt 430
+Hennstedt 1852
+Viol 1956
+Bekdorf 100
 
-Ratekau 15921
+Meldorf 7719
+Beldorf 285
+Bendorf 506
+Niendorf 185
+Gross Niendorf 621
+Maasbull 744
+Oesterdeichstrich 274
+Norddeich 442
+Wesselburener Deichhausen 150
+Wesselburen 3146
+Wesselburenerkoog 149
+Norderheistedt 149
+Idstedt 823
+Langstedt 1037
+
+Tangstedt 5937
+Itzstedt 2151
+Nahe 2434
+Nienwohld 459
+Bargfeld-Stegen 2917
+
+Bargteheide 13640
+
+Heide 20599
 Heidekamp 489
 
 Reinfeld 8340
 Steinfeld 738
-
-Bad Oldesloe 24322
-Rumpel 1289
-Krempel 669
+Stein 859
+Basthorst 384
+Borstorf 292
+Brunstorf 586
+Lottorf 201
+Hogsdorf 458
+Buhnsdorf 336
+Sophienhamm 354
+Hamfelde in Lauenburg 432
+Schwabstedt 1367
+Schwartbuck 895
+Rondeshagen 895
+Hagen 381
+Fuhlenhagen 291
+Fuhlendorf 381
+Behlendorf 393
+Kulpin 260
+Pogeez 430
+Einhaus 390
+Steinhorst 545
+Kabelhorst 481
+Ramstedt 438
+Klein Gladebrugge 600
+Brugge 1019
+Steenfeld 443
+Ostenfeld 1512
+Oster-Ohrstedt 697
+Norstedt 416
+Horstedt 733
+Wiemerstedt 168
+Eggstedt 858
 Meddewade 756
-Odderade 308
-Rade 244
-Borgstedt 1446
-
-Schacht-Audorf 4667
-
-Budelsdorf 10144
-Melsdorf 1775
-Drelsdorf 1295
-Bohmstedt 791
-
-Bredstedt 5146
-Breklum 2365
-Bordelum 2053
-Bondelum 208
-Trondel 432
-Remmels 432
-Krummendiek 79
-Krummesse 1532
-Weddelbrook 1025
-Hamweddel 501
-
-Wedel 31995
-Holm 3094
-Ockholm 356
-Maasholm 697
-Windbergen 839
-Klein Wesenberg 771
-Kroppelshagen-Fahrendorf 1128
-
-Kropp 6320
-Wiershop 151
-Neu Duvenstedt 151
-Alt Duvenstedt 1875
-Duvensee 501
-Duchelsdorf 144
-Techelsdorf 163
-Friedrichsholm 473
-Friedrich-Wilhelm-Lubke-Koog 173
-Friedrichskoog 2437
-Norderfriedrichskoog 35
-Friedrichstadt 2548
-Koldenbuttel 930
-Oldenswort 1278
-Oldersbek 626
-Olderup 466
-Sterup 1449
-Sollerup 462
-Hasenmoor 731
-Hassmoor 288
-Passade 300
-Padenstedt 1326
-Suderfahrenstedt 521
-Fahren 157
+Krempel 669
+Krempe 2441
+Krempdorf 254
+Kremperheide 2625
 Bahrenfleth 602
 Borsfleth 842
 Dammfleth 328
 
 Wilster 4443
-Hodorf 239
+Vollstedt 162
+Gross Vollstedt 990
+Gross Nordende 685
+Gross Sarau 919
+Kletkamp 155
+Romnitz 79
+Goldenitz 203
+Berkenthin 2033
+Barkenholm 195
+Arkebek 251
+Monkeberg 3551
+Ascheberg 3178
+Schellhorn 1714
+Mucheln 594
+Duchelsdorf 144
+Hamweddel 501
+Weddelbrook 1025
+Krummesse 1532
+Krummendiek 79
+Lehe 1155
+Trondel 432
+Remmels 432
+Emmelsbull-Horsbull 1038
+Galmsbull 677
+Bosbull 211
+
+Niebull 8752
+Dagebull 948
+Klixbull 983
+Sprakebull 235
+Achtrup 1557
+Satrup 3581
+Saustrup 241
+Tastrup 464
+
+Flensburg 85838
+
+Glucksburg 5946
+Munkbrarup 1073
+Schnarup-Thumby 598
+Norderbrarup 688
+Suderbrarup 3887
+Nottfeld 157
+Dollrottfeld 243
+Scheggerott 388
+Dreggers 56
+Meggerdorf 701
+Westerhever 121
+Osterhever 249
+Garding 3065
+
+Sankt Peter-Ording 4092
+Grothusenkoog 29
+Norderfriedrichskoog 35
+Friedrichstadt 2548
+Koldenbuttel 930
+Oldenswort 1278
 Oldendorf 1210
-Bendorf 506
-Thaden 298
-Hanerau-Hademarschen 3074
-Hattstedtermarsch 294
-Hattstedt 2416
-Ahrenshoft 517
-Ahrenviol 527
-Ahrenviolfeld 273
-Wapelfeld 335
+Heiligenstedten 1724
+Heiligenstedtenerkamp 752
+Daldorf 752
+
+Trappenkamp 5113
+
+Appen 5838
+Tappendorf 349
+Poschendorf 258
+Geschendorf 493
+Badendorf 779
+Hamberge 1357
+Wesenberg 968
+Klein Wesenberg 771
+Kroppelshagen-Fahrendorf 1128
+Todendorf 1062
+Hornbek 183
+Struckum 963
+Struvenhutten 1062
+Oldenhutten 142
+Bargstedt 777
+Borgstedt 1446
+
+Schacht-Audorf 4667
+Schackendorf 784
+Tolk 1097
+Stolk 886
+Rodenas 460
+Rodenbek 497
+Bredenbek 1319
+Neuwittenbek 1263
+Wittenbergen 173
+Poyenberg 407
+Koberg 727
+Ziethen 888
+Lieth 402
+Treia 1514
+Holstenniendorf 424
+Martensrade 1069
+Grossharrie 565
+Bohnhusen 352
+Tetenhusen 950
+Bergenhusen 700
+Bergewohrden 36
+Delve 705
+Uelvesbull 290
+Tetenbull 653
+Witzeeze 936
+Meezen 389
+Leezen 1677
+Osterrade 461
+Westerrade 512
+
+Hohenwestedt 5092
+Westerhorn 1293
+Osterhorn 441
+Lutzhorn 798
+Brande-Hornerkirchen 1606
+Neukirchen 1363
+
+Schonkirchen 6375
+
+Kaltenkirchen 19747
+Schillsdorf 890
+Kisdorf 3445
+Oersdorf 890
+Neversdorf 679
+Bebensee 596
+Duvensee 501
+Alt Duvenstedt 1875
+Neu Duvenstedt 151
+Jevenstedt 3332
+Schulp 1202
+Schulldorf 561
+Dalldorf 355
+Grevenkop 355
+Karolinenkoog 127
+Hedwigenkoog 267
+Klein Zecher 241
+Klein Schretstaken 511
+Westerau 797
+Westerborstel 95
+Rabenholz 304
+Lutjenholm 331
+Lohe-Fohrden 622
+Wohrden 1335
+Norderwohrden 286
+Epenwohrden 790
+Hemmingstedt 2986
+Ellingstedt 842
+Tellingstedt 2581
+
+Buchen 5442
+Buchholz 1128
+Westerholz 741
+Westermoor 383
+Vaalermoor 150
+Vaale 1318
+Nutteln 305
+Nienbuttel 144
+Aasbuttel 94
+Warringholz 318
+
+Kellinghusen 7921
+Hitzhusen 1225
+
+Bad Bramstedt 13177
+Armstedt 413
+Brokstedt 2224
+Lockstedt 191
+
+Hohenlockstedt 6224
+Schlotfeld 252
+Postfeld 502
+Barmissen 173
+Bissee 185
+Kirchbarkau 781
+Grossbarkau 198
+Krukow 198
+Quarnstedt 444
+Quarnbek 1798
+Jerrishoe 1040
+Stocksee 462
+Sollerup 462
+Sterup 1449
+Lehmkuhlen 1472
+Stubben 422
+Winsen 440
+Winseldorf 309
+Haseldorf 1743
+Osdorf 2407
+Bosdorf 1629
+
+Plon 13068
+Rathjensdorf 496
+Behrensdorf 603
+Behrendorf 609
 Sollwitt 335
 Lindewitt 2114
 
@@ -211,939 +287,863 @@ Handewitt 6152
 Wanderup 2270
 
 Tarp 5711
-
-Jarplund-Weding 4429
+Oeversee 1996
 Sankelmark 1358
 Kankelau 209
-Belau 331
-Haselau 1125
-Haseldorf 1743
-Damp 1743
-Klamp 768
-Giekau 1129
-Panker 1601
-Wankendorf 2914
-Rendswuhren 830
-Kuhren 642
-Embuhren 231
-Brinjahe 133
-Nahe 2434
-Itzstedt 2151
-Neritz 346
-Politz 1166
-Kittlitz 286
-Neuenbrook 673
-Neuendorf 899
-Neuendeich 537
-Klein Nordende 3027
-Gross Nordende 685
-Gross Sarau 919
-Kletkamp 155
-Kampen 637
-
-Trappenkamp 5113
-Heiligenstedtenerkamp 752
-Daldorf 752
-Damsdorf 259
-Bosdorf 1629
-Bosau 3611
-Dersau 936
-Glasau 977
-Lasbek 1162
-Ringsberg 500
-Koberg 727
-Poyenberg 407
-Wittenbergen 173
-Tarbek 173
-Lohbarbek 765
-Meggerdorf 701
-Lagerdorf 2790
-Munsterdorf 1924
-Moordorf 24
-Moordiek 125
-Auufer 136
-Muhlenbarbek 355
-Fuhlenhagen 291
-Fuhlendorf 381
-Behlendorf 393
-Kulpin 260
-Schulp 1202
-Nubbel 1656
-Strubbel 84
-Hemme 544
-Hemmingstedt 2986
-Beringstedt 749
-Ellingstedt 842
-Gross Rheide 1056
-Klein Rheide 367
-Dannewerk 1075
-Alt Bennebek 346
-Klein Bennebek 583
-Klein Barkau 255
-Tating 1022
-Mustin 703
-Holstenniendorf 424
-Todendorf 1062
-Hornbek 183
-Struckum 963
-Struvenhutten 1062
-Oldenhutten 142
-Hutten 205
-Braak 755
-Zarpen 1577
-Wasbek 2192
-Barsbek 637
-Jersbek 1804
-
-Bargteheide 13640
-Bargfeld-Stegen 2917
-Bargenstedt 891
-Sarzbuttel 734
-Tensbuttel-Rost 716
-Offenbuttel 294
-Oldenbuttel 320
-Todenbuttel 1134
-Karby 558
-Nienborstel 623
-Oldenborstel 141
-Wiedenborstel 4
-Aukrug 3846
-Hasenkrug 360
-Fahrenkrug 1697
-Bahrenhof 196
-Neuengors 916
-Dreggers 56
-Eggebek 2622
-Siebeneichen 247
-Siebenbaumen 619
-Siek 1958
-
-Grosshansdorf 9009
-Grossharrie 565
-Bohnhusen 352
-Bergenhusen 700
-Tetenhusen 950
-Hohn 2326
-Elsdorf-Westermuhlen 1766
-Seestermuhe 910
-Seester 973
-Weesby 479
-Wees 2247
-Weede 992
-Stedesand 918
-Sandesneben 1620
-Grande 656
-Kuddeworde 1343
-Kuden 651
+Suderfahrenstedt 521
+Padenstedt 1326
 Kudensee 166
-Westensee 1582
-Schierensee 384
-Blumenthal 671
-Besenthal 74
-Gottin 52
-Brothen 280
-Dalldorf 355
-Dassendorf 3148
-Escheburg 2988
-Juliusburg 194
-Roseburg 494
-Lebrade 640
-Muhlenrade 215
-Grossenrade 551
-Lehmrade 460
-Utersum 407
-Alkersum 412
-Oldsum 566
-Borgsum 342
-Nieblum 630
+Kuden 651
+Hohwacht 864
+Kronprinzenkoog 985
+Friedrich-Wilhelm-Lubke-Koog 173
+Friedrichsholm 473
+Friedrichskoog 2437
+Neufelderkoog 140
+Neufeld 668
+Felde 2159
+Achterwehr 931
+Oesterwurth 266
+Stelle-Wittenwurth 467
+Hemme 544
+Siebenbaumen 619
+Siebeneichen 247
+Eggebek 2622
+Struxdorf 683
+Langeness 128
+Langenhorn 3126
+Hohenhorn 443
+Gudendorf 443
+Barlt 834
+Fohrden-Barl 291
+Lentfohrden 2332
+Nutzen 1167
+Gnutz 1165
+Brammer 452
+Brodersdorf 452
+Brodersby 727
+Geltorf 431
+Wohltorf 2249
+Weddingstedt 2235
+Beringstedt 749
+Huje 297
+Mozen 461
+Hogel 462
+Hogersdorf 403
+Hardebek 514
+Goldebek 364
+Goldelund 399
+Joldelund 743
+Bordelum 2053
 
-Niebull 8752
-Bosbull 211
-Emmelsbull-Horsbull 1038
-Galmsbull 677
-Dagebull 948
-Klixbull 983
-Sprakebull 235
-Achtrup 1557
-Horup 638
-Braderup 654
-Brickeln 211
-Rickert 1094
-Rickling 3328
-Gonnebek 484
-Bonebuttel 2049
-Busdorf 2149
-Reesdorf 153
+Bredstedt 5146
+Bohmstedt 791
+Hattstedt 2416
+Ahrenshoft 517
+Ahrenviol 527
+Ahrenviolfeld 273
+Wapelfeld 335
+Stapelfeld 1586
+
+Glinde 16210
+Linden 859
+Lunden 1652
+Bekmunde 168
+Hodorf 239
 Besdorf 234
 Bokelrehm 151
 Gokels 592
 Seefeld 424
 Schenefeld 2524
-Warringholz 318
+Hanerau-Hademarschen 3074
+Thaden 298
+Hadenfeld 105
+Hoffeld 162
+Schurensohlen 169
+Bimohlen 967
+Pahlen 1206
+Ahlefeld 150
+Goosefeld 794
+Loose 841
+Holzdorf 965
+Breiholz 1535
+Breitenberg 410
+Borgdorf-Seedorf 410
+Seedorf 2297
+Nehms 547
+Nehmten 297
+Jahrsdorf 233
+Albersdorf 3514
+Dobersdorf 1259
 
-Harrislee 11596
+Raisdorf 7611
 
-Flensburg 85838
-
-Glucksburg 5946
-
-Gluckstadt 12121
-Elskop 157
-Grevenkop 355
-Karolinenkoog 127
-Grothusenkoog 29
-Garding 3065
-
-Sankt Peter-Ording 4092
-Sankt Margarethen 1072
-Kabelhorst 481
-Steinhorst 545
-Krukow 198
-Grossbarkau 198
-Bark 1017
-Barkelsby 1564
-Brodersby 727
-Grodersby 257
-Arnis 297
-Ekenis 234
-Brekendorf 1067
-Blekendorf 1859
-Helmstorf 335
-
-Lutjenburg 5814
-Lutjensee 3046
-Lutjenwestedt 632
-Lurschau 1101
-Schashagen 2385
+Klausdorf 6047
+Prasdorf 452
+Tasdorf 362
+Kuhsen 356
+Loptin 292
+Stakendorf 461
+Emkendorf 1548
+Westensee 1582
+Schierensee 384
+Schieren 267
+Suderende 182
+Suderau 776
+Fahren 157
+Fahrenkrug 1697
+Bahrenhof 196
+Neuengors 916
+Neuendorf 899
+Neuendeich 537
+Klein Nordende 3027
+Heidgraben 2241
+Friedrichsgraben 67
+Stafstedt 385
+Wallen 41
+Willenscharen 161
 
 Scharbeutz 12087
-
-Eutin 16984
+Schashagen 2385
+Altenkrempe 1145
 
 Neustadt in Holstein 16176
 
 Oldenburg in Holstein 9940
-Goel 1202
-Boel 772
-Westerborstel 95
-Westerau 797
-Klein Schretstaken 511
-Klein Zecher 241
-Todesfelde 1040
-Tensfeld 802
-Lottorf 201
-Borstorf 292
-Brunstorf 586
-Grevenkrug 305
-Buhnsdorf 336
-Hogsdorf 458
-Hogersdorf 403
-Hogel 462
-Reussenkoge 372
-Mussen 956
-Nusse 1017
-Panten 747
-Lankau 515
-Albsfelde 44
-Fredeburg 39
 
-Ratzeburg 13623
-Bak 826
-Mechow 98
-Luchow 237
+Lutjenburg 5814
+Helmstorf 335
+Rastorf 879
+Kastorf 1145
+Waabs 1462
+Welmbuttel 491
+Havekost 135
+Havetoft 913
+Bornsen 3810
+Mohnsen 516
+Raa-Besenbek 516
+
+Schwarzenbek 14832
+Kollow 661
+Kollmar 1793
+Kollmoor 36
+Storkathen 108
+Stordorf 132
+Moordorf 24
+Moordiek 125
+Auufer 136
+Muhlenbarbek 355
+Lohbarbek 765
+Tarbek 173
+
+Ellerbek 4326
+
+Ellerau 5500
+Ellerhoop 1304
+Klein Offenseth-Sparrieshoop 2687
+Gross Offenseth-Aspern 424
+Seth 2026
 Winnemark 507
-Winnert 788
-Wittbek 764
-Neuwittenbek 1263
-Rodenbek 497
-Bredenbek 1319
-Bovenau 1025
-Groven 121
-Grove 244
-Woltersdorf 272
-Wolmersdorf 355
-Rosdorf 401
-Oeschebuttel 224
-Lockstedt 191
+Lehmrade 460
+Grossenrade 551
+Grossensee 1684
+Keitum 1250
+Breitenfelde 1792
+Lutau 652
+Westerdeichstrich 926
+Marnerdeich 348
 
-Hohenlockstedt 6224
-Schlotfeld 252
-Nottfeld 157
-Dollrottfeld 243
-Scheggerott 388
-Stipsdorf 241
-Arpsdorf 245
-Dorpstedt 558
-Horstedt 733
-Wiemerstedt 168
-Wallsbull 892
-Wallen 41
-Willenscharen 161
-Rethwisch 631
+Busum 4904
+Busumer Deichhausen 348
+Busenwurth 361
+Ramhusen 155
+Diekhusen-Fahrstedt 690
+Osterstedt 668
+
+Norderstedt 71439
+Norderstapel 829
+Suderstapel 1053
+Oldersbek 626
+Olderup 466
+Braderup 654
+Brickeln 211
+Lohe-Rickelshof 1985
+Rickert 1094
+
+Budelsdorf 10144
+Elsdorf-Westermuhlen 1766
+
+Westerronfeld 5227
+
+Osterronfeld 5213
+
+Rendsburg 28323
+
+Burg 4321
+Aebtissinwisch 72
 Wisch 731
 Wiemersdorf 1520
 Gremersdorf 1502
 Sommerland 848
 Langballig 1502
-Balau 242
-Alt Molln 860
-
-Molln 18469
-Brunsmark 143
-Kronsmoor 198
-Westermoor 383
-Vaalermoor 150
-Wesselburener Deichhausen 150
-Oesterdeichstrich 274
-Norddeich 442
-Gross Schenkenberg 568
-Gross Niendorf 621
-Maasbull 744
-Klappholz 518
-Westerholz 741
-Buchholz 1128
-Tolk 1097
-Talkau 543
-Janneby 425
-Ahneby 244
-Kohn 870
-Hohndorf 347
-Wittenborn 805
-Stuvenborn 893
-Friedrichsgabekoog 70
-Goltoft 238
-Kiesby 238
-Oersberg 323
-Sarlhusen 528
-Kellenhusen 1074
-Dahme 1117
-Damlos 625
+Langeln 491
+Wangels 2428
+Harmsdorf 735
 
 Lensahn 5085
-Sahms 371
-Nehms 547
-Seedorf 2297
-Kasseedorf 1581
-Schonwalde am Bungsberg 2527
+Damlos 625
+Goel 1202
+Riepsdorf 1054
+Arpsdorf 245
+Rosdorf 401
+Oeschebuttel 224
+Escheburg 2988
+Juliusburg 194
+Roseburg 494
+Lebrade 640
+Muhlenrade 215
+Dahmker 156
+Dahme 1117
+Kellenhusen 1074
+
+Gromitz 7847
+Janneby 425
+Ahneby 244
+Esgrus 870
+Niesgrau 600
+Grauel 250
+Reher 816
+Oldenborstel 141
+Nienborstel 623
+Horsten 95
+
+Horst 5183
+Altenmoor 275
+Moorhusen 91
+Tackesdorf 91
+Reesdorf 153
+Busdorf 2149
+Bokhorst 142
+Bonebuttel 2049
+Buttel 48
+
+Brunsbuttel 13950
+Reinsbuttel 416
+Tensbuttel-Rost 716
+Sarzbuttel 734
+Odderade 308
+Rade 244
+Bovenau 1025
+Groven 121
+Grove 244
+Woltersdorf 272
+Silzen 170
+Giesensdorf 93
+Gross Disnack 93
+Gross Boden 211
+Karlum 211
+Schiphorst 573
 Schonberg 1304
 Schonbek 173
-Heinkenborstel 153
-Hellschen-Heringsand-Unterschaar 175
-Heringsdorf 1103
-Delingsdorf 2002
+Schonwalde am Bungsberg 2527
+Ringsberg 500
+Krempermoor 552
+Lasbek 1162
+Wasbek 2192
+Zarpen 1577
+Braak 755
+Hutten 205
+Sievershutten 1161
+Kattendorf 914
+Latendorf 608
+Damendorf 456
+Brekendorf 1067
+Blekendorf 1859
+Panker 1601
+Giekau 1129
+Klamp 768
+Rantzau 313
+Dannau 682
+Dannewerk 1075
+Klein Rheide 367
+Gross Rheide 1056
+Gross Ronnau 548
+Klein Ronnau 1492
 
-Ahrensburg 30103
-
-Ahrensbok 8643
-Pronstorf 1690
-Geschendorf 493
-Badendorf 779
-Monkhagen 633
-Hagen 381
-
-Bad Bramstedt 13177
-Armstedt 413
-Quarnstedt 444
-Quarnbek 1798
-Jerrishoe 1040
-Wangelau 231
-Bollingstedt 1445
-Hollingstedt 1021
-Basedow 684
-Kollow 661
-
-Schwarzenbek 14832
-Raa-Besenbek 516
-
-Reinbek 25261
-
-Wentorf bei Hamburg 12104
-Wentorf 689
-Wendtorf 1139
-Stordorf 132
-Gribbohm 503
-Friedrichsgraben 67
-Stafstedt 385
-Witsum 41
-Dunsum 94
-Wittdun 650
-Witzhave 1446
-Kiebitzreihe 2256
-Breiholz 1535
-Hamdorf 1316
-Almdorf 548
-Osdorf 2407
-Felm 1144
-
-Gettorf 6297
-Neudorf-Bornstein 1042
-Bornsen 3810
-Mohnsen 516
-Pohnsdorf 518
-Oevenum 518
-Tinnum 2997
-Tinningstedt 197
-Schmalensee 493
-Schmalstede 245
-Steenfeld 443
-Ostenfeld 1512
-Hadenfeld 105
-Hoffeld 162
-Schurensohlen 169
-Bunsoh 915
-Trennewurth 294
-Busenwurth 361
-Schmedeswurth 202
-Diekhusen-Fahrstedt 690
-Ramhusen 155
-Dingen 679
-Hemdingen 1700
-
-Rellingen 13707
+Bad Segeberg 16052
 
 Pinneberg 40577
 Borstel-Hohenraden 2064
 Borstel 147
 Elmenhorst 2244
-
-Horst 5183
-Osterhorn 441
-Lutzhorn 798
-Nutzen 1167
-Gnutz 1165
-
-Nortorf 6396
-Ellerdorf 577
-
-Ellerau 5500
-Ellerhoop 1304
-
-Ellerbek 4326
-
-Halstenbek 16212
-Wattenbek 2883
-
-Bordesholm 7709
-Muhbrook 515
-Kirchbarkau 781
-Boksee 466
-Bissee 185
-Barmissen 173
-Peissen 309
-Eisendorf 294
-Thumby 501
-Schnarup-Thumby 598
-Blunk 598
-Lunden 1652
-Linden 859
-
-Glinde 16210
-Linau 1182
-Grinau 294
-Warnau 360
-Negenharrie 360
-Negernbotel 1032
-
-Bad Segeberg 16052
-Bebensee 596
-Neversdorf 679
-Oeversee 1996
-Sieverstedt 1653
-Sievershutten 1161
-Hartenholm 1808
-Schmalfeld 1885
-Sulfeld 3349
-Kummerfeld 2012
-Gross Kummerfeld 1958
-Hummelfeld 259
-Fedderingen 259
-Bornhoved 3537
-Hovede 74
-Delve 705
-Dellstedt 792
-Suderdorf 399
-Suderau 776
-Suderende 182
-Fredesdorf 363
-Glusing 126
-Kronsgaard 252
-Gross Ronnau 548
-Gross Gronau 3502
-Pogeez 430
-Einhaus 390
-Busumer Deichhausen 348
-
-Busum 4904
-
-Husum 20841
-Mildstedt 3697
-Idstedt 823
-Langstedt 1037
-Langeness 128
-Wesseln 1398
-Haselund 875
-Struxdorf 683
-Strukdorf 255
-Witzeeze 936
-Tetenbull 653
-Kotzenbull 261
-Kothel 267
-Helse 990
-Nettelsee 394
-Postfeld 502
-Honigsee 474
-
-Molfsee 4969
-
-Flintbek 7276
-Lindau 1378
-Holtsee 1330
-Holt 181
-Welt 219
-Geltorf 431
-Wohltorf 2249
-Weddingstedt 2235
-Ladelund 1500
-Strande 1552
-Kolkerheide 68
-Elpersbuttel 907
-Stolpe 1322
-Stolk 886
-Rodenas 460
-Grode 15
-
-Wyk auf Fohr 4429
-Wrixum 670
-Risum-Lindholm 3581
-
-Leck 7593
-Fleckeby 1751
+Travenhorst 212
+Vollerwiek 212
+Dollerup 1035
+Grundhof 981
+Ulsby 464
+Barkelsby 1564
+Gammelby 554
+Kasseburg 554
 
 Eckernforde 23383
-Gammelby 554
-Schaalby 1700
-Medelby 878
-Langwedel 1372
-Borgwedel 717
-Heidmuhlen 672
-Heidmoor 330
-Lentfohrden 2332
-Fohrden-Barl 291
-Wohrden 1335
-Norderwohrden 286
-Epenwohrden 790
-Nindorf 1145
-Gudendorf 443
-Barlt 834
-Karlum 211
-Schiphorst 573
-Horsten 95
-Jevenstedt 3332
-Immenstedt 616
-Wulfsmoor 389
-Schwissel 240
-Ruhwinkel 1069
-Klein Wittensee 221
+Fleckeby 1751
+Osterby 906
+Ascheffel 966
+Hollenbek 456
+Bistensee 276
 Gross Wittensee 1007
-Grossensee 1684
-Keitum 1250
-Breitenfelde 1792
-Breitenberg 410
-Borgdorf-Seedorf 410
-Sehestedt 869
-Brebel 410
-Nebel 952
-Rabel 651
-Norddorf 651
-Nordhastedt 2764
-Nordhackstedt 516
-Suderhackstedt 357
-Suderhastedt 860
-Vollstedt 162
-Gaushorn 212
+Klein Wittensee 221
+Ruhwinkel 1069
+Heede 694
+Weede 992
+Sarlhusen 528
+Oersberg 323
+Jersbek 1804
+Barsbek 637
+Wendtorf 1139
 
-Elmshorn 48703
-Seeth-Ekholt 853
-Klein Offenseth-Sparrieshoop 2687
-Gross Offenseth-Aspern 424
-Grossenaspe 2849
-Hohenaspe 2089
-Lohe-Fohrden 622
-Lutjenholm 331
-Rabenholz 304
-Heidgraben 2241
-Heist 2675
+Gettorf 6297
+Neudorf-Bornstein 1042
+Noer 902
+Felm 1144
 
-Moorrege 3988
+Altenholz 9737
+Altenhof 304
+Holtsee 1330
+Holt 181
+Bornholt 224
+Bornhoved 3537
+Gonnebek 484
+Alt Bennebek 346
+Borm 751
+Blomesche Wildnis 700
+Wohlde 575
+Gronwohld 1311
+Luchow 237
+Mechow 98
+Bak 826
 
-Uetersen 17921
-
-Tornesch 13079
-Beschendorf 536
-Niendorf 185
-Prinzenmoor 185
-Kronprinzenkoog 985
-Tremsbuttel 1891
-Tuttendorf 1197
-Grube 1007
-Kalubbe 580
-Stubben 422
-Wobbenbull 466
-Schobull 1658
-Arlewatt 327
-Schwesing 908
-Wensin 797
-Lowenstedt 657
-Tappendorf 349
-
-Appen 5838
-Prisdorf 2283
-Hoisdorf 3460
-Bonningstedt 3903
-
-Tangstedt 5937
-Tellingstedt 2581
-
-Buchen 5442
-Schwartbuck 895
-
-Bad Schwartau 19722
-
-Stockelsdorf 16562
-
-Lubeck 212207
-Ecklak 339
-Eddelak 1455
-Averlak 666
-
-Westerland 8967
-
-Sylt-Ost 5806
-Bokholt-Hanredder 1188
-Jagel 969
-Dageling 1048
-Breitenburg 1049
-Oelixdorf 1735
-
-Itzehoe 33047
-Fitzen 345
-Ritzerau 316
+Ratzeburg 13623
+Fredeburg 39
+Albsfelde 44
 Sirksfelde 316
 Walksfelde 214
 Klinkrade 539
 Fresendelf 99
 Frestedt 385
 Krumstedt 531
-
-Barmstedt 9521
-Bullenkuhlen 367
-Lehmkuhlen 1472
-Lehe 1155
-Reher 816
-Grauel 250
-Grabau 820
-Mielkendorf 1414
-Schuby 2530
-Guby 861
-Havetoftloit 957
-Looft 392
-Loop 197
-Loose 841
-Holzdorf 965
-Rieseby 2561
-Kasseburg 554
-
-Burg 4321
-Aebtissinwisch 72
-Krummwisch 736
-Poschendorf 258
-Windeby 1103
-Stangheck 258
-
-Kellinghusen 7921
-Hitzhusen 1225
-Moorhusen 91
-Altenmoor 275
-Tackesdorf 91
-Schackendorf 784
-Wacken 1844
-Ausacker 523
-Freienwill 1486
+Bargenstedt 891
+Nindorf 1145
+Ehndorf 628
+Hohndorf 347
+Wittenborn 805
+Stuvenborn 893
+Friedrichsgabekoog 70
+Goltoft 238
+Kiesby 238
+Weesby 479
+Wees 2247
+Stedesand 918
+Sieverstedt 1653
+Silberstedt 2213
+Jubek 2581
+Jorl 883
 Grossenwiehe 2829
 Grosssolt 1870
-Grossenbrode 2190
-Wewelsfleth 1538
-Suderlugum 2242
-Wrist 2507
-List 2642
-Bistensee 276
-Holzbunge 365
+Freienwill 1486
+Hurup 1180
+Aventoft 523
+Traventhal 551
+Besenthal 74
+Gottin 52
+Guster 1216
+Sterley 941
 
-Henstedt-Ulzburg 26083
-Hennstedt 1852
-Viol 1956
-Bekdorf 100
+Westerland 8967
+Tinnum 2997
+Tinningstedt 197
+Schmalensee 493
+Schmalstede 245
+Schmalfeld 1885
+Sulfeld 3349
+Kummerfeld 2012
+Melsdorf 1775
+Langwedel 1372
 
-Meldorf 7719
-Beldorf 285
-Bornholt 224
-Hohenhorn 443
-Langenhorn 3126
-Behrensdorf 603
-Behrendorf 609
-Ehndorf 628
-Bothkamp 313
-Brugge 1019
-Rugge 226
-Klein Gladebrugge 600
-Havekost 135
-Welmbuttel 491
-Wennbuttel 76
-Storkathen 108
-Kollmoor 36
-Kollmar 1793
+Wedel 31995
+Holm 3094
+Heist 2675
+
+Moorrege 3988
+Hammoor 1121
+Delingsdorf 2002
+
+Ahrensburg 30103
+
+Grosshansdorf 9009
+Siek 1958
 Kolln-Reisiek 2541
 Kayhude 1192
 Hude 188
-Suderstapel 1053
-Norderstapel 829
-Stapelfeld 1586
+Drage 612
+Winnert 788
+Wittbek 764
 
-Trittau 7688
-Lutau 652
-Westerdeichstrich 926
-Marnerdeich 348
-Wesselburen 3146
-Hillgroven 78
-Oesterwurth 266
-Stelle-Wittenwurth 467
-Rehm-Flehde-Bargen 619
+Flintbek 7276
 
-Tonning 5008
+Molfsee 4969
+Boksee 466
+Honigsee 474
+
+Preetz 15768
+Nettelsee 394
+Helse 990
+Krokau 485
+Schmilau 580
+Katharinenheerd 186
+Poppenbull 195
+Kotzenbull 261
+Wensin 797
+Lowenstedt 657
+Stangheck 258
+Windeby 1103
+Glusing 126
+Kronsgaard 252
+Lexgaard 62
+Hassmoor 288
+Hasenmoor 731
+Lutterbek 400
+Siezbuttel 62
+Dorpling 604
+Dorphof 757
+Arnis 297
+Grodersby 257
+Grode 15
+
+Wyk auf Fohr 4429
+Wrixum 670
+Oevenum 518
+Alkersum 412
+Utersum 407
+Hellschen-Heringsand-Unterschaar 175
+Heringsdorf 1103
+Hohenaspe 2089
+Belau 331
+Heilshoop 598
+Fiefbergen 598
+Windbergen 839
+Maasholm 697
+Ockholm 356
+Twedt 512
+Selent 1303
+Tielen 329
+Tramm 331
+Kruzen 323
+Gross Schenkenberg 568
+Stoltenberg 381
 Sonnebull 238
 Schlichting 238
-Stoltenberg 381
+Tating 1022
+Gelting 1867
 Stoltebull 872
 
 Kappeln 9677
-Dorphof 757
-Dorpling 604
-Siezbuttel 62
-Winsen 440
-Winseldorf 309
-Nehmten 297
-Jahrsdorf 233
-Fahrdorf 2453
-Hollenbek 456
-Kaiser Wilhelm Koog 365
-Tumlauer Koog 119
-Krogaspe 475
-Timmaspe 1124
-Datgen 572
-Wester-Ohrstedt 1124
-Bargstedt 777
-Brodersdorf 452
-Bokel 675
-Brammer 452
-Tramm 331
-Tielen 329
-Selent 1303
-Kosel 1345
-Beidenfleth 951
-Stadum 1058
-Stakendorf 461
-Emkendorf 1548
+Rabenkirchen-Fauluck 683
+Mohrkirch 1037
+Steinbergkirche 1445
+Steinberg 1031
+Quern 1344
 
-Heikendorf 8056
-
-Laboe 5315
-Noer 902
-Achterwehr 931
-Hohwacht 864
-
-Geesthacht 29487
-Basthorst 384
-Stein 859
-Tasdorf 362
-Kuhsen 356
-Westerhever 121
-Osterhever 249
+Sorup 4118
+Rude 391
+Blunk 598
+Seeth 688
+Seeth-Ekholt 853
+Bullenkuhlen 367
 Bevern 577
-Kleve 634
-Hetlingen 1276
-Rantrum 1562
-Humptrup 779
-Rumohr 736
-Schrum 68
-Krummbek 320
-Lammershagen 285
-Rondeshagen 895
-Manhagen 408
-Agethorst 208
-Mehlbek 466
-Albersdorf 3514
-Arkebek 251
-Barkenholm 195
-Ostrohe 972
-Wrohm 740
-Pahlen 1206
-Schalkholz 601
-Erfde 2118
-Bergewohrden 36
-Wohlde 575
-Nienwohld 459
-Gronwohld 1311
-Bimohlen 967
-Simonsberg 865
-Elisabeth-Sophien-Koog 46
-Sophienhamm 354
-Poggensee 354
-Loptin 292
-Gelting 1867
-Wangels 2428
-Harmsdorf 735
-Riepsdorf 1054
 
-Gromitz 7847
-Romnitz 79
-Goldenitz 203
-Berkenthin 2033
-Klempau 607
-Klein Pampau 640
-Gross Pampau 127
-Gross Boden 211
-Gross Buchwald 361
-Boren 834
-Soren 171
-Morel 267
-Schieren 267
+Barmstedt 9521
+Hemdingen 1700
+
+Rellingen 13707
+
+Halstenbek 16212
+Wattenbek 2883
+
+Bordesholm 7709
+Muhbrook 515
+Neuenbrook 673
+Kittlitz 286
+Politz 1166
+Rumpel 1289
+
+Bad Oldesloe 24322
+Alveslohe 2449
+Hasloh 3460
+Bonningstedt 3903
+
+Tonning 5008
+Strubbel 84
+Nubbel 1656
+Kalubbe 580
+Kronsmoor 198
+Wulfsmoor 389
+Immenstedt 616
+Wittmoldt 179
+Wittdun 650
+Stadum 1058
+Beidenfleth 951
+Lutjensee 3046
+Lutjenwestedt 632
+Lurschau 1101
+Schaalby 1700
+Haale 514
+Mustin 703
+Klein Barkau 255
+Klein Bennebek 583
+Bliestorf 699
+Pronstorf 1690
+Monkhagen 633
+Manhagen 408
+Mehlbek 466
+Agethorst 208
+Bondelum 208
+Ladelund 1500
+Strande 1552
+Kolkerheide 68
+Elpersbuttel 907
+Suderhackstedt 357
+Stolpe 1322
+Worth 164
+Witzwort 966
+Witzhave 1446
+Kiebitzreihe 2256
 Sierksdorf 1489
 Sierksrade 330
-Martensrade 1069
-Heilshoop 598
-Fiefbergen 598
-Ascheberg 3178
-Loit 282
-
-Plon 13068
-Rathjensdorf 496
-Giesensdorf 93
-Gross Disnack 93
-Silzen 170
-Kruzen 323
-Eggstedt 858
-
-Boostedt 4630
-
-Neumunster 78383
-Bokhorst 142
-Buchhorst 163
-Rantum 546
-Rantzau 313
-Dannau 682
-Klein Ronnau 1492
-Traventhal 551
-Travenhorst 212
-Vollerwiek 212
-Gross Vollstedt 990
-Krokau 485
-Brokdorf 1082
-Brokstedt 2224
-Fitzbek 368
-Witzwort 966
-Worth 164
-Pellworm 1152
-Hooge 91
-Hedwigenkoog 267
-Heiligenstedten 1724
-Bekmunde 168
-Kremperheide 2625
-Krempe 2441
-Krempdorf 254
-Altenkrempe 1145
-Krempermoor 552
+Jardelund 351
+Warder 616
 Hamwarde 749
-Langeln 491
 Labenz 839
-Bliestorf 699
-Wesselburenerkoog 149
-Poppenbull 195
-Hochdonn 1233
-Sankt Michaelisdonn 3762
 
-Rendsburg 28323
+Lubeck 212207
 
-Westerronfeld 5227
+Stockelsdorf 16562
 
-Osterronfeld 5213
+Bad Schwartau 19722
 
-Fockbek 6380
-
-Quickborn 20410
-Dornick 282
-Schellhorn 1714
-Mucheln 594
-Grebin 1054
-
-Malente 10817
-Salem 561
-
-Preetz 15768
-Heede 694
-Katharinenheerd 186
-Schmilau 580
-
-Fehmarn 12942
-
-Heiligenhafen 9308
-Schafflund 2323
-Meyn 611
-Ulsby 464
-Puls 627
-Kukels 409
-Lohe-Rickelshof 1985
-Ellhoft 141
-Aventoft 523
-Havetoft 913
-
-Wahlstedt 9553
-Schwabstedt 1367
-Hamfelde in Lauenburg 432
+Ratekau 15921
 
 Timmendorfer Strand 9127
 
 Susel 5338
-Selk 837
-Probsteierhagen 1899
-Drage 612
-Blomesche Wildnis 700
-Borm 751
+
+Eutin 16984
+
+Malente 10817
+Grebin 1054
+Loit 282
+Dornick 282
+Dersau 936
+Fedderingen 259
+Dingen 679
+Sankt Michaelisdonn 3762
+Sankt Margarethen 1072
+Taarstedt 862
+Kampen 637
+Bothkamp 313
+Suderlugum 2242
+Wewelsfleth 1538
+Wrist 2507
 Christiansholm 295
+Hohn 2326
 Bargstall 184
 Bargum 603
-Brande-Hornerkirchen 1606
-Neukirchen 1363
-Kirchnuchel 181
-Lexgaard 62
-Lutterbek 400
-Uelvesbull 290
-Stocksee 462
-Quern 1344
-Herzhorn 1059
-Hornum 942
-Helgoland 1333
-Landrecht 136
-Klanxbull 969
-Huje 297
-Huttblek 355
-Dahmker 156
-Hammoor 1121
-Jorl 883
-Ulsnis 634
-Twedt 512
-Luhnstedt 430
-Midlum 345
-Wagersrott 226
+
+Leck 7593
+Risum-Lindholm 3581
+Lindau 1378
+Haby 608
+Kaiser Wilhelm Koog 365
+Holzbunge 365
+Wiershop 151
+Lammershagen 285
+Krummbek 320
+Krummwisch 736
+Klappholz 518
+Loop 197
+Guby 861
+Havetoftloit 957
+Soren 171
+Boren 834
+Gross Buchwald 361
+Gross Pampau 127
+Klein Pampau 640
+Brothen 280
+Kothel 267
+Prinzenmoor 185
+Heidmoor 330
+Heidmuhlen 672
+Borgwedel 717
+Medelby 878
+Schmedeswurth 202
+Trennewurth 294
+Offenbuttel 294
+Oldenbuttel 320
+Todenbuttel 1134
+Karby 558
+Embuhren 231
+Brinjahe 133
+Dorpstedt 558
+
+Boostedt 4630
+Gross Kummerfeld 1958
+Grossenaspe 2849
+Grossenbrode 2190
+Gross Gronau 3502
+Klempau 607
+Lankau 515
+Panten 747
+Nusse 1017
+Mussen 956
+Reussenkoge 372
+Breklum 2365
+Almdorf 548
+Hamdorf 1316
+Wrohm 740
+Suderdorf 399
+Ellerdorf 577
+
+Nortorf 6396
+Wester-Ohrstedt 1124
+Timmaspe 1124
+Krogaspe 475
+Tumlauer Koog 119
 Kaisborstel 91
-Wittmoldt 179
+Wiedenborstel 4
+Aukrug 3846
+Hasenkrug 360
+Grevenkrug 305
+Poggensee 354
+Heinkenborstel 153
+Tensfeld 802
+Todesfelde 1040
+Hohenfelde 1104
+Bendfeld 260
+Fargau-Pratjau 815
+Schlesen 555
+
+Schleswig 24114
+Owschlag 3603
+
+Kropp 6320
+Fahrdorf 2453
+Lagerdorf 2790
+Munsterdorf 1924
+
+Neumunster 78383
+Seester 973
+Seestermuhe 910
+Haselau 1125
+Haselund 875
+Wesseln 1398
+Schwissel 240
+Rausdorf 240
+Bunsdorf 591
+Pohnsdorf 518
+Nieblum 630
+Blumenthal 671
+Datgen 572
+Bokel 675
+Morel 267
+Fitzbek 368
+Fitzen 345
+Ritzerau 316
+Neritz 346
+
+Elmshorn 48703
+Gaushorn 212
+Hornum 942
+Herzhorn 1059
+Sahms 371
+Wentorf 689
+
+Wentorf bei Hamburg 12104
+
+Reinbek 25261
+Dassendorf 3148
+Eisendorf 294
+Hattstedtermarsch 294
+Thumby 501
+Grinau 294
+Linau 1182
+Sandesneben 1620
+Grande 656
+Kuddeworde 1343
+
+Trittau 7688
+Nordhackstedt 516
+Nordhastedt 2764
+Suderhastedt 860
+Suderheistedt 559
+Ostrohe 972
+Schalkholz 601
+Hovede 74
+Dellstedt 792
+
+Wahlstedt 9553
+Negernbotel 1032
+Negenharrie 360
+
+Harrislee 11596
+
+Jarplund-Weding 4429
+Schafflund 2323
+Bramstedtlund 258
+Ellhoft 141
+Horup 638
+Meyn 611
+
+Itzehoe 33047
+Oelixdorf 1735
+Breitenburg 1049
+Ottenbuttel 746
+Kaaks 408
+Wacken 1844
+Ausacker 523
+Kohn 870
+Stipsdorf 241
+Ekenis 234
+Rieseby 2561
+Damp 1743
+
+Geesthacht 29487
+Basedow 684
+Huttblek 355
+Hollingstedt 1021
+Bollingstedt 1445
+Wangelau 231
 Langenlehsten 164
+Hetlingen 1276
+Gulzow 1289
+Kleve 634
+Rantrum 1562
+Rantum 546
+Buchhorst 163
+
+Henstedt-Ulzburg 26083
+Bilsen 720
+
+Quickborn 20410
+Hoisdorf 3460
+Prisdorf 2283
+
+Tornesch 13079
+
+Uetersen 17921
+
+Husum 20841
+Mildstedt 3697
+Schwesing 908
+Wobbenbull 466
+Schobull 1658
+Arlewatt 327
+Drelsdorf 1295
+Techelsdorf 163
+Passade 300
+Welt 219
+Kirchnuchel 181
+Wennbuttel 76
+Witsum 41
+Dunsum 94
+Landrecht 136
+Helgoland 1333
+Nebel 952
+Rabel 651
+Norddorf 651
+Borgsum 342
+Oldsum 566
+
+Sylt-Ost 5806
+List 2642
+
+Molln 18469
+Alt Molln 860
+Balau 242
+Grambek 389
+Brunsmark 143
+Gudow 1668
+Salem 561
+
+Fehmarn 12942
+
+Heiligenhafen 9308
+Kasseedorf 1581
+Glasau 977
+
+Ahrensbok 8643
+Bosau 3611
+Hummelfeld 259
+Wankendorf 2914
+Rendswuhren 830
+Kuhren 642
+Rethwisch 631
+Gribbohm 503
+Schrum 68
+
+Gluckstadt 12121
+Elskop 157
+Dageling 1048
+Jagel 969
+Klanxbull 969
+Bokholt-Hanredder 1188
+Eddelak 1455
+Averlak 666
+Ecklak 339
+Brokdorf 1082
+Strukdorf 255
+Kukels 409
+Peissen 309
+Puls 627
+Tremsbuttel 1891
+
+Fockbek 6380
+
+Laboe 5315
+Rickling 3328
+Damsdorf 259
+Schuby 2530
+Mielkendorf 1414
+Grabau 820
+Westre 397
+Erfde 2118
+Bunsoh 915
+Hartenholm 1808
+Bark 1017
+Kosel 1345
+Hochdonn 1233
+Beschendorf 536
+Boel 772
+Pellworm 1152
+Hooge 91
+Elisabeth-Sophien-Koog 46
+Simonsberg 865
+Rehm-Flehde-Bargen 619
+Hillgroven 78
+Neuberend 1142
+Wallsbull 892
+Sehestedt 869
+Brebel 410
+Midlum 345
+Fredesdorf 363
+Selk 837
+Humptrup 779
+Rumohr 736
+Ulsnis 634
+Talkau 543
+Looft 392
+Warnau 360
+Wolmersdorf 355
+Hingstheide 81
+Monkloh 268
+Rugge 226
+Wagersrott 226

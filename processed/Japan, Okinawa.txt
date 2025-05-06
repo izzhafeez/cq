@@ -1,47 +1,47 @@
 
 
 Naha 317625
+Ie 4118
+Motobu 12530
+Nakijin 8894
+Tonaki 346
+Zamami 892
+Ginoza 5833
+
+Ginowan 100125
+Nakagusuku 22157
+Kitanakagusuku 17969
+Tomigusuku 64612
 Haebaru 40440
 Yonabaru 19695
 Nishihara 34984
 Ishigaki 47637
 Taketomi 3942
-Tomigusuku 64612
-Nakagusuku 22157
-Kitanakagusuku 17969
-
-Ginowan 100125
-
-Okinawa 142752
-Chatan 28201
-Yomitan 41206
-Kadena 13521
-Izena 1322
-Iheya 1126
-Yaese 30941
-Itoman 61007
-Kitadaito 590
-Minamidaito 1285
 Kunigami 4517
 Ogimi 3092
 Higashi 1598
 Tokashiki 718
-Zamami 892
-Tarama 1058
-Miyakojima 52931
-Kumejima 7192
-Tonaki 346
-Nakijin 8894
-Motobu 12530
-Nago 63554
-Yonaguni 1676
-Aguni 683
-Ie 4118
-Ginoza 5833
-Kin 10806
-Onna 10869
-
-Uruma 125303
 
 Urasoe 115690
+
+Okinawa 142752
+Chatan 28201
+Kadena 13521
+Yomitan 41206
+
+Uruma 125303
+Kin 10806
+Onna 10869
+Nago 63554
+Itoman 61007
+Yaese 30941
 Nanjo 44043
+Yonaguni 1676
+Aguni 683
+Kumejima 7192
+Miyakojima 52931
+Tarama 1058
+Izena 1322
+Iheya 1126
+Minamidaito 1285
+Kitadaito 590

@@ -1,236 +1,227 @@
 
 
 Leipzig 504971
+Grosslehna 2487
+Grossposna 5608
+Grossbardau 1787
+Grossbothen 3602
 
-Markkleeberg 24000
-Markranstadt 13053
-Bernstadt 4046
-Schonau-Berzdorf 1796
-Merzdorf 980
-Zabeltitz 3047
-Wildenhain 1765
+Grimma 17991
+Reinhardtsgrimma 3094
+Hermsdorf 1034
+Kreischa 4537
+Weischlitz 3614
+Hainewalde 1826
+Cunewalde 5601
+Lawalde 2131
+Strahwalde 828
+Herrnhut 2830
+Hochkirch 2525
+Neukirch 1783
+Ohorn 2500
+Steina 1842
+Hohnstein 3806
+Konigstein 3011
+Konigswalde 2477
+Grossruckerswalde 4005
 
-Grossenhain 16573
-
-Meissen 28492
-Nossen 7588
-Rosswein 7568
-Rossau 3925
+Marienberg 14383
+Altenberg 5167
+Rechenberg-Bienenmuhle 2506
+Frauenstein 3364
+Barenstein 2804
+Wolkenstein 4359
+Scharfenstein 1085
+Grossolbersdorf 3234
+Olbersdorf 5948
+Leutersdorf 4284
+Neugersdorf 6260
+Beiersdorf 1369
+Gersdorf 4637
+Lugau 7671
 Kossa 2514
-Tannenbergsthal 1536
-Tannenberg 1283
-Gahlenz 919
-Bohlen 6982
-Rotha 4199
-Rothenburg 5841
-Hahnichen 1528
-Rietschen 3072
-Pretzschendorf 4440
-Mutzschen 2402
-Kitzscher 6152
-
-Delitzsch 24998
-Zschortau 2412
-
-Taucha 14552
-
-Glauchau 26473
-Pfaffroda 3187
-Niederfrohna 2533
-
-Limbach-Oberfrohna 27056
-Muhlau 2340
-Muhltroff 1949
-Mehltheuer 1587
-Theuma 1132
-Neuensalz 2400
-Treuen 9189
-
-Auerbach 21358
-Grunbach 1927
-Neustadt Vogtland 1274
-
-Reichenbach/Vogtland 22530
-Limbach 1574
-Netzschkau 4448
-Mylau 3041
-Erlau 3638
-
-Mittweida 16619
-Altmittweida 2132
-Grosspostwitz 3116
+Rossau 3925
+Rosswein 7568
 Grossweitzschen 3405
 Hirschfeld 1287
 Hirschfelde 3994
 Schlegel 1115
-Schleife 2950
-Trebendorf 1106
-Trebsen 4244
-Nerchau 4073
-Obercunnersdorf 2249
-Niedercunnersdorf 1753
-Durrhennersdorf 1213
-Beiersdorf 1369
-Gersdorf 4637
-Lugau 7671
-Oberlungwitz 6794
-
-Hohenstein-Ernstthal 16542
-Lichtenstein 13612
-Hartenstein 5043
-Scharfenstein 1085
-Wolkenstein 4359
-Grossruckerswalde 4005
-Konigswalde 2477
-Mildenau 3749
-
-Annaberg-Buchholz 23092
-Wiesa 3811
-
-Riesa 37156
-Priestewitz 3598
-Jesewitz 3174
-Thallwitz 3894
-
-Eilenburg 17609
-Waldenburg 4597
-Callenberg 5763
-Altenberg 5167
-Rechenberg-Bienenmuhle 2506
-Frauenstein 3364
-Frankenstein 1226
-
-Frankenberg 16850
-Niederwiesa 5221
-Floha 11143
-Falkenau 2119
-Falkenstein 9528
-Ellefeld 3077
-Lengenfeld 8141
-Lengefeld 4834
-Pockau 4283
-Bockau 2599
-Eibenstock 6706
-Wechselburg 2223
-Hohburg 3061
-Mengelsdorf 400
-Berthelsdorf 1813
-Neustadt in Sachsen 14000
-Johstadt 3310
-Barenstein 2804
-Crottendorf 4705
-Ottendorf-Okrilla 10093
-Hockendorf 3156
-Thiendorf 2298
-Lampertswalde 2060
-Hauswalde 3265
-Frankenthal 1071
-Rammenau 1522
-
-Kamenz 18270
-Horka 2053
-Burkau 3000
+Bertsdorf-Hornitz 2616
 Burkhardtsdorf 7067
 Gornsdorf 2266
 Jahnsdorf 6117
-Bernsdorf 5871
-Strassgrabchen 774
-Elstra 3176
-Nebelschutz 1241
-Panschwitz-Kuckau 2242
-Neschwitz 2653
-Malschwitz 3800
-Guttau 1736
+Neukirchen 7517
+Markneukirchen 7095
+Erlbach 1895
+Grunbach 1927
 
-Bautzen 41972
-Deutzen 2176
-Kitzen 2036
-Neukieritzsch 3602
-Groitzsch 7607
-Pegau 4759
-Elstertrebnitz 1549
-Sebnitz 9114
-Lobnitz 2216
-Dobernitz 2896
-Doberschutz 4612
-Mockrehna 5718
-Mochau 2757
-Zwochau 1167
-Lobstadt 2675
-Liebstadt 1367
-Glashutte 4601
-Reinhardtsgrimma 3094
-Kreischa 4537
-Hermsdorf 1034
-Wermsdorf 6074
-Hormersdorf 1645
-Grunhainichen 1383
+Auerbach 21358
+Limbach 1574
 
-Schkeuditz 18487
-Colditz 5173
-Zschadrass 3763
+Reichenbach/Vogtland 22530
+Reichenbach 4422
+Sohland am Rotstein 1433
+Sohland 7682
+Kirschau 2607
 Raschau 4085
 Laussnitz 2102
 Puschwitz 1049
 Krauschwitz 3998
-Weisskeissel 1481
+Malschwitz 3800
+Neschwitz 2653
+Panschwitz-Kuckau 2242
+Crostwitz 1201
+Rackelwitz 1216
+Bockelwitz 2794
+Leisnig 6968
+Elsnig 1687
+Oelsnitz 12686
+Bosenbrunn 1460
+Breitenbrunn 3741
+Erlabrunn 964
+Sosa 2223
+Wechselburg 2223
+Bockau 2599
+Pockau 4283
+Lengefeld 4834
+Lengenfeld 8141
+Ellefeld 3077
+Falkenstein 9528
+Frankenstein 1226
 
-Weisswasser 22099
-Gablenz 1950
-Bad Muskau 4027
-Mucka 1275
-Quitzdorf 1702
-Niesky 11111
+Frankenberg 16850
+Niederwiesa 5221
+Oederan 7143
 Niederau 4334
 Niederdorf 1377
 Stollberg 12948
 Stolpen 6284
 Bad Brambach 2284
 Bad Elster 4021
-Oelsnitz 12686
-Bosenbrunn 1460
-Breitenbrunn 3741
-Erlabrunn 964
-Zschorlau 5944
+Elsterberg 5153
+Bergen 1102
+Johanngeorgenstadt 5573
+Bernstadt 4046
+Markranstadt 13053
+
+Markkleeberg 24000
 
 Schneeberg 16784
 Kirchberg 9400
-Neukirch 1783
-Schwepnitz 2823
-Grossschweidnitz 1377
-Grossschonau 6571
-Grossschirma 6179
-Halsbrucke 3619
+Wilkau-Hasslau 11850
+Reinsdorf 8907
+Bernsdorf 5871
+Strassgrabchen 774
+Elstra 3176
+Ostrau 4390
+Mutzschen 2402
+Wermsdorf 6074
+Mugeln 4879
+Niederfrohna 2533
+
+Limbach-Oberfrohna 27056
+Muhlau 2340
+Taura 2609
+Claussnitz 3505
+
+Chemnitz 247220
+Dorfchemnitz 1803
+Zwonitz 11547
+Lossnitz 10433
+
+Aue 18554
+Ossling 2622
+Wittichenau 6261
+Hainichen 9511
+Grunhainichen 1383
+
+Schkeuditz 18487
+Zschortau 2412
+
+Delitzsch 24998
+Dobernitz 2896
+Lobnitz 2216
+Sebnitz 9114
+Neustadt in Sachsen 14000
+Berthelsdorf 1813
+Mengelsdorf 400
+Hohburg 3061
+Frohburg 7983
+
+Borna 18806
+Gornau 4101
+Venusberg 2390
+Drebach 2574
+Ehrenfriedersdorf 5360
+Friedersdorf 1512
+Kodersdorf 2728
+Schmiedeberg 4806
+
+Radeberg 18747
+Feldschlosschen 900
+Wachau 4551
+Mochau 2757
+Zwochau 1167
+Lobstadt 2675
+Liebstadt 1367
+Glashutte 4601
+Beilrode 2666
+Rodewisch 7577
+Otterwisch 1552
+Crottendorf 4705
+Schlettau 2733
+
+Annaberg-Buchholz 23092
+Wiesa 3811
+Mildenau 3749
+
+Heidenau 16756
+Dohna 6140
+
+Pirna 40322
+Dohma 2190
+Struppen 2749
+Eppendorf 4863
+Borstendorf 1363
+Leubsdorf 3981
+Borsdorf 8489
+
+Taucha 14552
+
+Glauchau 26473
+
+Crimmitschau 22442
+Ponitz 1808
+Leubnitz 1509
+
+Werdau 24424
+Werda 1774
+Neustadt Vogtland 1274
+Stadt Wehlen 1733
+Bad Schlema 5540
+Bad Schandau 3078
+Rathmannsdorf 1155
+Hartmannsdorf 4732
+Burgstadt 12477
+Johstadt 3310
+Albertstadt 2137
+
+Dresden 486854
+Bannewitz 10851
+
+Freital 39027
 
 Freiberg 43670
 Reinsberg 3273
-Reinsdorf 8907
-Wilkau-Hasslau 11850
+Niederschona 2108
+Oberschona 3764
+Doberschutz 4612
+Mockrehna 5718
+Zinna 1696
 
-Zwickau 98796
-Lichtentanne 7163
-Fraureuth 5841
-Leubnitz 1509
-Ponitz 1808
-
-Meerane 17325
-Oederan 7143
-Leubsdorf 3981
-Borstendorf 1363
-Eppendorf 4863
-Grosshartmannsdorf 2921
-Mulda 2936
-Sayda 2235
-Sosa 2223
-Grossolbersdorf 3234
-Olbersdorf 5948
-Leutersdorf 4284
-Neugersdorf 6260
-Seifhennersdorf 4878
-Grosshennersdorf 1539
-Herrnhut 2830
-Olbernhau 11162
-Pobershau 2031
+Torgau 18746
+Arzberg 2304
+Belgern 5148
 Belgershain 3503
 Espenhain 2843
 Falkenhain 3987
@@ -238,268 +229,277 @@ Falkenhain 3987
 Wurzen 15233
 
 Schwarzenberg 18523
-Arzberg 2304
-Belgern 5148
-Beilrode 2666
-
-Torgau 18746
-Zinna 1696
-
-Zittau 25785
-Mittelherwigsdorf 4334
-Otterwisch 1552
-Grossbardau 1787
-Grossbothen 3602
-
-Grimma 17991
-
-Crimmitschau 22442
-Dennheritz 1460
-Ostritz 2988
-Ostrau 4390
-Bockelwitz 2794
-Rackelwitz 1216
-Crostwitz 1201
-Crostau 1786
-Schirgiswalde 3009
-Cunewalde 5601
-Lawalde 2131
-Strahwalde 828
-Eibau 5103
-
-Lobau 18374
-Schonbach 1368
-Ebersbach 8952
-Markersbach 1912
-Bernsbach 4676
 Beierfeld 4069
 Grunhain 2602
 Rittersgrun 1889
-Lauter 5028
+Klitten 1510
+Mucka 1275
+Quitzdorf 1702
+Niesky 11111
+Hahnichen 1528
+Rietschen 3072
+Pretzschendorf 4440
+Wittgensdorf 4440
+Obercunnersdorf 2249
+Dorfhain 1255
+Zeithain 5839
+Wildenhain 1765
 
-Aue 18554
+Grossenhain 16573
+Priestewitz 3598
+
+Riesa 37156
+Glaubitz 1962
+Nunchritz 6846
+Ostritz 2988
+Schonau-Berzdorf 1796
+Merzdorf 980
+Zabeltitz 3047
+Maltitz 300
+Hasslau 300
+Rathen 410
+Zettlitz 904
+Seelitz 2114
+Rochlitz 6847
+Konigsfeld 1770
+Geithain 6459
+Narsdorf 1917
+Lunzenau 5138
+Gelenau 4869
+Rabenau 4735
+Tharandt 5624
+Brandis 9728
+Machern 6747
+Kitzscher 6152
+Scheibenberg 2358
+Laussig 2082
+Konigswartha 3767
+Reuth 1083
+Fraureuth 5841
+Neumark 3281
+Theuma 1132
+Neuensalz 2400
+Treuen 9189
+Mylau 3041
+Netzschkau 4448
+Groitzsch 7607
+Neukieritzsch 3602
+Heuersdorf 137
+Deutzen 2176
+Kitzen 2036
+Pegau 4759
+Elstertrebnitz 1549
+Zwenkau 8905
+Bohlen 6982
+Rotha 4199
+Rothenburg 5841
+
+Eilenburg 17609
+Thallwitz 3894
+Jesewitz 3174
+Rackwitz 3118
+Krostitz 4033
+Crostau 1786
+Neusalza-Spremberg 2489
+Schonbach 1368
+Schonberg 1013
+Schoneck 3728
+Pohl 2852
+Pohla 1281
+Weinbohla 10456
+
+Coswig 22304
+
+Radebeul 32643
+Radeburg 7812
+Moritzburg 8085
+Dennheritz 1460
+
+Meerane 17325
+Pfaffroda 3187
+Waldenburg 4597
+Callenberg 5763
+Tannenberg 1283
+Gahlenz 919
+Dahlen 5211
+Cavertitz 2584
+Strehla 4231
+
+Oschatz 16000
+Naundorf 2695
+Grossnaundorf 1103
+Hormersdorf 1645
+Hilbersdorf 1500
+Floha 11143
+Falkenau 2119
+Augustusburg 5202
+Zschopau 11705
+Zschorlau 5944
+Erlau 3638
+
+Mittweida 16619
+Altmittweida 2132
+Grosspostwitz 3116
+Uhyst 1169
+Obergurig 2361
+Wilthen 6304
+Mehltheuer 1587
+Syrau 1754
 
 Plauen 66412
-Syrau 1754
-Demeusel 80
+Tirpersdorf 1548
+Heidersdorf 954
+Sayda 2235
 Neuhausen 3325
 Klipphausen 6161
 Wiednitz 1178
 Wiedemar 2274
 Konigshain 1283
 Lichtenberg 3060
-Oberlichtenau 1538
-Steina 1842
-Ohorn 2500
-
-Borna 18806
-Gornau 4101
-Gelenau 4869
-Venusberg 2390
-Drebach 2574
-Reichenbach 4422
-Sohland am Rotstein 1433
-Sohland 7682
-Pohla 1281
-Pohl 2852
-Schoneck 3728
-Schonberg 1013
-Oberschona 3764
-Niederschona 2108
-Dorfhain 1255
-Geithain 6459
-Zeithain 5839
-Glaubitz 1962
-Nunchritz 6846
-Wulknitz 1877
-Zwonitz 11547
-Lossnitz 10433
-Claussnitz 3505
-Taura 2609
-Burgstadt 12477
-Hartmannsdorf 4732
-Narsdorf 1917
-Konigsfeld 1770
-Rochlitz 6847
-Seelitz 2114
-
-Gorlitz 57751
-Markersdorf 4408
-Borsdorf 8489
-Brandis 9728
-Machern 6747
-Wachau 4551
-Feldschlosschen 900
-Schonfeld 2021
 Boxberg 3093
-Bergen 1102
-Johanngeorgenstadt 5573
-Oberwiera 1227
-Remse 1956
-Neusalza-Spremberg 2489
-Pausa 3924
-Zschopau 11705
-Oppach 3060
-Erlbach 1895
-Markneukirchen 7095
-Neukirchen 7517
+Schonfeld 2021
+Schildau 3838
+Grossschirma 6179
+Grossschonau 6571
+Grossschweidnitz 1377
+Niedercunnersdorf 1753
+Durrhennersdorf 1213
+Seifhennersdorf 4878
+Grosshennersdorf 1539
+Mittelherwigsdorf 4334
 
-Chemnitz 247220
-Hilbersdorf 1500
-Heuersdorf 137
-Regis-Breitingen 4185
-Klingenthal 9132
-Zwota 1541
-Zwenkau 8905
-Morgenrothe-Rautenkranz 893
-Schonheide 5310
-Stutzengrun 3900
-Rodewisch 7577
-Knappenrode 713
-Kodersdorf 2728
-Schmiedeberg 4806
-
-Radeberg 18747
-
-Radebeul 32643
-Radeburg 7812
-Moritzburg 8085
-
-Coswig 22304
-Weinbohla 10456
-Wilsdruff 13772
-
-Dresden 486854
-
-Heidenau 16756
-Dohna 6140
-Dohma 2190
-Lohmen 3298
-Durrrohrsdorf 4829
-Grossrohrsdorf 7306
-Grossnaundorf 1103
-Grosslehna 2487
-Grossposna 5608
-Naunhof 8753
-Naundorf 2695
-
-Oschatz 16000
-Lommatzsch 5999
-Stauchitz 3463
-Tauscha 1559
-Konigsbruck 4815
-Konigstein 3011
-Hohnstein 3806
-Rathmannsdorf 1155
-Bad Schandau 3078
-Bad Schlema 5540
-Stadt Wehlen 1733
-Weischlitz 3614
-Hainewalde 1826
-Waldkirchen 1212
-Hochkirch 2525
-Kirschau 2607
-Wilthen 6304
-Rathen 410
-Zettlitz 904
-Schlettau 2733
-Elterlein 3282
-Geyer 4118
-
-Hoyerswerda 43681
-Werda 1774
-
-Werdau 24424
-Langenbernsdorf 3968
-Wittgensdorf 4440
-Dippoldiswalde 10959
-Rabenau 4735
-
-Freital 39027
-Bannewitz 10851
-Tharandt 5624
-Hartha 7227
-Waldheim 9001
-Geringswalde 5125
-Kriebstein 2710
-Triebel 1705
-Eichigt 1354
-Steinigtwolmsdorf 3422
-Neukirch/Lausitz 5567
-Demitz-Thumitz 3128
-Thum 5892
-Ehrenfriedersdorf 5360
-Friedersdorf 1512
-Maltitz 300
-Hasslau 300
-Ossling 2622
-Wittichenau 6261
-Hainichen 9511
-Bornichen 1116
-Kubschutz 2932
-Tirpersdorf 1548
-Heidersdorf 954
-Seiffen 2600
-Weissenberg 3583
-Weissig 1013
-Laussig 2082
-Trossin 1519
-Dommitzsch 3163
-Elsnig 1687
-Leisnig 6968
-Penig 10557
-Lunzenau 5138
-Frohburg 7983
-Bad Lausick 9026
-Bad Duben 8998
-Gross Duben 1310
+Zittau 25785
+Guttau 1736
 Grossdubrau 4793
 Radibor 3651
-Goda 3476
-Obergurig 2361
 
-Marienberg 14383
-Scheibenberg 2358
-Konigswartha 3767
-Reuth 1083
-Uhyst 1169
-Krostitz 4033
-Rackwitz 3118
-Zschepplin 3373
+Bautzen 41972
+Stutzengrun 3900
+Schonheide 5310
+Eibenstock 6706
+Hartenstein 5043
+Lichtenstein 13612
 
-Pirna 40322
-Struppen 2749
+Hohenstein-Ernstthal 16542
+Oberlungwitz 6794
+Oberlichtenau 1538
+Hockendorf 3156
+Ottendorf-Okrilla 10093
+Thiendorf 2298
+Lampertswalde 2060
+Hauswalde 3265
+Frankenthal 1071
+Rammenau 1522
+Hammerbrucke 1395
+Halsbrucke 3619
+Konigsbruck 4815
+Tauscha 1559
+Zschadrass 3763
+Colditz 5173
+Dippoldiswalde 10959
+Schirgiswalde 3009
+Geringswalde 5125
+Waldheim 9001
+Kriebstein 2710
+Hartha 7227
+Grossharthau 3415
+Grossrohrsdorf 7306
+Durrrohrsdorf 4829
+Lohmen 3298
 Kurort Gohrisch 2234
-Kurort Jonsdorf 1905
 Kurort Oybin 1617
+Kurort Jonsdorf 1905
 Kurort Oberwiesenthal 2592
-Thalheim 7583
-Dorfchemnitz 1803
-Adorf 5806
-Hohndorf 3976
-Sankt Egidien 3709
+Oberwiera 1227
+Remse 1956
+Zwota 1541
+Klingenthal 9132
+Regis-Breitingen 4185
 Niederstriegis 1317
 
 Dobeln 21338
-Mugeln 4879
-Dahlen 5211
-Cavertitz 2584
-Strehla 4231
-Nauwalde 1119
-Bischofswerda 13085
-Grossharthau 3415
-Mulsen 12489
-Wildenfels 4072
-Schildau 3838
-Brand-Erbisdorf 11284
-Augustusburg 5202
-Elsterberg 5153
-Neumark 3281
-Lohsa 4641
-Klitten 1510
-Zoblitz 3134
-Geising 3283
-Bertsdorf-Hornitz 2616
-Albertstadt 2137
-Hammerbrucke 1395
 Porschdorf 1317
+Adorf 5806
+Hohndorf 3976
+Trebendorf 1106
+Schleife 2950
+Gross Duben 1310
+Bad Duben 8998
+Zschepplin 3373
+Dommitzsch 3163
+Trossin 1519
+Grosshartmannsdorf 2921
+Mulda 2936
+Brand-Erbisdorf 11284
+Markersdorf 4408
+Markersbach 1912
+Bernsbach 4676
+Lauter 5028
+Morgenrothe-Rautenkranz 893
+Knappenrode 713
+Weissig 1013
+Weisskeissel 1481
+
+Weisswasser 22099
+Gablenz 1950
+Bad Muskau 4027
+Bad Lausick 9026
+Neukirch/Lausitz 5567
+Steinigtwolmsdorf 3422
+Oppach 3060
+Ebersbach 8952
+Eibau 5103
+
+Lobau 18374
+Weissenberg 3583
+
+Meissen 28492
+Nossen 7588
+Lommatzsch 5999
+Stauchitz 3463
+Wulknitz 1877
+Nauwalde 1119
+Waldkirchen 1212
+Bornichen 1116
+Muhltroff 1949
+Demeusel 80
+Pausa 3924
+Kubschutz 2932
+Nebelschutz 1241
+
+Kamenz 18270
+Horka 2053
+Goda 3476
+Demitz-Thumitz 3128
+Bischofswerda 13085
+
+Hoyerswerda 43681
+Lohsa 4641
+
+Zwickau 98796
+Lichtentanne 7163
+Tannenbergsthal 1536
+Langenbernsdorf 3968
+Mulsen 12489
+Sankt Egidien 3709
+Wildenfels 4072
+
+Gorlitz 57751
+Zoblitz 3134
+Pobershau 2031
+Olbernhau 11162
+Seiffen 2600
+Wilsdruff 13772
+Penig 10557
+Naunhof 8753
+Trebsen 4244
+Nerchau 4073
+Thalheim 7583
+Thum 5892
+Geyer 4118
+Elterlein 3282
+Geising 3283
+Burkau 3000
+Schwepnitz 2823
+Triebel 1705
+Eichigt 1354

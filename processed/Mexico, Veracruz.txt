@@ -1,411 +1,14 @@
 
 
 Veracruz 428323
-Cruz Verde 1005
-Cruz de Chocaman 846
-Santa Cruz Hidalgo 821
+La Cruz 586
 Santa Cruz 758
 La Florida 758
 Pisaflores 2324
 Ricardo Flores Magon 2475
 Villa de las Flores 1687
 Fraccionamiento la Florida 1757
-Fraccionamiento las Lomas 559
-Fraccionamiento las Fuentes 3039
-
-Lomas Verdes 6583
-Lomas de Miradores 991
-El Mirador 1353
-La Martinica 514
-San Agustin del Palmar 1156
-Palmar Grande 1120
-Cerro Grande 1245
-Loma de Sogotegoyo 1245
-Paloma Sola 642
-Tzoncolco 642
-El Buzon 642
-Zonzonapa 746
-Tozongo 1379
-Zoatzingo 536
-
-Coatzintla 34036
-Troncones y Potrerillos 848
-Corralillos 1328
-Zacate Colorado 3952
-Colorado 774
-Paso Colorado 912
-
-Paso del Toro 5197
-San Antonio Paso del Toro 535
-Mata de Jobo 535
-Cobos 587
-Paso Coyote 587
-Paso de Coyutla 560
-Colonia Francisco I. Madero 560
-Francisco I. Madero 2237
-
-Perote 37516
-Elotepec 1881
-Mazatepec 818
-Zacatepec 557
-Epapa 557
-Comapa 1421
-Sontecomapan 2413
-Ohuapan 1666
-Ixhuapan 2203
-Tebanca 711
-San Sebastian 1256
-Las Jacarandas 513
-Ejido Rancho Alegre 513
-Rancho Alegre 1065
-
-Mecatlan 5181
-Chumatlan 1724
-Coxquihui 4160
-Aquila 754
-Tlaquilpa 775
-Laguneta 1139
-La Laguna 1112
-Aguilera 3260
-El Aguila 1155
-Residencial Tajin 1314
-Residencial las Olas 1391
-
-Fraccionamiento Ciudad Olmeca 16074
-Fraccionamiento los Prados 2652
-Fraccionamiento Santa Cruz 1636
-Colonia Lealtad 3507
-Colonia Libertad 3308
-La Libertad 1301
-La Estribera 737
-La Ribera 817
-
-Ciudad Cuauhtemoc 9740
-
-Benito Juarez 14990
-Colonia Benito Juarez 694
-Texcochapan de Abajo 694
-Texalpan de Abajo 1950
-Texalpan de Arriba 2142
-Cerro Amarillo de Arriba 760
-Cerro Amarillo de Abajo 581
-Palmas de Abajo 1014
-San Jose de Abajo 1379
-San Jose de Abajo [Unidad Habitacional] 1236
-San Jose Teacalco 558
-San Jose Neria 1698
-San Rafael Caleria 2233
-San Rafael Rio Seco 1468
-Rafael Rosas 580
-Barrio Acosta Lagunes 580
-Costa de Oro 501
-Coyol Norte 501
-Coyolito 1103
-Ayolia 704
-Ojital Cuayo 808
-El Escobillal 808
-El Escobillo 1065
-El Encanto 754
-El Blanco 1120
-
-Rio Blanco 40611
-Palo Blanco 962
-Barrio Segundo 962
-El Pando 729
-El Paso 577
-Paso del Perro 675
-Paso de Valencia 1193
-San Juan Seco de Valencia 1237
-San Julian 1374
-Cujuliapan 804
-Tenejapam de Mata 804
-Tenejapa 533
-San Jose Tenejapa 1954
-Agua Fria 544
-Arroyo Frio 586
-Barrio Tercero 523
-El Terrero 1244
-Terrero 589
-Otlatzintla 589
-
-Tepetzintla 5166
-El Humo 1797
-El Huidero 1010
-Cebadilla Chica 532
-Cuchilla Chica 597
-El Suchil 699
-San Jose Suchil 1684
-Puerto Esmeralda 3826
-Hermenegildo J. Aldana 2308
-Hermenegildo Galeana 770
-Los Merida 770
-Oriente Meridiano 524
-Orilla del Monte 2484
-Tuxtilla 2130
-Ayotuxtla 1866
-Mahuixtlan 3794
-Huixtitla 702
-Coahuitlan 3145
-
-Cuitlahuac 13651
-
-Gutierrez Zamora 13651
-Zamora 1127
-
-Angel R. Cabada 12033
-San Angel 882
-San Antonio de la Huerta 721
-Lindavista 3121
-Santa Maria Tatetla 1777
-Santa Maria 667
-Progreso del Majahual 667
-Ahueyahualco 2639
-Ayahualulco 2832
-San Antonio Xoquitla 1415
-San Antonio Hidalgo 936
-Plan de Hidalgo 995
-Loma de Hidalgo 832
-Agua Escondida 832
-Agua Nacida 994
-El Ciervo 719
-Cruz de Palma 719
-La Palma 1392
-Tlapala 1292
-Los Lirios 1292
-Las Lomas 1811
-Dos Lomas 995
-Modelo Dos Rios 503
-Tlalixtlahuac 503
-Vizcaino 503
-El Molino 1186
-Texmola 1581
-Texmalaca 720
-
-Jalacingo 13310
-Cuauhtamingo 1409
-Cuauhtemoc 777
-Huiloapan de Cuauhtemoc 4125
-
-Nogales 22085
-Galeras 632
-Chalchitepec 632
-Tenixtepec 2155
-La Lagunilla 846
-Lagunilla 588
-
-Puntilla Aldama 4855
-Villa Aldama 3291
-Loma Alta 529
-La Encantada 529
-El Tepetate 529
-Tatatila 960
-
-Otatitlan 4659
-
-Gabino Barreda 4726
-Monte Alto 539
-Valle Alto 614
-
-Valente Diaz 25700
-
-Las Amapolas 14553
-Colonia Malibran 749
-Colonia Cardenista Antonio Luna 648
-Lomas del Dorado 648
-Lomas de Rio Medio Cuatro 2882
-Rio Medio [Granja] 2895
-Infonavit Orquideas 622
-Vara Alta 622
-Colonia Chalchihuecan 1472
-Colonia Piloto 992
-La Colonia Guadalupe 1356
-La Guadalupe 1255
-Guadalupe 3569
-Barrio Guadalupe 580
-Mesa de Guadalupe 3115
-Ranchito de las Animas 795
-Rancho de Pala 837
-Rancho del Padre 1215
-Hornitos 1177
-Cerritos 1397
-Las Lomas de Tacamichapan 1034
-Michapa 699
-Mapachapa 3446
-La Reforma 1389
-Maria de la Torre 1755
-Piedra Pinta 1755
-Corral de Piedra 796
-La Piedra 503
-La Prensa 503
-El Cipres 503
-Presidio 2075
-Coetzala 1250
-Magozal 605
-Atzalan 1940
-Tlamatoca 1479
-Tierra Nueva 1210
-La Nueva Victoria 1705
-La Victoria 1842
-Tecamalucan 2277
-Tecama 1086
-Minzapan 1900
-Apazapan 686
-Zacate Limon 686
-El Limon 860
-Xopilapa 1833
-Ohuilapam 1474
-Corozal 1927
-Carrizal 2019
-
-Orizaba 120844
-Sabanita 627
-Sabaneta 1296
-Buenos Aires 1998
-Aire Libre 688
-Cosolapo 688
-
-Cosolapa 8320
-
-Tezonapa 5376
-Sinapan 1125
-Napoala 715
-Zapotitlan 700
-Potrero Horcon 735
-Xococapa 1105
-
-Xocotla 7168
-Nacaxtle 842
-Ayacaxtle 508
-Paredon Viejo 508
-Jardin Viejo 604
-Hidalgo Amajac 1241
-Hidalgotitlan 3980
-
-Minatitlan 112046
-Amatitlan 1251
-Huexotitla 1072
-El Paraiso 1072
-Paraiso Novillero 2538
-Tancoco 1548
-
-Huayacocotla 5211
-Jicacal 951
-Carbonero Jacales 951
-Cerro del Carbon 677
-Cerro Gordo 1557
-Plan de las Hayas 2199
-
-Plan de Ayala 11657
-
-Totolapa 8060
-Tolapa 505
-Colonia Hermosa 505
-Villa Hermosa 585
-Cazones de Herrera 4260
-Monterrey 541
-Ictzictic 541
-Tzicatlan 1122
-Atlanca 733
-Acatlan 2929
-Tierra Blanca Booxter 1602
-
-Tierra Blanca 47824
-Canada Blanca 598
-Cuyuxquihui 598
-Huichila 727
-Maxyapan 727
-Maxacapan 981
-Caxapa 1903
-Tepaxapa 730
-Nueva Vaqueria 730
-Vaqueria 679
-Nueva Tabasquena 679
-La Nueva Era 1061
-Ninos Heroes 1061
-Los Pinos 1265
-Los Molinos 3215
-Manuel Maria Contreras 2235
-Saltabarranca 3215
-Saltillo 1146
-Sasaltitla 1049
-Duraznal 512
-Tecuantepec 512
-Tecuanapa 780
-Nuevo Canton 742
-Nuevo Teapa 970
-Nuevo Tejamanil 758
-
-El Tejar 11168
-
-Lerdo de Tejada 18715
-Rio de Tuxtla 694
-
-Santiago Tuxtla 15459
-
-San Andres Tuxtla 61769
-Tonalapan 1257
-Tonalapa 650
-Bezuapan 650
-Donato Marquez Azuara 543
-Donato Guerra 627
-Fraccionamiento Valle Dorado 3245
-Carmona y Valle 627
-
-Union y Progreso 8181
-Progreso 516
-El Progreso 1094
-El Pital 2346
-Cementeras del Pital 1247
-
-San Rafael 6515
-Loma de San Rafael 573
-Bara de Chachalacas 1433
-El Chalahuite 574
-La Nueva Raza 574
-Villa Nueva 510
-Villanueva 820
-Nuevo Chicayan 765
-Monte Grande 820
-El Grande 955
-Loma Grande 1976
-Macuilacatl Grande 626
-Ixhuacan de los Reyes 2629
-
-Amatlan de los Reyes 9123
-Dos Amates 690
-El Amate 597
-Amatlan 1925
-Zacatla 1830
-Acatla 1272
-Coxolitla de Abajo 885
-Necoxtla 2890
-Chixtla 823
-Reyixtla 525
-Balzapote 525
-El Zapote 978
-El Zapotal 753
-Zapotal 728
-Zacamitla 728
-El Zacatal 518
-Ejido Monte Verde 518
-Limontitla 556
-Tepetitlanapa 518
-Tepecuitlapa 910
-Tlalca 635
-Mecacalco 511
-Calalco 836
-Tlalconteno 1418
-Atlalco 547
-Popoctepetl 547
-Tepetlan 2086
-Cerro de Leon 878
-Arroyo del Potrero 1367
-Cuesta del Mexicano 740
-Cuesta de Laja 1195
-Cuesta Amarilla 1176
-Juan Jacobo Torres [Bodega de Totontepec] 1734
-
-Los Torrentes 4665
+Colonia las Arboledas 674
 Arboledas 2171
 
 Fraccionamiento Arboledas San Ramon 6050
@@ -414,227 +17,719 @@ Fraccionamiento Costa Dorada 3660
 
 Fraccionamiento Geovillas los Pinos 12840
 Colonia el Renacimiento 2129
-Sentimientos de la Nacion 521
-Hacienda Sotavento 1583
-El Porvenir Chopopo 749
-El Porvenir 1243
-El Pueblito 1150
-Pueblillo 2409
-Espinal 2676
-El Espinal 2024
-Cumbre del Espanol 629
+Colonia Chalchihuecan 1472
+Colonia Malibran 749
+Colonia Cardenista Antonio Luna 648
+Colonia Lazaro Cardenas 511
+Mecacalco 511
+San Jose Teacalco 558
+San Jose de Abajo [Unidad Habitacional] 1236
+La Candelaria [Unidad Habitacional] 814
+
+Fraccionamiento Ciudad Olmeca 16074
+Fraccionamiento los Prados 2652
+Fraccionamiento Santa Cruz 1636
+Colonia Lealtad 3507
+Colonia Libertad 3308
+Texhuacan 1986
+Moloacan 1938
+La Estribera 737
+Boca de Lima 737
+Las Limas 906
+La Lima 930
+La Loma de Guadalupe 677
+Mesa de Guadalupe 3115
+Loma de la Palma 583
+Cerro de la Palma 714
+La Palma 1392
+Cruz de Palma 719
+Barra de Palmas 558
+Tilica 558
+
+Zongolica 6874
+Cacahuatengo 726
+Cacahuatal 1609
+
+Monte Blanco 6911
+El Blanco 1120
+
+Rio Blanco 40611
+
+Nogales 22085
+Galeana 625
+El Roble 625
+Los Robles 3119
+
+Paso del Toro 5197
+Paso Colorado 912
+Cerro Colorado 648
+Lomas del Dorado 648
+Lomas de Rio Medio Cuatro 2882
+Rio Medio [Granja] 2895
+Infonavit Orquideas 622
+Infonavit el Pando I 826
+El Pando 729
+Xochiojca 688
+Nueva Vaqueria 730
+Vaqueria 679
+
+Cosoleacaque 22454
+
+Cosolapa 8320
+
+Tezonapa 5376
+Zonzonapa 746
+Tepaxapa 730
+Colonia la Magdalena 730
+Magdalena 689
+Cuatotolapan Viejo 689
+Hueyapan de Ocampo 3608
+Campo de Aguila 1042
+Miguel Aguilar 816
+El Aguacate 2030
+El Aguacate Terrero 746
+Zoyacuautla 746
+Poxcautla 726
+Choapa 726
+Coxcoapan 690
+Zapoapan 2716
+Moyoapan 2073
 Cumbre de Metlac 516
 Tetla 2761
-Tetlaxco 1543
-Tepatlaxco 1314
-Tepatlan 554
-Temimilco 706
-Paso Pimienta 575
-La Pimienta 639
-Limonta 669
-Monte Gordo 721
-Monte Salas 1850
-Ahuacatan 1579
-Huayacanes 1279
-Pachuquilla 608
-Pachuca 671
-Las Pilas 671
-Las Puentes 547
-Las Mesas 568
-San Francisco de las Mesillas 590
-Paso de la Milpa 710
-Estero de Milpas 1529
-Las Sabanetas 1427
-Las Sabinas 1167
-Cotaxtla 1167
-Baxtla 695
-Las Josefinas 695
-Las Minas 235
-Las Animas 667
-Las Limas 906
-Boca de Lima 737
-La Lima 930
-Limones 2282
-Rincon de Zapatero 843
+Nacaxtle 842
+Ayacaxtle 508
+Paredon Viejo 508
+Jardin Viejo 604
+Hidalgo Amajac 1241
+Hidalgotitlan 3980
+
+Minatitlan 112046
+
+El Naranjito 7574
+Hermenegildo J. Aldana 2308
+Puerto Esmeralda 3826
+
+Lomas de Barrillas 8915
+Las Barrillas 1031
+Carrillo Puerto 1673
+Felipe Carrillo Puerto 3877
+La Union Paso Largo 1038
+Balsa Larga 520
+Canada Larga 517
+Canada Rica 977
+Chiconquiaco 3143
+Chiconamel 1502
+La Libertad 1301
+Villa Libertad 690
 Rincon de Maravillas 900
 Rincon de Buena Vista 1041
 Buena Vista 1054
-Buenavista 4212
-Ocozotepec 3282
+Manuel Maria Contreras 2235
+Manuel Leon 2295
+Manuel Avila Camacho 739
+Tampamachoco 875
+Cruz de Chocaman 846
+Santa Cruz Hidalgo 821
+Tuzantla 875
 
-Soteapan 5118
+Misantla 26827
+Pocantla 659
+La Piedrilla 659
+La Piedra 503
+La Prensa 503
+La Pena 576
 
-Oteapan 14925
+Santiago de la Pena 8657
+Paso de la Milpa 710
 
-Chinameca 7547
-Chiconamel 1502
-El Chico 2480
-Ocotal Chico 1040
-Ixtacapa el Chico 1409
-Atlapa Chico 611
-El Rincon 669
+Paso de Ovejas 7468
+Chichicaxtle 1910
+La Ceiba 774
+Ceiba Rica 633
+Ejido La Noria 633
+La Noria 898
+La Nueva Victoria 1705
+Tierra Nueva 1210
 
-Rinconada 8173
-Villa Emiliano Zapata 4469
-Emiliano Zapata 1965
-Villa Alta 952
-Villa Union 1213
-La Union 1268
-Arroyo Blanco 948
-Xoxocotla 2362
-El Sauzal 737
-Mario Sauza 605
-El Sauce 790
-Xomotla 790
-Zapotitla 819
-El Capulin 819
-El Cafetal 583
+Tierra Blanca 47824
+Cobos 587
+Juan Jacobo Torres [Bodega de Totontepec] 1734
+Cuesta Amarilla 1176
+Cuesta de Laja 1195
+El Juile 1195
+El Jobo 1939
+El Jobo Aquiche 615
+Texmalaca 720
 
-El Castillo 5154
-Castillo de Teayo 4297
-Teayo 1349
-Nuevo Atoyac 867
-Nuevo Poblado el Hato 560
-El Hato 804
-El Hatito 1324
-Insurgentes 838
-Insurgente Socialista 684
-Las Truchas 684
-Las Haldas 951
-Las Canoas 507
-Palo Dulce 507
-Cerro Dulce 778
-Santa Agueda 778
-Santa Ana 894
-Arenal Santa Ana 1551
-El Arenal 1406
-Fresnal 850
-Los Fresnos 675
-El Fresno 969
-Tlacolulan 1453
-Tlacolula 2328
+Jalacingo 13310
+Cuauhtamingo 1409
+Cuauhtemoc 777
 
-Tecolutla 4591
-Polutla 1152
-Nautla 3040
-Cabellal Numero Uno 683
-Anayal Numero Uno 518
-Cruz Blanca Numero Uno 960
-Cruz Blanca 1922
-Cruz Manantial 600
-Cruz del Milagro 2082
+Ciudad Cuauhtemoc 9740
 
-Mecayapan 6068
-Tapalapan 2354
-Tecolapan 2284
-San Lorenzo 952
-Llanos de San Lorenzo 597
-San Lorenzo Tenochtitlan 1037
-Achotal de Moreno 1505
-Rio Moreno 639
-Adolfo Moreno 1413
-Ignacio Zaragoza 2329
-Ignacio Allende 939
+Benito Juarez 14990
 
-Allende 23620
+Anahuac 14116
+Ahuacatan 1579
+Yucatan 543
+Donato Marquez Azuara 543
+Donato Guerra 627
+Zacamilola 627
 
-Coatzacoalcos 235983
+Atzacan 8947
+Nopalapan 2073
 
-Coacotla 6873
-
-Zaragoza 9639
-Montana de Zaragoza 567
-Chijol Diecisiete 567
-Puentecillas 501
-Puentecilla 785
-
-Boca del Monte 4832
-Tlacotepec de Mejia 2401
-
-Coscomatepec de Bravo 15252
-Comalteco 842
-Rincon Pintor 842
-Rincon Grande 969
+Cuautlapan 7549
+Tiocuautla 534
+Chalahuite 534
+El Chalahuite 574
+Bara de Chachalacas 1433
+Playa de Chachalacas 1214
+Sierra de Agua 1970
+Veintiuno de Agosto 1401
+Ojo de Agua 707
+Piedra de Agua 786
+Heron Proal 786
+San Jeronimo 616
+San Jose de Abajo 1379
+Trapiche del Rosario 1379
+Paso del Rosario 603
+Raya Caracol 603
+La Raya 626
+El Salto de la Reforma 511
+Pie de la Cuesta 882
+San Antonio de la Huerta 721
+San Angel 882
+Felipe Angeles 837
+Rancho de Pala 837
+Ranchito de las Animas 795
+Reforma Escolin 795
+El Escalanar 658
+El Espinal 2024
+Cumbre del Espanol 629
 
 Banderilla 19649
 Banderas 1312
 
 Tuxpam de Rodriguez Cano 84750
 Higueral 880
-Primo Verdad 670
-Cabo Verde 870
-Poza Verde 753
-Progreso de Zaragoza 2474
-Atempa 643
-Mizantecatl 643
-Zapaltecatl 555
-Tecapa 849
-Paseo Nuevo 849
-Paso Nuevo 555
-Coapiloloyita 555
-Huiloapan 3780
+Las Higueras 1280
+Ixtagapa 847
+El Ciervo 719
+El Cipres 503
+Tlalixtlahuac 503
 
-Acultzingo 7040
-Tetlatzinga 1012
-Tlatzala 1057
-Tlatilpa 1078
-Otilpan 2005
-Tonala 2005
-Medellin 584
-Santa Catalina 1493
-Agua Caliente 517
-Piedra de Agua 786
-Heron Proal 786
-Piletas 1493
-Placetas 557
-Las Placetas 599
-Tampuche 557
-El Campamento 940
-El Campanario 850
-La Candelaria 855
-La Candelaria [Unidad Habitacional] 814
+Cuitlahuac 13651
 
-Ixhuatlan del Sureste 10149
+Gutierrez Zamora 13651
+Zamora 1127
 
-Ixhuatlan del Cafe 6649
-Tomatlan 4348
-Xalatlaco 1228
-Calaco 623
+Angel R. Cabada 12033
 
-San Pedro Tlanixco 5307
+Lerdo de Tejada 18715
+Rio de Tuxtla 694
 
-San Pedro Martir 4855
-San Martin 779
-Aguachinola 772
-Chintipan 893
-Zilacatipan 543
-Los Balsamos 543
-San Jose Balsa Camaron 801
+Santiago Tuxtla 15459
+
+San Andres Tuxtla 61769
+San Andres Tenejapan 657
+Barahunda 657
 
 Colonia Santa Barbara 8617
 Colonia la Perseverancia 801
-Perseverancia 3883
-San Francisco 3353
-San Francisco Nacaxtle 1067
-Llano Grande 1405
-Venustiano Carranza 840
-Almanza 628
-Chalma 2646
+San Jose Balsa Camaron 801
+San Jose Neria 1698
+
+Chocaman 10727
+Comalteco 842
+
+Coscomatepec de Bravo 15252
+Medellin de Bravo 2725
+Plan de Arroyos 2915
+Plan de Arroyo 747
+Loma de los Ingleses 747
+Loma de los Carmona 1233
+Tantima 1233
+
+Tantoyuca 30587
 
 Platon Sanchez 10758
 
 Tempoal de Sanchez 12526
 
-Tantoyuca 30587
-Yucatan 543
+El Higo 8459
+Miguel Hidalgo 1101
+Nuevo Teapa 970
+Nuevo Canton 742
+Nuevo Tejamanil 758
+Zimpizahua 758
+Ahuateno 1043
+Zapoapan de Amapan 1043
+Plan de Iguala 1596
+El Cocuite 1683
+El Corte 2126
+Frijol Colorado 547
+Colorado 774
+Colonia Ejidal 573
+Loma de San Rafael 573
 
-Acayucan 50934
+San Rafael 6515
+Cementeras del Pital 1247
+El Pital 2346
+El Progreso 1094
+Loma Angosta 1094
+Angostura 748
+Angostillo 660
 
-Sayula de Aleman 13980
+Playa Vicente 9083
+El Nigromante 2594
+Guzmantla 862
+Cerro Guzman 1370
+Congregacion Hidalgo 1370
+Congregacion el Tajin 1363
+Residencial Tajin 1314
+Tepatlaxco 1314
+Tepatlan 554
+Acatlan 2929
+Acatla 1272
+Coxolitla de Abajo 885
+Taza de Agua Ojo Zarco 1482
+Juan de Alfaro 612
+Helio Garcia Alfaro 1633
+Cecilio Teran 1914
+Cerro Alto 577
+El Paso 577
+El Palmar 1089
+El Huerfano 1544
+Blanca Espuma 1668
+Cruz Blanca Numero Uno 960
+Cruz Blanca 1922
+Cruz Manantial 600
+Cruz del Milagro 2082
 
-General Miguel Aleman 14287
-San Miguel 692
+Mecayapan 6068
+Maxyapan 727
+Xoteapan 2033
+Tonalapan 1257
+Tonalapa 650
+Bezuapan 650
+Ohuapan 1666
+Pureza 866
+Xometla 725
+Huilotla 719
+Colonia Piloto 992
+La Colonia Guadalupe 1356
+La Guadalupe 1255
+Guadalupe 3569
+Barrio Guadalupe 580
+Barrio Acosta Lagunes 580
+Costa de Oro 501
+Mata de Otate 541
+Mata de Cana 585
+Villa Hermosa 585
+Vista Hermosa 1019
+Hermanos Cedillo 1217
+Tlacuilolapan 1217
+Tilapan 1809
+Tilapa 532
+Chilapa 1282
+San Marcos Atesquilapan 1616
 San Marcos 578
+San Miguel 692
+Barrio de San Miguel 1323
+
+Las Vigas de Ramirez 9684
+Centro de Readaptacion Social 2424
+Santa Maria 667
+Progreso del Majahual 667
+El Maguey 1413
+Adolfo Moreno 1413
+Rio Moreno 639
+Achotal de Moreno 1505
+Tatatila 960
+El Conejo 1044
+El Contento 508
+Tlalconteno 1418
+Calalco 836
+Zapotal 728
+El Zapotal 753
+El Zapote 978
+Plan de los Mangos 540
+Los Mangos 2699
+Abrevadero 1425
+El Huidero 1010
+El Humo 1797
+
+Tepetzintla 5166
+Chontla 2320
+Contla 884
+Tincontlan 1162
+Matacapan 1162
+Sihuapan 3767
+
+Comoapan 5009
+San Leoncio Jamaya 1010
+San Leopoldo 542
+El Cedral 603
+El Cedro 739
+San Pedro Tlapacoyan 1003
+
+Tlapacoyan 35338
+Eytepequez 907
+Zacatepec 557
+Ixcatepec 3975
+El Arco 636
+Arroyo del Arco 953
+Santa Rita 1056
+Santa Teresa 1118
+Santa Agueda 778
+Santa Ana 894
+Monte Salas 1850
+Monte Grande 820
+Sombrerete Grande 522
+La Granadilla 522
+La Granja 668
+Los Naranjos 3573
+Ejido los Naranjos 528
+Calaco 623
+
+San Pedro Tlanixco 5307
+
+San Pedro Martir 4855
+
+Puntilla Aldama 4855
+Lagunilla 588
+La Lagunilla 846
+Tenixtepec 2155
+Chalchitepec 632
+Chalcomulco 796
+Corral de Piedra 796
+Piedra Pinta 1755
+Piedra Parada 1549
+Paraiso Novillero 2538
+Paso de Valencia 1193
+Paso del Perro 675
+Paso del Pital 921
+Confederacion Nacional Campesina 921
+Paso Nacional 1884
+
+Ignacio de la Llave 4646
+Fraccionamiento Villas de la Llave 1334
+Fraccionamiento los Alamos 1150
+El Pueblito 1150
+El Porvenir 1243
+El Porvenir Chopopo 749
+El Porvenir Numero Uno 509
+Potrero Segundo 509
+Barrio Segundo 962
+Chuniapan de Abajo 962
+Chuniapan de Arriba 2418
+Lomas de Arena 957
+Zanjas de Arena 639
+El Arenal 1406
+Palma Sola 3144
+Calichar Palma Sola 1689
+Otates 1136
+Vega de Otates 858
+Apipitzactitla 675
+Los Fresnos 675
+Fresnal 850
+Astacinga 723
+Maximo Garcia 723
+Juan Garcia 591
+Huizotate 591
+Nuevo Progreso 2443
+Progreso 516
+Francia Nueva 516
+Villa Nueva 510
+Mata de Lazaro 510
+Mata Loma 1864
+
+Manlio Fabio Altamirano 5283
+Valle Alto 614
+Monte Alto 539
+
+Gabino Barreda 4726
+Novara 2501
+
+Alvarado 23128
+Tehuipango 1884
+El Mango 650
+Colonia Manuel Gonzalez 982
+San Isidro 2168
+Arroyo San Isidro 1032
+Tres Zapotes 3464
+Huichila 727
+Tlachichilco 1386
+Chiltoyac 2458
+Paso de Dona Juana 656
+Paso Amapa 740
+Paso Nuevo 555
+Pacho Nuevo 2673
+Rancho Nuevo 1164
+Barrancas 2465
+Jesus Carranza 4023
+Suchilapan del Rio 2487
+Plan del Rio 1331
+Los Ajos 952
+
+Los Altos 4771
+Cucharas 1611
+Mata de Varas 686
+Zacate Limon 686
+Plan de Limon 835
+Plan de la Vega 641
+Plan de las Hayas 2199
+Cerro Gordo 1557
+Cerro del Carbon 677
+Cerro de Leon 878
+Tepetlan 2086
+Amatlan 1925
+Ilamatlan 717
+Tomatlan 4348
+
+Ixhuatlan del Cafe 6649
+
+Ixhuatlan del Sureste 10149
+
+Nanchital de Lazaro Cardenas del Rio 25289
+Lazaro Cardenas 967
+Paso Carretas 503
+Paso Coyote 587
+San Antonio Paso del Toro 535
+Mata de Jobo 535
+Serenilla de Abajo 535
+Palmas de Abajo 1014
+Tronconal 1014
+Troncones y Potrerillos 848
+Corralillos 1328
+Zacate Colorado 3952
+
+Coatzintla 34036
+
+Papantla de Olarte 53546
+El Chote 4124
+El Pochote 510
+El Potrero 1269
+Rincon de Zapatero 843
+Rincon de Barrabas 1110
+Colonia Agricola Rincon de las Flores 691
+Colonia las Flores 2959
+
+Naranjos 20073
+El Naranjo 644
+El Naranjal 569
+La Guadalupana 896
+Gonzalo Vazquez Vela 896
+Cirilo Vazquez Lagunes 940
+Rio Vasco 545
+Las Minas 235
+Las Animas 667
+Las Aguilas 543
+El Aguila 1155
+El Aguaje 704
+Ayolia 704
+Coyolito 1103
+Coyol Norte 501
+Tahuaxni Norte 718
+Zozocolco de Hidalgo 3221
+Plan de Hidalgo 995
+Loma de Hidalgo 832
+Agua Escondida 832
+Agua Fria 544
+
+Agua Dulce 36079
+Palo Dulce 507
+Paloma Sola 642
+Tzoncolco 642
+La Pagua 642
+Balsas de Agua 507
+Las Canoas 507
+Las Haldas 951
+Carbonero Jacales 951
+Jicacal 951
+Jicaltepec 852
+Xaltepec 933
+Citlaltepetl 517
+
+Citlaltepec 5005
+Almagres 2069
+Jose F. Gutierrez 1387
+Polutla 1152
+Nautla 3040
+Cabellal Numero Uno 683
+Anayal Numero Uno 518
+Ejido Monte Verde 518
+Limontitla 556
+Tepetitlanapa 518
+Ocotitlan 2278
+Alta Luz 655
+Santa Lucia Potrerillo 1609
+Santa Martina 558
+La Martinica 514
+Caxuxuman 514
+Chapopoapan 514
+Chapultepec 693
+Nopaltepec 3127
+Amatitlan 1251
+Huexotitla 1072
+El Paraiso 1072
+Cuautitlan del Parral 560
+Plan del Palmar 668
+San Agustin del Palmar 1156
+Palmar Grande 1120
+Cerro Grande 1245
+Bajo Grande 862
+Campo Grande 2859
+Capoluca 2641
+Tuxpanguillo 3594
+Corralillo 624
+Ojital Santa Maria 624
+Tlecuaxco 624
+Yecuatla 3048
+Miahuatlan 3240
+Chahuatlan 903
+Tlalnelhuayocan 957
+Tlalca 635
+Tepecuitlapa 910
+Totomoxtle 638
+Gildardo Munoz 638
+Lealtad de Munoz 776
+Tlilcalco 527
+La Joya 1360
+La Junta 1014
+Tumbadero 728
+Vista Hermosa de Madero 789
+Pilpuerta 556
+Las Puertas 797
+Ahuica 797
+
+Tatahuicapan 8159
+
+Pajapan 8434
+
+Soteapan 5118
+
+Oteapan 14925
+
+Chinameca 7547
+
+Chinampa de Gorostiza 5317
+Tenampa 1949
+Reyixtla 525
+Balzapote 525
+Colonia San Jose 525
+San Jose Tenejapa 1954
+Tenejapa 533
+Independencia 533
+
+Villa Independencia 15297
+Colonias Pedernales 2848
+Francisco Sarabia 949
+Pompeya 949
+El Chaparral 716
+El Chapo 805
+Ciruelar Aquiche 805
+Palmar Aquiche Primero 504
+Tepiolulco 504
+Zacamitla 728
+El Zacatal 518
+Arroyo Zacate 653
+La Rosa 653
+Santa Rosa 1739
+Mozomboa 3061
+
+Villa Zempoala 9249
+Real del Oro 837
+Ideal de Arriba 559
+Texalpan de Arriba 2142
+Texalpan de Abajo 1950
+Cerro Amarillo de Abajo 581
+Cerro Amarillo de Arriba 760
+Cerro las Iguanas 1844
+Jose Maria Morelos y Pavon 917
+Jose Maria Morelos 924
+Villa Union 1213
+La Union 1268
+El Sauzal 737
+El Sauce 790
+Xomotla 790
+
+Xocotla 7168
+Xoxocotla 2362
+Arroyo Blanco 948
+Paso Blanco 757
+Zontecomatlan de Lopez y Fuentes 672
+Sontecomapan 2413
+Comapa 1421
+Arenal Santa Ana 1551
+Pueblo Viejo 877
+Pueblo Viejo Dos 675
+
+Pacho Viejo 4965
+Rancho Viejo 1078
+Tlatilpa 1078
+Tlatzala 1057
+Tetlatzinga 1012
+
+Acultzingo 7040
+Acultzinapa 713
+
+Teteltzingo 4605
+Cocalzingo 502
+Xilomichi 717
+Michapa 699
+Belisario Dominguez 731
+El Rosario 555
+Coapiloloyita 555
+Coapeche 674
+San Fernando Coapechapa 697
+San Fernando 1448
+Pitalillo 611
+Atlapa Chico 611
+El Chico 2480
+Ixtacapa el Chico 1409
+Ocotal Chico 1040
+La Campana 932
+La Cuesta 2095
+Castillo de Teayo 4297
+
+El Castillo 5154
+La Laguna y Monte del Castillo 1920
+Santa Rosa Loma Larga 1737
+Santa Rosa Abata 1142
+Aguilera 3260
+Sabanas de Xalostoc 1109
+Zapoapan de Cabanas 1382
+Palo Gacho 1378
+Huitzila 1186
+El Molino 1186
+Los Molinos 3215
+El Remolino 1225
+Mesa del Rancho 857
+
+Boca del Rio 9947
+Playa de la Libertad 1192
+San Jose Loma Grande 912
+Loma Grande 1976
+Macuilacatl Grande 626
+El Grande 955
+La Grandeza 857
+Piedra Grande 696
+Tetax Sesecapan 696
+Sesecapan 550
+Tecapa 849
+Paseo Nuevo 849
+Campo Nuevo 896
+
+Mundo Nuevo 8420
+Linderos 600
+Pena de Afuera 600
+Laguna de Farfan 1004
+Laguna de Majahual 683
+Tepeica 683
+
+Coatepec 53621
 
 San Marcos de Leon 7256
 Colonia Ursulo Galvan 1722
@@ -643,457 +738,350 @@ Ursulo Galvan 5259
 La Tinaja 1681
 Tinajitas 2090
 El Farallon 763
-El Moral 574
-Paso del Moral 504
-Tepiolulco 504
-El Oriente 504
-Oriente Medio Dia 507
-Balsas de Agua 507
-La Pagua 642
-La Palmilla 3927
-Palma Sola 3144
-Almolonga 855
-Astacinga 723
-Maximo Garcia 723
-Juan Garcia 591
-Huizotate 591
-Otates 1136
-El Otate 676
-Mata de Otate 541
-Amatan 647
-Paso San Juan 679
-Paso de Dona Juana 656
-Paso Amapa 740
-Jamapa 3928
-Las Puertas 797
-Ahuica 797
+El Faisan 767
+Atlanca 733
+Tzicatlan 1122
+Ixcatla 1137
+El Anono 1151
+El Amate 597
+Dos Amates 690
 
-Tatahuicapan 8159
+Amatlan de los Reyes 9123
+Texin 1041
 
-Pajapan 8434
-Huazuntlan 3160
-Nicanor Espejo 714
-Cerro de la Palma 714
-Loma de la Palma 583
-Barra de Palmas 558
-Tilica 558
-Champilico 939
-Veintiuno de Agosto 1401
-Veinticuatro 582
-El Veinticinco 767
-Esperanza Malota 733
+Texistepec 9655
+
+Oluta 12709
+
+Acayucan 50934
+Acuayucan 614
+La Vigueta 614
+La Victoria 1842
+Tecamalucan 2277
+Tecama 1086
+Minzapan 1900
+Apazapan 686
+Mozapa 531
+Mozambique 553
+Enriquez 770
+Hermenegildo Galeana 770
+Los Merida 770
+Oriente Meridiano 524
+El Bayo 524
+El Bajio 993
 La Esperanza 732
 Bella Esperanza 1618
-Tierra Colorada 1281
-Piedra Labrada 592
-El Macayal 549
+Venustiano Carranza 840
+Llano Grande 1405
+Tepampa 840
+Arnatepec 845
+Huiloapan 3780
+Huiloapan de Cuauhtemoc 4125
 
-Paso del Macho 13413
-Plan de la Vega 641
-Plan de Limon 835
-Antonio J Bermudez 1516
-Remojadas 835
-El Remolino 1225
-Colonia Primero de Mayo 519
+Ciudad Mendoza 35641
+Soledad Atzompa 3964
+Atexcalco 634
+Mexcala 1487
+Mexcalteco 537
+Barrio Tercero 523
+Barrio Cuarto 515
+El Pacifico 989
+Tomatillo 515
+Tomatlancillo 511
+
+Ixhuatlancillo 4975
+Mariano Escobedo 3188
+La Perla 3939
+Saladero 1145
+Sumidero 3959
+
+Fortin de las Flores 21370
+Xochimilco 1334
+Temimilco 706
+Atlahuilco 1093
+La Concha 672
+La Concepcion 3684
+La Colmena 584
+Medellin 584
+Mata Gallina 829
+Jonotal Azteca 829
+El Palenque Palotal 705
+San Isidro Palotal 1077
+San Rafael Caleria 2233
+San Rafael Rio Seco 1468
+Rafael Rosas 580
+Rafael Lucio 4097
+Piletas 1493
+Placetas 557
+Las Placetas 599
+Epapa 557
+Papalotla 681
+Huixcolotla 1265
+Los Pinos 1265
+Loma Mulato 506
+Paso Mulato 525
+Paso Real 945
+Palma Real 621
+Paso del Ingenio 630
+Paso del Cedro 970
+Arroyo Azul 970
+
+Cerro Azul 22268
+
+Potrero del Llano 4498
+Estero del Idolo 3833
+Estero de Milpas 1529
+Las Sabanetas 1427
+Sabaneta 1296
+Buenos Aires 1998
+Aire Libre 688
+Reventadero 736
+Tepenacaxtla 736
+San Francisco Nacaxtle 1067
+San Francisco 3353
+Perseverancia 3883
+Luis Echeverria 813
+Coetzapotitla 813
+El Zapote Bravo 1463
+Chapopote Chico 1441
+Chapopote Nunez 2675
+Loma Bonita 644
+Loma Alta 529
+La Encantada 529
+El Encanto 754
+El Escobillo 1065
+Rancho Alegre 1065
+Macedonio Alonso 1840
+Ignacio Allende 939
+Ignacio Zaragoza 2329
+
+Zaragoza 9639
+
+Coacotla 6873
+Coacoaco 800
+Chacoaco 562
+
+Coacoatzintla 6832
+Rincon Grande 969
+El Fresno 969
+Tlacolulan 1453
+El Hule Nuevo 664
+Quilate Nuevo 517
+Paraje Nuevo 4465
+Cuilonia Nuevo 536
+Zoatzingo 536
+Venta Parada 536
+Potrero Viejo 2165
+Potrero Horcon 735
+Esperanza Malota 733
+Nueva Esperanza 883
+Casas Viejas 883
+Lima Vieja 560
+Colonia Francisco I. Madero 560
+Francisco I. Madero 2237
+
+Perote 37516
+Prospero Pineda 709
+Chicalpextle 709
+Las Pilas 671
+Las Puentes 547
+Popoctepetl 547
+Tepetlampa 617
+El Tepetate 529
+El Tizan 565
+Mezquite Mata del Tigre 514
+Tres Aguas 514
+Medias Aguas 1123
+El Lindero 1123
+El Limon 860
+Xopilapa 1833
+Ohuilapam 1474
+Corozal 1927
+Magozal 605
+Progreso de Zaragoza 2474
+Atempa 643
+Mizantecatl 643
+Zapaltecatl 555
+
+Mecatlan 5181
+Chumatlan 1724
+Coxquihui 4160
+Cuyuxquihui 598
+Xocotitla 598
+Acatitla 770
+
+Otatitlan 4659
+La Gloria 3140
+Mesa Chica la Gloria 684
+Las Truchas 684
+Las Trancas 1116
+Primo Verdad 670
+Tigrillos 670
+Cerrillos de Diaz 971
+San Pablo 916
+San Julian 1374
+Coetzala 1250
+Atzalan 1940
+Tlamatoca 1479
+Amatan 647
+Nueva Tabasquena 679
+La Nueva Era 1061
+La Nueva Raza 574
+Xiloxuchitl 574
+Xuchiles 929
+El Suchil 699
+Cuchilla Chica 597
+Cebadilla Chica 532
+Joya Chica 563
+El Ermitano 561
+Cuauzapotitan 526
+Zapotitla 819
+El Capulin 819
+El Cafetal 583
+El Cabellal 752
+Moyotla 752
+Xonotla 923
+Xonotzintla 794
+Barranca Nueva 732
+Saltabarranca 3215
+Saltillo 1146
+Dos Bocas 1091
+
+Dos Rios 4825
+Modelo Dos Rios 503
+Dos Lomas 995
+Las Lomas 1811
+El Hatito 1324
+El Hato 804
+Tenejapam de Mata 804
+Cujuliapan 804
+Mazumiapam 2133
+Tulapam 2222
+Chacalapa 2298
+Chacaltianguis 4133
+
+Cosamaloapan 30577
+Quiamoloapan 1564
+Tonayan 1446
+Tonala 2005
+Tonalaco 1202
+Pahua Hueca 1202
+Palo Hueco 513
+Ejido Rancho Alegre 513
+Las Jacarandas 513
+
+Jacarandas 8351
+Naranjillos 584
+Naranjal 2261
+Mata Naranjo 1069
+Opotzinga 755
+Loma del Nanche 755
+Loma del Cojolite 633
+Paso del Correo 1217
+Paso del Moral 504
+El Moral 574
+Alto del Moralito 724
+Salmoral 753
+
+Moralillo 10191
 
 Primero de Mayo 5011
+Ozuluama de Mascarenas 4225
 Cinco de Mayo 597
-Cinco Palos 683
-Las Flores Cinco Poblados 631
+Colonia Primero de Mayo 519
+Cazones de Herrera 4260
+Vicente Herrera 1233
+Vicente Guerrero 1203
+El Terrero 1244
+Juchique de Ferrer 2766
+Terrero 589
+Otlatzintla 589
 Calentadores 570
-El Palenque Palotal 705
-El Palmar 1089
-El Huerfano 1544
-Laguna de Farfan 1004
-La Isla de Chapachapa 1004
-Cuiyachapa 2248
+Las Flores Cinco Poblados 631
+Tonalixco 1095
+Tlalixcoyan 3335
+Ayotuxtla 1866
+Mahuixtlan 3794
+Tierra Blanca Booxter 1602
+Barra de Cazones 1111
+Ejidal 1111
+Los Cerritos 1670
+Cerritos 1397
+Las Lomas de Tacamichapan 1034
+Zacamixtle 1248
+Tamarindo 844
+Fernando Lopez Arias 844
+Ignacio Lopez Rayon 565
+Las Badeas 565
+Cuve de Badeas 585
+Miravegas 609
+Vegas de la Soledad y Soledad Dos 1258
 
-Cuichapa 7697
+Soledad de Doblado 12398
+Jamapa 3928
 
-Las Choapas 42693
-Choapa 726
-Coxcoapan 690
-Zapoapan 2716
-Zapoapan de Amapan 1043
-Zapoapan de Cabanas 1382
-Palo Gacho 1378
-Salvador Gonzalo Garcia 734
-Chilapa del Carmen 745
-San Jose del Carmen 815
-Sehualaca 855
-Alahualtitla 566
-Palma Cuata 861
-Curazao 861
+Las Amapolas 14553
+Joliette 749
+Frijolillo 650
+Arbolillo 1082
+Tancoco 1548
+
+Huayacocotla 5211
+Huayacanes 1279
+Pachuquilla 608
+Toluquilla Buena Vista 603
+Buenavista 4212
+Ocozotepec 3282
+Elotepec 1881
+Mazatepec 818
+Tzocohuite 973
+Bandera de Juarez 733
+Colonia Benito Juarez 694
+Texcochapan de Abajo 694
+Seis de Enero 770
+El Salto de Eyipantla 4011
+El Salto 640
+La Mestiza 640
+Ixtacuaco 640
+Ixcacuatitla 716
+Pemuxtitla 640
+Huixtitla 702
+Acatzacatl 702
+Zacatla 1830
+Zacatlaixco 792
+Pinillo 792
+Tlalchy 595
+La Estanzuela 595
+Puentezuelos 792
+Puentecilla 785
+Puentecillas 501
+Puente Jula 2306
+Puente de Piedra 1207
+Caxapa 1903
+Jilotepec 3871
 Mata Obscura 1539
 Doctor Montes de Oca 1238
 Las Cruces 685
 Las Carolinas 605
 Salinas 1009
 Xoampolco 1009
-Campo Chico 1786
-Campo Nuevo 896
-La Guadalupana 896
-Gonzalo Vazquez Vela 896
-Cirilo Vazquez Lagunes 940
-Eytepequez 907
-
-Tlapacoyan 35338
-San Pedro Tlapacoyan 1003
-El Cedro 739
-La Piedrilla 659
-Loma Angosta 1094
-Angostillo 660
-Angostura 748
-Tepetlampa 617
-Tepenacaxtla 736
-Xochiojca 688
-Axochio 1549
-Piedra Parada 1549
-Piedra Grande 696
-La Grandeza 857
-Mesa del Rancho 857
-Trapiche Viejo 1112
-Trapiche 588
-Achichipico 761
-Huizache Achichipic 666
-
-Chicontepec 4519
-Etlantepec 664
-Xaltepec 933
-Citlaltepetl 517
-
-Citlaltepec 5005
-Almagres 2069
-Jose F. Gutierrez 1387
-Manuel Gutierrez Najera 605
-Manuel Leon 2295
-Chalcomulco 796
-Jalcomulco 2955
-Mata Cazuela 870
-Mata Naranjo 1069
-Loma del Nanche 755
-Opotzinga 755
-Chapopote Chico 1441
-El Zapote Bravo 1463
-Coetzapotitla 813
-El Zapotito 725
-Santa Teresa 1118
-Santa Rita 1056
-Santa Rosa 1739
-Mozomboa 3061
-Mozapa 531
-Mozambique 553
-Medias Aguas 1123
-Tres Aguas 514
-Caxuxuman 514
-Xuchiles 929
-Xiloxuchitl 574
-Chichicaxtle 1910
-Tlachichilco 1386
-Chiltoyac 2458
-Atoyac 2755
-Potrero Viejo 2165
-Paraje Nuevo 4465
-Cuilonia Nuevo 536
-Quilate Nuevo 517
-Canada Larga 517
-La Canada 676
-Canada Rica 977
-Chiconquiaco 3143
-Monte Chiquito 541
-Limon Chiquito 958
-El Copal 988
-La Antigua 988
-Plan de Iguala 1596
-El Cocuite 1683
-Tocuila 4248
-Pueblo Viejo 877
-Pueblo Viejo Dos 675
-
-Pacho Viejo 4965
-Rancho Viejo 1078
-Xonotla 923
-Xonotzintla 794
-Acultzinapa 713
-
-Teteltzingo 4605
-Cocalzingo 502
-Alpatlahuac 1181
-El Quechuleno 502
-El Hule Nuevo 664
-
-Coacoatzintla 6832
-Coacoaco 800
-Chacoaco 562
-
-Santiago de la Pena 8657
-Santiago 1858
-Manantiales 510
-Los Manantiales 651
-
-Agua Dulce 36079
-San Andres Chamilpa 651
-San Andres Tenejapan 657
-Barahunda 657
-
-Jacarandas 8351
-Naranjal 2261
-El Naranjal 569
-El Naranjo 644
-Chapopote Nunez 2675
-Loma Bonita 644
-Mata Loma 1864
-Santa Rosa Loma Larga 1737
-La Laguna y Monte del Castillo 1920
-Zontecomatlan de Lopez y Fuentes 672
-Tecomate 915
-Tilapan 1809
-Tlacuilolapan 1217
-Zacamilola 627
-
-Atzacan 8947
-Acatzacatl 702
-Zozocolco de Hidalgo 3221
-Tahuaxni Norte 718
-La Noria 898
-Ejido La Noria 633
-Ejido los Naranjos 528
-Los Naranjos 3573
-La Granja 668
-Plan del Palmar 668
 Chicualoque 1085
 Chicuasen 1399
 Laja del Tubo 533
-Plan del Rio 1331
-Los Ajos 952
-Jose Maria Morelos 924
-Jose Maria Morelos y Pavon 917
+El Tulin 1295
+El Tepache 615
+Temapache 1751
+Mapachapa 3446
+La Isla de Chapachapa 1004
+Cuiyachapa 2248
+
+Cuichapa 7697
+
+Las Choapas 42693
+San Andres Chamilpa 651
+Los Manantiales 651
+Manantiales 510
 Plan del Manantial 917
-Cerro las Iguanas 1844
-Cerro Alto 577
-
-Cerro Azul 22268
-Arroyo Azul 970
-Paso del Cedro 970
-Paso del Ingenio 630
-Juan Felipe 874
-Felipe Angeles 837
-Felipe Carrillo Puerto 3877
-La Union Paso Largo 1038
-Balsa Larga 520
-Vargas 2519
-El Pochote 510
-El Chote 4124
-
-Papantla de Olarte 53546
-Escolin de Olarte 1055
-Medellin de Bravo 2725
-El Pacifico 989
-Carrillo Puerto 1673
-Barrio Cuarto 515
-Barrio de San Miguel 1323
-
-Las Vigas de Ramirez 9684
-San Pablo Mitecatlan 913
-San Pablo 916
-El Azotal 550
-Ocelota 1330
-
-Teocelo 9967
-Ateopa 501
-Teotzacualco 567
-Tetzacual 1044
-Calcahualco 1044
-Tlilcalco 527
-La Joya 1360
-Joya Chica 563
-El Ermitano 561
-El Anono 1151
-Tetax Sesecapan 696
-Sesecapan 550
-Tomate Rio Manso 550
-El Remanso 559
-Ideal de Arriba 559
-Chuniapan de Arriba 2418
-Rincon de Barrabas 1110
-Colonia Agricola Rincon de las Flores 691
-Colonia las Flores 2959
-
-Naranjos 20073
-
-Chinampa de Gorostiza 5317
-La Mestiza 640
-El Tizan 565
-Las Badeas 565
-Cuve de Badeas 585
-
-Lomas de Barrillas 8915
-Las Barrillas 1031
-Aquiles Serdan 1442
-Acajete 1649
-El Aguaje 704
-Sierra de Agua 1970
-La Campana 932
-Tenampa 1949
-Tepampa 840
-Arnatepec 845
-Omealca 3780
-Atexcalco 634
-Mexcala 1487
-Mexcalteco 537
-El Suspiro 523
-Pohuantitla 523
-Copaltitla 586
-La Cruz 586
-El Crucero 563
-Ejido Guadalupe Victoria 561
-
-Guadalupe Victoria 6114
-Naranjillos 584
-
-El Naranjito 7574
-
-Cosoleacaque 22454
-Galeana 625
-El Roble 625
-Los Robles 3119
-San Jose Loma Grande 912
-Playa de la Libertad 1192
-
-Boca del Rio 9947
-Suchilapan del Rio 2487
-Jesus Carranza 4023
-Barrancas 2465
-Rancho Nuevo 1164
-Pacho Nuevo 2673
-Ojite Rancho Nuevo 1116
-Raudal Nuevo 752
-Corral Nuevo 3335
-Nuevo Potrero 553
-El Potrero 1269
-El Potrerillo 608
-Santa Lucia Potrerillo 1609
-Cacahuatal 1609
-Cacahuatengo 726
-Ahuateno 1043
-Chahuatlan 903
-Tlalnelhuayocan 957
-Lomas de Arena 957
-Zanjas de Arena 639
-Paso del Progreso 669
-Nuevo Progreso 2443
-Coapeche 674
-San Fernando Coapechapa 697
-Barra de Cazones 1111
-Ejidal 1111
-Colonia Ejidal 573
-
-Jose Cardel 19092
-
-Cabezas 6167
-El Cabellal 752
-Moyotla 752
-Moyoapan 2073
-
-Comoapan 5009
-Matacapan 1162
-Sihuapan 3767
-Caleria 3910
-Tincontlan 1162
-Contla 884
-Chontla 2320
-
-Tamalin 5019
-Amamaloya 596
-San Jose de Tapia 1725
-La Guasima 1002
-San Juan Volador 1725
-El Volador 2343
-Caristay 1610
-San Cristobal 712
-Cristobal Hidalgo 949
-Pompeya 949
-Hueyapan de Ocampo 3608
-Campo de Aguila 1042
-Miguel Aguilar 816
-El Aguacate 2030
-Morelos 3277
-
-Jaltipan de Morelos 32778
-Alto del Moralito 724
-Salmoral 753
-
-Moralillo 10191
-Corralillo 624
-Ojital Santa Maria 624
-Tlecuaxco 624
-Yecuatla 3048
-Miahuatlan 3240
-
-Tamiahua 5086
-El Rosario 555
-Paso del Rosario 603
-Trapiche del Rosario 1379
-La Providencia 3401
-
-Villa Independencia 15297
-Colonias Pedernales 2848
-Colonia las Arboledas 674
-Arbolillo 1082
-Frijolillo 650
-Frijol Colorado 547
-El Corte 2126
-Paso del Correo 1217
-Tibernal 704
-Libertad 959
-Villa Libertad 690
-Texin 1041
-
-Texistepec 9655
-Texcatepec 1114
-Sombrerete 966
-Sombrerete Grande 522
-La Granadilla 522
-San Isidro Palotal 1077
-San Isidro 2168
-Arroyo San Isidro 1032
-Tres Zapotes 3464
-Infonavit el Pando I 826
-El Triunfo 1935
-San Miguel Tlapexcatl 993
-El Bajio 993
-El Bayo 524
-Tonalixco 1095
-Tlalixcoyan 3335
-Cotlaixco 520
-Excola 1038
-Colatlan 1545
-Panatlan 531
-El Ojochal 531
-Taza de Agua Ojo Zarco 1482
-Agricola Lazaro Cardenas 3273
-Lazaro Cardenas 967
-Paso Carretas 503
-Paso Real 945
-Palma Real 621
-Mata Gallina 829
-Jonotal Azteca 829
-Tecamilla 771
-Palmillas 2077
-Almilinga 746
-Zoyacuautla 746
-Poxcautla 726
-
-Cosautlan 4617
-
-Cuautlapan 7549
-Nopalapan 2073
-Nopaltepec 3127
-Jicaltepec 852
-Xometla 725
-Tolome 2715
-Acontitla 1691
-Tenantitla 1273
 El Nuevo Manantial 564
 
 Tres Valles 17299
@@ -1101,579 +1089,591 @@ Poblado Tres 2322
 Estacion Dobladero 1266
 Estacion Juanita 3813
 San Juan Evangelista 4044
-Bellaco 816
-Bellavista 633
-Ceiba Rica 633
-Leona Vicario 766
-
-Naolinco de Victoria 9233
-Francisco Villa 933
-Francisco Sarabia 949
-Ixtacuaco 640
-Ixcacuatitla 716
-Acatitla 770
-Seis de Enero 770
-Llano de Enmedio 1355
-San Fernando 1448
-Pitalillo 611
-Paso del Pital 921
-Confederacion Nacional Campesina 921
-Paso Nacional 1884
-
-Ignacio de la Llave 4646
-Fraccionamiento Villas de la Llave 1334
-Fraccionamiento los Alamos 1150
-Santa Martina 558
-Xochimilco 1334
-
-Fortin de las Flores 21370
-Sumidero 3959
-Saladero 1145
-La Perla 3939
-La Pena 576
-Anclon y Arenal 576
-El Arco 636
-Arroyo del Arco 953
-Plan de Arroyo 747
-Plan de Arroyos 2915
-
-Mundo Nuevo 8420
-Linderos 600
-Pena de Afuera 600
-Fuerte de Anaya 693
-Chapultepec 693
-Capultitla 546
-Oxtotitla 681
-Ocotitlan 2278
-Alta Luz 655
-
-Alto Lucero 15011
-Mata de Varas 686
-Mata de Cana 585
-Miravegas 609
-
-Palmira 14256
-Mariano Escobedo 3188
-
-Ixhuatlancillo 4975
-Tomatlancillo 511
-Flor Blanca 511
-El Salto de la Reforma 511
-El Salto 640
-El Salto de Eyipantla 4011
-San Leoncio Jamaya 1010
-San Leopoldo 542
-El Cedral 603
-Raya Caracol 603
-La Raya 626
-La Atalaya 785
-Playa de Chachalacas 1214
-Chacalapa 2298
-Colonia Luis Donaldo Colosio 843
-Pinillo 792
-Zacatlaixco 792
-Tlalchy 595
-La Estanzuela 595
-Puentezuelos 792
-Pozuelo 575
-San Miguel Tlalpoalan 2205
-Palpoalanixcan 627
-Ixcatla 1137
-Ixcatepec 3975
-
-Coatepec 53621
-
-Xico 18652
-Colonia Mexico Lindo 686
-Colonia la Magdalena 730
-Magdalena 689
-Cuatotolapan Viejo 689
-Norma 901
-Reforma Escolin 795
-El Escalanar 658
-Los Pescados 1555
-El Paisano 913
-El Faisan 767
-Bandera de Juarez 733
-Gustavo Diaz Ordaz 972
-Salvador Diaz Miron 1045
-
-Alvarado 23128
-Alvaro Obregon 875
-Tampamachoco 875
-
-Chocaman 10727
-Manuel Avila Camacho 739
-El Gavilan 564
-La Javilla 710
-Acanoa 710
-Moloacan 1938
-Texhuacan 1986
-
-Anahuac 14116
-Tlahuanapa 747
-Loma de los Ingleses 747
-Loma de los Carmona 1233
-Tantima 1233
-Vicente Herrera 1233
-Vicente Guerrero 1203
-
-Playa Vicente 9083
-El Nigromante 2594
-Tigrillos 670
-Cerrillos de Diaz 971
-Los Idolos 1189
-Estero del Idolo 3833
-
-Potrero del Llano 4498
-Temapache 1751
-El Tepache 615
-El Jobo Aquiche 615
-El Jobo 1939
-San Antonio Fraternidad 940
-Unidad Antorchista 620
-San Jose Pastorias 620
-El Pericon 526
-Cuauzapotitan 526
-Rodriguez Clara 526
 
 Juan Rodriguez Clara 14628
 
 Juan Diaz Covarrubias 6091
-Novara 2501
-La Gloria 3140
-Mesa Chica la Gloria 684
-Pueblito de Matlaluca 927
-Capoluca 2641
-Campo Grande 2859
-Bajo Grande 862
-Guzmantla 862
-Cerro Guzman 1370
-Congregacion Hidalgo 1370
-Congregacion el Tajin 1363
-Ixcanelco 959
-Ixcapantla 1018
-Capulapa 958
-Tulapam 2222
-Chilapa 1282
-Quiamoloapan 1564
-San Marcos Atesquilapan 1616
-Ejido Vega de San Marcos 710
-Vega de Otates 858
-Vegas de la Soledad y Soledad Dos 1258
-
-Soledad de Doblado 12398
-
-Manlio Fabio Altamirano 5283
-Mixtla de Altamirano 446
-Zacamixtle 1248
-Tamarindo 844
-Fernando Lopez Arias 844
-Ignacio Lopez Rayon 565
-Casa Quemada 565
-Casas Viejas 883
-Lima Vieja 560
-Cuautitlan del Parral 560
-Tiocuautla 534
-Chalahuite 534
-Rio Vasco 545
-
-Altotonga 19722
-Totoloche 582
-Landero y Coss 1154
-La Defensa 1540
-La Loma de Guadalupe 677
-Puente de Guadalupe 859
-Soledad Atzompa 3964
-
-Ciudad Mendoza 35641
-Campesina el Mirador 628
-La Mirra 518
-Mamey la Mar 638
-El Mamey 646
-Cervantes 646
-Tepecoxtla 646
-El Aguacate Terrero 746
-Las Penitas 746
-Casitas 2221
-Oasis 3325
-San Isidro el Berro 1219
-Poblado Dos 2380
-Poblado Cinco 1329
-Nuevo San Jose Independencia 1183
-San Jose Independencia 1053
-Independencia 533
-Melchor Ocampo 1126
-Hato de la Higuera 830
-Las Higueras 1280
-Ixtagapa 847
-Los Reyes 963
-Poza Azul de los Reyes 955
-
-Poza Rica de Hidalgo 185242
-San Miguel Mecatepec 2197
-Arroyo del Maiz Uno 3257
-El Mollejon 1190
-Callejon Santa Clara 676
-Mata Tejon 512
-Camaron de Tejeda 2106
-Adalberto Tejeda 645
-Rodriguez Tejeda 1571
+Gustavo Diaz Ordaz 972
+Salvador Diaz Miron 1045
+Salvador Gonzalo Garcia 734
+Chilapa del Carmen 745
+San Jose del Carmen 815
+El Campanario 850
+El Campamento 940
+San Antonio Fraternidad 940
+San Antonio Hidalgo 936
+El Panorama 1244
+El Paisano 913
+Los Pescados 1555
+San Pablo Mitecatlan 913
+Otilpan 2005
+Tlalpan 590
+San Francisco de las Mesillas 590
 General A. Tejeda y su A. Graciano Sanchez 663
 Graciano Sanchez 556
-Pilpuerta 556
-Puerta Siete 590
-Tlalpan 590
-Cetlalpan 614
-La Vigueta 614
-
-Villa Azueta 6754
-Mazoco 975
-Tzocohuite 973
-Puyecaco 578
-Licenciado Gabriel Ramos Millan 578
-Encino Amarillo 579
-Agustin Millan 579
-
-Cordoba 140896
-La Orduna 1588
-Chicola 2338
-Arroyo Hondo 2178
-Arroyo Largo 586
-Arroyo Zacate 653
-La Rosa 653
-Zoquitlan Viejo 653
-
-Ixtaczoquitlan 26187
-Tlatlazoquico 509
-Potrero Segundo 509
-Jiliapa Segundo 641
-Chichimantla Segundo 882
-Pie de la Cuesta 882
-La Cuesta 2095
-Estanzuela 4492
-Rafael Valenzuela 676
-Rafael Lucio 4097
-
-Rafael Delgado 9594
+Paso San Juan 679
+San Juan Volador 1725
+San Jose de Tapia 1725
+La Guasima 1002
+Tulapilla 925
 
 Jalapilla 8245
-Tulapilla 925
-Tula 1356
-El Tulin 1295
-Vista Hermosa 1019
-Hermanos Cedillo 1217
-Los Cerritos 1670
-Ojital Ciruelo 942
-Santa Catarina y Ciruelo 797
-Ciruelar Aquiche 805
-Palmar Aquiche Primero 504
-Tumbadero 728
-Vista Hermosa de Madero 789
-Residencial Cecadys 556
-El Marcial 541
-Santa Rosa Abata 1142
-Sabanas de Xalostoc 1109
+Palpoalanixcan 627
+San Miguel Tlalpoalan 2205
+San Miguel Tlapexcatl 993
+San Miguel Mecatepec 2197
 
-Nanchital de Lazaro Cardenas del Rio 25289
+Poza Rica de Hidalgo 185242
 
-Villa Lazaro Cardenas 12253
-Colonia Lazaro Cardenas 511
-Mata de Lazaro 510
-Colina de los Pajaros 943
-Loma de Hujuapan 521
-Cerro Colorado 648
-Acuayucan 614
-Toxtlacuaya 583
-Totomoxtle 638
-Gildardo Munoz 638
-Lealtad de Munoz 776
-Sonora 1294
-El Panorama 1244
-Dos Bocas 1091
-Luis Echeverria 813
-Monte Verde Chiveria 1072
-Tomatillo 515
+Plan de Ayala 11657
+
+Totolapa 8060
+Tolapa 505
+Colonia Hermosa 505
+Ixhuatlan de Madero 1275
+Chihuixcruz 505
+Cruz Verde 1005
+Alpatlahuac 1181
+El Quechuleno 502
+La Laja 717
+La Laguna 1112
+Trapiche Viejo 1112
+Trapiche 588
+San Carlos 588
+
+Carlos A. Carrillo 17989
+Atlalco 547
+Pueblito de Matlaluca 927
+Pueblillo 2409
+Espinal 2676
+Entabladero 3316
+Fuerte de Anaya 693
+Puente de Guadalupe 859
+Omealca 3780
+Calcahualco 1044
+Ahueyahualco 2639
+Ayahualulco 2832
+San Antonio Xoquitla 1415
+El Triunfo 1935
 La Toma 1064
 La Tortuga 616
 El Tamarindo 616
-San Jeronimo 616
-Colonia San Jose 525
-Paso Mulato 525
-Loma Mulato 506
-La Piedad 862
-Toluquilla Buena Vista 603
-La Cerquilla 2539
-La Capilla 1446
-Tonayan 1446
-Tonalaco 1202
-Pahua Hueca 1202
-Palo Hueco 513
+Encino Amarillo 579
+Agustin Millan 579
+Licenciado Gabriel Ramos Millan 578
+Tecamilla 771
+Laguneta 1139
+Tlaquilpa 775
+Aquila 754
+Tequila 3897
+Capultitla 546
+Oxtotitla 681
+Teotzacualco 567
+Tetzacual 1044
+Zacualpan 633
+Bellavista 633
+Lindavista 3121
+Monte Gordo 721
+Limonta 669
+Paso del Progreso 669
+La Pimienta 639
+Paso Pimienta 575
+Veinte de Noviembre 1351
+Pozuelo 575
+Estanzuela 4492
+Las Josefinas 695
+Baxtla 695
+Cotaxtla 1167
+Chavaxtla 1416
+Alborada 1362
+Tierra Colorada 1281
+San Isidro el Berro 1219
+Poblado Dos 2380
+Poblado Cinco 1329
+Nuevo Poblado el Hato 560
+Nuevo Atoyac 867
+Nuevo San Jose Independencia 1183
+San Jose Independencia 1053
+Ateopa 501
+Cuesta del Mexicano 740
+Calzadas 3388
+Remojadas 835
+Antonio J Bermudez 1516
+Puyecaco 578
+Magueyitos 593
+El Jaguey 774
+
+Jose Cardel 19092
+
+Cabezas 6167
+Cruz de los Esteros 774
+Ixhuacan de los Reyes 2629
+Los Reyes 963
+Los Lirios 1292
+Amatiopa 892
+Tlapala 1292
+Tapalapan 2354
+Tecolapan 2284
+San Lorenzo 952
+Llanos de San Lorenzo 597
+San Lorenzo Tenochtitlan 1037
+Hueycuatitla 950
+Rafael Valenzuela 676
+La Canada 676
+El Otate 676
+Callejon Santa Clara 676
+El Mollejon 1190
+Arroyo del Maiz Uno 3257
+Arroyo del Potrero 1367
+El Potrerillo 608
+Juan Felipe 874
+Tecuanapa 780
+Tecuantepec 512
+Etlantepec 664
+
+Chicontepec 4519
+Huizache Achichipic 666
+Achichipico 761
+Mafafas 1392
+Huitztipan 892
+Chintipan 893
+Aguachinola 772
+San Martin 779
+Tocuila 4248
+Xiquila 748
+Arroyo Frio 586
+Arroyo Largo 586
+Copaltitla 586
+Pohuantitla 523
+Tenantitla 1273
+Palo Bendito 1239
+Palo Blanco 962
+Mixtla de Altamirano 446
+
+Sayula de Aleman 13980
+
+General Miguel Aleman 14287
+Atoyac 2755
+Jiliapa Segundo 641
+Chichimantla Segundo 882
+
+Cosautlan 4617
+Flor Blanca 511
+Canada Blanca 598
+Apixita 601
+Maxacapan 981
+Ixcapantla 1018
+Ixcanelco 959
+Libertad 959
+Palmaritos 898
+La Antigua 988
+Limon Chiquito 958
+Monte Chiquito 541
+Monterrey 541
+Ictzictic 541
+El Marcial 541
+El Mamey 646
+Mamey la Mar 638
+La Mirra 518
+El Mirador 1353
+Campesina el Mirador 628
+Almanza 628
+Chalma 2646
+Orilla del Monte 2484
+
+Boca del Monte 4832
+
+Paso del Macho 13413
+Salvador Esquer Apodaca [Unidad Habitacional] 641
+Unidad Antorchista 620
+San Jose Pastorias 620
+Colonia Pastoria Cuatro 598
+Palma Cuata 861
+Curazao 861
+Duraznal 512
+Mata Tejon 512
+Camaron de Tejeda 2106
+Rodriguez Tejeda 1571
+Rodriguez Clara 526
+La Mancuerna 620
+El Pericon 526
+Agricola Lazaro Cardenas 3273
+
+Villa Lazaro Cardenas 12253
+Villa Alta 952
+Villa Aldama 3291
+
+Villa Azueta 6754
+Mazoco 975
+
+Isla 26287
+
+La Isla 24558
+Santa Isabel 1156
+Santa Catalina 1493
+Santa Catarina y Ciruelo 797
+Ojital Ciruelo 942
+Ojital Cuayo 808
+El Escobillal 808
+Insurgente Socialista 684
+Insurgentes 838
+
+Los Torrentes 4665
+
+Valente Diaz 25700
+Colina de los Pajaros 943
+Sentimientos de la Nacion 521
+Loma de Hujuapan 521
+Loma de Sogotegoyo 1245
+
+Coyutla 8413
+Paso de Coyutla 560
+San Pedro Coyutla 1123
+Nuevo Potrero 553
+El Oriente 504
+Oriente Medio Dia 507
+Llano de Enmedio 1355
+
+Xalapa de Enriquez 424755
+
+Lomas Verdes 6583
+Lomas de Miradores 991
+El Lencero 1887
+El Crucero 563
+
+Alto Lucero 15011
+Colonia Mexico Lindo 686
+Ojite Rancho Nuevo 1116
+Raudal Nuevo 752
+Corral Nuevo 3335
+Chonegal 1208
+Carrizal 2019
+
+Orizaba 120844
+Fraccionamiento Valle Dorado 3245
+Carmona y Valle 627
+Abasolo del Valle 3691
+Nicolas Bravo 660
+Las Mesas 568
+
+Tesechoacan 6783
+Acanoa 710
+La Javilla 710
+Villanueva 820
+Nuevo Chicayan 765
+Campo Chico 1786
+Monte Verde Chiveria 1072
+Poza Verde 753
+Cabo Verde 870
+Jalcomulco 2955
+Mata Cazuela 870
+Los Idolos 1189
+Tomate Rio Manso 550
+Tecomate 915
+Tibernal 704
+La Ribera 817
+
+Panuco 40754
+Guayalejo 2723
 El Guayabal 613
 Adolfo Ruiz Cortines 1828
-Colorines 2773
-Fredepo 2159
-Las Paredes 597
-Piedras Grandes 576
 
-Piedras Negras 8767
-Tuzales 872
-Tuzantla 875
+Martinez de la Torre 60074
+Maria de la Torre 1755
+La Reforma 1389
+La Redonda 981
+El Platanar 571
+El Laurel 1470
+Residencial las Olas 1391
+San Jose Suchil 1684
+
+Coatzacoalcos 235983
+
+Allende 23620
+Guillermo Prieto 1163
+La Primavera 895
+Capulapa 958
+El Copal 988
+San Cristobal 712
+Cristobal Hidalgo 949
+Cotlaixco 520
+Excola 1038
+Chicola 2338
+La Orduna 1588
+Arroyo Hondo 2178
+El Tesoro 554
+
+El Tejar 11168
+Hacienda Sotavento 1583
+Ex-hacienda la Concepcion 1339
+Totoloche 582
+Landero y Coss 1154
+La Defensa 1540
+Veinticuatro 582
+El Veinticinco 767
+Cinco Palos 683
+El Salitral 755
+El Suspiro 523
+Atlizacuapan 537
+Ixhuapan 2203
+Tebanca 711
+Pinoltepec 706
+San Sebastian 1256
+San Juan Seco de Valencia 1237
+Ocelota 1330
+
+Teocelo 9967
+
+Xico 18652
 
 Tuzamapan 7522
 Estacion Chavarrillo 594
 Chavarrillo 1409
-Chavaxtla 1416
-Alborada 1362
-Venta Parada 536
-Reventadero 736
-Entabladero 3316
-Abrevadero 1425
-El Juile 1195
-El Jicaro 581
-Calaquioco 581
-Apachitla 581
-Xoteapan 2033
-Enriquez 770
+Champilico 939
+Tampico Alto 2564
+Amamaloya 596
 
-Xalapa de Enriquez 424755
-La Haciendita 629
-La Garita 584
-La Colmena 584
-La Concha 672
-La Concepcion 3684
-Ex-hacienda la Concepcion 1339
-Tlacojalpan 4006
-
-Tlacotalpan 7600
-Calpulalpan 899
-Acula 2639
-El Maguey 1413
-Magueyitos 593
-El Jaguey 774
-La Ceiba 774
-
-Paso de Ovejas 7468
-Cruz de los Esteros 774
-Cruz Tetela 1000
-
-Tlaltetela 4528
-Tlaltengo 906
-Chonegal 1208
-Horcones 812
-El Conejo 1044
-El Contento 508
-
-La Isla 24558
-
-Isla 26287
-
-Misantla 26827
-Pocantla 659
-
-Martinez de la Torre 60074
-Pemuxtitla 640
-Xocotitla 598
-Apixita 601
-La Redonda 981
-El Platanar 571
-Mazumiapam 2133
-El Laurel 1470
-Pureza 866
-La Primavera 895
-Cruz Naranjos 712
-Paso Blanco 757
-Atlahuilco 1093
-Huilotla 719
-Huixcolotla 1265
-Chihuixcruz 505
-Ixhuatlan de Madero 1275
-
-Tihuatlan 14417
-El Bejucal 764
-
-Alamo 25159
-Ilamatlan 717
-Xilomichi 717
-
-Filomeno Mata 13304
-Comejen 1380
-
-El Higo 8459
-Miguel Hidalgo 1101
-Zimpizahua 758
-Chahuapan 824
-Mixquiapan 2395
-Calichar Palma Sola 1689
-La Brena 871
-Tenenexpan 2121
-General Hilario C. Salas 751
-El Salitral 755
-Tepeica 683
-Laguna de Majahual 683
-La Laja 717
-
-Huatusco 31305
-
-Soconusco 5825
-Sochiapa 1067
-Chuniapan de Abajo 962
-Ojo de Agua 707
-Las Yaguas 738
+Tamalin 5019
+Salinas Roca Partida 919
+Casa Quemada 565
 Xiujtempa 738
 Los Arrecifes 707
 Dos Arroyos 790
 Colipa 2489
-Loma del Cojolite 633
-Zacualpan 633
-Atlizacuapan 537
-Tlilapan 3476
-Tilapa 532
+Escolin de Olarte 1055
+Hato de la Higuera 830
+Melchor Ocampo 1126
+Texcatepec 1114
+Sombrerete 966
+La Sombra 1042
+La Sidra 1752
+Puerta Siete 590
+Chijol Diecisiete 567
+Las Yaguas 738
+Teayo 1349
+Cosolapo 688
+Montana de Zaragoza 567
+Mata de Indio 1576
+El Gavilan 564
+Manuel Gutierrez Najera 605
+Mario Sauza 605
+General Hilario C. Salas 751
+Ninos Heroes 1061
+El Hoxton 751
+Ejido Guadalupe Victoria 561
 
-Catemaco 27615
-Soyata 1168
+Guadalupe Victoria 6114
+
+Naolinco de Victoria 9233
+Francisco Villa 933
+La Haciendita 629
+La Garita 584
+Agua Caliente 517
+Fraccionamiento las Fuentes 3039
+Fraccionamiento las Lomas 559
+Pachuca 671
+Apachitla 581
+Calaquioco 581
+Aquiles Serdan 1442
+Acajete 1649
+Tetlaxco 1543
+Santa Maria Tatetla 1777
+Jose Maria Pino Suarez 858
+Piedra Labrada 592
+El Macayal 549
+Texacaxco 825
+Texmola 1581
+Zoquitlan Viejo 653
+
+Ixtaczoquitlan 26187
+Coahuitlan 3145
+
+Filomeno Mata 13304
+Tolome 2715
+Acontitla 1691
+Las Sabinas 1167
+Dehesa 3534
+
+Tamiahua 5086
+Chahuapan 824
+Mixquiapan 2395
+Sochiapa 1067
+Axochio 1549
+Almolonga 855
+Sehualaca 855
+Tlacolula 2328
+Cerro Dulce 778
+La Palmilla 3927
+Palmillas 2077
+Almilinga 746
+
+Palmira 14256
+
+Union y Progreso 8181
+Sabanita 627
+Las Penitas 746
+Las Paredes 597
+Fredepo 2159
+Colorines 2773
+El Polvorin 512
+El Popotal 881
+Comejen 1380
+El Zapotito 725
+Zapotitlan 700
+Xococapa 1105
+Napoala 715
+Sinapan 1125
+Totozinapa 708
+
+Altotonga 19722
+Acula 2639
+Calpulalpan 899
+Cetlalpan 614
+
+Tlacotalpan 7600
+Tlacojalpan 4006
+Xalatlaco 1228
+Colatlan 1545
+Tuxtilla 2130
+El Buzon 642
+El Bejucal 764
+Ejido Vega de San Marcos 710
+
+Alamo 25159
+Valsequillo 663
+La Cerquilla 2539
+La Capilla 1446
+La Camelia 2153
+La Candelaria 855
+La Caudalosa 914
+Ojite de Matamoros 914
+Bellaco 816
+
+Soconusco 5825
+
+Huatusco 31305
+Totutla 3802
+
+Tecolutla 4591
+El Volador 2343
+Caristay 1610
+Leona Vicario 766
+Tenochtitlan 1911
+Sasaltitla 1049
+Alahualtitla 566
+Cuauyolotitla 531
+El Ojochal 531
+Panatlan 531
+Tuzales 872
+
+Piedras Negras 8767
+Piedras Grandes 576
+Anclon y Arenal 576
+Xibtla 576
+Los Balsamos 543
+Zilacatipan 543
+
+Jaltipan de Morelos 32778
+Morelos 3277
+Nicanor Espejo 714
+Huazuntlan 3160
+
+Tihuatlan 14417
+
+Cordoba 140896
+
+Penuela 5421
+
+Yanga 5598
+Tametate 616
+Tozongo 1379
+Motzorongo 3909
+Pocitos 652
+Hornitos 1177
+Rancho del Padre 1215
+Revolucion 756
+Residencial Cecadys 556
+La Providencia 3401
+Tepecoxtla 646
+Necoxtla 2890
+Chixtla 823
+Acazonica 1078
+Barrio de Tetzmola 823
+La Charca 612
 
 Maltrata 11842
-La Charca 612
-Juan de Alfaro 612
-Helio Garcia Alfaro 1633
-Cecilio Teran 1914
+
+Catemaco 27615
+Caleria 3910
+Galeras 632
+Alvaro Obregon 875
+Rincon Pintor 842
+El Rincon 669
+
+Rinconada 8173
+Villa Emiliano Zapata 4469
+Emiliano Zapata 1965
 
 Villa Emilio Carranza 5727
 
 Vega de Alatorre 7653
-Serenilla de Abajo 535
-Motzorongo 3909
+Casitas 2221
 
-Zongolica 6874
-Acazonica 1078
-Barrio de Tetzmola 823
-Tequila 3897
-Valsequillo 663
-Mequetla 1507
-Palmaritos 898
-Palma Alta 695
-Tampico Alto 2564
-Puente de Piedra 1207
-Jilotepec 3871
-Hueytepec 2395
-Palo Bendito 1239
-Mata de Indio 1576
-Nicolas Bravo 660
-San Nicolas 698
-San Matias 850
-Amatiopa 892
-San Carlos 588
-
-Carlos A. Carrillo 17989
-
-Cosamaloapan 30577
-Prospero Pineda 709
-Chicalpextle 709
-Chacaltianguis 4133
-Tuxpanguillo 3594
-Las Aguilas 543
-Xibtla 576
-Xiquila 748
-Juchique de Ferrer 2766
-
-Panuco 40754
-Colonia Manuel Gonzalez 982
-El Mango 650
-Los Mangos 2699
-Plan de los Mangos 540
-El Tesoro 554
-Pinoltepec 706
-Puente Jula 2306
-La Junta 1014
-Tronconal 1014
-Revolucion 756
-
-Oluta 12709
-La Sombra 1042
-La Sidra 1752
-Jareros 696
-El Polvorin 512
-El Popotal 881
-Guayalejo 2723
-Ozuluama de Mascarenas 4225
-Cucharas 1611
-
-Los Altos 4771
-Las Trancas 1116
-Xonacayojca 562
-
-Villa Zempoala 9249
-Real del Oro 837
-Actopan 4102
-Apipitzactitla 675
-Jose Maria Pino Suarez 858
-Texacaxco 825
-Huitzila 1186
-Huitztipan 892
-Tehuipango 1884
-Cuauyolotitla 531
-Hueycuatitla 950
-Cantarranas 676
-Barranca Nueva 732
-Francia Nueva 516
-
-Dos Rios 4825
-
-Monte Blanco 6911
-Blanca Espuma 1668
-Nueva Esperanza 883
-Cuyucuenda 544
-La Mancuerna 620
-
-Coyutla 8413
-San Pedro Coyutla 1123
-El Lindero 1123
-El Lencero 1887
-Cerro Botica 578
-Totozinapa 708
-Guillermo Prieto 1163
-Joliette 749
-Tametate 616
-
-Yanga 5598
-
-Penuela 5421
-
-Tesechoacan 6783
-Joachin 2621
-Dehesa 3534
-Calzadas 3388
+Rafael Delgado 9594
+Tlilapan 3476
 
 Anton Lizardo 6003
-Totutla 3802
-Papalotla 681
-Abasolo del Valle 3691
-El Hoxton 751
-Centro de Readaptacion Social 2424
-Pocitos 652
-La Camelia 2153
-La Caudalosa 914
-Ojite de Matamoros 914
-Mezquite Mata del Tigre 514
-Chapopoapan 514
-El Chapo 805
-El Chaparral 716
-Tenochtitlan 1911
-Macedonio Alonso 1840
-Santa Isabel 1156
-Belisario Dominguez 731
+Oasis 3325
+Vara Alta 622
+Palma Alta 695
+
+Tlaltetela 4528
+Cruz Tetela 1000
+Jareros 696
+Cerro Botica 578
+Actopan 4102
+Toxtlacuaya 583
+Tlacotepec de Mejia 2401
+La Atalaya 785
+Cuyucuenda 544
+Joachin 2621
+Vargas 2519
 Poza Larga Zapotal 961
 Berlin 781
-Salinas Roca Partida 919
-Oviedo 1662
-Veinte de Noviembre 1351
-Ixpila 1424
-Mafafas 1392
+Cantarranas 676
 Serafin Olarte 968
-Paso Lagarto 503
+Hueytepec 2395
+Cruz Naranjos 712
+Limones 2282
+Colonia Luis Donaldo Colosio 843
+Tenenexpan 2121
+La Brena 871
+Presidio 2075
+Santiago 1858
+El Remanso 559
+Oviedo 1662
+Poza Azul de los Reyes 955
 Lomas de Vinazco 800
-Salvador Esquer Apodaca [Unidad Habitacional] 641
+Mequetla 1507
+Ixpila 1424
+Sonora 1294
+San Matias 850
+San Nicolas 698
+Horcones 812
+Tula 1356
+Soyata 1168
+El Jicaro 581
+Agua Nacida 994
+Tlaltengo 906
+Norma 901
+La Piedad 862
+Cervantes 646
+Tlahuanapa 747
+Adalberto Tejeda 645
 El Viejon Nuevo 610
-Colonia Pastoria Cuatro 598
-El Porvenir Numero Uno 509
+Xonacayojca 562
+Tampuche 557
+El Azotal 550
+Tlatlazoquico 509
+Vizcaino 503
+Paso Lagarto 503

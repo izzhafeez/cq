@@ -2,10 +2,6 @@
 
 Sendai 1096704
 Rifu 35182
-Watari 33087
-Shibata 38271
-Murata 10666
-Zao 11418
 Matsushima 13323
 Shiogama 52203
 Shichigahama 18132
@@ -13,29 +9,33 @@ Shichikashuku 1262
 Shiroishi 32758
 
 Ishinomaki 140151
-Higashimatsushima 39098
 Wakuya 15388
-Kakuda 27976
-Marumori 12262
-Yamamoto 12046
-Shikama 6698
-Kami 21943
-
-Osaki 127330
 Misato 23994
 Osato 7813
 Tomiya 51651
-
-Tome 76037
-Kurihara 64637
-Ogawara 23571
-Onagawa 6430
-Tagajo 62827
 Taiwa 28786
 Ohira 5849
+Kami 21943
+Shikama 6698
 
-Natori 78718
+Osaki 127330
+Kawasaki 8345
+Zao 11418
+Murata 10666
+Ogawara 23571
+Shibata 38271
+Marumori 12262
+Yamamoto 12046
+Kakuda 27976
+Watari 33087
 Iwanuma 44068
 Kesennuma 61147
 Minamisanriku 12225
-Kawasaki 8345
+
+Tome 76037
+Kurihara 64637
+
+Natori 78718
+Tagajo 62827
+Higashimatsushima 39098
+Onagawa 6430

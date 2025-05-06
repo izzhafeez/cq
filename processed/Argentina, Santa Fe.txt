@@ -1,41 +1,107 @@
 
 
 Rosario 948312
+La Sarita 483
+Larrechea 487
+Canada Ombu 518
+Canada Rica 641
+General Gelly 610
+General Lagos 3419
+Pueblo Esther 6789
+Esther 41
+Los Nogales 152
+Los Amores 1052
+Garibaldi 142
+Theobald 421
+Empalme Villa Constitucion 6241
 
-Villa Gobernador Galvez 80769
-Alvear 2402
-Alvarez 5417
+Villa Constitucion 47374
+Villa Amelia 835
+Villa del Plata 259
+Canada del Ucle 698
 
-Perez 26448
-Sa Pereira 1533
-San Mariano 218
-Santa Clara de Buena Vista 2540
-Santa Clara de Saguier 2117
-Plaza Saguier 262
-Plaza Clucellas 1530
-La Lucila 112
-Vila 1405
-Villa San Jose 220
-Villa Josefina 112
-Josefina 676
-Arroyo Ceibal 622
-Puerto Arroyo Seco 413
+Canada de Gomez 29205
+Correa 5792
+Miguel Torres 373
+Pedro Gomez Cello 554
+Colonia Cello 118
+La Penca y Caraguata 141
+Eusebia y Carolina 746
+Villa Adelina 3960
+Villa Ana 2696
 
-Arroyo Seco 20620
-Fighiera 4034
+Villa Ocampo 15037
+Tacuarendi 2586
+San Antonio de Obligado 2579
+Las Toscas 10838
+Las Garzas 1123
 
-Vera 19185
-Vera y Pintado 997
-La Criolla 1963
-Villa Canas 8821
+Las Rosas 13068
+
+Las Parejas 12375
+Las Palmeras 545
+Grutly 545
+Colonia Rosa 562
+San Guillermo 6747
+Moises Ville 2318
+Virginia 151
+Maria Luisa 579
+Maria Teresa 3523
+Chapuy 571
+Carmen 1611
+Carmen del Sauce 531
+Paraje Compini 12
+Paraje 29 185
+Paraje Chaco Chico 139
+Cululu 97
+Kilometro 115 182
+La Isleta 210
 Santa Isabel 4266
 
 Santa Fe 391164
 
 Santo Tome 65684
 Santo Domingo 1470
-Sarmiento 1098
-Bustinza 1098
+Progreso 2118
+Barrio Arroyo del Medio 310
+Puerto Arroyo Seco 413
+
+Arroyo Seco 20620
+Fighiera 4034
+San Martin Norte 563
+Golondrina 563
+Colonia Ana 16
+Colonia Bossi 111
+Los Quirquinchos 2462
+Los Muchachos - La Alborada 129
+Los Molinos 1832
+Eustolia 22
+Colonia Medici 13
+Angeloni 62
+La Vanguardia 385
+Suardi 6080
+San Eduardo 928
+San Eugenio 79
+San Fabian 820
+Arocena 1608
+
+Coronda 16873
+Coronel Arnold 857
+Coronel Fraga 330
+Esmeralda 594
+Arminda 288
+Arroyo Ceibal 622
+Villa La Rivera 408
+Villa Laura 268
+
+Laguna Paiva 12334
+Villa Saralegui 513
+Soledad 1083
+Ramayon 550
+El Araza 550
+Puerto Aragon 213
+Barrancas 4650
+Franck 5109
 San Agustin 630
 Sauce Viejo 2727
 San Jeronimo del Sauce 742
@@ -47,364 +113,298 @@ Empalme San Carlos 125
 Casalegno 158
 Casas 729
 Las Bandurrias 172
-
-Las Rosas 13068
-
-Las Parejas 12375
-
-Canada de Gomez 29205
-Correa 5792
-
-Carcarana 16277
-Carreras 1906
-Las Palmeras 545
-Grutly 545
-Rueda 471
-Fortin Olmos 1991
-Colmena 141
-Colonia Cello 118
-Colonia Dolores 502
-Montes de Oca 2655
-Piamonte 3336
-Ramona 1694
-Pueblo Marini 51
-Pueblo Munoz 497
-Pueblo Uranga 856
-Coronel Rodolfo S. Dominguez 796
-Coronel Bogado 2204
-Angel Gallardo 856
-La Gallareta 2189
-Margarita 3534
-Colonia Margarita 269
-Maria Juana 4853
-Maria Susana 3197
-Susana 1002
-Curupaity 220
-Tacural 1169
-Esmeralda 594
-Aldao 1576
-
-Roldan 14113
-Soldini 2577
-Soledad 1083
-La Pelada 1037
-Videla 2027
-Providencia 663
-Progreso 2118
-Barrio Arroyo del Medio 310
-Arroyo Aguiar 751
-Larguia 54
-Stephenson 54
-Clason 484
-Villa La Rivera 408
-Villa Laura 268
-
-Laguna Paiva 12334
-Ataliva 1680
-Colonia Ana 16
-Colonia Bossi 111
-Los Quirquinchos 2462
-Canada Rosquin 5008
-Canada Rica 641
-General Gelly 610
-Sargento Cabral 1007
-La Cabral 161
-Cavour 137
-Pavon 876
-Empalme Villa Constitucion 6241
-
-Villa Constitucion 47374
-Constanza 129
-
-Esperanza 40145
-Franck 5109
-Barrancas 4650
-Puerto Aragon 213
-
-Puerto General San Martin 13243
-
-San Lorenzo 45958
-Florencia 5982
-Tacuarendi 2586
-San Antonio de Obligado 2579
-Las Toscas 10838
-Las Garzas 1123
-Guadalupe Norte 654
-Rincon Norte 1904
-Balneario La Verde 8
+Nanducita 79
+Irigoyen 950
+Bernardo de Irigoyen 1566
 San Bernardo 27
+Balneario La Verde 8
+Balneario Monje 391
+Monte Flores 166
+Monte Vera 5726
+
+Recreo 12774
 Berna 629
 Malabrigo 6734
 Toba 266
 
 San Cristobal 14389
 Santurce 32
-San Antonio 272
-Presidente Roca 488
-
-Rafaela 91571
-Lehmann 2416
-
-Sunchales 20537
-Juncal 941
-Wheelwright 5733
-Hughes 4598
-Esther 41
-Pueblo Esther 6789
-General Lagos 3419
-Pinero 1146
-Serodino 3263
-Pueblo Andino 1784
-Villa Elvira 297
-Timbues 3694
-Canada Ombu 518
-La Sarita 483
-Larrechea 487
-Garabato 995
-Cabal 54
-Saladero Mariano Cabal 588
-Marcelino Escalada 1646
-Ramayon 550
-Cayastacito 329
-Cayasta 3367
-Helvecia 5756
-
-Galvez 19061
-Lopez 1368
-Lucio V. Lopez 485
-Arroyo Leyes 516
-Ambrosetti 905
-Llambi Campbell 2260
-
-Villa Ocampo 15037
-Villa Ana 2696
-Villa Guillermina 4555
-El Rabon 865
-Gaboto 2788
-Totoras 9054
-Salto Grande 1944
-Aguara Grande 96
-Monigotes 347
-Theobald 421
-Garibaldi 142
-Pavon Arriba 1834
-Acebal 4969
-Bombal 3137
-
-Firmat 19785
-Carmen 1611
-Carmen del Sauce 531
-Paraje Compini 12
-Paraje La Costa 67
-Aaron Castellanos 236
+Santa Teresa 3039
+Peyrano 2517
+Zenon Pereyra 1637
+Villa Josefina 112
+Villa San Jose 220
+Curupaity 220
+Plaza Saguier 262
+Santa Clara de Saguier 2117
+Plaza Clucellas 1530
 Estacion Clucellas 782
-Lanteri 907
-
-Armstrong 11181
-Sastre 5425
-Traill 65
+Aaron Castellanos 236
+Castellanos 226
+Bella Italia 1070
+Cavour 137
+La Cabral 161
+Sargento Cabral 1007
+Cepeda 349
+Coronel Bogado 2204
+Coronel Rodolfo S. Dominguez 796
+Angel Gallardo 856
+La Gallareta 2189
+Margarita 3534
+Colonia Margarita 269
+Maria Juana 4853
+San Mariano 218
 San Martin de las Escobas 2299
-San Martin Norte 563
-Golondrina 563
-Alejandra 2962
-Calchaqui 9651
-Santa Rosa de Calchines 3435
-Los Zapallos 873
-Rincon Potrero 589
-San Jose del Rincon 10176
-San Jose de la Esquina 6775
-Arteaga 3089
-Tortugas 2234
-Villa Eloisa 2820
-Villada 1213
-Chabas 6871
-Sanford 1810
-
-Casilda 34703
-Silva 360
-Las Tunas 360
-Gobernador Crespo 5335
-Bernardo de Irigoyen 1566
-Irigoyen 950
-Nanducita 79
-Landeta 1357
+Traill 65
 
 San Jorge 17615
-Carlos Pellegrini 4971
-Los Cardos 1310
-El Trebol 11086
-Miguel Torres 373
-Pedro Gomez Cello 554
-
-Rufino 18727
-Arrufo 1764
-Angeloni 62
-La Vanguardia 385
-Suardi 6080
-San Guillermo 6747
-Moises Ville 2318
-Virginia 151
-Humberto Primo 4751
-Humboldt 3999
-Nuevo Torino 425
-Pilar 4705
-Castelar 614
-Castellanos 226
-Los Nogales 152
-Los Amores 1052
-Monte Flores 166
-Monte Vera 5726
-
-Recreo 12774
-
-Reconquista 70549
-
-Avellaneda 23341
-Cepeda 349
-Godoy 1189
-Godeken 1652
-Berabevu 2225
-Chanar Ladeado 5415
-Cafferata 1449
-La Chispa 352
-Murphy 3630
-Aurelia 113
-Barrio Cicarelli 28
-Barrio Caima 1655
-Desvio Arijon 946
-
-Coronda 16873
-Coronel Arnold 857
-Gessler 857
-La Isleta 210
-Kilometro 115 182
-Kilometro 101 36
-Colonia Medici 13
-Eustolia 22
-Los Molinos 1832
-Juan B. Molina 1265
-Eusebia y Carolina 746
-Villa Adelina 3960
-Villa Amelia 835
-Villa del Plata 259
-Canada del Ucle 698
-Chovet 2101
-Chapuy 571
-Elortondo 5632
-
-Venado Tuerto 75437
-San Eduardo 928
-Sancti Spiritu 3433
+Sastre 5425
 Crispi 267
-Zenon Pereyra 1637
-Peyrano 2517
-Santa Teresa 3039
-Maria Teresa 3523
-Maria Luisa 579
+Castelar 614
+Barrio Mitre 816
+Carrizales 1041
+Juan B. Molina 1265
+Godoy 1189
+Pavon 876
+Pavon Arriba 1834
+Acebal 4969
+Colonia Dolores 502
+Montes de Oca 2655
+Piamonte 3336
+Maria Susana 3197
+Susana 1002
 
-Fray Luis Beltran 15176
-Luis Palacios 836
-Palacios 245
-Estacion Saguier 105
-Jacinto L. Arauz 106
-Capivara 102
+Rafaela 91571
+Presidente Roca 488
+Estacion Presidente Roca 36
+Kilometro 101 36
+Cuatro Esquinas 174
+San Jose de la Esquina 6775
+Arteaga 3089
+Villa Eloisa 2820
+Villa Elvira 297
+Timbues 3694
+Pueblo Andino 1784
+Serodino 3263
+Oliveros 3800
+Huanqueros 665
+Stephenson 54
+Larguia 54
+Arroyo Aguiar 751
+Arbilla 427
+Villada 1213
+Villa Mugueta 2139
+Melincue 2139
+Teodelina 5933
+Villa Canas 8821
+Hughes 4598
+Wheelwright 5733
+Juncal 941
+Alcorta 7450
+Maximo Paz 3441
+San Jeronimo Sud 2641
+
+Roldan 14113
+
+Funes 23281
+Ibarlucea 3698
 
 Capitan Bermudez 29218
 
 Granadero Baigorria 36994
-Ibarlucea 3698
+Saladero Mariano Cabal 588
+Helvecia 5756
+Cayasta 3367
+Cayastacito 329
+Estacion Saguier 105
+Aurelia 113
+Los Laureles 364
+Frontera 10520
+Lanteri 907
 
-Funes 23281
-Ricardone 2570
-Angelica 1298
-Felicia 1788
-Elisa 1490
-Villa Saralegui 513
-El Araza 550
+Armstrong 11181
+Albarellos 253
+Bauer y Sigel 290
+Colonia Duran 183
+Rueda 471
+Fortin Olmos 1991
+Loma Alta 225
+Cabal 54
+Colmena 141
+Amenabar 1605
+Sancti Spiritu 3433
+Labordeboy 928
+
+Venado Tuerto 75437
+Murphy 3630
+La Chispa 352
+Las Avispas 46
+Ataliva 1680
+Arrufo 1764
+San Gregorio 4291
+San Genaro 4070
+San Genaro Norte 4661
+Centeno 2870
+Fuentes 2791
+Colonia Bicha 187
+Colonia Belgrano 908
 El Caramelo 155
 Wildermuth 155
 Matilde 754
 Plaza Matilde 29
-Lazzarino 350
-Las Petacas 872
-Candioti 888
+Barrio Caima 1655
+Desvio Arijon 946
+Cacique Ariacaiquin 142
+Canada Rosquin 5008
+Carlos Pellegrini 4971
+Los Cardos 1310
+El Trebol 11086
+Bouquet 1230
+Tortugas 2234
+Arroyo Leyes 516
+Ambrosetti 905
+
+San Javier 13604
+La Brava 329
+Gobernador Crespo 5335
+
+Villa Gobernador Galvez 80769
+Alvear 2402
+Diego de Alvear 1855
+
+Galvez 19061
+Lopez 1368
+Lucio V. Lopez 485
+La Lucila 112
+Pueblo Santa Lucia 185
+Pueblo Munoz 497
+Pueblo Uranga 856
+Pueblo Marini 51
+Ramona 1694
+Vila 1405
+San Antonio 272
+
+San Lorenzo 45958
+
+Puerto General San Martin 13243
+
+Fray Luis Beltran 15176
+Luis Palacios 836
+Ricardone 2570
+Barrio Cicarelli 28
+Capivara 102
+Jacinto L. Arauz 106
+Rincon Norte 1904
+Rincon Potrero 589
+San Jose del Rincon 10176
+Los Zapallos 873
+Santa Rosa de Calchines 3435
+Calchaqui 9651
+Vera y Pintado 997
+
+Vera 19185
+Barrios Acapulco y Veracruz 1790
+Nueva Lehmann 90
+Lehmann 2416
+
+Sunchales 20537
+Aldao 1576
+Palacios 245
+Humberto Primo 4751
+Puerto Reconquista 1144
+
+Reconquista 70549
+
+Avellaneda 23341
+Guadalupe Norte 654
+Ingeniero Chanourdie 319
+Chanar Ladeado 5415
+Cafferata 1449
+Godeken 1652
+Berabevu 2225
+
+Firmat 19785
+Bombal 3137
+Chabas 6871
+Sanford 1810
+
+Casilda 34703
+Pujato 3370
+Zavalla 4966
+
+Perez 26448
+Soldini 2577
+Pinero 1146
+Alvarez 5417
+
+Esperanza 40145
+Constanza 129
+Nare 341
 Campo Andino 313
-Paraje 29 185
-Paraje Chaco Chico 139
-Colonia Bicha 187
-Fuentes 2791
-Centeno 2870
-San Genaro Norte 4661
-San Genaro 4070
-Arocena 1608
-San Fabian 820
+Candioti 888
+Pozo de los Indios 440
+Intiyaco 1132
+Tartagal 1599
+Paraje San Manuel 164
+Paraje La Costa 67
+La Criolla 1963
+Las Tunas 360
+Marcelino Escalada 1646
+La Pelada 1037
+Providencia 663
+Videla 2027
+Nelson 4206
+Hipatia 310
+Sarmiento 1098
+Bustinza 1098
+Felicia 1788
+Nuevo Torino 425
+Pilar 4705
+Humboldt 3999
+Sa Pereira 1533
+Angelica 1298
+Santa Clara de Buena Vista 2540
 San Francisco de Santa Fe 279
 Egusquiza 279
 Colonia Raquel 123
-Colonia Rosa 562
-Villa Trinidad 2606
-La Rubia 299
-Hersilia 2780
 Emilia 691
-Cululu 97
-Barrios Acapulco y Veracruz 1790
-Frontera 10520
-Los Laureles 364
-Nueva Lehmann 90
-Paraje San Manuel 164
-Tartagal 1599
-Intiyaco 1132
-Pozo de los Indios 440
-Diego de Alvear 1855
-Arminda 288
-Coronel Fraga 330
-Arbilla 427
-Loma Alta 225
-Romang 7755
-Ingeniero Chanourdie 319
-San Eugenio 79
-San Gregorio 4291
-Amenabar 1605
-Labordeboy 928
-Maggiolo 1701
-Colonia Duran 183
-Bauer y Sigel 290
-La Penca y Caraguata 141
-Huanqueros 665
-Puerto Reconquista 1144
-Maximo Paz 3441
-San Jeronimo Sud 2641
-Pujato 3370
-Zavalla 4966
-La Brava 329
-
-San Javier 13604
-Las Avispas 46
+Hersilia 2780
+La Rubia 299
+Villa Trinidad 2606
 
 Ceres 14499
-Estacion Presidente Roca 36
-Barrio Mitre 816
-Balneario Monje 391
-Carrizales 1041
-Alcorta 7450
-Villa Mugueta 2139
-Melincue 2139
-Teodelina 5933
-Arequito 6533
-Nare 341
-Los Muchachos - La Alborada 129
-Albarellos 253
-Maciel 5634
-Monje 1838
-Diaz 1721
-Oliveros 3800
-Bigand 4939
 Christophersen 499
-Nelson 4206
-Hipatia 310
-Bouquet 1230
-Cacique Ariacaiquin 142
-Bella Italia 1070
-Pueblo Santa Lucia 185
-Colonia Belgrano 908
-Cuatro Esquinas 174
+Bigand 4939
+Tacural 1169
+Josefina 676
+Clason 484
+
+Rufino 18727
+Maggiolo 1701
+Elortondo 5632
+Chovet 2101
+
+Carcarana 16277
+Salto Grande 1944
+Aguara Grande 96
+Monigotes 347
+Totoras 9054
+Diaz 1721
+Monje 1838
+Maciel 5634
+Gaboto 2788
+Romang 7755
+Alejandra 2962
+Silva 360
+Elisa 1490
+Arequito 6533
+Florencia 5982
+El Rabon 865
+Villa Guillermina 4555
+Las Petacas 872
+Carreras 1906
+Llambi Campbell 2260
+Garabato 995
+Landeta 1357
+Gessler 857
+Lazzarino 350
