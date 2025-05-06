@@ -1,114 +1,114 @@
 
 
 Maceio 1025360
-Roteiro 6649
-Cajueiro 21331
-Santana do Mundau 10687
-Pindoba 2905
-
-Palmeira dos Indios 73337
-Senador Rui Palmeira 13921
-Pao de Acucar 24351
-Passo de Camaragibe 15258
-Japaratinga 8403
-Campestre 6954
-Ibateguara 15627
-Craibas 24309
-Traipu 27826
-Igreja Nova 24586
-Lagoa da Canoa 17771
-Boca da Mata 27356
-Pilar 35212
-Sao Miguel dos Milagres 8013
-Barra de Sao Miguel 8378
-Sao Jose da Tapera 32405
-
-Delmiro Gouveia 52262
-Limoeiro de Anadia 28771
-Feira Grande 22178
-Mata Grande 25207
-Campo Grande 9567
-
-Arapiraca 233047
-Canapi 17719
-Santana do Ipanema 47819
-Ouro Branco 11535
-Olho d'Agua das Flores 21738
-Olho d'Agua do Casado 9441
-Olho d'Agua Grande 5128
-
-Penedo 63846
-Minador do Negrao 5322
-Paulo Jacinto 7560
-Barra de Santo Antonio 16068
 
 Rio Largo 75394
-
-Marechal Deodoro 52380
-Porto Real do Colegio 20112
-Sao Sebastiao 34290
-Coqueiro Seco 5864
-Messias 18031
-Capela 16979
-Estrela de Alagoas 18255
-Tanque d'Arca 6138
-Branquinha 10460
-Piranhas 25183
-Palestina 5037
-Olivenca 11657
-Poco das Trincheiras 14418
-Monteiropolis 7165
-Carneiros 9159
-Maravilha 9004
-Maragogi 33032
-Novo Lino 12764
-Flexeiras 12807
-Paripueira 13332
+Pilar 35212
+Atalaia 47365
+Batalha 18338
 Pariconha 10539
-Vicosa 25693
-Murici 28333
-Joaquim Gomes 24081
+Paripueira 13332
+Traipu 27826
+Jaramataia 5761
+Major Isidoro 19864
+Cacimbinhas 10889
+Dois Riachos 11067
+Jacare dos Homens 5219
+Monteiropolis 7165
+Belo Monte 6710
+Palestina 5037
+Japaratinga 8403
+Porto de Pedras 7701
+Porto Calvo 27249
+Porto Real do Colegio 20112
+Olho d'Agua Grande 5128
+Campo Grande 9567
+Feira Grande 22178
+Lagoa da Canoa 17771
+Estrela de Alagoas 18255
+
+Palmeira dos Indios 73337
 
 Uniao dos Palmares 65790
+Branquinha 10460
+Inhapi 18392
+Canapi 17719
+Mata Grande 25207
+Agua Branca 20230
+Olho d'Agua do Casado 9441
+Piranhas 25183
+
+Arapiraca 233047
+Coite do Noia 10643
+Taquarana 20072
+Anadia 17526
+Limoeiro de Anadia 28771
+Pao de Acucar 24351
+Passo de Camaragibe 15258
+Matriz de Camaragibe 24634
+Maragogi 33032
+Maravilha 9004
+Ouro Branco 11535
+Poco das Trincheiras 14418
+Olho d'Agua das Flores 21738
+Carneiros 9159
+Roteiro 6649
+Coqueiro Seco 5864
+Junqueiro 24722
+Cajueiro 21331
+Capela 16979
+Sao Jose da Tapera 32405
+Sao Bras 6969
+Jacuipe 7006
+Paulo Jacinto 7560
+Igaci 25613
+Craibas 24309
+Ibateguara 15627
 Sao Jose da Laje 23996
 Jequia da Praia 11536
-Cha Preta 7311
-Batalha 18338
-Atalaia 47365
-Jaramataia 5761
-Dois Riachos 11067
-Coite do Noia 10643
+Boca da Mata 27356
+Maribondo 13193
+Pindoba 2905
 Mar Vermelho 3494
-Anadia 17526
-Teotonio Vilela 44372
-Taquarana 20072
+Tanque d'Arca 6138
+Quebrangulo 11248
+Vicosa 25693
+Murici 28333
+
+Coruripe 57294
+Feliz Deserto 4779
+Piacabucu 17848
+
+Penedo 63846
+Igreja Nova 24586
+Novo Lino 12764
+Colonia Leopoldina 21818
+Jundia 4137
+Campestre 6954
 
 Campo Alegre 57537
 
 Sao Miguel dos Campos 61797
-
-Coruripe 57294
-Jacuipe 7006
-Belem 4284
-Belo Monte 6710
-Jacare dos Homens 5219
-Major Isidoro 19864
-Cacimbinhas 10889
-Inhapi 18392
-Agua Branca 20230
-Sao Bras 6969
-Girau do Ponciano 41237
-Sao Luis do Quitunde 34692
-Porto de Pedras 7701
-Jundia 4137
-Junqueiro 24722
-Porto Calvo 27249
-Matriz de Camaragibe 24634
-Igaci 25613
-Colonia Leopoldina 21818
-Piacabucu 17848
-Feliz Deserto 4779
-Satuba 13936
+Sao Miguel dos Milagres 8013
+Barra de Sao Miguel 8378
+Minador do Negrao 5322
+Senador Rui Palmeira 13921
+Santana do Ipanema 47819
+Santana do Mundau 10687
 Santa Luzia do Norte 7320
-Maribondo 13193
-Quebrangulo 11248
+Satuba 13936
+Sao Luis do Quitunde 34692
+Barra de Santo Antonio 16068
+Teotonio Vilela 44372
+Sao Sebastiao 34290
+
+Marechal Deodoro 52380
+Cha Preta 7311
+Belem 4284
+Flexeiras 12807
+Joaquim Gomes 24081
+Messias 18031
+
+Delmiro Gouveia 52262
+Girau do Ponciano 41237
+Olivenca 11657

@@ -1,1399 +1,1399 @@
 
 
 Columbus 905748
-Plumwood 257
-Woodworth 1784
-Ravenna 11323
-Pepper Pike 6796
-
-Eastlake 17670
-Lakeline 216
-Frankfort 1084
-Nankin 435
-Struthers 10063
-Ostrander 1094
-Leipsic 2177
-Shiloh (Richland County) 619
-Brilliant 1317
-St. Henry 2596
-St. Louisville 352
-Harrisville 179
-Pettisville 469
-Stewart 221
-Warsaw 634
-Norwich 87
-Orwell 1533
-Friendship 343
-Marietta 13385
-Milton Center 137
-Kinsman Center 574
-Arcadia 564
-Indian Hill 6087
-Amelia 12575
-Jamestown 2052
-Laurelville 512
-Dunkirk 774
-Kunkle 173
-Burgoon 183
-Rossburg 159
-Millersburg 3151
-Miltonsburg 42
-Hollansburg 243
-Martinsburg 222
-St. Martin 200
-Martins Ferry 6260
-Apple Creek 1188
-Taylor Creek 4056
-Walnut Creek 908
-Parkman 282
-Park Layne 4248
-
-Brook Park 18595
-Brookside 538
-Northbrook 10912
-Mack 11088
-Jacksontown 402
-Uniontown 7173
-Twinsburg Heights 999
-
-Cleveland Heights 45312
-Day Heights 2625
-Finneytown 12399
-
-Stow 34483
-Brooklyn Heights 1519
-Richfield 3729
-
-Fairview Park 17291
-Minerva Park 2009
-Prospect 1067
-Tippecanoe 83
+Lincoln Village 9702
+Lincoln Heights 3144
+Lincoln Heights (Richland County) 1039
+West Rushville 166
+Mantua 1001
+Fairfield Beach 1267
+Richmond 412
+Raymond 280
+Clarington 280
+Arlington 1492
+Clinton 1197
+East Canton 1521
 
 Canton 70872
-Vinton 224
-Port Washington 548
-
-Washington Court House 14401
-Old Washington 223
-Curtice 1552
-Attica 873
-Harrisburg 315
-Midvale 673
-Sulphur Springs 197
-New Springfield 579
-Green Springs 1233
-Magnetic Springs 267
-Martinsville 416
-Marblehead 865
-Peebles 1774
-Waynesville 2669
-Englewood 13463
-Evendale 2669
-Morgandale 1139
-Linndale 108
-Flat Rock 227
-Glenmont 240
-Rosewood 224
-Roseville 1746
-McKinley Heights 950
-Highland Heights 8719
-
-Twinsburg 19248
-
-Mayfield Heights 20351
-
-Aurora 17239
-
-South Euclid 21883
-South Point 3836
-Reminderville 5412
-Pemberville 1326
-Chesterville 191
-Chilo 71
-La Rue 676
-Mariemont 3518
-Roachester 579
-Raymond 280
-London 10279
-Andover 972
-Westfield Center 1184
-Howland Center 6351
-Chagrin Falls 4188
-Munroe Falls 5044
-
-Wadsworth 24007
-North Madison 8188
-University Heights 13914
-Berlin Heights 651
-Scott 242
-Lincoln Heights (Richland County) 1039
-Perry 1602
-Mulberry 3459
-Holiday City 48
-Valley City 943
-Lodi 2746
-Reading 10600
-Madison 3435
-Lafayette (Madison County) 206
-Fayetteville 317
-Melmore 173
-Wilmot 282
-Damascus 418
-Seaman 973
-Wakeman 990
-Wayne Lakes 693
-Lake Lakengren 3387
-Buckeye Lake 2520
-North Bend 835
-North Lima 1369
-North Star 224
-Custar 178
-Russellville 542
-Caledonia 560
-Leetonia 1833
-
-Xenia 25441
-Northridge 7518
-
-Hilliard 37114
-Richwood 2222
-
-Norwood 19043
-
-Sharonville 14117
-Andersonville 778
-Fresno 140
-The Plains 3140
-South Solon 329
-Adamsville 140
-Williamsdale 578
-Woodsdale 442
-Woodville 2006
-Genoa 2232
-Geneva-on-the-Lake 916
-Corwin 484
-Corning 488
-Bentleyville 897
-Darbyville 186
-Celeryville 222
-Valleyview 669
-Tontogany 387
-West Logan 912
-Freeport 321
-North Lawrence 212
-Devola 2639
-Campbell 7852
-Bellevue 8249
-Guilford Lake 1188
-
-Steubenville 18161
-Wilkshire Hills 2940
-
-Akron 190469
-Hebron 2326
-Clinton 1197
-Malinta 236
-Midland 307
-Barnhill 383
-Waterford 384
-Coldwater 4774
-Midway 269
-Ridgeway 314
-East Rochester 224
-Port William 229
-Meyers Lake 724
-
-Avon Lake 25206
-Bass Lake 530
-Stoutsville 579
-Burkettsville 272
-Huntsville 408
-Robertsville 293
-Sullivan 603
-Harrisburg (Stark County) 306
-Sandyville 350
-Pleasantville 934
-Moscow 155
-Middleport 2208
-New Middletown 1507
-Middle Point 566
-Sterling 432
-Potsdam 225
-Wilson 129
-Willard 6197
-
-Elyria 52656
-Maria Stein 1067
-New Bavaria 86
-South Mount Vernon 714
-Crown City 424
-Lockbourne 236
-Lockington 162
-Burlington 2416
-
-Upper Arlington 36800
-New Burlington 5049
-Kenwood 7570
-Skyline Acres 1446
-Urbancrest 1031
-Sycamore 793
-Lakemore 2926
-Belmore 65
-Shawnee (Hamilton County) 747
-Fort McKinley 3473
-Fort Seneca 230
-Castine 110
-
-Austintown 29594
-East Liverpool 9958
-Louisville 9521
-Loudonville 2786
-Cadiz 3051
-New Madison 840
-Waynesfield 749
-
-Mansfield 47534
-Green Meadows 2373
-Greenville 12786
-
-Beavercreek 46549
-
-Lebanon 20841
-Gratis 842
-Marathon 155
-Athalia 279
-Ithaca 81
-Lithopolis 2134
-Johnstown 5182
-Lordstown 3332
-Miller City 134
-Van Buren 396
-
-Vandalia 15209
-Versailles 2692
-Yellow Springs 3697
-Covington 2548
-Clarington 280
-Cardington 2079
-Wellington 4799
-
-North Royalton 31322
-
-Hudson 23110
-
-Shaker Heights 29439
-
-Parma 81146
-Farmersville 975
-Cridersville 1791
-Tipp City 10274
-Five Points 2247
-
-Fairborn 34510
-Carlisle 5501
-Clayton 13310
-Clarktown 911
-Darrtown 514
-Casstown 270
-Morristown 248
-Harrison 12563
-Springdale 11007
-Dry Ridge 2698
-Delshire 3158
-Pleasant Run 4861
-Pleasant Hills 950
-Goshen 715
-Kelleys Island 256
-Holland 1820
-Landen 6995
-Glendale 2298
-Glencoe 264
-McClure 700
-Tiltonsville 1259
-Brownsville 214
-Beechwood Trails 3276
-
-Trotwood 23070
-
-Lakewood 50942
-Sheffield Lake 8957
-Brecksville 13635
-Orange 3421
-Moraine 6393
-Trenton 13021
-Greentown 3382
-Greenwich 1409
-Greenhills 3741
-Greenfield 4339
-
-Kettering 57862
-
-Monroe 15412
-
-Fremont 15930
-Rosemount 2117
-Wilmington 12664
-Four Bridges 3401
-Bainbridge 9242
-Bridgeport 1582
-Cambridge 10089
-Rockbridge 160
-Syracuse 781
-Whitehouse 4990
-Glouster 1659
-
-Gahanna 35726
-South Bloomfield 2143
-Bloomdale 665
-Miami Heights 5166
-West Elkton 164
-Hamersville 485
-Bowersville 261
-Owensville 786
-Warrensville Heights 13789
-Chesterland 7074
-Fairport Harbor 3108
-Bedford Heights 11020
-
-Broadview Heights 19936
-Perry Heights 8391
-Silver Lake 2516
-
-Brunswick 35426
-Dry Run 7672
-Pleasant Run Farm 4779
-Montgomery 10853
-Mount Healthy Heights 2918
-Miamitown 1256
-
-Middletown 50987
-Middlebranch 2117
-Middlefield 2748
-Mineral Ridge 3951
-Huber Ridge 4940
-Maple Ridge 667
-Cedarville 4257
-Harveysburg 554
-Leesburg 1273
-Lewisburg 1745
-Hide-A-Way Hills 976
-Seven Hills 11720
-East Cleveland 13792
-
-Willoughby 23959
-Vaughnsville 278
-Tuppers Plains 438
-Dundee 269
-Deersville 69
-Brecon 408
-Congress 132
-Forest 1350
-Crestline 4525
-Huron 6922
-
-Middleburg Heights 16004
-Bedford 13149
-Minford 641
-
-Oxford 23035
-Lincoln Heights 3144
-Turpin Hills 5162
-Cheviot 8658
-Sciotodale 1049
-Pleasant City 400
-Pleasant Plain 129
-Mount Cory 225
-Mount Eaton 171
-Mount Hope 197
-Amanda 673
-North Randall 954
 
 North Canton 17842
-Seville 2335
-Salineville 1206
-Bourneville 241
-Mifflin 158
-Camp Dennison 384
-Fort Recovery 1501
-Bergholz 544
-
-Berea 18545
-
-Maple Heights 23701
-Richmond Heights 10801
-Independence 7584
-
-Strongsville 46491
-Kingston 1262
-North Kingsville 2742
-
-North Ridgeville 35280
-
-Cleveland 372624
-Loveland Park 1737
-Deer Park 5432
-Mount Repose 4648
-Mount Orab 4347
-Mount Sterling 1945
-
-Worthington 14786
-Ashville 4529
-
-Powell 14163
-Wellston 5412
-Lowell 565
-Wellsville 3113
-Donnelsville 255
-Connorville 160
-
-Westerville 39190
-Butlerville 155
-Sparta 121
-West Mansfield 749
-Woodsfield 2210
-Jenera 257
-Geneva 5924
-Maineville 1405
-Tiro 219
-Utica 2064
-Powhatan Point 1461
-Highpoint 1558
-Russells Point 1320
-West Jefferson 4137
-Weston 1455
-West Hill 2218
-Fruit Hill 3748
-Grandview 1312
-Withamsville 7357
-Smithville 1338
-Rushville 304
-Richville 3209
-
-Tallmadge 18394
-Doylestown 3051
-Lewistown 202
-Williston 439
-Hooven 464
-Venedocia 140
-St. Paris 1882
-Wheelersburg 6531
-Brunersburg 314
-Winesburg 340
-Negley 274
-Ney 303
-Ashley 1198
-Nashport 449
-Portage 398
-Millersport 978
-Christiansburg 505
-Medway 627
-Derby 355
-Centerburg 1690
-Malvern 1110
-Brandt 282
-Grand River 394
-Kilbourne 127
-Benton Ridge 272
-Bentonville 253
-Washingtonville 712
-South Salem 219
-South Canal 1101
-Butler 941
-Hunting Valley 763
-Thurston 603
-Bowerston 356
-Fairview 67
-Fairlawn 7710
-
-Fairfield 44907
-Summerfield 237
-Catawba 245
-Brice 93
-Richmond 412
-Jackson Center 1441
-Rochester 159
-Winchester 987
-West Manchester 415
-Canal Lewisville 417
-Tuscarawas 1035
-Carey 3565
-
-Lima 35579
-Baltimore 2981
-Elmore 1370
-Nelsonville 4612
-Hartville 3329
-Summitville 110
-Hoytville 220
-Millville 634
-Florida 215
-Quincy 536
-
-Cincinnati 309317
-Cherry Grove 4419
-Grover Hill 382
-Elgin 49
-Girard 9603
-Howard 246
-Hockingport 205
-Mount Blanchard 471
-Mount Carmel 4828
-Mount Healthy 6996
-Madeira 9487
-Adelphi 322
-Rudolph 415
-
-New Philadelphia 17677
-New Paris 1494
-Kings Mills 1336
-Miller 455
-Iberia 431
-Berlin 1447
 Norton 11673
+
+Barberton 25191
 Edgerton 1881
-Silverton 4908
-Hanoverton 354
-Bairdstown 115
-Vienna Center 622
-
-Centerville 24240
-Belle Center 809
-Sharon Center 918
-Danville 1019
-Plainville 120
-Blaine 473
-New Bloomington 413
-Remington 368
-Arlington 1492
-New Athens 222
-New Vienna 1108
-Anna 1470
-Bannock 159
-Hannibal 314
-Dennison 2709
-Mingo Junction 3347
-Antioch 71
-Whites Landing 350
-Gates Mills 2264
-West Milton 4697
-Hayesville 447
-Wightmans Grove 55
-Sugar Grove 429
-Pleasant Grove 1726
-Mount Pleasant 394
-Leesville 127
-Byesville 2364
-Conesville 328
-Barnesville 4008
-Newtonsville 392
-Newton Falls 4557
-Ludlow Falls 175
-Good Hope 202
-Highland Holiday 571
-Holiday Lakes 828
-Elida 1923
-Holiday Valley 1480
-Vanlue 341
-Morral 373
-Orrville 8452
-Somerville 258
-Wren 165
-
-Warren 39201
-Reno 1129
-Riverlea 599
-Cuyahoga Heights 573
-Murray City 341
-Lore City 282
-Roswell 219
-Camden 1989
-Adena 664
-Helena 211
-Bratenahl 1430
-Kimbolton 152
-West Salem 1430
-Jerusalem 121
-Salesville 123
-Unionville Center 241
-Bradford 1796
-Lake Seneca 529
-Lake Darby 4731
-Lake Milton 637
-Lake Mohawk 1601
-Lake Lorelei 1172
-Yankee Lake 75
-Portage Lakes 6407
-Jacksonburg 55
-Macksburg 120
-Jackson 6252
-Buffalo 373
-McGuffey 466
-Highland 232
-Haviland 160
-Limaville 151
-Parral 205
-Harrod 423
-Old Fort 143
-Darbydale 768
-Kirby 120
-Kanauga 185
-Dresden 1650
-Sherrodsville 222
-Hessville 174
-Bloomingville 255
-Mantua 1001
-Fletcher 451
-Cherry Fork 170
-Jerry City 454
-Waverly City 4408
-Manchester 1839
-Piketon 2111
-Ottawa 4456
-Senecaville 422
-Fredericksburg 409
-Rushsylvania 491
-Montezuma 152
-Polk 310
-Gallipolis 3313
-Galion 10453
-Granville 5946
-Shawnee Hills (Delaware County) 835
-Sherwood (Defiance County) 802
-Rayland 395
-
-Ashland 19225
-Deshler 1588
-Lewisville 184
-Collins 628
-North College Hill 9663
-North Zanesville 3116
-
-Painesville 20312
-
-Ashtabula 17975
-McDonald 3172
-
-Streetsboro 17260
-Lisbon 2597
-Carbon Hill 178
-Oak Harbor 2821
-Wauseon 7568
-Convoy 1012
-
-Troy 26305
-Union City 1582
-Plain City 4065
-Smithfield 869
-Millfield 311
-Suffield 949
-Chesterhill 276
-Fulton 250
-Green Camp 310
-Clarksburg 409
-Nashville 183
-West Rushville 166
-Holmesville 371
-Little Hocking 244
-Kingsville 824
-Harpster 160
-
-Wooster 27232
-Grafton 5895
-Rittman 6131
-New Pittsburg 303
-Lakeview 1184
-Bay View 608
-La Croft 1078
-Stone Creek 153
-Zoar 172
-Oak Hill 1407
-Highland Hills 662
-Moreland Hills 3466
-Hills and Dales 250
-Republic 556
-Blacklick Estates 8990
-Blanchester 4224
-
-Miamisburg 19923
-
-Mason 34792
-Massieville 584
-Milledgeville 98
-Bradner 971
-
-Sidney 20589
-South Charleston 1706
-South Lebanon 6384
-College Corner 387
-New Concord 2361
-New California 2225
-New Waterford 1194
-Waterville 6003
-Atwater 776
-Otway 92
-Marlboro 247
-Dunlap 1658
-
-Dublin 49328
-Celina 10935
-
-Huber Heights 43439
-
-Springboro 19062
-Beckett Ridge 9192
-Stony Ridge 434
-Bascom 397
-McComb 1558
-Newcomerstown 3702
-Somerset 1481
-Pomeroy 1573
-Jeromesville 531
-Rome 83
-Edon 796
-Mendon 628
-
-Mentor 47450
-Kenton 7947
-Sunbury 6614
-Gibsonburg 2452
-Hamburg 456
-Waldo 326
-Walton Hills 2033
-Coalton 445
-Cecil 146
-Scio 673
-Ohio City 651
-New Marshfield 316
-East Sparta 749
-East Liberty 371
-East Canton 1521
-West Carrollton 13129
-Carroll 501
-Morrow 2049
-McConnelsville 1667
-Kettlersville 164
-Wintersville 3765
-Dover 13112
-Cloverdale 170
-Amsterdam 436
-Junction City 721
-Franklin Furnace 1525
-Canal Fulton 5325
-
-Kent 28215
-
-Garfield Heights 29781
-Lyndhurst 14050
-Lynchburg 1510
-Brooklyn 11359
-Beachwood 14040
-Kirtland 6937
-Rutland 427
-Orient 246
-Wilkesville 116
+Rossford 6299
+Ross 3478
+Rossmoyne 1788
+Windham 1666
+Withamsville 7357
+Hamersville 485
+Farmersville 975
+Deersville 69
+Hicksville 3431
 Amesville 171
-Ridgeville Corners 416
-Orangeville 174
-Buford 306
-Lafferty 255
-Stafford 71
-West Leipsic 226
-Fort Jennings 525
-Irondale 326
-Bolindale 1921
-Chardon 5242
-Gordon 245
-New London 2416
-New Richmond 2727
-New Riegel 286
-Milford Center 807
-Roaming Shores 1586
-Wolfhurst 1119
-McArthur 1783
+Mount Eaton 171
+Eaton 8375
+Trenton 13021
 
-Reynoldsburg 41076
-
-Newark 49934
-Grandview Heights 8085
-
-Lancaster 40552
-Castalia 774
-East Alliance 268
-West Alexandria 1334
-Mowrystown 385
-Calcutta 3941
-Ottawa Hills 4790
-Delhi Hills 5022
-Lockland 3514
+Monroe 15412
+Montgomery 10853
 Sixteen Mile Stand 3091
 Seven Mile 712
-North Robinson 219
-Rendville 28
-Lawrenceville 667
-Spencerville 2198
-Bryan 8729
-Wapakoneta 9957
-Pioneer 1429
-Ballville 3823
-Amherst 12681
-South Amherst 1581
-Tarlton 254
+Seven Hills 11720
+Walton Hills 2033
+Moreland Hills 3466
 
-Hamilton 63399
-Amberley 3840
-Oberlin 8555
-Obetz 5489
-Bethesda 1211
+Cleveland Heights 45312
+East Cleveland 13792
 
-Portsmouth 18252
-Thornport 1120
-Buchtel 518
-Lake Buckhorn 720
-Thornville 1087
-Marshallville 789
+Cleveland 372624
+Brooklyn Heights 1519
+Brooklyn 11359
+
+Brook Park 18595
+
+Fairview Park 17291
+
+Rocky River 21755
+Rocky Ridge 312
+Pandora 1204
+Andover 972
+Hooven 464
+Grover Hill 382
+Highland Hills 662
 Kirtland Hills 692
-Cortland 7105
-Poland 2463
-Covedale 6472
-Woodlawn 3916
+Athalia 279
+Castalia 774
+Dunkirk 774
+Kirkersville 471
+Kirby 120
+Derby 355
+Carbon Hill 178
+Boston Heights 1402
+Arlington Heights 823
+Berlin Heights 651
+Felicity 651
+Lore City 282
+Holiday City 48
+Holiday Lakes 828
+Newtonsville 392
+Brownsville 214
+Vaughnsville 278
+Tiltonsville 1259
+Wellsville 3113
+Lowellville 996
+Lowell 565
+Dellroy 268
 
-White Oak 19541
-Waite Hill 543
-Concorde Hills 644
-Jeffersonville 1258
-Dillonvale (Jefferson County) 589
-Port Jefferson 308
-Fort Shawnee 6263
-Shawnee (Perry County) 505
-Shawnee Hills (Greene County) 2230
+Troy 26305
 
-Green 27475
-Minerva 3684
-Minster 3046
-Brookville 5989
-Hunter 3363
-Blue Ash 13394
-Bluffton 3967
+Trotwood 23070
+Englewood 13463
 
-Marysville 25571
-
-Marion 35999
-Union 6859
-Uniopolis 188
-McCutchenville 371
-Haydenville 337
-Shadyside 3454
-Summerside 4941
-Lakeside 668
-Blakeslee 104
+Lakewood 50942
 
 Westlake 34228
 
-Lorain 65211
-Ai 322
-Bellaire 3870
-
-Bellefontaine 14115
-Lincoln Village 9702
-
-Delaware 41302
-Canal Winchester 9107
-Logan 7296
-Mogadore 3811
-Mayfield 3356
-Haskins 1245
-
-Pataskala 17886
-Commercial Point 3078
-
-Chillicothe 22059
-Churchill 2176
-Glenmoor 1829
-Glenwillow 994
-Glenford 165
-Batesville 101
-Empire 232
-Willshire 405
-New Hampshire 150
-Yorkshire 95
-Yorkville 968
-Neville 87
-
-Bridgetown 14731
-Milan 1371
-Dola 143
-
-Toledo 270871
-Vermilion 10659
-Germantown 5796
-Wetherington 1381
-
-Pickerington 23094
-Circleville 13927
-Waverly 4165
-Beaverdam 319
-Pancoastburg 68
-Strasburg 2735
-Stratton 267
-New Straitsville 652
-Spring Valley 415
-Apple Valley 5352
-Belle Valley 201
-Verona 403
-Beach City 940
-Beulah Beach 75
-Fairfield Beach 1267
-Craig Beach 1076
-Clarksville 534
-Crooksville 2418
-Oakwood (Cuyahoga County) 3572
-Sherwood (Hamilton County) 3633
-Salem Heights (Hamilton County) 3862
-Dent 12301
-Hamden 727
-Rarden 146
-Aberdeen 1515
-Richmond Dale 386
-Malta 559
-Baltic 851
-Dalton 1927
-Stryker 1259
-Jacksonville 400
-Salem 11915
-Hubbard 7636
-
-Alliance 21672
-
-Massillon 32146
-Brimfield 3365
-Canfield 7699
-Plainfield 141
-Sarahsville 147
-Uhrichsville 5272
-Hicksville 3431
-Chickasaw 358
-Vickery 101
-Mount Victory 601
-West Liberty 1770
-Bremen 1479
-Philo 720
-Phillipsburg 498
-Garrettsville 2449
-Bettsville 595
-North Fairfield 465
-Fairfax 1768
-Lloydsville 280
-Metamora 566
-Matamoras 702
-Batavia 1972
-Georgetown 4453
-Gettysburg 463
-Petersburg 405
-Sardis 522
-Aquilla 305
-Fultonham 115
-East Fultonham 290
-Quaker City 379
-Dexter City 81
-Lake Tomahawk 494
-Latty 165
-Patterson 130
-New Alexandria 232
-New Lexington 4435
-New Lebanon 3796
-New Albany 10825
-New Baltimore 1596
-New Bremen 3034
-
-Springfield 58662
-Sinking Spring 118
-Clifton 131
-Port Clinton 6025
+Avon Lake 25206
 
 Avon 24847
+Convoy 1012
+Van Wert 11092
+Van Buren 396
+Vanlue 341
+Blue Ash 13394
+Blue Jay 1427
+Miamitown 1256
+New Miami 2217
 
-Medina 26094
-Sabina 2499
-Columbiana 6559
-Toronto 5303
+Hamilton 63399
+Dillonvale (Hamilton County) 3436
+Sherwood (Hamilton County) 3633
+
+Norwood 19043
+Kenwood 7570
+Woodlawn 3916
+Fairlawn 7710
+
+Akron 190469
 Ironton 10571
-Cumberland 317
-New Boston 2297
-New Weston 124
-Olde West Chester 201
-Racine 683
-Terrace Park 2355
-Lowellville 996
-Bellville 1963
+Toronto 5303
 
-Norwalk 17068
-Olmsted Falls 8582
-Duncan Falls 898
-Miamiville 205
-Kansas 175
-Ansonia 1160
-Macedonia 12168
-Chippewa Park 819
+Steubenville 18161
+Wintersville 3765
+Mingo Junction 3347
+Junction City 721
+Loveland Park 1737
+New Paris 1494
+St. Paris 1882
+Oakwood (Cuyahoga County) 3572
+
+Cuyahoga Falls 51114
+Munroe Falls 5044
+Silver Lake 2516
+Silverton 4908
+Deer Park 5432
 
 Forest Park 20189
-Monfort Heights 12070
-Boston Heights 1402
-Mineral City 652
-Paulding 3555
-Wayne 841
-Waynesburg 925
-Chatfield 205
-Champion Heights 6386
-Newport (Shelby County) 169
-Shelby 9282
-Sheffield 4135
-Fort Loramie 1590
-Hiram 996
-Cheshire 123
-Maplewood Park 243
-Elmwood Place 2087
-Candlewood Lake 1329
-Edgewood 4185
+Greenhills 3741
 
-Euclid 49692
-Kalida 1455
-Clyde 6294
-Beverly 1233
-New Carlisle 5559
+Green 27475
+Greentown 3382
+Uniontown 7173
+
+Stow 34483
+Casstown 270
 Hidden Lakes 16
-Woodstock 287
-Stockport 483
-Stockdale 111
-Gloria Glens Park 369
-Rose Farm 111
-Roseland 1495
-Loveland 13307
-Wyoming 8756
-Bloomingburg 878
-Bloomville 867
-Sawyerwood 1382
-St Johns 181
-Alvordton 200
-Magnolia 1013
-Hamler 600
-Beallsville 355
-Crystal Rock 138
-Hanging Rock 204
-Bidwell 863
-Caldwell 1691
-Lucas 589
-Luckey 1009
-Buckland 233
-Pheasant Run 1362
-Pleasant Hill 1241
-Belmont 414
-Edison 422
-New Haven (Hamilton County) 572
-Dillonvale (Hamilton County) 3436
+Chippewa Lake 654
+Chippewa Park 819
+Parkman 282
 
-Dayton 137644
-Eaton 8375
-Heath 10412
-
-Athens 23849
-Bethel 2620
-Elizabethtown 323
-Newtown 2702
-South Zanesville 1894
-LaGrange 2595
-
-Bay Village 16163
-Valley View 1897
-Valley Hi 228
-Etna 1209
-Galena 924
-Dellroy 268
-Delta 3316
-Crystal Lakes 1394
-Bailey Lakes 349
-Brady Lake 1222
-Shiloh (Montgomery County) 10952
-Gomer 345
-Salem Heights (Columbiana County) 336
-Lansing 596
-Risingsun 541
-Milford 6582
-New Washington 873
-Newport (Washington County) 895
-Pulaski 121
-Zaleski 230
-
-Niles 18443
-Palestine 180
-Austinburg 505
-Cleves 3414
-Hemlock 142
-Rockford 1051
-Rossford 6299
-Rossmoyne 1788
-Payne 1192
-Gilboa 168
-Wilberforce 2410
-Ridgewood 506
-South Vienna 402
-Timberlake 629
-Centerville (Gallia County) 87
-Kipton 209
-North Hampton 457
-Rio Grande 724
-De Graff 1250
-Coal Grove 1889
-Columbus Grove 2160
-Montpelier 3942
-Reno Beach 713
-Archbold 4516
-Bolivar 1000
-Nevada 706
-Ada 5334
-
-Bowling Green 30808
-
-Sandusky 25095
-North Industry 1528
-North Perry 915
-
-Perrysburg 25041
-Perrysville 729
-Graysville 70
-Lower Salem 75
-Harbor View 89
-Oceola 156
-Napoleon 8862
-Neapolis 497
-Cynthiana 57
-East Springfield 185
-Mutual 127
-Clay Center 262
-Liberty Center 1108
-Jewett 554
-Fayette 1305
-West Lafayette 2417
-Reedurban 5889
-Sebring 4191
-East Palestine 4761
-Masury 2001
-South Russell 3972
-Northfield 3541
+Parma 81146
 
 Parma Heights 20863
 
-Cuyahoga Falls 51114
+Maple Heights 23701
+Warrensville Heights 13789
 
-Barberton 25191
-Burton 1407
-Wharton 328
-St. Clairsville 5096
-Kirkersville 471
-Pekin 314
-Broughton 116
-Willoughby Hills 10019
+Shaker Heights 29439
+Highland Heights 8719
+Richmond Heights 10801
 
-Willowick 14204
-Wickliffe 12652
+Mayfield Heights 20351
+Bedford Heights 11020
+Bedford 13149
+Bradford 1796
+Jackson Center 1441
+Jackson 6252
+Jacksonville 400
+Jacksontown 402
+South Vienna 402
+Harbor View 89
+Darbyville 186
+Darbydale 768
+Oceola 156
+Dola 143
+Edon 796
+Matamoras 702
+Metamora 566
+Ohio City 651
+Union City 1582
+Union 6859
+Clayton 13310
 
-Tiffin 17953
-Marble Cliff 634
-Gratiot 215
-Bainbridge (Ross County) 765
-Walbridge 3011
-
-Defiance 17066
-Vincent 329
-Spencer 684
-Drexel 1693
-Alexandria 483
-Lexington 4848
-Frazeysburg 1354
-Sugarcreek 2373
-Rock Creek 667
-Pigeon Creek 886
-West Unity 1763
-West Union 3004
-Forestville 10615
-
-Youngstown 60068
-
-Boardman 35376
-
-Grove City 41252
-Mechanicsburg 1681
-
-Whitehall 20127
-Harbor Hills 1565
-Hillsboro 6481
-West Portsmouth 2928
-Plymouth 1707
-Russia 712
-Golf Manor 3814
-New Holland 804
-Holloway 330
-Rawson 567
-Lyons 602
-
-Findlay 40313
-Delphos 7117
-Belpre 6728
-St. Bernard 4070
-St. Marys 8397
-Cinnamon Lake 1237
-Montrose-Ghent 5254
-Melrose 233
-Brookfield Center 1141
-Newburgh Heights 1862
-Carrollton 3087
-Bolton 654
-Millbury 1193
-Killbuck 810
-
-Zanesville 24765
-Fredericktown 2648
-Upper Sandusky 6698
-
-Mount Vernon 16956
-Shreve 1497
-New Franklin 13877
-Franklin 11690
-
-Riverside 24474
-
-Piqua 20354
+Dayton 137644
 Oakwood (Montgomery County) 9572
-Arcanum 2347
-Bellbrook 7317
 
-North Olmsted 32442
-Botkins 1155
+Kettering 57862
+Wetherington 1381
+Lake Waynoka 1381
+Wayne Lakes 693
+Shiloh (Richland County) 619
+St Johns 181
+Johnstown 5182
+Granville 5946
+Granville South 1420
+Coal Grove 1889
+Coalton 445
+Dalton 1927
+Terrace Park 2355
+Parral 205
+Chatfield 205
+Westfield Center 1184
+Belle Center 809
+Caldwell 1691
+Bidwell 863
+Glencoe 264
+Gloria Glens Park 369
+Glouster 1659
 
-Rocky River 21755
-Rocky Fork Point 742
-Rocky Ridge 312
-North Lewisburg 1636
-Pandora 1204
-Eldorado 458
-Radnor 180
-Jersey 427
-Marseilles 93
-Marengo 283
-New Haven (Huron County) 356
-West Millgrove 131
-Groveport 6009
-Bexley 13928
-Ripley 1591
-Williamsburg 2570
+Lancaster 40552
+Canal Winchester 9107
+Winchester 987
+Ashley 1198
+
+Ashland 19225
+Greenwich 1409
+Willard 6197
+
+Hilliard 37114
+
+Upper Arlington 36800
+
+Worthington 14786
+Port Washington 548
+Port William 229
 Williamsport 970
-Chauncey 959
-Dupont 212
-West Farmington 542
-Burbank 296
-Urbana 11115
-Albany 917
+Brilliant 1317
+Somerset 1481
+Somerville 258
+Connorville 160
+Butlerville 155
+Marathon 155
+Heath 10412
+
+Athens 23849
+New Athens 222
+Martinsburg 222
+Petersburg 405
+Millersburg 3151
+Strasburg 2735
+Leesburg 1273
+Smithville 1338
+Smithfield 869
+Highland Holiday 571
+Kalida 1455
+Elida 1923
+Walnut Creek 908
+La Croft 1078
+La Rue 676
+Clarksville 534
+Potsdam 225
+Williamsdale 578
+Williamsburg 2570
+Batavia 1972
+Amelia 12575
+Mount Carmel 4828
+Mount Repose 4648
+Rosemount 2117
+Middlebranch 2117
+Manchester 1839
+Blanchester 4224
+Lynchburg 1510
+Waynesburg 925
+Grand Rapids 925
+Grand River 394
+Rayland 395
+Mount Pleasant 394
+Pleasant Plain 129
+Lake Milton 637
+Wilson 129
+Nelsonville 4612
+McConnelsville 1667
+Maineville 1405
+Blaine 473
+Roseland 1495
+Roseville 1746
+Seville 2335
+Orrville 8452
+Rittman 6131
+Wightmans Grove 55
+Columbus Grove 2160
+Bluffton 3967
+Kenton 7947
+
+Kent 28215
+Brimfield 3365
+Richfield 3729
+Northfield 3541
+Twinsburg Heights 999
+
+Twinsburg 19248
 
 Solon 24262
+South Solon 329
+South Salem 219
+Salem 11915
+Salineville 1206
+Neville 87
+Centerville (Gallia County) 87
 
-Oregon 19950
-Trinway 358
-Trimble 329
-Nettle Lake 210
-Savannah 329
-Gann 114
-Cairo 517
-Wright-Patterson AFB 1567
-Jefferson 3226
-Mentor-on-the-Lake 7131
-Saybrook-on-the-Lake 1050
-Antwerp 1676
-Van Wert 11092
-South Webster 670
-Creston 2139
-Chippewa Lake 654
+Centerville 24240
 
-Sylvania 19011
-Bucyrus 11684
+Westerville 39190
+Minerva Park 2009
+Minerva 3684
+Louisville 9521
+St. Louisville 352
+Tremont City 352
+
+Fremont 15930
+Ballville 3823
+Millville 634
+Warsaw 634
+
+Delaware 41302
+Shawnee Hills (Delaware County) 835
+Shawnee Hills (Greene County) 2230
+Fort Shawnee 6263
+Fort Loramie 1590
+
+Lorain 65211
+Amherst 12681
+South Amherst 1581
+South Canal 1101
+Bascom 397
+Scott 242
+Sterling 432
+Mount Sterling 1945
+Commercial Point 3078
+South Bloomfield 2143
+Ashville 4529
+Nashville 183
+Burgoon 183
+Hamburg 456
+Pitsburg 381
+Corwin 484
+Norwich 87
+
+Norwalk 17068
+Huron 6922
+New Haven (Huron County) 356
+Newport (Shelby County) 169
+Lake Lorelei 1172
+Bowerston 356
+Bowersville 261
+Syracuse 781
+Ithaca 81
+Dexter City 81
+Miller City 134
+Caledonia 560
+Pettisville 469
+Huntsville 408
+Brecon 408
+Brecksville 13635
+
+Broadview Heights 19936
+
+Garfield Heights 29781
+Independence 7584
+Landen 6995
+Sawyerwood 1382
+Huber Ridge 4940
+
+Huber Heights 43439
+
+Vandalia 15209
+Linndale 108
+Bolindale 1921
+Morgandale 1139
+Glendale 2298
+Evendale 2669
+Irondale 326
+Mitiwanga 326
+Pottery Addition 258
+Gratiot 215
+Antioch 71
+Rochester 159
+Fletcher 451
+McCutchenville 371
+Greenville 12786
+Gettysburg 463
+
+Perrysburg 25041
+Perry 1602
+Middle Point 566
+Middleport 2208
+Pleasantville 934
+Pleasant Hill 1241
+Pleasant Hills 950
+McKinley Heights 950
+Fort McKinley 3473
+Newburgh Heights 1862
+Brookfield Center 1141
+Mayfield 3356
+Macedonia 12168
+Cedarville 4257
+Damascus 418
+Amanda 673
+Midvale 673
+Valleyview 669
+Martins Ferry 6260
+Martinsville 416
+Ridgeville Corners 416
+College Corner 387
+Tontogany 387
+Logan 7296
+West Logan 912
+West Manchester 415
+Spring Valley 415
+Hunting Valley 763
+Hartford (Trumbull County) 397
+Hartford (Licking County) 404
+Wharton 328
+Conesville 328
+
+Zanesville 24765
+North Zanesville 3116
+Byesville 2364
+Barnesville 4008
+Powhatan Point 1461
+South Point 3836
+West Portsmouth 2928
+
+Portsmouth 18252
+New Boston 2297
+New Weston 124
+West Hill 2218
+West Liberty 1770
+East Liberty 371
+East Alliance 268
+
+Alliance 21672
+Sebring 4191
+Hebron 2326
+Bradner 971
+Radnor 180
+North Hampton 457
+North Star 224
+North Bend 835
 North Baltimore 3369
+Baltimore 2981
+New Baltimore 1596
+New Burlington 5049
+Burlington 2416
+New London 2416
+London 10279
+West Jefferson 4137
+Lake Darby 4731
+Lake Lakengren 3387
+Gratis 842
+Stratton 267
+Ostrander 1094
+Green Springs 1233
+Yellow Springs 3697
+
+Springfield 58662
+New Springfield 579
+New Marshfield 316
+Donnelsville 255
+Bloomingville 255
+Bloomingdale 145
+Put-in-Bay 154
+Bay View 608
+Fruit Hill 3748
+Brookside 538
+New Middletown 1507
+
+Middletown 50987
+Germantown 5796
+Carlisle 5501
+New Carlisle 5559
+New California 2225
+Corning 488
+Cardington 2079
+Remington 368
+Wilmington 12664
+Sabina 2499
+Celina 10935
+Coldwater 4774
+Minster 3046
+Westminster 406
+Crystal Lakes 1394
+Crystal Rock 138
+Hemlock 142
+Lockland 3514
+Buckland 233
+Lake Buckhorn 720
+Buckeye Lake 2520
+Harbor Hills 1565
+Oak Harbor 2821
+Oak Hill 1407
+West Unity 1763
+Weston 1455
+Creston 2139
+Burton 1407
+Millbury 1193
+Killbuck 810
+Berlin 1447
+Oberlin 8555
+
+Berea 18545
+Olmsted Falls 8582
+
+North Olmsted 32442
+
+North Ridgeville 35280
+
+North Royalton 31322
+North Robinson 219
+Tiro 219
+Cairo 517
+North Fairfield 465
+Celeryville 222
+Miller 455
+Milledgeville 98
+Beaverdam 319
+Beaver 442
+
+Beavercreek 46549
+
+Riverside 24474
+Summerside 4941
+Summerfield 237
+Champion Heights 6386
+Rutland 427
+Cortland 7105
+Kirtland 6937
+
+Eastlake 17670
+
+Willoughby 23959
+
+Willowick 14204
+Glenwillow 994
+Aberdeen 1515
+Rarden 146
+Adena 664
+Cinnamon Lake 1237
+
+Cincinnati 309317
+Finneytown 12399
+Mount Healthy 6996
+Mount Healthy Heights 2918
+Monfort Heights 12070
+Cheviot 8658
+Covedale 6472
+Hopedale 920
+Ansonia 1160
+Leetonia 1833
+Columbiana 6559
+Salem Heights (Columbiana County) 336
+Midland 307
+
+Findlay 40313
+
+Tiffin 17953
+Mifflin 158
+Malinta 236
+Malta 559
+Calcutta 3941
+Ottawa 4456
+Ottawa Hills 4790
+Mount Victory 601
+Wickliffe 12652
+Blacklick Estates 8990
+Groveport 6009
+
+Grove City 41252
+Obetz 5489
+Bethel 2620
+Bethesda 1211
+Republic 556
+
+Dublin 49328
+Collins 628
+Wellington 4799
+Grafton 5895
+Eaton Estates 1155
+Batesville 101
+Salesville 123
+Leesville 127
+Kilbourne 127
+Bourneville 241
+Lockbourne 236
+New Bavaria 86
+Navarre 1846
+Richville 3209
+Uhrichsville 5272
+Dennison 2709
+Gnadenhutten 1240
+
+New Philadelphia 17677
+Adelphi 322
+Delphos 7117
 Kidron 966
 Tedrow 168
-Peninsula 536
-Osgood 306
-Proctorville 523
-Coshocton 11050
-Choctaw Lake 2047
-Octa 58
-Oakwood (Paulding County) 546
-Hartford (Licking County) 404
-Hopedale 920
-Madison Place 572
-Maumee 13896
-Laura 398
-Blue Jay 1427
-Northgate 7277
-Northwood 5160
-Logan Elm Village 1045
+Birmingham 286
+Roaming Shores 1586
+Sinking Spring 118
+Marengo 283
+Marseilles 93
+Jersey 427
+Meyers Lake 724
+Rio Grande 724
+De Graff 1250
+Montrose-Ghent 5254
+Belmont 414
+Melmore 173
+Forest 1350
+Forestville 10615
+Cherry Grove 4419
+Dry Run 7672
+Dry Ridge 2698
+Stony Ridge 434
+Quaker City 379
+Crown City 424
+Galena 924
+Helena 211
+Gordon 245
+Chardon 5242
+Mount Blanchard 471
+Fort Seneca 230
+Lake Seneca 529
+Bellaire 3870
+
+Oregon 19950
+Elmore 1370
+Wilmot 282
+Belmore 65
+Melrose 233
+Miltonsburg 42
+Brady Lake 1222
+Bailey Lakes 349
+Portage Lakes 6407
+Lakeside 668
+Elmwood Place 2087
+The Plains 3140
+Tuppers Plains 438
+Burbank 296
+Urbana 11115
+Anna 1470
+
+Gahanna 35726
+
+Whitehall 20127
+Bexley 13928
+Amberley 3840
+Timberlake 629
+Cumberland 317
+Fayetteville 317
+Fayette 1305
 Lafayette 406
-Westminster 406
-Fostoria 13046
-Mount Gilead 3503
-Conneaut 12318
-Groesbeck 7365
-Monroeville 1300
-Ontario 6656
+Jewett 554
+Kettlersville 164
+West Elkton 164
+West Milton 4697
+West Millgrove 131
+Verona 403
+Clifton 131
+Zoar 172
+
+Boardman 35376
+Girard 9603
+Hiram 996
+Madeira 9487
+Madison 3435
+New Madison 840
+Chesterville 191
+Proctorville 523
+West Leipsic 226
+West Mansfield 749
+Waynesfield 749
+Payne 1192
+Winesburg 340
+Stafford 71
+Buford 306
+Milford Center 807
+Milford 6582
+Guilford Lake 1188
+Lisbon 2597
+Apple Creek 1188
+Stone Creek 153
+Marlboro 247
+Hillsboro 6481
+
+Springboro 19062
+Springdale 11007
+
+Sharonville 14117
+Sharon Center 918
+Centerburg 1690
+Milton Center 137
+St. Bernard 4070
+Gallipolis 3313
+Neapolis 497
+Uniopolis 188
+Unionville Center 241
+Harrisville 179
+Harrison 12563
+Harrisburg 315
+Sciotodale 1049
+Scio 673
+Utica 2064
+Attica 873
+New Washington 873
+Old Washington 223
+Stockport 483
+Alexandria 483
+Hills and Dales 250
+Richmond Dale 386
+Atwater 776
+Waterville 6003
+Willoughby Hills 10019
+Willshire 405
+Delshire 3158
+Delhi Hills 5022
+Turpin Hills 5162
+Indian Hill 6087
+Day Heights 2625
+Perry Heights 8391
+Reedurban 5889
+Urbancrest 1031
+Delta 3316
+Bolivar 1000
+Sullivan 603
+Peninsula 536
+
+Xenia 25441
+
+Fairborn 34510
+Fairport Harbor 3108
+
+Painesville 20312
+
+Mentor 47450
+Mentor-on-the-Lake 7131
+Geneva-on-the-Lake 916
+Ridgewood 506
+
+Bridgetown 14731
+Rockbridge 160
+Harpster 160
+
+Wooster 27232
+Shreve 1497
+Cleves 3414
+Medway 627
+Midway 269
+Seaman 973
+Dundee 269
+Dupont 212
+Alvordton 200
+St. Martin 200
+St. Marys 8397
+Perrysville 729
+Holloway 330
+Holland 1820
+Maumee 13896
+Wauseon 7568
+Napoleon 8862
+
+Toledo 270871
+Walbridge 3011
+Cambridge 10089
+West Lafayette 2417
+Newcomerstown 3702
+Gomer 345
+Woodmere 641
+Minford 641
+Plainfield 141
+Canfield 7699
+Greenfield 4339
+
+Washington Court House 14401
+Newport (Washington County) 895
+Garrettsville 2449
+Stoutsville 579
+Bettsville 595
+Owensville 786
+Elizabethtown 323
+Darrtown 514
+Morristown 248
+Lewistown 202
+Lewisville 184
+Vienna Center 622
+New Vienna 1108
+Hide-A-Way Hills 976
+Liberty Center 1108
+Clay Center 262
+Clarktown 911
+Macksburg 120
+Mack 11088
+Dent 12301
+Taylor Creek 4056
+Skyline Acres 1446
+Crestline 4525
+Galion 10453
+
+Marion 35999
+Maria Stein 1067
+Richwood 2222
+Prospect 1067
+Spencer 684
+Spencerville 2198
+Cridersville 1791
+Wapakoneta 9957
+Nettle Lake 210
+Lakeline 216
+North Lewisburg 1636
+Lewisburg 1745
+Haskins 1245
+Pulaski 121
+Lockington 162
+Mount Orab 4347
+Mount Cory 225
+Negley 274
+Thurston 603
+Wolfhurst 1119
+Lloydsville 280
+Sherrodsville 222
+Harrod 423
+Carroll 501
+Carrollton 3087
+Park Layne 4248
+Wayne 841
+Waynesville 2669
+Five Points 2247
+Russells Point 1320
+
+Bellefontaine 14115
 Continental 1102
-Glandorf 969
 Hanover 1270
-Coldstream 1322
-Holgate 1061
-Granville South 1420
-Leavittsburg 1571
-Pitsburg 381
-Pottery Addition 258
-Addyston 927
-Nellie 122
-Chesapeake 765
-Swanton 3897
+Hanoverton 354
+Lafayette (Madison County) 206
+Oakwood (Paulding County) 546
+Sherwood (Defiance County) 802
+
+Defiance 17066
+Bryan 8729
+Yankee Lake 75
+Beulah Beach 75
+Reno Beach 713
+Reno 1129
+Enon 2449
+Genoa 2232
+Mulberry 3459
+Candlewood Lake 1329
+Woodville 2006
+Rendville 28
+Neffs 878
+Sheffield 4135
+Sheffield Lake 8957
+Suffield 949
+Luckey 1009
+Lucas 589
+Lucasville 1655
+Piketon 2111
+Waverly 4165
+Waverly City 4408
+Beverly 1233
+Riverlea 599
+Murray City 341
+Jerry City 454
+Mineral City 652
+New Straitsville 652
+Canal Lewisville 417
+Beallsville 355
+South Lebanon 6384
+Albany 917
+Freeport 321
+Millersport 978
+Higginsport 213
+Highland 232
+Milan 1371
+Haviland 160
+Poland 2463
+New Holland 804
+Hartville 3329
+Danville 1019
+Washingtonville 712
+Russia 712
+Russellville 542
+West Farmington 542
+Rose Farm 111
+Nashport 449
+Highpoint 1558
+McComb 1558
+McGuffey 466
+Lower Salem 75
+West Salem 1430
+Bratenahl 1430
+Rushsylvania 491
+
+Sylvania 19011
+Sardinia 1083
+Georgetown 4453
+Ripley 1591
+Apple Valley 5352
+Belle Valley 201
+Miamiville 205
+Hockingport 205
+Little Hocking 244
+Butler 941
+Bannock 159
+Gann 114
+Kanauga 185
+Sugar Grove 429
+Mutual 127
+
+Piqua 20354
+Covington 2548
+Versailles 2692
+Bridgeport 1582
+Arcanum 2347
+Arcadia 564
+North Madison 8188
+North Kingsville 2742
+North Industry 1528
+Conneaut 12318
+Edgewood 4185
+
+Ashtabula 17975
+Jefferson 3226
+Geneva 5924
+Nevada 706
+Ada 5334
 Alger 837
 Rogers 194
-Mitiwanga 326
 Zanesfield 194
-Ross 3478
-Neffs 878
-Windham 1666
-Enon 2449
-New Miami 2217
-Lake Waynoka 1381
-Gambier 2213
+
+Mansfield 47534
+Lexington 4848
+New Lexington 4435
+
+Pickerington 23094
+
+Reynoldsburg 41076
+Coldstream 1322
+Woodsfield 2210
+Glandorf 969
+Drexel 1693
+Dresden 1650
+Flat Rock 227
+Zaleski 230
+Iberia 431
+
+Elyria 52656
+Fostoria 13046
+Carey 3565
+Upper Sandusky 6698
+
+Sandusky 25095
+Port Clinton 6025
+Vinton 224
+East Rochester 224
+Olde West Chester 201
+Lodi 2746
+Edison 422
+Rawson 567
+Tuscarawas 1035
+Reading 10600
+Gibsonburg 2452
+Jacksonburg 55
+Andersonville 778
+Bentonville 253
+Thornville 1087
+Thornport 1120
+Lordstown 3332
+Bairdstown 115
+Fultonham 115
+East Fultonham 290
+Fulton 250
+Kimbolton 152
+Bolton 654
+South Webster 670
+Wakeman 990
+Lakemore 2926
+Bloomville 867
+Bloomdale 665
+New Bloomington 413
+Hamden 727
+Haydenville 337
+Morrow 2049
+Morral 373
+Buffalo 373
+Cuyahoga Heights 573
+Polk 310
+Green Camp 310
+Green Meadows 2373
+Sugarcreek 2373
+Dover 13112
+Wilkshire Hills 2940
+Yorkshire 95
+Cheshire 123
+New Hampshire 150
+Racine 683
+Beach City 940
+Beachwood 14040
+University Heights 13914
+
+South Euclid 21883
+
+Euclid 49692
+Lyndhurst 14050
+Pepper Pike 6796
+Orange 3421
+
+Aurora 17239
+
+Streetsboro 17260
+
+Hudson 23110
+
+Mason 34792
+Masury 2001
+Hubbard 7636
+Churchill 2176
+Chilo 71
+Philo 720
+Shiloh (Montgomery County) 10952
+Shawnee (Hamilton County) 747
+Bloomingburg 878
+Wyoming 8756
+North College Hill 9663
+Northgate 7277
+Northbrook 10912
+Brookville 5989
+Bellbrook 7317
+Crooksville 2418
+Newtown 2702
+Newton Falls 4557
+
+Warren 39201
+Howland Center 6351
+
+Niles 18443
+East Palestine 4761
+
+Austintown 29594
+
+Youngstown 60068
+Kingston 1262
+Wellston 5412
+Reminderville 5412
+McArthur 1783
+Sparta 121
+East Sparta 749
+East Springfield 185
+Mendon 628
+Aquilla 305
+Quincy 536
+Vincent 329
+Savannah 329
+Trimble 329
+Pemberville 1326
+Elgin 49
+Hanging Rock 204
+Rockford 1051
+Valley City 943
+Valley Hi 228
+Hamler 600
+North Lawrence 212
+Lawrenceville 667
+Wren 165
+Latty 165
+Glenford 165
+Kingsville 824
+
+Strongsville 46491
+
+Brunswick 35426
+Brunersburg 314
+Hannibal 314
+Pekin 314
+Nankin 435
+St. Henry 2596
+Devola 2639
+Chauncey 959
+Franklin Furnace 1525
+Franklin 11690
+New Franklin 13877
+Canal Fulton 5325
+Doylestown 3051
+Jamestown 2052
+Mowrystown 385
+Venedocia 140
+Fresno 140
+Frankfort 1084
+Marshallville 789
+Bellville 1963
+Fredericktown 2648
+Fredericksburg 409
+Kunkle 173
+Clarksburg 409
+Chesterhill 276
+St. Clairsville 5096
+Marblehead 865
+Marble Cliff 634
+Brewster 2113
+New Waterford 1194
+Waterford 384
+Camp Dennison 384
+Camden 1989
+Northwood 5160
+North Perry 915
+North Lima 1369
+New Albany 10825
+New Alexandria 232
+West Alexandria 1334
+Kelleys Island 256
+Lakeview 1184
+Fairview 67
+
+Fairfield 44907
+Pleasant Run Farm 4779
+Pleasant Run 4861
+Pheasant Run 1362
+Jeffersonville 1258
+New Concord 2361
+Concorde Hills 644
+Brandt 282
+Grandview 1312
+Grandview Heights 8085
+Miami Heights 5166
+Shadyside 3454
+Addyston 927
+Stony Prairie 1218
+Ai 322
+Craig Beach 1076
+Moscow 155
+Coshocton 11050
+Goshen 715
+Shelby 9282
+Bucyrus 11684
+Rushville 304
+Antwerp 1676
+Saybrook-on-the-Lake 1050
+Bentleyville 897
+Kinsman Center 574
+Clyde 6294
+Plain City 4065
+Kings Mills 1336
+Risingsun 541
+Yorkville 968
+Burkettsville 272
+Robertsville 293
+Florida 215
+Whites Landing 350
+Sandyville 350
+Congress 132
+Hessville 174
+Orangeville 174
+Pomeroy 1573
+Rome 83
+Jeromesville 531
+Holmesville 371
+Barnhill 383
+Marne 772
+Mariemont 3518
+Marietta 13385
+Belpre 6728
+Stewart 221
+
+Newark 49934
+Ridgeway 314
+Castine 110
+Palestine 180
+Lindsey 457
+Beloit 903
+Bladensburg 180
+Hollansburg 243
+Tippecanoe 83
+Tipp City 10274
+Pleasant City 400
+Bellevue 8249
+Campbell 7852
+Struthers 10063
+Woodworth 1784
+Homeworth 492
+Amsterdam 436
+Adamsville 140
+Williston 439
+Wilkesville 116
+Dunlap 1658
+Duncan Falls 898
+Limaville 151
+
+Lima 35579
+Ottoville 966
+McDermott 308
+McDonald 3172
+Waldo 326
+Eldorado 458
+Mogadore 3811
+Bremen 1479
+New Bremen 3034
+
+Sidney 20589
+Ney 303
+New Pittsburg 303
+Leavittsburg 1571
+Holgate 1061
+Ontario 6656
+Tarlton 254
+Bergholz 544
+Jerusalem 121
+Hoytville 220
+Chesapeake 765
+Fort Jennings 525
+Port Jefferson 308
+Millfield 311
+Rudolph 415
+Loudonville 2786
+
+Mount Vernon 16956
+Mount Gilead 3503
+Mount Hope 197
+Good Hope 202
+Rosewood 224
+Maplewood Park 243
+Maple Ridge 667
+Benton Ridge 272
+Beckett Ridge 9192
+Four Bridges 3401
+Bainbridge 9242
+Bainbridge (Ross County) 765
+Shawnee (Perry County) 505
+Christiansburg 505
+Monroeville 1300
+Austinburg 505
+Sunbury 6614
+
+Powell 14163
+Orwell 1533
+Wilberforce 2410
+Old Fort 143
+Cherry Fork 170
+Rocky Fork Point 742
+Hilltop 658
+West Carrollton 13129
+Moraine 6393
+
+Miamisburg 19923
+New Lebanon 3796
+
+Lebanon 20841
+Hunter 3363
+Loveland 13307
+Cloverdale 170
+Paulding 3555
+
+Medina 26094
+Cadiz 3051
+
+Wadsworth 24007
+Northridge 7518
+South Charleston 1706
+South Zanesville 1894
+South Russell 3972
+Chagrin Falls 4188
+Ludlow Falls 175
+Kansas 175
+Lansing 596
+Sarahsville 147
+Graysville 70
+
+Marysville 25571
+Mechanicsburg 1681
+Rossburg 159
+South Mount Vernon 714
+Berkey 275
+Trinway 358
+Otway 92
+Botkins 1155
+
+Middleburg Heights 16004
+Middlefield 2748
+Chesterland 7074
+Gates Mills 2264
+
+Massillon 32146
+Massieville 584
+Patterson 130
+Wright-Patterson AFB 1567
+Dillonvale (Jefferson County) 589
+Laurelville 512
+Laura 398
+Portage 398
+Choctaw Lake 2047
+Octa 58
+Deshler 1588
+Sardis 522
+Cynthiana 57
+Blakeslee 104
+Bass Lake 530
+Lake Mohawk 1601
+Lake Tomahawk 494
+Kipton 209
+Fort Recovery 1501
+Empire 232
+Pioneer 1429
+Montpelier 3942
+Nellie 122
+Harrisburg (Stark County) 306
+Osgood 306
+Fairfax 1768
+Lafferty 255
+Phillipsburg 498
+Roachester 579
+
+Bowling Green 30808
+Whitehouse 4990
+Swanton 3897
+Archbold 4516
+Circleville 13927
+Lithopolis 2134
+
+Pataskala 17886
+Catawba 245
+Pancoastburg 68
+Plainville 120
+
+Oxford 23035
+Groesbeck 7365
+
+White Oak 19541
+Waite Hill 543
+Cygnet 543
+Magnetic Springs 267
+Sulphur Springs 197
+McClure 700
+Stockdale 111
+Woodstock 287
+Woodsdale 442
+New Riegel 286
+New Richmond 2727
+Brice 93
+Curtice 1552
+Baltic 851
+Sycamore 793
+Harveysburg 554
+Frazeysburg 1354
+Wheelersburg 6531
 Sugar Bush Knolls 217
 New Knoxville 946
-Grand Rapids 925
-Flushing 830
-Stony Prairie 1218
-Brewster 2113
-Navarre 1846
-Gnadenhutten 1240
-Bladensburg 180
-Put-in-Bay 154
-Beloit 903
-Bloomingdale 145
-Lindsey 457
-Lucasville 1655
-Sardinia 1083
-Eaton Estates 1155
-Ottoville 966
-Arlington Heights 823
-Marne 772
-Beaver 442
-Hartford (Trumbull County) 397
-Birmingham 286
-Felicity 651
-Hilltop 658
-Woodmere 641
-Berkey 275
-Cygnet 543
-Homeworth 492
-McDermott 308
+Broughton 116
+Howard 246
+Summitville 110
+Glenmont 240
+Glenmoor 1829
+East Liverpool 9958
 Coolville 454
-Tremont City 352
-Higginsport 213
+
+Chillicothe 22059
+Chickasaw 358
+Vickery 101
+Stryker 1259
+Etna 1209
+Beechwood Trails 3276
+Magnolia 1013
+Holiday Valley 1480
+Buchtel 518
+Montezuma 152
+Lyons 602
+Plymouth 1707
+Roswell 219
+Logan Elm Village 1045
+
+Bay Village 16163
+Valley View 1897
+Pigeon Creek 886
+Rock Creek 667
+North Randall 954
+Malvern 1110
+Vermilion 10659
+West Union 3004
+Peebles 1774
+
+Tallmadge 18394
+Ravenna 11323
+New Haven (Hamilton County) 572
+Madison Place 572
+Cecil 146
+Senecaville 422
+Jenera 257
+Mineral Ridge 3951
+Salem Heights (Hamilton County) 3862
+Golf Manor 3814
+LaGrange 2595
+Gambier 2213
+Hayesville 447
+Leipsic 2177
+Friendship 343
+Orient 246
+Pleasant Grove 1726
+Flushing 830
+Plumwood 257
+Custar 178
+Gilboa 168

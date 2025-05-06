@@ -1,87 +1,87 @@
 
 
 Pyongyang 3222000
-
-Namp'o 455000
-Ranam 34055
-Rajin 66224
-Kyongwon 12650
-Kyongsong 35604
+Chunghwa 19346
+Hwangju-up 35641
+Hukkyo-ri 25437
+Hau-ri 13581
 Kilju 63652
+Sil-li 19463
+Sinanju 15693
+Anju 50196
+Chongju 29065
 
 Chongjin 327000
-Hau-ri 13581
-
-Sariwon 310100
-
-Wonsan 329207
-Koksan 12923
-Hukkyo-ri 25437
-Anak 19995
+Ongjin 64247
+Pyoksong-up 12937
 Yonggang-up 13440
-Hwangju-up 35641
-Chongju 29065
-Yomju-up 9437
-Pukchil-lodongjagu 14129
-Sakchu-up 18001
-Kwaksan 10478
-Yongbyon 9584
-Panghyon-dong 11026
-Yuktae-dong 76427
-Kowon-up 21490
-Samho-rodongjagu 19025
-Iwon-up 26364
-Yonggwang-up 21882
-Sangsong-ni 9888
-Ayang-ni 16104
-Sinsang-ni 14960
+
+Namp'o 455000
+Anak 19995
+Chaeryong-up 53330
+Hoeryong 43831
+Puryong 12267
+Komusan Il-tong 12242
+Musan-up 21739
+Yonan-up 22665
+
+Kaesong 338155
+Onsong 19806
+Sonbong 27331
+Ungsang-nodongjagu 8410
+Sungam-nodongjagu 11406
+Ranam 34055
+Namyang 22218
+Kyongwon 12650
 Hongwon 70923
+Samho-rodongjagu 19025
 
 Hamhung 559056
-Chunghwa 19346
-Kangdong-up 28922
-Songnim 152425
 
 Hungnam 346082
+Sinsang-ni 14960
+Sangsong-ni 9888
+Kowon-up 21490
+Anbyon-up 31845
+
+Wonsan 329207
+Kosan 24822
+Koksan 12923
+Kwaksan 10478
+Panghyon-dong 11026
+Kusong 30902
+Kyongsong 35604
+P'yongsong 100000
+Sunan 36671
 
 Sunch'on 437000
 T'ongch'on-up 20575
-Kosan 24822
 Hoeyang 21111
-
-Kaesong 338155
-Ongjin 64247
-Yonan-up 22665
-Anbyon-up 31845
-Sinuiju 288112
-Sinanju 15693
-Sunan 36671
-Sil-li 19463
-P'yongsong 100000
-Anju 50196
-Uiju 50081
-Kusong 30902
-Onsong 19806
-Musan-up 21739
-Kapsan-up 20406
-Hoemul-li 11681
-Sungjibaegam 11786
-Sungam-nodongjagu 11406
-Ungsang-nodongjagu 8410
-Hoeryong 43831
-Chaeryong-up 53330
+Ayang-ni 16104
 Haeju 222396
-Sinmak 18669
-Kanggye 209530
+Uiju 50081
+Sinuiju 288112
+Yomju-up 9437
+Sakchu-up 18001
+Pukchil-lodongjagu 14129
+Yongbyon 9584
+Kujang-up 19522
+Kangdong-up 28922
+Yonggwang-up 21882
+Yuktae-dong 76427
 Hyesan-dong 97794
 Hyesan 192680
-Manp'o 116760
-Kujang-up 19522
-Changyon 39368
+Kapsan-up 20406
+Iwon-up 26364
+
+Sariwon 310100
+Songnim 152425
 Chasong 12736
+Manp'o 116760
+Kanggye 209530
+Changyon 39368
+Rajin 66224
 Aoji 34248
-Puryong 12267
-Komusan Il-tong 12242
-Sonbong 27331
-Namyang 22218
-Pyoksong-up 12937
+Sungjibaegam 11786
+Hoemul-li 11681
+Sinmak 18669

@@ -1,46 +1,46 @@
 
 
 Aomori 275192
+Yomogita 2540
+Itayanagi 12700
 Fujisaki 14573
-Misawa 39152
-Gonohe 16042
-Sannohe 9082
-Noheji 12374
-Yokohama 4229
+
+Hirosaki 168466
+Hirakawa 30567
+Inakadate 7326
+Nakadomari 9657
+Oma 4718
+Kazamaura 1636
+Fukaura 7346
+Ajigasawa 9044
+Goshogawara 51415
+Tsugaru 30934
+Tsuruta 12074
 
 Mutsu 54103
-Tsugaru 30934
-Nakadomari 9657
-Inakadate 7326
-
-Towada 60378
-Shingo 2197
-Rokunohe 10447
-Tohoku 16428
-Oirase 24273
-Nanbu 16809
-Itayanagi 12700
+Higashidori 5955
+Yokohama 4229
+Sotogahama 5401
+Imabetsu 2334
+Sai 1788
 Hiranai 10126
+Noheji 12374
 Shichinohe 14556
 
 Hachinohe 223415
-Hashikami 13496
-Rokkasho 10367
+Gonohe 16042
+Rokunohe 10447
+Tohoku 16428
 
-Hirosaki 168466
-Kuroishi 31946
+Towada 60378
 Owani 8665
 Nishimeya 1265
-Hirakawa 30567
-Goshogawara 51415
-Ajigasawa 9044
-Higashidori 5955
-Kazamaura 1636
-Imabetsu 2334
-Tsuruta 12074
-Fukaura 7346
-Sotogahama 5401
-Yomogita 2540
+Kuroishi 31946
+Shingo 2197
 Takko 4968
-Oma 4718
-Sai 1788
+Rokkasho 10367
+Hashikami 13496
+Nanbu 16809
+Sannohe 9082
+Misawa 39152
+Oirase 24273

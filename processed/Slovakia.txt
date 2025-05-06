@@ -1,204 +1,204 @@
 
 
 Bratislava 423737
-Vinosady 1300
-Vinne 1608
-Stropkov 10874
-Lipany 6130
-
-Spisska Nova Ves 39195
-Gelnica 6404
-Parnica 807
-Voznica 650
-Novaky 4402
-Nova Bana 7505
-Hurbanovo 8153
-Gabcikovo 5343
-
-Nove Zamky 42044
-Dunajska Streda 23639
-Chorvastky Grob-Cierna Voda 400
-Cerveny Klastor 228
-Velky Krtis 12608
-Tisovec 4215
-Cierna nad Tisou 4645
-Cierny Balog 5234
-Poltar 6099
-Stara Tura 10291
-Surany 10491
-
-Komarno 36279
-
-Martin 60817
-Cicmany 188
-Lehota pod Vtacnikom 3929
-Dubnica nad Vahom 26617
-Rajec 6400
-Terchova 4073
-Hostova 400
-Plostin 481
-Myto pod Dumbierom 542
-Besenova 667
-Senica 21741
-Malacky 17773
-Galanta 16365
-Svaty Anton 1172
-Krahule 264
-Zarnovica 6596
-Partizanske 24370
-Ziar nad Hronom 19392
-
-Prievidza 52987
-Svidnik 12428
-Snina 22221
-Dobsina 4896
-
-Zilina 85985
-Medzilaborce 6741
-Ilava 5411
-
-Trnava 69785
-Myjava 13142
-Leopoldov 3999
-Podolinec 3173
-
-Poprad 57431
-Topolcany 25181
-Vrable 9493
-Sabinov 12290
-Dolny Kubin 18995
-Oravska Lesna 3500
-Cadca 24670
-Skalica 15013
-Piestany 30000
-Banovce nad Bebravou 18933
-Nemsova 6136
-Cachtice 3626
-
-Kosice 236563
-Bijacovce 955
-
-Presov 94718
-Vranov nad Toplou 23246
-Kavecany 1287
-Spisske Podhradie 3780
-Strbske Pleso 200
-Tvrdosin 9544
-Detva 15020
-Betliar 938
-Marianka 1700
-Modra 8536
-Zlate Moravce 15618
-Banska Stiavnica 10191
-Liptovska Sielnica 602
-Nizna 4020
-Konska 212
+Devin 350
 Devinska Nova Ves 550
-Nova Lesna 1520
-Levoca 14511
-Revuca 13466
-Kremnica 5356
-Tatranska Lomnica 800
-Vysne Ruzbachy 1296
-Krompachy 8812
-Moldava nad Bodvou 9525
-Secovce 7819
-Zeliezovce 7522
-
-Michalovce 40360
-Handlova 18018
-Brezova pod Bradlom 5567
-Gbely 5223
-Pezinok 21343
 Liptovsky Trnovec 550
+Liptovsky Hradok 7572
 Liptovsky Mikulas 33509
-Ruzomberok 30806
-Demanovska Dolina 203
-Lucky 1787
-Kysucke Nove Mesto 16558
-Vysne Nemecke 247
-Kremnicke Bane 263
+Liptovska Sielnica 602
+Gelnica 6404
+Krompachy 8812
+Lipany 6130
+Sabinov 12290
+Hrinova 8289
+Kovacova 1552
 
 Zvolen 44502
-Kolarovo 10823
-Filakovo 10198
-Kovacova 1552
-Sladkovicovo 6078
+Smolenice 3287
+Senica 21741
+Brezova pod Bradlom 5567
+Brezno 21331
+Myto pod Dumbierom 542
+Cierny Balog 5234
+Cierna nad Tisou 4645
+Vranov nad Toplou 23246
+Strazske 4474
+Chlmec 8031
+Vysne Nemecke 247
+Vinne 1608
+
+Humenne 35367
+Senec 14673
 Ivanka pri Dunaji 6245
-Devin 350
+Dunajska Luzna 4482
 Samorin 12143
 Oravsky Podzamok 1319
-Namestovo 8135
-Nove Mesto nad Vahom 21527
-Spisska Bela 6136
-
-Povazska Bystrica 43936
-Turzovka 7854
-Vrutky 7298
-Vrbove 6249
-Jakubovany 404
-Strba 3600
-Straza 657
-
-Nitra 86329
-Svit 7445
-Svodin 2649
-Tlmace 4305
-Sahy 8061
-Hybe 1548
-Svaty Kriz 811
-Pribylina 1360
-Liptovsky Hradok 7572
-
-Banska Bystrica 82336
-Brezno 21331
-Hrinova 8289
-Rimavska Sobota 25235
-Roznava 19261
-Zehra 2360
-Medzev 3667
-Velky Meder 9113
-Dunajska Luzna 4482
+Oravska Lesna 3500
+Nova Lesna 1520
+Vysoke Tatry 4700
+Tatranska Lomnica 800
+Banska Stiavnica 10191
+Svaty Anton 1172
 Svaty Jur 4614
-Senec 14673
-Lucenec 28159
-Krupina 7991
+Hostova 400
+Chorvastky Grob-Cierna Voda 400
+Cerveny Klastor 228
+Dolny Kubin 18995
+Lestiny 200
+Strbske Pleso 200
+Strba 3600
+Svit 7445
+
+Poprad 57431
+Spisske Podhradie 3780
+
+Spisska Nova Ves 39195
+Levoca 14511
 
 Levice 37574
-Smolenice 3287
-Hlohovec 23930
-Puchov 18833
+Zarnovica 6596
+Voznica 650
+Roznava 19261
+Betliar 938
+Zdiar 1330
+Ziar nad Hronom 19392
+Dubnica nad Vahom 26617
+Nova Dubnica 12358
+Trencianske Teplice 4438
 
 Trencin 58278
 Trebisov 22947
-
-Humenne 35367
-Giraltovce 4189
-Chlmec 8031
-Sobrance 6262
-Dudince 1503
-Bardejov 33060
-Stara Lubovna 16000
-Zdiar 1330
-Vrbov 1455
-Stary Smokovec 1000
-Lubica 4000
-Nova Dubnica 12358
-Bojnice 4934
-Trencianske Teplice 4438
-Sala 24513
-Sered 15581
-Kezmarok 21391
-Vysoke Tatry 4700
-Sturovo 11708
-Vagfuzes 563
-Holic 11416
-Vlkolinec 13
-Lestiny 200
-Krusetnica 930
+Tisovec 4215
+Revuca 13466
+Dobsina 4896
+Tvrdosin 9544
+Nizna 4020
 Trstena 7461
-Bytca 11279
-Krasnany 1231
-Stupava 8063
-Strazske 4474
+Namestovo 8135
+Nove Mesto nad Vahom 21527
+Cachtice 3626
 Kostolne 250
+Stara Tura 10291
+Piestany 30000
+Vrbove 6249
+Hlohovec 23930
+Leopoldov 3999
+Topolcany 25181
+Partizanske 24370
+Banovce nad Bebravou 18933
+Moldava nad Bodvou 9525
+Medzev 3667
+Zehra 2360
+Bijacovce 955
+Secovce 7819
+
+Michalovce 40360
+Giraltovce 4189
+Stropkov 10874
+Svidnik 12428
+Bardejov 33060
+Detva 15020
+Krusetnica 930
+Parnica 807
+
+Komarno 36279
+Kolarovo 10823
+Hurbanovo 8153
+Sturovo 11708
+Svodin 2649
+Dudince 1503
+Sahy 8061
+Sala 24513
+Galanta 16365
+Sladkovicovo 6078
+Sered 15581
+Dunajska Streda 23639
+Gabcikovo 5343
+Filakovo 10198
+Lucenec 28159
+Poltar 6099
+Rimavska Sobota 25235
+Demanovska Dolina 203
+Podolinec 3173
+Vlkolinec 13
+Ruzomberok 30806
+Kezmarok 21391
+Lubica 4000
+Stara Lubovna 16000
+Vrbov 1455
+Jakubovany 404
+Konska 212
+
+Banska Bystrica 82336
+
+Povazska Bystrica 43936
+Spisska Bela 6136
+Gbely 5223
+Holic 11416
+Skalica 15013
+Myjava 13142
+Ilava 5411
+
+Trnava 69785
+Stupava 8063
+Marianka 1700
+
+Martin 60817
+Vrutky 7298
+Krasnany 1231
+Straza 657
+Terchova 4073
+Puchov 18833
+Bytca 11279
+Cadca 24670
+Turzovka 7854
+Kysucke Nove Mesto 16558
+
+Zilina 85985
+Pribylina 1360
+Snina 22221
+Krupina 7991
+Velky Krtis 12608
+Velky Meder 9113
+Vagfuzes 563
+Besenova 667
+Lucky 1787
+Malacky 17773
+Modra 8536
+Vinosady 1300
+Pezinok 21343
+Zeliezovce 7522
+Tlmace 4305
+Zlate Moravce 15618
+Vrable 9493
+
+Nitra 86329
+Surany 10491
+
+Nove Zamky 42044
+Novaky 4402
+Lehota pod Vtacnikom 3929
+
+Prievidza 52987
+Bojnice 4934
+
+Kosice 236563
+Kavecany 1287
+
+Presov 94718
+Nemsova 6136
+Cicmany 188
+Rajec 6400
+Handlova 18018
+Kremnicke Bane 263
+Kremnica 5356
+Krahule 264
+Nova Bana 7505
+Medzilaborce 6741
+Sobrance 6262
+Hybe 1548
+Plostin 481
+Svaty Kriz 811
+Vysne Ruzbachy 1296
+Stary Smokovec 1000

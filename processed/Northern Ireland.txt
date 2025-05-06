@@ -1,123 +1,123 @@
 
 
 Belfast 274770
-Castlewellan 2499
-Saintfield 3327
-
-Coleraine 25681
-Magheralin 1172
-Portaferry 2525
-Portadown 22000
-Portavogie 1639
-Comber 9190
-
-Bangor 60385
-Ballygowan 2832
-Ballywalter 1572
-Killyleagh 2591
-Kilrea 1616
 
 Castlereagh 56679
-Jordanstown 5494
-Newtownstewart 1465
-Irvinestown 1765
-Cookstown 11081
-Portglenone 1230
-Portrush 6684
-Ballycastle 5566
-Carnlough 1427
-Carnmoney 2775
-Ballymoney 9625
-
-Ballymena 28932
-Ballykelly 1735
-Portstewart 8394
-Dunloy 1091
-Dundrum 1090
-Crumlin 5149
-Connor 1778
-Dungannon 11935
-Magherafelt 9157
-Cullybackey 2502
-Culmore 3645
-Dromore 5641
-Victoria Bridge 318
-Downpatrick 10507
-Templepatrick 1627
-Ballypatrick 2310
-Broughshane 2581
-Ballyclare 9472
-Larne 18421
-Holywood 13109
-
-Newtownards 29363
-
-Newtownabbey 63860
-Greyabbey 1030
-Greenisland 5073
-Enniskillen 14472
-Castlederg 2822
-Ballinamallard 1365
-Ballintoy Harbour 2103
-Eglinton 3818
-Fintona 1373
-Lisnaskea 2895
-Millisle 1914
-Bushmills 1309
-Sion Mills 2212
-
-Derry 83652
-Dungiven 3066
 Castlerock 1477
-Newcastle 7444
-Annahilt 1170
-Crossgar 1667
-Garvagh 1372
-Ardglass 1676
-Kircubbin 1237
-Donaghadee 7369
-Doagh 1151
-Omagh 21056
-Strabane 14198
-Rostrevor 2515
-Tandragee 3122
 
-Newry 27757
-Kilkeel 6447
-Banbridge 16173
-Hillsborough 3872
-Glenavy 1089
-
-Craigavon 59236
-Moy 1234
-Keady 3171
-Limavady 12970
-Antrim 19661
-
-Lisburn 77506
-Coalisland 5416
-Castledawson 2263
-Ahoghill 3633
-Bellaghy 1072
-Draperstown 1734
-Randalstown 5378
-Cushendall 1226
-Crossmaglen 1415
-Gilford 1583
-Armagh 14801
+Coleraine 25681
 Maghera 4085
-
-Carrickfergus 29208
-Dundonald 13985
-Carryduff 7798
-Ballynahinch 5701
-Warrenpoint 7670
-Annalong 1760
-Moira 4098
-Moneymore 1426
-Whitehead 3697
-Waringstown 2856
-Rathfriland 2063
-Glenariff 1286
+Magherafelt 9157
+Bellaghy 1072
+Castlewellan 2499
+Newcastle 7444
+Ballycastle 5566
+Ballypatrick 2310
+Downpatrick 10507
+Crossgar 1667
+Killyleagh 2591
+Portaferry 2525
+Portavogie 1639
+Kircubbin 1237
+Greyabbey 1030
+Ballywalter 1572
+Ballykelly 1735
+Limavady 12970
+Keady 3171
+Armagh 14801
+Omagh 21056
+Fintona 1373
 Fivemiletown 1109
 Newtownbutler 943
+
+Newtownards 29363
+Comber 9190
+Dundonald 13985
+Holywood 13109
+Ahoghill 3633
+Cullybackey 2502
+
+Ballymena 28932
+Ballymoney 9625
+Dunloy 1091
+Carnlough 1427
+Broughshane 2581
+Hillsborough 3872
+Annahilt 1170
+Ballynahinch 5701
+Saintfield 3327
+Ballygowan 2832
+Carryduff 7798
+
+Derry 83652
+Culmore 3645
+Moneymore 1426
+Randalstown 5378
+Jordanstown 5494
+Greenisland 5073
+Coalisland 5416
+Dungannon 11935
+Dungiven 3066
+Draperstown 1734
+Cookstown 11081
+Waringstown 2856
+Newtownstewart 1465
+Victoria Bridge 318
+Sion Mills 2212
+Bushmills 1309
+Portrush 6684
+Portstewart 8394
+Portadown 22000
+
+Craigavon 59236
+Glenavy 1089
+Crumlin 5149
+Dundrum 1090
+Ballintoy Harbour 2103
+Ballinamallard 1365
+Enniskillen 14472
+Irvinestown 1765
+Dromore 5641
+Rostrevor 2515
+Crossmaglen 1415
+
+Newry 27757
+Warrenpoint 7670
+Kilkeel 6447
+Kilrea 1616
+Portglenone 1230
+Castledawson 2263
+Castlederg 2822
+Strabane 14198
+
+Bangor 60385
+Donaghadee 7369
+Doagh 1151
+Garvagh 1372
+Magheralin 1172
+Millisle 1914
+
+Lisburn 77506
+Lisnaskea 2895
+
+Newtownabbey 63860
+Carnmoney 2775
+Larne 18421
+Ballyclare 9472
+Templepatrick 1627
+Antrim 19661
+Connor 1778
+Annalong 1760
+Ardglass 1676
+Glenariff 1286
+
+Carrickfergus 29208
+Whitehead 3697
+Banbridge 16173
+Tandragee 3122
+Gilford 1583
+Moira 4098
+Moy 1234
+Eglinton 3818
+Rathfriland 2063
+Cushendall 1226

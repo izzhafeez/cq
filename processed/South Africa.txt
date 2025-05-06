@@ -1,222 +1,222 @@
 
 
 Johannesburg 7860781
-Sasolburg 113368
-Villiers 17315
-Leslie 32980
-Ekangala 48492
-Kriel 15237
-Mooi Rivier 18137
-Ballito 23135
-Balfour 25969
-Stilfontein 63836
-Kwaggafontein 45104
-
-Pretoria 1763336
-Heidelberg 71661
-Kinross 15246
-Wesselsbron 26808
-Bronkhorstspruit 34395
-Vaalbank 16290
-
-Durban 2786046
-Port Shepstone 37089
-Fort Beaufort 25668
-Gonubie 19809
-Mthatha 137589
-Thabazimbi 28846
-Phuthaditjhaba 56251
-Marquard 15502
-Allanridge 19337
-Atlantis 69055
-Clocolan 17602
-Odendaalsrus 63743
-Swellendam 17522
-Malmesbury 35897
-Ficksburg 41248
-Harrismith 27869
-Trichardt 44049
-Ermelo 83735
-
-Pietermaritzburg 475238
-Marikana 19522
-Christiana 20882
 Westonaria 31733
-Nigel 30276
-Empangeni 27606
-Ncotshane 16328
-
-Soshanguve 728063
-Stanger 134525
-Burgersdorp 15991
-Thaba Nchu 60696
-
-Welkom 211014
-Koster 19498
-Itsoseng 19959
-Robertson 27714
-
-Cape Town 3430992
-Bredasdorp 15524
-Humansdorp 28990
-Groot Brakrivier 15031
-Jeffreys Bay 27107
-Alice 15142
-Cradock 36671
-
-Uitenhage 242924
-King William's Town 77682
-Somerset East 18824
-
-East London 295644
-Queenstown 98988
-Greytown 19313
-Ladysmith 119726
-Mpophomeni 25732
-Shakaskraal 22824
-Umzinto 16205
-Kokstad 51540
-Wembesi 28252
-Beaufort West 34085
-Barkly West 20105
-Vryburg 46639
-Lydenburg 41403
-Lichtenburg 45449
-Potchefstroom 148804
-
-Vereeniging 377922
-Ceres 23873
-Vredenburg 38382
-Montagu 15176
-Mondlo 44981
-Mtubatuba 27695
-Dundee 34924
-Amandelbult Mine 21356
-Lephalale 17639
-Hammanskraal 94273
-Viljoenskroon 31468
-Wolmaransstad 33492
-Kroonstad 97780
-
-Klerksdorp 189496
-Fochville 38491
-Bothaville 46029
-Hoopstad 16033
-Jan Kempdorp 23003
-Douglas 20082
-Bultfontein 23365
-Botshabelo 181712
-Bela-Bela 44999
-Belfast 16723
-Siyabuswa 36882
-Mokopane 75516
-Praktiseer 22264
-Barberton 48505
-Warrenton 22588
-Schweizer-Reneke 41227
-Stellenbosch 80316
-Saldanha 28142
-Embalenhle 118889
-
-Witbank 311657
-Mankweng 41298
-Vaalwater 16462
-Lebowakgomo 35089
-Modimolle 41988
-Carletonville 149065
-Deneysville 19478
-Parys 48169
-Vryheid 47365
-Heilbron 27407
-
-Evaton 605504
-Tongaat 54109
-Howick 27087
-Thohoyandou 89427
-Mandini 31327
-Virginia 66208
-Senekal 25543
-Ladybrand 25816
-Bethlehem 76015
-
-Port Elizabeth 876436
-Graaff-Reinet 35672
-Grabouw 31291
-Grahamstown 67264
-Whittlesea 28248
-
-Newcastle 291484
-Zastron 15607
-Colesberg 16870
-Coligny 17278
-Zeerust 15987
-Volksrust 24281
+Marikana 19522
 
 Rustenburg 311901
-Ventersdorp 22073
-Orkney 91854
-Knysna 50029
-Riversdale 16177
-Clydesdale 15322
-Ottosdal 18372
-Vredendal 18170
-
-Somerset West 188035
-Worcester 97075
-Butterworth 44308
-Aliwal North 35153
-Stutterheim 24672
-Elliot 14376
-Cullinan 28451
-Musina 42677
-Carolina 16847
-Nelspruit 58670
-eMkhondo 57428
-Glencoe 17548
-Ulundi 26538
-Richards Bay 50533
-Louis Trichardt 25359
-Mookgophong 24854
-
-Polokwane 227407
-Mdantsane 171522
-Port Alfred 25858
-Vrede 17689
-Tshiame 14857
-Oudtshoorn 61508
-Plettenberg Bay 31822
-Mossel Bay 65887
-George 157397
-
-Bloemfontein 464591
-Bloemhof 27904
-
-Kimberley 225155
-Postmasburg 30089
+Lichtenburg 45449
+Coligny 17278
+Colesberg 16870
 De Aar 29989
 
 Paarl 197735
+Stellenbosch 80316
+Swellendam 17522
+Montagu 15176
+Mondlo 44981
+eMkhondo 57428
+
+East London 295644
+Gonubie 19809
+Sabie 15778
+Lydenburg 41403
 Middelburg 163809
+
+Witbank 311657
+Bronkhorstspruit 34395
+Nelspruit 58670
+Praktiseer 22264
+Atlantis 69055
+Malmesbury 35897
+Postmasburg 30089
+Ficksburg 41248
+Clocolan 17602
+Marquard 15502
+Trichardt 44049
+Louis Trichardt 25359
+Thohoyandou 89427
+Musina 42677
+Carolina 16847
+Belfast 16723
+Bela-Bela 44999
+Modimolle 41988
+Dimbaza 21784
+Stutterheim 24672
+Butterworth 44308
+Worcester 97075
+Ceres 23873
+
+Vereeniging 377922
+Nigel 30276
+Heidelberg 71661
 Delmas 52125
-Standerton 84383
+Wolmaransstad 33492
+Hoopstad 16033
+Kroonstad 97780
+Viljoenskroon 31468
+Bothaville 46029
+Fochville 38491
+Carletonville 149065
+Deneysville 19478
+Villiers 17315
 Frankfort 26144
-Reitz 20183
-Upington 67581
-Ritchie 14850
-Brits 65113
-Hartebeespoort 22312
+Fort Beaufort 25668
+Port Alfred 25858
+
+Port Elizabeth 876436
+Somerset East 18824
+Cradock 36671
+Ladybrand 25816
+Ladysmith 119726
+Harrismith 27869
+Phuthaditjhaba 56251
+Thaba Nchu 60696
+Botshabelo 181712
+Ncotshane 16328
+Glencoe 17548
+Dundee 34924
+Ulundi 26538
+Mandini 31327
+Stanger 134525
+Empangeni 27606
+Richards Bay 50533
+Mtubatuba 27695
+Ballito 23135
+Shakaskraal 22824
+Hammanskraal 94273
+
+Soshanguve 728063
+Ekangala 48492
+Mpumalanga 62406
+Tongaat 54109
+
+Evaton 605504
+Vaalwater 16462
+Vaalbank 16290
+Kwaggafontein 45104
+Stilfontein 63836
 Hartbeestfontein 18608
+
+Klerksdorp 189496
+Orkney 91854
+Knysna 50029
+Plettenberg Bay 31822
+Mossel Bay 65887
+Wesselsbron 26808
+Theunissen 23513
+Senekal 25543
+Schweizer-Reneke 41227
+Warrenton 22588
+Jan Kempdorp 23003
+Humansdorp 28990
+Jeffreys Bay 27107
+Graaff-Reinet 35672
+Reitz 20183
+Vrede 17689
+Standerton 84383
+Barberton 48505
+White River 21373
+Riversdale 16177
+Groot Brakrivier 15031
+Mooi Rivier 18137
+
+Pietermaritzburg 475238
+Hermanus 46856
+Mankweng 41298
+Nkowankowa 42859
+Lebowakgomo 35089
+Mookgophong 24854
+Mokopane 75516
+
+Polokwane 227407
+Mdantsane 171522
+Saldanha 28142
+Vredenburg 38382
+Vredendal 18170
+Odendaalsrus 63743
+Allanridge 19337
+
+Welkom 211014
+
+Somerset West 188035
+Grabouw 31291
+Phalaborwa 13108
+Lephalale 17639
+Bethal 60780
+Kriel 15237
+Leslie 32980
+Embalenhle 118889
+Balfour 25969
+Estcourt 22072
+Wembesi 28252
+
+Kimberley 225155
+Barkly West 20105
+Beaufort West 34085
+Oudtshoorn 61508
+George 157397
+Burgersdorp 15991
+Aliwal North 35153
+Alice 15142
+King William's Town 77682
+Grahamstown 67264
+Greytown 19313
+Howick 27087
+Mpophomeni 25732
+Potchefstroom 148804
+Zastron 15607
+Heilbron 27407
+Sasolburg 113368
+Vryburg 46639
+Vryheid 47365
+
+Newcastle 291484
+Whittlesea 28248
+Queenstown 98988
+
+Cape Town 3430992
+Robertson 27714
+Itsoseng 19959
 Mahikeng 64359
 Frischgewaagd 13515
-Mpumalanga 62406
-Bethal 60780
+Christiana 20882
+Bloemhof 27904
+
+Bloemfontein 464591
+Bultfontein 23365
+Amandelbult Mine 21356
+Thabazimbi 28846
+Mthatha 137589
+Elliot 14376
+Cullinan 28451
+
+Pretoria 1763336
+Hartebeespoort 22312
+Brits 65113
+Ritchie 14850
+Douglas 20082
+Bredasdorp 15524
+Ventersdorp 22073
+Koster 19498
+Zeerust 15987
+Volksrust 24281
 Daggakraal 13182
-Hermanus 46856
-Phalaborwa 13108
-White River 21373
-Nkowankowa 42859
-Sabie 15778
+Ermelo 83735
+Kinross 15246
+Ottosdal 18372
+Clydesdale 15322
+Kokstad 51540
 Margate 26786
-Theunissen 23513
-Estcourt 22072
-Dimbaza 21784
+Port Shepstone 37089
+Umzinto 16205
+
+Durban 2786046
+
+Uitenhage 242924
+Bethlehem 76015
+Tshiame 14857
+Virginia 66208
+Upington 67581
+Parys 48169
+Siyabuswa 36882

@@ -1,1615 +1,1615 @@
 
 
 Chicago 2746388
-
-Skokie 67824
-Tiskilwa 740
-Piper City 745
-Pearl City 790
-Park City 7885
-Johnsburg 6355
-Warrensburg 1110
-Bellevue 1878
-Evansville 547
-Blandinsville 569
-Damiansville 564
-Williamsville 1425
-
-Collinsville 24366
-Benton 6709
-Staunton 5054
-Clinton 7004
-Trenton 2690
-Canton 13242
-Peru 9896
-Ruma 313
-Lovington 1069
-Arlington 169
-Stonington 837
-Wellington 206
-Emington 101
-Parkersburg 186
-Hartsburg 262
-Towanda 431
-Annawan 884
-Hanna City 1253
-Calhoun 164
-Chrisman 1312
-Schram City 563
-Mill Shoals 176
-De Witt 160
-Kingston Mines 266
-Huey 160
-Hurst 764
-Arthur 2231
-Oak Brook 8163
-Brooklyn 649
-El Dara 63
-Standard 225
-La Clede 113
-Compton 274
-Ringwood 844
-Sims 166
-Tamms 430
-Atkinson 965
-Cutler 361
-
-Bartlett 41105
-Pingree Grove 10365
-Long Grove 8366
-Glencoe 8849
-
-Gurnee 30706
-Auburn 4574
-Cave-In-Rock 228
-Rockdale 2012
-Warrenville 13553
-
-Bensenville 18813
-
-Hanover Park 37470
-Stone Park 4576
-
-Des Plaines 60675
-Lincolnshire 7940
-Olney 8701
-Dallas City 805
-Leland Grove 1454
-South Pekin 996
-South Barrington 5077
-Hawthorn Woods 9062
-
-Woodstock 25630
-Elwood 2229
-Lena 2772
-Allenville 132
-Allendale 458
-Broadwell 136
-Maroa 1577
-Marine 912
-Mark 519
-Golden 648
-Golf 514
-Unity 98
-Xenia 380
-Sun River Terrace 455
-Varna 375
-Ava 553
-Avon 704
-Girard 1785
-Mount Carroll 1479
-Mount Morris 2861
-Ransom 308
-
-Lansing 29076
-
-Evanston 78110
-Gilberts 8366
-Mulberry Grove 520
-Elkville 838
-
-Elk Grove Village 32812
-Broadview 7998
-Hometown 4343
-
-Maywood 23512
-Lakewood 4283
-Morrison 4085
-Jonesboro 1711
-Murphysboro 7093
-East Alton 5786
-Mount Vernon 14600
-Mount Olive 2015
-Somonauk 1786
-Sauk Village 9921
-Sauget 141
-St. Augustine 119
-Wenonah 32
-Altona 463
-Crete 8465
-Dieterich 890
-Nashville 3105
-Rosewood Heights 3971
-Prospect Heights 16058
-Salem 7282
-Yale 67
-Du Bois 175
-Prairie du Rocher 502
-Belle Prairie City 49
-Princeville 1636
-Wedron 140
-Middletown 329
-McClure 256
-Sherrard 692
-Sherman 4673
-El Paso 2756
-Mount Zion 6019
-Mount Clare 311
-Crystal Lawns 1830
-Benld 1464
-Alden 113
-Kildeer 4091
-Highwood 5074
-Round Lake Park 7680
-
-Wheeling 39137
-Sterling 14764
-Burlington 535
-New Holland 275
-Beason 147
-Benson 412
-Reynolds 498
-Olympia Fields 4718
-Grandview 1405
-Florence 17
-Lawrenceville 4164
-Rose Hill 89
-Norwood 437
-West City 656
-Fairmont City 2265
-Fairfield 4883
-Enfield 794
-Shabbona 863
-East Carondelet 390
-Murrayville 567
-Baileyville 187
-Pinckneyville 5066
-Jerseyville 8337
-
-Quincy 39463
-Winchester 1574
-Dunlap 1603
-Orangeville 766
-Kaneville 452
-Roseville 892
-Milledgeville 1026
-Lee Center 146
-Aroma Park 664
-Dorchester 133
-Camp Point 1121
-Lowpoint 148
-Sammons Point 214
-Cedar Point 266
-La Fayette 160
-Rock Falls 8789
-Thornton 2386
-Byron 3784
-West Dundee 7686
-West Union 271
-West Point 140
-Ladd 1263
-Bridgeport 1800
-
-Freeport 23973
-Neponset 427
-Swansea 14386
-Sidney 1208
-Kenney 311
-Banner 169
-Brookport 725
-Crab Orchard 356
-Carman 67
-Mount Carmel 7015
-Carmi 4865
-Arbury Hills 1132
-Ashkum 750
-St. Francisville 568
-West Frankfort 7275
-Beecher City 428
-Hennepin 769
-Windsor (Mercer County) 668
-Willowbrook (Will County) 1346
-Willow Lake 1026
-McCullom Lake 988
-Chesterfield 170
-Iroquois 133
-Cairo 1733
-Dalzell 663
-Anna 4303
-
-Edwardsville 26808
-Rossville 1221
-Farmington 2389
-Hampshire 7667
-Simpson 44
-Mason 323
-Mascoutah 8754
-Cisco 254
-Mulkeytown 162
-Maeystown 150
-Loda 356
-Odell 1003
-Kell 173
-Dayton 528
-Holiday Hills 618
-Hillside 8320
-
-Glendale Heights 33176
-La Grange 16321
-
-Oak Park 54583
-
-Addison 35702
-
-Downers Grove 50247
-North Riverside 7426
-Riverton 3532
-Wood River 10464
-Apple River 347
-Armington 310
-Minonk 1928
-Williamsfield 575
-Fieldon 176
-Winfield 9835
-Greenfield 1059
-
-Plainfield 44762
-Wilmington (Will County) 5664
-Willowbrook (DuPage County) 9236
-Lakewood (Shelby County) 91
-Kingston (Adams County) 20
-Sublette 380
-Cable 117
-Old Shawneetown 113
-Prairietown 153
-Hamlet 21
-Concord 150
-Lacon 1878
-Oconee 141
-Pawnee 2678
-Kinsman 90
-Old Mill Creek 162
-Wilsonville 536
-Johnsonville 72
-Oakwood Hills 2076
-Good Hope 363
-Tamaroa 544
-Wamac 985
-Camargo 452
-Onarga 1333
-San Jose 479
-
-Roselle 22897
-Rosemont 3952
-Malta 1143
-Humboldt 361
-Kane 296
-Kangley 235
-Kansas 670
-Fithian 488
-Third Lake 1111
-Payson 1025
-Norridge 15251
+Chicago Ridge 14433
+Burr Ridge 11192
 
 Woodridge 34158
 
-Park Ridge 39656
-
-Berwyn 57250
-Burr Ridge 11192
-
-Bellwood 18789
-Woodson 498
-Harrison 895
-Norris 173
-Morrisonville 997
-Valmeyer 1233
-Marion 16855
-Marietta 101
-Ste. Marie 238
-Marissa 1833
-Norris City 1145
-Grayville 1550
-Illiopolis 846
-
-Lockport 26094
-Bannockburn 1013
-Maquon 218
-Sciota 38
-Downs 1201
-Adair 212
-Neoga 1398
-Galt 193
-Galva 2470
-Galatia 827
-Pontiac 11150
-Plano 11847
-Naplate 412
-Mapleton 261
-Victoria 268
-
-East Peoria 22484
-
-Champaign 88302
-Campus 149
-Bethany 1255
-Chatham 14377
-West Peoria 4263
-
-Ottawa 18840
-
-North Aurora 18261
-North Utica 1323
-North Barrington 3171
-Barrington Hills 4114
-
-Libertyville 20579
-
-Glenview 48705
-
-Mundelein 31560
-Raleigh 284
-Cullom 520
-Lomax 404
-Nekoma 23
-Potomac 689
-Omaha 209
-Kempton 176
-Lakemoor 6182
-Riverwoods 3790
-Inverness 7616
-Essex 841
-Gorham 173
-Hampton 1779
-Marquette Heights 2541
-Palos Heights 12068
-
-Brookfield 19476
-
-Palos Hills 18530
-Orland Hills 6893
-Clarendon Hills 8702
-Campton Hills 10885
+Darien 22011
+Orient 327
+Indian Creek 536
+Old Mill Creek 162
+Old Shawneetown 113
+Elizabethtown 220
+Chestnut 220
+Chester 6814
+Rochester 3863
+Ladd 1263
+Columbia 10999
+Columbus 114
+Eagarville 114
+Cedarville 663
 
 Belleville 42404
 
-Carbondale 21857
-Bondville 388
-Lyndon 537
-Venedy 121
+Collinsville 24366
 
-Geneva 21393
-
-Hoffman Estates 52530
-
-Elmhurst 45786
-Stickney 7110
-Herrick 358
-Holcomb 149
-Colchester 1108
-Panama 337
-Panola 47
-Ohio 465
-Union Hill 55
-Lake Catherine 1279
-Matherville 707
-Beaverville 306
-Congerville 497
-Coulterville 834
-Lake City 69
-Lake Carroll 852
-Northfield 5751
-Alma 318
-Palmyra 605
-Palos Park 4899
-
-Matteson 19073
-
-Dolton 21426
-Coalton 317
-Swedona 109
-Macedonia 30
-Campbell Hill 309
-Ashton 967
-Elkhart 450
-Hecker 429
-Buffalo Prairie 64
-Stoy 108
-Iola 98
-Tuscola 4636
-Basco 80
-Marley 128
-Pearl 103
-Oreana 891
-Nora 107
-Loraine 300
-Hainesville 3546
-Crainville 1443
-Kings 146
-
-Pekin 31731
-
-Rock Island 37108
-Campbell's Island 275
-Rock Island Arsenal 182
-Symerton 128
-Burton 103
-Allerton 262
-Morton 17117
-Carterville 5848
-Flora 4803
-Flossmoor 9704
-Cooksville 157
-Petersburg 2258
-
-Galesburg 30052
-Harrisburg 8219
-
-Granite City 27549
-South Jacksonville 3302
-Shiloh 14098
-Shipman 511
-Washington 16071
-Milan 5097
-
-Bloomington 78680
-Millington 617
-Alpha 675
-Summerfield 347
-Summit 11161
-Mitchell 1217
-Rentchler 45
-Merritt 48
-Pittsfield 4206
-Butler 164
-
-Huntley 27740
-Littleton 139
-De Soto 1407
-Hoopeston 4915
-Hopedale 830
-New Minden 175
-Donnellson 153
-Cornell 446
-Bushnell 2718
-Columbus 114
-Mill Creek 59
-Paloma 114
-Rest Haven 502
-Alhambra 622
-Amboy 2278
-Candlewick Lake 5115
-Lewistown 2041
-Beardstown 5951
-Troy 10960
-Montrose 210
-La Rose 98
-Osco 108
-Scottville 93
-Otterville 87
-Red Bud 3804
-New Burnside 153
-Baldwin 314
-Ewing 300
-Winslow 281
-Harvard 9469
-
-Rockford 148655
-
-West Chicago 25614
-Wood Dale 14012
-Grandwood Park 5297
-Braidwood 6194
-Atwood 1116
-Woodland 248
-Maunie 91
-Bonnie 374
+Edwardsville 26808
+Glen Carbon 13842
+Carbon Hill 372
+Willow Hill 172
 Hillview 94
-Greenview 745
-Alexis 793
-Aledo 3633
-Lanark 1504
-Flanagan 1010
-Buffalo 447
-
-O'Fallon 32289
-Herrin 12352
+Russellville 98
+Brussels 116
+Donnellson 153
+Nelson 127
 Ferris 127
-Steward 229
-Warren 1323
-Fairmont 2389
-Brownstown 690
-Dowell 368
-Bellflower 346
-Emden 467
-St. Rose 459
-Lost Nation 714
-Germantown 1324
-Berlin 141
-Carlinville 5710
-Effingham 12252
-Jeffersonville 355
-Bartonville 5945
-
-Danville 29204
-Channahon 13383
-
-Tinley Park 55971
-
-Villa Park 22263
-Schiller Park 11709
-Papineau 133
-East Cape Girardeau 289
-Golconda 630
-Pierron 459
-Valier 554
-Hopkins Park 597
-Nebo 282
-Mount Sterling 2006
-Bunker Hill 1630
-
-Crest Hill 20459
-Crestwood 10826
-Hillcrest 1224
-Forrest 1041
-Waterloo 11013
-Waverly 1194
-New Douglas 350
-New Haven 399
-
-New Lenox 27214
-New Canton 334
-Rantoul 12371
-Oglesby 3712
-
-Niles 30912
-Naples 100
-Preemption 254
-Junction 56
-Mound Station 117
-Waynesville 381
-Willisville 579
-Chandlerville 527
-East Lynn 90
-Lynn Center 85
-Lynnville 96
-Granville 1359
-Franklinville 38
-Hull 392
-Bull Valley 1128
-Spring Valley 5582
-
-Shorewood 18186
-Monee 5128
-Harmon 111
-Hanover 863
-Grantfork 341
-
-Frankfort 20296
-Chicago Ridge 14433
-
-Homewood 19463
-
-Mokena 19887
-Serena 129
-Orient 327
-Bradford 676
-Dahlgren 504
-Greenwood 324
-Greenup 1365
-Green Valley 630
-Greenville 7083
+Norris 173
+Kell 173
+Cornell 446
+Cornland 89
 Cortland 4398
-Leland 951
-Oakland 739
-Broadlands 316
-Bradley 15419
-Radom 183
+St. Elmo 1254
+St. Johns 163
+Johnsburg 6355
+Lakemoor 6182
+Island Lake 8051
 
-Rolling Meadows 24200
-
-Morton Grove 25297
-Oak Grove 476
-Joppa 350
-Elizabethtown 220
-Batchtown 170
-Richton Park 12775
-Calumet Park 7025
-
-Orland Park 58703
-Ingalls Park 3460
-
-Montgomery 20262
-
-Sycamore 18577
-Ashmore 637
-Twin Grove 1524
-Villa Grove 2472
-Deer Grove 38
-Poplar Grove 5049
-Bedford Park 602
-
-Elmwood Park 24521
-
-Highland Park 30176
-
-Lake Zurich 19759
-Green Oaks 4128
-
-Wilmette 28170
-Merrionette Park 1969
-Franklin 610
-Rankin 495
-
-Franklin Park 18467
-Grant Park 1294
-Centreville 4232
-Central City 1098
-
-Machesney Park 22950
-Chester 6814
-
-Alton 25676
-Cedarville 663
-
-Naperville 149540
-Countryside 6420
-
-Cicero 85268
-Cameron 188
-Homer 1073
-Rome 1604
-Mahomet 9434
-Taylorville 10506
-Floraville 49
-Nauvoo 950
-Savoy 8857
-Joy 372
-Phillipstown 34
-New Bedford 76
-New Baden 3428
-New Boston 613
-New Berlin 1381
-Prairie Grove 1963
-Redmon 137
-Meredosia 826
-Exeter 87
-Lake Petersburg 740
-Keensburg 174
+Round Lake 18721
+Round Lake Park 7680
 
 Round Lake Beach 27252
-Pontoon Beach 5876
-Mattoon 16870
-Litchfield 6605
-Ritchie 190
-Deer Creek 667
-Deer Park 3681
-Findlay 664
-Clayton 639
-Sheldon 965
-Shelbyville 4674
-Maryville 8221
-Eddyville 99
-Caseyville 4400
-Altamont 2216
+Lake Bluff 5616
 
-Lemont 17629
-Vermont 570
-Nason 199
-Grand Detour 424
-Hanaford 320
-Bluford 630
-Stanford 600
-Seaton 214
-Patoka 525
-Streator 12500
-Sugar Grove 9278
-Fox River Grove 4702
+Lake Forest 19367
+Highwood 5074
 
-Mount Prospect 56852
-Mount Erie 98
-Erie 1518
-Sheridan 2431
-St. Jacob 1358
-Garden Prairie 300
-Sheffield 821
-Edgington 391
-Rushville 3005
-Dakota 500
-Silvis 8003
+Highland Park 30176
+Highland 9991
 Aviston 2340
-Easton 312
-Bloomfield 32
-Lake of the Woods 2403
-Darmstadt 49
-Adams 75
-Standard City 135
-Table Grove 353
-River Grove 10612
-Western Springs 13629
-Springerton 101
-Spring Grove 5487
-Rio 209
+New Baden 3428
+New Berlin 1381
+Berlin 141
+Burlington 535
+Arlington 169
 
-Zion 24655
-Albion 1971
-Prairie City 407
-Burnt Prairie 36
-Dewey 105
-Pesotum 550
-Brocton 273
-Rochelle 9446
-Forreston 1435
-Forest Lake 1784
-Forest View 792
-Cerro Gordo 1316
+Arlington Heights 77676
+Harwood Heights 9065
+
+Park Ridge 39656
+
+Oak Park 54583
+Forest Park 14339
+River Forest 11717
+River Grove 10612
+Fox River Grove 4702
+Long Grove 8366
 
 Buffalo Grove 43212
 
-Round Lake 18721
-
-Palatine 67908
-Palmer 216
-Wayne 2286
-Hollowayville 36
-Willow Hill 172
-Tower Hill 485
-Griggsville 1097
-Riley 10
-Knollwood 2121
-Makanda 547
-Cambria 1505
-Astoria 929
-Coal City 5705
-Dundas 146
-Mounds 661
-Witt 785
-Pittsburg 565
-Bulpitt 212
-Pecatonica 2090
-Biggsville 300
-Ellisville 87
-Hume 325
-Verona 208
-Jerome 1692
-Delavan 1568
-Ipava 447
-Cuba 1184
-Sesser 1888
-Wilmington (Greene County) 91
-Catlin 1983
-Magnolia 256
-Olivet 336
-Goodenow 60
-Kinmundy 733
-Fayetteville 302
-Moro 397
-Tallula 434
-LaSalle 9582
-Pleasant Hill 924
-Germantown Hills 3412
-
-Vernon Hills 26850
-Lindenhurst 14406
-Ursa 609
-Versailles 446
-Warsaw 1510
-Newark 973
-Addieville 259
-Buckley 495
-New Milford 794
-Oakford 234
-Milford 1158
-Oakwood 1325
-North Henderson 162
-North Pekin 1478
-Bartelso 635
-Gilson 156
-Virgil 289
-Gillespie 3168
-Zeigler 1484
-Bone Gap 181
-Lisbon 271
-Hindsboro 275
-Elvaston 147
-Melvin 416
-Hamel 929
-Latham 333
-Thayer 632
-Tremont 2277
-Fairview 426
-Thomson 1610
-Manteno 9210
-Chenoa 1720
-Athens 1977
-Viola 869
-Tilden 750
-Tilton 2660
-Wilton Center 122
-Monroe Center 411
-Kirkland 1650
-Bentley 30
-West York 74
-Ramsey 911
-Seymour 317
-Casey 2404
-Alsey 195
-Caledonia 183
+Morton Grove 25297
+Morton 17117
+Alorton 1566
 Tonica 749
-Literberry 71
-Barry 1303
-Buckner 409
-Como 528
-Buncombe 207
+Lockport Heights 749
 
-Belvidere 25339
-Island Lake 8051
-
-Arlington Heights 77676
-Ford Heights 1813
-Peoria Heights 5908
-Ridgway 851
-Cambridge 2086
-Windsor (Shelby County) 1079
-Mansfield 928
-Georgetown (McDonough County) 368
-Georgetown 3143
-Lincoln 13288
-Macomb 15051
-Hillsboro 5902
-McLeansboro 2675
-The Galena Territory 1500
-Hartland 157
-Atlanta 1669
-Argenta 913
-Genoa 5298
-
-Carol Stream 39854
-
-Darien 22011
-
-Oak Lawn 58362
-Country Club Hills 16775
-
-Calumet City 36033
-Frankfort Square 8968
-Hickory Hills 14505
-Riverdale 10663
-Riverside 9298
-Alto Pass 319
-Eagarville 114
-Ripley 53
-Mineral 206
-Minier 1154
-Alexander 155
-Kinderhook 189
-Wonder Lake 3973
-Long Lake 3663
-South Chicago Heights 4026
-Raymond 949
-Richmond 2089
-Beach Park 14249
-Winnetka 12744
-Wyanet 886
-Kewanee 12509
-Dwight 4032
-Preston Heights 2898
-Harwood Heights 9065
-La Grange Park 13475
-
-Lombard 44476
-
-Melrose Park 24796
-Maple Park 1433
-Glen Carbon 13842
-
-Jacksonville 17616
-Hutsonville 478
-Wapella 513
-Browning 117
-Henning 210
-Vienna 1343
-Clifton 1352
-Grafton 626
-Grand Tower 479
-New Grand Chain 150
-Meyer 18
-Sawyerville 268
-Farmersville 689
-Illinois City 159
-Bureau Junction 281
-Union 551
-Odin 935
-Spaulding 801
-Hardin 801
-Hartford 1185
-Crossville 623
-Kampsville 310
-Thompsonville 486
-Medora 379
-Toledo 1161
-Coleta 167
-Arcola 2927
-Smithton 4006
-Arrowsmith 276
-Carrollton 2485
-De Land 447
-Ashland 1218
-Pistakee Highlands 3237
-Northlake 12840
-
-Northbrook 35222
-Worth 10970
-Chatsworth 1185
-Heyworth 2791
-Kenilworth 2514
-Wadsworth 3517
-Abingdon 2951
-De Pue 1633
-La Moille 679
-Kincaid 1349
-Bonnie Brae 1287
-Danvers 1089
-Dana 162
-Indian Creek 536
-Long Creek 1261
-Rosiclare 980
-Dongola 661
-Johnston City 3384
-Mason City 2077
-Junction City 527
-Dalton City 454
-Gibson City 3475
-
-Peoria 113150
-Mendota 7061
-
-Aurora 180542
-
-Elgin 114797
-Hidalgo 111
-
-Hinsdale 17395
-Oakdale 199
-Channel Lake 1581
-Blairsville 243
-
-Carpentersville 37983
-La Harpe 1175
-Martinsville 1118
-Bement 1484
-Spillertown 181
-Stewardson 721
-Trout Valley 515
-German Valley 433
-Coal Valley 3873
-Brimfield 778
-Bonfield 351
-Colfax 996
-Colona 5045
-Colp 168
-
-North Chicago 30759
-North City 509
-Bellmont 247
-Belle Rive 309
-Leaf River 432
-Elliott 274
-Crescent City 552
-Creston 627
-Hazel Crest 13382
-Fall Creek 31
-Carbon Hill 372
-Stonefort 224
-Gladstone 234
-Limestone 1558
-Taylor Ridge 141
-Grand Ridge 515
-Roscoe 10983
-Edinburg 1085
-Cowden 515
-Worden 1096
-Bay View Gardens 354
-Virden 3231
-Scott AFB 3688
-Ridott 124
-Thomasboro 1034
-Lake Barrington 5100
-Momence 3117
-Saunemin 406
-Argyle 332
-Hoyleton 520
-St. Libory 628
-St. Peter 322
-St. Elmo 1254
-
-St. Charles 33081
-
-Algonquin 29700
-Waggoner 181
-Energy 974
-Keenes 50
-Seneca 2353
-Geneseo 6539
-Breese 4641
-Toulon 1193
-Boulder Hill 8394
-
-Westmont 24429
-Lyons 10817
-Burtons Bridge 226
-Lawrence 220
-Princeton 7832
-
-DeKalb 40290
-Watseka 4679
-Wataga 744
-Waterman 1433
-Fairview Heights 16706
-Du Quoin 5827
-Metropolis 5969
-Polo 2291
-Hooppole 180
-Andres 43
-Brussels 116
-Sadorus 402
-Curran 213
-Durand 1390
-Niantic 612
-Hettick 149
-Garrett 122
-Westfield 536
-Coffeen 647
-Hoffman 439
-Manito 1552
-Gilman 1738
-Stillman Valley 1075
-Chapin 475
-
-Charleston 17286
-Chemung 276
-Cherry 435
-Herscher 1521
-Fisher 2062
-Browns 139
-Shawneetown 1054
-Glasford 866
-Glasgow 113
-Pulaski 154
+Lockport 26094
 Rockport 67
-Rockton 7863
-Rockwood 32
-Kirkwood 678
-Opdyke 236
-McNabb 275
-Ina 1641
-Mackinaw 1879
-
-Lake Forest 19367
-River Forest 11717
-Itasca 9543
-Scales Mound 436
-Mound City 526
-
-Waukegan 89321
-Iuka 512
-Manlius 298
-Alvan 233
-Donovan 251
-Tolono 3604
-Solon Mills 133
-Albers 1121
-Lee 313
-Steeleville 1930
+Yale 67
+Royal 293
+Royalton 1068
+Floraville 49
 Goreville 1068
-Andover 555
-Mendon 872
-London Mills 350
-Carrier Mills 1672
-Millstadt 4071
-Forest City 222
-Gifford 911
-Chadwick 481
-Sandwich 7221
-
-South Elgin 23865
-
-Cary 17826
-Carlyle 3253
-Beverly 72
-
-Evergreen Park 19943
-Lebanon 4691
-Winnebago 2940
-Chebanse 1044
-Thebes 208
-Shannon 801
-Dover 135
-Sandoval 1157
-Cordova 671
-Harding 133
-Joslin 85
-
-Lisle 24223
-Baylis 172
-Spring Bay 474
-Taylor Springs 724
-Creal Springs 505
-Coyne Center 877
-Wayne City 994
-Oquawka 1134
-Okawville 1369
-Minooka 12758
-Millbrook 277
-Saybrook 654
-Marseilles 4845
-Strasburg 531
-Millersburg 54
-Russellville 98
-Earlville 1613
-Palestine 1233
-Highland 9991
-Nokomis 2142
-Wyoming 1300
-Menominee 211
-Kaskaskia 21
-Mount Pulaski 1537
-Goodfield 936
-Penfield 151
-Rockbridge 175
-Ridgewood 2956
+Centreville 4232
+Steeleville 1930
+Milledgeville 1026
+Orangeville 766
 Bridgeview 17027
-Kingston 1108
-Riggston 14
-Brighton 2221
-Richview 238
-Richfield 26
-Smithfield 191
-Smithville 157
-Dixmoor 2973
-Dixon 15274
-Diamond 2640
-Indianola 227
-Ellsworth 184
-Irwin 68
-Detroit 76
-Troy Grove 225
-Chestnut 220
-Camden 62
-Triumph 100
-Assumption 1155
-Secor 342
-Coral 16
-Lake Villa 8741
-Westlake Village 1493
-South Beloit 7989
-South Roxana 1891
-
-South Holland 21465
-Willow Springs 5857
-Sailor Springs 89
-Sparland 366
-Trilla 156
-Cornland 89
-Keithsburg 550
-Venice 1498
-Monticello 5941
-Newton 2777
-Newman 778
-Clay City 847
-Mechanicsburg 662
-Burnham 4046
-Manhattan 9385
-
-Chicago Heights 27480
-Beecher 4713
-Cherry Valley 2905
-
-Streamwood 39577
-Oakbrook Terrace 2751
-Forest Park 14339
-
-Park Forest 21687
-
-Homer Glen 24543
-Markham 11661
-University Park 7145
-
-Blue Island 22558
-Blue Mound 1133
-Columbia 10999
-
-Schaumburg 78723
-Hamburg 99
-Trivoli 385
-
-Moline 42985
-
-Bolingbrook 73922
-
-Joliet 150362
-
-Batavia 26098
-Davis 589
-St. David 522
-Vergennes 235
-Tennessee 101
-Barstow 89
-Harristown 1310
-Posen 5632
-Olive Branch 650
-Manchester 265
-Westchester 16892
-
-Glen Ellyn 28846
-Glenwood 8662
-Lincolnwood 13463
-Lynwood 9116
-Cobden 1074
-Centralia 12182
-Madison 3171
-Marshall 3947
-White Hall 2295
-Whiteash 279
-White Heath 251
-
-Wheaton 53970
-Wheeler 96
-Lerna 226
-Divernon 1139
-Vernon 103
-Bismarck 582
-Annapolis 106
-Teutopolis 1618
-Chillicothe 6128
-Oregon 3604
-Leonore 121
-
-Normal 52736
-Westville 3167
-Peotone 4150
-
-Harvey 20324
-Westervelt 131
-Rochester 3863
-Loami 812
-Oneida 696
-Lake Holiday 5687
-Fox Lake Hills 2684
-Round Lake Heights 2622
-East Dubuque 1505
-McLean 743
-Cleveland 163
-Rutland 259
-St. Johns 163
-St. Joseph 3810
-St. Anne 1161
-
-Oswego 34585
-Steger 9584
-
-Alsip 19063
-Walshville 61
-Waltonville 408
-Weldon 369
-Eldorado 3743
-Ogden 729
-Industry 399
-Augusta 553
-Justice 12600
-Sparta 4095
-Paris 8291
-
-Kankakee 24052
-
-Romeoville 39863
-
-Springfield 114394
-Farmer City 1828
-Creve Coeur 4934
-Walnut 1311
-
-Yorkville 21533
-Little York 283
-Nilwood 201
-Kappa 229
-Apple Canyon Lake 574
-Lake Camelot 1798
-Anchor 163
-Milton 214
-Hamilton 2753
-Liberty 543
-Roberts 345
-Robbins 4629
-Bingham 60
-Robinson 7150
-Bethalto 9310
-Elizabeth 694
-Cabery 231
-Muddy 61
-Boody 232
-Oblong 1371
-Longview 112
-Ridge Farm 787
-East Brooklyn 80
-West Brooklyn 131
-Coatsburg 150
-Adeline 78
-Fidelity 96
-Equality 539
-Fults 28
-Ullin 466
-Lostant 423
-Henderson 266
-Owaneco 209
-Lane 95
-Timberlane 906
-Gays 218
-Galena 3308
-Sibley 288
-Noble 633
-Moweaqua 1764
-Bowen 464
-Tower Lakes 1226
-Royal Lakes 167
+Greenview 745
+Greenville 7083
+Newark 973
+Steward 229
+Stewardson 721
+St. Jacob 1358
+Crystal Lawns 1830
 
 Crystal Lake 40269
-Volo 6122
-Lake Bluff 5616
-Winthrop Harbor 6705
-Paderborn 35
-Lake Ka-Ho 194
-Bishop Hill 113
-New Salem 121
-West Salem 786
-Eliza 25
-Broughton 185
-Nelson 127
-Elsah 519
-Reddick 199
-Eldred 149
-Buda 482
-Ludlow 308
-Midlothian 14325
-Gridley 1456
-Godley 566
-Woodlawn 617
-Long Point 204
-Arenzville 367
-Lenzburg 468
-Lorenzo 26
-Sorento 429
-Dunfermline 262
-Fillmore 305
-Niota 114
-
-Decatur 70522
-Eureka 5227
-
-East Moline 21374
-Rock City 293
-Lockport Heights 749
-Hebron 1368
-Alorton 1566
-
-Urbana 38336
-
-Bourbonnais 18164
-Kilbourne 265
-Elburn 6175
-Washburn 1032
-Washington Park 2592
-Harmony 20
-Walnut Hill 95
-
-Burbank 29439
-Fairbury 3633
-Fairmount 612
-Keyesport 406
-Hinckley 2006
 
 Lake in the Hills 28982
+Fox Lake Hills 2684
+Flossmoor 9704
+Flora 4803
+Taylorville 10506
+Nokomis 2142
+Nekoma 23
+Thomasboro 1034
+Griggsville 1097
+Evansville 547
 
-Bloomingdale 22382
+Evanston 78110
 
-Oak Forest 27478
+Wilmette 28170
+Mettawa 533
 
-McHenry 27135
-Hammond 508
-Gages Lake 10637
-Eagle Lake 76
-Clear Lake 203
-Mount Auburn 452
-Liverpool 94
-Braceville 724
-Janesville 76
-Olmsted 285
-Perry 314
-Sunnyland 822
-Lily Lake 1032
-Fox Lake 10978
-Christopher 2697
-Ophiem 123
-Prophetstown 1946
-Wauconda 14084
-Macon 1177
-Oxville 24
-Cypress 217
-Venetian Village 2761
-Bath 279
-Port Byron 1668
-Davis Junction 2512
-Watson 668
-Hopewell 421
-Roodhouse 1578
-Paxton 4450
-Tovey 464
-Elwin 119
-Bardolph 210
-Heritage Lake 1523
-Raritan 102
-Philo 1392
-Oak Run 721
-Prestbury 1657
-Langleyville 391
-Forsyth 3734
-Danforth 594
+Ottawa 18840
+Mendota 7061
+Mendon 872
+Ogden 729
+Alden 113
+Malden 318
+Alma 318
+Ohlman 109
+Manito 1552
+
+Granite City 27549
 White City 212
-Lexington 2090
-Roxana 1454
-Pana 5199
-Royal 293
-Le Roy 3512
-Royalton 1068
-Andalusia 1184
-Vandalia 7458
+Bulpitt 212
+Pittsburg 565
+Hartsburg 262
+Allerton 262
+Spillertown 181
+East Gillespie 269
+Gillespie 3168
+La Harpe 1175
+New Athens 1955
+Athens 1977
+Warren 1323
+Warrenville 13553
 
-Godfrey 17825
-Freeburg 4582
-Freeman Spur 268
-Tampico 689
-Sidell 489
-Franklin Grove 896
-East Galesburg 763
-Bryant 168
+Naperville 149540
+
+Bolingbrook 73922
+Willowbrook (DuPage County) 9236
+Willow Springs 5857
+Western Springs 13629
+Westchester 16892
+Hillside 8320
+North Riverside 7426
+Broadview 7998
+
+Brookfield 19476
+La Grange Park 13475
+La Grange 16321
+
+Villa Park 22263
+Stone Park 4576
+
+Melrose Park 24796
+Rose Hill 89
+
+Roselle 22897
+Roseville 892
+Allendale 458
+Bull Valley 1128
+Coal Valley 3873
+Andover 555
+Dover 135
+Shirley 135
+Marley 128
+Symerton 128
+Pinckneyville 5066
+Chapin 475
+Peoria Heights 5908
+
+Peoria 113150
+West Peoria 4263
+
+East Peoria 22484
+Creve Coeur 4934
+Eureka 5227
+
+Pekin 31731
+North Pekin 1478
+Geneseo 6539
+Jonesboro 1711
+Hillsboro 5902
+Litchfield 6605
+Richfield 26
+Lorenzo 26
+Florence 17
+Trenton 2690
+Centralia 12182
+Hodgkins 1500
+Hopkins Park 597
+Palos Park 4899
+
+Palos Hills 18530
+Palos Heights 12068
+Worth 10970
+Ellsworth 184
+Ripley 53
+Kangley 235
+Langleyville 391
+Edinburg 1085
+Media 121
+Medora 379
+Tallula 434
+Pulaski 154
+Mount Pulaski 1537
+Tiskilwa 740
+The Galena Territory 1500
+Galena 3308
+Lena 2772
+Le Roy 3512
+Norridge 15251
+Ridgewood 2956
+Lakewood 4283
+Teutopolis 1618
+Illiopolis 846
+Metropolis 5969
+Cairo 1733
+Kincaid 1349
+Valier 554
+Vandalia 7458
+Dalzell 663
+Hazel Crest 13382
+Crestwood 10826
+Midlothian 14325
+Fithian 488
+Mansfield 928
+Pittsfield 4206
+Makanda 547
+Kane 296
+Kaneville 452
+Camargo 452
+Maryville 8221
+
+Cary 17826
+
+Carpentersville 37983
+
+Algonquin 29700
+
+Elgin 114797
+
+South Elgin 23865
+South Barrington 5077
+Barrington 10722
+Inverness 7616
+Vernon 103
+Verona 208
+Cameron 188
+Shumway 188
+Walshville 61
+Muddy 61
+Buda 482
+Bush 241
+East Cape Girardeau 289
+Beason 147
+Dawson 519
+Nason 199
+Mason 323
+Flat Rock 323
+Big Rock 1104
+Stockton 1728
+Riggston 14
+South Wilmington 710
+Valley City 14
+North City 509
+
+North Chicago 30759
+Park City 7885
+
+Waukegan 89321
+Gages Lake 10637
 
 Grayslake 21248
-Barrington 10722
-Port Barrington 1584
-Wenona 974
-Elmwood 2058
-Ohlman 109
-Louisville 1136
+Gays 218
+Maquon 218
+Malta 1143
+Altamont 2216
+Altona 463
+Stonington 837
+Morris 14163
+Morrison 4085
+Mount Morris 2861
+Third Lake 1111
+Forreston 1435
+Forest View 792
+East Hazel Crest 1297
+Lewistown 2041
+Harristown 1310
+Harrison 895
+Pleasant Hill 924
+Pleasant Plains 808
+Ransom 308
+Johnsonville 72
+Liberty 543
+Beverly 72
+Waverly 1194
+Dupo 3996
+Cisne 634
+Cisco 254
+Osco 108
+Roscoe 10983
+Erie 1518
+Mount Erie 98
+Unity 98
+Union 551
+Union Hill 55
+Newman 778
+Brimfield 778
+Bridgeport 1800
+Port Byron 1668
+Byron 3784
+
+Rockford 148655
+Oakford 234
+Owaneco 209
+Towanda 431
+Elkhart 450
+Kirkland 1650
+Oakland 739
+Creston 627
+Spring Bay 474
+Spring Grove 5487
+Pana 5199
+Panama 337
+Durand 1390
+Bunker Hill 1630
+Orland Hills 6893
+Holiday Hills 618
+Bluffs 618
+Bluford 630
+Golconda 630
+Holcomb 149
+New Holland 275
+
+South Holland 21465
+
+Dolton 21426
+
+Alton 25676
+East Alton 5786
 
 East St. Louis 18469
 Cahokia 12096
 Pocahontas 697
-Sigel 329
-Ridgefield 210
-Pontoosuc 99
-Foosland 75
-Strawn 101
+Montrose 210
+Rosemont 3952
+Harmon 111
+Hidalgo 111
+Dallas City 805
+Atkinson 965
+Sheldon 965
+Enfield 794
+Penfield 151
 Cantrall 144
+Brookport 725
+West Brooklyn 131
+East Brooklyn 80
+Brooklyn 649
+Vermont 570
+Germantown 1324
+Germantown Hills 3412
+German Valley 433
+Freeman Spur 268
+Freeburg 4582
 
-Loves Park 23397
+Freeport 23973
+Literberry 71
+Cherry Valley 2905
+Cherry 435
+Perry 314
+Belknap 88
+Bellmont 247
+Fillmore 305
+Sorento 429
+Hecker 429
+Beckemeyer 923
+Keyesport 406
+Meyer 18
+Valmeyer 1233
+Palestine 1233
+
+Palatine 67908
+Galatia 827
+South Chicago Heights 4026
+Rosewood Heights 3971
+Ford Heights 1813
+Hartford 1185
+Harding 133
+Blandinsville 569
+Kampsville 310
+Louisville 1136
+Crossville 623
+Rossville 1221
+Fairview 426
+Fairview Heights 16706
+
+O'Fallon 32289
+Shiloh 14098
+Philo 1392
+
+Zion 24655
+Mount Zion 6019
+
+Decatur 70522
+Pecatonica 2090
+Lexington 2090
+Alexis 793
+Johnston City 3384
+Dalton City 454
+Mason City 2077
+West Liberty 96
+Wheeler 96
+
+Wheeling 39137
+Riverwoods 3790
+Lincolnshire 7940
+Glencoe 8849
+
+Glenview 48705
+
+Bensenville 18813
+Wood Dale 14012
+
+Bellwood 18789
+
+Maywood 23512
+Heyworth 2791
+Homer 1073
+Lake Summerset 2342
+Sumner 2631
+Summit 11161
+Lyons 10817
+Neponset 427
+Nilwood 201
+Braceville 724
+Macedonia 30
+Caledonia 183
+Aledo 3633
+Eldorado 3743
+Bethalto 9310
+Tilton 2660
+Westville 3167
+
+Danville 29204
+Granville 1359
+Manlius 298
+Stillman Valley 1075
+Riley 10
+Lake Barrington 5100
+Grant Park 1294
+Grandwood Park 5297
+
+Elmwood Park 24521
+Elmwood 2058
+Lake Carroll 852
+Mount Carroll 1479
+Mount Carmel 7015
+Mount Vernon 14600
+Benton 6709
+Du Quoin 5827
+Iroquois 133
+Dorchester 133
+Solon Mills 133
+London Mills 350
+Joppa 350
+Kappa 229
+Apple River 347
+Summerfield 347
 
 Deerfield 19196
-Antioch 14622
-Edgewood 398
-Plainville 271
-Pleasant Plains 808
-New Athens 1955
-Jeisyville 102
-Jewett 196
-Mettawa 533
-Metamora 3904
-Carbon Cliff 1846
-Old Ripley 82
-Cissna Park 817
-Cisne 634
-Toluca 1340
-Gardner 1366
-Valley City 14
-West Liberty 96
-Mazon 979
-East Hazel Crest 1297
-Berkeley 5338
-Morris 14163
-Irving 373
-Livingston 763
-Irvington 581
-Monmouth 8902
-Savanna 2783
-Havana 2963
-Percy 906
-Sleepy Hollow 3214
-Marengo 7568
-Southern View 1596
-Nachusa 137
-Williamson 183
-Malden 318
-Golden Gate 65
-Stronghurst 833
+Kildeer 4091
+Tilden 750
+Willowbrook (Will County) 1346
+Ashkum 750
+Fisher 2062
+Sherman 4673
+Shelbyville 4674
+Lakewood (Shelby County) 91
+Wilmington (Greene County) 91
+Windsor (Mercer County) 668
+Windsor (Shelby County) 1079
+Georgetown (McDonough County) 368
+Georgetown 3143
+Hometown 4343
+Mahomet 9434
+
+Champaign 88302
+Hampton 1779
+Campton Hills 10885
+Fidelity 96
+Sidell 489
+Illinois City 159
+Norris City 1145
+Wataga 744
+Neoga 1398
+Bonfield 351
+Bannockburn 1013
+Banner 169
+Anna 4303
+Annawan 884
+Pawnee 2678
+Shawneetown 1054
+Downs 1201
+Browns 139
+Brownstown 690
+Argenta 913
+Onarga 1333
+Lanark 1504
+Dana 162
+Standard 225
+Troy Grove 225
+Oak Grove 476
+Augusta 553
+Ava 553
+Beaverville 306
+Chandlerville 527
+Junction City 527
+Junction 56
+Cypress 217
+Sesser 1888
+Essex 841
+Posen 5632
+McCullom Lake 988
+Cullom 520
+Hoyleton 520
+Mapleton 261
+LaPlace 239
+Naplate 412
+Naples 100
+Triumph 100
+Belgium 358
+Herrick 358
+Herrin 12352
+Carterville 5848
+Otterville 87
+Ellisville 87
+Willisville 579
+Reynolds 498
+Woodson 498
+
+Woodstock 25630
+Hawthorn Woods 9062
+Thornton 2386
+Rock City 293
+Rock Falls 8789
+
+Rock Island 37108
+Milan 5097
+Lane 95
+Bay View Gardens 354
+Garden Prairie 300
+La Prairie 42
 Big Foot Prairie 65
-Custer Park 112
-Gulf Port 42
-Modesto 182
+Burnt Prairie 36
+Norwood 437
+Sparland 366
+Spaulding 801
+Ullin 466
+Marcelline 75
+Bismarck 582
+Chrisman 1312
+Christopher 2697
+Coal City 5705
+Central City 1098
+Trout Valley 515
+Cowden 515
+Goodenow 60
+Golden 648
+Golden Gate 65
+Alvan 233
 Ivesdale 265
 Hillsdale 417
-Harvel 178
+Oakwood Hills 2076
 Seatonville 321
-Dix 469
-Phoenix 1708
-Sullivan 4413
+Jeffersonville 355
+Havana 2963
+Harvel 178
+Cleveland 163
+Leland 951
+Leland Grove 1454
+Cutler 361
+Rutland 259
+Hartland 157
+Muncie 157
+Chemung 276
+
+Mundelein 31560
+
+Vernon Hills 26850
+Divernon 1139
+South Pekin 996
+Colfax 996
+Arcola 2927
+Tuscola 4636
+Lacon 1878
+Macon 1177
+Wayne City 994
+Clay City 847
+Yates City 642
+Woodland 248
+De Land 447
+Buffalo 447
+Ipava 447
+Delavan 1568
+Dakota 500
+Niota 114
+Ohio 465
+Iola 98
+Panola 47
+Indianola 227
 Indian Head Park 4065
-Dupo 3996
-Paw Paw 830
-Stockton 1728
-South Wilmington 710
-Big Rock 1104
-Flat Rock 323
-Albany 864
-Capron 1395
-Time 26
-Lima 148
-Marcelline 75
+Cerro Gordo 1316
+Cordova 671
+Batchtown 170
+Bath 279
+Watson 668
+Watseka 4679
+
+Kankakee 24052
+
+Frankfort 20296
+Frankfort Square 8968
+
+Matteson 19073
+Mattoon 16870
+Sullivan 4413
+Hull 392
+Woodhull 754
+Atwood 1116
+Woodlawn 617
+Millington 617
+Armington 310
+Farmington 2389
+Lake Villa 8741
+Westlake Village 1493
+
+Elk Grove Village 32812
+Villa Grove 2472
+Savoy 8857
+Avon 704
+Fults 28
 Fulton 3647
-Thawville 215
+Savanna 2783
+Sterling 14764
+Mount Sterling 2006
+Fairmount 612
+Mounds 661
+Dongola 661
+Abingdon 2951
+Kingston 1108
+Kings 146
+Dundas 146
 East Dundee 3152
-Bluffs 618
+West Dundee 7686
+
+West Chicago 25614
+
+St. Charles 33081
+
+Geneva 21393
+
+Batavia 26098
+
+North Aurora 18261
+
+Aurora 180542
+Boulder Hill 8394
+
+Crest Hill 20459
+Ingalls Park 3460
+
+Orland Park 58703
+
+Tinley Park 55971
+University Park 7145
+Richton Park 12775
+Washington Park 2592
+Wellington 206
+Mineral 206
+Coral 16
+Nora 107
+El Dara 63
+Table Grove 353
+Cable 117
+Mound Station 117
+Preemption 254
+Kempton 176
+Fieldon 176
+Weldon 369
+Coulterville 834
+Waltonville 408
+Milton 214
+New Milford 794
+Milford 1158
+Bradford 676
+New Bedford 76
+Bedford Park 602
+Grantfork 341
+Williamson 183
+Williamsville 1425
+Cooksville 157
+McCook 249
+Roberts 345
+Martinton 334
+New Canton 334
+Canton 13242
+Clinton 7004
+Lincoln 13288
+Lincolnwood 13463
+Warsaw 1510
+Ursa 609
+Stronghurst 833
+Deer Creek 667
+Mill Creek 59
+Alto Pass 319
+Buffalo Prairie 64
+Prairie du Rocher 502
+Prairie City 407
+Belle Prairie City 49
+Darmstadt 49
+Millstadt 4071
+Elkville 838
+
+Yorkville 21533
+Plano 11847
+
+Plainfield 44762
+Winfield 9835
+Goodfield 936
+Colchester 1108
+Witt 785
+De Witt 160
+La Fayette 160
+Fayetteville 302
+Farmersville 689
+Tampico 689
+Pierron 459
+Minier 1154
+Kingston Mines 266
+Henderson 266
+North Henderson 162
+Coffeen 647
+Hoffman 439
+Nauvoo 950
+Maunie 91
+Andalusia 1184
+Paxton 4450
+Magnolia 256
+McClure 256
+Lake of the Woods 2403
+Lake Catherine 1279
+Heritage Lake 1523
+Catlin 1983
+Atlanta 1669
+Noble 633
+Wenona 974
+Wenonah 32
+Bowen 464
+Tovey 464
+
+Harvey 20324
+Markham 11661
+Mark 519
+Elsah 519
+Sauget 141
+Saunemin 406
+Emington 101
+Springerton 101
+Burton 103
+Burtons Bridge 226
+Lerna 226
+Varna 375
+Karnak 430
+Glasford 866
+Glasgow 113
+La Clede 113
+McLean 743
+McLeansboro 2675
+Dunlap 1603
+Rapids City 964
+Shipman 511
+Gilman 1738
+Momence 3117
+Knollwood 2121
+Elwood 2229
+Elwin 119
+Wayne 2286
+Waynesville 381
+Oakwood 1325
+Rockwood 32
+Kirkwood 678
+Buckingham 244
+Lost Nation 714
+Lostant 423
+West City 656
+Forest City 222
+Sublette 380
+Xenia 380
+Niantic 612
+Monticello 5941
+Pontiac 11150
+Streator 12500
+Oglesby 3712
+
+Galesburg 30052
+East Galesburg 763
+Moro 397
+Livingston 763
+Rome 1604
+Hanaford 320
+Stanford 600
+Cave-In-Rock 228
+Rockton 7863
+Bellflower 346
+Dowell 368
+Grand Tower 479
+Tower Hill 485
+Tower Lakes 1226
+Long Lake 3663
+Willow Lake 1026
+Fox Lake 10978
+Forest Lake 1784
+Marissa 1833
+Paris 8291
+Marine 912
+Raritan 102
+Jeisyville 102
+Jerseyville 8337
+
+Godfrey 17825
+Godley 566
+Gridley 1456
+Bradley 15419
+Braidwood 6194
+
+Shorewood 18186
+
+Joliet 150362
+Rockdale 2012
+Oakdale 199
+Reddick 199
+
+Addison 35702
+Madison 3171
+Keenes 50
+North Barrington 3171
+Port Barrington 1584
+Ashley 462
+Nashville 3105
+Lomax 404
+Ellis Grove 328
+
+Downers Grove 50247
+
+Westmont 24429
+
+Lemont 17629
+Tremont 2277
+Fairmont 2389
+Fairmont City 2265
+Plainville 271
+Morrisonville 997
+Riverton 3532
+Prospect Heights 16058
+
+Mount Prospect 56852
+
+Des Plaines 60675
+
+Niles 30912
+Baileyville 187
+Barstow 89
+Hurst 764
+Petersburg 2258
+Lake Petersburg 740
+Millersburg 54
+Parkersburg 186
+Sailor Springs 89
+Taylor Springs 724
+Baylis 172
+Liverpool 94
+Olivet 336
+Mount Olive 2015
+Chillicothe 6128
+Scottville 93
+Loda 356
+Crab Orchard 356
+Hardin 801
+Shannon 801
+Channahon 13383
+Minooka 12758
+Minonk 1928
+Broadwell 136
+Dayton 528
+Clayton 639
+Metamora 3904
+Olney 8701
+Old Ripley 82
+Secor 342
+Seaton 214
+Sammons Point 214
+West Point 140
+West Frankfort 7275
+Easton 312
+Elvaston 147
+Galva 2470
+Bardolph 210
+Colp 168
+Volo 6122
+Polo 2291
+Bushnell 2718
+Edgewood 398
 Knoxville 2901
+Oxville 24
+Mechanicsburg 662
+Loami 812
+Hamilton 2753
+Wyoming 1300
+Raymond 949
+Seymour 317
+Alsey 195
+New Haven 399
+Industry 399
+Strawn 101
+Trilla 156
+Gilson 156
+Wilsonville 536
+Bartonville 5945
+Buncombe 207
+Bureau Junction 281
+Winslow 281
+Ewing 300
+Irwin 68
+Bonnie 374
+Bonnie Brae 1287
+Olive Branch 650
+Anchor 163
+Manchester 265
+Custer Park 112
+Deer Park 3681
+Schiller Park 11709
+
+Hanover Park 37470
+Hanover 863
+Deer Grove 38
+Franklinville 38
+Rankin 495
+Buckley 495
+Hinckley 2006
+
+Hinsdale 17395
+Countryside 6420
+Country Club Hills 16775
+Hickory Hills 14505
+Arbury Hills 1132
+St. Francisville 568
+Strasburg 531
+Viola 869
+Orion 1754
+Manteno 9210
+Genoa 5298
+Chenoa 1720
+Chesterfield 170
+Lake City 69
+Coyne Center 877
+Lee Center 146
+Lynn Center 85
+Wilton Center 122
+Crescent City 552
+Kinderhook 189
+Alexander 155
+Venice 1498
+Lawrence 220
+Lawrenceville 4164
+Toluca 1340
+Tolono 3604
+Colona 5045
+Warrensburg 1110
+Keensburg 174
+Brighton 2221
+Broughton 185
+Millbrook 277
+Chadwick 481
+Sandwich 7221
+Lake Holiday 5687
 Holiday Shores 2840
 Lakewood Shores 665
-Hodgkins 1500
-Muncie 157
-Rapids City 964
-Yates City 642
-Sumner 2631
-Beckemeyer 923
-Carthage 2490
-Shumway 188
-Martinton 334
-Shirley 135
-Ashley 462
-Ellis Grove 328
-Henry 2320
-Lake Summerset 2342
-Virginia 1514
-Roanoke 1960
-Orion 1754
-Hudson 1753
-Plum Valley 632
-Metcalf 139
-Woodhull 754
-Carlock 548
-Smithboro 154
-Belknap 88
-Fowler 154
-Farina 540
-Dawson 519
-Bush 241
-Plymouth 436
-Karnak 430
-Belgium 358
-McCook 249
-East Gillespie 269
-Mossville 268
-Topeka 60
+Equality 539
+Oquawka 1134
+Flanagan 1010
+Oreana 891
+Cabery 231
+Elizabeth 694
+Eliza 25
+Mulberry Grove 520
+Rest Haven 502
+Forrest 1041
+Antioch 14622
+Rochelle 9446
+Sheridan 2431
+Sherrard 692
+Oneida 696
+Monee 5128
+Peotone 4150
+Beecher 4713
+Beecher City 428
+Palmer 216
+Princeville 1636
+Princeton 7832
+Spring Valley 5582
+LaSalle 9582
+Salem 7282
+New Salem 121
+West Salem 786
+Royal Lakes 167
+Channel Lake 1581
+Victoria 268
+Astoria 929
+Mitchell 1217
+Ritchie 190
+Ridge Farm 787
+Cambridge 2086
+Cambria 1505
+East Dubuque 1505
+Rosiclare 980
 Claremont 161
-Buckingham 244
-LaPlace 239
-Plattville 220
-Media 121
-Goofy Ridge 210
+Mount Clare 311
+Scales Mound 436
+Plymouth 436
+Monmouth 8902
+South Jacksonville 3302
+
+Jacksonville 17616
+Carlinville 5710
+Staunton 5054
+Troy 10960
+Lebanon 4691
+Scott AFB 3688
+Basco 80
+Mascoutah 8754
+Hebron 1368
+Thebes 208
+Chebanse 1044
+Carthage 2490
+Arthur 2231
+Preston Heights 2898
+Damiansville 564
+Martinsville 1118
+Creal Springs 505
+
+Springfield 114394
+Chatham 14377
+Latham 333
+Murrayville 567
+Grayville 1550
+Hollowayville 36
+Sleepy Hollow 3214
+Lee 313
+Melvin 416
+
+Belvidere 25339
+South Beloit 7989
+
+Loves Park 23397
+Candlewick Lake 5115
+
+Oak Lawn 58362
+
+Oak Forest 27478
+
+Park Forest 21687
+Steger 9584
+Crete 8465
+Garrett 122
+Allenville 132
+New Douglas 350
+Smithfield 191
+Northfield 5751
+Franklin 610
+
+Franklin Park 18467
+Franklin Grove 896
+Bethany 1255
+Albany 864
+Harmony 20
+Kingston (Adams County) 20
+Adams 75
+Adair 212
+Timberlane 906
+Percy 906
+Peru 9896
+Piper City 745
+Farmer City 1828
+
+Bloomington 78680
+Washington 16071
+El Paso 2756
+
+Normal 52736
+Carman 67
+Carmi 4865
+Clifton 1352
+Littleton 139
+Metcalf 139
+Calumet Park 7025
+
+Calumet City 36033
+
+Lansing 29076
+New Burnside 153
+Olmsted 285
+Prairietown 153
+Prairie Grove 1963
+Carbon Cliff 1846
+Winnebago 2940
+Winnetka 12744
+Kenney 311
+Vergennes 235
+Tennessee 101
+Marietta 101
+Marion 16855
+Rio 209
+Merrionette Park 1969
+Carlyle 3253
+Carlock 548
+Janesville 76
+Hainesville 3546
+Kinmundy 733
+Hettick 149
+Stickney 7110
+
+Berwyn 57250
+
+Cicero 85268
+Justice 12600
+Irvington 581
+
+Evergreen Park 19943
+Green Valley 630
+Hindsboro 275
+Campbell's Island 275
+Campus 149
+Camp Point 1121
+Albers 1121
+Gilberts 8366
+
+Libertyville 20579
+Green Oaks 4128
+Greenup 1365
+Greenwood 324
+Glenwood 8662
+
+Homewood 19463
+
+Chicago Heights 27480
+Sauk Village 9921
+Venetian Village 2761
+Davis Junction 2512
+Albion 1971
+Blue Mound 1133
+
+Blue Island 22558
+Riverdale 10663
+Riverside 9298
+Herscher 1521
+Time 26
+Limestone 1558
+Lima 148
+Lowpoint 148
+Long Point 204
+East Carondelet 390
+Como 528
+Radom 183
+Sadorus 402
+Rushville 3005
+Silvis 8003
+Berkeley 5338
+Oregon 3604
+
+Oswego 34585
+Swedona 109
+Wedron 140
+Eldred 149
+Andres 43
+Kaskaskia 21
+Westervelt 131
+Hamlet 21
+Hamel 929
+Lake Camelot 1798
+Cissna Park 817
+Aroma Park 664
+Findlay 664
+Broadlands 316
+Leaf River 432
+Lyndon 537
+East Lynn 90
+Lynnville 96
+Waterman 1433
+Waterloo 11013
+Sparta 4095
+Murphysboro 7093
+Harrisburg 8219
+
+Carbondale 21857
+Bondville 388
+Grandview 1405
+Long Creek 1261
+Cobden 1074
+Worden 1096
+Twin Grove 1524
+Pingree Grove 10365
+
+Huntley 27740
+
+Bartlett 41105
+
+Carol Stream 39854
+
+Streamwood 39577
+
+Hoffman Estates 52530
+
+Schaumburg 78723
+Hamburg 99
+Pontoosuc 99
+Pontoon Beach 5876
+Beach Park 14249
+Winthrop Harbor 6705
+Bishop Hill 113
+Mill Shoals 176
+Coalton 317
+Galt 193
+Versailles 446
+Danvers 1089
+Ina 1641
+Farina 540
+San Jose 479
+St. Joseph 3810
+Wonder Lake 3973
+Clear Lake 203
+Monroe Center 411
 Vermilion 203
-La Prairie 42
+Elliott 274
+Good Hope 363
+Hopedale 830
+Paw Paw 830
+Paderborn 35
+Adeline 78
+Du Bois 175
+Rockbridge 175
+Grand Ridge 515
+Apple Canyon Lake 574
+Eagle Lake 76
+Detroit 76
+Grand Detour 424
+Rantoul 12371
+Toulon 1193
+Hudson 1753
+Hutsonville 478
+Bingham 60
+Topeka 60
+
+DeKalb 40290
+Elburn 6175
+Auburn 4574
+Simpson 44
+Thompsonville 486
+Emden 467
+Camden 62
+St. Peter 322
+Lake Ka-Ho 194
+Huey 160
+Hume 325
+Brocton 273
+Browning 117
+Red Bud 3804
+Redmon 137
+Nachusa 137
+Arenzville 367
+Marengo 7568
+Clarendon Hills 8702
+Fairbury 3633
+Poplar Grove 5049
+Southern View 1596
+South Roxana 1891
+Roxana 1454
+Humboldt 361
+Amboy 2278
+Dixon 15274
+Dix 469
+Dixmoor 2973
+Olympia Fields 4718
+Westfield 536
+Compton 274
+Macomb 15051
+Beardstown 5951
+Maeystown 150
+Phillipstown 34
+Prophetstown 1946
+Kenilworth 2514
+Chatsworth 1185
+Henry 2320
+
+McHenry 27135
+Henning 210
+Hennepin 769
+Cuba 1184
+Curran 213
+Odin 935
+Annapolis 106
+Schram City 563
+Greenfield 1059
+White Heath 251
+Donovan 251
+Sandoval 1157
+Plum Valley 632
+Thayer 632
+Sawyerville 268
+Mossville 268
+Wapella 513
+Odell 1003
+Modesto 182
+Longview 112
+Oblong 1371
+Cedar Point 266
+Boody 232
+Dewey 105
+Jewett 196
+Grafton 626
+Bement 1484
+Zeigler 1484
+
+Glendale Heights 33176
+
+Glen Ellyn 28846
+
+Wheaton 53970
+
+Lisle 24223
+Lisbon 271
+West Union 271
+Pearl City 790
+Pearl 103
+Earlville 1613
+
+Quincy 39463
+Winchester 1574
+Marshall 3947
+Marseilles 4845
+Wyanet 886
+Bryant 168
+Hammond 508
+Richmond 2089
+
+Lake Zurich 19759
+Richview 238
+Ste. Marie 238
+Carrier Mills 1672
+Sidney 1208
+Gardner 1366
+Ashland 1218
+Pistakee Highlands 3237
+Round Lake Heights 2622
+Roanoke 1960
+Maroa 1577
+Tamaroa 544
+Wamac 985
+Gladstone 234
+Stonefort 224
+Danforth 594
+Northlake 12840
+
+Northbrook 35222
+Oak Brook 8163
+Oakbrook Terrace 2751
+Sun River Terrace 455
+Wood River 10464
+Belle Rive 309
+Baldwin 314
+Dwight 4032
+Diamond 2640
+Wilmington (Will County) 5664
+Manhattan 9385
+Burnham 4046
+Washburn 1032
+Lily Lake 1032
+Sunnyland 822
+Hooppole 180
+Hoopeston 4915
+Thomson 1610
+
+Homer Glen 24543
+
+Romeoville 39863
+Jerome 1692
+Edgington 391
+Oak Run 721
+Matherville 707
+Congerville 497
+Hillcrest 1224
+Coleta 167
+Toledo 1161
+St. Anne 1161
+St. Augustine 119
+Trivoli 385
+
+Moline 42985
+
+East Moline 21374
+Kewanee 12509
+Walnut 1311
+Walnut Hill 95
+St. David 522
+Davis 589
+Goofy Ridge 210
+Ridgefield 210
+Sheffield 821
+Effingham 12252
+Newton 2777
+Robinson 7150
+Robbins 4629
+Wauconda 14084
+Concord 150
+Coatsburg 150
+Menominee 211
+New Minden 175
+New Grand Chain 150
+Little York 283
+Fall Creek 31
+Mount Auburn 452
+Mound City 526
+Standard City 135
+Palmyra 605
+Paloma 114
+Omaha 209
+Potomac 689
+St. Rose 459
+La Rose 98
+La Moille 679
+Argyle 332
+Energy 974
+Seneca 2353
+Caseyville 4400
+Casey 2404
+Ramsey 911
+Gifford 911
+Stoy 108
+Joy 372
+Joslin 85
+Foosland 75
+Ophiem 123
+Alpha 675
+Crainville 1443
+Irving 373
+Lovington 1069
+Barrington Hills 4114
+Mackinaw 1879
+Lindenhurst 14406
+
+Elmhurst 45786
+
+Lombard 44476
+Barry 1303
+Bartelso 635
+Loraine 300
+Biggsville 300
+Waggoner 181
+Bone Gap 181
+Oconee 141
+Blairsville 243
+Opdyke 236
+Venedy 121
+Leonore 121
+Mulkeytown 162
+Middletown 329
+Iuka 512
+Bloomfield 32
+
+Bloomingdale 22382
+Itasca 9543
+Sciota 38
+Shabbona 863
+McNabb 275
+Virgil 289
+Virginia 1514
+Lynwood 9116
+De Pue 1633
+Ridgway 851
+Rentchler 45
+Dahlgren 504
+Serena 129
+Ashmore 637
+Thawville 215
+Okawville 1369
+New Boston 613
+
+New Lenox 27214
+
+Mokena 19887
+Rock Island Arsenal 182
+Ridott 124
+Kilbourne 265
+
+Gurnee 30706
+Gulf Port 42
+Golf 514
+Raleigh 284
+Capron 1395
+Smithville 157
+Smithton 4006
+Smithboro 154
+Fowler 154
+Butler 164
+Merritt 48
+Bellevue 1878
+Girard 1785
+Harvard 9469
+
+Charleston 17286
+Buckner 409
+Gorham 173
+Williamsfield 575
+Arrowsmith 276
+Carrollton 2485
+Roodhouse 1578
+Calhoun 164
+Alhambra 622
+Hampshire 7667
+Breese 4641
+Sibley 288
+De Soto 1407
+Kansas 670
+Saybrook 654
+North Utica 1323
+Wadsworth 3517
+Maple Park 1433
+
+Machesney Park 22950
+Payson 1025
+Forsyth 3734
+Prestbury 1657
+Somonauk 1786
+
+Montgomery 20262
+Sugar Grove 9278
+
+Sycamore 18577
+Campbell Hill 309
+West York 74
+Bentley 30
+Benson 412
+Kinsman 90
+Sims 166
+Tamms 430
+Marquette Heights 2541
+White Hall 2295
+Whiteash 279
+Ashton 967
+Dunfermline 262
+St. Libory 628
+
+Skokie 67824
+Patoka 525
+Plattville 220
+
+Urbana 38336
+
+Burbank 29439
+Assumption 1155
+Ruma 313
+Pesotum 550
+Exeter 87
+Dieterich 890
+Addieville 259
+Eddyville 99
+Sigel 329
+
+Alsip 19063
+Meredosia 826
+Mazon 979
+
+Rolling Meadows 24200
+
+Bourbonnais 18164
+Vienna 1343
+Hanna City 1253
+Gibson City 3475
+Swansea 14386
+Moweaqua 1764
+Fairfield 4883
+Virden 3231
+Phoenix 1708
+Benld 1464
+Ringwood 844
+Keithsburg 550
+Lenzburg 468
+Hopewell 421
+Ludlow 308
+Nebo 282
+Taylor Ridge 141
+Papineau 133

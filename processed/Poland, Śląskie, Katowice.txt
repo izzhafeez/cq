@@ -1,88 +1,88 @@
 
 
 Katowice 310764
-Wilkowice 6761
-Wojkowice 9233
-Radzionkow 17203
-
-Zabrze 181128
-Zebrzydowice 5368
-Zory 62094
-Chorzow 111692
-Pszow 14418
-Pszczyna 26066
-Pisarzowice 5190
-Marklowice 5365
-Pawlowice 9771
-Goczalkowice-Zdroj 6566
-Kozy 12271
-Zywiec 32449
-
-Sosnowiec 216420
 Swietochlowice 53150
+Myslowice 75446
+Ledziny 16426
+Bedzin 59068
 Czeladz 33745
-
-Bytom 176902
-Ornontowice 5733
+Siemianowice Slaskie 70170
+Miasteczko Slaskie 7524
+Piekary Slaskie 57917
+Tarnowskie Gory 60847
+Radzionkow 17203
+Radziechowy 5454
+Zywiec 32449
+Lodygowice 6989
+Wilkowice 6761
+Pyskowice 18770
 
 Gliwice 187474
+Knurow 39595
+Ornontowice 5733
 Orzesze 19539
+Czerwionka-Leszczyny 28626
 
 Rybnik 140924
-Mikolow 39505
-Myslowice 75446
-Bierun 19876
+Zory 62094
+Swierklany 7652
+Marklowice 5365
+Wodzislaw Slaski 49346
+Wisla 11335
+Ustron 15956
+Jastrzebie-Zdroj 92465
+Zebrzydowice 5368
+Pawlowice 9771
+Pszczyna 26066
+Goczalkowice-Zdroj 6566
+Czechowice-Dziedzice 35445
 
 Bielsko-Biala 174534
-Imielin 8322
-Lubliniec 24394
-
-Czestochowa 236796
-Poreba 8861
-Koniecpol 6345
-Klobuck 13250
+Bierun 19876
 Siewierz 5514
-Swierklany 7652
-Rydultowy 22070
-Kuznia Raciborska 5587
-Blachownia 9941
-Radziechowy 5454
-Istebna 5076
+Zawiercie 52091
+Poreba 8861
+Brenna 6148
+Jasienica 5088
 Jaworze 6786
-Ustron 15956
-Knurow 39595
-Dabrowa Gornicza 125905
-Laziska Gorne 22279
+Jaworzno 94732
+Imielin 8322
+Radlin 18105
+Rydultowy 22070
+Pszow 14418
+Bojszowy 6584
+Chorzow 111692
+Pisarzowice 5190
+Kozy 12271
 Lazy 7215
-Bedzin 59068
-Czechowice-Dziedzice 35445
-Wola 8657
-Wodzislaw Slaski 49346
-Chelm Slaski 6023
-Piekary Slaskie 57917
-Miasteczko Slaskie 7524
-Siemianowice Slaskie 70170
+Laziska Gorne 22279
 
 Ruda Slaska 142510
+Chelm Slaski 6023
+Wola 8657
+Mikolow 39505
 Tychy 129378
 Kalety 8676
-Ledziny 16426
-Jaworzno 94732
-Slawkow 7088
-Wisla 11335
-Jasienica 5088
-Szczyrk 5801
-Czerwionka-Leszczyny 28626
-Radlin 18105
-Jastrzebie-Zdroj 92465
-Tarnowskie Gory 60847
-Pyskowice 18770
-Raciborz 56289
-Zawiercie 52091
-Cieszyn 36248
-Brenna 6148
-Lodygowice 6989
-Czaniec 5680
+Lubliniec 24394
+Blachownia 9941
+
+Czestochowa 236796
+Klobuck 13250
 Myszkow 32817
+Slawkow 7088
+Dabrowa Gornicza 125905
+
+Zabrze 181128
+
+Bytom 176902
+Wojkowice 9233
+
+Sosnowiec 216420
+Czaniec 5680
+Koniecpol 6345
+Raciborz 56289
+Kuznia Raciborska 5587
+Cieszyn 36248
 Skoczow 14892
-Bojszowy 6584
+Szczyrk 5801
+Istebna 5076

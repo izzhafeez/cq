@@ -1,117 +1,117 @@
 
 
 Torshavn 13200
-Hestur 44
 
-Vestmanna 1284
-Gjanoyri 55
-Nordoyri 72
-Hvannasund 271
-Sydradalur 14
-Dalur 45
-Nordradalur 19
+Argir 1871
+Vikarbyrgi 2
+Nesvik 2
+Nes 233
+Saltnes 163
+Saltangara 799
+Runavik 503
+Oravik 36
+Frodba 158
 
-Kollafjordur 1049
-
-Fuglafjordur 1542
-Skipanes 61
-Glyvrar 425
+Tvoroyri 1230
+Oyri 140
 Oyrarbakki 104
-Hosvik 344
+Vatnsoyrar 41
+Gotueidi 41
+Eidi 634
+Haldarsvik 175
+Kirkja 31
+Gjanoyri 55
+Hellur 30
+Dalur 45
+Gasadalur 17
+Bour 67
+
+Sorvagur 1066
+
+Midvagur 1040
+Sandavagur 779
+
+Vagur 1569
+Akrar 13
+Lopra 124
+Skopun 464
+Hestur 44
+Velbastadur 148
+Hvalba 673
+Hvalvik 183
+Streymnes 189
+Strendur 854
+Toftir 854
+Nordtoftir 8
+Norddepil 170
+Nordoyri 72
 
 Klaksvik 4664
 Saksun 37
-Hellur 30
-Gasadalur 17
-Kvivik 372
-Oravik 36
-Strendur 854
-Streymnes 189
-Nes 233
 Sund 3
-Haraldssund 77
-Nordtoftir 8
-Toftir 854
-Anir 18
-Kunoy 70
-Arnafjordur 59
-Skalafjordur 105
-Oyri 140
-Svinair 30
-Nesvik 2
-Hov 149
-Vikarbyrgi 2
-
-Argir 1871
 Kaldbak 229
-Frodba 158
-Akrar 13
-Sumba 289
-Lambareidi 7
-Lambi 148
-Hattarvik 19
-Skarvanes 4
-Kirkjubour 81
-Bour 67
-Mykines 25
-Sandavagur 779
-Sandur 608
-Sandvik 116
-Skuvoy 53
-
-Tvoroyri 1230
-Hvalba 673
-Velbastadur 148
 
 Hoyvik 2777
-Nolsoy 283
-Vatnsoyrar 41
+Hosvik 344
+Selatrad 71
+Morskranes 45
+Skipanes 61
+Soldarfjordur 360
+Oyndarfjordur 206
+
+Fuglafjordur 1542
+Skalafjordur 105
+
+Kollafjordur 1049
+Signabour 157
 Leynar 114
-Leirvik 960
-Ytri Skali 621
-Skalavik 171
-Skopun 464
-Koltur 2
-
-Vagur 1569
-
-Midvagur 1040
+Stykkid 42
+Kvivik 372
 Skaelingur 11
-Nordskali 238
-Kirkja 31
 Funningur 66
 Ljosa 31
-Tjornuvik 66
-Rituvik 268
-Elduvik 23
-Hvitanes 104
-Hvalvik 183
-
-Sorvagur 1066
-Stykkid 42
-Signabour 157
-Morskranes 45
-Saltnes 163
-Runavik 503
-Soldarfjordur 360
-Saltangara 799
-Eidi 634
-Gotueidi 41
-Gotugjogv 46
-Gjogv 53
+Sandur 608
+Sandvik 116
 Husavik 82
-Husar 60
-Oyndarfjordur 206
+Skalavik 171
+Skarvanes 4
+Muli 4
+Skuvoy 53
+Gjogv 53
+Gotugjogv 46
 Nordragota 573
 Sydrugota 421
-Porkeri 396
-Depil 2
-Norddepil 170
-Haldarsvik 175
-Lopra 124
-Famjin 111
-Svinoy 95
-Selatrad 71
-Mikladalur 60
+Sydradalur 14
+Nordradalur 19
+Hattarvik 19
+Leirvik 960
+Ytri Skali 621
+Nordskali 238
+Hvitanes 104
 Trollanes 26
-Muli 4
+Mikladalur 60
+Husar 60
+Kunoy 70
+Svinoy 95
+Svinair 30
+Anir 18
+Haraldssund 77
+Hvannasund 271
+
+Vestmanna 1284
+Glyvrar 425
+Lambareidi 7
+Lambi 148
+Sumba 289
+Koltur 2
+Depil 2
+Arnafjordur 59
+Tjornuvik 66
+Elduvik 23
+Rituvik 268
+Porkeri 396
+Hov 149
+Famjin 111
+Mykines 25
+Nolsoy 283
+Kirkjubour 81

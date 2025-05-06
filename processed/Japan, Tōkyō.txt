@@ -1,46 +1,46 @@
 
 
 Tokyo 9733276
-Toshima 327
-Mikurajima 323
-Hachijo 7042
-Niijima 2441
-Miyake 2273
-Mitaka 195391
 Nishitokyo 207388
-Kiyose 76208
-Koganei 126074
-Ogasawara 2929
-Kozushima 1855
-Oshima 7102
-
-Machida 431079
-
-Hachioji 579355
-Hamura 54326
-Akiruno 79292
-Fussa 56414
-Tachikawa 183581
-Kokubunji 129242
-Okutama 4750
-Tama 146951
-Higashiyamato 83901
-Higashikurume 115271
-Kodaira 198739
-Higashimurayama 151815
-Musashimurayama 70829
-Akishima 113949
-
-Fuchu 262790
-Hino 190435
 Musashino 150149
+Musashimurayama 70829
+Tachikawa 183581
+Kunitachi 77130
+Hino 190435
+Hinode 16958
+Akiruno 79292
+Akishima 113949
+Fussa 56414
+Hamura 54326
+Mizuho 31765
 
 Chofu 242614
-Inagi 93151
-Hinode 16958
+
+Fuchu 262790
+Tama 146951
+Okutama 4750
 Hinohara 2003
 Ome 133535
-Mizuho 31765
 Komae 84772
-Kunitachi 77130
+Kozushima 1855
+Toshima 327
+Oshima 7102
+Niijima 2441
+Mikurajima 323
+Miyake 2273
+Higashiyamato 83901
+Higashimurayama 151815
+Higashikurume 115271
+Kiyose 76208
+Kodaira 198739
+Kokubunji 129242
+Koganei 126074
 Aogashima 169
+Hachijo 7042
+
+Hachioji 579355
+
+Machida 431079
+Inagi 93151
+Mitaka 195391
+Ogasawara 2929

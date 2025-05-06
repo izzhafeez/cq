@@ -1,129 +1,129 @@
 
 
 Tashkent 1978028
-Piskent 27865
-Zafar 24781
-Guliston 53373
-Do'stlik Shahri 16524
-Olot Shahri 11984
-G'ijduvon Shahri 41070
-Karakul' 22487
-Muborak 29180
-Hazorasp 17643
-Xo'jayli Shahri 50000
-
-Urganch 150110
-
-Namangan 432456
-Pop 22122
+Parkent 35973
+G'azalkent 24700
+Iskandar 27636
 
 Samarkand 319366
-Shahrisabz 57051
-Bulung'ur Shahri 26815
-Kitob 41938
-Manghit 30854
-Novyy Turtkul' 48908
-Denov 68994
-Shovot 26950
-Shofirkon Shahri 26527
-Ishtixon Shahri 13024
 Jomboy Shahri 14429
-Romitan Shahri 12927
-Zomin Shaharchasi 27077
-Sirdaryo 26816
-Galaosiyo Shahri 15620
-Gagarin Shahri 24856
-Yangiyer 32636
-Yangiobod 24900
-
-Chirchiq 167842
-Urtaowul 14047
-Chinoz 24553
-Chiroqchi 19356
-Uychi 29683
-Asaka 56736
-
-Fergana 164322
-Shohimardon 5100
-Marhamat 14646
-Marg'ilon 133490
-Quvasoy 32024
-Kosonsoy 43684
-Haqqulobod 26257
-Xo'jaobod 16889
-Kirguli 20459
-Urgut Shahri 47373
-Vobkent Shahri 16697
-Navoiy 129725
-Kogon Shahri 62620
-Qiziltepa 13558
-Qo'rg'ontepa 25861
-To'rqao'rg'on 27862
-Uchqurghon Shahri 33323
-Toshbuloq 28562
-Oqtosh 38307
-Dahbed 8044
-Iskandar 27636
-Bektemir 26380
-Suqoq 1000
-Salor 26494
-Qorovulbozor 8618
-G'uzor 25368
-Boysun 25050
-Beshkent 17010
-Beshariq 21984
-Sho'rchi 24900
-G'azalkent 24700
-Qibray 27750
-Tuytepa 20682
-Parkent 35973
-Kyzyldzhar 3000
-Angren 126957
-Olmaliq 121207
-Oltiariq 25543
-Quva 33167
-Xiva 55567
-Charxin 13791
+Juma Shahri 19920
+Payshamba Shahri 24772
+Ishtixon Shahri 13024
 Kattaqo'rg'on Shahri 59382
-Yangiqo'rg'on 28422
-Chust 64966
-Hamza 13470
-
-Qo'qon 187477
-Eskiarab 8781
-Yangirabot 25027
-Yangiyul 60000
-Bo'ka 19642
-Ohangaron 35516
-
-Andijon 318419
-Toshloq 26686
-Yangi Marg'ilon 14114
-
-Bukhara 247644
+Qo'rg'ontepa 25861
+Xo'jaobod 16889
+Haqqulobod 26257
+Bekobod 86259
+Dashtobod 19718
+Zomin Shaharchasi 27077
+Gagarin Shahri 24856
+Do'stlik Shahri 16524
+Xo'jayli Shahri 50000
+Kegeyli Shahar 14147
 
 Nukus 230006
-Nurota 29403
-Payshamba Shahri 24772
-Chelak 16727
+Chust 64966
+Pop 22122
+Paxtakor Shahri 21384
+Bulung'ur Shahri 26815
+Urgut Shahri 47373
+Olot Shahri 11984
+Kogon Shahri 62620
+Romitan Shahri 12927
+Shofirkon Shahri 26527
+G'ijduvon Shahri 41070
+Vobkent Shahri 16697
+Galaosiyo Shahri 15620
+
+Bukhara 247644
+Karakul' 22487
+Novyy Turtkul' 48908
+Hazorasp 17643
+G'uzor 25368
+
+Qarshi 222898
+Chiroqchi 19356
+
+Chirchiq 167842
+Qibray 27750
+Salor 26494
+Asaka 56736
+
+Andijon 318419
+Marhamat 14646
+
+Namangan 432456
+Toshbuloq 28562
+Chortoq 49844
+Uychi 29683
+Uchqurghon Shahri 33323
+Yangiqo'rg'on 28422
+To'rqao'rg'on 27862
+Sho'rchi 24900
+Yangiobod 24900
+Yangiyul 60000
+Yangiyer 32636
+Guliston 53373
+Kirguli 20459
+Yangi Marg'ilon 14114
+Marg'ilon 133490
+Toshloq 26686
+Oqtosh 38307
+Yangirabot 25027
+Navoiy 129725
+Shovot 26950
+Qo'shko'pir 16948
+
+Qo'qon 187477
+Yaypan 20332
+Beshariq 21984
+Oltiariq 25543
+Eskiarab 8781
+Hamza 13470
+Zafar 24781
+Chinoz 24553
+Sirdaryo 26816
+Shohimardon 5100
+Quvasoy 32024
+Quva 33167
+Xiva 55567
+
+Urganch 150110
 Gurlan 27506
 Beruniy 50929
 Nishon Tumani 10558
-Juma Shahri 19920
-
-Qarshi 222898
+Beshkent 17010
 Koson 59681
-
-Jizzax 152642
-Dashtobod 19718
-Bekobod 86259
+Kosonsoy 43684
+Boysun 25050
+Denov 68994
 
 Tirmiz 140385
-Oltinko'l 59122
-Qo'shko'pir 16948
-Chortoq 49844
-Paxtakor Shahri 21384
-Yaypan 20332
-Kegeyli Shahar 14147
+Bektemir 26380
+Tuytepa 20682
+Qiziltepa 13558
+
+Jizzax 152642
+Chelak 16727
+Dahbed 8044
+Charxin 13791
+Kyzyldzhar 3000
+Suqoq 1000
 Muynoq 13000
+Oltinko'l 59122
+Manghit 30854
+Angren 126957
+Ohangaron 35516
+Olmaliq 121207
+Piskent 27865
+Bo'ka 19642
+Urtaowul 14047
+Nurota 29403
+
+Fergana 164322
 Gazli 11446
+Shahrisabz 57051
+Kitob 41938
+Muborak 29180
+Qorovulbozor 8618

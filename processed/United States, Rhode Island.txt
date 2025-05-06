@@ -1,70 +1,70 @@
 
 
 Providence 190934
-Barrington 17153
-
-Cranston 82934
-Kingston 7825
-Newport 25163
-Portsmouth 17871
-South Kingstown 31931
-North Kingstown 27732
-Quonochontaug 422
-Hopkinton 8398
-West Greenwich 6528
-Greene 914
-Valley Falls 12094
-Hope Valley 1870
-Misquamicut 434
-Smithfield 22118
-Wakefield-Peacedale 8925
-North Smithfield 12588
-Burrillville 16158
-Harrisville 1745
-Melville 1609
-Greenville 9061
-Glocester 9974
+North Providence 34114
 Johnston 29568
 
-Pawtucket 75604
-Cumberland Hill 8140
-Watch Hill 212
-Bradford 1457
-Narragansett Pier 3308
-Richmond 8020
-Harmony 1036
-Charlestown 7997
-Middletown 17075
-Tiverton 7809
-Little Compton 3616
-Jamestown 5559
-East Greenwich 14312
-Scituate 10384
-Foster Center 333
-Westerly 18423
-New Shoreham 1410
-Newport East 12337
-Narragansett 14532
+Cranston 82934
 
 Warwick 82823
-Warren 11147
-
-East Providence 47139
-Central Falls 22583
-Coventry 35688
 West Warwick 31012
+East Greenwich 14312
+West Greenwich 6528
+Coventry 35688
+Central Falls 22583
+
+Pawtucket 75604
 
 Woonsocket 43240
-North Providence 34114
-Lincoln 22529
-Carolina 924
-Ashaway 1501
-Clayville 312
+Cumberland Hill 8140
 
 Cumberland 36405
+Westerly 18423
+Bradford 1457
 Bristol 22493
-Exeter 6460
-Chepachet 1704
-Wyoming 415
-Pascoag 4641
+Warren 11147
+Barrington 17153
+Kingston 7825
+South Kingstown 31931
+Wakefield-Peacedale 8925
+Smithfield 22118
+North Smithfield 12588
+North Kingstown 27732
+Valley Falls 12094
 Weekapaug 467
+Quonochontaug 422
+Foster Center 333
+Chepachet 1704
+Watch Hill 212
+Harmony 1036
+Richmond 8020
+Hopkinton 8398
+Hope Valley 1870
+Clayville 312
+Harrisville 1745
+Burrillville 16158
+Greenville 9061
+Greene 914
+Exeter 6460
+Glocester 9974
+Pascoag 4641
+Scituate 10384
+Misquamicut 434
+Carolina 924
+Lincoln 22529
+Little Compton 3616
+Newport East 12337
+Newport 25163
+Jamestown 5559
+Middletown 17075
+Melville 1609
+Portsmouth 17871
+Tiverton 7809
+
+East Providence 47139
+Narragansett Pier 3308
+Narragansett 14532
+Charlestown 7997
+Ashaway 1501
+New Shoreham 1410
+Wyoming 415

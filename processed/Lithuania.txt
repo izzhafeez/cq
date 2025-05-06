@@ -1,154 +1,154 @@
 
 
 Vilnius 542366
-Vilkija 2289
-Lazdijai 4975
-Kazlu Ruda 7247
-Silute 21760
-
-Klaipeda 192307
-
-Kedainiai 31980
-Kulautuva 1401
-Seduva 3321
-Seda 1224
-Varniai 1227
-Tytuveneliai 2775
-Obeliai 1247
-Dusetos 833
-Leliunai 483
-Ignalina 6421
-Moletai 7243
-Sudeikiai 407
-Smiltyne 50
-Panemune 313
-
-Panevezys 117395
-Pandelys 973
-Anyksciai 11958
-Ramygala 1637
-Ariogala 3653
-Palanga 17796
-Skuodas 7726
-Vieksniai 2212
-Plunge 23381
-Radailiai 53
-Neringa 2380
-Naustubriai 20
-Vepriai 549
-Priekule 1710
-Rietavas 3737
-Uzventis 827
-Sventoji 2000
-Baltoji Voke 1071
-Naujoji Akmene 11922
-
-Telsiai 30098
-Salantai 1829
-Turmantas 282
-Venta 3270
-
-Siauliai 130587
-Zagare 2201
-Garliava 13809
-Ezerelis 2051
-Radviliskis 20339
-Rokiskis 16255
-Vabalninkas 1177
-Linksmakalnis 817
-Martinava 65
-Kybartai 6355
-Gelgaudiskis 1839
-Vilkaviskis 13011
-Jurbarkas 13102
-Kavarskas 755
-Kupiskis 8263
-Joniskis 11113
-Tyruliai 372
-Linkuva 1719
-Birzai 14911
-Pakruojis 5964
-Pabirze 490
-Pabrade 6375
-Dubravai 122
-Noreikiskes 926
-Lavoriskes 585
-Rudiskes 2616
-Varena 10304
-Kena 400
-Trakai 5530
 Skaidiskes 4457
-Salcininkai 6891
-Druskininkai 17791
-Prienai 11352
-Ziegzdriai 291
-Gargzdai 16433
-Juodkrante 720
-Zemaiciu Naumiestis 1284
-Naujamiestis 770
-Kudirkos Naumiestis 1961
-Kalvarija 4875
-Lentvaris 11588
-Kernave 272
+Lavoriskes 585
+Vaivadiskes 71
+Rudiskes 2616
+Senieji Trakai 1501
+Trakai 5530
+Linksmakalnis 817
+Garliava 13809
+Martinava 65
+Karmelava 1395
 
 Jonava 34993
+Joniskis 11113
+Radviliskis 20339
+Tyruliai 372
 
-Kaunas 374643
+Siauliai 130587
+Tytuveneliai 2775
+Svencioneliai 6790
+Svencionys 5538
+Kulionys 47
+Moletai 7243
+Leliunai 483
 Troskunai 480
+Kupiskis 8263
+Rokiskis 16255
+Juodupe 1989
+Dusetos 833
+Sudeikiai 407
 
 Utena 33240
+Silute 21760
+Rusne 2484
+Panemune 313
+Nemencine 6062
+Akmene 3026
+Naujoji Akmene 11922
+Venta 3270
+Uzventis 827
+Varniai 1227
+
+Kedainiai 31980
+Dotnuva 783
+Seduva 3321
+Linkuva 1719
+Smalininkai 599
+Jurbarkas 13102
+Virbalis 1281
+Vilkaviskis 13011
+Kybartai 6355
+Kudirkos Naumiestis 1961
+Gelgaudiskis 1839
+Sakiai 6613
+
+Mazeikiai 41309
+Vieksniai 2212
+Vievis 5269
+Elektrenai 13721
+Varena 10304
+Daugai 1279
+Bugai 1976
+
+Taurage 27662
+Pagegiai 2363
+
+Visaginas 28348
+Ignalina 6421
 Dukstas 1021
-Mastaiciai 1339
-Gervenupis 200
-Karmelava 1395
+Turmantas 282
+Salantai 1829
+Palanga 17796
+Kretinga 22236
+Neringa 2380
+Nida 1650
+Juodkrante 720
+Priekule 1710
+Prienai 11352
+Birstonas 3181
+Jieznas 1390
+Ziezmariai 4060
+Ziegzdriai 291
 Samylai 198
 Ramuciai 1583
+Mastaiciai 1339
+Zemaiciu Naumiestis 1284
+Naustubriai 20
+Dubravai 122
+Gervenupis 200
+Sventoji 2000
+Baltoji Voke 1071
+Lentvaris 11588
+Aukstadvaris 1031
+Kalvarija 4875
+
+Marijampole 47613
+Lazdijai 4975
+Veisiejai 1654
+Eisiskes 3809
+Salcininkai 6891
+Druskininkai 17791
 
 Alytus 70747
 Pasvalys 8510
-
-Marijampole 47613
-Virbalis 1281
-Smalininkai 599
-Raseiniai 12523
-Dotnuva 783
-
-Mazeikiai 41309
-Kursenai 13914
-Kelme 10626
-Stelmuze 50
-Juodupe 1989
+Vabalninkas 1177
+Birzai 14911
+Pabirze 490
+Pabrade 6375
+Radailiai 53
+Gargzdai 16433
+Zagare 2201
 Zarasai 8095
+Stelmuze 50
+Kelme 10626
+Raseiniai 12523
+Ariogala 3653
+Ramygala 1637
+Naujamiestis 770
 
-Visaginas 28348
-Svencioneliai 6790
-Nemencine 6062
-Senieji Trakai 1501
-Veisiejai 1654
-Jieznas 1390
-Daugai 1279
-Bugai 1976
+Panevezys 117395
+Pandelys 973
+Obeliai 1247
+Plateliai 1100
+
+Telsiai 30098
+Seda 1224
+
+Klaipeda 192307
+
+Kaunas 374643
+Noreikiskes 926
+Kulautuva 1401
+Ezerelis 2051
+Kazlu Ruda 7247
+Plunge 23381
+Rietavas 3737
 Silale 6026
-Pagegiai 2363
-Rusne 2484
-Nida 1650
-
-Taurage 27662
+Simnas 1864
+Kena 400
+Kursenai 13914
 
 Ukmerge 25886
-Akmene 3026
-Kretinga 22236
-Plateliai 1100
-Elektrenai 13721
+Vepriai 549
 Sirvintos 7321
-Ziezmariai 4060
-Aukstadvaris 1031
+Kernave 272
 Kaisiadorys 9867
-Vievis 5269
-Vaivadiskes 71
-Sakiai 6613
-Svencionys 5538
-Kulionys 47
-Eisiskes 3809
-Birstonas 3181
-Simnas 1864
+Anyksciai 11958
+Kavarskas 755
+Skuodas 7726
+Pakruojis 5964
+Vilkija 2289
+Smiltyne 50

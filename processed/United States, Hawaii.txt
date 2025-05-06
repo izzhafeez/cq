@@ -1,182 +1,182 @@
 
 
 Honolulu 350964
-Honokaa 2699
-Ewa Villages 7825
-Ko Olina 1999
-Ainaloa 3609
-Kamaili 157
-Hanamaulu 4994
-Halaula 773
-Kapalua 495
-Kaanapali 1161
-Kaumakani 672
-Makawao 7297
-Fern Forest 1150
-West Loch Estate 5523
-Nanawale Estates 1652
-Royal Hawaiian Estates 790
-Hawaiian Acres 3426
-Waipio Acres 5531
-Waialua 4062
-Maili 11535
-Maunawili 2026
-Ualapu'e 393
-Waikapu 3437
-Kapaa 11652
-Holualoa 2994
-Kula 6942
-Nanakuli 12195
-Ewa Beach 16415
-Halawa 15016
-
-Mililani Mauka 21075
-Kahaluu 5241
-Pahala 1403
-Manele 7
-Waikane 728
-Iroquois Point 4549
-Hawaiian Paradise Park 14957
-Lahaina 12702
-Mahinahina 910
-Waiohinu 198
-Wainaku 1147
-Honomu 452
-Honalo 996
-Waimanalo 6057
-Waipio 12082
-
-Wahiawa 18658
-Lawai 2578
-Puako 267
-Pupukea 5130
-Ahuimanu 8969
-Kahuku 2852
-
-Waipahu 43485
-
-Kapolei 21411
-Waikele 7509
-
-Ewa Gentry 25707
-Tiki Gardens 555
-
-Kihei 21423
-Kilauea 3014
-Schofield Barracks 14904
-East Kapolei 5299
-
-Pearl City 45295
-Pepeekeo 1826
-Kekaha 3715
-Kealakekua 2307
-Makena 196
-Kaunakakai 3419
-Makaha 9916
-Makaha Valley 198
-Pakala Village 286
-Whitmore Village 4887
-Fern Acres 1965
-Keokea 2199
-Koloa 2231
-Hawi 2268
 
 East Honolulu 50922
-Hickam Housing 7581
+Waimanalo 6057
+Ahuimanu 8969
+Kahaluu 5241
 Kahaluu-Keauhou 4778
-Punaluu 1374
-Lanai City 3332
-Maalaea 310
-Naalehu 811
-Waikoloa Village 7104
-Helemano 2549
-Wheeler AFB 2412
-Haleiwa 4941
-Hanalei 444
-Keaau 1195
-Paauilo 618
-
-Hilo 44186
-Puhi 3380
-Aiea 10408
-Seaview 512
-Hawaiian Ocean View 4864
-Ocean Pointe 14965
-Poipu 1299
-Launiupoko 688
-Maunaloa 435
-Mauna Loa Estates 1057
-Leilani Estates 1139
-Orchidlands Estates 3165
-Waihee-Waiehu 9234
-Kaneohe Station 9483
-Hauula 4018
-Heeia 5001
-Mokuleia 1816
-Omao 1346
-Kalaoa 12590
-Kalaheo 4996
-Kalapana 167
-Laupahoehoe 1147
-Pahoa 924
-Anahola 2243
-Eleele 2515
-Paia 2470
-Mountain View 4215
-Princeville 2157
-Eden Roc 1386
-Kukuihaele 281
-
-Wailuku 17697
-Wailua 2359
-Haliimaile 1074
-Kaiminani 12590
-Waimanalo Beach 4823
-Hawaiian Beaches 3976
-Kaaawa 1421
-Honaunau-Napoopoo 2416
-Kualapuu 2110
-Wainiha 419
-Black Sands 416
-Olinda 1188
-Kalaeloa 2364
-Kalihiwai 361
-Lihue 8004
-Waianae 13614
-Hana 1526
-Haena 550
-Papaikou 1166
-Kapaau 2008
-Kaloko 1314
-Discovery Harbour 1171
-Kurtistown 2515
-Olowalu 100
-Kawela Bay 325
-Haiku-Pauwela 8595
-
-Kailua 40514
 
 Kailua-Kona 19713
 
+Wailuku 17697
+
+Kailua 40514
+
+Kaneohe 37430
+Kaneohe Station 9483
+Waikane 728
+Waikapu 3437
+Haleiwa 4941
+Kalihiwai 361
+Lihue 8004
+Kilauea 3014
+
+Makakilo 19877
+
+Kapolei 21411
+East Kapolei 5299
+West Loch Estate 5523
+Mauna Loa Estates 1057
+Makena 196
+Wheeler AFB 2412
+Hawaiian Acres 3426
+Hawaiian Ocean View 4864
+Punaluu 1374
+Kapalua 495
+Kapaa 11652
+Kapaau 2008
+Paauilo 618
+Discovery Harbour 1171
+Pahala 1403
+Halawa 15016
+Lawai 2578
+Lanai City 3332
+Wainiha 419
+Honaunau-Napoopoo 2416
+Honalo 996
+Maunaloa 435
+Ainaloa 3609
+Mahinahina 910
+Lahaina 12702
+Napili-Honokowai 7042
+Honokaa 2699
+Holualoa 2994
+Koloa 2231
+Waikoloa Village 7104
+Wailea 6027
+Wailua 2359
+Waialua 4062
+Waianae 13614
+Nanakuli 12195
+Maili 11535
+Kamaili 157
+Haliimaile 1074
+Aiea 10408
+Waimanalo Beach 4823
+Kaloko 1314
+Launiupoko 688
+Halaula 773
+Waiohinu 198
+Makaha Valley 198
+Makaha 9916
+Makawao 7297
+Fern Acres 1965
+Fern Forest 1150
+Kaunakakai 3419
+Kekaha 3715
+Kealakekua 2307
+Manele 7
+Eleele 2515
+Kurtistown 2515
+Wainaku 1147
+Laupahoehoe 1147
+Anahola 2243
+Kalapana 167
+Kaanapali 1161
+Kaaawa 1421
+Paukaa 434
+Ualapu'e 393
+Kualapuu 2110
+Pukalani 8299
+
+Mililani Mauka 21075
+
+Mililani Town 28121
+Waipio Acres 5531
+Waipio 12082
+
+Waipahu 43485
+Waikele 7509
+Royal Kunia 14896
+Royal Hawaiian Estates 790
+Hawaiian Beaches 3976
+Pepeekeo 1826
+Hanapepe 2678
+Hanalei 444
+Hana 1526
+Maunawili 2026
+Mountain View 4215
+Seaview 512
+Paia 2470
+Papaikou 1166
+Kukuihaele 281
+Kahuku 2852
+
 Kahului 28219
+Waihee-Waiehu 9234
+
+Kihei 21423
+Heeia 5001
+Mokuleia 1816
+Kula 6942
+Nanawale Estates 1652
+Leilani Estates 1139
+Olinda 1188
+Ko Olina 1999
+Hawi 2268
+Keokea 2199
+Keaau 1195
+Pahoa 924
+Princeville 2157
+Ewa Villages 7825
+Whitmore Village 4887
+Omao 1346
+Naalehu 811
+Maalaea 310
+Kalaeloa 2364
+Kalaoa 12590
+Poipu 1299
+Iroquois Point 4549
+Ocean Pointe 14965
+Ewa Beach 16415
+
+Ewa Gentry 25707
+Tiki Gardens 555
+Eden Roc 1386
+Haena 550
+Kawela Bay 325
+Haiku-Pauwela 8595
 Waimea (Hawaii County) 9904
 Waimea (Kauai County) 2057
 Wailua Homesteads 5863
-
-Kaneohe 37430
-
-Mililani Town 28121
-Royal Kunia 14896
-
-Makakilo 19877
+Hanamaulu 4994
+Kalaheo 4996
+Pakala Village 286
+Volcano Golf Course 363
+Olowalu 100
 Waimalu 13817
-Pukalani 8299
-Napili-Honokowai 7042
-Wailea 6027
+Honomu 452
+Kaiminani 12590
+Puhi 3380
+Pupukea 5130
 Laie 5963
+Hauula 4018
+
+Wahiawa 18658
+Schofield Barracks 14904
+Black Sands 416
+Orchidlands Estates 3165
+Hawaiian Paradise Park 14957
+
+Hilo 44186
+
+Pearl City 45295
+Hickam Housing 7581
 Captain Cook 3253
 Volcano 736
-Volcano Golf Course 363
-Hanapepe 2678
-Paukaa 434
+Helemano 2549
 Waikoloa Beach Resort 757
+Kaumakani 672
+Puako 267

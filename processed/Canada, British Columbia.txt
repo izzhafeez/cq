@@ -1,172 +1,172 @@
 
 
 Vancouver 631486
-Pouce Coupe 792
-Lake Cowichan 3226
-Parksville 12514
-Sparwood 3784
-Clearwater 2324
-Vernon 40116
-Silverton 195
-Cranbrook 20047
-Trail 7709
-Oliver 4928
-Campbell River 32588
-Sechelt 10216
-Ladysmith 8537
-Central Saanich 16814
-Kent 6067
+West Vancouver 42473
 
-Surrey 517887
-Anmore 2210
-Salmo 1141
-Port Clements 282
-Port Alice 664
-Canal Flats 668
-Duncan 4944
+North Vancouver 85935
+
+Burnaby 232755
+New Westminster 70996
+Stewart 401
+Port Edward 467
+Port Hardy 4132
+Port McNeill 2337
+Port Moody 33551
+Port Coquitlam 58612
+
+Coquitlam 139284
+Esquimalt 17655
+Kitimat 8131
+Terrace 11643
+Belcarra 643
+Slocan 272
+Kaslo 968
+Nelson 10572
+Castlegar 8039
+Fruitvale 1920
+Valemount 1021
+Lake Country 12922
+Lake Cowichan 3226
+North Cowichan 29676
+North Saanich 11249
+Central Saanich 16814
 
 Saanich 114148
-Granisle 303
-Bowen Island 3680
+
+Victoria 85792
+Penticton 33761
+Summerland 11615
 Peachland 5428
-Rossland 3729
-Osoyoos 5085
-Montrose 996
+West Kelowna 32655
+
+Kelowna 127380
+
+Nanaimo 90504
+Canal Flats 668
+Grand Forks 4049
+Granisle 303
+Houston 2993
+Creston 5351
+Cranbrook 20047
+Sooke 13001
+Colwood 16859
+Sparwood 3784
+Kimberley 7425
+Cumberland 3753
+Courtenay 25599
+Comox 14028
+Salmo 1141
+Sayward 311
+Midway 649
+Hazelton 313
+New Hazelton 580
+Tahsis 248
+Mission 38833
+Squamish 19512
+Bowen Island 3680
+Gibsons 4605
+Sechelt 10216
+
+Delta 102238
 
 Richmond 198309
-Salmon Arm 17706
-Barriere 1713
-Belcarra 643
-Hope 6181
-Houston 2993
-Quesnel 9879
-Chase 2286
-Lake Country 12922
-Valemount 1021
-McBride 616
-Telkwa 1327
-Lions Bay 1334
-Mission 38833
-Tahsis 248
-New Denver 473
-Tumbler Ridge 1987
-Cumberland 3753
-Pemberton 2574
-Kimberley 7425
+Montrose 996
+Rossland 3729
+Warfield 1680
+Trail 7709
+Armstrong 5114
+Coldstream 10648
+Golden 3708
+Enderby 2964
+Lumby 1833
+Spallumcheen 5106
+Vernon 40116
+Fernie 5249
+Port Alice 664
+Port Alberni 17678
+Qualicum Beach 8943
+Parksville 12514
+Lantzville 3605
 
 Langley 117285
 
-Burnaby 232755
-
-Nanaimo 90504
-
-Kelowna 127380
-Logan Lake 1993
-Williams Lake 10753
-Merritt 7139
-Terrace 11643
-Port Hardy 4132
-Qualicum Beach 8943
-Courtenay 25599
-
-North Vancouver 85935
-North Cowichan 29676
-Colwood 16859
-Sidney 11672
-Midway 649
-Lytton 249
-Hazelton 313
-
-Delta 102238
-New Hazelton 580
-Hudson's Hope 1015
-Nelson 10572
-Wells 217
-Powell River 13157
-Gibsons 4605
-Dawson Creek 12178
-Smithers 5401
-Chetwynd 2503
-Spallumcheen 5106
-Cache Creek 963
-Nakusp 1605
-Sicamous 2429
-Coldstream 10648
-Gold River 1212
-Golden 3708
-Armstrong 5114
-West Kelowna 32655
-New Westminster 70996
-West Vancouver 42473
-
-Coquitlam 139284
-Fruitvale 1920
-Alert Bay 489
-Port Alberni 17678
-Fernie 5249
-Clinton 641
-Creston 5351
-Revelstoke 7547
-Sooke 13001
-North Saanich 11249
-Oak Bay 18094
-Metchosin 4708
-Princeton 2828
-
-Prince George 74003
+Surrey 517887
+White Rock 19952
 
 Maple Ridge 82256
-
-Abbotsford 141397
-Grand Forks 4049
-Langford 35342
-Elkford 2499
+Tumbler Ridge 1987
+McBride 616
 Fraser Lake 988
-Burns Lake 1779
+Logan Lake 1993
+Nakusp 1605
+New Denver 473
+Invermere 3391
+Radium Hot Springs 776
+Harrison Hot Springs 1468
+Kent 6067
+Mackenzie 3714
+Chetwynd 2503
+Taylor 1469
+Fort St. John 20155
 Fort St. James 1598
-Port Coquitlam 58612
-Pitt Meadows 18573
-Port McNeill 2337
-Port Moody 33551
+Clinton 641
+Princeton 2828
+Prince Rupert 12220
+
+Prince George 74003
+Vanderhoof 4439
+Quesnel 9879
+Williams Lake 10753
+Lillooet 2275
 
 Kamloops 90280
-Kaslo 968
-Warfield 1680
-Port Edward 467
-Mackenzie 3714
+Chase 2286
+Salmon Arm 17706
+Sicamous 2429
+Campbell River 32588
+Powell River 13157
+Gold River 1212
+Tofino 1932
+Ashcroft 1558
+Lions Bay 1334
+Alert Bay 489
+Oak Bay 18094
+Barriere 1713
+Merritt 7139
+Pitt Meadows 18573
+Ladysmith 8537
+Smithers 5401
+Cache Creek 963
+Dawson Creek 12178
+Greenwood 665
+Osoyoos 5085
+Keremeos 1502
+Oliver 4928
+Silverton 195
+Lytton 249
+Zeballos 107
+Wells 217
+Revelstoke 7547
+
+Abbotsford 141397
+Elkford 2499
+Telkwa 1327
+Ucluelet 1717
+Clearwater 2324
+Port Clements 282
 
 Chilliwack 83788
-Lillooet 2275
-Zeballos 107
-Sayward 311
-Stewart 401
-Vanderhoof 4439
-Kitimat 8131
-Penticton 33761
-Greenwood 665
-Summerland 11615
-Keremeos 1502
-Invermere 3391
-Castlegar 8039
 Whistler 11854
-White Rock 19952
-View Royal 10408
+Pemberton 2574
+Anmore 2210
+Langford 35342
 Highlands 2225
-
-Victoria 85792
-Esquimalt 17655
-Squamish 19512
-Fort St. John 20155
-Taylor 1469
-Comox 14028
-Lantzville 3605
-Prince Rupert 12220
-Enderby 2964
-Lumby 1833
-Tofino 1932
-Ucluelet 1717
-Ashcroft 1558
-Harrison Hot Springs 1468
-Radium Hot Springs 776
+View Royal 10408
+Metchosin 4708
+Hope 6181
+Hudson's Hope 1015
 Masset 793
-Slocan 272
+Pouce Coupe 792
+Sidney 11672
+Duncan 4944
+Burns Lake 1779

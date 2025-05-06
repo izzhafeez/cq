@@ -1,37 +1,37 @@
 
 
 Kochi 326545
-Ochi 5187
-Susaki 20590
-Aki 16243
-Umaji 745
-Tano 2498
-Ino 21374
-Sakawa 12323
-Okawa 366
-Niyodogawa 4827
-Kitagawa 1146
-Yasuda 2370
-Hidaka 4812
-Tosa 25732
-Nakatosa 6002
-Tsuno 5291
-Otsuki 4434
-Kuroshio 10262
-Muroto 11742
-Otoyo 3252
-
-Konan 32207
-Geisei 3694
 
 Nankoku 46664
+
+Konan 32207
 Kami 26513
 Motoyama 3261
+Otoyo 3252
+Toyo 2194
+Kitagawa 1146
+Niyodogawa 4827
+Sakawa 12323
+Susaki 20590
+Nakatosa 6002
+Tosa 25732
+Ino 21374
+Tano 2498
+Yasuda 2370
+Hidaka 4812
+Aki 16243
+Geisei 3694
+Yusuhara 3307
+Tsuno 5291
+Otsuki 4434
+Sukumo 19033
+Umaji 745
 
 Shimanto 32694
+Kuroshio 10262
 Tosashimizu 12388
-Sukumo 19033
 Mihara 1437
-Yusuhara 3307
 Nahari 3034
-Toyo 2194
+Muroto 11742
+Ochi 5187
+Okawa 366

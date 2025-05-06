@@ -1,26 +1,26 @@
 
 
 Hiroshima 1200754
-Saka 12582
+Kitahiroshima 17763
 Akitakata 26448
+Saka 12582
+Kaita 29636
 Fuchu 51155
 
 Fukuyama 460930
-Sera 15125
-Takehara 23993
-Onomichi 131170
-Hatsukaichi 114173
-Otake 26319
-Etajima 21930
-Kaita 29636
 Kumano 22834
 
 Kure 214592
-Higashihiroshima 196608
-Mihara 90573
+Etajima 21930
 Osakikamijima 7158
-Miyoshi 50681
-Kitahiroshima 17763
-Akiota 5740
-Shobara 33633
+Takehara 23993
+Mihara 90573
+Sera 15125
 Jinsekikogen 8250
+Shobara 33633
+Miyoshi 50681
+Higashihiroshima 196608
+Onomichi 131170
+Hatsukaichi 114173
+Otake 26319
+Akiota 5740

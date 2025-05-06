@@ -1,129 +1,129 @@
 
 
 Balashikha 215494
-Malakhovka 24004
+Reutov 87314
+Tomilino 30605
+Klin 80585
+Vysokovsk 10635
 Zhukovskiy 104736
-Lytkarino 55237
-Selyatino 12629
-Tuchkovo 17381
-Istra 35111
-Ostrovtsy 5515
-Stromyn' 6593
-Fryazino 55369
-Staraya Kupavna 21811
-Pavlovskaya Sloboda 6327
+Skoropuskovskiy 6685
+Sergiev Posad 111234
+Pavlovskiy Posad 63711
+Drezna 11820
+Likino-Dulevo 31321
 
-Khimki 207425
+Orekhovo-Zuevo 120670
+Chekhov 60720
 
-Odintsovo 138930
-Novosin'kovo 8073
-Lobnya 74252
-Nakhabino 36456
-Dolgoprudnyy 90956
-Serebryanye Prudy 9705
-Fryanovo 11243
-Zagoryanskiy 7997
-Il'inskiy 10279
-Dzerzhinskiy 47163
-Udel'naya 15021
-Shakhovskaya 10728
-Solnechnogorsk 52944
-Dedovsk 29108
-Dedenevo 6319
-Mikhnevo 11267
+Serpukhov 127041
+Obukhovo 9630
+Monino 22821
+Losino-Petrovskiy 22550
+Sverdlovskiy 6763
+L'vovskiy 10855
 Klimovsk 56186
-Aprelevka 18349
+
+Podol'sk 187961
+Domodedovo 96145
+Demikhovo 5563
+Mikhnevo 11267
+Dedenevo 6319
+Dedovsk 29108
+Nakhabino 36456
+Shakhovskaya 10728
+Malakhovka 24004
+Kraskovo 21250
+Bykovo 10391
+Udel'naya 15021
+Kotel'niki 32338
+
+Lyubertsy 172525
+Ostrovtsy 5515
+Oktyabr'skiy 13165
+Il'inskiy 10279
+Pravdinskiy 10587
+Zagoryanskiy 7997
+Fryazino 55369
+Shchelkovo 110411
+
+Mytishchi 179834
 
 Korolev 183402
+Aprelevka 18349
+Krasnoznamensk 36103
+Krasnozavodsk 13392
+Krasnoarmeysk 26294
 Lesnoy 8569
+Lesnoy Gorodok 7231
 
 Krasnogorsk 116896
 
-Mytishchi 179834
-Pushchino 20332
-Pushkino 102874
-Sverdlovskiy 6763
-Chernogolovka 20983
-
-Elektrostal' 155196
-Losino-Petrovskiy 22550
-
-Zheleznodorozhnyy 131257
-Bykovo 10391
-Tomilino 30605
-Naro-Fominsk 64665
-Mozhaysk 31363
-Krasnoznamensk 36103
-Krasnozavodsk 13392
-Verbilki 7022
-Khot'kovo 21505
-Khorlovo 7875
-Demikhovo 5563
-Obukhovo 9630
-Lukhovitsy 29850
-
-Serpukhov 127041
-Kashira 41870
-Ashukino 9942
-Skoropuskovskiy 6685
-Kraskovo 21250
-Kratovo 8277
-Reutov 87314
-Beloomut 6558
-Davydovo 10918
-Noginsk 100072
-Pravdinskiy 10587
-Krasnoarmeysk 26294
-Sergiev Posad 111234
-Pavlovskiy Posad 63711
-Monino 22821
-Bronnitsy 21102
-Golitsyno 17593
-Kubinka 22964
-Dubna 70663
-Vysokovsk 10635
-Dmitrov 61305
-Sofrino 15771
-Shchelkovo 110411
-
-Podol'sk 187961
-Oktyabr'skiy 13165
-L'vovskiy 10855
-Nekrasovskiy 10292
-Yakhroma 13214
+Khimki 207425
+Dolgoprudnyy 90956
 Zaprudnya 12855
-Peresvet 14147
+Verbilki 7022
 Vereya 5368
-Taldom 13819
-Domodedovo 96145
-Kotel'niki 32338
-Rodniki 5227
-Zvenigorod 16395
-VNIISSOK 7867
-Lesnoy Gorodok 7231
-
-Lyubertsy 172525
+Peresvet 14147
+Voskresensk 91464
+Khorlovo 7875
 
 Kolomna 144589
-Stupino 66816
-Protvino 37308
-Lotoshino 5558
-
-Orekhovo-Zuevo 120670
-Shatura 32885
+Beloomut 6558
 Beloozerskiy 17842
-Ozery 25800
-Voskresensk 91464
-Drezna 11820
+Bronnitsy 21102
+Golitsyno 17593
+Lukhovitsy 29850
+Zaraysk 24645
+Mozhaysk 31363
+Ruza 13495
+Tuchkovo 17381
+Kubinka 22964
+Dubna 70663
+Lobnya 74252
+Pavlovskaya Sloboda 6327
+Staraya Kupavna 21811
+
+Elektrostal' 155196
 Elektrougli 20136
+
+Zheleznodorozhnyy 131257
 Elektrogorsk 22480
-Likino-Dulevo 31321
-Klin 80585
+Solnechnogorsk 52944
 Povarovo 7985
 Stolbovaya 5082
-Razvilka 9778
-Chekhov 60720
-Zaraysk 24645
-Volokolamsk 23433
-Ruza 13495
+Kratovo 8277
+Nekrasovskiy 10292
+Yakhroma 13214
+Dmitrov 61305
+Novosin'kovo 8073
+Khot'kovo 21505
+Ashukino 9942
+Pushkino 102874
+Pushchino 20332
+Kashira 41870
+Stupino 66816
+Sofrino 15771
+Lytkarino 55237
+Dzerzhinskiy 47163
+Ozery 25800
+Serebryanye Prudy 9705
+Fryanovo 11243
+Stromyn' 6593
+Chernogolovka 20983
+Noginsk 100072
+Naro-Fominsk 64665
+Selyatino 12629
+VNIISSOK 7867
+
+Odintsovo 138930
+Protvino 37308
+Lotoshino 5558
 Roshal' 21272
+Shatura 32885
+Davydovo 10918
+Istra 35111
+Zvenigorod 16395
+Rodniki 5227
+Volokolamsk 23433
+Taldom 13819
+Razvilka 9778

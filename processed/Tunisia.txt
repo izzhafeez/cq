@@ -1,113 +1,113 @@
 
 
 Tunis 638845
-Dawwar Hayshar 82532
-Al-Judaydah 28660
-Al-Jamm 21234
-Masakin 60165
-Al-Munastir 93306
-Hammam Susah 42937
-Jammal 50275
-Al-Qal'at as-Saghirah 34548
-Al-Qasr 33729
-Qasr Hilal 49376
-Al-Qasrayn 83534
-Al-'Ayn 43337
-Qusur as-Saf 28842
-Al-Wardanin 21814
 Bardaw 71961
-Maqrin 26924
-Al-Karam 74132
-Hammam al-Anif 42518
-Al-Hammamat 73236
-Zaghwan 20798
-
-Sidi Husayn 109672
-Wadi al-Layl 57851
-
-Aryanah 114486
-Firiyanah 29572
-Silyanah 31251
-
-Kairouan 139070
-Al-Kaf 54690
-Al-Fahs 23556
-Al-Qal'at al-Kabirah 53323
-Zawiyat Susah 20681
-Saqiyat az-Zayt 53243
-Az-Zahra' 34962
-Umm al-'Ara'is 21431
-Suq al-Ahad 18905
-Al-Hammah 41607
-Jarbah Hawmat as-Suq 75904
-Tinah 33419
-Ash-Shabbah 22227
-Saqiyat ad-Da'ir 45767
+Dawwar Hayshar 82532
+Manubah 41670
 Ad-Dandan 17122
-Bin 'Arus 88322
-Bin Qirdan 66567
-Ghannush 28051
-Duz 30245
+Madanin 71406
+Al-Wardanin 21814
+Masakin 60165
+Akudah 27200
+Hammam Susah 42937
+Zawiyat Susah 20681
 
 Sousse 221530
-Bu Mahl al-Bassatin 40101
-Matir 34010
-R'as al-Jabal 28610
-Al-Marsa 92987
 
-Al-Muruj 104586
-Al-Muknin 57111
-Al-Mahdiyah 51833
-Al-Murnaqiyah 19834
-Murnaq 30058
+Kairouan 139070
+Al-Qal'at al-Kabirah 53323
+Al-Qal'at as-Saghirah 34548
+Al-Qasr 33729
+Al-Qasrayn 83534
+Subaytilah 24597
+Sidi Bu Zayd 48284
+
+Sidi Husayn 109672
+Al-'Ayn 43337
+Saqiyat ad-Da'ir 45767
+Saqiyat az-Zayt 53243
+Az-Zahra' 34962
+Radis 59794
 Halq al-Wadi 45711
+Al-Karam 74132
+Al-Kaf 54690
+Tajarwin 17530
+Bajah 62303
+Majaz al-Bab 22287
+Taburbah 27545
+Al-Judaydah 28660
+Wadi al-Layl 57851
+Rawad 94961
 
 Sukrah 129693
-Radis 59794
-Hammam ash-Shatt 31810
-Ash-Shayhah 26300
 
-Sfax 272801
-Qarmadah 40858
-Akudah 27200
-Ar-Rudayyif 25046
-Naftah 21654
-
-Gafsa 95242
+Aryanah 114486
+Silyanah 31251
+Al-Fahs 23556
+Zaghwan 20798
+Ghannush 28051
 
 Gabes 130984
-Nabul 70437
-Taburbah 27545
-Tabulbah 37485
 
-Bizerte 136917
+Gafsa 95242
+Al-Mitlawi 38129
+Umm al-'Ara'is 21431
+Ar-Rudayyif 25046
+Tawzar 37365
+Naftah 21654
+Tatawin 66924
+Bin Qirdan 66567
+Jarjis 72611
+Jarbah Ajim 24294
+Jarbah Madyuni 63528
+Jarbah Hawmat as-Suq 75904
+Qusur as-Saf 28842
+Al-Mahdiyah 51833
+Al-Muknin 57111
+Al-Munastir 93306
+
+Al-Muruj 104586
+Murnaq 30058
+Bu Mahl al-Bassatin 40101
+Matir 34010
+Tinjah 21139
+Manzil Bu Ruqaybah 54536
+Manzil Jamil 22238
+Manzil Tamim 39138
 Qulaybiyah 46856
+Sulayman 37749
 Qurunbaliyah 24299
 Qurbah 38902
-Sulayman 37749
-Manubah 41670
-Subaytilah 24597
-Jundubah 45431
-Majaz al-Bab 22287
-Bajah 62303
-Manzil Bu Ruqaybah 54536
-Manzil Tamim 39138
-Manzil Jamil 22238
-Rawad 94961
-Jarjis 72611
-Tajarwin 17530
-Tatawin 66924
-Tawzar 37365
-Qibili 20623
-Al-Mitlawi 38129
-Madanin 71406
-Jarbah Madyuni 63528
-Jarbah Ajim 24294
-Sidi Bu Zayd 48284
-Dar Sha'ban 42140
-Ghar ad-Dima' 19495
-Tabarqah 19770
-Tinjah 21139
-Takalsah 22151
-Bu Salim 21638
 Bani Khiyar 21626
+Dar Sha'ban 42140
+Nabul 70437
+Tabulbah 37485
+Qasr Hilal 49376
+Jammal 50275
+Al-Jamm 21234
+R'as al-Jabal 28610
+
+Bizerte 136917
+Qibili 20623
+Suq al-Ahad 18905
+Hammam al-Anif 42518
+Hammam ash-Shatt 31810
+Ash-Shayhah 26300
+Ash-Shabbah 22227
+
+Sfax 272801
+Tinah 33419
+Qarmadah 40858
+Tabarqah 19770
+Bu Salim 21638
+Jundubah 45431
+Ghar ad-Dima' 19495
+Al-Marsa 92987
+Al-Murnaqiyah 19834
+Bin 'Arus 88322
+Maqrin 26924
+Firiyanah 29572
+Al-Hammamat 73236
+Al-Hammah 41607
+Duz 30245
+Takalsah 22151

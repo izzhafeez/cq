@@ -1,461 +1,461 @@
 
 
 Salvador 2886698
-Sao Felix 14762
-Dom Macedo Costa 4065
-Lajedo do Tabocal 8577
-Itagi 12242
-Iguai 26963
-Guaratinga 20700
-Belmonte 23437
-Itaju do Colonia 6596
-Sao Francisco do Conde 40245
-Sao Felix do Coribe 15468
-Paratinga 32141
-Maetinga 2764
-Lagoa Real 15770
-Candeal 8181
-Conde 26035
-Ouricangas 8570
-Aracas 12208
-Conceicao do Jacuipe 33398
-Muritiba 29410
-Mucuri 42251
-Itapebi 10215
-Taperoa 21253
-Sapeacu 17409
-Nazare 28594
-Buerarema 18306
-Ibiquera 4046
-Planaltino 9370
-Amargosa 37441
-Lamarao 8191
-
-Feira de Santana 619609
-Monte Santo 49278
-Cicero Dantas 32576
-Olindina 28304
-Agua Fria 17033
-Barrocas 16105
-Barra do Choca 31209
-Santa Cruz da Vitoria 6278
-
-Itabuna 213685
-
-Itaberaba 64646
-Abare 20347
-
-Barra 53910
-Barra do Rocha 5612
-Barra do Mendes 13833
-Central 17280
-Umburanas 19402
-
-Campo Formoso 71487
-Nordestina 13164
-Correntina 32191
-Gentio do Ouro 11259
-Rio do Antonio 15448
-Livramento de Nossa Senhora 46062
-Mucuge 8889
-Marcionilio Souza 10380
-
-Jaguaquara 54673
-Mutuipe 22282
-Riachao do Jacuipe 33468
-Iacu 24121
-Castro Alves 26318
-Capela do Alto Alegre 11616
-Planalto 26426
-Canarana 26325
-Seabra 44234
-Pau Brasil 9686
-Maiquinique 10206
-Arataca 10961
-Maracas 20393
-
-Vitoria da Conquista 341128
-Macarani 18909
-Itagimirim 6825
-Itatim 14539
-Matina 12283
-Iuiu 11016
-
-Bom Jesus da Lapa 69662
-Jaborandi 8277
-Catolandia 3599
-Retirolandia 14495
-Biritinga 15984
-Aramari 11461
-
-Itamaraju 64455
-Irajuba 7279
-Ubata 27263
-Camamu 35382
-Presidente Tancredo Neves 28004
-Sao Desiderio 34266
-Presidente Janio Quadros 12179
-Piripa 10475
-Mairi 18602
-Caravelas 22093
-Cravolandia 5351
-Serrolandia 13446
-Tapiramuta 16974
-Itapicuru 35883
-Jucurucu 8988
-Itirucu 12528
-Aiquara 4416
-Aurelino Leal 11299
-Macurure 7787
-Cansancao 34882
-Uaua 24113
-Queimadas 25433
-Malhada 16861
-Igapora 15650
-
-Eunapolis 114396
-Heliopolis 12987
-Cristopolis 13947
-Santa Rita de Cassia 28481
-Santa Cruz Cabralia 27922
-
-Cruz das Almas 63591
 Vera Cruz 43716
-Encruzilhada 16446
-Ituacu 19030
-Cabaceiras do Paraguacu 18911
-Anguera 11297
-Mirangaba 18474
-Ibirapitanga 23404
-Itubera 28740
-Ubaitaba 18847
-
-Ilheus 159923
-Itanhem 19316
-Carinhanha 29070
-Inhambupe 40333
-Itambe 22754
-
-Guanambi 84928
-Guajeru 6646
-Lajedinho 3758
-Sobradinho 23233
-Caldeirao Grande 13391
-Varzea Nova 12625
-Quixabeira 8956
-Sao Domingos 9072
-Sao Sebastiao do Passe 44430
-
-Lauro de Freitas 201635
-Teodoro Sampaio 7359
-Mata de Sao Joao 47126
-Joao Dourado 25402
-Bonito 16884
-Antonio Cardoso 11677
-Antonio Goncalves 11878
-Sao Goncalo dos Campos 37942
-Maragogipe 44793
-Marau 20617
-Itajuipe 20398
-Itacare 28684
-Gandu 32596
-Ubaira 19877
-Santa Teresinha 10464
-
-Serrinha 81286
-Pe de Serra 13556
-Saubara 12105
-Santa Barbara 20883
-Santana 26705
-Santanopolis 8966
-Terra Nova 13025
-Serra Dourada 17321
-Serra Preta 14699
-Cachoeira 33567
-Madre de Deus 21432
-Pojuca 39972
-Macajuba 11332
-Camacan 32006
-Macaubas 50161
-Ibotirama 27003
-Iramaia 8197
-Buritirama 21276
-Riachao das Neves 22334
-Morpara 8497
-Mortugaba 12052
-Caetite 51081
-Ipecaeta 14354
-Itaete 16110
-Ruy Barbosa 30857
-Nova Redencao 9123
-Nova Ibia 6554
-Nova Vicosa 43783
-Nova Itarana 8279
-Sao Miguel das Matas 11704
-Brotas de Macaubas 10130
-Souto Soares 17050
-Coaraci 16549
-Firmino Alves 5629
-Sao Jose da Vitoria 5608
-Santa Maria da Vitoria 39775
-Baianopolis 13929
-
-Luis Eduardo Magalhaes 90162
-Erico Cardoso 10560
-Barra da Estiva 20392
-Paramirim 21695
-Ibitiara 16403
-Ibirataia 14882
-
-Jequie 156126
-Dario Meira 10525
-Floresta Azul 10575
-Boa Vista do Tupim 18531
-Baixa Grande 20449
-Rafael Jambeiro 22633
-
-Ribeira do Pombal 53956
-Satiro Dias 17302
-Apora 17788
-Cipo 17352
-Jacaraci 14850
-Palmas de Monte Alto 21796
-Barro Alto 15054
-Barro Preto 5448
-Wagner 9344
-Anage 21607
-Cordeiros 8642
-Coribe 14149
-Riacho de Santana 35593
-Pindai 16285
-Pintadas 10394
-
-Conceicao do Coite 67013
-Sao Jose do Jacuipe 10505
-Caem 9058
-Piritiba 24964
-Caatiba 6488
-Itarantim 19843
-Ibicui 16230
-Ibitita 17080
-Ipupiara 9911
-
-Ipira 59435
-Ichu 6220
-Ibicarai 21378
-Andarai 13132
-Caraibas 8801
-Candiba 14368
-Candido Sales 25053
-Urandi 16665
-Teolandia 15022
-Ourolandia 17511
-Jussara 15262
-Cafarnaum 18513
-Uibai 13891
-Mulungu do Morro 10673
-Boninal 14446
-Ibicoara 19786
-
-Brumado 67335
-Tremedal 16189
-Tanhacu 20393
-Nilo Pecanha 14079
-Muniz Ferreira 7443
-Mundo Novo 26970
-Novo Triunfo 15443
-Quijingue 27626
-Jiquirica 14557
-
-Valenca 97233
-Wenceslau Guimaraes 20978
-Ipiau 45922
-Pirai do Norte 10036
-Ponto Novo 14819
-Varzea do Poco 9210
-Pocoes 46879
-
-Simoes Filho 135783
-Brejoes 14222
-Oliveira dos Brejinhos 21810
-Ibipeba 18319
-Ibipitanga 14947
-Ibirapua 8690
-Apuarema 7302
-Remanso 41170
-Lapao 27274
-Lajedao 3975
-
-Porto Seguro 150658
-Una 18544
-Igrapiuna 13091
-Itanagra 6436
-Itapitanga 10298
-
-Itapetinga 76795
-Jussari 5768
-Itamari 8003
-
-Camacari 304302
-Amelia Rodrigues 25048
-Varzea da Roca 14121
-Valente 28800
-Tanquinho 7928
-Pedrao 7394
-Elisio Medrado 8126
-Santa Ines 10606
-Lafaiete Coutinho 3693
-Rio de Contas 12932
-Ibiassuce 9031
-Tanque Novo 17443
-Piata 16984
-Lencois 11499
-Contendas do Sincora 4045
-Feira da Mata 5661
-Conceicao da Feira 22762
-Sao Felipe 21080
 Itaparica 22337
 Itape 8526
-Santa Luzia 12449
-Santaluz 37531
-Tucano 50798
-Caetanos 14608
-Nova Canaa 16472
-Nova Soure 26998
-Acajutiba 15187
-Ribeira do Amparo 14612
+Itajuipe 20398
+Itapitanga 10298
+Ibirapitanga 23404
+Ibirataia 14882
+Ubata 27263
+Ubaitaba 18847
+Ubaira 19877
+Irajuba 7279
+Macajuba 11332
+Ruy Barbosa 30857
+Santa Barbara 20883
+Santanopolis 8966
 
-Santo Amaro 60131
-
-Catu 54970
-Aratuipe 8837
-Aracatu 13045
-Caturama 9316
-Dom Basilio 12240
-Rio do Pires 11663
-Sitio do Mato 13059
-Muquem de Sao Francisco 11417
-Canapolis 9703
-Cotegipe 13769
-Mascote 13717
-Potiragua 6916
-Jaguaripe 18981
-Varzedo 8785
+Feira de Santana 619609
+Conceicao da Feira 22762
+Sao Felix 14762
+Sao Felipe 21080
 Conceicao do Almeida 17165
-Licinio de Almeida 12373
-Palmeiras 9071
 
-Barreiras 156975
-Formosa do Rio Preto 25857
+Cruz das Almas 63591
+Governador Mangabeira 20762
+Muritiba 29410
+Piritiba 24964
+Tapiramuta 16974
+
+Ipira 59435
+Rafael Jambeiro 22633
+Ipecaeta 14354
+Serra Preta 14699
+Barro Preto 5448
+Filadelfia 16345
+Encruzilhada 16446
+Carinhanha 29070
+Andorinha 14503
+Pindobacu 20098
+Antonio Goncalves 11878
+Ponto Novo 14819
+Mundo Novo 26970
+Tanque Novo 17443
+Tanquinho 7928
+Anguera 11297
+Ibiquera 4046
+Maiquinique 10206
+Aiquara 4416
+Apuarema 7302
+Ibirapua 8690
+Lajedao 3975
+Vereda 6153
+Tremedal 16189
+Belo Campo 17109
+Sao Goncalo dos Campos 37942
+Antonio Cardoso 11677
+Cabaceiras do Paraguacu 18911
+Potiragua 6916
+Ibotirama 27003
+Oliveira dos Brejinhos 21810
+Brejolandia 10618
 Tabocas do Brejo Velho 12516
-Angical 13938
-Mansidao 13734
-Pilao Arcado 35175
-Prado 28194
-Medeiros Neto 22716
+Serra Dourada 17321
+Serra do Ramalho 31416
+Malhada 16861
+Iuiu 11016
+Itiuba 36116
+Cansancao 34882
+Nordestina 13164
+Adustina 17126
+Fatima 17845
+Nova Fatima 7821
+Sao Domingos 9072
+Sao Jose do Jacuipe 10505
+Riachao do Jacuipe 33468
+Ichu 6220
+Chorrocho 11200
+Macurure 7787
+Curaca 34886
 
 Juazeiro 218162
-Saude 12943
-Canudos 16753
-Itiuba 36116
-Capim Grosso 30862
-Miguel Calmon 25894
-Pindobacu 20098
-Alcobaca 22490
-
-Jacobina 80635
-
-Teixeira de Freitas 162438
-Itabela 30747
-Canavieiras 30906
-Gaviao 4440
+Uaua 24113
+Jaguarari 33746
+Jaguaripe 18981
+Aratuipe 8837
+Maragogipe 44793
+Gongogi 6985
+Itagiba 14452
+Itagi 12242
+Jitauna 10808
+Itamari 8003
+Aramari 11461
+Irara 29173
+Ouricangas 8570
+Pedrao 7394
+Coracao de Maria 22495
+Maracas 20393
+Aracas 12208
+Itanagra 6436
+Anage 21607
+Caraibas 8801
+Ibicarai 21378
+Ibicui 16230
+Iguai 26963
+Nova Canaa 16472
+Boa Nova 12329
+Manoel Vitorino 13087
+Santa Maria da Vitoria 39775
+Feira da Mata 5661
+Cocos 18807
+Coribe 14149
+Sao Felix do Coribe 15468
+Jaborandi 8277
+Urandi 16665
+Candiba 14368
+Sebastiao Laranjeiras 11512
+Sao Sebastiao do Passe 44430
+Mata de Sao Joao 47126
 
 Dias d'Avila 82432
 
-Alagoinhas 152327
-Andorinha 14503
-
-Euclides da Cunha 60858
-Salinas da Margarida 15862
-Morro do Chapeu 35440
-Jussiape 5976
-Cardeal da Silva 9346
-Ribeirao do Largo 5343
-Sebastiao Laranjeiras 11512
-Cacule 23291
-Condeuba 17178
-Belo Campo 17109
-Bom Jesus da Serra 9823
-
-Santo Antonio de Jesus 102380
-Laje 24032
-
-Paulo Afonso 118516
-Paripiranga 29058
-Crisopolis 21163
-Entre Rios 41901
-Jandaira 10726
-Abaira 8710
-Novo Horizonte 12522
-Iraquara 25478
-Irara 29173
-Jaguarari 33746
-
-Senhor do Bonfim 79424
-Sento Se 40989
-
-Irece 73524
-Itaguacu da Bahia 14542
-Sao Gabriel 18789
-America Dourada 16090
-Utinga 19256
-
 Candeias 87458
-
-Casa Nova 72545
-Chorrocho 11200
-Banzae 13240
+Candeal 8181
+Malhada de Pedras 8359
+Planalto 26426
+Planaltino 9370
+Lajedo do Tabocal 8577
+Itirucu 12528
+Jucurucu 8988
+Itanhem 19316
+Tanhacu 20393
+Barra da Estiva 20392
+Ibicoara 19786
+Coaraci 16549
 
 Araci 54648
 Teofilandia 22555
-Santo Estevao 53269
-Governador Mangabeira 20762
-Xique-Xique 46523
-Presidente Dutra 15160
-Rio Real 40976
-Esplanada 37578
-Jeremoabo 40651
-Vereda 6153
-Curaca 34886
-Gloria 15234
-Fatima 17845
-Nova Fatima 7821
-Serra do Ramalho 31416
-Campo Alegre de Lourdes 28820
-Coracao de Maria 22495
-Boquira 21497
-Botupora 10129
-Urucuca 20413
-Milagres 10893
-Filadelfia 16345
-Rodelas 9442
-Itororo 20388
-Almadina 5366
-Itagiba 14452
-Manoel Vitorino 13087
-Mirante 8447
-Boa Nova 12329
-Jitauna 10808
-Gongogi 6985
-Antas 19479
-Santa Brigida 14063
-Adustina 17126
-Pedro Alexandre 16682
-Malhada de Pedras 8359
-Cocos 18807
+Retirolandia 14495
+Valente 28800
+
+Valenca 97233
 Cairu 18427
-Coronel Joao Sa 15717
-Sitio do Quinto 9701
-Wanderley 12180
-Brejolandia 10618
+Taperoa 21253
+Nilo Pecanha 14079
+Itubera 28740
+Igrapiuna 13091
+Una 18544
+
+Itabuna 213685
+Itabela 30747
+Belmonte 23437
+Monte Santo 49278
+Palmas de Monte Alto 21796
+Licinio de Almeida 12373
+Rio do Antonio 15448
+
+Santo Antonio de Jesus 102380
+Dom Macedo Costa 4065
+Varzedo 8785
+Elisio Medrado 8126
+Dario Meira 10525
+Palmeiras 9071
+Lencois 11499
+Nova Redencao 9123
+Itaete 16110
+Caetite 51081
+Ibiassuce 9031
+Nova Ibia 6554
+Nova Itarana 8279
+Santa Ines 10606
+Santana 26705
+Canapolis 9703
+Baianopolis 13929
+Cristopolis 13947
+Catolandia 3599
+Sao Desiderio 34266
+Presidente Dutra 15160
+Central 17280
+Gentio do Ouro 11259
+Uibai 13891
+Abaira 8710
+Piata 16984
+Ipiau 45922
+Barra do Rocha 5612
+Barra do Choca 31209
+Caatiba 6488
+Acajutiba 15187
+Apora 17788
+Igapora 15650
+Botupora 10129
+Caturama 9316
+Paramirim 21695
+Erico Cardoso 10560
+America Dourada 16090
+Joao Dourado 25402
+Lapao 27274
+
+Bom Jesus da Lapa 69662
+Bom Jesus da Serra 9823
+Pocoes 46879
+Varzea do Poco 9210
+Varzea da Roca 14121
+Quixabeira 8956
+Baixa Grande 20449
+Caldeirao Grande 13391
+Saude 12943
+Caem 9058
+
+Jacobina 80635
+Alcobaca 22490
+Prado 28194
+Caravelas 22093
+Rodelas 9442
+Cordeiros 8642
+Medeiros Neto 22716
+Riachao das Neves 22334
+Angical 13938
+
+Barreiras 156975
+
+Barra 53910
+Morpara 8497
+Paratinga 32141
+Boquira 21497
+Jiquirica 14557
+Mutuipe 22282
+Laje 24032
+Sao Miguel das Matas 11704
+Miguel Calmon 25894
+Serrolandia 13446
+Ourolandia 17511
+Varzea Nova 12625
+Mirangaba 18474
+Mirante 8447
+Caetanos 14608
+Maetinga 2764
+
+Itapetinga 76795
+Itororo 20388
+Santa Cruz da Vitoria 6278
+Sao Jose da Vitoria 5608
+Buerarema 18306
+Remanso 41170
+Mansidao 13734
+Buritirama 21276
+Iramaia 8197
+Mairi 18602
+Presidente Janio Quadros 12179
+Teolandia 15022
+Candido Sales 25053
+Itambe 22754
+
+Itamaraju 64455
+Guaratinga 20700
+
+Eunapolis 114396
+Itagimirim 6825
+Itarantim 19843
+Macarani 18909
+Camacan 32006
+Arataca 10961
+Itacare 28684
+Marau 20617
+Camamu 35382
+
+Camacari 304302
+
+Simoes Filho 135783
+
+Lauro de Freitas 201635
+Madre de Deus 21432
+Pe de Serra 13556
+Morro do Chapeu 35440
+Aracatu 13045
+
+Catu 54970
+Pojuca 39972
+Urucuca 20413
+Mucuri 42251
+Nova Vicosa 43783
+Nova Soure 26998
+Cipo 17352
+Cicero Dantas 32576
+Antas 19479
+Novo Triunfo 15443
+Novo Horizonte 12522
+Ibitiara 16403
+Ibitita 17080
+Ibipeba 18319
+Itapebi 10215
+Mascote 13717
+Santa Luzia 12449
+Santaluz 37531
+
+Conceicao do Coite 67013
+Barrocas 16105
+
+Serrinha 81286
+Lamarao 8191
+Agua Fria 17033
+
+Jaguaquara 54673
 Itaquara 8347
+Iraquara 25478
+Souto Soares 17050
+Mulungu do Morro 10673
+Barra do Mendes 13833
+Barro Alto 15054
+Capela do Alto Alegre 11616
+Pintadas 10394
+Pindai 16285
+Jandaira 10726
+Rio Real 40976
+Entre Rios 41901
+Esplanada 37578
+Canarana 26325
+Cafarnaum 18513
+Lafaiete Coutinho 3693
+Utinga 19256
+Bonito 16884
+Boninal 14446
+Seabra 44234
+Santa Cruz Cabralia 27922
+
+Porto Seguro 150658
+Sento Se 40989
+Livramento de Nossa Senhora 46062
+Rio de Contas 12932
+Rio do Pires 11663
+Formosa do Rio Preto 25857
+Santa Rita de Cassia 28481
+Riacho de Santana 35593
+Matina 12283
+
+Guanambi 84928
+Inhambupe 40333
+
+Alagoinhas 152327
+Lagoa Real 15770
+Dom Basilio 12240
+Pau Brasil 9686
+Santa Brigida 14063
+
+Paulo Afonso 118516
+Gloria 15234
+Jeremoabo 40651
+Guajeru 6646
+Cacule 23291
+Jacaraci 14850
+Mortugaba 12052
+Abare 20347
+
+Itaberaba 64646
+Iacu 24121
+Ituacu 19030
+Wagner 9344
+Milagres 10893
+Ibipitanga 14947
+Jussiape 5976
+Jussara 15262
+Jussari 5768
+Itaju do Colonia 6596
+Firmino Alves 5629
+Castro Alves 26318
+Santa Teresinha 10464
+Itatim 14539
+Amargosa 37441
+Brejoes 14222
+Presidente Tancredo Neves 28004
+Wenceslau Guimaraes 20978
+Gandu 32596
+Andarai 13132
+Mucuge 8889
+Tucano 50798
+
+Ribeira do Pombal 53956
+Ribeira do Amparo 14612
+Ribeirao do Largo 5343
+Gaviao 4440
+Cravolandia 5351
+Salinas da Margarida 15862
+Cardeal da Silva 9346
+Contendas do Sincora 4045
+Conde 26035
+Condeuba 17178
+Sao Francisco do Conde 40245
+Conceicao do Jacuipe 33398
+Amelia Rodrigues 25048
+Terra Nova 13025
+Teodoro Sampaio 7359
+Coronel Joao Sa 15717
+Pedro Alexandre 16682
+Sitio do Quinto 9701
+Sitio do Mato 13059
+Macaubas 50161
+Brotas de Macaubas 10130
+Ipupiara 9911
+Boa Vista do Tupim 18531
+Marcionilio Souza 10380
+Pilao Arcado 35175
+Campo Alegre de Lourdes 28820
+
+Campo Formoso 71487
+
+Senhor do Bonfim 79424
+Lajedinho 3758
+Sobradinho 23233
+
+Casa Nova 72545
+Umburanas 19402
+Sao Gabriel 18789
+
+Irece 73524
+Itaguacu da Bahia 14542
+Xique-Xique 46523
+Queimadas 25433
+Quijingue 27626
+
+Euclides da Cunha 60858
+Banzae 13240
+Nazare 28594
+Muniz Ferreira 7443
+
+Teixeira de Freitas 162438
+Canavieiras 30906
+Cachoeira 33567
+
+Santo Amaro 60131
+Santo Estevao 53269
+Sapeacu 17409
+Itapicuru 35883
+Olindina 28304
+Almadina 5366
+Floresta Azul 10575
+
+Vitoria da Conquista 341128
+
+Ilheus 159923
+Heliopolis 12987
+Crisopolis 21163
+Satiro Dias 17302
+Biritinga 15984
+Paripiranga 29058
+Piripa 10475
+Pirai do Norte 10036
+
+Jequie 156126
+
+Luis Eduardo Magalhaes 90162
+Cotegipe 13769
+Wanderley 12180
+Muquem de Sao Francisco 11417
+
+Brumado 67335
+Correntina 32191
+Capim Grosso 30862
+Canudos 16753
+Saubara 12105
+Aurelino Leal 11299

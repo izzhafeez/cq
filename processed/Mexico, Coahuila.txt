@@ -1,184 +1,184 @@
 
 
 Saltillo 709671
-
-San Pedro 48746
-Hidalgo 4143
-Huachichil 1616
-Chula Vista 1671
-Finisterre 509
-
-Frontera 69462
-Palau 16970
-Nadadores 4343
-Covadonga 541
-Derramadero 879
-Guerrero 959
-Progreso 796
-Monte Alegre 660
-San Juan de la Vaqueria 1077
-Tejaban de la Rosita 576
-San Esteban de Abajo 1158
-Ventana 1966
-Rancherias 640
-La Concha 3794
-La Perla 1591
-Purisima 1771
-
-Matamoros 52233
-Atalaya 656
-El Lequeitio 1914
-Escobedo 533
-Jalisco 685
-San Francisco del Progreso 665
-
-Francisco I. Madero 26632
-El Cambio 3773
-El Consuelo 1142
-El Cuije 1015
-San Antonio del Coyote 9653
-Santa Fe 2057
-Santa Elena 1000
-Los Alamos 1133
-Alamito 802
-Benito Juarez 505
-Granada 1286
-Santa Maria 929
-La Victoria 534
-Jimenez 1160
-La Flor de Jimulco 695
-Florencia 940
-Ricardo Flores Magon 506
-La Fe 1183
-El Tunal 641
-
-Ciudad Acuna 134233
-Coruna 978
-La Partida 4010
-
-Torreon 608836
-Coyote 8856
-Concordia 7858
-La Corona 728
-La Paz 2485
-La Palma 1242
-Centro de Readaptacion Social Piedras Negras 830
-Cuatro Cienegas de Carranza 10309
-Colonia Venustiano Carranza 4921
-Colonia Diana Laura Riojas de Colosio 1885
-
-Ciudad Melchor Muzquiz 35060
-San Buenaventura 20480
-
-Nava 22192
-Maravillas 1045
-San Francisco de Arriba 1157
-El Refugio 888
-Reforma 635
-Morelos 6839
-Minas de Barroteran 7842
-Villa Union 5350
-Fraccionamiento Villa Real 767
-El Estribo 967
-Sofia de Arriba 621
-Veintiocho de Agosto 591
-Rancho Alegre 1228
-Ocho de Enero 1746
-Veinte de Noviembre 1420
-San Jose de la Nina 763
-Guadalupe Victoria 842
-La Tehua 629
-Abasolo 739
-Paredon 1165
-Paso del Tio Pio 548
-El Pilar 684
-La Pinta 1165
-Santa Ana del Pilar 1260
-Albia 1694
-Virginias 1432
-San Alberto 870
-La Rosita 511
-Gilita 1285
-Ejido Emiliano Zapata 828
-Ignacio Zaragoza 706
-San Ignacio 2062
-San Miguel 1268
-San Marcos 1151
-San Carlos 3126
-Las Mercedes 888
-Boquilla de las Perlas 1705
-Villa Las Esperanzas 3029
-
-Allende 20694
-Candela 1492
-Madero del Rio 506
-Primero de Mayo 1613
-Mayran 1507
-Lamadrid 1801
-San Isidro 533
-La Florida 1782
-Compuertas 1017
-Las Palomas 677
-Paso del Aguila 800
-La Luz 2432
-Vega Larga 523
-Arteaga 8446
-Zaragoza 10461
-El Nilo 1091
-
-Monclova 215271
 Jaboncillo 1152
-San Antonio de las Alazanas 2425
 Hormiguero 2069
-Santo Nino Aguanaval 2164
-Agua Nueva 1465
-Nuevo Leon 1456
-
-Nueva Rosita 38158
-
-Sabinas 54905
-Luchanas 2929
-Solima 1602
-Bolivar 560
-Colon 1000
-Cuatro de Octubre 503
-Valle Dorado 804
-Rio Bravo 1349
-Santa Monica 627
-San Juan de Sabinas 1415
-Escuadron Doscientos Uno 1066
-Viesca 3610
-El Peru 1836
+Ocho de Enero 1746
+Veintiocho de Agosto 591
+La Pinta 1165
+Paredon 1165
+Juarez 890
+Jimenez 1160
+Santa Maria 929
+Ventana 1966
+Nuevo Mieleras 928
+Las Mieleras 1116
 
 Piedras Negras 150178
-Las Mieleras 1116
-Juarez 890
-Nuevo Mieleras 928
-Fraccionamiento la Noria 1313
-Sacramento 2297
-Ocampo 3679
-La Esmeralda 1111
-General Cepeda 4382
-El Retiro 1806
-Huitron 1511
-
-Ramos Arizpe 66554
-Los Lirios 561
-San Pablo 708
-San Esteban de Egipto 708
-
-Parras de la Fuente 33817
+Colonia Venustiano Carranza 4921
 Ejido Venustiano Carranza 4288
+Viesca 3610
+Escobedo 533
+Las Mercedes 888
+Hercules 3914
+Chula Vista 1671
+La Victoria 534
+Rancherias 640
+Rancho Alegre 1228
+Guadalupe Victoria 842
+San Juan de la Vaqueria 1077
+San Juan de Sabinas 1415
+
+Sabinas 54905
+Minas de Barroteran 7842
+
+Frontera 69462
+Monte Alegre 660
+Los Alamos 1133
+Vega Larga 523
+Rio Bravo 1349
+Madero del Rio 506
+Derramadero 879
+Ricardo Flores Magon 506
+Santa Monica 627
+Santa Fe 2057
+La Fe 1183
+Bolivar 560
+Solima 1602
+Purisima 1771
+San Antonio del Coyote 9653
+Coyote 8856
+Nuevo Leon 1456
+Agua Nueva 1465
+
+Nueva Rosita 38158
+Cloete 3930
+
+Monclova 215271
+Covadonga 541
+Colon 1000
+El Consuelo 1142
+La Concha 3794
+La Corona 728
+Reforma 635
+Paso del Aguila 800
+Santa Ana del Pilar 1260
+El Pilar 684
+Paso del Tio Pio 548
+Florencia 940
+San Lorenzo 1593
+Ignacio Zaragoza 706
+Zaragoza 10461
+Santo Nino Aguanaval 2164
+San Antonio de las Alazanas 2425
+Huachichil 1616
+La Tehua 629
+El Tunal 641
+Coruna 978
+El Peru 1836
+La Perla 1591
+La Paz 2485
+La Partida 4010
+La Palma 1242
+Progreso 796
+Benito Juarez 505
+Alamito 802
+Lamadrid 1801
+La Florida 1782
+La Flor de Jimulco 695
+La Rosita 511
+Tejaban de la Rosita 576
+El Estribo 967
+San Esteban de Egipto 708
+San Esteban de Abajo 1158
+San Rafael de Abajo 631
+Primero de Mayo 1613
+Maravillas 1045
+Villa Las Esperanzas 3029
+Villa Union 5350
+
+Allende 20694
+Morelos 6839
+
+Nava 22192
+San Buenaventura 20480
+Sacramento 2297
+Fraccionamiento la Noria 1313
+Escuadron Doscientos Uno 1066
+Cuatro Cienegas de Carranza 10309
+Cuatro de Octubre 503
+Fraccionamiento Villa Real 767
+Santa Elena 1000
+San Marcos 1151
+San Pablo 708
+
+San Pedro 48746
+San Isidro 533
+San Ignacio 2062
+Concordia 7858
+El Retiro 1806
+El Refugio 888
+Compuertas 1017
+Guerrero 959
+San Felipe 938
+San Jose de Aura 1219
+San Jose de la Nina 763
+Tacubaya 1433
+Atalaya 656
+El Cuije 1015
+El Nilo 1091
+Virginias 1432
+Veinte de Noviembre 1420
+El Lequeitio 1914
+El Quemado 754
+Nadadores 4343
+Granada 1286
+Ejido Emiliano Zapata 828
+La Cruz 1672
+La Esperanza 1447
+La Esmeralda 1111
+Sierra Mojada 478
+Colonia Diana Laura Riojas de Colosio 1885
 
 Castanos 23649
-Cloete 3930
-Hercules 3914
-Sierra Mojada 478
-La Cruz 1672
-San Jose de Aura 1219
-La Esperanza 1447
-San Lorenzo 1593
-Tacubaya 1433
-San Felipe 938
-El Quemado 754
-San Rafael de Abajo 631
+San Carlos 3126
+San Francisco de Arriba 1157
+Jalisco 685
+
+Francisco I. Madero 26632
+Luchanas 2929
+Huitron 1511
+Centro de Readaptacion Social Piedras Negras 830
+Albia 1694
+San Alberto 870
+Boquilla de las Perlas 1705
+La Luz 2432
+
+Parras de la Fuente 33817
+General Cepeda 4382
+
+Ramos Arizpe 66554
+Arteaga 8446
+
+Torreon 608836
+Finisterre 509
+Ocampo 3679
+El Cambio 3773
+
+Matamoros 52233
+Hidalgo 4143
+Gilita 1285
+
+Ciudad Acuna 134233
+
+Ciudad Melchor Muzquiz 35060
+Palau 16970
+Las Palomas 677
+Candela 1492
+San Francisco del Progreso 665
+San Miguel 1268
+Mayran 1507
+Valle Dorado 804
+Los Lirios 561
+Abasolo 739
+Sofia de Arriba 621

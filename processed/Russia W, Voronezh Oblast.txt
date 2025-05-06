@@ -1,45 +1,45 @@
 
 
 Voronezh 889680
-Somovo 13902
 Pridonskoy 18300
-Maslovka 8447
-Semiluki 26023
-Kantemirovka 11943
-Ternovka 5671
-Povorino 17692
-Talovaya 12219
-Novokhopersk 6849
-Novovoronezh 32635
-Shilovo 7777
-Latnaya 7528
-
-Borisoglebsk 65585
-Gribanovskiy 15686
-Ertil' 11387
-Verkhnyaya Khava 8154
-Verkhniy Mamon 8561
-Mitrofanovka 5395
-Boguchar 11811
-Pavlovsk 25126
-Buturlinovka 27208
-Kalach 20046
-Vorontsovka 5166
 Podgorenskiy 6136
-Kamenka 9192
-Davydovka 5633
-Bobrov 19738
-Anna 18032
-Panino 6672
-Novaya Usman' 29270
-Volya 7803
-Ramon' 8354
-Krasnolesnyy 5489
-Kolodeznyy 5736
 
 Rossosh' 62865
 
 Ostrogozhsk 33842
+Kamenka 9192
+Kantemirovka 11943
+Mitrofanovka 5395
+Ternovka 5671
+Gribanovskiy 15686
+Pavlovsk 25126
+Vorontsovka 5166
+Novovoronezh 32635
+Kolodeznyy 5736
+Krasnolesnyy 5489
+Ramon' 8354
+Somovo 13902
+Volya 7803
+Verkhnyaya Khava 8154
+Verkhniy Mamon 8561
+Boguchar 11811
+Kalach 20046
+Talovaya 12219
+Novaya Usman' 29270
+Latnaya 7528
+Semiluki 26023
+Shilovo 7777
+Maslovka 8447
+Davydovka 5633
 
 Liski 55864
+
+Borisoglebsk 65585
+Povorino 17692
+Panino 6672
+Anna 18032
+Ertil' 11387
+Novokhopersk 6849
+Buturlinovka 27208
+Bobrov 19738
 Nizhnedevitsk 5839

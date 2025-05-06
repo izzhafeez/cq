@@ -1,35 +1,35 @@
 
 
 Halifax 316701
+Annapolis Royal 491
+Truro 12261
+Trenton 2474
+Kentville 6271
+Wolfville 4195
+Windsor 3648
+Berwick 2509
+Stewiacke 1373
+Chester 10310
 
 Lunenburg 24863
-
-Dartmouth 65741
-Yarmouth 9845
-Bridgewater 8532
-Berwick 2509
-Chester 10310
-Westville 3628
-Oxford 1190
-Kentville 6271
-Windsor 3648
-Wolfville 4195
-
-Sydney 29904
-Stellarton 4208
-Antigonish 4364
-Trenton 2474
-Amherst 9413
-Truro 12261
-Middleton 1832
-Digby 7107
 Shelburne 4288
 Clark's Harbour 758
+Yarmouth 9845
+
+Dartmouth 65741
+Stellarton 4208
 New Glasgow 9075
-Port Hawkesbury 3214
-Pictou 3186
-Lockeport 531
-Stewiacke 1373
-Mahone Bay 1036
+Antigonish 4364
 Mulgrave 722
-Annapolis Royal 491
+Pictou 3186
+Middleton 1832
+Mahone Bay 1036
+
+Sydney 29904
+Amherst 9413
+Oxford 1190
+Lockeport 531
+Port Hawkesbury 3214
+Bridgewater 8532
+Digby 7107
+Westville 3628

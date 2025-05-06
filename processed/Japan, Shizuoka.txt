@@ -2,40 +2,40 @@
 
 Hamamatsu 790718
 Matsuzaki 6038
-Higashiizu 11488
 Nishiizu 7090
-Izu 28190
-Shimizu 31710
-Izunokuni 46804
-
-Numazu 189386
+Higashiizu 11488
 Kawazu 6870
 Kawanehon 6206
-Kakegawa 114954
-
-Iwata 166672
-Kikugawa 47789
-Omaezaki 31103
-Yaizu 136845
-
-Shizuoka 693389
+Shimada 95719
+Fujieda 141342
 
 Fuji 245392
-Fujieda 141342
-Makinohara 43502
-Yoshida 28919
-Shimada 95719
-Mishima 107783
-Susono 50911
-Gotemba 86614
-Nagaizumi 43336
 Fujinomiya 128105
-Oyama 18568
+Gotemba 86614
+Shimizu 31710
+Mishima 107783
+Kannami 36794
+Atami 34208
+
+Iwata 166672
 Fukuroi 87864
+Kikugawa 47789
+Kakegawa 114954
 Mori 17457
 Shimoda 20183
 Minamiizu 7877
-Kannami 36794
-Atami 34208
+Izu 28190
+Izunokuni 46804
+
+Shizuoka 693389
+Yaizu 136845
+Nagaizumi 43336
+Susono 50911
+
+Numazu 189386
+Oyama 18568
 Ito 65491
+Yoshida 28919
+Makinohara 43502
+Omaezaki 31103
 Kosai 57885

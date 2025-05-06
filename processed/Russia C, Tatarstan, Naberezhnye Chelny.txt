@@ -1,45 +1,45 @@
 
 
 Kazan' 1143535
-Laishevo 7735
-Shemordan 5943
-Kukmor 16918
-
-Nizhnekamsk 234044
-Nizhnyaya Maktama 9924
-Leninogorsk 64127
-Arsk 18114
-Vysokaya Gora 9589
-
-Zelenodol'sk 97674
-Menzelinsk 16476
-Zainsk 41803
-Buinsk 20352
-Bolgar 8650
-Bogatye Saby 7671
-Rybnaya Sloboda 7684
 Bazarnye Mataki 5899
+Bolgar 8650
 Tetyushi 11596
 Aktyubinskiy 9237
-Bugul'ma 89204
-Elabuga 70728
+Zainsk 41803
 Sarmanovo 7153
+Muslyumovo 7348
 Osinovo 8725
-Pestretsy 8102
 Apastovo 5145
-Chistopol' 60755
-Mamadysh 14435
+Buinsk 20352
+Menzelinsk 16476
 
 Naberezhnye Chelny 513193
-Cheremshan 5927
+Elabuga 70728
+Bugul'ma 89204
 Karabash 5005
+Leninogorsk 64127
+Arsk 18114
 Baltasi 7711
+Bogatye Saby 7671
+Kukmor 16918
+Shemordan 5943
+Nurlat 32601
+Cheremshan 5927
 
 Al'met'evsk 146393
 Dzhalil' 13937
-Nurlat 32601
-Urussu 10681
-Bavly 22109
-Muslyumovo 7348
-Agryz 19300
+Nizhnyaya Maktama 9924
+
+Nizhnekamsk 234044
+Mamadysh 14435
 Aktanysh 8923
+Agryz 19300
+Rybnaya Sloboda 7684
+Chistopol' 60755
+Laishevo 7735
+Pestretsy 8102
+Vysokaya Gora 9589
+
+Zelenodol'sk 97674
+Bavly 22109
+Urussu 10681

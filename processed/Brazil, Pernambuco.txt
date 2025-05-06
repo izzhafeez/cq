@@ -1,205 +1,205 @@
 
 
 Recife 1653461
-Vicencia 32772
-Limoeiro 56198
-Ferreiros 12170
-Tracunhaem 13813
-Sanharo 26890
-Canhotinho 24773
-Jucati 11485
-Catende 43340
-Cha Grande 21815
-Feira Nova 22247
-Jaqueira 11644
-Joaquim Nabuco 16011
-Quixaba 6805
-Aracoiaba 20733
-Iguaracy 12247
-Brejinho 7488
-Custodia 37375
-Bodoco 38378
-Salgueiro 61249
-Exu 31766
-Santa Cruz 15558
-Granito 7537
-Sao Jose do Belmonte 34021
-Parnamirim 22106
-Santa Maria da Boa Vista 42100
 
-Vitoria de Santo Antao 139583
+Olinda 393115
+
+Paulista 334376
+Itapissuma 26900
+
+Igarassu 118370
+Passira 28894
+Salgadinho 11068
+Salgueiro 61249
+Serrita 19196
+Toritama 46164
+Taquaritinga do Norte 29127
+Vertente do Lerio 7571
+Vertentes 20954
+Frei Miguelinho 15546
+Canhotinho 24773
+Angelim 11226
+Limoeiro 56198
+Feira Nova 22247
+Terra Nova 10206
+Jatoba 14850
+Casinhas 14368
+Sirinhaem 46361
+Tracunhaem 13813
+Aracoiaba 20733
+Goiana 80055
+Alianca 38397
+Vicencia 32772
+Sao Vicente Ferrer 18085
+Ferreiros 12170
+Camutanga 8572
+Itaquitinga 17006
+Condado 26590
+Trindade 30816
+Ipubi 31187
+
+Araripina 84864
 
 Carpina 84395
-Alianca 38397
-Belem do Sao Francisco 20730
-Sao Benedito do Sul 16069
-Angelim 11226
-Ibirajuba 7768
-Quipapa 26175
-Itaquitinga 17006
-Ingazeira 4543
-Tupanatinga 27551
-Sertania 36050
-Solidao 6021
-Sao Joao 22899
-Joao Alfredo 33328
-Lagoa de Itaenga 21460
-Moreno 63294
-Flores 22618
-Palmares 63500
-Lagoa dos Gatos 16318
-Lagoa Grande 25849
 Lagoa do Carro 18252
-Lagoa do Ouro 13224
-Jupi 14922
-Cachoeirinha 20501
-Cupira 24173
-Ribeirao 47616
-
-Ipojuca 97669
-Pocao 11305
-Sao Caetano 37368
-Toritama 46164
-Tacaimbo 12859
-Timbauba 52802
-Goiana 80055
-Gloria do Goita 30751
-Buenos Aires 13190
-Paudalho 56933
-Bom Conselho 48767
-Condado 26590
-Tamandare 23623
+Lagoa de Itaenga 21460
+Ilha de Itamaraca 26672
+Amaraji 22870
 Primavera 15101
-Vertente do Lerio 7571
-Riacho das Almas 20646
 
 Gravata 84699
-Jatauba 17228
+Cha Grande 21815
+Lagoa Grande 25849
+
+Petrolina 354317
+Petrolandia 36901
+Mirandiba 15470
+Sao Jose do Belmonte 34021
+Verdejante 9553
+Arcoverde 74822
+Pedra 22668
+Pesqueira 67735
+Jaqueira 11644
+Maraial 11220
+Palmares 63500
+Palmeirina 7600
+Machados 16321
+Cachoeirinha 20501
+Altinho 22984
+Agrestina 25065
+Floresta 33184
 Itacuruba 4966
+Tacaratu 26106
+Tacaimbo 12859
+Sao Caetano 37368
+Sao Bento do Una 60042
+Sao Benedito do Sul 16069
+Quipapa 26175
+Panelas 26456
+Aguas Belas 43686
+Iati 19241
+Jucati 11485
+Jupi 14922
+Cupira 24173
+Lagoa dos Gatos 16318
+Lagoa do Ouro 13224
+Correntes 18268
+Cortes 12560
+Barra de Guabiraba 14510
+Bonito 38117
+Sao Joaquim do Monte 21398
+Camocim de Sao Felix 18900
+Saire 9764
+Buenos Aires 13190
+Nazare da Mata 32573
+Brejo da Madre de Deus 51225
+Belo Jardim 76687
+Bom Jardim 39983
+Orobo 23935
+Cabrobo 34503
+Oroco 15152
+Bodoco 38378
 Ouricuri 69969
 
 Sao Lourenco da Mata 114079
 
-Cabo de Santo Agostinho 208944
-
-Paulista 334376
-Floresta 33184
-Ibimirim 29412
-Surubim 65647
-Ipubi 31187
-Dormentes 19079
-Cortes 12560
-Taquaritinga do Norte 29127
-Bezerros 60880
-Serrita 19196
-Oroco 15152
-Sao Jose da Coroa Grande 21586
-Sao Jose do Egito 34056
-Carnaiba 19609
-Carnaubeira da Penha 13025
-Iati 19241
-Correntes 18268
-Vertentes 20954
-
-Caruaru 365278
-Barra de Guabiraba 14510
+Camaragibe 158899
 
 Jaboatao dos Guararapes 706867
-
-Igarassu 118370
+Moreno 63294
+Moreilandia 11270
+Granito 7537
+Exu 31766
+Xexeu 14757
+Joaquim Nabuco 16011
+Agua Preta 37082
+Tuparetama 8256
+Paranatama 11566
+Terezinha 7198
+Brejao 8987
+Sao Joao 22899
 
 Garanhuns 140577
-Lajedo 40589
-Pedra 22668
-Paranatama 11566
-Calcado 11018
-Caetes 28904
+Sanharo 26890
+Alagoinha 14718
 Venturosa 18661
 Barreiros 42764
-Escada 69292
+Sao Jose da Coroa Grande 21586
+Tamandare 23623
 Rio Formoso 23628
-Camocim de Sao Felix 18900
-Altinho 22984
-Salgadinho 11068
-Frei Miguelinho 15546
-Passira 28894
-Casinhas 14368
-Alagoinha 14718
-Buique 58919
-Capoeiras 20048
-Terezinha 7198
-Sirinhaem 46361
-Agua Preta 37082
-Amaraji 22870
-Bonito 38117
-Agrestina 25065
-Inaja 23645
-Arcoverde 74822
-Belo Jardim 76687
-Bom Jardim 39983
-Macaparana 25472
-Manari 21776
-Betania 12765
-Mirandiba 15470
-Itaiba 26308
-Tacaratu 26106
-Ilha de Itamaraca 26672
-
-Camaragibe 158899
-Itapissuma 26900
-Cumaru 10192
-Maraial 11220
-Jurema 15431
-Panelas 26456
-Aguas Belas 43686
-Brejao 8987
-Brejo da Madre de Deus 51225
-Belem de Maria 12122
-Cha de Alegria 13556
-Afranio 19810
-
-Araripina 84864
-Moreilandia 11270
-Cabrobo 34503
-
-Abreu e Lima 100346
-
-Olinda 393115
-Trindade 30816
-Triunfo 15243
-Tabira 28704
-Itapetim 13553
-
-Petrolina 354317
-Petrolandia 36901
-
-Serra Talhada 86915
-Santa Terezinha 11865
-Afogados da Ingazeira 37404
-Machados 16321
-Calumbi 5747
-Terra Nova 10206
-Palmeirina 7600
+Dormentes 19079
 Santa Filomena 14562
+Santa Cruz 15558
 
 Santa Cruz do Capibaribe 109897
-Santa Cruz da Baixa Verde 12650
-Pesqueira 67735
-Sao Bento do Una 60042
-Itambe 36471
-Nazare da Mata 32573
-Gameleira 31318
-Xexeu 14757
-Pombos 27148
-Orobo 23935
-Fernando de Noronha 3101
-Jatoba 14850
-Sao Joaquim do Monte 21398
-Saire 9764
-Sao Vicente Ferrer 18085
-Camutanga 8572
-Saloa 15862
 Santa Maria do Cambuca 14223
+Santa Maria da Boa Vista 42100
+Santa Cruz da Baixa Verde 12650
+Quixaba 6805
+Carnaiba 19609
+Itaiba 26308
+Tupanatinga 27551
+Manari 21776
+Inaja 23645
+Ibimirim 29412
+Parnamirim 22106
+Carnaubeira da Penha 13025
+Ribeirao 47616
+Gameleira 31318
+Ingazeira 4543
+Afogados da Ingazeira 37404
+Solidao 6021
+Tabira 28704
+Ibirajuba 7768
+Jurema 15431
+Lajedo 40589
+Joao Alfredo 33328
+Sao Jose do Egito 34056
+Brejinho 7488
+Itapetim 13553
+Timbauba 52802
+Jatauba 17228
+Pocao 11305
+
+Ipojuca 97669
+
+Cabo de Santo Agostinho 208944
+
+Vitoria de Santo Antao 139583
+Gloria do Goita 30751
+Paudalho 56933
+
+Serra Talhada 86915
+Triunfo 15243
+Flores 22618
+Custodia 37375
+Iguaracy 12247
+
+Caruaru 365278
+Cumaru 10192
+Surubim 65647
+Riacho das Almas 20646
+Bezerros 60880
+Santa Terezinha 11865
+Sertania 36050
+Betania 12765
+Afranio 19810
+Belem do Sao Francisco 20730
+Belem de Maria 12122
+Cha de Alegria 13556
+Fernando de Noronha 3101
+Saloa 15862
+Calumbi 5747
+Calcado 11018
+Escada 69292
+Caetes 28904
+Capoeiras 20048
+Macaparana 25472
+
+Abreu e Lima 100346
+Buique 58919
+Bom Conselho 48767
+Pombos 27148
+Itambe 36471
+Catende 43340
 Cedro 11891
-Verdejante 9553
-Tuparetama 8256

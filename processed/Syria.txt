@@ -1,100 +1,100 @@
 
 
 Aleppo 1602264
-'Afrin 48693
-Salqin 31608
-Nubl 25546
-As Safirah 63708
-As Sanamayn 25702
-Buq'ata 6528
-Tall Rif'at 25658
-Tallkalakh 29754
-Masyaf 32262
-Ar Rastan 53152
-Tayyibat al Imam 29259
-Darayya 71596
-Qarah 20656
-Harasta 37348
-Qatana 18511
-Az Zabadani 29549
-Dayr al 'Asafir 6209
-'Ayn al 'Arab 50000
-Kafr Saghir 3130
-Kafr Zayta 21845
-Kafr Takharim 22436
-Kafr Laha 21819
-Kaff al-Jaa 3500
-Jablah 65915
-Ad Duraykish 11918
-Ad Darbasiyah 21481
-Baniyas 39066
-Tremseh 6927
-
-Damascus 1569394
-Al Kiswah 23526
-At Tall 55561
-'Irbin 42474
-Manbij 99497
-Kafranbel 45652
-Suran 30716
-Khan Shaykhun 48975
-Ash Shaykh Miskin 25920
-Salakhid 12842
-Inkhil 29076
-Al Harak 23784
-Shahba 14784
-Izra' 13882
-Ma'arratmisrin 32163
-Ma'lula 5000
-Jarabulus 24997
-I'zaz 66138
-Tadif 34670
-Tadmur 51015
-Al Ghantu 9412
-Subaykhan 25514
-Ath Thawrah 87880
 
 Al Bab 130745
-Dayr Hafir 28905
-
-Homs 775404
-As Salamiyah 94887
-Tallbisah 38491
-Al Qusayr 41062
-Safita 27815
-Tartus 89457
-
-Hamah 460602
-Murak 14307
-Halfaya 23403
-Al Qutayfah 16118
-An Nabk 49372
-Duma 111864
-
-Latakia 340181
-Jisr ash Shughur 39311
+Tadif 34670
+Tall Rif'at 25658
+'Afrin 48693
+Kafr Takharim 22436
+Salqin 31608
 Saraqib 34231
 
-Ar Raqqah 177636
-
-Deir ez-Zor 242565
-Al Hasakah 81539
-Hajin 29237
-Al Mayadin 54534
-Albu Kamal 57572
-
-Qamishli 184231
-Binnish 30354
-Ad Dana 21987
-
 Idlib 128840
-Dar'a 97969
-As-Suwayda 59052
-Tafas 31249
-Busra ash Sham 1000
+Binnish 30354
+Ma'arratmisrin 32163
+Ma'lula 5000
+Al Qutayfah 16118
+Al Qusayr 41062
+
+Homs 775404
+Tremseh 6927
+Halfaya 23403
+Al Mayadin 54534
+Subaykhan 25514
+Khan Shaykhun 48975
+Murak 14307
+Suran 30716
+Kafranbel 45652
+Kafr Zayta 21845
+Kafr Laha 21819
+Al Ghantu 9412
+Tallbisah 38491
+At Tall 55561
+Harasta 37348
+Darayya 71596
+
+Damascus 1569394
+
+Hamah 460602
+Tayyibat al Imam 29259
+Al Qaryatayn 31748
+Qarah 20656
+An Nabk 49372
 Yabrud 40502
 Jayrud 32352
+Dayr Hafir 28905
+As Safirah 63708
+Kafr Saghir 3130
+Nubl 25546
+Jablah 65915
+Baniyas 39066
+Ad Darbasiyah 21481
+Ad Dana 21987
+Ad Duraykish 11918
+Safita 27815
+Tallkalakh 29754
+Salakhid 12842
+Inkhil 29076
+Ash Shaykh Miskin 25920
+Busra ash Sham 1000
+Shahba 14784
+As-Suwayda 59052
+Al Kiswah 23526
+Qatana 18511
+
+Latakia 340181
+Buq'ata 6528
 Al Qunaytirah 36143
 Jasim 30283
-Al Qaryatayn 31748
+As Sanamayn 25702
+As Salamiyah 94887
 Mukharram al Fawqani 9112
+Al Harak 23784
+Izra' 13882
+Tafas 31249
+Dar'a 97969
+'Ayn al 'Arab 50000
+Jarabulus 24997
+Manbij 99497
+'Irbin 42474
+Duma 111864
+Masyaf 32262
+Kaff al-Jaa 3500
+Dayr al 'Asafir 6209
+Al Hasakah 81539
+
+Qamishli 184231
+
+Deir ez-Zor 242565
+Hajin 29237
+Albu Kamal 57572
+
+Ar Raqqah 177636
+Ath Thawrah 87880
+Tartus 89457
+Ar Rastan 53152
+I'zaz 66138
+Az Zabadani 29549
+Tadmur 51015
+Jisr ash Shughur 39311

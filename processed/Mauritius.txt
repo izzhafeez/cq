@@ -1,37 +1,37 @@
 
 
 Port-Louis 146737
-Port Mathurin 8300
-Surinam 10570
-Tamarin 4312
-
-Beau-Bassin/Rose-Hill 103740
-Rose Belle 12244
-Souillac 4437
-Mahebourg 15441
-Bambous 17574
-Pamplemousses 9657
-Baie du Tombeau 15261
-Riviere du Rempart 11005
-Bel Air Riviere Seche 18041
-Long Mountain 7270
-Plaine Magnien 10626
-Plaine des Papayes 7904
-Goodlands 21054
-Grand Baie 12162
-Grand Gaube 7703
-Lalmatie 10643
-Triolet 24298
 Le Hochet 15621
 Chemin Grenier 12299
+Plaine Magnien 10626
+Rose Belle 12244
 
-Vacoas/Phoenix 105933
-Moka 9323
+Beau-Bassin/Rose-Hill 103740
 Quatre-Bornes 77205
 Centre de Flacq 16178
+Riviere du Rempart 11005
 Poudre d'Or 2372
+Goodlands 21054
+Grand Gaube 7703
 Petit Raffray 9406
+Lalmatie 10643
+Port Mathurin 8300
+Bel Air Riviere Seche 18041
+Mahebourg 15441
+Bambous 17574
+Tamarin 4312
+Surinam 10570
+Souillac 4437
+
+Vacoas/Phoenix 105933
 
 Curepipe 78513
 St. Pierre 16649
+Moka 9323
+Pamplemousses 9657
+Long Mountain 7270
 Terre Rouge 11181
+Baie du Tombeau 15261
+Grand Baie 12162
+Triolet 24298
+Plaine des Papayes 7904

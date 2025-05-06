@@ -2,448 +2,448 @@
 
 Jakarta 8540121
 
-Yogyakarta 636660
-Trucuk 23584
-Curup 46245
-Pasuruan 158600
-Mojokerto 112557
-
-Surabaya 2374658
-Prigen 24164
-Diwek 41719
-Buduran 48152
-Lamongan 59224
-Jombang 126465
-Gombong 31965
-Balapulang 28483
-Karangsembung 75856
-Cikarang 106479
-Karangampel 31234
-Dukuhturi 98074
-
-Cirebon 254298
-Adiwerna 134188
-Astanajapura 148047
-Amlapura 31869
-Martapura 131449
-Pamekasan 92447
-Bangil 120000
-Gili Trawangan 1500
-Lawang 159380
-Singkawang 101838
-Singkil 46800
-Singosari 57793
-Singaraja 133784
-Sokaraja 66482
-Wonopringgo 38429
-Margasari 27814
-Sidareja 30313
-Sidoarjo 139189
-Pugeran Maguwoharjo 600
-Bambanglipuro 44713
-Klaten 126831
-Ternate 101731
-Biak 4537
-Katabu 42750
-Tabanan 33667
-Sinabang 15000
-Barabai 60192
-Rantepao 40438
-Rantauprapat 103009
-Perbaungan 157174
-Purbalingga 56903
-Pemalang 184149
-Bangkalan 62178
-Tuban 76242
-Bantul 58653
-Tulungagung 65262
-Klungkung 27836
-
-Bengkulu 309712
-Kuala Tungkal 33683
-Tual 39502
-Bitung 225134
-Mamuju 15000
-Sijunjung 27786
-Tanjungtiram 25118
-Sape 5000
-Langsa 54465
-Reuleuet 40393
-Citeureup 110155
-Pameungpeuk 48294
-Meulaboh 35062
-Labuan 33576
-
-Bogor 800000
-
-Tangerang 1372124
-Batang 115537
-Blora 51811
-Gorontalo 144195
-Sengkang 59523
-Luwuk 47778
-Teluknaga 128275
-Rangkasbitung 126910
-
-Depok 1198129
-Ende 77205
-Maros 30000
-Ruteng 34569
-
-Mataram 318674
-Tomok Bolon 10000
-Colomadu 26274
-Salatiga 172645
-Jogonalan 28114
+Surakarta 555308
 Kartasura 88927
-Candi Prambanan 44925
-Muntilan 44859
-Sewon 73585
-Wongsorejo 29193
-Parapat 10000
-Amlapura city 31869
-Jayapura 134895
-Kendari 195006
-
-Samarinda 355160
-Pariaman 92183
-Pamanukan 114290
-Plumbon 167105
-Rajapolah 39840
-Baturaja 134759
-Wanaraja 26240
-Padalarang 124946
-Cileungsir 202190
-Bireun 25793
-Berastagi 44765
-Sumber 93420
-Sumbawa Besar 52654
-Jimbaran 1785
-Labuan Lombok 10000
-Labuan Bajo 188724
-Pekan Bahapal 40000
-
-Pekalongan 257945
-Mlonggo 33542
-Tongging 16000
-Caringin 91845
-
-Bekasi 1520119
-Pasarkemis 154234
-Ciampea 207212
-
-Sukabumi 276414
-Prabumulih 103470
-Pamulang 174557
-Sepatan 118439
-Cibinong 188663
-Cikupa 174041
-Cikampek 145620
-Sawangan 114069
-Curug 191406
-Cicurug 88965
-Ciputat 207858
-Balaipungut 56452
-Ngunut 26297
-Gunung Kendil 1273
-Melati 67090
 Karanganom 50670
-Selogiri 30180
-Kediri 235143
-Seririt 25000
-Kuta 30012
-Legian 10000
-Krian 38603
-Kalianget 23897
-Klangenan 88378
-Majenang 38897
-Pemenang 1000
-Bukittinggi 98746
-Lubuklinggau 148243
-
-Bandar Lampung 800348
-Pagar Alam 70386
-
-Cilegon 434896
-Cileunyi 111476
-
-Tasikmalaya 271143
-Palimanan 92600
-
-Manado 451893
-Manggar 34520
 Ungaran 127812
-Gatak 48959
-
-Batam 1164352
-Batu 75631
-Tanggulangin 32866
-Ketanggungan 44288
-Tanjungagung 53117
-Sungai Penuh 95913
-Sunggal 157914
-Pototano 5000
-Tondano 33317
-Pandak 56043
-Bandar 31442
-Kabanjahe 57159
-Sabang 24519
-Babat 27038
-Tulangan Utara 63889
-Gresik 73629
-Pandaan 34184
-Tanjung Pandan 62374
-Tanjung Pinang 192493
-Tanjungbalai 142506
-
-Medan 1750971
-
-Padang 840352
-Padangbai 1000
-Sungailiat 74719
-Kotabumi 42366
-
-Palembang 1441500
-Rembangan 44030
-Lembar 10000
-Lembang 183130
-Jatiwangi 57973
-Jatiroto 50059
-Kebonarun 21745
-Kebomas 75982
-Gebog 43756
-Ambarawa 84379
-Wonosobo 92990
-Godean 63164
-Komodo 2000
-Banjar Wangsian 2353
-Pematangsiantar 209614
-Labuhan Deli 49668
-Tuktuk Sonak 5000
-Galesong 83050
-Dompu 49000
-
-Denpasar 834881
-Paseh 126181
-Ciamis 123637
-Sumedang 200000
-Sumenep 84656
-Majene 37715
-Kepanjen 51919
-Kedungwaru 80257
-
-Bandung 1699719
-Randudongkal 28532
-Pangkalan Brandan 25542
-Palangkaraya 148139
-Polewali 58190
-Boyolali 59851
-Jaten 32378
-Genteng 79652
-Banjar 89040
-Banyuwangi 108166
-Juwana 40177
-Sragen 71522
-Srandakan 29529
-Tarakan 97478
-Palopo 129273
-
-Balikpapan 433866
-Sampit 66053
-Gamping Lor 66110
-Kebon Gunung 2174
-Pundong 24081
-Munduk 6200
-Muncar 64537
-Muntok 26709
-Terbanggi Besar 52566
-Lahat 65906
-Pangkalpinang 125933
-Pangkalanbuun 38057
-Sungai Raya 47735
-Praya 35183
-Nusa Dua 2500
-Kudus 92156
-Ubud 28373
-Tobelo 10000
-Bedugul 20000
-Tanggul 3
-Delanggu 24440
-Magelang 111461
-
-Malang 746716
-Mojoagung 23534
-Gedangan 79230
-Soko 25494
-Solok 48372
-Sibolga 79714
-Boyolangu 32287
-Gongdanglegi Kulon 22468
-Jekulo 37521
 
 Semarang 1288084
-Lasem 28948
-Ngawi 22412
-Arjawinangun 105845
-Slawi 61206
-Purwokerto 217222
-Purwodadi 150206
-Madiun 186099
-Grogol 100613
-Wedi 55300
-Kasihan 86234
-
-Banjarmasin 572837
-Sampang 53269
-Simpang 36652
-
-Kupang 282396
-
-Makassar 1321717
-Ambarita 2000
-Gili Air 1800
-
-South Tangerang 1303569
-Serang 164767
-Parung 193898
-Tarub 75739
-Kedungwuni 117249
-Kuningan 72085
-Kawalu 50541
-Soreang 150932
-Sorong 125535
-Ngoro 22871
-Blitar 132416
-Kertosono 60782
-Driyorejo 26827
-Gampengrejo 49118
-Ponorogo 79026
-Baki 58909
-Kijang 41344
-Payakumbuh 121572
-Villa Permata Hijau 1000
-Bejubang Dua 7957
-Naisano Dua 2345
-Kisaran 129911
-Buaran 38770
-Atambua 35793
-Watampone 81629
-
-Palu 282431
-Balung 47631
-Lumajang 123626
-Sumberpucung 35285
-
-Jember 298585
-Negara 33191
-Tegal 237084
-Baturaden 42394
-Wiradesa 39407
-Gambiran Satu 22525
-Besuki 55465
-Singojuruh 29418
-Panarukan 30749
-Srono 36260
-Insrom 3452
-Tomohon 27624
-Bontang 101691
-
-Ambon 355596
-Poso 47110
-Sinjai 40797
-Bima 66970
-Maumere 47598
-Mertoyudan 69871
-Kutoarjo 31352
-Sleman 56215
-Pemangkat 34029
-Pancur Biru Lestari II 1000
-Stabat 26862
-Tebingtinggi 117530
-Teluk Nibung 25146
-Deli Tua 27940
-Belawan 102707
-Binjai 228763
-Banjaran 164952
-Majalengka 87732
-Jatibarang 73010
-Bulakamba 27367
-Kamal 22515
-Comal 51092
-Weleri 58448
-Weru 139004
-Indramayu 123263
-Tayu 26413
-Cepu 55055
-Abepura 62248
-Sofifi 36197
-Soe 27717
-Waingapu 48828
-Singaparna 48882
-
-Cimahi 493698
-Amahai 47653
+Demak 27251
+Welahan 26163
+Lahat 65906
 Mendaha 56268
+Pemenang 1000
+Tanjung Pinang 192493
+Tanjung Pandan 62374
+Manggar 34520
+Sunggal 157914
 
-Pekanbaru 703956
-Padangsidempuan 100561
-Dumai 143760
-Lhokseumawe 88974
-Banyumas 48378
-Lebaksiu 33606
-Kraksaan 28248
-Panji 42789
-Probolinggo 181656
-Kencong 43046
-Margahayukencana 83119
-Purwakarta 215803
-
-Surakarta 555308
-Ceper 28646
-
-Percut 311063
-
-City of Balikpapan 700000
-Parepare 140000
-Pare 56699
-Nganjuk 69011
-Trenggalek 29083
+Medan 1750971
+Sumedang 200000
+Cileunyi 111476
+Pameungpeuk 48294
+Bireun 25793
+Reuleuet 40393
+Meulaboh 35062
+Sigli 17504
+Bambanglipuro 44713
+Srandakan 29529
+Pandak 56043
+Bantul 58653
+Tuban 76242
 
 Situbondo 600000
 Bondowoso 69783
+Balung 47631
+Panarukan 30749
+Panji 42789
+Kepanjen 51919
+Pakisaji 30213
+Kisaran 129911
+Tanjungbalai 142506
+Teluk Nibung 25146
+Tuktuk Sonak 5000
+Sape 5000
+Pekan Bahapal 40000
+Pematangsiantar 209614
+
+Mataram 318674
+Praya 35183
+Palangkaraya 148139
+Pangkalanbuun 38057
+Manismata 18888
+Batang 115537
+Mlonggo 33542
+
+Pekalongan 257945
+Randudongkal 28532
+Lebaksiu 33606
+Baki 58909
+Gatak 48959
+Delanggu 24440
+Tanggul 3
+Kencong 43046
+Margahayukencana 83119
+Margasari 27814
+Balapulang 28483
+Pemalang 184149
+Comal 51092
+Wiradesa 39407
+Baturaden 42394
+Purwokerto 217222
+Purbalingga 56903
+Lubuklinggau 148243
+Curup 46245
+Curug 191406
+Parung 193898
+Kebonarun 21745
+Jogonalan 28114
+
+Malang 746716
+Bangkalan 62178
+Kamal 22515
+Gresik 73629
+Kresek 110182
+Serang 164767
+
+Tangerang 1372124
+
+South Tangerang 1303569
+Ciputat 207858
+Sepatan 118439
+Teluknaga 128275
+Pagar Alam 70386
+
+Bandar Lampung 800348
+Metro 149526
+Trucuk 23584
+Sumberpucung 35285
+Sumber 93420
+Plumbon 167105
+
+Cirebon 254298
+Weru 139004
+Adiwerna 134188
+Diwek 41719
+Kediri 235143
+Kedungwaru 80257
+Tulungagung 65262
+Ngunut 26297
+Boyolangu 32287
+Boyolali 59851
+Ngemplak 23750
+Klangenan 88378
+Palimanan 92600
+Bima 66970
+
+Cimahi 493698
+Ciranjang-hilir 77758
+Banjaran 164952
+Banjar 89040
+Banjar Wangsian 2353
+Klungkung 27836
+Ubud 28373
+Buduran 48152
+
+Surabaya 2374658
+Barabai 60192
+Sinabang 15000
+Mamuju 15000
+Pamulang 174557
+Tanggulangin 32866
+Bangil 120000
+Pasuruan 158600
+Pandaan 34184
+Prigen 24164
+Genteng 79652
+Gambiran Satu 22525
+Batu 75631
+Singosari 57793
+Singojuruh 29418
+Srono 36260
+Muncar 64537
+Munduk 6200
+
+Bandung 1699719
+Bandar 31442
+Rantauprapat 103009
+Parapat 10000
+Labuan Lombok 10000
+Tomok Bolon 10000
+Tomohon 27624
+Tondano 33317
+Kendari 195006
+Katabu 42750
+Watampone 81629
+Sengkang 59523
+Parepare 140000
+Rantepao 40438
+Palopo 129273
+Polewali 58190
+Majene 37715
+Majenang 38897
+Sidareja 30313
+Pare 56699
+Ngoro 22871
+Gorontalo 144195
+Bontang 101691
+Amuntai 55560
+Muntok 26709
+Pangkalpinang 125933
+Sungailiat 74719
+Sungai Raya 47735
+Singkawang 101838
+Pemangkat 34029
 
 Pontianak 455173
-Manismata 18888
-Amuntai 55560
+Muntilan 44859
+Melati 67090
+Klaten 126831
+Jaten 32378
+Grogol 100613
+Ponorogo 79026
+Madiun 186099
+Ngawi 22412
+Nganjuk 69011
+Kertosono 60782
+Mojokerto 112557
+Mojoagung 23534
+Jombang 126465
+Lembang 183130
+
+Palembang 1441500
+Prabumulih 103470
+Kotabumi 42366
+Labuan 33576
+Pandeglang 92316
+Ende 77205
+Maumere 47598
+Ruteng 34569
+Labuan Bajo 188724
+Ambarita 2000
+Ambarawa 84379
+Gunung Kendil 1273
+Kebon Gunung 2174
+Kutoarjo 31352
+Sidoarjo 139189
+Gedangan 79230
+Tulangan Utara 63889
+Krian 38603
+Driyorejo 26827
+Wongsorejo 29193
+Banyuwangi 108166
+Banyumas 48378
+Sokaraja 66482
+Wanaraja 26240
+Rajapolah 39840
+
+Tasikmalaya 271143
+Kawalu 50541
+Singaparna 48882
+Kuningan 72085
+Karangsembung 75856
+Astanajapura 148047
+Jayapura 134895
+Abepura 62248
+Cepu 55055
+Blora 51811
+Jekulo 37521
+Kudus 92156
+Baekrajan 57920
+Gebog 43756
+
+Bogor 800000
+Ciampea 207212
+Ciamis 123637
+Pasarkemis 154234
+
+Denpasar 834881
+Kuta 30012
+Jimbaran 1785
+Nusa Dua 2500
+Naisano Dua 2345
+Soe 27717
+Poso 47110
+Wonosobo 92990
+Wonopringgo 38429
+Probolinggo 181656
+Kraksaan 28248
+Tarakan 97478
+
+Samarinda 355160
 Loa Janan 212816
+Tabanan 33667
+Stabat 26862
+Berastagi 44765
+Kabanjahe 57159
+Binjai 228763
+Tebingtinggi 117530
+Tongging 16000
+Senggigi 5000
+Bukittinggi 98746
+Payakumbuh 121572
+Sijunjung 27786
+Solok 48372
+
+Padang 840352
+Padangsidempuan 100561
+Sibolga 79714
+Pototano 5000
+Jatiroto 50059
+Pati 122785
+Juwana 40177
+Rembangan 44030
+Lasem 28948
+Paseh 126181
+
+Banda Aceh 250757
+Pangkalan Brandan 25542
+Tanjungtiram 25118
+Tanjungagung 53117
+Baturaja 134759
+Singaraja 133784
+Negara 33191
+Tegal 237084
+Dukuhturi 98074
+Tarub 75739
+Slawi 61206
+Lawang 159380
+Belawan 102707
+Labuhan Deli 49668
+Deli Tua 27940
+Tual 39502
+Atambua 35793
+
+Batam 1164352
+Villa Permata Hijau 1000
+Kijang 41344
+Lumajang 123626
+Majalengka 87732
+Jatiwangi 57973
+Jatibarang 73010
+Karangampel 31234
+Indramayu 123263
+Pamanukan 114290
+Cikampek 145620
+Cikarang 106479
+
+Bekasi 1520119
+Kasihan 86234
+Gamping Lor 66110
+Sampit 66053
+Dampit 23094
+Gongdanglegi Kulon 22468
+Legian 10000
+
+Cilegon 434896
+Cileungsir 202190
+Citeureup 110155
+Cibinong 188663
+
+Depok 1198129
+Sawangan 114069
+Gili Trawangan 1500
+Gili Air 1800
+Amlapura 31869
+Amlapura city 31869
+Bedugul 20000
+Kedungwuni 117249
+Buaran 38770
+Padalarang 124946
+Padangbai 1000
+Pancur Biru Lestari II 1000
+Cicurug 88965
+Caringin 91845
+
+Sukabumi 276414
+Pelabuhanratu 43001
+Magelang 111461
+Mertoyudan 69871
+Sleman 56215
+Pugeran Maguwoharjo 600
+
+Yogyakarta 636660
+Purwakarta 215803
+Martapura 131449
+
+Banjarmasin 572837
 Kualakapuas 35632
+Kuala Tungkal 33683
+Simpang 36652
+Sampang 53269
+Pamekasan 92447
+Sumenep 84656
+Kalianget 23897
+Besuki 55465
+Sumbawa Besar 52654
+Terbanggi Besar 52566
+Perbaungan 157174
+
+Percut 311063
+Ceper 28646
+Wedi 55300
+Candi Prambanan 44925
+Godean 63164
+Soreang 150932
+Sorong 125535
+Manokwari 53190
+Insrom 3452
+Biak 4537
+Nabire 43898
+Bitung 225134
+Rangkasbitung 126910
+Cikupa 174041
+
+Kupang 282396
+Kefamenanu 29490
+Waingapu 48828
+Komodo 2000
+Dompu 49000
+Pundong 24081
+Sewon 73585
+Serpong 80193
+Seririt 25000
+Lovina 10000
+Tobelo 10000
+Selogiri 30180
+Weleri 58448
+Mranggen 28026
+Sragen 71522
+Colomadu 26274
+Kebomas 75982
+Lamongan 59224
+Babat 27038
+Bojonegoro 86568
+Paciran 27072
+Soko 25494
+Galesong 83050
+Trenggalek 29083
+Gampengrejo 49118
+Rengasdengklok 201463
+
+Bengkulu 309712
+Sungai Penuh 95913
+Bejubang Dua 7957
 
 Jambi City 420323
 
-Banda Aceh 250757
-Sigli 17504
-Rengasdengklok 201463
-Serpong 80193
-Metro 149526
-Pandeglang 92316
-Kresek 110182
-Baekrajan 57920
-Mranggen 28026
-Pati 122785
-Demak 27251
-Pecangaan 61046
-Welahan 26163
-Bojonegoro 86568
-Paciran 27072
-Ciranjang-hilir 77758
-Manokwari 53190
-Nabire 43898
-Pelabuhanratu 43001
+Ambon 355596
+Gombong 31965
 Wangon 35530
 Kroya 23255
-Pakisaji 30213
-Dampit 23094
-Kefamenanu 29490
-Ngemplak 23750
-Lovina 10000
-Senggigi 5000
+Maros 30000
+
+Makassar 1321717
+Sinjai 40797
+Singkil 46800
+
+Pekanbaru 703956
+Balaipungut 56452
+Dumai 143760
+Lhokseumawe 88974
+Langsa 54465
+Sabang 24519
+
+City of Balikpapan 700000
+
+Balikpapan 433866
+
+Palu 282431
+Luwuk 47778
+
+Manado 451893
+Ternate 101731
+Sofifi 36197
+Amahai 47653
+Pariaman 92183
+
+Jember 298585
+Lembar 10000
+Bulakamba 27367
+Ketanggungan 44288
+Salatiga 172645
+Purwodadi 150206
+Pecangaan 61046
+Tayu 26413
+Blitar 132416
+Arjawinangun 105845

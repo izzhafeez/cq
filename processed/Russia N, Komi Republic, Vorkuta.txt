@@ -1,46 +1,46 @@
 
 
 Syktyvkar 235006
-Meskashor 54
-Kochmes 46
-Usa 6
-Elets 7
-Petrun' 439
-Rogovaya 69
-Sosnogorsk 27757
+Vuktyl 12356
 Nizhniy Odes 9680
-Troitsko-Pechorsk 7276
-Usogorsk 5343
-Yarega 7806
+Vodnyy 6382
+Severnyy 9023
 Zapolyarnyy 1948
-Abez' 478
+Komsomol'skiy 1047
+Sivomaskinskiy 525
+Eletskiy 631
+Elets 7
+Seyda 23
+Khanovey 4
+Petrun' 439
+Mikun' 10730
+Emva 14570
+Rogovaya 69
+Yarpiyag 87
+Yarega 7806
 
 Ukhta 99591
-Verkhnyaya Inta 1106
-Severnyy 9023
-Vodnyy 6382
-Emva 14570
-
-Vorkuta 70548
-Inta 32080
-Vorgashor 12044
-Komsomol'skiy 1047
-Eletskiy 631
-Sivomaskinskiy 525
-
-Usinsk 40827
-Vuktyl 12356
-Kostyuk 3
-Yus'tydor 388
-Epa 32
-Yarpiyag 87
-Seyda 23
-Toshpi 3
-Fion 1
+Sosnogorsk 27757
+Troitsko-Pechorsk 7276
 
 Pechora 43105
-Mikun' 10730
-Ust'-Kulom 5141
-Vizinga 6810
+
+Usinsk 40827
+Usa 6
+Usogorsk 5343
+
+Vorkuta 70548
+Vorgashor 12044
+Meskashor 54
+Kochmes 46
+Epa 32
+Yus'tydor 388
+Kostyuk 3
+Toshpi 3
+Fion 1
+Abez' 478
+Inta 32080
+Verkhnyaya Inta 1106
 Zheshart 8561
-Khanovey 4
+Vizinga 6810
+Ust'-Kulom 5141
